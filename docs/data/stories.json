@@ -1,381 +1,9 @@
 {
-  "generated_at": "2026-03-16T16:09:01.846883",
+  "generated_at": "2026-03-16T16:17:11.187338",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Actualidad diversa: agricultura, música y patrimonio",
-      "category": "Otro",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Ignacio García-Vidal: un director con más de 20 años de vínculo con Uruguay",
-          "url": "https://www.teledoce.com/programas/desayunos-informales/segunda-manana/ignacio-garcia-vidal-un-director-con-mas-de-20-anos-de-vinculo-con-uruguay/",
-          "description": "En el estudio recibimos al maestro español que inició la temporada 2026 al frente de la sinfónica del Sodre. La entrada Ignacio García-Vidal: un director con más de 20 años de vínculo con Uruguay se publicó primero en Teledoce.com .",
-          "pub_date": "2026-03-16T14:47:47+00:00",
-          "score": 2,
-          "score_reason": "Enfoque descriptivo neutral, resalta trayectoria sin adjetivaciones valorativas.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "De catedrales a pequeñas capillas: un libro invita a redescubrir los templos de Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQWxKM3lxWlFKbk9tODEyRzZmU0hCRUlxWUFybkFSSVlTRmtabG45TXZQVlBSbE5CR2RpTmltS1FCckxRa0NyT1l1WHpBR29XRTBxRm9wbHE3R1JfOUhjUFBYYzU2MkNiTXJlZ3JWdU5RUnZDQ21JWkFsckRPajc3QWR4OWdLX21NU2xTSW9XaS1ET0o3dHF4VWttY1haQUtzbUpxNjM5N1dFbmJiTndhWG1URm1SQ3l0cmZYbklmRUtlOUU?oc=5",
-          "description": "De catedrales a pequeñas capillas: un libro invita a redescubrir los templos de Uruguay &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-03-15T14:57:00+00:00",
-          "score": 2,
-          "score_reason": "Titular informativo, invita a redescubrir sin carga emocional particular.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "El difícil ajedrez de la próxima siembra para los productores en Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT0Zhem9aejNGd0QySmM1bGczZk1QQVdWN1k2dVI3SER0Y1R2ZmZvOVFqNkNOVmo1Y01WMjJfWERrMFNPRWJZX0FJRGVIYnJrcUhIeGVabnZzQUNCbnZUU25WX0ZscTlJWDhURW55ak45RW5hS0pTMm9ZcGhFS19UbmlJU1pWR2dlcF9STG4tTTQ4eVE1WkFjUlNZd1hHRGVialhMd095OVM2RDg?oc=5",
-          "description": "El difícil ajedrez de la próxima siembra para los productores en Uruguay &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-03-15T08:00:00+00:00",
-          "score": 4,
-          "score_reason": "Lenguaje metafórico (ajedrez) que enfatiza complejidad y dificultad.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Durante el período analizado, se registraron tres noticias de relevancia en Uruguay: desafíos para los productores agrícolas en la próxima temporada de siembra, la llegada del director de orquesta español Ignacio García-Vidal a la dirección de la Sinfónica del Sodre para la temporada 2026, y el lanzamiento de una publicación que propone una mirada renovada sobre los templos religiosos del país, desde grandes catedrales hasta capillas pequeñas.",
-        "coincidencias": [
-          "Los tres medios cubren noticias de interés cultural y social del país",
-          "Todos presentan información sobre actores o iniciativas dentro de Uruguay",
-          "Ninguno adopta un tono alarmista o sensacionalista en su presentación"
-        ],
-        "diferencias": [
-          "El Observador enfatiza problemas y dificultades; Teledoce y Búsqueda destacan logros o iniciativas positivas",
-          "El Observador utiliza lenguaje figurado; los otros dos mantienen tono más directo e informativo",
-          "El Observador orienta hacia preocupación económica; los otros dos hacia celebración cultural"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Captura de Sebastián Marset en operativo policial",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Preservativos en celda y espionaje narco: el giro que ayudó a ubicar a Sebastián Marset",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNnZQUWlBZG5qRU5mT0pyNFprdUVGRVpMWWFnSllodnpJVXVOYjhodDJaVTI2XzliSnZHT0dxQmlscG5BcHE1XzFmVTFXcHBmQ0pzVzh6cU9RTUhQcmRhLVA1S1VpeE9EN3JQZkt4T0NSZ3RzV3g3U2pGT0VkQmlPbGY2SnkyV2x4eHRBc2IxaE0zc0h2czl4SW5xdzBDYWJCNFNBUDdXMzBKbm5ZRno5OEM1b1FseF9jQnRiXzg5V1VGR2lLeDJpdlRLVl9ITG_SAfMBQVVfeXFMTXhWTlR2eklxNUZ3Tmc5MDJfb1h5Z0YwTk1DaU9keVRDS3lQRG81TGc0aGtEWFdEdWM5eUh2dkZVMGhZVlJTNVFzNVQ1LXFMZjQwamE5bEcwSkxMekV5S0xjSXdsNGpHZGdXd2l1bXBidXR2TlQySk03WHNXVXBCUGFhLUYxdEhFZHdZNDdHdDlaR3JOYjBaNEYtY21QLWdLa2x6bmNaTS1iR21SOW1IcUp1bDc5S0p2Q3NBVmM1SmMwRmJjVlhrczBES2UyX1hqTGtnZlNDQ2xGakFRUWl6d0VCSHpQaWpMaWxPckJZNDNNMzFB?oc=5",
-          "description": "Preservativos en celda y espionaje narco: el giro que ayudó a ubicar a Sebastián Marset &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-15T23:52:00+00:00",
-          "score": 3,
-          "score_reason": "Enfatiza detalles operativos relevantes sin carga emocional excesiva.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "VIDEO: la sonrisa de la hermana de Sebastián Marset durante la presentación de detenidos",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVJBajYzSXhXaXUteXBhcVM5bkxZRGlXRVJuVnh0QTFudkc5UzdCWnNtekZfT0xjeDQzQWRWd3pTQlQtQy0zcTQ2ZHJtVkZUZW9VZ1c0SGVRbk1MQm9GTDNQajNOT1MxeXhoQl9XQmRxb25kYmlTV3hwcjd1cmRwNWxOdXJmZElvbmdrb0ZUZUF6QXJzblExWUtfdmFjY1dCeFdKOVJ0TzRwS1RxQmI4cDVQV2hGNVl4dEhlZNIBwgFBVV95cUxPa0cwNkFWWHcycVA0eGlEWVVXcDNUQmFSMUstbFhCLXcyRnlvVVVfYUdoRGVvMWJ3dGxRSXdSVy1iLWwzSllzYktRMEM5TTZIUl9ua3pocndkckpIRUVXeE9UaTRuQUNVQnJHamtvQVduN3JSejVaMG1zZlF2cmJ0UVJHbWRJZ2MzbnUwTkQyamFQU2pwa3NqeWxwT3hvdEh5bmV1VTItYl9rbTFUUHZHWHhnazJURXZzSFNMZnIyUlh3UQ?oc=5",
-          "description": "VIDEO: la sonrisa de la hermana de Sebastián Marset durante la presentación de detenidos &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-03-14T22:19:00+00:00",
-          "score": 7,
-          "score_reason": "Destaca comportamiento personal irrelevante, carga emocional innecesaria.",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "Sebastián Marset fue detenido tras una operación policial que incluyó vigilancia de comunicaciones y actividades sospechosas. Durante la presentación de detenidos ante la justicia, se registraron distintos comportamientos de los presentes. La investigación utilizó métodos de inteligencia para localizar al sospechoso, incluyendo monitoreo de actividades en celdas y seguimiento de redes delictivas.",
-        "coincidencias": [
-          "Sebastián Marset fue ubicado y detenido en una operación policial.",
-          "La investigación utilizó métodos de inteligencia y vigilancia para hallarlo.",
-          "Se llevó a cabo una presentación judicial de los detenidos."
-        ],
-        "diferencias": [
-          "El Observador prioriza aspectos emocionales/comportamentales de familiares; Montevideo Portal destaca detalles tácticos de la investigación.",
-          "El Observador busca generar impacto visual/emocional; Montevideo Portal informa sobre metodología policial.",
-          "El Observador fragmenta la noticia en aspectos secundarios; Montevideo Portal mantiene foco en hechos operativos centrales."
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Declaraciones de García y Vairo sobre instituciones bancarias",
-      "category": "Política",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Álvaro García a los directores de la Expoactiva: \"Cuenten con el Banco República\"",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkFoX01fWGJMSV9PbzBRSTQwWjdlT3Jsd25NWGphQjFYQWpjR0F0SDBZSkItVjlvTGpJdG90N0NSMzZackZJZTJmSmMxTHljdkctYndiZEUzeklheFhNc2RLRjNZeWluNTJzZGNyd3ZfSU02bFVPREpEV0JoNFJDOHZpaXlRcTdLWEFHR0VjbkFkZXZTV1U2SEhWVkpmWjZoRER1YWJhcnhCVHdGQkFNME9ucEdkZ9IBuwFBVV95cUxOTFpJMkhTUDM0bnZna2tXY21ER0pmTlRjNlNpdE9LNHlqcnpyMkpXNjJXS2R0MGNQRkhsa2JPZkxPdjA1NzYwZ3RzN1N3YmN6YVpfN0xhbjRzaW5IdWc4aGk0Y19XWi0yWlhlZHZJbUVJWHRMRUI0dlFuZDJLYlZPYTFzSnR0b3RBSEs0RnJGMEV6TTh2Z3NxbkZZUDZEUHU4ZHN0RWd5cy1ua0p4dWQzYm9SLXZmdU90VEQw?oc=5",
-          "description": "Álvaro García a los directores de la Expoactiva: \"Cuenten con el Banco República\" &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-03-14T18:58:00+00:00",
-          "score": 2,
-          "score_reason": "Titular informativo directo sin carga emocional relevante.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Víctima” y “si hay algo que no funciona, no es en Nacional”: Vairo cargó contra Ruglio",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUFJsenhZNnU5SXRjMWJ3N09NdjZFeHFoeU9WWHNNdkFEcEFTZ1hYVEQyTTFXeGRxaWhsMktyQkktR085TUN4VXNYVS1CUEpqZ2ZtZTVqb3RSQmlfVER2bkt3LXBfQlBNV3gwZnNoX1hnb1RPbzFJcEhCZ0NHRkhkei11RlJxbG1VVW9hcWItOEZDdXNNb2ppTlZ2ZGhJbzBnb0xZbXFpOFFYZHFoOG92OVBJcDJxNjJ1YzM4UVc2UDgzanNQQkNocExKb9IB7wFBVV95cUxNamc1SWl2X0luMXlVcWVnaXR4V180VUQ4MTlRUVRJQzZwa3NwN01rYWRJRzhmVE1pcWs3MVg4TWxudUxEcDdfZE9HcHdzRGpzdEItajY0YmFoUHJGMmNJZFZIcWhpV18wRWZIc01TT1VDSGdFY3RzanZLeHYxMW5zdk5sOTNqQmFMc2VlSVZ0TjRzajNpZXZwTXQ0X0hRT2FmWlFvQk10MVRmSWdObDNRV2tETF9Xakk5endCcWRJV1FCTm96c2xSMVJRZW42c2RsMTFHNEZDMUlxdjJJYkFieFhsNXRxOGlBb0p3VnU0RQ?oc=5",
-          "description": "“Víctima” y “si hay algo que no funciona, no es en Nacional”: Vairo cargó contra Ruglio &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-15T17:46:00+00:00",
-          "score": 7,
-          "score_reason": "Uso de entrecomillado sarcástico y lenguaje cargado genera sesgo.",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "El Banco República y el Banco Nacional fueron mencionados en declaraciones de funcionarios. Álvaro García expresó apoyo del Banco República hacia la Expoactiva. Simultáneamente, Vairo realizó críticas hacia Ruglio, funcionario del Banco Nacional, cuestionando su gestión. Las declaraciones reflejan posicionamientos sobre el desempeño de ambas instituciones financieras públicas en contextos distintos.",
-        "coincidencias": [
-          "Se trata de declaraciones sobre instituciones bancarias públicas uruguayas",
-          "Involucra posicionamientos de funcionarios sobre desempeño institucional",
-          "Ambas noticias ocurren en contexto de gestión administrativa"
-        ],
-        "diferencias": [
-          "El Observador destaca apoyo/respaldo; Portal enfatiza crítica y conflicto",
-          "El Observador usa tono constructivo; Portal usa ironía y carga negativa",
-          "Portal polariza con entrecomillados cuestionadores; Observador informa directamente"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Médica Uruguaya absorberá a Cudam",
-      "category": "Salud",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "La Médica Uruguaya inició el proceso para absorber a la mutualista Cudam",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHNGOC1MNUh3VkNtLTNEMWNGbXZWd3pTS2RoM3FwRW52VnYwX1BTVVRCQ1NaQ25ZZjBpRHhoNGVVS25OV3ZaZHNsWHpnNUpscHJHMUpPN1ZzUjdSV21FLXNjWTlHblNpMkRIdnYzaGtfWGdmbXo2UDVmVUpMVkpJcWhQY28xelpENmhxVnVHMWxJN3Z1NDBlVXlPOTllWk5lN09OUHV0eVBlUm14OXRwUDRDTFQ?oc=5",
-          "description": "La Médica Uruguaya inició el proceso para absorber a la mutualista Cudam &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-03-14T18:17:00+00:00",
-          "score": 1,
-          "score_reason": "Relata únicamente el hecho sin énfasis en causas o consecuencias.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Medica Uruguaya inició proceso para absorber a Cudam: prestadora de salud tiene \"déficit operativo\"",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX2dMTUlkS2NrT1F0WlYwYzh1TFRYNzRpazcxUFB3bmFXYmNsblRKTDRBZGhBb0J1S2YxZ0doOVNtc1dEVVJBOXFyN2h6V2ZRTmVXM281NlZFTDJSYXFTVlRUNUFheGQxYXJKemJjRjJ1LUlsbVpuR1lkWURMS3Rva2tzdjAwYjg3NkZUSXJUdldWcVp6Y1VmTGVJSnJFRmxCY0JnbXNrOGlXbTNyTFNpV2JEb0pONWZZQi1MZ1kxeDhlRnpvODNFc2s3MHhDeG54TEHSAdcBQVVfeXFMTUg0U2xWcEJWN2tjdGZNLVFkMmVIY1BVQnhTQVVNaTVWaDRWRmNiZkZlYUViUERqVW5MOFVIUS1wbVlhd0prM0NOQlM0OEZFV1RLUjVKRjlMQjhEczJSMUd5SHI1RktGektyNDJxM1FWRlFJSTdpWW9FUWpKZllsVUtSUmx1Q1UxdU1QOFIwVEotQzhRWGtEM0Rfeld3ZHFsS0RIS1pyY1BjbDJvcDZhQXAzdFNkdnV5bUsxVmN5eXdXQTY3UEFUZHc0U09ZMzlTLWdtY1JBN0k?oc=5",
-          "description": "Medica Uruguaya inició proceso para absorber a Cudam: prestadora de salud tiene \"déficit operativo\" &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-03-14T19:32:00+00:00",
-          "score": 4,
-          "score_reason": "Incluye entre comillas la causa, enfatizando el problema financiero.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Médica Uruguaya inició un proceso de absorción de Cudam, una mutualista de salud. La operación responde a que Cudam presenta déficit operativo. Se trata de una integración entre dos prestadoras de servicios de salud del sistema mutualistamédico uruguayo, donde la primera asume los activos y pasivos de la segunda.",
-        "coincidencias": [
-          "Médica Uruguaya está absorbiendo a Cudam",
-          "Se trata de dos mutualistas del sistema de salud uruguayo",
-          "El proceso ya ha sido iniciado por la institución absorbente"
-        ],
-        "diferencias": [
-          "El Observador destaca el déficit operativo como causa; Búsqueda lo omite",
-          "El Observador enfatiza la situación financiera crítica de Cudam",
-          "Búsqueda presenta la noticia de forma más neutral y factual"
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "Discusión entre jugadores en Peñarol",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Algo que Decir: Fernando Montero, Fito Galli, Jorge Nasser, Jimena Siri",
-          "url": "https://www.teledoce.com/programas/algo-que-decir/algo-que-decir-fernando-montero-fito-galli-jorge-nasser-jimena-siri/",
-          "description": "La entrada Algo que Decir: Fernando Montero, Fito Galli, Jorge Nasser, Jimena Siri se publicó primero en Teledoce.com .",
-          "pub_date": "2026-03-16T15:13:58+00:00",
-          "score": 2,
-          "score_reason": "Meramente informativo; solo lista participantes sin carga emocional.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "¿Fuerte discusión entre dos jugadores en Peñarol?: la explicación de Marcelo Solomita",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTm9TamliVzU5eTVseVU1QWZ3X0hOZmVCMnNncEw0OUZkeXVmVkI2WmZtZWZhZTNwQ3JKRzB2UTdZcnJUWUItdWg0aDdMRGd3WGJrLVc4S0lkaGM5NlM2ZjVsVldnR1Z1clI0dXVWR25xM2dhd3RjWDBXMTliWTVKN0t5ZVp6VlJHNDQxS2pwb1RoTGxUb1gwa0lHdUI3eVVlTzFST0VCYmR4OGdHT203aUJLUzBwTEF0MHdXMWRTd3RpVUJkTG0ybnc0OELSAfABQVVfeXFMUFhxTWl6OU1TbFAwcXItR0c3M0dLdUZtM1NKc1pqUnNZaUpKdGFhV2Jwa2Rpd1JYTXNmMmJjb202aGJwbE0xdm9XVFJ5YWpDQjFmZmpHejlGTTBRX3M0bm9IbldFeUR1Nzk3WUFLUC1BS19YaHFQU1VJaU1QOXpHckhzYW9xelluWVlVaTZWMmtqV09IVjUzUjZZZ19LbTh3WWZJWVdkMFBkbWk2ZTNxOTdUeWRqRDFFblVDOGFUa1htS0lyYXVMdTIyX1pOalBESUhZeFpWMjVjUU84U0RJQUlEbWhtWkhjQ2JHZ2Frc0Na?oc=5",
-          "description": "¿Fuerte discusión entre dos jugadores en Peñarol?: la explicación de Marcelo Solomita &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-14T23:23:00+00:00",
-          "score": 3,
-          "score_reason": "Plantea como pregunta; uso de 'fuerte' añade énfasis dramático.",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Se registró una discusión entre dos jugadores de Peñarol durante una actividad del club. Marcelo Solomita, integrante de la directiva, brindó explicaciones sobre el incidente. El hecho generó repercusión mediática, aunque los detalles específicos de la discusión no se especifican en los titulares analizados. La situación fue abordada por diferentes plataformas informativas y programas de análisis deportivo.",
-        "coincidencias": [
-          "Ocurrió un incidente entre jugadores de Peñarol",
-          "Fue necesaria una explicación o aclaración pública",
-          "El hecho tuvo relevancia mediática suficiente para cobertura"
-        ],
-        "diferencias": [
-          "Montevideo Portal dramatiza con 'fuerte discusión' mientras Teledoce es neutral",
-          "Montevideo Portal enfatiza la explicación de Solomita; Teledoce solo lista panelistas",
-          "Estilos opuestos: pregunta sensacionalista vs. programa informativo estándar"
-        ]
-      }
-    },
-    {
-      "id": "story_006",
-      "topic": "Peñarol vence a Albion y lidera Apertura",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Apertura: ¿qué dijeron los jugadores de Peñarol tras el triunfo 1-0 ante Albion?",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeF9GaFJnOUZlY2dYRlYwWEdYSHdhYjhURld2RURjQWhuV25EMG13Q2RJVndHUnRteGZzaDNRaVgtWUtfNjdyUmgta2xGY19HUlZJdnZxRE5zUEVwcmxjWmJtZWVmTzVWT2hrY0lrbE9Welo5MUlNUXRSYzFaYi1ua3BCLW9SemQzVEtKMlVFSkdyWHRYcjRndXlSM1JxZDdGcElGQ1YxbGVkWjJhZEtIWVdaaWhrdEdaTXMxSk9aRkVfaGdqT0HSAeoBQVVfeXFMTmxOc3J0TnJqRWZzbF9VTGd6U0U0cWFyYlJSZVVTT3hyN2QzNW5pdzdTNkNRb3pQR1dxWXhOOXRnZVBEak02WUtOTlFyX1RmVy02UFloc0JMMTZvdC1udmJ0MWdva3ZHOEMwZ1Y4RlZhOWp1R1A5TFU4YWluLXlMRHlvOW1OU0RPYlpLWm4tZE1vTldhbGJMVmV2aFBTdlFLQzR0ay1mZ3dERFE2dktQVThWMml0eWhlQ3ctaG8tVkdCd0VtOGxKNzJ3TkxkWnZfbVhocUhPQTdQQndZMjE1VkJCQjNpaG9nN3F3?oc=5",
-          "description": "Apertura: ¿qué dijeron los jugadores de Peñarol tras el triunfo 1-0 ante Albion? &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-15T12:40:00+00:00",
-          "score": 1,
-          "score_reason": "Formato interrogativo neutral, busca declaraciones sin énfasis.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Con gol de su capitán, Peñarol derrotó a Albion y es líder del Torneo Apertura junto a Racing",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPamNVYkhYSDlrRVpGR3lpMXRaOWJxZDBQNnZyTENfVzFjcWh2QjIzT252bzBaQk5DWUhPRjRPUW5XdEN0TFVzejF0OVZtaElWYkZLUXhGMGxYYWtIMm83TEZHVzNPN3dOQXFISE0zV0UwQmxvQjZ0Qlk4cS1vRTVFU0tmcUhnSFhNYURuUXFYaUpyTEtsX2l2elV0dnN4MW56anBiVUFySlFydVg2NUd0MjhJLXVwY1JPLTZScUFWMy3SAcYBQVVfeXFMTi1HSTFrVjJ0M2VNeWpsZDN5Q1Ayc0lrLW9TaEpIcmx3QTl1Vi1KaVRabzQxSXBZOGh2RGVpbXB0SUJmbDBoYWRjTy1xNWtwRVZPc1F3akRYRERlQ3F4LXFDOVBIZFJWenNSUEtWODFPT1RnNmliTzV3UjNJVEFZbHMwdms2ZDBZbDU4M1dXTHFLYWpGTjVpSnd2VFpiUW1jQ0dZWEZ2YVF4M3hicFRfVjZvM3FLMTVKOVBiWm15U0swV3RpMlpB?oc=5",
-          "description": "Con gol de su capitán, Peñarol derrotó a Albion y es líder del Torneo Apertura junto a Racing &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-15T12:55:00+00:00",
-          "score": 3,
-          "score_reason": "Destaca rol del capitán; leve énfasis emocional en la victoria.",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Peñarol derrotó a Albion 1-0 en partido del Torneo Apertura. El gol fue convertido por el capitán de Peñarol. Con esta victoria, el equipo carbonero comparte la primera posición de la tabla de posiciones junto a Racing. El resultado permite a Peñarol mantenerse entre los principales contendientes del torneo.",
-        "coincidencias": [
-          "Peñarol ganó 1-0 a Albion en el Torneo Apertura",
-          "El gol fue marcado por el capitán de Peñarol",
-          "Peñarol ocupa posición de liderato en la tabla"
-        ],
-        "diferencias": [
-          "Subrayado enfatiza la figura del capitán; Portal consulta opiniones jugadores",
-          "Subrayado especifica posición compartida con Racing; Portal no lo menciona",
-          "Subrayado usa lenguaje más narrativo; Portal adopta formato interrogativo"
-        ]
-      }
-    },
-    {
-      "id": "story_007",
-      "topic": "DEA anuncia cargos contra Sebastián Marset",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "La DEA anunció oficialmente que Sebastián Marset enfrentará cargos en Estados Unidos",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcXJzRmx4VGlhdzBIVUJ1UkRKVk9DSXJpZ2RRS2E1b25GN3NfbUZyUU1MeGI0d01ra3JNcndnRS1TUU5yalJtdGViUUtpZDBINzUtRzRWaXhFOEdZYTJhV2QxM0tHYmtYMWx6ckl4amlZbU5Va01DUVFidU04bk1ac18tc05IUF9hUnlCSENXbnhyd2JOWHVWVWl2aWpLQ1RXMzhEaEdNWmUwMkFrUy1nbEJTbjdVdHpBcVp3MzhlSzg1dkdEMDBxVGp3?oc=5",
-          "description": "La DEA anunció oficialmente que Sebastián Marset enfrentará cargos en Estados Unidos &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-03-14T21:36:00+00:00",
-          "score": 2,
-          "score_reason": "Informa el hecho central sin carga valorativa ni lenguaje cargado.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "DEA emitió declaración y aseguró que Marset es el “Pablo Escobar de la era moderna”",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTmtEbGN5TVk0WDBpYlZjZFlfS0ZsN1F1aGQxaDVlSzJDaVVpQ2p2YUdHR0xNWndpNWRDQnRnRHQzNXVWNzIwc2p1T1ZFWW5fUGw2ZjNPak4tcTR3VXVMUzNpa0NRUnB1eHotNThwY2NtaWVTcUpXQUtiU2hQR3B2TVRSZGdmWU9MeldYM1R3OVZVMlBKUE1ZYU1uSVVYWWpoc2JkbGRpYnRyN2M0Q1RxZnJJdVJKdDBYOGtCd1hIbTllaWRKUHlHTUhR0gHuAUFVX3lxTE0zX3NDYVJuSVBuUFFfd3c4X1ZxTGo1Vk10TFI4bjg4TGRVVVNSR0x5bG50bXhsMDBvcFlBMV9hME5FSGpNYzlXTDByblJqdnBqYlJseHFhRmJadkZTME50RnpiM1VRZUtubHgzR05Uaml6X2dqSWx6c3JMRUFZM3ExUF9uRUlxellvQjMyNHVVMFB2TFpCaWVwY0tRVXhUOW14T1hvUDEwMExVY3E5TGFKWDZNT0RXSTdhTHRjUEMzc3ZyYnoyTzcxZ1d3UjRCTG1tWkstMjRhZ1J2ZXlja0RkMHhXNzJ6QVNlV1NHeUE?oc=5",
-          "description": "DEA emitió declaración y aseguró que Marset es el “Pablo Escobar de la era moderna” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-14T23:45:00+00:00",
-          "score": 7,
-          "score_reason": "Destaca comparación sensacionalista con Escobar, genera impacto emocional.",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "La DEA emitió una declaración oficial anunciando que Sebastián Marset, presunto narcotraficante uruguayo, enfrentará cargos en Estados Unidos. La agencia estadounidense realizó una caracterización del imputado en su comunicado. Ambos medios cubren el mismo hecho, pero con distintos énfasis en los detalles de la declaración de la DEA.",
-        "coincidencias": [
-          "La DEA emitió una declaración oficial sobre Marset",
-          "Marset enfrentará cargos en Estados Unidos",
-          "Se trata de un anuncio formal de la agencia antidrogas estadounidense"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza la caracterización comparativa de la DEA; Búsqueda enfatiza los cargos oficiales",
-          "Montevideo Portal usa lenguaje sensacionalista; Búsqueda mantiene tono informativo objetivo",
-          "Montevideo Portal busca impacto emocional; Búsqueda prioriza datos concretos del comunicado"
-        ]
-      }
-    },
-    {
-      "id": "story_008",
-      "topic": "Ataque a sede comunista en Cuba por crisis",
+      "topic": "Ataque a sede del PCU en contexto cubano",
       "category": "Internacional",
       "sources_count": 2,
       "headlines": [
@@ -390,9 +18,9 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVzllTnh3dDFzSDhxX0ZYTXZHdUJnRjBSaHJ2U0UzbWUyWFBMOHVIbjZKMGtpU2pGMjNuLU5JcE84a3hrXzM0c0Z1Z0I5MFdCaVg4R2hVYkkyQzRueHNodG1CTnpBMlJJLURtTlJLVDlGZ2ZfQ09oR19xdWswdkVzd3dOLUxDcGFXal9XT0VaclNkSkxQSVVQd1daMXZKWDVXdmNJTkR1MGhnS3ZhdGp0QUVQOVNJdlhwY1BZSVNabm3SAcYBQVVfeXFMTURScWRPbURfcWM3aTA2M0l4dUZ1d09OYTQzQTFrbDVDdnIyNEpReHQ2RGk4ZFc5UEpsbkVRUjQtMHVwMHB3SzBtWHhuVHNoT1lqX2NZSnNreFhJZUpHcXVaelYta1gwNDVaaW94NmZQS0ZmQTdETkFVS05Tc3llMllWUVNkeERITF8xQWZmY0gzR2I0ampzSnEyTzBiOXpUb0lmYUtmSXlGTzY4WnhBV2pXVi05NVNUMDk5SGRQb2pGN1JsNlZR?oc=5",
           "description": "PCU convoca a concretar avances en seguridad social y a redoblar solidaridad con Cuba &nbsp;&nbsp; Caras y Caretas",
           "pub_date": "2026-03-16T00:05:00+00:00",
-          "score": 4,
-          "score_reason": "Enfoque en respuesta institucional; omite el ataque, ligeramente partidario.",
-          "score_pct": 40
+          "score": 3,
+          "score_reason": "Informativo, enfatiza respuesta institucional sin dramatizar el hecho.",
+          "score_pct": 30
         },
         {
           "source_id": "subrayado",
@@ -406,27 +34,27 @@
           "description": "Apagones y escasez detonan ataque a una sede del Partido Comunista en Cuba &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-03-15T17:35:00+00:00",
           "score": 6,
-          "score_reason": "Enfatiza causas (apagones/escasez) y acción violenta; tono sensacionalista.",
+          "score_reason": "Destaca causas (apagones/escasez) como detonantes, tono alarmista.",
           "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Un grupo atacó una sede del Partido Comunista de Cuba en medio de una crisis de apagones y escasez de recursos. El Partido Comunista Uruguayo (PCU) respondió convocando a fortalecer la solidaridad internacional con Cuba y avanzar en políticas de seguridad social. El incidente refleja tensiones sociales en la isla caribeña relacionadas con la situación económica.",
+        "resumen": "Se produjo un ataque a una sede del Partido Comunista de Uruguay en relación a la situación en Cuba. El incidente ocurre en un contexto de crisis energética y escasez en la isla. El PCU respondió convocando a fortalecer la solidaridad internacional y avanzar en políticas de seguridad social. Los detalles específicos del ataque no se especifican en los titulares disponibles.",
         "coincidencias": [
-          "Ambos reconocen una crisis de apagones y escasez en Cuba",
-          "Ambos mencionan al Partido Comunista Uruguayo en relación al evento",
-          "Ambos tratan la noticia como un acontecimiento relevante de política internacional"
+          "Hubo un ataque contra una sede del Partido Comunista de Uruguay",
+          "El contexto está vinculado a la situación en Cuba",
+          "El PCU emitió una respuesta o posicionamiento ante los hechos"
         ],
         "diferencias": [
-          "Subrayado prioriza el conflicto/violencia; Caras y Caretas prioriza la respuesta solidaria",
-          "Subrayado contextualiza con causas económicas; Caras y Caretas enfatiza demandas políticas internas",
-          "Subrayado usa lenguaje más descriptivo del hecho; Caras y Caretas es más propositivo"
+          "Subrayado enfatiza causas socioeconómicas cubanas; Caras y Caretas omite esa conexión",
+          "Subrayado usa lenguaje de 'detonante' (carga emocional); Caras y Caretas es más neutral",
+          "Subrayado prioriza el evento violento; Caras y Caretas prioriza la convocatoria política"
         ]
       }
     },
     {
-      "id": "story_009",
-      "topic": "Ceremonia de los Premios Oscar 2026",
+      "id": "story_002",
+      "topic": "Ceremonia de los Premios Óscar 2026",
       "category": "Cultura",
       "sources_count": 2,
       "headlines": [
@@ -442,7 +70,7 @@
           "description": "Premios Oscar 2026: los mejores looks de la alfombra roja más esperada &nbsp;&nbsp; BÚSQUEDA",
           "pub_date": "2026-03-15T23:21:00+00:00",
           "score": 2,
-          "score_reason": "Enfoque neutro en moda, sin carga emocional ni parcialidad.",
+          "score_reason": "Enfoque neutral en aspectos visuales; puramente informativo y accesible.",
           "score_pct": 20
         },
         {
@@ -456,28 +84,28 @@
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUjBkWk5yQ2pza3VxU2RPUWRNbkk5Y3llRmlQaFlPdGpiNUVuc3hQVWFUNlNGaHVHZEVzMGJvaGVIWHRfV1d2WWhnTDFtWjZOWGNPLXNzdEVycEhyWGFfLTVNOEVzWVZxOWZ3NEJPVFFUZy0tYXlKbmJoYmNKalNFYmROR3RhY3NzUl9MWVlXNC1UbzJXUnlDOEtObnJLSmtjbHdwOTlPWkxRbENuU25QSWNELVZjeDZXSHlHSEdvRk82TTNhNkp3Uko4X0RiMFlmb1U4ekZlaEF3NEtFYV9kVkJ30gHnAUFVX3lxTE4yd3c3S2VxeHBmT21DcXpCVFhzZ3dFMVlXTE9uakJPOUNKUlRid2NtMFNGZWgyNnRtVWRIYS00OHE1SjZpREhIRFRWc3hzU2RPS2pqYzktR2o0bUlrUXBLd3FHRktvaWh6eWhzdHdROERSa0RSQ0xxOWxEOFdtbzNORVpiRDdrbUF1aDZIWFRwd25WR3RaeEJVVGJiYW1GYW9wWnZFaXNUdTdndEFhcnJ5Sllhc1NOdVBuUTBxZmpDZkNsZGc4SlQ1Ujd2dmcwdjlnYzVpRF9VWnFfb21jaHlsSnB3ejF3NA?oc=5",
           "description": "Los cinco momentos más destacados de los Óscar 2026: desde mensajes políticos a los homenajes In Memoriam y bromas pesadas &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-03-16T10:36:00+00:00",
-          "score": 4,
-          "score_reason": "Énfasis en aspectos controvertidos: política, humor excesivo.",
-          "score_pct": 40
+          "score": 3,
+          "score_reason": "Énfasis en lo controversial; politiza la cobertura sin necesidad evidente.",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Se llevó a cabo la ceremonia de los Premios Oscar 2026, que contó con diversos momentos destacados incluyendo mensajes políticos, homenajes a personas fallecidas y momentos humorísticos. Paralelamente, la cobertura también enfatizó los aspectos de moda y estilo de la alfombra roja del evento. La ceremonia generó expectativa y fue ampliamente seguida por medios de comunicación.",
+        "resumen": "Se realizó la ceremonia de los Premios Óscar 2026. Subrayado destacó los momentos más relevantes del evento, incluyendo mensajes políticos, homenajes a fallecidos y momentos de humor. Búsqueda enfatizó los aspectos visuales y de moda, cubriendo los mejores atuendos lucidos en la alfombra roja. Ambos medios cubrieron el acontecimiento desde perspectivas distintas pero complementarias sobre este evento internacional de la industria cinematográfica.",
         "coincidencias": [
-          "Ambos medios cubrieron la ceremonia de los Premios Oscar 2026",
-          "Reconocen la importancia y la expectativa generada por el evento",
-          "Presentan la alfombra roja como elemento central de la cobertura"
+          "Ambos medios cubrieron la ceremonia de los Óscar 2026.",
+          "Ambos enfatizaron elementos específicos del evento como diferenciador noticioso.",
+          "Ambos utilizaron lenguaje accesible para describir el acontecimiento."
         ],
         "diferencias": [
-          "Subrayado enfatiza momentos polémicos y controversiales; Búsqueda se enfoca en aspectos estéticos",
-          "Subrayado incluye bromas pesadas como elemento destacable; Búsqueda prioriza looks y moda",
-          "Subrayado tiene tono más crítico y analítico; Búsqueda presenta cobertura de entretenimiento puro"
+          "Subrayado priorizó contenido político y dramático; Búsqueda priorizó moda y estética.",
+          "Subrayado incluyó bromas pesadas como elemento newsworthy; Búsqueda ignoró ese aspecto.",
+          "Subrayado construyó narrativa de momentos polémicos; Búsqueda construyó narrativa de entretenimiento visual."
         ]
       }
     },
     {
-      "id": "story_010",
-      "topic": "Irán intensifica hostilidades en conflicto regional",
+      "id": "story_003",
+      "topic": "Irán intensifica operaciones militares y represión interna",
       "category": "Internacional",
       "sources_count": 2,
       "headlines": [
@@ -492,9 +120,9 @@
           "url": "https://www.teledoce.com/telemundo/internacionales/iran-advirtio-que-esta-preparado-para-continuar-con-la-guerra-y-llevarla-tan-lejos-como-sea-necesario/",
           "description": "Irán sigue lanzando ataques contra bases militare estadounidenses en los países vecinos del Golfo, pero también contra infraestructuras civiles como aeropuertos, puertos e instalaciones petroleras. La entrada Irán advirtió que está preparado para continuar con la guerra y llevarla &quot;tan lejos como sea necesario&quot; se publicó primero en Teledoce.com .",
           "pub_date": "2026-03-16T14:44:45+00:00",
-          "score": 5,
-          "score_reason": "Cita declaración beligerante; enfatiza disposición de continuar guerra.",
-          "score_pct": 50
+          "score": 4,
+          "score_reason": "Cita directa de advertencia iraní, tono informativo con leve dramatismo.",
+          "score_pct": 40
         },
         {
           "source_id": "busqueda",
@@ -508,21 +136,21 @@
           "description": "La represión iraní se intensifica a medida que avanza la guerra &nbsp;&nbsp; BÚSQUEDA",
           "pub_date": "2026-03-16T11:58:00+00:00",
           "score": 6,
-          "score_reason": "Foco en represión interna; lenguaje alarmista con 'intensifica'.",
+          "score_reason": "Usa 'represión se intensifica', conecta represión interna con guerra, alarmista.",
           "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Irán ha escalado sus operaciones militares contra objetivos estadounidenses en países del Golfo Pérsico, expandiendo los ataques hacia infraestructuras civiles como aeropuertos, puertos e instalaciones petroleras. Las autoridades iraníes han manifestado su disposición para continuar el conflicto según sea necesario. Simultáneamente, se reporta una intensificación de medidas represivas internas mientras el conflicto avanza.",
+        "resumen": "Irán ha escalado sus acciones militares contra objetivos estadounidenses en países del Golfo Pérsico, atacando tanto instalaciones militares como infraestructuras civiles como aeropuertos, puertos e instalaciones petroleras. Simultáneamente, el gobierno iraní ha intensificado medidas represivas internas. Las autoridades iraníes han manifestado su disposición a continuar y expandir estas operaciones según sea necesario.",
         "coincidencias": [
-          "Irán está escalando sus acciones militares en la región",
-          "El conflicto se está intensificando progresivamente",
-          "Hay impacto en infraestructuras y población civil"
+          "Irán está escalando sus acciones militares y políticas",
+          "Hay una intensificación de conflictividad en la región",
+          "Los hechos ocurren en el contexto de la guerra"
         ],
         "diferencias": [
-          "Teledoce enfatiza declaraciones de continuidad bélica; Búsqueda se centra en represión interna",
-          "Teledoce detalla ataques a bases y civiles; Búsqueda subraya dimensión represiva",
-          "Teledoce es más descriptivo del potencial bélico; Búsqueda es más crítico del régimen"
+          "Teledoce enfatiza la postura ofensiva iraní contra objetivos externos",
+          "Búsqueda enfatiza la represión interna iraní como eje principal",
+          "Teledoce describe ataques específicos; Búsqueda vincula represión interna al conflicto"
         ]
       }
     }
