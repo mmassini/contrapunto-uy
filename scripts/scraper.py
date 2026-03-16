@@ -15,7 +15,7 @@ import feedparser
 import requests
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 
-from config import SOURCES, LOOKBACK_HOURS
+from config import SOURCES, TOPIC_FEEDS, LOOKBACK_HOURS
 
 logger = logging.getLogger(__name__)
 
@@ -135,13 +135,94 @@ def fetch_feed(source_id: str, source: dict) -> List[Dict]:
     return articles
 
 
+def _source_for_url(url: str) -> Optional[dict]:
+    """Find the matching source config for an article URL."""
+    for source_id, source in SOURCES.items():
+        domain = source["url"].replace("https://www.", "").replace("https://", "").rstrip("/")
+        if domain in url:
+            return source_id, source
+    return None, None
+
+
+def fetch_topic_feeds() -> List[Dict]:
+    """
+    Fetch Google News topic feeds for Uruguay and match articles to known sources.
+    This supplements per-source feeds with articles found via topic search,
+    ensuring popular stories covered by many outlets are all captured.
+    """
+    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=LOOKBACK_HOURS)
+    seen_urls: set = set()
+    articles: List[Dict] = []
+
+    for feed_url in TOPIC_FEEDS:
+        raw = _fetch_raw(feed_url)
+        if raw is None:
+            continue
+        feed = feedparser.parse(raw)
+        for entry in feed.entries:
+            url = entry.get("link", "")
+            if not url or url in seen_urls:
+                continue
+            source_id, source = _source_for_url(url)
+            if source is None:
+                continue  # article from unknown outlet, skip
+            seen_urls.add(url)
+            title = _strip_gn_suffix(_strip_html(entry.get("title", "")).strip())
+            if not title:
+                continue
+            description = ""
+            for attr in ("summary", "description"):
+                val = getattr(entry, attr, None)
+                if isinstance(val, list) and val:
+                    val = val[0].get("value", "")
+                if val:
+                    description = _strip_html(str(val))[:500]
+                    break
+            pub_date = _parse_date(entry)
+            if pub_date and pub_date < cutoff:
+                continue
+            articles.append({
+                "source_id": source_id,
+                "source_name": source["name"],
+                "source_short": source["short"],
+                "source_color": source["color"],
+                "source_text_color": source["text_color"],
+                "source_url": source["url"],
+                "title": title,
+                "url": url,
+                "description": description,
+                "pub_date": pub_date.isoformat() if pub_date else None,
+            })
+        time.sleep(0.3)
+
+    logger.info(f"Topic feeds: {len(articles)} additional articles from known sources")
+    return articles
+
+
 def fetch_all() -> List[Dict]:
     all_articles: List[Dict] = []
+    seen_urls: set = set()
+
     for source_id, source in SOURCES.items():
         logger.info(f"Fetching {source['name']} ...")
         articles = fetch_feed(source_id, source)
         logger.info(f"  → {len(articles)} recent article(s)")
-        all_articles.extend(articles)
+        for a in articles:
+            if a["url"] not in seen_urls:
+                seen_urls.add(a["url"])
+                all_articles.append(a)
         time.sleep(0.5)
+
+    # Supplement with topic feeds (avoids duplicates via URL dedup)
+    logger.info("Fetching topic feeds ...")
+    topic_articles = fetch_topic_feeds()
+    added = 0
+    for a in topic_articles:
+        if a["url"] not in seen_urls:
+            seen_urls.add(a["url"])
+            all_articles.append(a)
+            added += 1
+    logger.info(f"  → {added} new articles from topic feeds")
+
     logger.info(f"Total: {len(all_articles)} articles from {len(SOURCES)} sources")
     return all_articles

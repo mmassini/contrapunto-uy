@@ -11,6 +11,20 @@ Strategy:
 
 _GN = "https://news.google.com/rss/search?q=site:{domain}&hl=es-419&gl=UY&ceid=UY:es-419"
 
+# Google News topic search feeds for Uruguay — bring articles from ALL outlets on a given topic.
+# These complement per-source feeds: if 4 outlets cover the same story, all 4 appear here.
+_GN_UY = "https://news.google.com/rss/search?q={query}+Uruguay&hl=es-419&gl=UY&ceid=UY:es-419"
+
+# Extra topic feeds (not real "sources", fetched separately in scraper)
+TOPIC_FEEDS = [
+    _GN_UY.format(query="pol%C3%ADtica"),       # política
+    _GN_UY.format(query="econom%C3%ADa"),        # economía
+    _GN_UY.format(query="gobierno"),             # gobierno
+    _GN_UY.format(query="seguridad+crimen"),     # seguridad
+    _GN_UY.format(query="salud"),                # salud
+    _GN_UY.format(query="deporte"),              # deporte
+]
+
 SOURCES = {
     "elpais": {
         "name": "El País",
@@ -136,7 +150,7 @@ SOURCES = {
 }
 
 # How many hours back to look for articles
-LOOKBACK_HOURS = 24
+LOOKBACK_HOURS = 36
 
 # Max story groups to analyze with Claude (controls API cost)
 MAX_STORIES_PER_RUN = 20
