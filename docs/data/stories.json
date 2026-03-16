@@ -1,111 +1,9 @@
 {
-  "generated_at": "2026-03-16T15:31:46.298481",
+  "generated_at": "2026-03-16T15:39:31.811809",
   "stories": [
     {
-      "id": "story_001",
-      "topic": "Desafíos agrícolas y dirección musical en Uruguay",
-      "category": "Otro",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Ignacio García-Vidal: un director con más de 20 años de vínculo con Uruguay",
-          "url": "https://www.teledoce.com/programas/desayunos-informales/segunda-manana/ignacio-garcia-vidal-un-director-con-mas-de-20-anos-de-vinculo-con-uruguay/",
-          "description": "En el estudio recibimos al maestro español que inició la temporada 2026 al frente de la sinfónica del Sodre. La entrada Ignacio García-Vidal: un director con más de 20 años de vínculo con Uruguay se publicó primero en Teledoce.com .",
-          "pub_date": "2026-03-16T14:47:47+00:00",
-          "score": 1,
-          "score_reason": "Presenta datos objetivos: nombre, experiencia, cargo y trayectoria.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "El difícil ajedrez de la próxima siembra para los productores en Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT0Zhem9aejNGd0QySmM1bGczZk1QQVdWN1k2dVI3SER0Y1R2ZmZvOVFqNkNOVmo1Y01WMjJfWERrMFNPRWJZX0FJRGVIYnJrcUhIeGVabnZzQUNCbnZUU25WX0ZscTlJWDhURW55ak45RW5hS0pTMm9ZcGhFS19UbmlJU1pWR2dlcF9STG4tTTQ4eVE1WkFjUlNZd1hHRGVialhMd095OVM2RDg?oc=5",
-          "description": "El difícil ajedrez de la próxima siembra para los productores en Uruguay &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-03-15T08:00:00+00:00",
-          "score": 4,
-          "score_reason": "Usa 'difícil ajedrez' como metáfora que enfatiza complejidad.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Se reportan dos noticias distintas: una sobre las dificultades que enfrentarán los productores agrícolas uruguayos en la próxima temporada de siembra, y otra sobre el maestro español Ignacio García-Vidal, quien asume la dirección de la orquesta sinfónica del Sodre para la temporada 2026. García-Vidal cuenta con más de 20 años de relación profesional con Uruguay.",
-        "coincidencias": [
-          "Ambas noticias abordan sectores productivos de importancia en Uruguay",
-          "Se presentan información verificable sin contradiciones directas",
-          "Los titulares responden a hechos contemporáneos relevantes"
-        ],
-        "diferencias": [
-          "El Observador enfatiza dificultades; Teledoce destaca trayectoria positiva",
-          "Un titular adopta lenguaje figurado; el otro es factual",
-          "Enfoques temáticos completamente distintos: agricultura vs. cultura"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Críticas de Vairo a Ruglio sobre Nacional",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Montelongo: \"Pajarito volando\"",
-          "url": "https://www.teledoce.com/programas/desayunos-informales/segunda-manana/montelongo-pajarito-volando/",
-          "description": "Monte sacó su carpeta como periodista deportiva y habló sobre la actualida del \"Halcón\" Valverde en el Real Madrid. La entrada Montelongo: &quot;Pajarito volando&quot; se publicó primero en Teledoce.com .",
-          "pub_date": "2026-03-16T14:18:37+00:00",
-          "score": 2,
-          "score_reason": "Titular neutro, descriptivo, sin carga emocional ni juicio.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Víctima” y “si hay algo que no funciona, no es en Nacional”: Vairo cargó contra Ruglio",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUFJsenhZNnU5SXRjMWJ3N09NdjZFeHFoeU9WWHNNdkFEcEFTZ1hYVEQyTTFXeGRxaWhsMktyQkktR085TUN4VXNYVS1CUEpqZ2ZtZTVqb3RSQmlfVER2bkt3LXBfQlBNV3gwZnNoX1hnb1RPbzFJcEhCZ0NHRkhkei11RlJxbG1VVW9hcWItOEZDdXNNb2ppTlZ2ZGhJbzBnb0xZbXFpOFFYZHFoOG92OVBJcDJxNjJ1YzM4UVc2UDgzanNQQkNocExKb9IB7wFBVV95cUxNamc1SWl2X0luMXlVcWVnaXR4V180VUQ4MTlRUVRJQzZwa3NwN01rYWRJRzhmVE1pcWs3MVg4TWxudUxEcDdfZE9HcHdzRGpzdEItajY0YmFoUHJGMmNJZFZIcWhpV18wRWZIc01TT1VDSGdFY3RzanZLeHYxMW5zdk5sOTNqQmFMc2VlSVZ0TjRzajNpZXZwTXQ0X0hRT2FmWlFvQk10MVRmSWdObDNRV2tETF9Xakk5endCcWRJV1FCTm96c2xSMVJRZW42c2RsMTFHNEZDMUlxdjJJYkFieFhsNXRxOGlBb0p3VnU0RQ?oc=5",
-          "description": "“Víctima” y “si hay algo que no funciona, no es en Nacional”: Vairo cargó contra Ruglio &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-15T17:46:00+00:00",
-          "score": 7,
-          "score_reason": "Usa entrecomillados estratégicos y verbo 'cargó' para dramatizar.",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "El periodista Vairo realizó críticas contra Ruglio, utilizando términos como 'víctima' e insistiendo en que los problemas no están en el club Nacional. Los detalles específicos de la controversia no están completamente claros en los titulares disponibles, aunque parece vinculado a cuestiones administrativas o de gestión del club. Por su parte, Montelongo abordó la actualidad de Valverde en el Real Madrid desde su perspectiva como periodista deportiva.",
-        "coincidencias": [
-          "Ambos cubren temas deportivos nacionales",
-          "Se mencionan figuras del fútbol uruguayo e internacional",
-          "Hay participación de periodistas analizando la actualidad deportiva"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza el conflicto y las críticas entre personalidades",
-          "Teledoce se enfoca en análisis técnico de desempeño de jugadores",
-          "Tono de MP es confrontacional, mientras Teledoce es informativo"
-        ]
-      }
-    },
-    {
       "id": "story_003",
-      "topic": "Encuentran máscaras hiperrealistas vinculadas a Marset",
+      "topic": "Máscaras hiperrealistas halladas en propiedades de Marset",
       "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
@@ -120,9 +18,9 @@
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb2FEbmJXaW9SeDl3bXB3ZUt4dWo1elRReTEzNXZ4bkRNQ1dGb0hpNnBIM0t6djJXVHVQbHptRjF6OEZESzk5Rkt5QUg1bXNSSE5MRXRxMW9HVWVfTHN3YWNVZFBDdlBqZ0d5OVJHN0NDeTN1ck1YcmJDdG1oT2ZLRlpkMExFUG1PM0Vadm9icnRzaFRWRVRHUzBWREdhbFFNc1hUMFZ1SFE0d3B2dnJYeDBlNDI5Q20xc1ZOcXN5aklkUHBPSGpodmhRaHVGOU1rZ0HSAfYBQVVfeXFMUGNid095dVJDcjdlWTBKbm5Qa0tzQjRYXzVHM3h4azY1V0V2M0FCdmZSRXBBVUpVakhlZGNiMS1iRUowU01nQ3NUQS1fNkRQVkpXRzg5T2NGM3FtakVDTW1Sb2F5clUtSVdKb2ZPNzlQaXYzVWxUbXp2LXY4VVpSX3pGRnRhRGlieURKZ3pPTDA1eXo1QnR1dXlBYlNORmpQTU42Tm1QUVh1UmNsT0JmN2hTSDRhVkY2LW5QV1p0cGJDZWRVdjlReUVuMENSeTRrbnU3ckp3b2N0bmpfM29VVV9pNVREbEFRM25WNkJqc1lVd25RMUJB?oc=5",
           "description": "Policía boliviana encuentra máscaras hiperrealistas en allanamientos vinculados a Marset &nbsp;&nbsp; Montevideo Portal",
           "pub_date": "2026-03-16T00:10:00+00:00",
-          "score": 1,
-          "score_reason": "Presentación factual sin especulaciones ni énfasis alarmista.",
-          "score_pct": 10
+          "score": 2,
+          "score_reason": "Informativo y directo, sin interpretaciones ni énfasis particulares.",
+          "score_pct": 20
         },
         {
           "source_id": "teledoce",
@@ -135,28 +33,28 @@
           "url": "https://www.teledoce.com/telemundo/internacionales/hallaron-mascaras-hiperrealistas-durante-allanamientos-en-propiedades-vinculadas-a-marset-creen-que-las-usaba-para-no-ser-reconocido/",
           "description": "El hallazgo se dio durante la inspección de diferentes inmuebles vinculados a la red de Marset en Santa Cruz de la Sierra. La entrada Hallaron máscaras hiperrealistas durante allanamientos en propiedades vinculadas a Marset; creen que las usaba para no ser reconocido se publicó primero en Teledoce.com .",
           "pub_date": "2026-03-16T14:03:31+00:00",
-          "score": 3,
-          "score_reason": "Añade especulación sobre uso de máscaras; interpreta intención sin confirmación.",
-          "score_pct": 30
+          "score": 4,
+          "score_reason": "Añade interpretación especulativa sobre el uso; moderado pero con encuadre.",
+          "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "La policía boliviana halló máscaras hiperrealistas durante allanamientos en propiedades de Santa Cruz de la Sierra vinculadas a la red del narcotraficante uruguayo Sebastián Marset. Los investigadores presumen que estas máscaras fueron utilizadas para eludir el reconocimiento facial y la identificación. El descubrimiento se produjo en el marco de operativos contra la organización criminal.",
+        "resumen": "Durante allanamientos en propiedades vinculadas a la red criminal de Sebastián Marset en Santa Cruz de la Sierra, Bolivia, la policía boliviana encontró máscaras hiperrealistas. Según los investigadores, estas máscaras habrían sido utilizadas por Marset para evadir el reconocimiento y dificultar su identificación. El hallazgo se realizó en diferentes inmuebles asociados a la estructura delictiva, aportando evidencia sobre los métodos empleados para eludir la captura.",
         "coincidencias": [
-          "Hallazgo de máscaras hiperrealistas en allanamientos",
-          "Vínculo de los inmuebles con la red de Marset",
-          "Operativos en Santa Cruz de la Sierra"
+          "El hallazgo ocurrió durante allanamientos en propiedades vinculadas a Marset",
+          "Las máscaras encontradas son de tipo hiperrealistas",
+          "Los operativos se realizaron en Bolivia, específicamente en Santa Cruz de la Sierra"
         ],
         "diferencias": [
-          "Teledoce especula sobre el propósito de las máscaras; Portal omite interpretación",
-          "Teledoce enfatiza la creencia investigativa; Portal mantiene distancia informativa",
-          "Tono de Teledoce más narrativo-explicativo; Portal más directo y neutro"
+          "Teledoce especula sobre la intención de uso (no ser reconocido), Montevideo Portal solo informa el hallazgo",
+          "Teledoce enfatiza múltiples inmuebles inspeccionados; Montevideo Portal es más genérico",
+          "El tono de Teledoce es ligeramente más narrativo e interpretativo"
         ]
       }
     },
     {
       "id": "story_004",
-      "topic": "Ceremonia de los Premios Oscar 2026",
+      "topic": "Ceremonia de Premios Oscar 2026",
       "category": "Cultura",
       "sources_count": 2,
       "headlines": [
@@ -171,9 +69,9 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlJDN19kSzczQlktWWFTek8wX20yc2NFSzBZZXZlU1JlVlFaN3JQam5GQlg0T3I1ck1qaFFtWS1DSmRrOXNCbkVvM2lFSXl1NEpKTVc4VWF5N1gyTlZSRUVXR0dCYUxMYXR6XzNqRF9sZVhiWTktSzIweFN4bTZzaUs1dXBqVEVfSnExcVA0a0ptSU9tNXJIN19TeV9OdnF1Tnp6S0hZWTJsRmhSZ0VTV1FHdVE?oc=5",
           "description": "Premios Oscar 2026: los mejores looks de la alfombra roja más esperada &nbsp;&nbsp; BÚSQUEDA",
           "pub_date": "2026-03-15T23:21:00+00:00",
-          "score": 2,
-          "score_reason": "Enfoque neutral en aspecto estético y moda de la alfombra roja.",
-          "score_pct": 20
+          "score": 3,
+          "score_reason": "Enfoque en moda y estética, con ligera carga de expectativa.",
+          "score_pct": 30
         },
         {
           "source_id": "subrayado",
@@ -187,21 +85,21 @@
           "description": "Los cinco momentos más destacados de los Óscar 2026: desde mensajes políticos a los homenajes In Memoriam y bromas pesadas &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-03-16T10:36:00+00:00",
           "score": 5,
-          "score_reason": "Enfatiza aspectos polémicos: mensajes políticos, bromas pesadas.",
+          "score_reason": "Énfasis en aspectos polémicos y entretenimiento sensacionalista.",
           "score_pct": 50
         }
       ],
       "analysis": {
-        "resumen": "Se realizó la ceremonia de entrega de los Premios Oscar 2026. El evento incluyó momentos destacados que abarcaron desde expresiones políticas de los galardonados hasta homenajes a personalidades fallecidas, además de momentos humorísticos. Simultáneamente, la alfombra roja fue escenario de exhibición de diseños de moda de alta gama. La ceremonia contó con la participación de figuras destacadas del cine internacional.",
+        "resumen": "Se llevó a cabo la ceremonia de los Premios Oscar 2026. El evento incluyó momentos destacados como mensajes políticos de los nominados, homenajes a artistas fallecidos y bromas del conductor. También hubo despliegue de moda con los looks de los asistentes en la alfombra roja, que generó expectativa previa. La ceremonia combinó entretenimiento, tributos y política, siendo una de las entregas más esperadas del año.",
         "coincidencias": [
-          "Ambos reconocen que fue un evento de importancia y cobertura mediática significativa",
-          "Los dos medios seleccionaron aspectos visibles y documentables de la ceremonia",
-          "Coinciden en que la alfombra roja y los momentos de la ceremonia merecen cobertura"
+          "Ambos cubren la ceremonia de los Premios Oscar 2026",
+          "Destacan elementos visuales y de entretenimiento del evento",
+          "Reflejan el interés mediático en detalles de la alfombra roja"
         ],
         "diferencias": [
-          "Subrayado enfatiza controversias y mensajes políticos; Búsqueda prioriza la moda y estética",
-          "Subrayado menciona bromas pesadas con término crítico; Búsqueda evita polémicas",
-          "Subrayado destaca aspectos de contenido sustantivo; Búsqueda se enfoca en lo visual y superficial"
+          "Subrayado prioriza momentos polémicos y políticos; Búsqueda se enfoca en moda",
+          "Subrayado incluye crítica implícita a bromas; Búsqueda toma tono admirativo",
+          "Subrayado anticipa controversia; Búsqueda busca celebrar belleza y estilo"
         ]
       }
     }
