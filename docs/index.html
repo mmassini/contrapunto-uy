@@ -1,34 +1,83 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Contrapunto UY — La misma noticia, distintas voces</title>
-<style>
-*{box-sizing:border-box;margin:0;padding:0;}
-body{font-family:Georgia,serif;background:#F5F0E8;min-height:100vh;display:flex;flex-direction:column;}
-header{background:#1A1A2E;color:#F5F0E8;padding:2rem 1.5rem 1.25rem;border-bottom:4px solid #C41E3A;}
-h1{font-size:clamp(2rem,5vw,3.2rem);font-weight:900;letter-spacing:-0.02em;}
-h1 span{color:#C41E3A;}
-.tag{font-family:sans-serif;font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:#AAA8B8;margin-top:.5rem;}
-main{flex:1;display:flex;align-items:center;justify-content:center;padding:3rem 1.5rem;}
-.msg{text-align:center;max-width:480px;}
-.msg h2{font-size:1.4rem;color:#1A1A2E;margin-bottom:.75rem;}
-.msg p{color:#666;line-height:1.6;font-size:.95rem;}
-footer{background:#1A1A2E;color:#666;padding:1.25rem 1.5rem;font-family:sans-serif;font-size:.75rem;border-top:4px solid #C41E3A;}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contrapunto UY — La misma noticia, distintas voces</title>
+  <meta name="description" content="Compará los titulares de los principales medios uruguayos sobre la misma noticia. Análisis objetivo con IA.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://contrapunto.uy/">
+
+  <!-- OpenGraph -->
+  <meta property="og:title" content="Contrapunto UY">
+  <meta property="og:description" content="La misma noticia, distintas voces. Medios uruguayos comparados.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://contrapunto.uy/">
+
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml">
 </head>
 <body>
-<header>
-  <h1>Contra<span>punto</span> UY</h1>
-  <p class="tag">La misma noticia, distintas voces</p>
-</header>
-<main>
-  <div class="msg">
-    <h2>La primera edición llega hoy a las 7am</h2>
-    <p>Estamos preparando el sitio. Volvé pronto para ver las noticias del día comparadas entre todos los medios uruguayos.</p>
+
+<header id="site-header">
+  <div class="header-inner">
+    <div class="header-top">
+      <h1 class="site-title serif">Contra<span>punto</span> UY</h1>
+      <p class="site-tagline">La misma noticia, distintas voces</p>
+    </div>
+    <div class="header-meta sans">
+      <span>Actualizado el 16 de marzo de 2026 a las 10:57</span>
+      <div class="header-stats">
+        <span><strong>0</strong> noticias comparadas</span>
+        <span><strong>0</strong> medios</span>
+      </div>
+    </div>
   </div>
+</header>
+
+<!-- Ad slot: top banner -->
+<div class="ad-slot ad-slot-banner" data-slot="top-banner">
+  PUBLICIDAD
+</div>
+
+<main>
+  <div class="section-rule">
+    <div class="section-rule-line"></div>
+    <h2 class="section-rule-title serif">Hoy en los medios</h2>
+    <div class="section-rule-line"></div>
+  </div>
+
+  
+  <div class="empty-state">
+    <h2 class="serif">Sin noticias comparadas hoy</h2>
+    <p class="muted sans">Volvé mañana a las 7am para ver las novedades.</p>
+  </div>
+  
+
+  <!-- Ad slot: mid-page -->
+  <div class="ad-slot" style="margin-top:3rem;" data-slot="mid-page">PUBLICIDAD</div>
+
 </main>
-<footer>Contrapunto UY · Actualizado todos los días a las 7:00 am</footer>
+
+<footer id="site-footer">
+  <div class="footer-inner">
+    <div>
+      <div class="footer-brand serif">Contra<span>punto</span> UY</div>
+      <div style="margin-top:0.25rem;">Actualizado todos los días a las 7:00 am · © 2026</div>
+    </div>
+    <div class="footer-links">
+      <a href="/sitemap.xml">Sitemap</a>
+      <a href="/data/stories.json">JSON</a>
+    </div>
+    <div class="footer-claude">
+      <span>Análisis por</span>
+      <strong style="color:#ccc;">Claude AI</strong>
+    </div>
+  </div>
+</footer>
+
+<button id="scroll-top" aria-label="Volver arriba">↑</button>
+
+<script src="/assets/js/main.js"></script>
 </body>
 </html>
