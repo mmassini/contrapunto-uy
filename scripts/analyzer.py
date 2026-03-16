@@ -13,12 +13,16 @@ from config import MAX_STORIES_PER_RUN
 logger = logging.getLogger(__name__)
 
 ANALYSIS_PROMPT = """\
-Sos un periodista uruguayo experimentado e imparcial. Te muestro titulares de distintos medios uruguayos sobre la misma noticia.
+Sos un periodista uruguayo experimentado e imparcial. Te muestro titulares de distintos medios uruguayos que un algoritmo agrupó por similaridad.
 
 MEDIOS Y TITULARES:
 {headlines}
 
-Tu tarea:
+PRIMERO: ¿Estos titulares cubren el MISMO EVENTO ESPECÍFICO (mismo hecho, misma persona, misma situación concreta)? No alcanza con que sean del mismo tema general (ej: "política uruguaya" no es suficiente; sí lo es "renuncia del ministro X el martes").
+
+Si NO son el mismo evento, respondé solo: {{"mismo_evento": false}}
+
+Si SÍ son el mismo evento, tu tarea completa:
 1. Escribí un RESUMEN OBJETIVO de lo que pasó (máximo 150 palabras, en español rioplatense, sin tomar partido).
 2. Para cada titular, asigná un SCORE DE TENDENCIOSIDAD del 0 al 10:
    - 0–2: Neutral, informativo, sin carga emocional
@@ -34,6 +38,7 @@ Tu tarea:
 
 Respondé ÚNICAMENTE con JSON válido, sin texto adicional ni markdown:
 {{
+  "mismo_evento": true,
   "tema": "...",
   "categoria": "...",
   "resumen": "...",
@@ -125,6 +130,11 @@ def analyze_all_clusters(clusters: List[List[Dict]], api_key: str) -> List[Dict]
 
         analysis = analyze_cluster(cluster, client)
         if not analysis:
+            continue
+
+        # Claude says these headlines are NOT about the same specific event → discard
+        if not analysis.get("mismo_evento", True):
+            logger.info(f"  ↳ Descartado: Claude dice que no es el mismo evento.")
             continue
 
         # Build score lookup by source name
