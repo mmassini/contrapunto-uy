@@ -80,9 +80,9 @@ def build_site(stories: List[dict], base_dir: Path) -> None:
                 shutil.copy2(src, dest)
         logger.info("Static assets copied")
 
-    env = _setup_jinja(templates_dir, now)
-
     now = datetime.datetime.now()
+
+    env = _setup_jinja(templates_dir, now)
     months_es = [
         "", "enero", "febrero", "marzo", "abril", "mayo", "junio",
         "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"
