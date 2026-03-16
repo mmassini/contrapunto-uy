@@ -44,13 +44,13 @@ def build_site(stories: List[dict], base_dir: Path) -> None:
     """Generate the full static site from story data."""
     templates_dir = base_dir / "templates"
     static_dir = base_dir / "static"
-    site_dir = base_dir / "site"
+    site_dir = base_dir / "docs"
 
     # Ensure output dirs exist
     for d in [site_dir / "story", site_dir / "data", site_dir / "assets" / "css", site_dir / "assets" / "js"]:
         d.mkdir(parents=True, exist_ok=True)
 
-    # Copy static assets to site/
+    # Copy static assets to docs/
     if static_dir.exists():
         for src in static_dir.rglob("*"):
             if src.is_file():

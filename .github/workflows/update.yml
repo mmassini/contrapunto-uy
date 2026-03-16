@@ -38,7 +38,7 @@ jobs:
         run: |
           git config user.name "contrapunto-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add site/
+          git add docs/
           git diff --cached --quiet && echo "No changes to commit" || \
             git commit -m "update: $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
