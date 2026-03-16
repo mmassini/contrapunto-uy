@@ -35,9 +35,14 @@ def cluster_articles(articles: List[Dict]) -> List[List[Dict]]:
 
     model = _load_model()
 
-    titles = [a["title"] for a in articles]
-    logger.info(f"Generating embeddings for {len(titles)} articles ...")
-    embeddings = model.encode(titles, show_progress_bar=False, batch_size=64)
+    # Combine title + description for richer embeddings.
+    # Title alone (~8 words) gives too little signal; description adds context.
+    texts = [
+        a["title"] + (". " + a["description"][:200] if a.get("description") else "")
+        for a in articles
+    ]
+    logger.info(f"Generating embeddings for {len(texts)} articles ...")
+    embeddings = model.encode(texts, show_progress_bar=False, batch_size=64)
 
     sim_matrix = cosine_similarity(embeddings)
     n = len(articles)
