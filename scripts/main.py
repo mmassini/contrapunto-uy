@@ -39,6 +39,16 @@ def main() -> None:
         logger.error("No articles fetched. Check RSS feed URLs in config.py.")
         sys.exit(1)
 
+    # Filter articles with blacklisted title keywords (noise, TV shows, etc.)
+    _TITLE_BLACKLIST = {"montelongo"}
+    before_filter = len(articles)
+    articles = [
+        a for a in articles
+        if not any(kw in a.get("title", "").lower() for kw in _TITLE_BLACKLIST)
+    ]
+    if len(articles) < before_filter:
+        logger.info(f"  Removed {before_filter - len(articles)} blacklisted articles")
+
     # 2. Cluster similar stories
     logger.info("▶ Step 2/4: Clustering similar stories ...")
     clusters = cluster_articles(articles)
