@@ -72,6 +72,7 @@
             <span class="source-name-text sans">{{ h.source_name }}</span>
           </span>
           <span class="headline-text">{{ h.title }}</span>
+          <span class="headline-time sans">{{ h.pub_date|timeago }}</span>
           <span class="headline-link-icon">↗</span>
         </a>
         {% endfor %}

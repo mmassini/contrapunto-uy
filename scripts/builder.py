@@ -16,13 +16,34 @@ logger = logging.getLogger(__name__)
 BASE_URL = "https://mmassini.github.io/contrapunto-uy"
 
 
-def _setup_jinja(templates_dir: Path) -> Environment:
+def _timeago(pub_date_iso: str, now: datetime.datetime) -> str:
+    """Return a human-readable relative time string in Spanish."""
+    if not pub_date_iso:
+        return ""
+    try:
+        dt = datetime.datetime.fromisoformat(pub_date_iso)
+        if dt.tzinfo is not None:
+            dt = dt.replace(tzinfo=None)
+        diff = now - dt
+        minutes = int(diff.total_seconds() / 60)
+        if minutes < 60:
+            return f"hace {minutes}m" if minutes > 1 else "hace 1m"
+        hours = minutes // 60
+        if hours < 24:
+            return f"hace {hours}h"
+        days = hours // 24
+        return f"hace {days}d"
+    except (ValueError, TypeError):
+        return ""
+
+
+def _setup_jinja(templates_dir: Path, now: datetime.datetime) -> Environment:
     env = Environment(
         loader=FileSystemLoader(str(templates_dir)),
         autoescape=True,
     )
-    # Custom filter: truncate text
     env.filters["truncate_chars"] = lambda s, n: (s[:n] + "…") if len(s) > n else s
+    env.filters["timeago"] = lambda s: _timeago(s, now)
     return env
 
 
@@ -59,7 +80,7 @@ def build_site(stories: List[dict], base_dir: Path) -> None:
                 shutil.copy2(src, dest)
         logger.info("Static assets copied")
 
-    env = _setup_jinja(templates_dir)
+    env = _setup_jinja(templates_dir, now)
 
     now = datetime.datetime.now()
     months_es = [
