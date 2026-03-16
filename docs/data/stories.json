@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T16:36:25.668156",
+  "generated_at": "2026-03-16T16:47:16.414941",
   "stories": [
     {
       "id": "story_001",
@@ -18,9 +18,9 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ1VjZEpnSHZWUEc5V2UwRU1OQ0ltYkR4bWJPbDNMZEtMT0YteEFrcDVLbEhXek9sOXlodUdPUjZnR1RsZHhWdzNFTmxGakdUOE01Q0d5VVN6SnJTb2xhN2VVbUo0LU1MQS1DN01VeENJMVZNSG8zT0REOHh1SU5nbS1aMmhoWGVBeHJKZVJwejh1cDdpcjFNN19URmpiS2RFekhzWHRVTlk2N2JUN0VMZF9NeEvSAboBQVVfeXFMT0Ewc0Y2T1dFVDVILXBLM0tUWjlBaldmUUQ0M3RjOFBMVnFhM3JJNjdXRmNmbFdUZlBlM0RadnVfUkJoS2hKTUJHdnZKc0Rob2FmekQwVVFIUGlGLTdTZXpidUdxRll0NWdGdHpFdXlUcXRsbGFOcTN2UWdYYmNnQjZZRks1enEwUDBVY3dMUlEweHdwYXY0VUZEMFd3X2JBWU9DTk5VcjlMVzg4LVpDZzhmV010NVcwelJn?oc=5",
           "description": "Canciller de Irán dijo que \"no ve ninguna razón para negociar\" con Estados Unidos: \"Somos lo suficientemente fuertes\" &nbsp;&nbsp; El Observador",
           "pub_date": "2026-03-15T15:18:00+00:00",
-          "score": 3,
-          "score_reason": "Cita directa equilibrada, énfasis leve en la postura de fortaleza.",
-          "score_pct": 30
+          "score": 2,
+          "score_reason": "Cita directa del funcionario, presenta su posición sin interpretación.",
+          "score_pct": 20
         },
         {
           "source_id": "teledoce",
@@ -34,7 +34,7 @@
           "description": "Irán sigue lanzando ataques contra bases militare estadounidenses en los países vecinos del Golfo, pero también contra infraestructuras civiles como aeropuertos, puertos e instalaciones petroleras. La entrada Irán advirtió que está preparado para continuar con la guerra y llevarla &quot;tan lejos como sea necesario&quot; se publicó primero en Teledoce.com .",
           "pub_date": "2026-03-16T14:44:45+00:00",
           "score": 6,
-          "score_reason": "Lenguaje alarmista con 'advertencia' y énfasis en escalada de violencia.",
+          "score_reason": "Énfasis en amenaza y escalada; lenguaje alarmista con 'guerra' y 'tan lejos'.",
           "score_pct": 60
         },
         {
@@ -49,27 +49,180 @@
           "description": "La represión iraní se intensifica a medida que avanza la guerra &nbsp;&nbsp; BÚSQUEDA",
           "pub_date": "2026-03-16T11:58:00+00:00",
           "score": 7,
-          "score_reason": "Términos cargados como 'represión intensifica', tono catastrofista sin contexto.",
+          "score_reason": "Enfoque en represión interna; carga negativa sin contexto equilibrado.",
           "score_pct": 70
         }
       ],
       "analysis": {
-        "resumen": "El canciller iraní declaró que no ve motivos para negociar con Estados Unidos, afirmando que Irán es lo suficientemente fuerte. En paralelo, Irán continúa realizando ataques contra bases militares estadounidenses y objetivos civiles en países del Golfo, mientras intensifica medidas represivas internas. La situación refleja un endurecimiento de la postura iraní en el conflicto regional.",
+        "resumen": "El canciller iraní declaró que no ve motivos para negociar con Estados Unidos, afirmando que Irán es lo suficientemente fuerte. Esto ocurre en el contexto de tensiones escaladas entre ambos países, donde Irán ha intensificado ataques contra bases militares estadounidenses y objetivos civiles en la región del Golfo. Simultáneamente, se reporta una mayor represión interna en Irán relacionada con el conflicto.",
         "coincidencias": [
-          "Irán adopta una postura firme y de no negociación ante Estados Unidos.",
-          "Hay una escalada de acciones militares y represivas por parte de Irán.",
-          "La situación evidencia un deterioro de las relaciones y tensión regional."
+          "Irán rechaza negociaciones diplomáticas con Estados Unidos",
+          "Existe escalada de tensiones en la región del Golfo",
+          "Irán demuestra disposición a continuar con acciones militares"
         ],
         "diferencias": [
-          "El Observador se enfoca en la declaración diplomática; Teledoce y Búsqueda en acciones militares y represivas.",
-          "El Observador usa tono más neutral; Teledoce advierte sobre continuidad del conflicto; Búsqueda enfatiza represión interna.",
-          "El Observador cita al canciller directamente; Teledoce y Búsqueda generalizan sobre acciones y consecuencias."
+          "El Observador prioriza la declaración diplomática; Teledoce enfatiza capacidad militar ofensiva",
+          "Búsqueda centra atención en represión interna mientras otros hablan de conflicto externo",
+          "Tono: El Observador informativo, Teledoce advierte escalada, Búsqueda critica represión"
         ]
       }
     },
     {
       "id": "story_002",
-      "topic": "Peñarol vence a Albion y lidera Apertura",
+      "topic": "Nacional pierde en Copa Libertadores sub-20",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Se suspendió la Finalíssima que iban a jugar España y Argentina | Noticias | Fútbol Internacional",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnVSeW93WmRKREdmNWxvLUhjU2pNLTlNRnNqOHJ2NldkRXNtQWNJdUkzWmdNTEltNWZTejVDVHBOR3M2dmhBaFJQOWFNS0RxX0F0Wmxyc1B2QW0zNkk0ZWdoNlh6NTBTTEhMSGNDWW9ta1dlTHlqNGt1LXdZNERoamVWSjYtU2JCT0hPSWY3YkhDSmVXb2dUUWhaYV91YTlhSXRJS0xBRjJ1bGVlajBWaEE3VE04Zw?oc=5",
+          "description": "Se suspendió la Finalíssima que iban a jugar España y Argentina | Noticias | Fútbol Internacional &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-03-15T15:56:42+00:00",
+          "score": 1,
+          "score_reason": "Completamente neutral, reporta hecho sin interpretación ni énfasis.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Nacional se despidió de la Copa Libertadores sub-20 con victoria 4-2 sobre Belgrano",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOVktSlNlZzFIdnEtVGhwOHo0bUNZeGYzY0NqRmh0OVZYX2JuVUlnc21oZi0wa0w3aHE2NWdaS3VrTjUxck9NN0ZXY3M4UjMwZ3lQdUQ0MVVzZEZfZHczN0gtSGkwY0ktdFZNSHdHcWUxTXlaYzFvMVFEck1XTFdnRXJaLWhZRkNJbkNscllRYi14Y2hzdlhqRl96ZTVHcHBndDdkMy1tMjVtakRCNlI1QlE1ZFM1QTRvZjU5SkN6Ynk0cDd5dGljTG5ub9IB7wFBVV95cUxPRllSUktwVGdVSkJQMlRNS05zUFhqYUVIOGRPRzlhcEJuSFNGSHA0MWFUaGRjellMdW1GWWVHQ3JteGY1OVFWTk8yc3dXN2JielFnTVlaai1DT0ZJTEpKUjhHZGFoWGdXVG9rWFROZUxvQ2VjX2RKVThoUW9ZTDZCY3E4WHE5OTRrRWtRUVYyVklPdXhVcWwyNmg4TFk0T0lMWFJFaXh3bUo0UTBxZTVOeWZKSG9jeF9ZV0FBMF9PaGtScThJMG9uX19oNlJCUXRzcUYzWnJJOFZNcnNEUlgweGtqRnRGelZBRHJneTVmaw?oc=5",
+          "description": "Nacional se despidió de la Copa Libertadores sub-20 con victoria 4-2 sobre Belgrano &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-16T01:54:00+00:00",
+          "score": 2,
+          "score_reason": "Informativo directo, enfatiza resultado positivo sin carga emocional.",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Nacional disputó un partido de la Copa Libertadores sub-20 contra Belgrano, terminando con una victoria 4-2. Este resultado significó la despedida del equipo uruguayo de la competición continental. El partido se jugó en el marco de la fase de grupos o eliminatoria del torneo juvenil sudamericano.",
+        "coincidencias": [
+          "Ambos medios reportan hechos deportivos verificables sin interpretación",
+          "No utilizan lenguaje sensacionalista o cargado emocionalmente",
+          "Se enfocan en información objetiva de competiciones internacionales"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza la victoria de Nacional; El Espectador cubre evento diferente",
+          "Portal usa lenguaje que subraya el desempeño positivo; El Espectador es meramente informativo",
+          "Portal trata tema local uruguayo; El Espectador cubre noticia internacional de fútbol"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Ex futbolista de Peñarol responde a periodista en Ecuador",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Danielo Nuñez: “no hay estabilidad ninguna“ | Vamos que Vamos | Entrevistas",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRGZwMy15VGFvMjNURlFBb2NPT1hTWllXSFlsc1JrQ1Q0WFBtajVjZmdTd0l6SmRrS1pfbmdEZ3VNRHZxY3VfTlN5VEo2TE1rSmtLNmZtN3pDWkgyZGZwbU1CRDlPNDVHWTZQWVhCSV9xUi1UcEtRLWIxMzVHY0N0Y21fcGxiNUhoSlQ4cWtaNWpaaHc?oc=5",
+          "description": "Danielo Nuñez: “no hay estabilidad ninguna“ | Vamos que Vamos | Entrevistas &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-03-16T00:53:47+00:00",
+          "score": 2,
+          "score_reason": "Informativo, cita directa sobre situación real sin dramatización.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“No me rompas los huevos”: la respuesta de un ex-Peñarol a una periodista en Ecuador",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYmFsM1YwV2U1MkRqSTZBMnVweUVhSXpmZDUtZWVrNFViVTRSLVVZNWFxV0VwWW9YVkxsX3hkYm42SEliSXZkSmptaXlkWFc0Wk9nYWhybzQ3WnRSbVVIaUlNRXdIcVRjajljcmhjWGUzeFRlX1Y2NGtNR0J4THVpdDdyaVktdFNzeThwVFpYLWNYeTRTVGN1LVc4RUtwRVdPbFR4eE12VjdyUGlVN1dhRGxtUnFpaklCT3J3OE4xWjEzYnRLUjhHYXhRa9IB7wFBVV95cUxQUFBudjVtaktCOUVfbnVsMzFmMmpBWU1LWG5SWl8yRzN0YTVWVmV4b3lMU0h0VloyTHpoV0QxVUFIWGstdVFZSHkxNWc1TVBqMkFPdm9PNFVLd0otUUZmMUlmWmNCc3FHb1RYNFU4ajhsakJvbnJ2Q2VsYmVDeV8xTWJRMGRyUmhqQkl1U3YtSktNeG1YWERqNjZfSWFhWTk0OUdwaGJrVGh0dy0xS01HdWRpc0J5MlpfWGtoZElHWWVVVU9YTlVpRU5sSHVmZG9jTE1mMTFhNnF0bVRkd2p6YndPZDdQYWVxT2F3MGtTcw?oc=5",
+          "description": "“No me rompas los huevos”: la respuesta de un ex-Peñarol a una periodista en Ecuador &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-16T10:56:00+00:00",
+          "score": 7,
+          "score_reason": "Resalta frase vulgar entre comillas para generar impacto sensacionalista.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Un ex jugador de Peñarol, Danielo Nuñez, tuvo un intercambio con una periodista en Ecuador. Durante la interacción, Nuñez respondió de manera brusca con una expresión coloquial. El futbolista aprovechó para comentar sobre la falta de estabilidad en su situación actual. El incidente ocurrió durante una entrevista o cobertura periodística.",
+        "coincidencias": [
+          "Involucra a un ex futbolista de Peñarol llamado Danielo Nuñez.",
+          "El incidente ocurrió durante una interacción con periodistas en Ecuador.",
+          "Refleja preocupaciones del jugador sobre su estabilidad laboral."
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza la respuesta confrontacional y vulgar del futbolista.",
+          "El Espectador prioriza el contenido sustancial sobre su falta de estabilidad.",
+          "Diferentes niveles de sensacionalismo: uno busca impacto emocional, otro información."
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Conflicto entre Vairo y Ruglio en Nacional",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "“La búsqueda ha terminado”",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nTm5aYUFDZDltel9QYW9ZWlE2bXBKYkpDZWx5X2xLdXphOWVLYk0wZGxlNF9NcDVHczVGd3lZZGJUdzVXbVRoS0xkN1hqV1RLVnV2MmppRXdkdThxSGt2eElucEZNNmNkeVVRRHRJNDI?oc=5",
+          "description": "“La búsqueda ha terminado” &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-03-15T06:40:12+00:00",
+          "score": 2,
+          "score_reason": "Titular minimalista, entre comillas, informativo sin carga emocional.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Víctima” y “si hay algo que no funciona, no es en Nacional”: Vairo cargó contra Ruglio",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUFJsenhZNnU5SXRjMWJ3N09NdjZFeHFoeU9WWHNNdkFEcEFTZ1hYVEQyTTFXeGRxaWhsMktyQkktR085TUN4VXNYVS1CUEpqZ2ZtZTVqb3RSQmlfVER2bkt3LXBfQlBNV3gwZnNoX1hnb1RPbzFJcEhCZ0NHRkhkei11RlJxbG1VVW9hcWItOEZDdXNNb2ppTlZ2ZGhJbzBnb0xZbXFpOFFYZHFoOG92OVBJcDJxNjJ1YzM4UVc2UDgzanNQQkNocExKb9IB7wFBVV95cUxNamc1SWl2X0luMXlVcWVnaXR4V180VUQ4MTlRUVRJQzZwa3NwN01rYWRJRzhmVE1pcWs3MVg4TWxudUxEcDdfZE9HcHdzRGpzdEItajY0YmFoUHJGMmNJZFZIcWhpV18wRWZIc01TT1VDSGdFY3RzanZLeHYxMW5zdk5sOTNqQmFMc2VlSVZ0TjRzajNpZXZwTXQ0X0hRT2FmWlFvQk10MVRmSWdObDNRV2tETF9Xakk5endCcWRJV1FCTm96c2xSMVJRZW42c2RsMTFHNEZDMUlxdjJJYkFieFhsNXRxOGlBb0p3VnU0RQ?oc=5",
+          "description": "“Víctima” y “si hay algo que no funciona, no es en Nacional”: Vairo cargó contra Ruglio &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-15T17:46:00+00:00",
+          "score": 7,
+          "score_reason": "Entrecomillados irónicos, verbo 'cargó' agresivo, sensacionalismo.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Se produjo un enfrentamiento verbal entre Vairo y Ruglio, aparentemente vinculado a la gestión del Club Nacional de Football. Vairo realizó críticas públicas hacia Ruglio, utilizando términos como 'víctima' de manera irónica y cuestionando la administración del club. Ambos personajes protagonizaron un cruce que generó repercusión mediática, con expresiones que sugieren un conflicto interno en la institución deportiva o política relacionada.",
+        "coincidencias": [
+          "Existe un conflicto público entre Vairo y Ruglio",
+          "La noticia involucra al Club Nacional de Football",
+          "Se trata de un enfrentamiento que merece cobertura mediática"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza el tono crítico y sarcástico de Vairo; La R solo enuncia el cierre de algo",
+          "MP utiliza lenguaje dramático con entrecomillados irónico; La R mantiene neutralidad extrema",
+          "MP construye narrativa de conflicto; La R sugiere resolución o conclusión de proceso"
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Peñarol vence a Albion y lidera el Apertura",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
@@ -85,7 +238,7 @@
           "description": "Apertura: ¿qué dijeron los jugadores de Peñarol tras el triunfo 1-0 ante Albion? &nbsp;&nbsp; Montevideo Portal",
           "pub_date": "2026-03-15T12:40:00+00:00",
           "score": 1,
-          "score_reason": "Titulación informativa, pregunta neutra, sin énfasis emocional.",
+          "score_reason": "Titular informativo, formula pregunta sobre declaraciones sin carga emocional.",
           "score_pct": 10
         },
         {
@@ -99,28 +252,79 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPamNVYkhYSDlrRVpGR3lpMXRaOWJxZDBQNnZyTENfVzFjcWh2QjIzT252bzBaQk5DWUhPRjRPUW5XdEN0TFVzejF0OVZtaElWYkZLUXhGMGxYYWtIMm83TEZHVzNPN3dOQXFISE0zV0UwQmxvQjZ0Qlk4cS1vRTVFU0tmcUhnSFhNYURuUXFYaUpyTEtsX2l2elV0dnN4MW56anBiVUFySlFydVg2NUd0MjhJLXVwY1JPLTZScUFWMy3SAcYBQVVfeXFMTi1HSTFrVjJ0M2VNeWpsZDN5Q1Ayc0lrLW9TaEpIcmx3QTl1Vi1KaVRabzQxSXBZOGh2RGVpbXB0SUJmbDBoYWRjTy1xNWtwRVZPc1F3akRYRERlQ3F4LXFDOVBIZFJWenNSUEtWODFPT1RnNmliTzV3UjNJVEFZbHMwdms2ZDBZbDU4M1dXTHFLYWpGTjVpSnd2VFpiUW1jQ0dZWEZ2YVF4M3hicFRfVjZvM3FLMTVKOVBiWm15U0swV3RpMlpB?oc=5",
           "description": "Con gol de su capitán, Peñarol derrotó a Albion y es líder del Torneo Apertura junto a Racing &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-03-15T12:55:00+00:00",
-          "score": 3,
-          "score_reason": "Destaca al capitán y liderazgo, sutil énfasis positivo en Peñarol.",
-          "score_pct": 30
+          "score": 2,
+          "score_reason": "Destacar rol del capitán agrega contexto narrativo leve pero sigue siendo informativo.",
+          "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "Peñarol derrotó a Albion por 1-0 en el Torneo Apertura, con gol de su capitán. Con esta victoria, el equipo carbonero comparte la primera posición de la tabla con Racing Club. El resultado mantiene a Peñarol como uno de los principales contendientes del torneo.",
+        "resumen": "Peñarol derrotó a Albion 1-0 en un partido del Torneo Apertura. El gol fue convertido por el capitán del equipo. Con este resultado, Peñarol comparte la primera posición de la tabla de posiciones junto a Racing. Los jugadores del equipo ofrecieron declaraciones tras la victoria.",
         "coincidencias": [
-          "Peñarol venció a Albion por 1-0 en el Torneo Apertura",
-          "El gol fue marcado por el capitán de Peñarol",
-          "Peñarol lidera o comparte el liderato del torneo"
+          "Peñarol ganó 1-0 a Albion",
+          "El gol fue marcado por el capitán del equipo",
+          "Peñarol es líder del Torneo Apertura"
         ],
         "diferencias": [
-          "Subrayado enfatiza el rol del capitán; Montevideo Portal lo trata como información secundaria",
-          "Subrayado subraya el liderazgo compartido con Racing; Montevideo Portal solo pregunta por declaraciones",
-          "Subrayado adopta tono celebratorio; Montevideo Portal mantiene distancia informativa"
+          "Montevideo Portal enfatiza las declaraciones posteriores de los jugadores",
+          "Subrayado destaca el rol protagónico del capitán en el gol",
+          "Subrayado menciona explícitamente a Racing como otro líder, contextualizando mejor"
         ]
       }
     },
     {
-      "id": "story_003",
-      "topic": "Gobierno Orsi enfrenta captura Marset y rechazo represa",
+      "id": "story_006",
+      "topic": "Maldonado vence a Defensor y Olveira se nacionaliza",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Apertura: Deportivo Maldonado le ganó a Defensor Sporting 1-0 y es uno de los líderes",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONE1Lamx4X0EwbVJKM1ljcElYeGtDLXJ0dUtvcVgzSW1UMXg1bWVGb3pOU1hJWE16YW5rNzZHcHBRN1U3MngtQmp6VDFscDVjeEE5cTNDSFhJdWxxZ3V5RG1VeklBd3F6bm9Icng3S2dxSk1vT2kwRHJsbVlnR25wRzc5eVdzY1ZnMzV5MHpneGk4dUFGeHZldDE4WUNVbHRsNmhPQjI5TVJPTTRlWTMtZ09IMXlZMTdSWk94U3lCQnBnS21PakZkRk9kVXPSAfABQVVfeXFMTkpabUZ1VHdBZ3ZGeFdBQ3A2MWFQWkJIa3g0eTBaVUNybDlSTVhOVTVpS2lxZWxvckgwcF9VMV9CSjhrTFlFVVFOVHA3SVVBcGhjUnZKZHhHZVdaS3J0WWRvcmx5RG1Xcm8tRnBvQ1F0a1FOLWE0UndsZlV1OVZ0QzlPTkRlcmpZdW9CQ3h5cHZsdURSYVNPZFRKSUJTQ19sN0U2enZGdTdQV0N5TVBENmJrQ3A0d3Rya3ZkNGVEalpGam8zQ0pVZld5Y0ZjdjM5VTdaUHhVZTc0U2pyTURkVEVveF8zR1lsa0JMc3lYY0VD?oc=5",
+          "description": "Apertura: Deportivo Maldonado le ganó a Defensor Sporting 1-0 y es uno de los líderes &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-15T21:57:00+00:00",
+          "score": 1,
+          "score_reason": "Descripción factual, directa, sin adjetivos ni énfasis emocional.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Gastón Olveira se nacionalizó paraguayo y fue convocado por Gustavo Alfaro | Noticias | Fútbol Internacional",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQV9ROHV2UG1yRUsyQVN5MDUwUVlqSmpkWHFBb2VrRGZCR2JTREQzSjlVcC1fRUg0ZGJGZlFvZDVnTGQ1SDhNS0FFMnhPbGt0LWtxWlphMkFVX29EX29MTUoyNThlYmV6NTlYcE9adzlaOHh3ZC0tbG9PLXd6RGhoNXUtaFh2QUp4QlhFbTZKTjNHdm1kRkFtcDA2UEdPZnZiUzVOa1ZRX0lKLVJBbmdIa05LemdUczRPT3NsWHZ1MUFDQ1Nj?oc=5",
+          "description": "Gastón Olveira se nacionalizó paraguayo y fue convocado por Gustavo Alfaro | Noticias | Fútbol Internacional &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-03-16T16:14:37+00:00",
+          "score": 2,
+          "score_reason": "Informativo, factual, aunque destaca logro deportivo del jugador.",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "En la jornada de Apertura, Deportivo Maldonado derrotó a Defensor Sporting 1-0, posicionándose entre los líderes del torneo. En otro tema deportivo, el futbolista Gastón Olveira completó su nacionalización como paraguayo y fue convocado por el técnico Gustavo Alfaro para la selección paraguaya. Ambos hechos reflejan movimientos relevantes en el fútbol regional.",
+        "coincidencias": [
+          "Deportivo Maldonado obtuvo victoria sobre Defensor Sporting.",
+          "Ambos medios cubren hechos deportivos de relevancia regional.",
+          "Se trata de eventos del fútbol profesional uruguayo-paraguayo."
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza el resultado local y clasificación; El Espectador destaca la trayectoria individual de Olveira.",
+          "Un medio cubre fútbol doméstico, el otro fútbol internacional.",
+          "Diferentes criterios editoriales sobre qué constituye noticia principal en deportes."
+        ]
+      }
+    },
+    {
+      "id": "story_007",
+      "topic": "Captura de Marset y represa de Casupá",
       "category": "Política",
       "sources_count": 2,
       "headlines": [
@@ -136,7 +340,7 @@
           "description": "Presidente de Bolivia agradeció felicitaciones de Orsi por captura de Marset &nbsp;&nbsp; Montevideo Portal",
           "pub_date": "2026-03-15T14:26:00+00:00",
           "score": 2,
-          "score_reason": "Informativo directo, sin carga emocional, enuncia hechos objetivos.",
+          "score_reason": "Información factual y directa sin adjetivos innecesarios.",
           "score_pct": 20
         },
         {
@@ -150,28 +354,28 @@
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON01pRzhMVWNNV1lSRVg0YWhubHJaQlR1WXY5Q1hndm1VR2NuN1prV0d5aTFGZVhiSUljZGp0UWpkcDZNSHI2QUNSQklZTi1HbUlaN2JPREkxWWE0dGJHMzUzY0lGMjJLZkQ3S19zODdpVmp0dVU5UklHUGdQaEtSaGhmb2NubFphODBDNEJIdTRDWFRITF9zN2FVR2dnc3g0cHpFSnY2azN4TTB6Z0UtamgweW9HYk1wRTBRYldSSTczUdIBxwFBVV95cUxOUHBJdmstT3k4S1Y3cjNwbkc4TVdPRi1tV1lYdVFTT0QtWm9iRFRFM2hobGlqR19KM0RoblFZdDJmaDVsQzZ5UnRJSEZtZFhMQU54MFkwZmNjcHNrbi1rT1ByaXZFZWx6OFhvTmpRd1E1ZkczdlNtYUxWbVNGeDhoNXN3cmJqbjJuajZYaGluRlNsTHdqRi1FT09kaWZ2ZTN1ODRjZkRnWUpiVWoxT1R1a2cwU2RUaEhzRldpU25BNEV6b2prRUpZ?oc=5",
           "description": "Entregan carta a Orsi en rechazo a la represa de Casupá e invitan al presidente a recorrer la zona &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-03-16T12:16:00+00:00",
-          "score": 4,
-          "score_reason": "Énfasis en 'rechazo' y 'invitación' subraya crítica sin ser alarmista.",
-          "score_pct": 40
+          "score": 3,
+          "score_reason": "Énfasis en rechazo y convocatoria, ligeramente más participativo que neutral.",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "El presidente Orsi recibió felicitaciones del presidente boliviano por la captura del narcotraficante Marset, constituyendo un logro en materia de seguridad. Simultáneamente, organizaciones sociales entregaron una carta de rechazo al proyecto de represa de Casupá, invitando al mandatario a visitar la zona afectada. Ambos eventos reflejan presiones contrapuestas sobre la gestión presidencial.",
+        "resumen": "El presidente Orsi felicitó al presidente de Bolivia por la captura de Marset, delincuente buscado por Uruguay, quien agradeció públicamente. Simultáneamente, organizaciones sociales entregaron una carta al presidente rechazando el proyecto de represa de Casupá e invitándolo a visitar la zona afectada para conocer las preocupaciones locales sobre la obra.",
         "coincidencias": [
-          "Ambos eventos ocurren durante la administración Orsi",
-          "Se tratan temas de relevancia nacional: seguridad y medio ambiente",
-          "Demuestran presiones políticas simultáneas sobre el gobierno"
+          "Ambos reconocen acciones del presidente Orsi en contextos diferentes.",
+          "Los dos medios abordan temas de relevancia pública actual.",
+          "Presentan hechos concretos sin especulación editorial explícita."
         ],
         "diferencias": [
-          "Montevideo Portal destaca logro internacional en seguridad; Subrayado prioriza movilización ambiental local",
-          "Tono de Portal celebratorio versus Subrayado crítico-movilizador",
-          "Portal enfatiza cooperación externa; Subrayado enfatiza disenso interno"
+          "Montevideo Portal prioriza tema de seguridad internacional; Subrayado enfatiza protesta ambiental local.",
+          "Portal destaca cooperación bilateral; Subrayado resalta movilización ciudadana y participación.",
+          "Encuadre de Portal es más diplomático; el de Subrayado es más centrado en demandas sociales."
         ]
       }
     },
     {
-      "id": "story_004",
-      "topic": "Incendio en complejo Euskalerría de Malvín Norte",
+      "id": "story_008",
+      "topic": "Incendio en complejo Euskalerría, Malvín Norte",
       "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
@@ -187,7 +391,7 @@
           "description": "Incendio en complejo de viviendas de Euskalerría fue controlado por Bomberos; no hubo heridos &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-03-15T15:48:00+00:00",
           "score": 2,
-          "score_reason": "Destaca control y ausencia de heridos; tono informativo y tranquilizador.",
+          "score_reason": "Prioriza control de la situación y ausencia de víctimas; tono tranquilizador",
           "score_pct": 20
         },
         {
@@ -202,45 +406,30 @@
           "description": "Malvín Norte: incendio en torre 23 de Euskalerría generó evacuación de más de 100 vecinos &nbsp;&nbsp; Montevideo Portal",
           "pub_date": "2026-03-15T20:55:00+00:00",
           "score": 4,
-          "score_reason": "Enfatiza evacuación; lenguaje descriptivo pero neutro generalmente.",
+          "score_reason": "Enfatiza evacuación masiva; ordena elementos de menor a mayor impacto",
           "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "Un incendio afectó la torre 23 del complejo de viviendas Euskalerría en Malvín Norte, obligando a evacuar a más de 100 vecinos. El fuego fue controlado por Bomberos sin dejar heridos. El siniestro se registró en un edificio residencial de la zona norte de Montevideo, siendo atendido por los servicios de emergencia de forma efectiva.",
+        "resumen": "Se registró un incendio en la torre 23 del complejo residencial Euskalerría, ubicado en el barrio Malvín Norte de Montevideo. El siniestro fue controlado por el cuerpo de Bomberos sin que se reportaran heridos. La emergencia provocó la evacuación de más de 100 vecinos del edificio afectado. Las autoridades intervinieron oportunamente en el lugar.",
         "coincidencias": [
-          "El incendio ocurrió en el complejo Euskalerría",
-          "Se ubicó en la torre 23 de la zona de Malvín Norte",
-          "Bomberos controló la situación sin víctimas fatales"
+          "El incendio ocurrió en el complejo Euskalerría de Malvín Norte",
+          "Bomberos controló exitosamente el siniestro",
+          "No hubo personas heridas en el incidente"
         ],
         "diferencias": [
-          "Montevideo Portal prioriza la evacuación de vecinos como dato central",
-          "Subrayado enfatiza el control del incendio y la ausencia de heridos",
-          "Distintos ángulos: impacto en residentes versus gestión efectiva del siniestro"
+          "Montevideo Portal destaca la evacuación como dato central; Subrayado la coloca implícita",
+          "Subrayado subraya control y seguridad; Montevideo Portal enfatiza escala del evento",
+          "Diferentes jerarquías informativas: impacto versus resolución exitosa"
         ]
       }
     },
     {
-      "id": "story_005",
-      "topic": "Ataque a sede comunista durante crisis en Cuba",
+      "id": "story_009",
+      "topic": "Ataque a sede comunista en Cuba por crisis",
       "category": "Internacional",
       "sources_count": 2,
       "headlines": [
-        {
-          "source_id": "carasycaretas",
-          "source_name": "Caras y Caretas",
-          "source_short": "CC",
-          "source_color": "#4A148C",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.carasycaretas.com.uy",
-          "title": "PCU convoca a concretar avances en seguridad social y a redoblar solidaridad con Cuba",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVzllTnh3dDFzSDhxX0ZYTXZHdUJnRjBSaHJ2U0UzbWUyWFBMOHVIbjZKMGtpU2pGMjNuLU5JcE84a3hrXzM0c0Z1Z0I5MFdCaVg4R2hVYkkyQzRueHNodG1CTnpBMlJJLURtTlJLVDlGZ2ZfQ09oR19xdWswdkVzd3dOLUxDcGFXal9XT0VaclNkSkxQSVVQd1daMXZKWDVXdmNJTkR1MGhnS3ZhdGp0QUVQOVNJdlhwY1BZSVNabm3SAcYBQVVfeXFMTURScWRPbURfcWM3aTA2M0l4dUZ1d09OYTQzQTFrbDVDdnIyNEpReHQ2RGk4ZFc5UEpsbkVRUjQtMHVwMHB3SzBtWHhuVHNoT1lqX2NZSnNreFhJZUpHcXVaelYta1gwNDVaaW94NmZQS0ZmQTdETkFVS05Tc3llMllWUVNkeERITF8xQWZmY0gzR2I0ampzSnEyTzBiOXpUb0lmYUtmSXlGTzY4WnhBV2pXVi05NVNUMDk5SGRQb2pGN1JsNlZR?oc=5",
-          "description": "PCU convoca a concretar avances en seguridad social y a redoblar solidaridad con Cuba &nbsp;&nbsp; Caras y Caretas",
-          "pub_date": "2026-03-16T00:05:00+00:00",
-          "score": 4,
-          "score_reason": "Enfoque en respuesta política; omite contexto del ataque, levemente parcial.",
-          "score_pct": 40
-        },
         {
           "source_id": "subrayado",
           "source_name": "Subrayado",
@@ -253,27 +442,42 @@
           "description": "Apagones y escasez detonan ataque a una sede del Partido Comunista en Cuba &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-03-15T17:35:00+00:00",
           "score": 6,
-          "score_reason": "Enfatiza causas materiales; lenguaje descriptivo pero con carga implícita.",
+          "score_reason": "Énfasis en causas materiales (apagones, escasez); lenguaje descriptivo pero con cierta carga dramática.",
           "score_pct": 60
+        },
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "PCU convoca a concretar avances en seguridad social y a redoblar solidaridad con Cuba",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVzllTnh3dDFzSDhxX0ZYTXZHdUJnRjBSaHJ2U0UzbWUyWFBMOHVIbjZKMGtpU2pGMjNuLU5JcE84a3hrXzM0c0Z1Z0I5MFdCaVg4R2hVYkkyQzRueHNodG1CTnpBMlJJLURtTlJLVDlGZ2ZfQ09oR19xdWswdkVzd3dOLUxDcGFXal9XT0VaclNkSkxQSVVQd1daMXZKWDVXdmNJTkR1MGhnS3ZhdGp0QUVQOVNJdlhwY1BZSVNabm3SAcYBQVVfeXFMTURScWRPbURfcWM3aTA2M0l4dUZ1d09OYTQzQTFrbDVDdnIyNEpReHQ2RGk4ZFc5UEpsbkVRUjQtMHVwMHB3SzBtWHhuVHNoT1lqX2NZSnNreFhJZUpHcXVaelYta1gwNDVaaW94NmZQS0ZmQTdETkFVS05Tc3llMllWUVNkeERITF8xQWZmY0gzR2I0ampzSnEyTzBiOXpUb0lmYUtmSXlGTzY4WnhBV2pXVi05NVNUMDk5SGRQb2pGN1JsNlZR?oc=5",
+          "description": "PCU convoca a concretar avances en seguridad social y a redoblar solidaridad con Cuba &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-03-16T00:05:00+00:00",
+          "score": 7,
+          "score_reason": "Omite el hecho violento; enfatiza solidaridad política; agenda implícita favorable al régimen.",
+          "score_pct": 70
         }
       ],
       "analysis": {
-        "resumen": "Se produjo un ataque a una sede del Partido Comunista de Cuba en el contexto de una crisis económica caracterizada por apagones y escasez de recursos. El Partido Comunista Uruguayo respondió convocando a fortalecer la solidaridad internacional con Cuba y a avanzar en políticas de seguridad social. El hecho refleja tensiones sociales en la isla caribeña.",
+        "resumen": "En Cuba ocurrió un ataque a una sede del Partido Comunista en medio de una crisis económica caracterizada por apagones y escasez de productos. El PCU (Partido Comunista Uruguayo) respondió convocando a fortalecer la solidaridad internacional con Cuba y avanzar en políticas de seguridad social. Los hechos reflejan la tensión social derivada de la situación económica crítica que atraviesa la isla.",
         "coincidencias": [
-          "Ambos medios reconocen una crisis en Cuba (apagones, escasez, ataque).",
-          "Ambos vinculan el evento a dinámicas políticas y sociales.",
-          "Ambos abordan la noticia desde perspectivas ligadas al Partido Comunista."
+          "Ambos medios reconocen la existencia de una crisis económica en Cuba",
+          "Ambos vinculan eventos en Cuba con posiciones políticas sobre el tema",
+          "Ambos tocan indirectamente la tensión social en la isla"
         ],
         "diferencias": [
-          "Subrayado subraya las causas materiales de la protesta; Caras y Caretas omite el ataque.",
-          "Subrayado usa lenguaje más neutral-descriptivo; Caras y Caretas enfatiza solidaridad.",
-          "Subrayado da protagonismo al evento; Caras y Caretas lo subordina a agenda política."
+          "Subrayado prioriza el acto violento como noticia principal; Caras y Caretas lo omite deliberadamente",
+          "Subrayado adopta tono más neutral sobre hechos; Caras y Caretas usa la noticia para promover solidaridad política",
+          "Subrayado contextualiza con causas económicas; Caras y Caretas redirige hacia agenda de seguridad social"
         ]
       }
     },
     {
-      "id": "story_006",
-      "topic": "Ceremonia de Premios Oscar 2026 se realizó",
+      "id": "story_010",
+      "topic": "Ceremonia de Premios Oscar 2026 se desarrolla",
       "category": "Cultura",
       "sources_count": 2,
       "headlines": [
@@ -289,7 +493,7 @@
           "description": "Premios Oscar 2026: los mejores looks de la alfombra roja más esperada &nbsp;&nbsp; BÚSQUEDA",
           "pub_date": "2026-03-15T23:21:00+00:00",
           "score": 2,
-          "score_reason": "Enfoque fashion, neutral y descriptivo sin carga editorial",
+          "score_reason": "Enfoque neutral en aspecto estético tradicional de evento.",
           "score_pct": 20
         },
         {
@@ -304,21 +508,225 @@
           "description": "Los cinco momentos más destacados de los Óscar 2026: desde mensajes políticos a los homenajes In Memoriam y bromas pesadas &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-03-16T10:36:00+00:00",
           "score": 4,
-          "score_reason": "Énfasis en aspectos controvertidos como 'bromas pesadas'",
+          "score_reason": "Énfasis en lo controversial: política, bromas pesadas.",
           "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "Se llevó a cabo la ceremonia de los Premios Oscar 2026. El evento contó con varios momentos destacados, incluyendo mensajes políticos de los presentadores y artistas, homenajes a personalidades fallecidas de la industria cinematográfica, y bromas que generaron reacciones variadas. Además, la alfombra roja fue escenario de diversos looks de diseño que acapararon atención mediática.",
+        "resumen": "Se llevó a cabo la ceremonia de los Premios Oscar 2026. Durante el evento se registraron diversos momentos destacados, incluyendo mensajes de contenido político, homenajes a personalidades fallecidas y momentos humorísticos de distinta intensidad. Además, se produjo la tradicional exhibición de looks y estilos en la alfombra roja, que convocó importante atención mediática. La ceremonia contó con los elementos característicos de estas premiaciones cinematográficas de relevancia internacional.",
         "coincidencias": [
-          "Ambos cubrieron la ceremonia de los Oscar 2026",
-          "Los medios priorizaron aspectos visuales y de entretenimiento",
-          "Se destacó la importancia y expectativa generada por el evento"
+          "Ambos medios cubrieron la ceremonia de Premios Oscar 2026.",
+          "Se reconoce la alfombra roja como elemento central del evento.",
+          "Existe interés en los momentos destacados de la noche."
         ],
         "diferencias": [
-          "Subrayado enfatiza momentos polémica y mensajes políticos; Búsqueda enfatiza moda",
-          "Subrayado usa lenguaje evaluativo ('pesadas'); Búsqueda es descriptivo ('esperada')",
-          "Subrayado prioriza controversia; Búsqueda prioriza estética y estilos"
+          "Subrayado prioriza momentos controvertidos y políticos; Búsqueda enfatiza moda y estética.",
+          "Subrayado destaca bromas de tono fuerte; Búsqueda apunta a looks esperados.",
+          "Enfoque de Subrayado: contenido y controversia; Búsqueda: cobertura de lifestyle."
+        ]
+      }
+    },
+    {
+      "id": "story_011",
+      "topic": "Programación televisiva uruguaya para domingo 15 de marzo",
+      "category": "Cultura",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Programa completo del 15/3/2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREY5SzRkVVd6azdJeFVRMkFDbkVlRG1hbGFmZlloQ1FicTY5YkRUZXlvcHIzREtmYUgtZnZua014ZVZQV1JjZUpGbUt4LXZuVXE5QUh5S1d4Y1ZNU1MzR1UyY0tTeldEbzBvb0tXZUFMaHozZThmbWNabEVIV01RLWU2SWFERGQ2NS11MmRVcw?oc=5",
+          "description": "Programa completo del 15/3/2026 &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-03-15T17:01:36+00:00",
+          "score": 1,
+          "score_reason": "Completamente informativo y neutro, describe contenido objetivo.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Legítima Defensa 2da. Dosis - Domingo 15 de Marzo 2026",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORjBTNkRmYzBwLTBkNzlEZWc2Um1oeEZ2MWM4TzVqSVlGY0tYQzI3VzVIV2djeVNIMzl0ZTFXUXlsTTY0VWI5RlZlZ05WNFpKX0RTdmprWEZmcVVtejcxblFYMzhvZ1pQZzlCQnY0Y3IxVzQ3WXVUOGliWnZwRVI5eE43UUJxeGVZc1ZTVTFRM2tlZTZkWEExWDN3d2pfODRJTzd3UVZmX2NmM2M?oc=5",
+          "description": "Legítima Defensa 2da. Dosis - Domingo 15 de Marzo 2026 &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-03-16T01:06:00+00:00",
+          "score": 3,
+          "score_reason": "Destaca programa específico, sugiere importancia particular.",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Los medios uruguayos publican la programación televisiva para el domingo 15 de marzo de 2026. Caras y Caretas destaca el programa 'Legítima Defensa' en su segunda emisión, mientras que El Espectador presenta el programa completo del día. Ambos medios informan sobre la oferta televisiva disponible para esa jornada sin mayores detalles adicionales en los titulares.",
+        "coincidencias": [
+          "Ambos medios informan sobre programación para domingo 15 de marzo 2026",
+          "Ninguno utiliza lenguaje sensacionalista o emotivo",
+          "Ambos tratan programación televisiva como contenido informativo estándar"
+        ],
+        "diferencias": [
+          "Caras y Caretas enfatiza un programa específico; El Espectador ofrece visión integral",
+          "Caras y Caretas destaca 'Legítima Defensa'; El Espectador evita jerarquías",
+          "Diferentes enfoques editoriales: particular versus panorámico de la programación"
+        ]
+      }
+    },
+    {
+      "id": "story_012",
+      "topic": "Presidente enfrenta demanda de definiciones políticas",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Es hora de definir , señor Presidente",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9COHRGWEFpQ3ZXZVdEQkpUWFdGR00tdTdtaWl3TkRBM0FoMktFdzFJMzlwNXBlWGxUTFp5WGtFZGx1d3Zpa251QlhwaDFudmhoaVJ6NG1kc2ppZS1IaWNuODFvWjJwWV9haWNPcjFxc09HckVrdldSZkF4NElnSkU?oc=5",
+          "description": "Es hora de definir , señor Presidente &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-03-15T05:35:31+00:00",
+          "score": 5,
+          "score_reason": "Demanda de definiciones, tono crítico pero menos alarmista.",
+          "score_pct": 50
+        },
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Señor presidente, \"tenemos un problema\"",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT25VbktJbkJBOE5ZN3dlbXA0VlM1ZTV2eWZYWlQxMTBNVTJEOTFmZDVrWFNxRWhSemdHY0wwY1NBZWZ6TkNjeE83UVRWZ2U2TWt4TVYyN01aRFBTUWtsc1hKVmQ3OHAwOWJEVzRfT3U5T05xeUlKQ1ZtQlRNM284VGVoWVRxUlVjQmRKQWNn0gGTAUFVX3lxTFAwR1c0aEtua241YTA1NGJnUnFMMHZJSGlHcUZqZ0JhVFN3XzExZjY3aVZxV1dsbVdCWFpJNTRvRkNhQm1zbm1MNVRIcnl2VXl3elJFaWZ5NV9rWnAxSFBEcERPbUVZX2VHZTJNcTBNSlROUHh2YkJMX3dlQUZMdmNSdXdXTUJZRWFnczdzNC1TZWFfdw?oc=5",
+          "description": "Señor presidente, \"tenemos un problema\" &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-03-15T12:14:00+00:00",
+          "score": 6,
+          "score_reason": "Lenguaje dramático con comillas, sugiere crisis o urgencia.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Dos medios uruguayos plantean cuestionamientos al presidente sobre su gestión o rumbo político. Caras y Caretas utiliza una expresión de urgencia sugeriendo problemas no resueltos, mientras que Grupo R Multimedio insta a tomar decisiones claras. Ambos adoptan un tono crítico o de exigencia hacia la administración ejecutiva, reflejando preocupación sobre la conducción del país o definiciones pendientes en la agenda presidencial.",
+        "coincidencias": [
+          "Ambos dirigen directamente el mensaje al presidente",
+          "Ambos implican falta de claridad o definiciones pendientes",
+          "Ambos adoptan tono de interpelación o exigencia"
+        ],
+        "diferencias": [
+          "Caras y Caretas enfatiza problemas existentes; Grupo R exige decisiones futuras",
+          "Caras y Caretas es más alarmista; Grupo R más pragmático",
+          "Caras y Caretas usa entrecomillado para dramatizar; Grupo R es directo"
+        ]
+      }
+    },
+    {
+      "id": "story_013",
+      "topic": "UTE invertirá 2,5 millones en Florida",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Florida: UTE proyecta inversión de 2,5 millones de dólares y nuevas plantas de energía",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZC1RZk14UTFDQ0lPVWt6VmlSRnhvVUtVUDBtNzhQbUhJdGdTMGh4WUl2bWo4MHdEdzBvMWV0emhMRUh0UFhrV0FpWjd1NGpGUUxzcGpLa2VkbU01d01ranpVUmJOOWRwZHBjY1VFLUh3TkZkVWhoQngtSUdDV0hUNU1uaVkyLWk5MlRiNEJNbV9QMEFvWWIxMWdZVnhvUDBEdUVmU3F1R0JPMnFSSEdoZXRiMG93OHJZYlFMOThVRzRFUdIBxwFBVV95cUxQOHNucTF5UUhxRUZ0Y3NhdmZMWnpSeG9TczRuamZPUHhtd1I1NFJpNm9MQmNsNTlrZVpKRUJtd2tzSHFmWk5WUmZZMGwtWXRfdEpVREZaUnF4R3lPNlhfWTBIME9aMUNuaWZkcXVwdElYMnFRYXFvWXF4aG1GMlNyLS1UdUtYamJQOWRqYTBidXVwVXM2dlF4RWhrNUMtTzBCNEpDUGRqd25EZHNLLUotR1hjSEZMaWIyWDVrZ0k3RVl5MEh0NkNr?oc=5",
+          "description": "Florida: UTE proyecta inversión de 2,5 millones de dólares y nuevas plantas de energía &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-03-15T11:48:00+00:00",
+          "score": 1,
+          "score_reason": "Informativo y directo, expone datos sin adjetivos valorativos.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Florida y UTE coordinan inversiones estratégicas tras la misión oficial a China",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlNWTHlUeWt2UjhBdzNISFhiei1ULS1ycDV1NjVpVzdDVnlKeXdpZWZDSE5FVXZpR2MtZU41SkVkRDhsVkVlLUJ5MUVyamlTMVVNVk5vS0l3NHFzS1FHQWp4UmcyOFdJbThuRlh5WDZFeG93UG9lTmNvOTBLNkRIOUhYRHRFRWZqVXd2LTgtMFhaMzRpOEU0WGptWVVLNjhrd1JCa2dILVdMQ3E1djdNeHc5YkwzWjVVX3c?oc=5",
+          "description": "Florida y UTE coordinan inversiones estratégicas tras la misión oficial a China &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-03-15T05:25:04+00:00",
+          "score": 3,
+          "score_reason": "Introduce contexto de misión a China, genera conexión geopolítica innecesaria.",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "UTE anunció una inversión de 2,5 millones de dólares en el departamento de Florida para desarrollar nuevas plantas de energía. La coordinación entre la empresa estatal y la intendencia local se enmarca en iniciativas estratégicas. Según uno de los medios, esta articulación se produce tras una misión oficial a China. El proyecto apunta a fortalecer la infraestructura energética en la región.",
+        "coincidencias": [
+          "UTE realiza inversión económica en Florida",
+          "Monto específico de 2,5 millones de dólares",
+          "Coordinación entre UTE e instituciones locales"
+        ],
+        "diferencias": [
+          "Caras y Caretas enfatiza las plantas de energía como foco principal",
+          "Grupo R contextualiza la inversión dentro de una estrategia mayor vinculada a China",
+          "La R agrega variable geopolítica; Caras y Caretas mantiene neutralidad en alcance local"
+        ]
+      }
+    },
+    {
+      "id": "story_014",
+      "topic": "Nicolás Fonseca aspira a jugar un Mundial",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Nicolás Fonseca: “jugar un Mundial es mi sueño de niño” | La Mañana del Fútbol | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWV92TXdtX1BHeUFtZ2VSZjVFZUppdWRsai0teGRjQS1yYUtLblZOd3BGM0FqVjNYeFk2enZCekNTQ0Y1Z3hSSWhta0lWQXBBdFd5NUhYVzhUbXdOUlM4amtUek1tNnRHSlhUaV83MFF3NUJndTEzSkRTdzgxRUktRGw4Q2RQWjBFbXRsamJpVm5ZWk02aEF4TDk5bw?oc=5",
+          "description": "Nicolás Fonseca: “jugar un Mundial es mi sueño de niño” | La Mañana del Fútbol | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-03-16T13:21:21+00:00",
+          "score": 2,
+          "score_reason": "Cita directa del jugador, formato de entrevista, tono informativo.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Un gigante del BOOM latinoamericano - Diario La R",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVRfd0d2enZ1bGF6SV9RbTV5ZEd2SXFWb0hhajFhRldFTGJ5N3RuNTVNb0d4QUlvSm1UcFNSMFpSUVRESldYQUtYTUZoZzlQNC1qYWp2a01qcTZZam9UNnFlZjNGY1A4R0pFa3BkQU83X1AxMUFYcDN2VTI2WTE4N2RRSWlNa1JZRU5wbHc5aGRwN05yXzRnaw?oc=5",
+          "description": "Un gigante del BOOM latinoamericano - Diario La R &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-03-15T06:30:56+00:00",
+          "score": 6,
+          "score_reason": "Uso de adjetivo 'gigante' genera expectativa; 'BOOM' en mayúscula amplifica dramatismo.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Nicolás Fonseca, futbolista uruguayo, expresó su ilusión de participar en un Mundial, describiéndolo como un sueño de infancia. El jugador fue destacado en medios locales por su desempeño y proyección en el fútbol latinoamericano. La noticia circuló en distintos programas y publicaciones deportivas del país, generando expectativa sobre su futuro en competiciones internacionales.",
+        "coincidencias": [
+          "Ambos medios cubren a Nicolás Fonseca como figura futbolística relevante.",
+          "Se destaca su proyección y potencial en el fútbol latinoamericano.",
+          "Los medios le dan visibilidad en espacios deportivos principales."
+        ],
+        "diferencias": [
+          "El Espectador prioriza la voz del jugador mediante entrevista directa.",
+          "Grupo R utiliza lenguaje más laudatorio y sensacionalista con términos como 'gigante'.",
+          "El Espectador mantiene enfoque informativo; Diario La R enfatiza grandiosidad."
         ]
       }
     }
