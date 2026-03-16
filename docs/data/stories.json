@@ -1,4 +1,158 @@
 {
-  "generated_at": "2026-03-16T10:57:45.377726",
-  "stories": []
+  "generated_at": "2026-03-16T14:30:14.383478",
+  "stories": [
+    {
+      "id": "story_001",
+      "topic": "Médica Uruguaya inicia absorción de Cudam",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "La Médica Uruguaya inició el proceso para absorber a la mutualista Cudam - BÚSQUEDA",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHNGOC1MNUh3VkNtLTNEMWNGbXZWd3pTS2RoM3FwRW52VnYwX1BTVVRCQ1NaQ25ZZjBpRHhoNGVVS25OV3ZaZHNsWHpnNUpscHJHMUpPN1ZzUjdSV21FLXNjWTlHblNpMkRIdnYzaGtfWGdmbXo2UDVmVUpMVkpJcWhQY28xelpENmhxVnVHMWxJN3Z1NDBlVXlPOTllWk5lN09OUHV0eVBlUm14OXRwUDRDTFQ?oc=5",
+          "description": "La Médica Uruguaya inició el proceso para absorber a la mutualista Cudam &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-03-14T18:17:00+00:00",
+          "score": 1,
+          "score_reason": "Presenta hechos básicos sin contexto interpretativo.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Medica Uruguaya inició proceso para absorber a Cudam: prestadora de salud tiene \"déficit operativo\" - El Observador",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX2dMTUlkS2NrT1F0WlYwYzh1TFRYNzRpazcxUFB3bmFXYmNsblRKTDRBZGhBb0J1S2YxZ0doOVNtc1dEVVJBOXFyN2h6V2ZRTmVXM281NlZFTDJSYXFTVlRUNUFheGQxYXJKemJjRjJ1LUlsbVpuR1lkWURMS3Rva2tzdjAwYjg3NkZUSXJUdldWcVp6Y1VmTGVJSnJFRmxCY0JnbXNrOGlXbTNyTFNpV2JEb0pONWZZQi1MZ1kxeDhlRnpvODNFc2s3MHhDeG54TEHSAdcBQVVfeXFMTUg0U2xWcEJWN2tjdGZNLVFkMmVIY1BVQnhTQVVNaTVWaDRWRmNiZkZlYUViUERqVW5MOFVIUS1wbVlhd0prM0NOQlM0OEZFV1RLUjVKRjlMQjhEczJSMUd5SHI1RktGektyNDJxM1FWRlFJSTdpWW9FUWpKZllsVUtSUmx1Q1UxdU1QOFIwVEotQzhRWGtEM0Rfeld3ZHFsS0RIS1pyY1BjbDJvcDZhQXAzdFNkdnV5bUsxVmN5eXdXQTY3UEFUZHc0U09ZMzlTLWdtY1JBN0k?oc=5",
+          "description": "Medica Uruguaya inició proceso para absorber a Cudam: prestadora de salud tiene \"déficit operativo\" &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-03-14T19:32:00+00:00",
+          "score": 4,
+          "score_reason": "Incluye factor explicativo (déficit) pero enfatiza dificultades.",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "Médica Uruguaya inició un proceso para absorber a Cudam, otra prestadora de salud uruguaya. Cudam enfrenta dificultades financieras, presentando un déficit operativo que habría motivado esta operación. Se trata de una transacción entre dos mutualistas del sistema de salud privado nacional, buscando resolver problemas económicos de una de ellas.",
+        "coincidencias": [
+          "Médica Uruguaya protagoniza proceso de absorción",
+          "Cudam es la mutualista siendo absorbida",
+          "Se confirma acción empresarial formal en curso"
+        ],
+        "diferencias": [
+          "El Observador explicita el déficit operativo; Búsqueda omite causas",
+          "El Observador usa comillas para 'déficit operativo'; Búsqueda evita enfatizar problemas",
+          "El Observador destaca dificultades financieras; Búsqueda informa de forma más neutral"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Ceremonia de Premios Oscar 2026 se llevó a cabo",
+      "category": "Cultura",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Premios Oscar 2026: los mejores looks de la alfombra roja más esperada - BÚSQUEDA",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlJDN19kSzczQlktWWFTek8wX20yc2NFSzBZZXZlU1JlVlFaN3JQam5GQlg0T3I1ck1qaFFtWS1DSmRrOXNCbkVvM2lFSXl1NEpKTVc4VWF5N1gyTlZSRUVXR0dCYUxMYXR6XzNqRF9sZVhiWTktSzIweFN4bTZzaUs1dXBqVEVfSnExcVA0a0ptSU9tNXJIN19TeV9OdnF1Tnp6S0hZWTJsRmhSZ0VTV1FHdVE?oc=5",
+          "description": "Premios Oscar 2026: los mejores looks de la alfombra roja más esperada &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-03-15T23:21:00+00:00",
+          "score": 2,
+          "score_reason": "Enfoque neutro en aspecto visual, sin carga emocional.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Los cinco momentos más destacados de los Óscar 2026: desde mensajes políticos a los homenajes In Memoriam y bromas pesadas - subrayado.com.uy",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUjBkWk5yQ2pza3VxU2RPUWRNbkk5Y3llRmlQaFlPdGpiNUVuc3hQVWFUNlNGaHVHZEVzMGJvaGVIWHRfV1d2WWhnTDFtWjZOWGNPLXNzdEVycEhyWGFfLTVNOEVzWVZxOWZ3NEJPVFFUZy0tYXlKbmJoYmNKalNFYmROR3RhY3NzUl9MWVlXNC1UbzJXUnlDOEtObnJLSmtjbHdwOTlPWkxRbENuU25QSWNELVZjeDZXSHlHSEdvRk82TTNhNkp3Uko4X0RiMFlmb1U4ekZlaEF3NEtFYV9kVkJ30gHnAUFVX3lxTE4yd3c3S2VxeHBmT21DcXpCVFhzZ3dFMVlXTE9uakJPOUNKUlRid2NtMFNGZWgyNnRtVWRIYS00OHE1SjZpREhIRFRWc3hzU2RPS2pqYzktR2o0bUlrUXBLd3FHRktvaWh6eWhzdHdROERSa0RSQ0xxOWxEOFdtbzNORVpiRDdrbUF1aDZIWFRwd25WR3RaeEJVVGJiYW1GYW9wWnZFaXNUdTdndEFhcnJ5Sllhc1NOdVBuUTBxZmpDZkNsZGc4SlQ1Ujd2dmcwdjlnYzVpRF9VWnFfb21jaHlsSnB3ejF3NA?oc=5",
+          "description": "Los cinco momentos más destacados de los Óscar 2026: desde mensajes políticos a los homenajes In Memoriam y bromas pesadas &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-03-16T10:36:00+00:00",
+          "score": 4,
+          "score_reason": "Énfasis en momentos controvertidos sin valoración clara.",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "Se realizó la ceremonia de los Premios Oscar 2026. El evento incluyó momentos destacados que combinaron mensajes políticos, homenajes a fallecidos y bromas durante la transmisión. La alfombra roja fue uno de los aspectos más comentados por los asistentes y medios especializados. La ceremonia generó interés en diferentes aspectos: tanto en los contenidos y discursos como en la moda y estética del evento.",
+        "coincidencias": [
+          "Ambos medios cubrieron la ceremonia de los Oscar 2026",
+          "Los dos destacaron aspectos relevantes del evento para audiencias diferentes",
+          "Ambos reconocen la importancia mediática y social del evento"
+        ],
+        "diferencias": [
+          "Subrayado enfatiza momentos polémicos y discursos; Búsqueda se enfoca en moda",
+          "Subrayado menciona 'bromas pesadas' con tono descriptivo; Búsqueda usa 'looks esperados'",
+          "El enfoque de Subrayado es más editorial; Búsqueda es más lifestyle"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Ascenso de temperaturas para esta semana",
+      "category": "Otro",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Comienzo de semana con marcado ascenso de temperatura: máximas bastante por encima de los 30º - subrayado.com.uy",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWF9SRi1TVE1MRklvaWxDWHZnalhtclNHT0V1TExKUEE0RmZKd0Uxa05hOUV6d0RtNlFiakxFRWFubjBVSzFtZDIwMVAwbmNmcUVPeTVqRmVQQUlOSkRTUWlrbWxUVjh6V0NpMGl1eE41QmdMb0pBckdWNDFqbmwzR1VfQnNNTlVjWl9FaGlHTF92MGF4WkdqbGNwdE1iSjZ4ZnhLNXA3cGRvWWpOV0poZER30gG3AUFVX3lxTE9VdHJLQUNMQnZ0UEl3MGYwc2dsLVVvbnF6UVV1ZzQtVXFlSERySnRnN3R5NUhaWkotNTVsZ1hsTUJaWkljQllaMnhKZ3p2WmdKUmcxaDZ4X0hRSFAwRnd3Rnljb2o1ZTBVTXo4blc0N1BOM0NWU05jcXgxOEVhMDNScEFwVGRLRDAtZ2xValhvNzRJS3daRldoUWhGMFJkUkVuV3JXOE82bmFwX2g3RnZfTjk0WTB3UQ?oc=5",
+          "description": "Comienzo de semana con marcado ascenso de temperatura: máximas bastante por encima de los 30º &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-03-16T11:02:00+00:00",
+          "score": 1,
+          "score_reason": "Lenguaje descriptivo, objetivo, sin adjetivos cargados ni dramatismo.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "El verano se despide a toda máquina: se esperan temperaturas máximas de 36ºC y algunas lluvias para esta semana",
+          "url": "https://www.teledoce.com/telemundo/nacionales/el-verano-se-despide-a-toda-maquina-se-esperan-temperaturas-maximas-de-36oc-y-algunas-lluvias-para-esta-semana/",
+          "description": "El verano finaliza oficialmente el próximo viernes 20. La entrada El verano se despide a toda máquina: se esperan temperaturas máximas de 36ºC y algunas lluvias para esta semana se publicó primero en Teledoce.com .",
+          "pub_date": "2026-03-16T12:59:16+00:00",
+          "score": 5,
+          "score_reason": "Expresión 'a toda máquina' añade dramatismo innecesario al pronóstico.",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "Para el comienzo de la semana se espera un notable aumento de las temperaturas en Uruguay, con máximas que superarán los 30°C y llegarían hasta 36°C. Se prevén también algunas precipitaciones durante los próximos días. Este fenómeno coincide con el cierre de la estación veraniega, que culmina oficialmente el próximo viernes.",
+        "coincidencias": [
+          "Ambos medios reportan temperaturas máximas por encima de 30°C",
+          "Coinciden en que el evento ocurre al final de la estación veraniega",
+          "Ambos mencionan precipitaciones o lluvias esperadas para la semana"
+        ],
+        "diferencias": [
+          "Teledoce especifica 36°C mientras Subrayado generaliza 'bastante por encima de 30°'",
+          "Teledoce utiliza lenguaje emotivo ('se despide a toda máquina') versus tono neutro de Subrayado",
+          "Teledoce contextualiza con fecha exacta del final del verano (viernes 20)"
+        ]
+      }
+    }
+  ]
 }
