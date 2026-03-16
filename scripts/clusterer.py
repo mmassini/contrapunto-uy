@@ -55,9 +55,11 @@ def cluster_articles(articles: List[Dict]) -> List[List[Dict]]:
             if assigned[j]:
                 continue
 
-            # Use max similarity to any article already in the cluster
-            max_sim = max(sim_matrix[k][j] for k in cluster_indices)
-            if max_sim < CLUSTER_THRESHOLD:
+            # Use min similarity to ALL articles in the cluster (complete-linkage).
+            # This prevents chaining: A~B and B~C doesn't mean A~C.
+            # An article only joins if it's similar to every existing member.
+            min_sim = min(sim_matrix[k][j] for k in cluster_indices)
+            if min_sim < CLUSTER_THRESHOLD:
                 continue
 
             # Only add if it comes from a different source
