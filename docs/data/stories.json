@@ -1,9 +1,228 @@
 {
-  "generated_at": "2026-03-16T16:27:27.957648",
+  "generated_at": "2026-03-16T16:36:25.668156",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Ataque a sede comunista cubana por crisis económica",
+      "topic": "Irán rechaza negociaciones con Estados Unidos",
+      "category": "Internacional",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Canciller de Irán dijo que \"no ve ninguna razón para negociar\" con Estados Unidos: \"Somos lo suficientemente fuertes\"",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ1VjZEpnSHZWUEc5V2UwRU1OQ0ltYkR4bWJPbDNMZEtMT0YteEFrcDVLbEhXek9sOXlodUdPUjZnR1RsZHhWdzNFTmxGakdUOE01Q0d5VVN6SnJTb2xhN2VVbUo0LU1MQS1DN01VeENJMVZNSG8zT0REOHh1SU5nbS1aMmhoWGVBeHJKZVJwejh1cDdpcjFNN19URmpiS2RFekhzWHRVTlk2N2JUN0VMZF9NeEvSAboBQVVfeXFMT0Ewc0Y2T1dFVDVILXBLM0tUWjlBaldmUUQ0M3RjOFBMVnFhM3JJNjdXRmNmbFdUZlBlM0RadnVfUkJoS2hKTUJHdnZKc0Rob2FmekQwVVFIUGlGLTdTZXpidUdxRll0NWdGdHpFdXlUcXRsbGFOcTN2UWdYYmNnQjZZRks1enEwUDBVY3dMUlEweHdwYXY0VUZEMFd3X2JBWU9DTk5VcjlMVzg4LVpDZzhmV010NVcwelJn?oc=5",
+          "description": "Canciller de Irán dijo que \"no ve ninguna razón para negociar\" con Estados Unidos: \"Somos lo suficientemente fuertes\" &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-03-15T15:18:00+00:00",
+          "score": 3,
+          "score_reason": "Cita directa equilibrada, énfasis leve en la postura de fortaleza.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Irán advirtió que está preparado para continuar con la guerra y llevarla \"tan lejos como sea necesario\"",
+          "url": "https://www.teledoce.com/telemundo/internacionales/iran-advirtio-que-esta-preparado-para-continuar-con-la-guerra-y-llevarla-tan-lejos-como-sea-necesario/",
+          "description": "Irán sigue lanzando ataques contra bases militare estadounidenses en los países vecinos del Golfo, pero también contra infraestructuras civiles como aeropuertos, puertos e instalaciones petroleras. La entrada Irán advirtió que está preparado para continuar con la guerra y llevarla &quot;tan lejos como sea necesario&quot; se publicó primero en Teledoce.com .",
+          "pub_date": "2026-03-16T14:44:45+00:00",
+          "score": 6,
+          "score_reason": "Lenguaje alarmista con 'advertencia' y énfasis en escalada de violencia.",
+          "score_pct": 60
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "La represión iraní se intensifica a medida que avanza la guerra",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZllQekw5aWJmRVVocTdscFlXYThzQ0hNZzV4THNNM1N5cEtzTnhxSEVLaEpXR3Q4TVppSWdnVW1Iai13NlBGTUszYmlaZFZkUTFaMElnZ3ROMVRidFVhVURzdGFHVUVtUThVNGxwT0lIZzgtNVhvSDdMOHJHRG0tZERQSkZjME9fRGtueEZ2V19GdHhkWFoyQXNFX0wxNHc?oc=5",
+          "description": "La represión iraní se intensifica a medida que avanza la guerra &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-03-16T11:58:00+00:00",
+          "score": 7,
+          "score_reason": "Términos cargados como 'represión intensifica', tono catastrofista sin contexto.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "El canciller iraní declaró que no ve motivos para negociar con Estados Unidos, afirmando que Irán es lo suficientemente fuerte. En paralelo, Irán continúa realizando ataques contra bases militares estadounidenses y objetivos civiles en países del Golfo, mientras intensifica medidas represivas internas. La situación refleja un endurecimiento de la postura iraní en el conflicto regional.",
+        "coincidencias": [
+          "Irán adopta una postura firme y de no negociación ante Estados Unidos.",
+          "Hay una escalada de acciones militares y represivas por parte de Irán.",
+          "La situación evidencia un deterioro de las relaciones y tensión regional."
+        ],
+        "diferencias": [
+          "El Observador se enfoca en la declaración diplomática; Teledoce y Búsqueda en acciones militares y represivas.",
+          "El Observador usa tono más neutral; Teledoce advierte sobre continuidad del conflicto; Búsqueda enfatiza represión interna.",
+          "El Observador cita al canciller directamente; Teledoce y Búsqueda generalizan sobre acciones y consecuencias."
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Peñarol vence a Albion y lidera Apertura",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Apertura: ¿qué dijeron los jugadores de Peñarol tras el triunfo 1-0 ante Albion?",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeF9GaFJnOUZlY2dYRlYwWEdYSHdhYjhURld2RURjQWhuV25EMG13Q2RJVndHUnRteGZzaDNRaVgtWUtfNjdyUmgta2xGY19HUlZJdnZxRE5zUEVwcmxjWmJtZWVmTzVWT2hrY0lrbE9Welo5MUlNUXRSYzFaYi1ua3BCLW9SemQzVEtKMlVFSkdyWHRYcjRndXlSM1JxZDdGcElGQ1YxbGVkWjJhZEtIWVdaaWhrdEdaTXMxSk9aRkVfaGdqT0HSAeoBQVVfeXFMTmxOc3J0TnJqRWZzbF9VTGd6U0U0cWFyYlJSZVVTT3hyN2QzNW5pdzdTNkNRb3pQR1dxWXhOOXRnZVBEak02WUtOTlFyX1RmVy02UFloc0JMMTZvdC1udmJ0MWdva3ZHOEMwZ1Y4RlZhOWp1R1A5TFU4YWluLXlMRHlvOW1OU0RPYlpLWm4tZE1vTldhbGJMVmV2aFBTdlFLQzR0ay1mZ3dERFE2dktQVThWMml0eWhlQ3ctaG8tVkdCd0VtOGxKNzJ3TkxkWnZfbVhocUhPQTdQQndZMjE1VkJCQjNpaG9nN3F3?oc=5",
+          "description": "Apertura: ¿qué dijeron los jugadores de Peñarol tras el triunfo 1-0 ante Albion? &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-15T12:40:00+00:00",
+          "score": 1,
+          "score_reason": "Titulación informativa, pregunta neutra, sin énfasis emocional.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Con gol de su capitán, Peñarol derrotó a Albion y es líder del Torneo Apertura junto a Racing",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPamNVYkhYSDlrRVpGR3lpMXRaOWJxZDBQNnZyTENfVzFjcWh2QjIzT252bzBaQk5DWUhPRjRPUW5XdEN0TFVzejF0OVZtaElWYkZLUXhGMGxYYWtIMm83TEZHVzNPN3dOQXFISE0zV0UwQmxvQjZ0Qlk4cS1vRTVFU0tmcUhnSFhNYURuUXFYaUpyTEtsX2l2elV0dnN4MW56anBiVUFySlFydVg2NUd0MjhJLXVwY1JPLTZScUFWMy3SAcYBQVVfeXFMTi1HSTFrVjJ0M2VNeWpsZDN5Q1Ayc0lrLW9TaEpIcmx3QTl1Vi1KaVRabzQxSXBZOGh2RGVpbXB0SUJmbDBoYWRjTy1xNWtwRVZPc1F3akRYRERlQ3F4LXFDOVBIZFJWenNSUEtWODFPT1RnNmliTzV3UjNJVEFZbHMwdms2ZDBZbDU4M1dXTHFLYWpGTjVpSnd2VFpiUW1jQ0dZWEZ2YVF4M3hicFRfVjZvM3FLMTVKOVBiWm15U0swV3RpMlpB?oc=5",
+          "description": "Con gol de su capitán, Peñarol derrotó a Albion y es líder del Torneo Apertura junto a Racing &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-03-15T12:55:00+00:00",
+          "score": 3,
+          "score_reason": "Destaca al capitán y liderazgo, sutil énfasis positivo en Peñarol.",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Peñarol derrotó a Albion por 1-0 en el Torneo Apertura, con gol de su capitán. Con esta victoria, el equipo carbonero comparte la primera posición de la tabla con Racing Club. El resultado mantiene a Peñarol como uno de los principales contendientes del torneo.",
+        "coincidencias": [
+          "Peñarol venció a Albion por 1-0 en el Torneo Apertura",
+          "El gol fue marcado por el capitán de Peñarol",
+          "Peñarol lidera o comparte el liderato del torneo"
+        ],
+        "diferencias": [
+          "Subrayado enfatiza el rol del capitán; Montevideo Portal lo trata como información secundaria",
+          "Subrayado subraya el liderazgo compartido con Racing; Montevideo Portal solo pregunta por declaraciones",
+          "Subrayado adopta tono celebratorio; Montevideo Portal mantiene distancia informativa"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Gobierno Orsi enfrenta captura Marset y rechazo represa",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Presidente de Bolivia agradeció felicitaciones de Orsi por captura de Marset",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQkdadEQ5MFA0UlZCV3ZFRW5nWkpmUDFzSWJUdUF2RDluV0hhVDJON3B1aHZpQUx2M0xhZnpkbkZQMUhOQ3RKTXJmSkNDMFk5UnVpbzJieGZYOE52cjJtQlNsOEE0MjFOa3lzUzk4N0hfcVdFYU5mbjhhMHZVOHREU0sxcEtnMG1rdnh6NnV2UkF0QndpQnlUM19TdFM4b053N3R5YlJNWW0tTEx2WWhUNDVPVEp6cHhiQnlXSVA0MndXZ9IB5gFBVV95cUxOQkx5azJOcXA0MC1vczNHSzd1dU9JN3FQOUl6X2RrMExoSkNmY2JoeWwzdXBxbEh2SUlSV0hjSHdIVXFYbkJnM0R1U01HYU0yLUdOWFlnSHZFWUwydE5EMzZXWE43dDliUXBudEdZN3BiM3ZhTmtoOGNwQ0IzdEVyUG5UVVVBdmk4aUVzQS03eV9ycHlwRFoyaE1uUGtyZkdKQ1VFX1ZmYm9GNldvZEx4aEFYbFlvX2ZNaVRFcFhFMXdPbTZWVmF6N29aWHZzMXlJVXhDVmtOZGI4Y3Ntd0cwSFlheHVwQQ?oc=5",
+          "description": "Presidente de Bolivia agradeció felicitaciones de Orsi por captura de Marset &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-15T14:26:00+00:00",
+          "score": 2,
+          "score_reason": "Informativo directo, sin carga emocional, enuncia hechos objetivos.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Entregan carta a Orsi en rechazo a la represa de Casupá e invitan al presidente a recorrer la zona",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON01pRzhMVWNNV1lSRVg0YWhubHJaQlR1WXY5Q1hndm1VR2NuN1prV0d5aTFGZVhiSUljZGp0UWpkcDZNSHI2QUNSQklZTi1HbUlaN2JPREkxWWE0dGJHMzUzY0lGMjJLZkQ3S19zODdpVmp0dVU5UklHUGdQaEtSaGhmb2NubFphODBDNEJIdTRDWFRITF9zN2FVR2dnc3g0cHpFSnY2azN4TTB6Z0UtamgweW9HYk1wRTBRYldSSTczUdIBxwFBVV95cUxOUHBJdmstT3k4S1Y3cjNwbkc4TVdPRi1tV1lYdVFTT0QtWm9iRFRFM2hobGlqR19KM0RoblFZdDJmaDVsQzZ5UnRJSEZtZFhMQU54MFkwZmNjcHNrbi1rT1ByaXZFZWx6OFhvTmpRd1E1ZkczdlNtYUxWbVNGeDhoNXN3cmJqbjJuajZYaGluRlNsTHdqRi1FT09kaWZ2ZTN1ODRjZkRnWUpiVWoxT1R1a2cwU2RUaEhzRldpU25BNEV6b2prRUpZ?oc=5",
+          "description": "Entregan carta a Orsi en rechazo a la represa de Casupá e invitan al presidente a recorrer la zona &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-03-16T12:16:00+00:00",
+          "score": 4,
+          "score_reason": "Énfasis en 'rechazo' y 'invitación' subraya crítica sin ser alarmista.",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "El presidente Orsi recibió felicitaciones del presidente boliviano por la captura del narcotraficante Marset, constituyendo un logro en materia de seguridad. Simultáneamente, organizaciones sociales entregaron una carta de rechazo al proyecto de represa de Casupá, invitando al mandatario a visitar la zona afectada. Ambos eventos reflejan presiones contrapuestas sobre la gestión presidencial.",
+        "coincidencias": [
+          "Ambos eventos ocurren durante la administración Orsi",
+          "Se tratan temas de relevancia nacional: seguridad y medio ambiente",
+          "Demuestran presiones políticas simultáneas sobre el gobierno"
+        ],
+        "diferencias": [
+          "Montevideo Portal destaca logro internacional en seguridad; Subrayado prioriza movilización ambiental local",
+          "Tono de Portal celebratorio versus Subrayado crítico-movilizador",
+          "Portal enfatiza cooperación externa; Subrayado enfatiza disenso interno"
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Incendio en complejo Euskalerría de Malvín Norte",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Incendio en complejo de viviendas de Euskalerría fue controlado por Bomberos; no hubo heridos",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkszZm12aHZBbHprN25HeE1VYU5LR0thazM2N1c4S2FCWjl4bEthdWVFalhXR19jVVdYT0VyLXpQbUYwYXNnMG55ampxRHdIaXN4dENpSWphRUVZdnBkV2lhTTlxNmY5V2FRSVZmSzF0dVZYRFRKVGdPSTJSUDZzNlVEMGt3UlhuZmJrRlI5UXh4dGMzb3RWaGtTdnlEOE5jcUFtTWNpOWcydElIaUNxX0pCeF9iSkpR0gG-AUFVX3lxTE9TRThvbjRLWU9CbWJ2c3RGNWF2OGxpbTc0QS16SXJxal9ialdWTFB2S25qOVJRblNva3ZJYy0zVkR5RVhYekUtd1BOQkdPd2t0Uko1TUlWS1dQN3JUQWdGNHF3ZEdsWl9tQTNmcTM5QV9LVWJOamFyREFOWThxODc3SnYtUHNrYU81UWhhMXRfeUl1QUpLWGZMaENBX1V3ZS12dkxCMVllNG1VaGVnR2U3UDhIbktkaVgzbG5wVmc?oc=5",
+          "description": "Incendio en complejo de viviendas de Euskalerría fue controlado por Bomberos; no hubo heridos &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-03-15T15:48:00+00:00",
+          "score": 2,
+          "score_reason": "Destaca control y ausencia de heridos; tono informativo y tranquilizador.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Malvín Norte: incendio en torre 23 de Euskalerría generó evacuación de más de 100 vecinos",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNkRWd2oycUw1MWNjcHJfbjRLSzY5aU1ZS1NwVV9CODJNdEMxb0Z0NWxodDVObXJXeFRFaWgxMW92blo4cjRaOG1NN3JYZXJLLTNPRVVEYmhmaFoxRHJJQXZEeGEyTk5CYjdKdlpaNGhJSUJuaE5BY2dUMWltR1NpSEFJYzJFTlkzYWNBVldwcnRUeExXQzhYbEZJZmo4bENZbEpsU3UtNkJuNU9ZaGUxX29tLVMxMDQ3cE5CSm5tTHpTdXNjcndxNXJpcGpnak1zNFHSAfYBQVVfeXFMTUpGN2UzNGFtLVlPdDlFZ1BfLUQ2aXRNdGMyVHhZdHRVWFIzTnkyVDJ3X3JDZ3VoWDFfb3RySU9vdTBtQ0NuSzh0V2pwdFZBXzludFVyQ1NqU3FXMkVNMXBCVVNUUVQ4VlBORXBucTBRYmxPX3BhcWRrNHY2eHBHSFBEQ0dZb1g1anpOSzV6bmwtekhtQVlSQnRuaTZITEdyMFQ0UG9vUU9URUlicFp2OEg0bl9nVENSYXF4QWFmWmJqYzBLLU5YQ1hta3JkQ0hpbE9XTlhMQ2lza3FKXzcwZG9nZGdXRkFyNXljWmZyU2wyYmJCNDd3?oc=5",
+          "description": "Malvín Norte: incendio en torre 23 de Euskalerría generó evacuación de más de 100 vecinos &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-15T20:55:00+00:00",
+          "score": 4,
+          "score_reason": "Enfatiza evacuación; lenguaje descriptivo pero neutro generalmente.",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "Un incendio afectó la torre 23 del complejo de viviendas Euskalerría en Malvín Norte, obligando a evacuar a más de 100 vecinos. El fuego fue controlado por Bomberos sin dejar heridos. El siniestro se registró en un edificio residencial de la zona norte de Montevideo, siendo atendido por los servicios de emergencia de forma efectiva.",
+        "coincidencias": [
+          "El incendio ocurrió en el complejo Euskalerría",
+          "Se ubicó en la torre 23 de la zona de Malvín Norte",
+          "Bomberos controló la situación sin víctimas fatales"
+        ],
+        "diferencias": [
+          "Montevideo Portal prioriza la evacuación de vecinos como dato central",
+          "Subrayado enfatiza el control del incendio y la ausencia de heridos",
+          "Distintos ángulos: impacto en residentes versus gestión efectiva del siniestro"
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Ataque a sede comunista durante crisis en Cuba",
       "category": "Internacional",
       "sources_count": 2,
       "headlines": [
@@ -19,7 +238,7 @@
           "description": "PCU convoca a concretar avances en seguridad social y a redoblar solidaridad con Cuba &nbsp;&nbsp; Caras y Caretas",
           "pub_date": "2026-03-16T00:05:00+00:00",
           "score": 4,
-          "score_reason": "Encuadre político institucional, omite contexto del ataque",
+          "score_reason": "Enfoque en respuesta política; omite contexto del ataque, levemente parcial.",
           "score_pct": 40
         },
         {
@@ -34,27 +253,27 @@
           "description": "Apagones y escasez detonan ataque a una sede del Partido Comunista en Cuba &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-03-15T17:35:00+00:00",
           "score": 6,
-          "score_reason": "Enfatiza lo dramático y causal (apagones detonan ataque)",
+          "score_reason": "Enfatiza causas materiales; lenguaje descriptivo pero con carga implícita.",
           "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Se produjo un ataque a una sede del Partido Comunista en Cuba, aparentemente vinculado a la situación de apagones y escasez que atraviesa la isla. El Partido Comunista Uruguayo (PCU) convocó a redoblar la solidaridad con Cuba y avanzar en seguridad social. Los medios difieren en el énfasis: mientras algunos destacan los hechos violentos y sus causas económicas, otros priorizan la respuesta política del PCU y la necesidad de solidaridad internacional.",
+        "resumen": "Se produjo un ataque a una sede del Partido Comunista de Cuba en el contexto de una crisis económica caracterizada por apagones y escasez de recursos. El Partido Comunista Uruguayo respondió convocando a fortalecer la solidaridad internacional con Cuba y a avanzar en políticas de seguridad social. El hecho refleja tensiones sociales en la isla caribeña.",
         "coincidencias": [
-          "Ocurrió un incidente violento en una sede comunista cubana",
-          "Existe una crisis económica grave en Cuba con apagones",
-          "El PCU tomó postura sobre la situación cubana"
+          "Ambos medios reconocen una crisis en Cuba (apagones, escasez, ataque).",
+          "Ambos vinculan el evento a dinámicas políticas y sociales.",
+          "Ambos abordan la noticia desde perspectivas ligadas al Partido Comunista."
         ],
         "diferencias": [
-          "Subrayado prioriza lo acontecido (ataque); Caras y Caretas, la respuesta política (convocatoria)",
-          "Subrayado subraya causalidad entre crisis y violencia; Caras y Caretas la omite",
-          "Subrayado usa lenguaje más descriptivo-informativo; Caras y Caretas es más declarativo"
+          "Subrayado subraya las causas materiales de la protesta; Caras y Caretas omite el ataque.",
+          "Subrayado usa lenguaje más neutral-descriptivo; Caras y Caretas enfatiza solidaridad.",
+          "Subrayado da protagonismo al evento; Caras y Caretas lo subordina a agenda política."
         ]
       }
     },
     {
-      "id": "story_002",
-      "topic": "Ceremonia de los Premios Oscar 2026",
+      "id": "story_006",
+      "topic": "Ceremonia de Premios Oscar 2026 se realizó",
       "category": "Cultura",
       "sources_count": 2,
       "headlines": [
@@ -70,7 +289,7 @@
           "description": "Premios Oscar 2026: los mejores looks de la alfombra roja más esperada &nbsp;&nbsp; BÚSQUEDA",
           "pub_date": "2026-03-15T23:21:00+00:00",
           "score": 2,
-          "score_reason": "Enfoque meramente informativo en aspectos estéticos de la alfombra roja.",
+          "score_reason": "Enfoque fashion, neutral y descriptivo sin carga editorial",
           "score_pct": 20
         },
         {
@@ -85,72 +304,21 @@
           "description": "Los cinco momentos más destacados de los Óscar 2026: desde mensajes políticos a los homenajes In Memoriam y bromas pesadas &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-03-16T10:36:00+00:00",
           "score": 4,
-          "score_reason": "Énfasis en lo polémico y espectacular sin ser alarmista.",
+          "score_reason": "Énfasis en aspectos controvertidos como 'bromas pesadas'",
           "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "Se llevó a cabo la ceremonia de los Premios Oscar 2026, que destacó por diversos momentos relevantes. La transmisión incluyó mensajes políticos, homenajes a personalidades fallecidas, bromas de distinta índole, y una alfombra roja con destacadas propuestas de moda. La gala reunió los momentos más comentados del evento cinematográfico más importante del año.",
+        "resumen": "Se llevó a cabo la ceremonia de los Premios Oscar 2026. El evento contó con varios momentos destacados, incluyendo mensajes políticos de los presentadores y artistas, homenajes a personalidades fallecidas de la industria cinematográfica, y bromas que generaron reacciones variadas. Además, la alfombra roja fue escenario de diversos looks de diseño que acapararon atención mediática.",
         "coincidencias": [
-          "Ambos medios cubrieron la ceremonia de los Óscar 2026",
-          "Reconocen la relevancia mediática y el interés público del evento",
-          "Destacan aspectos visuales y momentos memorables de la gala"
+          "Ambos cubrieron la ceremonia de los Oscar 2026",
+          "Los medios priorizaron aspectos visuales y de entretenimiento",
+          "Se destacó la importancia y expectativa generada por el evento"
         ],
         "diferencias": [
-          "Subrayado prioriza lo polémico y controversial; Búsqueda se centra en moda",
-          "Subrayado incluye mensajes políticos como noticia; Búsqueda los ignora",
-          "Subrayado aborda bromas y conflictos; Búsqueda enfatiza looks positivamente"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Irán intensifica acciones militares y represión",
-      "category": "Internacional",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Irán advirtió que está preparado para continuar con la guerra y llevarla \"tan lejos como sea necesario\"",
-          "url": "https://www.teledoce.com/telemundo/internacionales/iran-advirtio-que-esta-preparado-para-continuar-con-la-guerra-y-llevarla-tan-lejos-como-sea-necesario/",
-          "description": "Irán sigue lanzando ataques contra bases militare estadounidenses en los países vecinos del Golfo, pero también contra infraestructuras civiles como aeropuertos, puertos e instalaciones petroleras. La entrada Irán advirtió que está preparado para continuar con la guerra y llevarla &quot;tan lejos como sea necesario&quot; se publicó primero en Teledoce.com .",
-          "pub_date": "2026-03-16T14:44:45+00:00",
-          "score": 4,
-          "score_reason": "Reproduce declaración oficial iraní sin contexto adicional, tono informativo.",
-          "score_pct": 40
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "La represión iraní se intensifica a medida que avanza la guerra",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZllQekw5aWJmRVVocTdscFlXYThzQ0hNZzV4THNNM1N5cEtzTnhxSEVLaEpXR3Q4TVppSWdnVW1Iai13NlBGTUszYmlaZFZkUTFaMElnZ3ROMVRidFVhVURzdGFHVUVtUThVNGxwT0lIZzgtNVhvSDdMOHJHRG0tZERQSkZjME9fRGtueEZ2V19GdHhkWFoyQXNFX0wxNHc?oc=5",
-          "description": "La represión iraní se intensifica a medida que avanza la guerra &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-03-16T11:58:00+00:00",
-          "score": 6,
-          "score_reason": "Término 'represión' carga emocionalmente; vincula represión interna con guerra externa.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "Irán ha intensificado sus operaciones militares contra bases estadounidenses en países del Golfo Pérsico, ampliando sus ataques a infraestructuras civiles como aeropuertos, puertos e instalaciones petroleras. Simultáneamente, el gobierno iraní ha endurecido la represión interna mientras continúa la escalada bélica regional. Las autoridades iraníes han manifestado su disposición para prolongar el conflicto indefinidamente.",
-        "coincidencias": [
-          "Irán está escalando sus operaciones militares y bélicas",
-          "Hay un patrón de intensificación de acciones iraníes",
-          "La situación en la región se agrava progresivamente"
-        ],
-        "diferencias": [
-          "Teledoce enfatiza declaraciones de intención iraní; Búsqueda destaca represión interna",
-          "Teledoce especifica objetivos militares; Búsqueda generaliza con 'represión'",
-          "Teledoce es más factual; Búsqueda añade connotación crítica"
+          "Subrayado enfatiza momentos polémica y mensajes políticos; Búsqueda enfatiza moda",
+          "Subrayado usa lenguaje evaluativo ('pesadas'); Búsqueda es descriptivo ('esperada')",
+          "Subrayado prioriza controversia; Búsqueda prioriza estética y estilos"
         ]
       }
     }
