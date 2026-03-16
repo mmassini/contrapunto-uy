@@ -147,6 +147,24 @@ SOURCES = {
         "color": "#4E342E",
         "text_color": "#FFFFFF",
     },
+    "espectador": {
+        "name": "El Espectador",
+        "short": "ESP",
+        "url": "https://www.espectador.com",
+        "rss": _GN.format(domain="espectador.com"),
+        "rss_fallbacks": ["https://www.espectador.com/rss/"],
+        "color": "#1565C0",
+        "text_color": "#FFFFFF",
+    },
+    "grupor": {
+        "name": "Grupo R Multimedio",
+        "short": "GRM",
+        "url": "https://www.grupormultimedio.com",
+        "rss": _GN.format(domain="grupormultimedio.com"),
+        "rss_fallbacks": [],
+        "color": "#6A1B9A",
+        "text_color": "#FFFFFF",
+    },
 }
 
 # How many hours back to look for articles
