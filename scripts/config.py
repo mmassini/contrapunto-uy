@@ -142,4 +142,4 @@ LOOKBACK_HOURS = 48
 MAX_STORIES_PER_RUN = 20
 
 # Clustering similarity threshold (0-1). Higher = stricter grouping.
-CLUSTER_THRESHOLD = 0.58
+CLUSTER_THRESHOLD = 0.62
