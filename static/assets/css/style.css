@@ -275,6 +275,33 @@ main {
   transform: translateX(2px);
 }
 
+.source-label {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  width: 110px;
+  margin-top: 2px;
+}
+
+.source-dot {
+  flex-shrink: 0;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+}
+
+.source-name-text {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: var(--ink-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* kept for story detail score table */
 .source-badge {
   flex-shrink: 0;
   display: inline-flex;

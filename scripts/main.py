@@ -51,6 +51,26 @@ def main() -> None:
         logger.info("▶ Step 3/4: Analyzing with Claude ...")
         stories = analyze_all_clusters(clusters, api_key)
 
+        # Filter out trivial/weather stories
+        _SKIP_CATEGORIES = {"clima", "tiempo", "weather"}
+        _SKIP_KEYWORDS = {
+            "temperatura", "pronóstico", "pronostico", "lluvia", "lluvias",
+            "viento", "nublado", "soleado", "calor", "frío", "frio",
+            "tormenta", "granizo", "helada", "humedad",
+        }
+        before = len(stories)
+        stories = [
+            s for s in stories
+            if s.get("category", "").lower() not in _SKIP_CATEGORIES
+            and not any(
+                kw in s.get("topic", "").lower()
+                for kw in _SKIP_KEYWORDS
+            )
+        ]
+        skipped = before - len(stories)
+        if skipped:
+            logger.info(f"  Filtered {skipped} trivial/weather stories")
+
     # 4. Build HTML site
     logger.info("▶ Step 4/4: Building site ...")
     base_dir = Path(__file__).parent.parent

@@ -33,6 +33,11 @@ def _strip_html(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
+def _strip_gn_suffix(title: str) -> str:
+    """Remove Google News ' - SOURCE NAME' suffix from titles."""
+    return re.sub(r"\s+-\s+[^-]+$", "", title).strip()
+
+
 def _parse_date(entry) -> Optional[datetime.datetime]:
     for attr in ("published_parsed", "updated_parsed", "created_parsed"):
         val = getattr(entry, attr, None)
@@ -96,7 +101,7 @@ def fetch_feed(source_id: str, source: dict) -> List[Dict]:
         return []
 
     for entry in feed.entries:
-        title = _strip_html(entry.get("title", "")).strip()
+        title = _strip_gn_suffix(_strip_html(entry.get("title", "")).strip())
         url = entry.get("link", "")
         if not title or not url:
             continue
