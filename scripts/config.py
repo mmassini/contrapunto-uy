@@ -136,7 +136,7 @@ SOURCES = {
 }
 
 # How many hours back to look for articles
-LOOKBACK_HOURS = 48
+LOOKBACK_HOURS = 24
 
 # Max story groups to analyze with Claude (controls API cost)
 MAX_STORIES_PER_RUN = 20
