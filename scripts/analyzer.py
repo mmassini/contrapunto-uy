@@ -18,9 +18,9 @@ Sos un periodista uruguayo experimentado e imparcial. Te muestro titulares de di
 MEDIOS Y TITULARES:
 {headlines}
 
-PRIMERO: ¿Estos titulares cubren el MISMO EVENTO ESPECÍFICO (mismo hecho, misma persona, misma situación concreta)? No alcanza con que sean del mismo tema general (ej: "política uruguaya" no es suficiente; sí lo es "renuncia del ministro X el martes").
+PRIMERO: ¿Tiene sentido comparar estos titulares? Respondé "mismo_evento": false SOLO si son claramente noticias sin ninguna relación entre sí (ej: un titular sobre fútbol, otro sobre economía, otro sobre salud — temas completamente distintos). Respondé true si cubren el mismo acontecimiento, la misma persona/institución en la misma situación, o el mismo tema noticioso del momento (incluso si el ángulo difiere).
 
-Si NO son el mismo evento, respondé solo: {{"mismo_evento": false}}
+Si claramente NO tienen relación, respondé solo: {{"mismo_evento": false}}
 
 Si SÍ son el mismo evento, tu tarea completa:
 1. Escribí un RESUMEN OBJETIVO de lo que pasó (máximo 150 palabras, en español rioplatense, sin tomar partido).
