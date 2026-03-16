@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contrapunto UY — La misma noticia, distintas voces</title>
+  <meta name="description" content="Compará los titulares de los principales medios uruguayos sobre la misma noticia. Análisis objetivo con IA.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Serif+4:opsz,wght@8..60,300;8..60,400;8..60,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+/* ── Variables ── */
+:root {
+  --paper:       #F5F0E8;
+  --paper-dark:  #EDE8DC;
+  --ink:         #1A1A2E;
+  --ink-muted:   #4A4A5A;
+  --ink-light:   #888899;
+  --accent:      #1E3A8A;
+  --accent-alt:  #C41E3A;
+  --card-bg:     #FDFAF4;
+  --card-border: #D4CFC4;
+  --shadow:      0 2px 12px rgba(26,26,46,0.10);
+  --shadow-hover:0 6px 24px rgba(26,26,46,0.16);
+  --radius:      4px;
+  --green:       #2E7D32;
+  --yellow:      #F9A825;
+  --red:         #C62828;
+}
+
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+html{scroll-behavior:smooth;}
+body{
+  font-family:'Source Serif 4',Georgia,serif;
+  background:var(--paper);
+  color:var(--ink);
+  line-height:1.6;
+}
+a{color:inherit;text-decoration:none;}
+
+/* ── Header ── */
+#header{
+  background:var(--ink);
+  color:#F5F0E8;
+  border-bottom:4px solid var(--accent-alt);
+}
+.hinner{
+  max-width:1280px;margin:0 auto;
+  padding:1.5rem 1.5rem 1rem;
+}
+.htop{display:flex;align-items:baseline;gap:1rem;flex-wrap:wrap;}
+.logo{
+  font-family:'Playfair Display',serif;
+  font-size:clamp(2rem,5vw,3.5rem);
+  font-weight:900;letter-spacing:-0.02em;line-height:1;
+}
+.logo span{color:var(--accent-alt);}
+.tagline{
+  font-family:'Inter',sans-serif;
+  font-size:0.82rem;font-weight:400;
+  letter-spacing:0.12em;text-transform:uppercase;
+  color:#AAA8B8;padding-left:0.2rem;
+}
+.hmeta{
+  display:flex;align-items:center;justify-content:space-between;
+  flex-wrap:wrap;gap:.5rem;
+  margin-top:.75rem;padding-top:.75rem;
+  border-top:1px solid rgba(255,255,255,.1);
+  font-family:'Inter',sans-serif;font-size:.75rem;color:#AAA8B8;
+}
+.hstats{display:flex;gap:1.5rem;}
+.hstats strong{color:#F5F0E8;}
+
+/* ── Ad banner ── */
+.ad-banner{
+  max-width:1280px;margin:1rem auto;
+  background:var(--paper-dark);
+  border:1px dashed var(--card-border);
+  height:80px;display:flex;align-items:center;justify-content:center;
+  font-family:'Inter',sans-serif;font-size:.65rem;letter-spacing:.15em;
+  color:var(--ink-light);text-transform:uppercase;
+}
+
+/* ── Main ── */
+main{max-width:1280px;margin:0 auto;padding:2rem 1.5rem 4rem;}
+
+.section-rule{
+  display:flex;align-items:center;gap:.75rem;margin-bottom:2rem;
+}
+.rule-line{flex:1;height:3px;background:var(--ink);}
+.rule-title{
+  font-family:'Playfair Display',serif;font-size:1.05rem;
+  font-weight:700;letter-spacing:.08em;text-transform:uppercase;
+  white-space:nowrap;
+}
+
+/* ── Grid ── */
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(360px,1fr));
+  gap:2rem;
+}
+
+/* ── Card ── */
+.card{
+  background:var(--card-bg);
+  border:1px solid var(--card-border);
+  border-radius:var(--radius);
+  box-shadow:var(--shadow);
+  display:flex;flex-direction:column;
+  overflow:hidden;
+  transition:box-shadow .2s,transform .2s;
+  position:relative;
+}
+.card:hover{box-shadow:var(--shadow-hover);transform:translateY(-2px);}
+
+/* Colour top stripe */
+.card::before{
+  content:'';display:block;height:5px;
+  background:linear-gradient(90deg,
+    var(--accent) 0%,var(--accent) 35%,
+    var(--accent-alt) 35%,var(--accent-alt) 65%,
+    var(--accent) 65%,var(--accent) 100%);
+}
+
+/* Card header */
+.card-head{
+  padding:1.25rem 1.25rem .75rem;
+  border-bottom:1px solid var(--paper-dark);
+}
+.cat{
+  display:inline-block;
+  font-family:'Inter',sans-serif;
+  font-size:.6rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;
+  background:var(--ink);color:#F5F0E8;
+  padding:.15rem .5rem;border-radius:2px;margin-bottom:.5rem;
+}
+.topic{
+  font-family:'Playfair Display',serif;
+  font-size:1.15rem;font-weight:700;line-height:1.3;
+}
+.card-meta{
+  font-family:'Inter',sans-serif;font-size:.68rem;
+  color:var(--ink-light);margin-top:.35rem;
+}
+
+/* Headlines */
+.headlines{padding:.5rem 0 .25rem;}
+.hl-label{
+  font-family:'Inter',sans-serif;
+  font-size:.6rem;font-weight:700;
+  letter-spacing:.12em;text-transform:uppercase;
+  color:var(--ink-light);padding:.3rem 1.25rem .4rem;
+}
+.hl-row{
+  display:flex;align-items:flex-start;gap:.6rem;
+  padding:.55rem 1.25rem;
+  border-bottom:1px solid var(--paper-dark);
+  transition:background .15s;
+  cursor:pointer;
+}
+.hl-row:last-child{border-bottom:none;}
+.hl-row:hover{background:var(--paper-dark);}
+.hl-row:hover .hl-arrow{opacity:1;transform:translateX(2px);}
+
+.badge{
+  flex-shrink:0;
+  display:inline-flex;align-items:center;justify-content:center;
+  width:36px;height:22px;border-radius:3px;
+  font-family:'Inter',sans-serif;font-size:.58rem;font-weight:700;
+  letter-spacing:.02em;margin-top:1px;
+}
+.hl-text{
+  flex:1;
+  font-family:'Source Serif 4',serif;
+  font-size:.86rem;line-height:1.45;
+}
+.hl-arrow{
+  flex-shrink:0;opacity:.35;
+  transition:opacity .15s,transform .15s;
+  font-size:.78rem;color:var(--accent);margin-top:3px;
+}
+
+/* ── Spectrometer ── */
+.spectro{
+  padding:.9rem 1.25rem .7rem;
+  border-top:1px solid var(--paper-dark);
+  background:rgba(245,240,232,.5);
+}
+.spectro-title{
+  font-family:'Inter',sans-serif;
+  font-size:.6rem;font-weight:700;
+  letter-spacing:.12em;text-transform:uppercase;
+  color:var(--ink-light);margin-bottom:.55rem;
+}
+.spectro-wrap{display:flex;align-items:center;gap:.6rem;}
+.spectro-lbl{
+  font-family:'Inter',sans-serif;
+  font-size:.6rem;font-weight:700;
+  white-space:nowrap;flex-shrink:0;
+}
+.spectro-lbl.l{color:var(--green);}
+.spectro-lbl.r{color:var(--red);}
+.spectro-track{
+  flex:1;position:relative;height:28px;
+  display:flex;align-items:center;
+}
+.spectro-line{
+  position:absolute;left:0;right:0;height:4px;border-radius:2px;
+  background:linear-gradient(to right,var(--green),var(--yellow),var(--red));
+  opacity:.85;
+}
+.tick{
+  position:absolute;top:50%;width:1px;height:8px;
+  background:rgba(26,26,46,.12);transform:translateY(-50%);
+}
+.dot{
+  position:absolute;top:50%;
+  width:16px;height:16px;border-radius:50%;
+  border:2.5px solid #FDFAF4;
+  box-shadow:0 1px 4px rgba(0,0,0,.3);
+  transform:translate(-50%,-50%);
+  cursor:pointer;transition:transform .15s,box-shadow .15s;
+  z-index:2;
+}
+.dot:hover{
+  transform:translate(-50%,-50%) scale(1.55);
+  box-shadow:0 2px 8px rgba(0,0,0,.35);z-index:10;
+}
+/* CSS tooltip */
+.dot::after{
+  content:attr(data-tip);
+  position:absolute;bottom:calc(100% + 7px);left:50%;
+  transform:translateX(-50%);
+  background:var(--ink);color:#F5F0E8;
+  font-family:'Inter',sans-serif;font-size:.62rem;
+  padding:.25rem .5rem;border-radius:3px;
+  white-space:nowrap;max-width:220px;
+  overflow:hidden;text-overflow:ellipsis;
+  pointer-events:none;opacity:0;
+  transition:opacity .15s;z-index:100;
+}
+.dot:hover::after{opacity:1;}
+
+/* ── Accordion ── */
+.acc{border-top:1px solid var(--card-border);}
+.acc-btn{
+  width:100%;padding:.8rem 1.25rem;
+  display:flex;align-items:center;justify-content:space-between;gap:.5rem;
+  background:none;border:none;cursor:pointer;
+  font-family:'Inter',sans-serif;font-size:.76rem;font-weight:600;
+  color:var(--accent);letter-spacing:.02em;
+  transition:background .15s;text-align:left;
+}
+.acc-btn:hover{background:rgba(30,58,138,.05);}
+.acc-arrow{flex-shrink:0;font-size:.7rem;transition:transform .25s;}
+.acc-btn.open .acc-arrow{transform:rotate(180deg);}
+.acc-lbl-close{display:inline;}
+.acc-lbl-open{display:none;}
+.acc-btn.open .acc-lbl-close{display:none;}
+.acc-btn.open .acc-lbl-open{display:inline;}
+.acc-body{
+  display:none;padding:0 1.25rem 1.25rem;
+  font-size:.85rem;line-height:1.65;
+}
+.acc-body.open{display:block;}
+.acc-brand{
+  display:inline-flex;align-items:center;gap:.4rem;
+  font-family:'Playfair Display',serif;font-weight:700;
+  font-size:.8rem;color:var(--accent);margin-bottom:.6rem;
+}
+.acc-resumen{color:var(--ink);margin-bottom:.9rem;}
+.acc-points h4{
+  font-family:'Inter',sans-serif;font-size:.65rem;font-weight:700;
+  letter-spacing:.1em;text-transform:uppercase;
+  color:var(--ink-muted);margin-bottom:.3rem;
+}
+.acc-points ul{list-style:none;margin-bottom:.7rem;}
+.acc-points li{
+  padding-left:.9rem;margin-bottom:.2rem;font-size:.8rem;
+  color:var(--ink-muted);position:relative;
+}
+.acc-points li::before{
+  content:'▸';position:absolute;left:0;color:var(--accent);
+}
+.acc-disc{
+  font-family:'Inter',sans-serif;font-size:.65rem;
+  color:var(--ink-light);border-top:1px solid var(--paper-dark);
+  margin-top:.65rem;padding-top:.45rem;
+}
+
+/* ── Footer ── */
+footer{
+  background:var(--ink);color:#888899;
+  padding:2rem 1.5rem;
+  font-family:'Inter',sans-serif;font-size:.74rem;
+  border-top:4px solid var(--accent-alt);
+}
+.finner{
+  max-width:1280px;margin:0 auto;
+  display:flex;align-items:center;justify-content:space-between;
+  flex-wrap:wrap;gap:1rem;
+}
+.fbrand{
+  font-family:'Playfair Display',serif;
+  font-weight:700;font-size:1rem;color:#F5F0E8;
+}
+.fbrand span{color:var(--accent-alt);}
+.flinks{display:flex;gap:1.5rem;flex-wrap:wrap;}
+.flinks a:hover{color:#F5F0E8;}
+
+/* ── Scroll top ── */
+#stbtn{
+  position:fixed;bottom:2rem;right:2rem;
+  width:40px;height:40px;
+  background:var(--ink);color:#F5F0E8;
+  border:none;border-radius:50%;cursor:pointer;
+  font-size:1rem;display:none;
+  align-items:center;justify-content:center;
+  box-shadow:0 2px 8px rgba(0,0,0,.3);
+  transition:background .15s;z-index:50;
+}
+#stbtn:hover{background:var(--accent);}
+#stbtn.v{display:flex;}
+
+/* ── Responsive ── */
+@media(max-width:640px){
+  .grid{grid-template-columns:1fr;gap:1.25rem;}
+  .hstats{gap:1rem;}
+  .finner{flex-direction:column;text-align:center;}
+  .flinks{justify-content:center;}
+}
+@media(max-width:480px){
+  .spectro-lbl{display:none;}
+}
+</style>
+</head>
+<body>
+
+<!-- ═══════════════ HEADER ═══════════════ -->
+<header id="header">
+  <div class="hinner">
+    <div class="htop">
+      <h1 class="logo">Contra<span>punto</span> UY</h1>
+      <p class="tagline">La misma noticia, distintas voces</p>
+    </div>
+    <div class="hmeta">
+      <span>Actualizado el 15 de marzo de 2026 a las 07:02</span>
+      <div class="hstats">
+        <span><strong>8</strong> noticias comparadas</span>
+        <span><strong>10</strong> medios</span>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Ad banner placeholder -->
+<div class="ad-banner" style="padding:0 1.5rem;">PUBLICIDAD</div>
+
+<!-- ═══════════════ MAIN ═══════════════ -->
+<main>
+
+  <div class="section-rule">
+    <div class="rule-line"></div>
+    <h2 class="rule-title">Hoy en los medios</h2>
+    <div class="rule-line"></div>
+  </div>
+
+  <div class="grid">
+
+    <!-- ═══ NOTICIA 1: ECONOMÍA ═══ -->
+    <article class="card">
+      <div class="card-head">
+        <span class="cat">Economía</span>
+        <h2 class="topic">Gobierno anuncia ajuste presupuestal para reducir el déficit</h2>
+        <p class="card-meta">5 medios · 15 de marzo de 2026</p>
+      </div>
+
+      <div class="headlines">
+        <p class="hl-label">Titulares</p>
+
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#003F7F;color:#fff;">EP</span>
+          <span class="hl-text">Gobierno presentó ajuste fiscal con racionalización del 3% en el gasto público</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#D32F2F;color:#fff;">EO</span>
+          <span class="hl-text">Ejecutivo confirmó recorte presupuestal para atacar el déficit fiscal de 3,8%</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#0D47A1;color:#fff;">MP</span>
+          <span class="hl-text">Ajuste al presupuesto: qué cambia, a quiénes afecta y cuándo entra en vigencia</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#1B5E20;color:#fff;">LD</span>
+          <span class="hl-text">Ajuste presupuestal impactará en salarios docentes y servicios de salud según sindicatos</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#B71C1C;color:#fff;">LR</span>
+          <span class="hl-text">Brutal recorte del gobierno golpea a los trabajadores más vulnerables del país</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+      </div>
+
+      <!-- Spectrometer -->
+      <div class="spectro">
+        <p class="spectro-title">Nivel de tendenciosidad</p>
+        <div class="spectro-wrap">
+          <span class="spectro-lbl l">◀ Neutral</span>
+          <div class="spectro-track">
+            <div class="spectro-line"></div>
+            <div class="tick" style="left:10%"></div>
+            <div class="tick" style="left:20%"></div>
+            <div class="tick" style="left:30%"></div>
+            <div class="tick" style="left:40%"></div>
+            <div class="tick" style="left:50%"></div>
+            <div class="tick" style="left:60%"></div>
+            <div class="tick" style="left:70%"></div>
+            <div class="tick" style="left:80%"></div>
+            <div class="tick" style="left:90%"></div>
+            <!-- score EP=1.5 → 15% -->
+            <div class="dot" style="left:15%;background:#003F7F;"
+                 data-tip="El País · 1.5/10 — Titular informativo y neutro"></div>
+            <!-- score EO=3 → 30% -->
+            <div class="dot" style="left:30%;background:#D32F2F;"
+                 data-tip="El Observador · 3/10 — Leve encuadre técnico"></div>
+            <!-- score MP=4 → 40% -->
+            <div class="dot" style="left:40%;background:#0D47A1;"
+                 data-tip="Montevideo Portal · 4/10 — Enfoque explicativo, levemente alarmista"></div>
+            <!-- score LD=5.5 → 55% -->
+            <div class="dot" style="left:55%;background:#1B5E20;"
+                 data-tip="La Diaria · 5.5/10 — Énfasis en el impacto social, fuente sesgada"></div>
+            <!-- score LR=8.5 → 85% -->
+            <div class="dot" style="left:85%;background:#B71C1C;"
+                 data-tip="La República · 8.5/10 — 'Brutal' y 'golpea': lenguaje muy cargado"></div>
+          </div>
+          <span class="spectro-lbl r">Tendencioso ▶</span>
+        </div>
+      </div>
+
+      <!-- Accordion analysis -->
+      <div class="acc">
+        <button class="acc-btn" aria-expanded="false">
+          <span>
+            <span class="acc-lbl-close">▼ Ver análisis de Contrapunto UY</span>
+            <span class="acc-lbl-open">▲ Cerrar análisis</span>
+          </span>
+          <span class="acc-arrow">▾</span>
+        </button>
+        <div class="acc-body">
+          <div class="acc-brand">✦ Análisis objetivo</div>
+          <p class="acc-resumen">
+            El gobierno uruguayo anunció un ajuste del gasto público del 3% con el objetivo de reducir el déficit fiscal, que se sitúa en torno al 3,8% del PBI. La medida afecta partidas de varios ministerios y fue presentada por el Ministerio de Economía como parte de un plan de responsabilidad fiscal. Los sindicatos docentes y de salud adelantaron que resistirán los recortes. La oposición reclama que el ajuste recae desproporcionadamente sobre los sectores más vulnerables.
+          </p>
+          <div class="acc-points">
+            <h4>En qué coinciden</h4>
+            <ul>
+              <li>Todos confirman que hubo un ajuste presupuestal anunciado por el Ejecutivo</li>
+              <li>Todos mencionan que el objetivo es reducir el déficit fiscal</li>
+              <li>Todos señalan que hay reacciones negativas de parte de gremios</li>
+            </ul>
+            <h4>Diferencias de enfoque</h4>
+            <ul>
+              <li>El País y El Observador usan terminología técnica; La República usa lenguaje emocional ("brutal golpe")</li>
+              <li>La Diaria enfatiza el impacto en servicios, citando fuentes sindicales como únicas voces</li>
+              <li>Montevideo Portal apunta al lector común con un enfoque explicativo</li>
+            </ul>
+          </div>
+          <p class="acc-disc">Análisis generado automáticamente con IA. No reemplaza la lectura de las notas originales.</p>
+        </div>
+      </div>
+    </article>
+
+    <!-- ═══ NOTICIA 2: POLÍTICA ═══ -->
+    <article class="card">
+      <div class="card-head">
+        <span class="cat">Política</span>
+        <h2 class="topic">Senado debate reforma de la ley de educación media</h2>
+        <p class="card-meta">4 medios · 15 de marzo de 2026</p>
+      </div>
+
+      <div class="headlines">
+        <p class="hl-label">Titulares</p>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#003F7F;color:#fff;">EP</span>
+          <span class="hl-text">Senado inició debate sobre reforma educativa con amplia participación de partidos</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#D32F2F;color:#fff;">EO</span>
+          <span class="hl-text">Cámara alta debatirá cambios al plan de educación media en sesión especial</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#1B5E20;color:#fff;">LD</span>
+          <span class="hl-text">Oficialismo avanza en reforma educativa desoyendo a docentes y FENAPES</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#4A148C;color:#fff;">CC</span>
+          <span class="hl-text">Reforma educativa: la polémica que divide al sistema y lo que propone cada sector</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+      </div>
+
+      <div class="spectro">
+        <p class="spectro-title">Nivel de tendenciosidad</p>
+        <div class="spectro-wrap">
+          <span class="spectro-lbl l">◀ Neutral</span>
+          <div class="spectro-track">
+            <div class="spectro-line"></div>
+            <div class="tick" style="left:10%"></div>
+            <div class="tick" style="left:20%"></div>
+            <div class="tick" style="left:30%"></div>
+            <div class="tick" style="left:40%"></div>
+            <div class="tick" style="left:50%"></div>
+            <div class="tick" style="left:60%"></div>
+            <div class="tick" style="left:70%"></div>
+            <div class="tick" style="left:80%"></div>
+            <div class="tick" style="left:90%"></div>
+            <div class="dot" style="left:20%;background:#003F7F;"
+                 data-tip="El País · 2/10 — Neutral, menciona participación plural"></div>
+            <div class="dot" style="left:28%;background:#D32F2F;"
+                 data-tip="El Observador · 2.8/10 — Informativo, sin carga valorativa"></div>
+            <div class="dot" style="left:72%;background:#1B5E20;"
+                 data-tip="La Diaria · 7.2/10 — 'Desoyendo': término que implica condena al gobierno"></div>
+            <div class="dot" style="left:45%;background:#4A148C;"
+                 data-tip="Caras y Caretas · 4.5/10 — 'Polémica' da encuadre de conflicto sin tomar partido"></div>
+          </div>
+          <span class="spectro-lbl r">Tendencioso ▶</span>
+        </div>
+      </div>
+
+      <div class="acc">
+        <button class="acc-btn" aria-expanded="false">
+          <span>
+            <span class="acc-lbl-close">▼ Ver análisis de Contrapunto UY</span>
+            <span class="acc-lbl-open">▲ Cerrar análisis</span>
+          </span>
+          <span class="acc-arrow">▾</span>
+        </button>
+        <div class="acc-body">
+          <div class="acc-brand">✦ Análisis objetivo</div>
+          <p class="acc-resumen">
+            El Senado uruguayo inició el debate de una reforma a la ley de educación media que modifica la estructura curricular del Ciclo Básico y el Bachillerato. El proyecto es impulsado por la coalición de gobierno y cuenta con el rechazo del sindicato docente FENAPES, que alega que no fue consultado en el proceso de elaboración. La oposición frenteamplista promete presentar mociones de modificación. La sesión se extendió por más de seis horas.
+          </p>
+          <div class="acc-points">
+            <h4>En qué coinciden</h4>
+            <ul>
+              <li>Todos informan que el Senado debatió una reforma educativa</li>
+              <li>Hay consenso en que existe oposición de parte de gremios docentes</li>
+            </ul>
+            <h4>Diferencias de enfoque</h4>
+            <ul>
+              <li>La Diaria construye el relato desde la perspectiva sindical ("desoyendo a docentes")</li>
+              <li>El País y El Observador presentan el hecho sin valoración</li>
+              <li>Caras y Caretas usa un enfoque explicativo orientado al lector no especializado</li>
+            </ul>
+          </div>
+          <p class="acc-disc">Análisis generado automáticamente con IA. No reemplaza la lectura de las notas originales.</p>
+        </div>
+      </div>
+    </article>
+
+    <!-- ═══ NOTICIA 3: SALUD ═══ -->
+    <article class="card">
+      <div class="card-head">
+        <span class="cat">Salud</span>
+        <h2 class="topic">Plan de modernización del sistema hospitalario genera debate</h2>
+        <p class="card-meta">4 medios · 15 de marzo de 2026</p>
+      </div>
+
+      <div class="headlines">
+        <p class="hl-label">Titulares</p>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#003F7F;color:#fff;">EP</span>
+          <span class="hl-text">Ministerio de Salud presenta plan de modernización para reducir listas de espera</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#E65100;color:#fff;">SB</span>
+          <span class="hl-text">Nuevo plan sanitario busca bajar tiempos de espera en mutualistas y hospitales públicos</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#F57F17;color:#000;">180</span>
+          <span class="hl-text">Plan de salud: médicos lo apoyan, pacientes tienen dudas y sindicatos piden garantías</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#B71C1C;color:#fff;">LR</span>
+          <span class="hl-text">Colapso sanitario: hospitales sin insumos y pacientes abandonados por el sistema de salud</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+      </div>
+
+      <div class="spectro">
+        <p class="spectro-title">Nivel de tendenciosidad</p>
+        <div class="spectro-wrap">
+          <span class="spectro-lbl l">◀ Neutral</span>
+          <div class="spectro-track">
+            <div class="spectro-line"></div>
+            <div class="tick" style="left:10%"></div>
+            <div class="tick" style="left:20%"></div>
+            <div class="tick" style="left:30%"></div>
+            <div class="tick" style="left:40%"></div>
+            <div class="tick" style="left:50%"></div>
+            <div class="tick" style="left:60%"></div>
+            <div class="tick" style="left:70%"></div>
+            <div class="tick" style="left:80%"></div>
+            <div class="tick" style="left:90%"></div>
+            <div class="dot" style="left:18%;background:#003F7F;"
+                 data-tip="El País · 1.8/10 — Titular oficial y descriptivo"></div>
+            <div class="dot" style="left:32%;background:#E65100;"
+                 data-tip="Subrayado · 3.2/10 — Informativo con leve énfasis positivo en el plan"></div>
+            <div class="dot" style="left:50%;background:#F57F17;"
+                 data-tip="180.com.uy · 5/10 — Equilibrado pero enmarca el tema como conflicto"></div>
+            <div class="dot" style="left:88%;background:#B71C1C;"
+                 data-tip="La República · 8.8/10 — 'Colapso' y 'abandonados': lenguaje muy alarmista"></div>
+          </div>
+          <span class="spectro-lbl r">Tendencioso ▶</span>
+        </div>
+      </div>
+
+      <div class="acc">
+        <button class="acc-btn" aria-expanded="false">
+          <span>
+            <span class="acc-lbl-close">▼ Ver análisis de Contrapunto UY</span>
+            <span class="acc-lbl-open">▲ Cerrar análisis</span>
+          </span>
+          <span class="acc-arrow">▾</span>
+        </button>
+        <div class="acc-body">
+          <div class="acc-brand">✦ Análisis objetivo</div>
+          <p class="acc-resumen">
+            El Ministerio de Salud Pública presentó un plan de modernización del sistema hospitalario público que apunta a digitalizar historias clínicas, incorporar telemedicina y reorganizar agendas para reducir las listas de espera en especialidades. El sindicato médico (SMU) manifestó respaldo al plan con reservas sobre la financiación. Los sindicatos de trabajadores hospitalarios exigen garantías laborales antes de apoyar la implementación. Las mutualistas del sector privado recibieron el plan con cautela.
+          </p>
+          <div class="acc-points">
+            <h4>En qué coinciden</h4>
+            <ul>
+              <li>Todos informan que existe un plan gubernamental de salud en marcha</li>
+              <li>Todos mencionan que hay actores con posiciones distintas frente al plan</li>
+            </ul>
+            <h4>Diferencias de enfoque</h4>
+            <ul>
+              <li>El País y Subrayado informan desde el anuncio oficial sin cuestionar</li>
+              <li>180 presenta múltiples voces, enmarcando el tema como un debate</li>
+              <li>La República ignora el anuncio oficial y narra el estado actual del sistema con lenguaje de crisis</li>
+            </ul>
+          </div>
+          <p class="acc-disc">Análisis generado automáticamente con IA. No reemplaza la lectura de las notas originales.</p>
+        </div>
+      </div>
+    </article>
+
+    <!-- ═══ NOTICIA 4: SEGURIDAD (card más liviano, sin accordion abierto) ═══ -->
+    <article class="card">
+      <div class="card-head">
+        <span class="cat">Seguridad</span>
+        <h2 class="topic">Rapiña en el centro de Montevideo desató debate sobre inseguridad</h2>
+        <p class="card-meta">5 medios · 15 de marzo de 2026</p>
+      </div>
+
+      <div class="headlines">
+        <p class="hl-label">Titulares</p>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#003F7F;color:#fff;">EP</span>
+          <span class="hl-text">Policía detuvo a dos sospechosos de rapiña en Ciudad Vieja a las pocas horas</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#D32F2F;color:#fff;">EO</span>
+          <span class="hl-text">Rapiña en pleno centro histórico vuelve a poner en foco la seguridad en Montevideo</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#0D47A1;color:#fff;">MP</span>
+          <span class="hl-text">Video: así fue la rapiña en Ciudad Vieja que terminó con dos detenidos</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#006064;color:#fff;">T12</span>
+          <span class="hl-text">Impactante rapiña en plena peatonal Sarandí: cámaras captaron todo</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+        <a class="hl-row" href="#" target="_blank" rel="noopener">
+          <span class="badge" style="background:#B71C1C;color:#fff;">LR</span>
+          <span class="hl-text">La inseguridad que dejó el gobierno anterior: otro asalto en el corazón de Montevideo</span>
+          <span class="hl-arrow">↗</span>
+        </a>
+      </div>
+
+      <div class="spectro">
+        <p class="spectro-title">Nivel de tendenciosidad</p>
+        <div class="spectro-wrap">
+          <span class="spectro-lbl l">◀ Neutral</span>
+          <div class="spectro-track">
+            <div class="spectro-line"></div>
+            <div class="tick" style="left:10%"></div>
+            <div class="tick" style="left:20%"></div>
+            <div class="tick" style="left:30%"></div>
+            <div class="tick" style="left:40%"></div>
+            <div class="tick" style="left:50%"></div>
+            <div class="tick" style="left:60%"></div>
+            <div class="tick" style="left:70%"></div>
+            <div class="tick" style="left:80%"></div>
+            <div class="tick" style="left:90%"></div>
+            <div class="dot" style="left:12%;background:#003F7F;"
+                 data-tip="El País · 1.2/10 — Informa el hecho y el resultado policial"></div>
+            <div class="dot" style="left:38%;background:#D32F2F;"
+                 data-tip="El Observador · 3.8/10 — Usa el evento para plantear tema de seguridad"></div>
+            <div class="dot" style="left:44%;background:#0D47A1;"
+                 data-tip="Montevideo Portal · 4.4/10 — 'Así fue': clickbait moderado con video"></div>
+            <div class="dot" style="left:60%;background:#006064;"
+                 data-tip="Teledoce · 6/10 — 'Impactante': lenguaje sensacionalista televisivo"></div>
+            <div class="dot" style="left:92%;background:#B71C1C;"
+                 data-tip="La República · 9.2/10 — Atribuye la inseguridad al gobierno anterior: claramente político"></div>
+          </div>
+          <span class="spectro-lbl r">Tendencioso ▶</span>
+        </div>
+      </div>
+
+      <div class="acc">
+        <button class="acc-btn" aria-expanded="false">
+          <span>
+            <span class="acc-lbl-close">▼ Ver análisis de Contrapunto UY</span>
+            <span class="acc-lbl-open">▲ Cerrar análisis</span>
+          </span>
+          <span class="acc-arrow">▾</span>
+        </button>
+        <div class="acc-body">
+          <div class="acc-brand">✦ Análisis objetivo</div>
+          <p class="acc-resumen">
+            Una rapiña ocurrida en la peatonal Sarandí de Ciudad Vieja derivó en la detención de dos personas pocas horas después del hecho. El incidente fue captado en video por cámaras de seguridad. Más allá del suceso policial concreto, varios medios aprovecharon el hecho para instalar o reforzar debates más amplios sobre la inseguridad urbana en Montevideo.
+          </p>
+          <div class="acc-points">
+            <h4>En qué coinciden</h4>
+            <ul>
+              <li>Todos confirman que ocurrió una rapiña y que hubo detenidos</li>
+              <li>Todos ubican el hecho en Ciudad Vieja</li>
+            </ul>
+            <h4>Diferencias de enfoque</h4>
+            <ul>
+              <li>El País informa el hecho policial sin más contexto</li>
+              <li>Teledoce y Montevideo Portal priorizan el impacto visual (video)</li>
+              <li>La República convierte el hecho en argumento político contra el gobierno anterior</li>
+            </ul>
+          </div>
+          <p class="acc-disc">Análisis generado automáticamente con IA. No reemplaza la lectura de las notas originales.</p>
+        </div>
+      </div>
+    </article>
+
+  </div><!-- /grid -->
+
+  <!-- mid-page ad slot -->
+  <div class="ad-banner" style="margin-top:2.5rem;">PUBLICIDAD</div>
+
+</main>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<footer>
+  <div class="finner">
+    <div>
+      <div class="fbrand">Contra<span>punto</span> UY</div>
+      <div style="margin-top:.25rem;">Actualizado todos los días a las 7:00 am · © 2026</div>
+    </div>
+    <div class="flinks">
+      <a href="#">Sitemap</a>
+      <a href="#">JSON</a>
+    </div>
+    <div style="font-family:'Inter',sans-serif;font-size:.72rem;color:#666677;display:flex;align-items:center;gap:.4rem;">
+      <span>Análisis por</span>
+      <strong style="color:#ccc;">Claude AI</strong>
+    </div>
+  </div>
+</footer>
+
+<button id="stbtn" aria-label="Volver arriba">↑</button>
+
+<script>
+// Accordion
+document.querySelectorAll('.acc-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const body = btn.nextElementSibling;
+    const isOpen = btn.classList.contains('open');
+    btn.classList.toggle('open', !isOpen);
+    btn.setAttribute('aria-expanded', String(!isOpen));
+    body.classList.toggle('open', !isOpen);
+  });
+});
+
+// Scroll-to-top
+const stbtn = document.getElementById('stbtn');
+window.addEventListener('scroll', () => {
+  stbtn.classList.toggle('v', window.scrollY > 400);
+}, { passive: true });
+stbtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+</script>
+</body>
+</html>
