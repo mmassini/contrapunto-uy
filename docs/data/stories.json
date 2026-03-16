@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-16T16:17:11.187338",
+  "generated_at": "2026-03-16T16:27:27.957648",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Ataque a sede del PCU en contexto cubano",
+      "topic": "Ataque a sede comunista cubana por crisis económica",
       "category": "Internacional",
       "sources_count": 2,
       "headlines": [
@@ -18,9 +18,9 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVzllTnh3dDFzSDhxX0ZYTXZHdUJnRjBSaHJ2U0UzbWUyWFBMOHVIbjZKMGtpU2pGMjNuLU5JcE84a3hrXzM0c0Z1Z0I5MFdCaVg4R2hVYkkyQzRueHNodG1CTnpBMlJJLURtTlJLVDlGZ2ZfQ09oR19xdWswdkVzd3dOLUxDcGFXal9XT0VaclNkSkxQSVVQd1daMXZKWDVXdmNJTkR1MGhnS3ZhdGp0QUVQOVNJdlhwY1BZSVNabm3SAcYBQVVfeXFMTURScWRPbURfcWM3aTA2M0l4dUZ1d09OYTQzQTFrbDVDdnIyNEpReHQ2RGk4ZFc5UEpsbkVRUjQtMHVwMHB3SzBtWHhuVHNoT1lqX2NZSnNreFhJZUpHcXVaelYta1gwNDVaaW94NmZQS0ZmQTdETkFVS05Tc3llMllWUVNkeERITF8xQWZmY0gzR2I0ampzSnEyTzBiOXpUb0lmYUtmSXlGTzY4WnhBV2pXVi05NVNUMDk5SGRQb2pGN1JsNlZR?oc=5",
           "description": "PCU convoca a concretar avances en seguridad social y a redoblar solidaridad con Cuba &nbsp;&nbsp; Caras y Caretas",
           "pub_date": "2026-03-16T00:05:00+00:00",
-          "score": 3,
-          "score_reason": "Informativo, enfatiza respuesta institucional sin dramatizar el hecho.",
-          "score_pct": 30
+          "score": 4,
+          "score_reason": "Encuadre político institucional, omite contexto del ataque",
+          "score_pct": 40
         },
         {
           "source_id": "subrayado",
@@ -34,27 +34,27 @@
           "description": "Apagones y escasez detonan ataque a una sede del Partido Comunista en Cuba &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-03-15T17:35:00+00:00",
           "score": 6,
-          "score_reason": "Destaca causas (apagones/escasez) como detonantes, tono alarmista.",
+          "score_reason": "Enfatiza lo dramático y causal (apagones detonan ataque)",
           "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Se produjo un ataque a una sede del Partido Comunista de Uruguay en relación a la situación en Cuba. El incidente ocurre en un contexto de crisis energética y escasez en la isla. El PCU respondió convocando a fortalecer la solidaridad internacional y avanzar en políticas de seguridad social. Los detalles específicos del ataque no se especifican en los titulares disponibles.",
+        "resumen": "Se produjo un ataque a una sede del Partido Comunista en Cuba, aparentemente vinculado a la situación de apagones y escasez que atraviesa la isla. El Partido Comunista Uruguayo (PCU) convocó a redoblar la solidaridad con Cuba y avanzar en seguridad social. Los medios difieren en el énfasis: mientras algunos destacan los hechos violentos y sus causas económicas, otros priorizan la respuesta política del PCU y la necesidad de solidaridad internacional.",
         "coincidencias": [
-          "Hubo un ataque contra una sede del Partido Comunista de Uruguay",
-          "El contexto está vinculado a la situación en Cuba",
-          "El PCU emitió una respuesta o posicionamiento ante los hechos"
+          "Ocurrió un incidente violento en una sede comunista cubana",
+          "Existe una crisis económica grave en Cuba con apagones",
+          "El PCU tomó postura sobre la situación cubana"
         ],
         "diferencias": [
-          "Subrayado enfatiza causas socioeconómicas cubanas; Caras y Caretas omite esa conexión",
-          "Subrayado usa lenguaje de 'detonante' (carga emocional); Caras y Caretas es más neutral",
-          "Subrayado prioriza el evento violento; Caras y Caretas prioriza la convocatoria política"
+          "Subrayado prioriza lo acontecido (ataque); Caras y Caretas, la respuesta política (convocatoria)",
+          "Subrayado subraya causalidad entre crisis y violencia; Caras y Caretas la omite",
+          "Subrayado usa lenguaje más descriptivo-informativo; Caras y Caretas es más declarativo"
         ]
       }
     },
     {
       "id": "story_002",
-      "topic": "Ceremonia de los Premios Óscar 2026",
+      "topic": "Ceremonia de los Premios Oscar 2026",
       "category": "Cultura",
       "sources_count": 2,
       "headlines": [
@@ -70,7 +70,7 @@
           "description": "Premios Oscar 2026: los mejores looks de la alfombra roja más esperada &nbsp;&nbsp; BÚSQUEDA",
           "pub_date": "2026-03-15T23:21:00+00:00",
           "score": 2,
-          "score_reason": "Enfoque neutral en aspectos visuales; puramente informativo y accesible.",
+          "score_reason": "Enfoque meramente informativo en aspectos estéticos de la alfombra roja.",
           "score_pct": 20
         },
         {
@@ -84,28 +84,28 @@
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUjBkWk5yQ2pza3VxU2RPUWRNbkk5Y3llRmlQaFlPdGpiNUVuc3hQVWFUNlNGaHVHZEVzMGJvaGVIWHRfV1d2WWhnTDFtWjZOWGNPLXNzdEVycEhyWGFfLTVNOEVzWVZxOWZ3NEJPVFFUZy0tYXlKbmJoYmNKalNFYmROR3RhY3NzUl9MWVlXNC1UbzJXUnlDOEtObnJLSmtjbHdwOTlPWkxRbENuU25QSWNELVZjeDZXSHlHSEdvRk82TTNhNkp3Uko4X0RiMFlmb1U4ekZlaEF3NEtFYV9kVkJ30gHnAUFVX3lxTE4yd3c3S2VxeHBmT21DcXpCVFhzZ3dFMVlXTE9uakJPOUNKUlRid2NtMFNGZWgyNnRtVWRIYS00OHE1SjZpREhIRFRWc3hzU2RPS2pqYzktR2o0bUlrUXBLd3FHRktvaWh6eWhzdHdROERSa0RSQ0xxOWxEOFdtbzNORVpiRDdrbUF1aDZIWFRwd25WR3RaeEJVVGJiYW1GYW9wWnZFaXNUdTdndEFhcnJ5Sllhc1NOdVBuUTBxZmpDZkNsZGc4SlQ1Ujd2dmcwdjlnYzVpRF9VWnFfb21jaHlsSnB3ejF3NA?oc=5",
           "description": "Los cinco momentos más destacados de los Óscar 2026: desde mensajes políticos a los homenajes In Memoriam y bromas pesadas &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-03-16T10:36:00+00:00",
-          "score": 3,
-          "score_reason": "Énfasis en lo controversial; politiza la cobertura sin necesidad evidente.",
-          "score_pct": 30
+          "score": 4,
+          "score_reason": "Énfasis en lo polémico y espectacular sin ser alarmista.",
+          "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "Se realizó la ceremonia de los Premios Óscar 2026. Subrayado destacó los momentos más relevantes del evento, incluyendo mensajes políticos, homenajes a fallecidos y momentos de humor. Búsqueda enfatizó los aspectos visuales y de moda, cubriendo los mejores atuendos lucidos en la alfombra roja. Ambos medios cubrieron el acontecimiento desde perspectivas distintas pero complementarias sobre este evento internacional de la industria cinematográfica.",
+        "resumen": "Se llevó a cabo la ceremonia de los Premios Oscar 2026, que destacó por diversos momentos relevantes. La transmisión incluyó mensajes políticos, homenajes a personalidades fallecidas, bromas de distinta índole, y una alfombra roja con destacadas propuestas de moda. La gala reunió los momentos más comentados del evento cinematográfico más importante del año.",
         "coincidencias": [
-          "Ambos medios cubrieron la ceremonia de los Óscar 2026.",
-          "Ambos enfatizaron elementos específicos del evento como diferenciador noticioso.",
-          "Ambos utilizaron lenguaje accesible para describir el acontecimiento."
+          "Ambos medios cubrieron la ceremonia de los Óscar 2026",
+          "Reconocen la relevancia mediática y el interés público del evento",
+          "Destacan aspectos visuales y momentos memorables de la gala"
         ],
         "diferencias": [
-          "Subrayado priorizó contenido político y dramático; Búsqueda priorizó moda y estética.",
-          "Subrayado incluyó bromas pesadas como elemento newsworthy; Búsqueda ignoró ese aspecto.",
-          "Subrayado construyó narrativa de momentos polémicos; Búsqueda construyó narrativa de entretenimiento visual."
+          "Subrayado prioriza lo polémico y controversial; Búsqueda se centra en moda",
+          "Subrayado incluye mensajes políticos como noticia; Búsqueda los ignora",
+          "Subrayado aborda bromas y conflictos; Búsqueda enfatiza looks positivamente"
         ]
       }
     },
     {
       "id": "story_003",
-      "topic": "Irán intensifica operaciones militares y represión interna",
+      "topic": "Irán intensifica acciones militares y represión",
       "category": "Internacional",
       "sources_count": 2,
       "headlines": [
@@ -121,7 +121,7 @@
           "description": "Irán sigue lanzando ataques contra bases militare estadounidenses en los países vecinos del Golfo, pero también contra infraestructuras civiles como aeropuertos, puertos e instalaciones petroleras. La entrada Irán advirtió que está preparado para continuar con la guerra y llevarla &quot;tan lejos como sea necesario&quot; se publicó primero en Teledoce.com .",
           "pub_date": "2026-03-16T14:44:45+00:00",
           "score": 4,
-          "score_reason": "Cita directa de advertencia iraní, tono informativo con leve dramatismo.",
+          "score_reason": "Reproduce declaración oficial iraní sin contexto adicional, tono informativo.",
           "score_pct": 40
         },
         {
@@ -136,21 +136,21 @@
           "description": "La represión iraní se intensifica a medida que avanza la guerra &nbsp;&nbsp; BÚSQUEDA",
           "pub_date": "2026-03-16T11:58:00+00:00",
           "score": 6,
-          "score_reason": "Usa 'represión se intensifica', conecta represión interna con guerra, alarmista.",
+          "score_reason": "Término 'represión' carga emocionalmente; vincula represión interna con guerra externa.",
           "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Irán ha escalado sus acciones militares contra objetivos estadounidenses en países del Golfo Pérsico, atacando tanto instalaciones militares como infraestructuras civiles como aeropuertos, puertos e instalaciones petroleras. Simultáneamente, el gobierno iraní ha intensificado medidas represivas internas. Las autoridades iraníes han manifestado su disposición a continuar y expandir estas operaciones según sea necesario.",
+        "resumen": "Irán ha intensificado sus operaciones militares contra bases estadounidenses en países del Golfo Pérsico, ampliando sus ataques a infraestructuras civiles como aeropuertos, puertos e instalaciones petroleras. Simultáneamente, el gobierno iraní ha endurecido la represión interna mientras continúa la escalada bélica regional. Las autoridades iraníes han manifestado su disposición para prolongar el conflicto indefinidamente.",
         "coincidencias": [
-          "Irán está escalando sus acciones militares y políticas",
-          "Hay una intensificación de conflictividad en la región",
-          "Los hechos ocurren en el contexto de la guerra"
+          "Irán está escalando sus operaciones militares y bélicas",
+          "Hay un patrón de intensificación de acciones iraníes",
+          "La situación en la región se agrava progresivamente"
         ],
         "diferencias": [
-          "Teledoce enfatiza la postura ofensiva iraní contra objetivos externos",
-          "Búsqueda enfatiza la represión interna iraní como eje principal",
-          "Teledoce describe ataques específicos; Búsqueda vincula represión interna al conflicto"
+          "Teledoce enfatiza declaraciones de intención iraní; Búsqueda destaca represión interna",
+          "Teledoce especifica objetivos militares; Búsqueda generaliza con 'represión'",
+          "Teledoce es más factual; Búsqueda añade connotación crítica"
         ]
       }
     }
