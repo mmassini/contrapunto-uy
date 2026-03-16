@@ -13,7 +13,7 @@ from jinja2 import Environment, FileSystemLoader
 
 logger = logging.getLogger(__name__)
 
-BASE_URL = "https://contrapunto.uy"
+BASE_URL = "https://mmassini.github.io/contrapunto-uy"
 
 
 def _setup_jinja(templates_dir: Path) -> Environment:

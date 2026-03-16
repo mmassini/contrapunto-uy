@@ -102,10 +102,10 @@ SOURCES = {
 }
 
 # How many hours back to look for articles
-LOOKBACK_HOURS = 24
+LOOKBACK_HOURS = 48  # 48h for resilience (covers weekends, feed delays)
 
 # Max story groups to analyze with Claude (controls API cost)
 MAX_STORIES_PER_RUN = 20
 
 # Clustering similarity threshold (0-1). Higher = stricter grouping.
-CLUSTER_THRESHOLD = 0.72
+CLUSTER_THRESHOLD = 0.65  # lower = more permissive matching

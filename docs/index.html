@@ -1,11 +1,34 @@
 <!DOCTYPE html>
 <html lang="es">
-<head><meta charset="UTF-8"><title>Contrapunto UY — Cargando...</title>
-<style>body{font-family:Georgia,serif;background:#F5F0E8;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;}
-.box{text-align:center;}.logo{font-size:2.5rem;font-weight:900;}.logo span{color:#C41E3A;}
-p{color:#666;margin-top:.5rem;}</style></head>
-<body><div class="box">
-  <div class="logo">Contra<span>punto</span> UY</div>
-  <p>La primera edición se publica hoy a las 7am.</p>
-  <p style="font-size:.8rem;color:#999;">La misma noticia, distintas voces.</p>
-</div></body></html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contrapunto UY — La misma noticia, distintas voces</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:Georgia,serif;background:#F5F0E8;min-height:100vh;display:flex;flex-direction:column;}
+header{background:#1A1A2E;color:#F5F0E8;padding:2rem 1.5rem 1.25rem;border-bottom:4px solid #C41E3A;}
+h1{font-size:clamp(2rem,5vw,3.2rem);font-weight:900;letter-spacing:-0.02em;}
+h1 span{color:#C41E3A;}
+.tag{font-family:sans-serif;font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:#AAA8B8;margin-top:.5rem;}
+main{flex:1;display:flex;align-items:center;justify-content:center;padding:3rem 1.5rem;}
+.msg{text-align:center;max-width:480px;}
+.msg h2{font-size:1.4rem;color:#1A1A2E;margin-bottom:.75rem;}
+.msg p{color:#666;line-height:1.6;font-size:.95rem;}
+footer{background:#1A1A2E;color:#666;padding:1.25rem 1.5rem;font-family:sans-serif;font-size:.75rem;border-top:4px solid #C41E3A;}
+</style>
+</head>
+<body>
+<header>
+  <h1>Contra<span>punto</span> UY</h1>
+  <p class="tag">La misma noticia, distintas voces</p>
+</header>
+<main>
+  <div class="msg">
+    <h2>La primera edición llega hoy a las 7am</h2>
+    <p>Estamos preparando el sitio. Volvé pronto para ver las noticias del día comparadas entre todos los medios uruguayos.</p>
+  </div>
+</main>
+<footer>Contrapunto UY · Actualizado todos los días a las 7:00 am</footer>
+</body>
+</html>
