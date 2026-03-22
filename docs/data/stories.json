@@ -1,57 +1,12 @@
 {
-  "generated_at": "2026-03-21T10:33:47.328783",
+  "generated_at": "2026-03-22T10:33:38.660800",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Múltiples eventos internacionales y políticos diversos",
-      "category": "Internacional",
-      "sources_count": 4,
+      "topic": "Jadson Viera cesado como entrenador de Nacional",
+      "category": "Deportes",
+      "sources_count": 5,
       "headlines": [
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Venezuela hace historia y conquista su primer Clásico Mundial de Béisbol",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0p3ellNM2V1eWxCejZrSXBFcktJcTJXa3F6dmM0ckNQZ0xkZHp4SFFMMnNRaUtLdTl3U29YWUlaUmVwMi1EdWJYUlJZVUZZY1VoYmFhRmNadU5YWTJ3ZkItaE5LTG41YUF6UG9tNnhOSllJMzZaQkhsRGQtaEpWQ2NQQVBBWEIwTFJrT0NMZVFzNFZMYVpaSFhfYVR3YVNFSnNPclBoTk1PSnBIUHhrbA?oc=5",
-          "description": "Venezuela hace historia y conquista su primer Clásico Mundial de Béisbol &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-03-20T05:20:25+00:00",
-          "score": 2,
-          "score_reason": "Informativo neutral con énfasis en logro histórico deportivo.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Carlos Campos: “Coquimbo Unido es el mejor campeón de la historia del fútbol chileno”",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUWVoaURvVmZaZGREa2lfZWN5OHhqcTVzV0ZDRE5ha2puUGdUZDVJaHBsNFdkM2c4VHZ3OEtuVUFXQU0ydi1uQnRDM2hFT2o1R0p1Tmc4NnpIdklHTXF2NWZoRE9wMFBKanVSaHgxZjZVMXMydUI4YVVZTTMzSTlNYU5wd010NzRVMDBiaXA4bUhQV0hMUW1sZGx6Q05pOXBQNWtXei1NSV9MMjFlTkhNRlhiR253SGRVNGw1NEF4ajFvZWV6ckR4VEg2M3Ixc1U?oc=5",
-          "description": "Carlos Campos: “Coquimbo Unido es el mejor campeón de la historia del fútbol chileno” &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-03-20T20:04:37+00:00",
-          "score": 5,
-          "score_reason": "Superlativo discutible; entrecomillado de opinión subjetiva deportiva.",
-          "score_pct": 50
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Solidaridad hacia la revolución cubana”: Fernando Pereira se reunió con Díaz-Canel",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWUdTX2FDOFZzY1FuekNYR2NWT0tTUDRGS0JRcElmWEFrMmotcTAyVzFlRjhOOW9Ba2ptcDNFUmZFOUFDN3ZSMy1tSWN4MkFqaTRpeTAzemlqQ08wQ0dZSUliZVFmNzh6QllJcmxwdm1ycDE1UHZxbUtHZUZ3S0dGYUN4WnN1aXZjYkRqRzRLcG16Q0ZITkVRcjd6WXNkb083S083N0VHUUNaQTh3WUlQa1Q5bV9mWTAtV242OEFIalFLZ2xfX3g3SWh30gHuAUFVX3lxTE5lM0VZdjR2elRVRk1TN1JpZG92NUtXa3Bxak05Q3M0VDZNRzBkTzFTb2xKUENldDd5TmpnZ3VwVk1DRjRYbzVXMGZEdzlwaVIwUzUwZlpreWFDV042V1hzM1V4TVFNS3lXVk14ajlTdGNlM3pLTlFiZTE5bXBlM3ItUHVoVFB1ZWxrSzVoUHhTMEx5MDU4STRjQ0lKSk1WcTlFS2tSSWotVXdmMXlPaWpRbTdmci00bnJfRUVNeUlBXzd2YUxHU291UkRiMUtxdkF2QnRobGZidmw2LXZiVVczWGhhU2ZOUDJEd3BzY1E?oc=5",
-          "description": "“Solidaridad hacia la revolución cubana”: Fernando Pereira se reunió con Díaz-Canel &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-20T23:17:00+00:00",
-          "score": 6,
-          "score_reason": "Entrecomillado de frase con carga ideológica sobre revolución.",
-          "score_pct": 60
-        },
         {
           "source_id": "carasycaretas",
           "source_name": "Caras y Caretas",
@@ -59,35 +14,29 @@
           "source_color": "#4A148C",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.carasycaretas.com.uy",
-          "title": "Rafael Correa: \"En Ecuador no queda ningún vestigio de democracia\"",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeV9aSFBMOEhQNEprNmd0YTJMUGZJNmRJaWxDT19DSlpMcldDNmM4MVQySzgwSEFTb2JVWXhDNTZKRU5tUGdNLVczbzBSVDA3UmlTZ0hrSmhyR0lOVWlpZ1p4WTU5YU1RVG10R1JjOXlCQ0Fac2RKQk9XeGcxZDdPUndrVU84bXFqbXhJbHNHenFpY3dxLXQteTZHZTNuUldIX2cwTmNCaXdPVjZMMVHSAbMBQVVfeXFMTXVDRmNFQlJRVEZSWGJUZjVKWkt2bjhuUmFsbmZkTnVfZnZmaXhuOFlGMmxGekhZUW9BQ3JXNEp6SXFFaEhZb2xFeDNDbFZsOUxKY2VMUDNrYUxmOGhwdkl1NWRiVW45WFJRbWFrbERUOE9wdlZoVzRoMFltU1p5b0lzN21adEJrUXlYTHJ4dVdiMUd6SGxpLThadXRhcnlxUE9HUEFFOEdQdEM4b3hpWEtVak0?oc=5",
-          "description": "Rafael Correa: \"En Ecuador no queda ningún vestigio de democracia\" &nbsp;&nbsp; Caras y Caretas",
-          "pub_date": "2026-03-20T13:47:00+00:00",
-          "score": 7,
-          "score_reason": "Entrecomillado alarmista; afirmación radical sobre ausencia democrática.",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "Se registraron varios eventos en la región: el líder del Frente Amplio Fernando Pereira se reunió con el presidente cubano Díaz-Canel en un acto de solidaridad con la revolución cubana; el expresidente ecuatoriano Rafael Correa cuestionó la situación democrática en Ecuador; en Chile se debatió sobre el desempeño de Coquimbo Unido como campeón de fútbol; y Venezuela ganó el Clásico Mundial de Béisbol. Estos eventos reflejan la actividad política y deportiva en América Latina durante el período.",
-        "coincidencias": [
-          "Todos relatan hechos ocurridos en la región latinoamericana",
-          "Todos utilizan entrecomillados para atribuir declaraciones o puntos de vista",
-          "Todos abordan temas de actualidad en diferentes áreas de interés"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza solidaridad política; Caras y Caretas cuestiona democracia; El Espectador evalúa desempeño deportivo; La R celebra logro deportivo.",
-          "Algunos titulares incluyen juicios de valor (revolución, democracia, mejor) mientras otros son meramente informativos.",
-          "Medios de izquierda tienden a legitimar gobiernos progresistas; medios deportivos mantienen mayor neutralidad en cobertura."
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Nacional y Peñarol conocen rivales Libertadores 2026",
-      "category": "Deportes",
-      "sources_count": 3,
-      "headlines": [
+          "title": "Intendencia de Montevideo prepara propuesta sin túnel y bajando el tiempo de los viajes",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMXBGSUZ5NXF6d25zZnhFRWJKanNraWdGbDNjRHFCRGJqSmdNYnJoc3V6dTVQbWpOTXpvekJhNXBfeVFGejFaUmdwQkNmckhuSlIxQUxoUXAtN1dQekc5bFVxRkJZU09zZG4zcnRhamdPY0UweHo0aHFYNi1uUmMydWxUenVISUpBYVk2cGFsV2JibzRFRWU1ZFFwdmtSa3dTM0lLN0FNQjFyT0xPU0doZ2loVVVKZVNJVWt5b280VEc5dTZ60gHKAUFVX3lxTE4yUW51N0tOdmFVcW4tMHk5bmN6SEFNVGxEU0VzTVNoUGZhVE5NczRQLXZMT0dNN0RLTlBNakp6VnFBcDFxcS1hREtac0FZbWRzSmxpbzZpUXMtUDdOM1hIVlNfYlZkRm1xcWdTWURhSjAxOTJKaWd1QUVCNnJvenZ1eEktWnIxTVRZSWdRMHcwcnZHdElMUDllLVNYQWw4UTNlU3A1VTJQT1dmWG1PVUp2T010cmItQ09QVUozMDRCYmR3V2pQWjJEaXc?oc=5",
+          "description": "Intendencia de Montevideo prepara propuesta sin túnel y bajando el tiempo de los viajes &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-03-21T10:56:00+00:00",
+          "score": 0,
+          "score_reason": "No corresponde a la noticia principal; trata tema de transporte completamente distinto.",
+          "score_pct": 0
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "‘Proyecto fin del mundo’ tuvo su ‘avant-première’ en Movie de Montevideo Shopping",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnJMR2ItNl9OZUtCRXhDU1Rjd3I5RUFQME9OQnQwbmpBdHpTcUstNEdJY1RKV29velRYc3BzakNUQU02UUJ4T3l1VVJyVlB4NnEyTGRwOFRnRVVjbWxyUVllWFg3eGlrTkRFdnF5YUZEOV9KT3ZNYlQwVlppYVllRTN6Ny1PVVJtYUctelJjRXBsVmZ4UzRYeVJycF9WOEFKVndXcGk1Z1Ryb2JxLVRITHFKdzIyYzVZ?oc=5",
+          "description": "‘Proyecto fin del mundo’ tuvo su ‘avant-première’ en Movie de Montevideo Shopping &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-03-21T13:00:00+00:00",
+          "score": 0,
+          "score_reason": "No corresponde a la noticia; cubre evento de cine sin relación.",
+          "score_pct": 0
+        },
         {
           "source_id": "montevideoportal",
           "source_name": "Montevideo Portal",
@@ -95,28 +44,13 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Copa Libertadores: Nacional y Peñarol conocieron sus rivales para la edición 2026",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOVJEdW5oQl9hRXJ6UU5iZ2RRczNHTUM0c3lWd01NYXZUWF84cGdVWDZJUVJGWDY0QmZPckxkeEhDMzNmZnBvNmxJdmZvWVh4X0FBVVBGbVlTTXFzM25ldk9iNThVajAzR2NIajYzdUlpZDZJR3VpUVlHb2Fhd0VEaTlrci00NUt2M2Y0RFA4SDFsc1hEdDJDaW5KNmNtQWludm1VVUFPOV81eEd6MVNtNkNYSndjemJNQTlfcVhhSXU2THBpMUNB0gHrAUFVX3lxTFA4eWJpemdGZVpneFJQOG1NR1V4cl92NnZaMXM5Ymc4Q2pkNjh0VWZ5V1N4XzR5aFBhVzQyU19BdGdVZThoQkQxZjZveTR5eFFSSkswZmJFT0QyenpYbS13bldxOFczR3JXRkg2aEozU2IyeHI4RDlQOFV1M1JoTk03dFJNelo3X1ZsbXVFVHBtS0E4bDJ6dFF2NGQzUE9haUlVQldIUGppckNYNG5NZDJZMXpmMVV5Yzk2NG1vWktXbUZGSDlwUjFjUTNfUm9IODZCZ0tOOW4xRGdtYWRvMU52WGhfZlJ6ckFBaHc?oc=5",
-          "description": "Copa Libertadores: Nacional y Peñarol conocieron sus rivales para la edición 2026 &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-20T01:00:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo puro, sin énfasis ni carga emocional particular.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Peñarol y Nacional ya conocen sus grupos por Libertadores | Noticias | Fútbol Internacional",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXg2SGZ6d1ZzWlFtV0hza2hCT2xoZEdaWEkzaklEWWJ4aHZFQzU3aExsTWxScWxWVW1OQjU2ZXBGWWZIUC0yX3JhTjVIRnVVczZ1VmxuUy1aVXkxdVJVdzRFbXNUT2FqV29BVXc1ZWpXbHNhYzViQUF6YXNpQ3IzQU5zX3Z2UzB0M1BSMXEwcXAxc0pPV2hwN3JZQi0tRTVGNTB2bFZnU3c3Uk1zY0E?oc=5",
-          "description": "Peñarol y Nacional ya conocen sus grupos por Libertadores | Noticias | Fútbol Internacional &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-03-20T00:24:49+00:00",
-          "score": 1,
-          "score_reason": "Neutral y directo, apenas añade información complementaria.",
-          "score_pct": 10
+          "title": "Nacional: los argumentos de la directiva para la salida de Jadson Viera y la visión del DT",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM2NSM1ZBeGdQMUxWMWNUbWtacFZmUVZKd0hHRlNfOGoxSWwwM0JNRU1kckdnZFA5VWV3UjdtRTdYWTVSUnBZUGdCVmF2ZklGY21uRGJJY2FNNXdhOXM3alV5eHl0cmV0c19jVmJudDl0dXBhQmc4bmpObUVxdExWbE8yQ2VxZVU1RVM0YXNiUmltbGgxQzF2Q3dHMHJUSUVYTFF2SkYtbmVfU29NTHFlRzV3cGQtUEpJUmt4clpNQ2hPcWhuVDFoNWJPVUYyUnljb0lJ0gH3AUFVX3lxTE9LeGZtLTRaQkNsS2JvbGxmZDVFUEJFSzY2c3YxYkpnWTk1RFNVa3FWNVAyeV95OEwxd0M5R1lOd3JpVWwxV1VJZkIzbjB6eHBfZFlvUDV4NVkySVFycU14U1RVZ3c0UElBenBjLTV2czNaMVI0YlRQSjM0OWQzaHVRQ0pwb0Q0enFldmN2OXhtM29rX1RvcEhydUNWT2tRWE5ZLVdRdk5IOFFxQ1QwTXJzQmNDaUc5d2VRUUNEMHowTndBbE9HRTJRU1BnUGVEX3FHRkQwVWd4Q2stenBzUEE3Vm9vNUIzT0VYOXZlVVNOdEY1amxCMnM?oc=5",
+          "description": "Nacional: los argumentos de la directiva para la salida de Jadson Viera y la visión del DT &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-21T20:41:00+00:00",
+          "score": 2,
+          "score_reason": "Presenta ambas perspectivas sin carga emocional ni juicios.",
+          "score_pct": 20
         },
         {
           "source_id": "teledoce",
@@ -125,34 +59,49 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "Así es el fixture de Nacional y Peñarol con fechas, horarios y rivales en la Copa Libertadores 2026",
-          "url": "https://www.teledoce.com/telemundo/deportes/asi-es-el-fixture-de-nacional-y-penarol-con-fechas-horarios-y-rivales-en-la-copa-libertadores-2026/",
-          "description": "Nacional irá contra Coquimbo Unido, Deportes Tolima y Universitario mientras que Peñarol irá con Santa Fe de Colombia, Platense y Corinthians La entrada Así es el fixture de Nacional y Peñarol con fechas, horarios y rivales en la Copa Libertadores 2026 se publicó primero en Teledoce.com .",
-          "pub_date": "2026-03-20T23:27:16+00:00",
-          "score": 2,
-          "score_reason": "Neutral, detalla información específica de fixtures sin valoraciones.",
-          "score_pct": 20
+          "title": "Jadson Viera fue cesado como entrenador de Nacional; la directiva tricolor apunta a Jorge Bava como nuevo DT",
+          "url": "https://www.teledoce.com/telemundo/deportes/futbol-uruguayo/jadson-viera-fue-cesado-como-entrenador-de-nacional-la-directiva-tricolor-apunta-a-jorge-bava-como-nuevo-dt/",
+          "description": "Viera fue campeón uruguayo con Nacional en 2025. La entrada Jadson Viera fue cesado como entrenador de Nacional; la directiva tricolor apunta a Jorge Bava como nuevo DT se publicó primero en Teledoce.com .",
+          "pub_date": "2026-03-21T20:04:50+00:00",
+          "score": 3,
+          "score_reason": "Usa 'cesado' con contexto de éxito previo; información equilibrada.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Jadson destituido, en su lugar Bava será el entrenador de Nacional | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa3VyRkpmYng4Z3UyeENRLVduc0pSRVkyT0p4bXJhRS1GaHNDUm9QdUJybVRjcVJtYV9wWFNYaUtmS1Y1QmgyMmM5OUl3M1p3dGwwU1dmbFNsSUFuWmxmZ191S01PWE1mTGVDVEhCMGhxbjhSTGtUMEllYzF5Ry1XU2V6MVAwVEEzQnZTUHVJTjBBaWV2RWFIUWZfVklkczFTZVZKckZHdnNaZENmcDFudjdR?oc=5",
+          "description": "Jadson destituido, en su lugar Bava será el entrenador de Nacional | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-03-21T20:23:55+00:00",
+          "score": 5,
+          "score_reason": "Palabra 'destituido' tiene mayor carga peyorativa que 'cesado'.",
+          "score_pct": 50
         }
       ],
       "analysis": {
-        "resumen": "Se realizó el sorteo de la Copa Libertadores 2026, donde se definieron los grupos para ambos equipos uruguayos. Nacional integra el grupo con Coquimbo Unido, Deportes Tolima y Universitario de Perú. Peñarol compartirá zona con Santa Fe de Colombia, Platense de Argentina y Corinthians de Brasil. Ambos clubes conocen ahora sus rivales y calendario para la fase de grupos de la máxima competencia continental.",
+        "resumen": "La directiva de Nacional decidió prescindir de Jadson Viera como entrenador del club, quien había ganado el campeonato uruguayo en 2025. La directiva argumentó razones para esta salida, mientras que el cuerpo técnico presentó su propia perspectiva. Jorge Bava es apuntado como su posible sucesor. Se trata de un cambio de conducción técnica en el equipo tricolor.",
         "coincidencias": [
-          "Ambos equipos uruguayos participan en la Copa Libertadores 2026",
-          "Se realizó un sorteo que definió los grupos",
-          "Cada club quedó en una zona con equipos de distintos países"
+          "Jadson Viera ya no es entrenador de Nacional",
+          "Jorge Bava es candidato para reemplazarlo",
+          "Viera había logrado el campeonato uruguayo recientemente"
         ],
         "diferencias": [
-          "Teledoce es el único que especifica fechas, horarios y rivales detalladamente en el titular",
-          "Montevideo Portal usa lenguaje más genérico sin detallar rivales",
-          "El Espectador enfatiza 'ya conocen' sugiriendo inmediatez del evento"
+          "Montevideo Portal enfatiza argumentos de ambas partes; El Espectador solo nombra el hecho",
+          "Teledoce contextualiza con logro previo; El Espectador usa lenguaje más duro",
+          "Cobertura desigual: algunos medios destacan perspectivas internas, otros solo anuncian cambio"
         ]
       }
     },
     {
-      "id": "story_004",
-      "topic": "Marset negado libertad bajo fianza en EE.UU.",
-      "category": "Seguridad",
-      "sources_count": 3,
+      "id": "story_002",
+      "topic": "Juez estadounidense niega fianza a Sebastián Marset",
+      "category": "Internacional",
+      "sources_count": 4,
       "headlines": [
         {
           "source_id": "busqueda",
@@ -166,7 +115,7 @@
           "description": "Juez de Estados Unidos niega fianza a Sebastián Marset &nbsp;&nbsp; BÚSQUEDA",
           "pub_date": "2026-03-20T23:09:00+00:00",
           "score": 1,
-          "score_reason": "Titular minimalista, solo hechos esenciales, máxima neutralidad.",
+          "score_reason": "Neutral y minimalista, solo hechos esenciales sin interpretar.",
           "score_pct": 10
         },
         {
@@ -181,7 +130,22 @@
           "description": "Declaró Sebastián Marset y la Justicia de Estados Unidos le negó la libertad bajo fianza &nbsp;&nbsp; Montevideo Portal",
           "pub_date": "2026-03-20T22:56:00+00:00",
           "score": 2,
-          "score_reason": "Estructura informativa clara, hechos objetivos sin adjetivos.",
+          "score_reason": "Informativo y directo, sin adjetivos ni carga emocional.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Juez niega libertad bajo fianza de Marset y fija nueva audiencia para la próxima semana por pedido de la defensa",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdl9SRS1HY3c3dXJtUkZkbm9pbUVpMElMRVBlOEExQjJkMjVTN3puLXVSOHpYVDcxa0JkTkZpajV4ZnFuby0wS0VZYU45YlhOYTJub05PZE13clp3Y0tkRFVIbmszdldqVFA0RENQME43ZDllby1tUFY5ZHpuMjF1WWQxRFJNbUNwb2twcTZTSmRNM1pUM3ZUT0p6bjh2MHM1dzN0Nzgtc2ZCeXdOWndrVGVBOXBPNFhWMUdzOUVFaV9rSjE0bWdmQ0FR0gHPAUFVX3lxTE95OVNOcGM5Zi1yTV9MR253NllQWlUxQk1xSTA1SV9ZTllGWkF6V2paMHVHb0NiMDc0eVZFVnE1R3RwRFdUMUNCSklWMEIzWkVLcE5VcGxIeUtkMFBkQ0hfUXV5cnpRX0NiOVIwV2Jwb2NzRVpOLTVJZU1Nc3ZfRzFaVVAtWkxGRE12RTYtSFd2NHBsbW5wV291UG5rTXNYV0JMRkxZSHRkLVpQcjYxeG5RODZsWkhlNDNxVkxhdk5mOHJWRUpFb0JYR0xqb0lNSQ?oc=5",
+          "description": "Juez niega libertad bajo fianza de Marset y fija nueva audiencia para la próxima semana por pedido de la defensa &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-03-20T22:59:00+00:00",
+          "score": 2,
+          "score_reason": "Objetivo, incorpora detalles procedimentales sin sensacionalismo.",
           "score_pct": 20
         },
         {
@@ -191,200 +155,164 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "Imputaron con prisión preventiva al titular de Pasfer por el caso Conexión Ganadera",
-          "url": "https://www.teledoce.com/telemundo/nacionales/imputaron-con-prision-preventiva-al-titular-de-pasfer-por-el-caso-conexion-ganadera/",
-          "description": "Maximiliano Rodríguez fue imputado por apropiación indebida y falsificación ideológica tras detectarse un faltante millonario de ganado. La entrada Imputaron con prisión preventiva al titular de Pasfer por el caso Conexión Ganadera se publicó primero en Teledoce.com .",
-          "pub_date": "2026-03-20T20:07:07+00:00",
+          "title": "¿Cómo sigue el juicio a Marset en Estados Unidos?: se fijó una nueva audiencia que será clave para el futuro del narco uruguayo",
+          "url": "https://www.teledoce.com/telemundo/internacionales/como-sigue-el-juicio-a-marset-en-estados-unidos-se-fijo-una-nueva-audiencia-que-sera-clave-para-el-futuro-del-narco-uruguayo/",
+          "description": "Marset está acusado de conspiración para lavado de capitales provenientes del narcotráfico. La pena máxima que podría recibir por ese delito es de 20 años en prisión. La entrada ¿Cómo sigue el juicio a Marset en Estados Unidos?: se fijó una nueva audiencia que será clave para el futuro del narco uruguayo se publicó primero en Teledoce.com .",
+          "pub_date": "2026-03-21T18:50:49+00:00",
+          "score": 6,
+          "score_reason": "Pregunta retórica y etiqueta 'narco uruguayo' generan dramatismo innecesario.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Un juez de Estados Unidos rechazó la solicitud de libertad bajo fianza de Sebastián Marset, acusado de conspiración para lavado de capitales provenientes del narcotráfico. El magistrado fijó una nueva audiencia para la próxima semana a pedido de la defensa del procesado uruguayo. La pena máxima que enfrenta por estos cargos es de 20 años de prisión.",
+        "coincidencias": [
+          "Un juez estadounidense negó la libertad bajo fianza a Marset",
+          "Se fijó una nueva audiencia judicial para próximas instancias",
+          "Marset enfrenta cargos por lavado de capitales del narcotráfico"
+        ],
+        "diferencias": [
+          "Teledoce enfatiza el futuro del caso con lenguaje más dramático",
+          "Subrayado detalla el pedido de la defensa como contexto procesal",
+          "Teledoce etiqueta a Marset con término descalificador, otros evitan adjetivos"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Orsi asume presidencia protémpore de la Celac",
+      "category": "Internacional",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Orsi asumió la presidencia de la Celac y llamó a “cooperar contra el narcotráfico”",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc0hMQzZabTcwR256MkhlRU9HOUdkbVh3OVZQck5TNC1kYk5EbDhxeXE1eTAzRkZldjNXVnllN1RuTHdtTDVyT3B6c3N2SnNsc1c0UG1fNFFEYnlVNFlweVRnNWdPcmpxTU1VR01rdm5kYjhpLVp0MkNzRTd5YkNNQzV2bEpudXoyemV3dkpjRTRlR183VE53bFIyRnY0R2dWVTdkdU5aa3NoVEFQSEktWTA0WnJNZ183cU5OdmpUR2dvUHFKelVGLdIB7AFBVV95cUxPT0pjMXFBX1BNUVJlUmtNcFZNUDFCQ2tFeDAzVzF6dndLWWZVbm96UmtNXzRBem9YYkhubzlzLWtIVGtNR2N2VnBPNjFkWm5hSWstUE5USU9EajE5OUM3SVFQMm42anB0aHBkamxmQlBwaGNfZ3owU1hYSF9JRVVJTm5IMW91a0VxTmR1TW1PcTgwOXQwOEc0M2hqMW9US0VZSjM5Q3UtTUxSajk5SUpqbVdLcmxrZ0VrS2N3R0IzTWd2czFjdnNlRUVPSllaUFRYTzZqTmx6bDFuYjBFRERsbGxxMmh1Y2NLTndCUg?oc=5",
+          "description": "Orsi asumió la presidencia de la Celac y llamó a “cooperar contra el narcotráfico” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-21T19:39:00+00:00",
+          "score": 2,
+          "score_reason": "Titular informativo directo, menciona hecho principal sin énfasis particular.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Con énfasis en diálogo y cooperación, Orsi asumió en Bogotá la presidencia protémpore de la Celac",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdlVYUnRDdG4tOGdSd0o3NFBwODdwSzFEbml5YkhodG5NQXRtaEplTGtrd0V0UGdpOS1fanJxbkJGZ1BfbFpYQTQ5MWlGLUhlTDBuVUh2OVhXcFFTb2t5bUFYU2pqeTFWUmdyX1JjaGdfeE9venUtSDJ3RVFVc0EtUEdiMXBsaC15c0xKbU1XRGRMNEdNOFHSAZsBQVVfeXFMTk9fZnFXYmVBcnpPR016ajBsQkd3ODJXNFJ6bkJRUWdjVUFXYkRRVE5acW5PcHFjUmZZM1BDRDZrZ0VCMHBjRzBDTENOTmd3RnpaLXNJMVFadURhYTZLYWlhSUJPaHB3cnZMWEV2SFdGVlpITmJYNktqV2xjamtJdTJaNGtrekxxUEpMd29wam1SOFFodnJxY3d2MjA?oc=5",
+          "description": "Con énfasis en diálogo y cooperación, Orsi asumió en Bogotá la presidencia protémpore de la Celac &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-03-21T20:40:00+00:00",
           "score": 3,
-          "score_reason": "Énfasis en delitos específicos, lenguaje neutro con detalles procesales.",
+          "score_reason": "Enfatiza 'diálogo y cooperación' como marcos interpretativos de la asunción.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "En su discurso en la cumbre de la Celac, Orsi agradeció a Bolivia y Paraguay por la \"cooperación\" para la captura de Marset",
+          "url": "https://www.teledoce.com/telemundo/nacionales/en-su-discurso-en-la-cumbre-de-la-celac-orsi-agradecio-a-bolivia-y-paraguay-por-la-cooperacion-para-la-captura-de-marset/",
+          "description": "Orsi llamó en su discurso a fortalecer la “cooperación en materia de seguridad” entre los países porque “el crimen organizado no reconoce fronteras”. La entrada En su discurso en la cumbre de la Celac, Orsi agradeció a Bolivia y Paraguay por la &quot;cooperación&quot; para la captura de Marset se publicó primero en Teledoce.com .",
+          "pub_date": "2026-03-21T21:06:05+00:00",
+          "score": 4,
+          "score_reason": "Destaca logro específico de captura, introduce matiz sobre cooperación bilateral.",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "El presidente Orsi asumió la presidencia protémpore de la Comunidad de Estados Latinoamericanos y Caribeños (Celac) durante una cumbre en Bogotá. En su discurso enfatizó la importancia de la cooperación entre países para enfrentar el narcotráfico y el crimen organizado, destacando que estos problemas trascienden fronteras. Agradeció específicamente a Bolivia y Paraguay por su colaboración en operativos de seguridad, incluyendo la captura del narcotraficante Marset.",
+        "coincidencias": [
+          "Orsi asumió la presidencia protémpore de la Celac",
+          "El evento ocurrió en Bogotá",
+          "Se enfatizó la cooperación entre países como eje central"
+        ],
+        "diferencias": [
+          "Montevideo Portal prioriza el llamado contra narcotráfico de manera genérica",
+          "Subrayado destaca los valores de diálogo y cooperación como marco filosófico",
+          "Teledoce enfatiza logros concretos de seguridad y capturas de criminales"
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Condenan a cuatro por robo en casa de asesinada",
+      "category": "Seguridad",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Cuatro personas fueron condenadas por el robo a la casa de la mujer asesinada en Artigas",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdFVBczAtS2llbGxhbGpxSExaM3BGcDF1cGs0YkxEUGFWYWw5TXZkbFIyXzRCWTI5blE5Qkktb0hhZGRPS2pNUURXeG9aRkQ0dkc1bUxIMzlyUzRRQ2gwNVpfcmZYSGU0bEdXWGJtY2VhT0xPN3VYTzZTLURJNmxoelhucm9DLXFFN0laMjc3R2VySHZ0ME0zUUt4TWpQelpTV0NXcEVINWoxRnQ5MFVKaXZjTVoxdUpmMkljN0RqZVkxc0VGcDN1RzVvUGh2OEZPbnfSAfYBQVVfeXFMUEVsOEZoT253M2pvYmZuME9WdkQzNV9sNzQxUzVUTXFHVXVadFA3eUJzQURWSzhrbzlSYWExdGNFS3Z0b2s5clBBd0dHbnFHNFJZT0RzSE9hYkVZQVkxaVJZZ1lCYWRhUEJ4a1k4OVhNVUxDUkdvX2hEOTJzU2JtX1Q5alRGRkVUZm1jYm83UG1CaFpab3hDTF93bXp0TDVSdzVXRlEwbnJ4TWZBRlBJVC1HS0ZTM3N6WEUwdjZteElzcExZaUh6aTBVYmQyTXR6QnJIX2Q4elZYUVNEbkZtZkcxUmZrYjhHcHlzQjlJOW05M0FjVlB3?oc=5",
+          "description": "Cuatro personas fueron condenadas por el robo a la casa de la mujer asesinada en Artigas &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-21T18:59:00+00:00",
+          "score": 1,
+          "score_reason": "Lenguaje objetivo, directo, sin énfasis emocional ni detalles innecesarios.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Condenaron con prisión a cuatro hombres por robar en la casa de la mujer asesinada en Artigas",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemJneDZNNDFLMnozLW1mSzVleHBZbTExdXdYMTJJMzQ4LWFkb3ZlX2xWa0JyWnV1V213OFZ2LTItVmJ4eE5MNUdtczdYaHZhNDNBaUFzM3ZXamkwcHpfLUplcHlFQnV0UzdvaGpGaktEVGxZbFFBNWExRmFJcHJLTUFLWDY1SzY4U3dCNGVuUEd4bUgxcWlyTkxMX2poQjV4dU96OWlMZ0tjQ3NCUGpURHRR0gG3AUFVX3lxTE5KMHJyNHBUUFc0QWcwb0xoS01lTlFYYW9CalRJZW0xUXhyYzV3ZkJhclI3SGg1bGlzS3NOak1BZVQzZUlhVElrSXFYeDZuT0w1TGgxZkMyeVIyeTlZWnh4bVNjdmtFSnJBdC1SZmljQjdjOXVzajVFOERWbXFVWVAwZmE1cGlEX1U2T1ltVHlpQ3dTeWlxNzVlOVJfNUk1SkdsMll4UUZURUVVY0MxejQtTFpwN3BCYw?oc=5",
+          "description": "Condenaron con prisión a cuatro hombres por robar en la casa de la mujer asesinada en Artigas &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-03-21T18:58:00+00:00",
+          "score": 2,
+          "score_reason": "Especifica prisión y sexo; información básica con mínima carga emocional.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Condenaron a cuatro hombres que entraron a robar a la casa de la mujer que fue asesinada por su expareja en Artigas",
+          "url": "https://www.teledoce.com/telemundo/policiales/condenaron-a-cuatro-hombres-que-entraron-a-robar-a-la-casa-de-la-mujer-que-fue-asesinada-por-su-expareja-en-artigas/",
+          "description": "El crimen ocurrió esta semana en la zona de Cerro Ejido. La entrada Condenaron a cuatro hombres que entraron a robar a la casa de la mujer que fue asesinada por su expareja en Artigas se publicó primero en Teledoce.com .",
+          "pub_date": "2026-03-21T19:08:36+00:00",
+          "score": 3,
+          "score_reason": "Incluye contexto del asesinato y culpable; relevante pero amplifica magnitud narrativa.",
           "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Sebastián Marset compareció ante la Justicia estadounidense en un proceso judicial. El juez rechazó su solicitud de libertad bajo fianza, manteniéndolo en detención. En paralelo, en Uruguay, Maximiliano Rodríguez, titular de Pasfer, fue imputado con prisión preventiva por apropiación indebida y falsificación ideológica en el caso Conexión Ganadera, tras detectarse un faltante millonario de ganado.",
+        "resumen": "Cuatro hombres fueron condenados a prisión por robar en la vivienda de una mujer que fue asesinada por su expareja en Artigas, específicamente en la zona de Cerro Ejido. El crimen ocurrió esta semana. Los condenados ingresaron a la casa con intención de saquearla, aprovechando presumiblemente la situación de vulnerabilidad tras el homicidio.",
         "coincidencias": [
-          "Sebastián Marset fue presentado ante la Justicia estadounidense.",
-          "Un juez rechazó la libertad bajo fianza solicitada.",
-          "Ambos casos involucran imputaciones y decisiones judiciales."
+          "Cuatro personas fueron condenadas por robo en la vivienda",
+          "El hecho ocurrió en Artigas, específicamente zona Cerro Ejido",
+          "La casa pertenecía a una mujer que fue asesinada previamente"
         ],
         "diferencias": [
-          "Montevideo Portal y Búsqueda se enfocaron en Marset; Teledoce en Rodríguez de Pasfer.",
-          "Teledoce incluyó detalles específicos de delitos alegados; otros fueron más concisos.",
-          "Niveles de detalle varían: Teledoce más extenso, Búsqueda más directo."
+          "Teledoce menciona explícitamente al expareja como asesino; otros medios no detallan",
+          "Subrayado especifica pena de prisión; otros no la detallan",
+          "Teledoce contextualiza más el crimen; Montevideo Portal es más minimalista"
         ]
       }
     },
     {
       "id": "story_005",
-      "topic": "Gobierno evalúa revisar metas fiscales 2026",
-      "category": "Economía",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Ministerio de Economía evalúa una revisión de las metas fiscales y un recorte del gasto",
-          "url": "https://www.teledoce.com/telemundo/nacionales/ministerio-de-economia-evalua-una-revision-de-las-metas-fiscales-y-un-recorte-del-gasto/",
-          "description": "Oddone señaló que el gobierno debe tener una “mirada cuidadosa” y descartó recortes en políticas sociales y primera infancia. La entrada Ministerio de Economía evalúa una revisión de las metas fiscales y un recorte del gasto se publicó primero en Teledoce.com .",
-          "pub_date": "2026-03-20T19:09:21+00:00",
-          "score": 4,
-          "score_reason": "Más directo y claro; incluye matización sobre protección de políticas sociales.",
-          "score_pct": 40
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Oddone: \"Estamos evaluando\" una \"revisión\" de las metas fiscales, que podrá ser con postergación de gasto público",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFFaVlg3QUJSMm9WelFLWmNlVWJYakdmWkZfbXlaMjRTTWpjZ29ZUVIyY2R0WWtDTU83TDZlM0Y3V3ZGMFd2V2JaaXRZdjFYX2czaTNHS2VKc2J1MTV5MWlHalZGQUtLXzR3QlpQSXRuS09aZHdDOG41Z1RoMjlpeEpudkJaZWJ2UURCb1A5OUZBRTI5aUlFandJM3dncnZ4SXdqakRLdVpGUklnc1F2a0hTYkxCalVFemtVQmMzOVZONVBWYXRSekRHZVZPNnFP0gHWAUFVX3lxTE5OWlZvZFlrd0czOUh4VFV0UjcwaHRqN25CMXF6SmlVb1hwd2JpSHRjVG5ub04zT2Y3Uy1scmg3MGYyZkdUM01mRDRXYlpNZWlKXzVySFhFdFBTOGsxMG9WOVAzWlU4WmJtSDZIQVU1R1ZZaEdGVkJfa0Q3V2YwdkZDWTVVUXpocmNmTTJFekdxYWROOU84azNTRnJlTXdmRlVqc3J6U2xSQ01BbUFQMkJsTE5TSlJHaHlMVjllaVFQM0dKSVJtc3hLVV9DYXdmSWctQlEyeXc?oc=5",
-          "description": "Oddone: \"Estamos evaluando\" una \"revisión\" de las metas fiscales, que podrá ser con postergación de gasto público &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-20T12:56:00+00:00",
-          "score": 5,
-          "score_reason": "Múltiples comillas generan ambigüedad; enfatiza evaluación sin alertismo directo.",
-          "score_pct": 50
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Ante “revisión” de crecimiento en 2026, Oddone no descarta recortar el gasto público",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNlUzbGFGT2RLV3F1U1hBRHJOWnVtSnhHX1VRdmhxQTJzQ0kzOV9pQVl3ZmVDdVBGUmJmaExoUHFvWVM2WjgzMUF5ZmVLUTFtc3NTcm1rWU8zT0xTdFg5ZVVyTWEwSXBIbFJuM3U1RFp6NXBzbzN5dWM4WWN0MFNDdjhXTDZGRV9BVGZCeXlKY1lqaERFbU9MaHprRzhZeU9WMmZRY3A2WEtNZEpnZ2xCOXM0OTVJQlA4SkZqSlFDNGRwbUtoTkhVZNIB7AFBVV95cUxQMXBDYm8ycnJHbDU4dDlLb3BaSm5QV29XVDVoWDdQV09nTGp1SEVKTVVNbkJqMkNzUGdKTUtlYXVmSnJJXzlQWDJNM1MtZldvVlB3aHNVMWFnaHVIY0xJZFBuNWpvT1NpLUNrYWN3TXZ2TU42dmdJVklRU1RBOTZQYVlibDA0TzNXaXlBWXc3V0VJNFpGblFPc2U1ZUtnYjZzNG9hb2taLUxaNnVSYm5ybHUzRm1FWVdOMW9OaXFHeDdJR2EzNFNSSTR6RmJXZWlKTUc5NWRFS01uQnJOSmYyOUZXblRLUGh6N2xpVA?oc=5",
-          "description": "Ante “revisión” de crecimiento en 2026, Oddone no descarta recortar el gasto público &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-20T16:40:00+00:00",
-          "score": 6,
-          "score_reason": "Uso de comillas en 'revisión' sugiere cuestionamiento; enfatiza recorte sin contexto completo.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "El ministro de Economía, Oddone, anunció que el gobierno está evaluando una revisión de las metas fiscales para 2026 ante una posible revisión a la baja del crecimiento económico. Entre las medidas bajo análisis se encuentra la postergación o recorte del gasto público, aunque Oddone aclaró que no se tocarán políticas sociales ni primera infancia. El gobierno mantiene una postura de cautela para ajustar sus proyecciones.",
-        "coincidencias": [
-          "El gobierno está evaluando revisar las metas fiscales para 2026",
-          "Se considera la postergación o recorte del gasto público como opción",
-          "Oddone aclaró que no habrá recortes en políticas sociales"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza el recorte sin destacar las aclaraciones sobre protección social",
-          "Subrayado usa mayor cantidad de comillas, generando más ambigüedad interpretativa",
-          "Teledoce es más equilibrado al incluir las precisiones del ministro en el titular"
-        ]
-      }
-    },
-    {
-      "id": "story_006",
-      "topic": "Prisión preventiva en caso de femicidio en Artigas",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Prisión preventiva por 180 días para el hombre que asesinó a su expareja en presencia de sus hijos en Artigas",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUXV3VU9XZTE3bExCR3hoR05XX3VOVU5SX1Y4Qjc4YTgwU1dKWGt0aEZJbnppbWRzaFJwdGw0TEV1WGZNSi1XQzVkQmRxWDd5V01hYTVtcHVvd1BxWGJQSGJXZXhJanpYR1BlZGNDQV9Ya1hnNmZLNGI2MVRnOWU3WFNZbWJyM09mR2pqQUhiX1JLVWlCUkhWdHYxUjVuMktMOVp5aWpURElhZHZfLVZkbE14LUp6NWRRaWtZRC1SSlEtWGQ4MHfSAcsBQVVfeXFMT053UHRmOFNGYlljR1dVVUR1cjJXWUo1T2VnWktwQVYxbFM5YjJXODRCZ0NfdkRSbUcxNkducDZtampCRjJoaWVPTFJfOGV4R3VxWkxMZjFiOTVaY1dtNEN0S050bXo4TmZCZUotdm40XzZJb0s2QmdMcC1UelplcS03Y2MxT1NxajlveGEwSWVvdy1JTjNzVXk4Unh5cU1fZWdGeHZxV1JnX1hMOHBFYUpzOHVqNzhMcm12Zmd5YVo2R0xRWl9KYkQwVzA?oc=5",
-          "description": "Prisión preventiva por 180 días para el hombre que asesinó a su expareja en presencia de sus hijos en Artigas &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-19T23:14:00+00:00",
-          "score": 2,
-          "score_reason": "Presenta hechos objetivos: autor, acción, circunstancias, medida judicial.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Femicidio en Artigas: el imputado hizo un pedido especial a la Justicia, y fue complacido",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVVg0WjNSOW1GVHBHS0hSRjhEWXdDZUZNZXZtNk5UNy1NQW81ZlNMUU5VUGlTTmdiYmd2WGhoNFdDdlhBUmsxT3c0eUdNMzhSSFFJa2lqemVfZEFhR0pIMTdFX1pvNDVUek1SSERrQjlwM01vNUdLTWRqcTYzNHZyTDVoUXNsYzlTd0FuT2Z2VmZuZktqVF8zbFFlMEx1eWdsdS0wVk5sLVdlQXQxc1V6OE1ZZndEUWdiWEtYUFd5bVhYMTV0ZTVRS2hzSF9TSXVJ0gH0AUFVX3lxTE82QWlFamZHRTZCLVpKdThmbk03aG1WanhkTmFqbHJaa0hxcDY4UWt5ay1obTNHcHNjbEtCTFZBczNYX1RMa0xpTnJmQ2M1clhMLVdnemxuV2NCTnFhTU5sQllmMC1iamE3aWZPaGlhMUM2RlRRZlJ1cEhwSDd5b3lKUjNOVlRkVnU3a2Nra3lYOTFUcGVNM2h6WnFMVFFTQnE3MnNKekc1bDFjS2xpSkR4bjNVWXI3Z0F6enJzUXRabm5Ta0Z1eW1TejNUcW81OFNaZlUtNDlwbkl2bWF6dF9CXzg0MEIwRnRKcHhZYjk2MHFtcjc?oc=5",
-          "description": "Femicidio en Artigas: el imputado hizo un pedido especial a la Justicia, y fue complacido &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-20T10:22:00+00:00",
-          "score": 6,
-          "score_reason": "Enfatiza 'pedido especial' y 'fue complacido' generando intriga innecesaria.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "Un hombre fue imputado por el asesinato de su expareja en Artigas, cometido en presencia de los hijos de ambos. La Justicia dictó prisión preventiva por 180 días. Según los reportes, el imputado habría realizado un pedido especial que fue aceptado por el tribunal. El caso constituye un femicidio y generó cobertura en medios locales.",
-        "coincidencias": [
-          "Un hombre asesinó a su expareja en Artigas",
-          "El crimen ocurrió en presencia de los hijos de ambos",
-          "El imputado recibió prisión preventiva de 180 días"
-        ],
-        "diferencias": [
-          "Montevideo Portal destaca un 'pedido especial' creando dramatismo; Subrayado omite este detalle",
-          "Montevideo Portal usa lenguaje que sugiere complicidad judicial; Subrayado es meramente informativo",
-          "El enfoque de Portal es más sensacionalista mientras Subrayado reporta los hechos sin especulación"
-        ]
-      }
-    },
-    {
-      "id": "story_007",
-      "topic": "Dos noticias distintas sobre Uruguay",
-      "category": "Otro",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Informe Mundial de la Felicidad: qué lugar ocupa Uruguay y por qué Finlandia sigue liderando el ‘ranking’",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObjZZNTZQbFQ3OVB1cV9CRkM2MEY2Zk9INFZidXAzMGxQMm1CT2s2NEtBZ2ZNdmRwSlBJSWZMOXpuNlFybnY3YUNvVFE1YU51cnpuVkV6cmM0aU9jUWJ2MGt1dnJuZTV6Qnp5blV6YnpoS2c4bTh3ZGh4WVRCSHVEV0NVMEhOUlA0bzRvZkh2aHFVQkZxeEhBN2UxWE1pYXYxM2xCVk9Qa1lYQTRSbHdiblZ2RjJfRXRkRXF3LWw4MHlsSHZsN3MwMGlRYkpsWHdMU0pkSzRwYl9adw?oc=5",
-          "description": "Informe Mundial de la Felicidad: qué lugar ocupa Uruguay y por qué Finlandia sigue liderando el ‘ranking’ &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-03-20T20:38:00+00:00",
-          "score": 1,
-          "score_reason": "Presentación objetiva de datos con interrogante educativo, muy neutral.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Los ex, los uruguayos y los de selección que enfrentarán a Peñarol y Nacional en Copa",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNnBkYi1RUVRqc0J3RjFEY2JUcXF3Q0VNSU1aLXhQcTFtN25RY2R4Y0hIVF9CcWE0VFAxVkhCT0NYUTNtcnZNZ05jbHJnQjBFZ0o3OUtMSjIyQnlmNE5mTzJlWFlYV1NOMUdDUVpYbU1oUHA1VzktQ3NQbEhBRG1zTUhzUWRodTJ4cm1aTWlydHBaMVhhcW5sMTIwbjRFeVduM2lCdlJGcUdMay1oSDdqUmdnazVvYzVoeWNaT3NJU3JteUxwV2ZpWFBnOFbSAfABQVVfeXFMTWFSWElUdG9hUldWejhWSTgzM2dLZ1IxWV9wN2hBbFg3WW0wYnUxb1RMenpmQWRza1hZUXRUZEJqMGlOOXJNckc5Y09sUVJaRnlETldVX0dOalAzV3ZlUkhaX2pjNUYyckpmZVZUQXcyWGZjOTRPVV9TZmQ2MkFyQzRCRlR5R0ZfajZHRVVSRGVHVjNWOV9TMnpKNjlvVFdxMkM5QldsRklLTmRTLWNhT0pEUEk4dEszZ1ViU1dpLUpRZTFNcDJndFdlZ0tsdWRHbDR1NGtqa0xPa1k4dFlQQWxjYlAxSG5kMGRhVHNxM2p3?oc=5",
-          "description": "Los ex, los uruguayos y los de selección que enfrentarán a Peñarol y Nacional en Copa &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-20T20:55:00+00:00",
-          "score": 2,
-          "score_reason": "Titular informativo, descriptivo, sin carga emocional evidente.",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "Se presentan dos noticias completamente diferentes sobre Uruguay. Una refiere a equipos que enfrentarán a Peñarol y Nacional en una competencia de Copa, mencionando jugadores extranjeros, uruguayos y convocados a selección. La otra trata sobre el Informe Mundial de la Felicidad, donde se analiza la posición de Uruguay en el ranking global de bienestar, con Finlandia manteniéndose como líder del índice.",
-        "coincidencias": [
-          "Ambos titulares mencionan explícitamente a Uruguay como sujeto central.",
-          "Utilizan lenguaje claro y directo sin palabras emotivas.",
-          "Se enfocan en hechos verificables y datos específicos."
-        ],
-        "diferencias": [
-          "Montevideo Portal cubre deportes mientras Búsqueda aborda indicadores sociales.",
-          "Uno enfatiza comparativas entre jugadores; otro compara rankings internacionales.",
-          "Portal se centra en competencia local; Búsqueda en posicionamiento global."
-        ]
-      }
-    },
-    {
-      "id": "story_008",
-      "topic": "Inglaterra convoca jugadores para enfrentar Uruguay",
+      "topic": "Peñarol vence a Cerro 3-1 en el Apertura",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
@@ -395,13 +323,13 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Inglaterra anunció los futbolistas convocados para enfrentar a Uruguay en Wembley",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTlpvd1paWmxjZG1MaHpySG16a0d3cktTcWpGbFB5X25uazI4RDhTRFMzZTk2QWt6MG5HVFBucHZGclZ2Umx2Tjh3ZTNCY2NITTdFWGs1ZEh3MU51eU81NjJUZ01Zdklmc0RVb21GbFhpd05UbnExaGZKVURTQWxkTzl0dUZ4OUF5RDBQQ1RtN01ycVpnTmVKQVk3MXVMTnBoRk54RUNPMU56UHVSZWpiaUh2V2NSWEJNdVFZRWdSOU1xVmh0T0ZCU9IB7AFBVV95cUxQYjV1RlNoMjF5eXA5Ulo1cGYtS3hiU0M3bVNqRnFpQ2dNSUs2RHlVLTBpQjZwSi1CNU9ta2s3NDZsYlZCLW1KMWhBa2FpdGtjLTVkZnc2MlJEMl9Jd25XZXg4dkp3RjhDSVlKX2tKLUdRZjQ1ajVWMWlhRlpWR0tnTENseEFMSHZvamFReTdKOVdnOGQ1WHI4N1F6NDNOVHY3SUduaUp0aGlxakhWZzVYVk82cFZ2M3hmYUhsYkRuWjlheldSUExCYjhvbW1IQmxLZU5tOWxpNHBSRUQzUVBjbmJYNlJWc0MxWWZBRw?oc=5",
-          "description": "Inglaterra anunció los futbolistas convocados para enfrentar a Uruguay en Wembley &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-20T13:54:00+00:00",
-          "score": 1,
-          "score_reason": "Titularención factual y directa, sin énfasis particular.",
-          "score_pct": 10
+          "title": "Apertura: Peñarol venció 3-1 a Cerro en el Campeón del Siglo y es uno de los líderes",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb084THFGd2JieGU2a0xkZmpkLVpUN0diNXdGVmlFbmowMHV3ZzU5bjh6Zk5EcVBUeDR3WmFOQkxhYkdlMnEtSi1tRFdoUm43SE1XTzR5Y0tQbFpEVGlrWlR5TzlNREJNUThESE5Xdkg2UWlvSHJmZ3RlX0hGNjZuRVA2eXdXVTJvQVUyaTU3N1VjWG9odU5mZWtXcGFhbmdSNjk1NVVTY0ZJZ0JQT29iOEx4RjJyVmNpZ0N4LXgxMVZQR1RSa3gtUDk1UQ?oc=5",
+          "description": "Apertura: Peñarol venció 3-1 a Cerro en el Campeón del Siglo y es uno de los líderes &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-22T00:29:00+00:00",
+          "score": 2,
+          "score_reason": "Redacción clara y directa, solo destaca resultado y posición.",
+          "score_pct": 20
         },
         {
           "source_id": "subrayado",
@@ -410,48 +338,150 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Rice, Bellingham, Palmer y Kane, entre los convocados de Inglaterra para enfrentar a Uruguay en una semana",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcm01cjRtYXlVeTVyVDRFdUFQRzNYaXRWYVVlLWdRMXZ2Yk80Wk1MYmJMYWhidTNicjBZUUxfWUJ5U3g0OGdCcTF0d2NuRDQ1emsyVEx2TWhQZmlaVk5kRlVXWERGSHAyWmQydURsODJ5cFFlSnJjMEJnVFRGR1d2U3l6ZUxfRGJrYmEweVBYTFpacWhiVk9Na0dxZmZrRG9RU1lRbVhBTXRlOVBoWW5yVEpVQnVpWmhXZzNZTVpvSdIBxAFBVV95cUxNM1RRS2E5MzZ2bXk2aFpVVEFTVnpvbnNBb3Q1M3Jpc3o4WmJoTnU4U0U5bWJoYUZKczkwdXV2RVVxSUhHZUlKUzBWZ0szWjRMSTV6SlpkTTloMHJfWXU3cXd6dXRSd0FZcTY0eWlsSU9Rc2dlTlU1QWZoVG1jYUNabW5UZFduUmRMVlpPbEZOXzBobHF2bE9Od2w4SUVkcldRamppbGMwbkV6bDRHOXFhV2JzNV9LWGctSGVxSUlvNFpOQnM5?oc=5",
-          "description": "Rice, Bellingham, Palmer y Kane, entre los convocados de Inglaterra para enfrentar a Uruguay en una semana &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-20T12:04:00+00:00",
+          "title": "Peñarol le ganó 3-1 a Cerro y quedó líder del Apertura; el juez Matonte expulsó a uno de cada equipo",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPal9YQ2RReE9BeFdteDl3cXVRX1hkOTZWV2hKX1E3QnBUZXY2NkQ3ZWN4ZnM5cVRobExrazhReVFuTjNSR3J3VTZpNDEzeEgwa0dVdnZzSFV2Z3lHLXNXdFRBRDZ1dXRyaTFlbS1MT29XVUdYQlF1VVJ4LUZmbDFSMWZkM2lVMXA4TFRxVU9DZUluRWNtOUdTWG5WdHJtMzRhWHBLYlAtVklKbDU3Nk5IWFI1R2RzSVIxckhfSlpBUHI2d1M4N0F4T2d30gHPAUFVX3lxTE1CeUVpYVNvYlVkLV9uOFhDRG10X3RzNHhqWE1LVUFqcG5sX0ptRnVxUDd3am1fcENVMWhLdjdmTFB5YkZIQ2F1ejVjQ0xOYjdSNl8wY1QzbnFpR3VjV0VxamhIVHktcnY4R1BvQU1pTUJZQ25WSHVVdVloaTB4ekN6dHlxZGF3U19RLWlMalZXSDFESjZEcmlDZ3QtR3kyazJ6RjVZNXZGT1BESUdpM3hrbFQ3clBNS0c0LVRiUHJKTnVPaHpWclBtQko1bHFSSQ?oc=5",
+          "description": "Peñarol le ganó 3-1 a Cerro y quedó líder del Apertura; el juez Matonte expulsó a uno de cada equipo &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-03-22T00:33:00+00:00",
           "score": 3,
-          "score_reason": "Destaca nombres específicos de jugadores, enfatiza individualidades.",
+          "score_reason": "Agrega contexto de expulsiones; información complementaria equilibrada.",
           "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Inglaterra anunció su lista de futbolistas convocados para el partido amistoso contra Uruguay en el estadio de Wembley, programado para una semana después del anuncio. La convocatoria incluye a jugadores destacados del fútbol inglés de élite. Se trata de un encuentro internacional de preparación entre ambas selecciones nacionales.",
+        "resumen": "Peñarol derrotó a Cerro por 3-1 en el estadio Campeón del Siglo durante la fecha del Torneo Apertura. El encuentro contó con acciones disciplinarias del árbitro Matonte, quien expulsó a un jugador de cada equipo. Con esta victoria, Peñarol alcanzó la cima de la tabla de posiciones del certamen.",
         "coincidencias": [
-          "Inglaterra anunció una convocatoria oficial de jugadores.",
-          "El partido se disputará en Wembley contra Uruguay.",
-          "El encuentro está programado para una semana después del anuncio."
+          "Peñarol venció 3-1 a Cerro en el encuentro",
+          "Peñarol quedó en posición de liderato tras la victoria",
+          "El árbitro Matonte expulsó jugadores de ambos equipos"
         ],
         "diferencias": [
-          "Subrayado enfatiza jugadores estrella (Rice, Bellingham, Palmer, Kane) mientras Montevideo Portal presenta información general.",
-          "Subrayado utiliza un enfoque más atractivo comercialmente nombrando figuras destacadas.",
-          "Montevideo Portal mantiene tono meramente informativo sin jerarquizar nombres."
+          "Montevideo Portal enfatiza liderato; Subrayado resalta hechos disciplinarios",
+          "Subrayado incluye nombre del árbitro; Montevideo Portal lo omite",
+          "Subrayado le da mayor peso a las expulsiones en el título"
         ]
       }
     },
     {
-      "id": "story_009",
-      "topic": "Femicidio en Artigas con robo simultáneo",
-      "category": "Seguridad",
+      "id": "story_006",
+      "topic": "Nike presenta camisetas de Uruguay para Mundial 2026",
+      "category": "Deportes",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Caso femicidio Artigas: robaron la casa de la mujer asesinada y trasladaron al agresor a Montevideo",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQkJtY3FvZzBaZlBFRGxKOUYyUVpuZ3Nob1VfV3NFTEtpUFp1Y2Q5Sm9rVVY0dm00cEx3UFpFSUh5VldDeDVMNDB0MTdUaUR2VFk0VWhmUUljZDdDTTgtMDlMU29qNE5mSGczdDRSeHJLRGhPWEpDMGhRdUtRUjRFUmtjVTZ5enlteVpsUU9fSzhtX0d2bkVDOEpmWGJveDNhZ2VfVlg1cGFtRjl0SjlReERlajBlU1RCcEV6TmkwQk5oNGw5LXVmSk5oVdIB0AFBVV95cUxOSnlxdm9JNVNGTlBpenU4WjB3UUY5OEY2cGUyZGp0Nm04c1ZpWTJhUURCOVBqUEZKUGxKWHVzcko5ZHNsX3p0dU5MT09LYU9fak5zbVVURW0ycUdEUGlQVnRlRUZnM2k1cmtCQzFWZGhuVzRKOGR5Zlo5aWZ5cU1Oel8yTWs2RDBxaUtTdnZfV3RtSi04azMtQnVmTVNRT3RKdzFnczBqOVJfWUg2ZEl1NnVMUm93aXVEZjdRbXZpLVFSNndIQVB0VXF3V1QtQ1d4?oc=5",
-          "description": "Caso femicidio Artigas: robaron la casa de la mujer asesinada y trasladaron al agresor a Montevideo &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-20T21:50:00+00:00",
+          "source_url": "https://www.espectador.com",
+          "title": "Nike y AUF presentaron las nuevas camisetas de la Selección de cara al Mundial 2026",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQnBFX25qRm9pU2JyTnd0LTNXTzZjbzEwdVppbjZjUkEtVTZBd1NoNmh3bkFlcVVMSkYwRFNfRWFUbUc0azFyRUlxY2lHNFJFYTZodFg0aWVIaC1oTGE4eUJiQ3U2akI2OURaM0cwYkJ4LTJQZTMtMXo3dFhaekhfMUVob3F1UWNYS205eWtHWGNSMmVqT2h5ZDV4Q0tsVFIxanIyVk12R3ZVaEtwZjUtUnVRYXJzTl9qbUdtcVUzbFBtRkk?oc=5",
+          "description": "Nike y AUF presentaron las nuevas camisetas de la Selección de cara al Mundial 2026 &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-03-21T13:37:12+00:00",
+          "score": 1,
+          "score_reason": "Neutral, informativo, sin adjetivos ni énfasis particular",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Nike lanzó las camisetas de Uruguay para el Mundial 2026 con varios detalles históricos",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORm8zeEh2UEltbHVkRnVpRDRBVFhPZmFLLWt2V0pGMzBCSk83MzJxLWo4UHppSW5jZzI0amtWNm5qZVlqQ3lUWEptUkEtWElkMUNiNW1pRExSZEpqU1RxRHJVamx3djJHSlFBRDJtdk1GRnU1TGlhM3czbzI4d3VXVjRNNktfalFJeG5oR19udlh1NmtFVmR2OHlnUHBzLUN6bHlwR05HdmFVQlFKSzhzLXFsVVEzZGhNM0RFa05TWkp0eEx1eVl3cVZwd2d2ZXRa?oc=5",
+          "description": "Nike lanzó las camisetas de Uruguay para el Mundial 2026 con varios detalles históricos &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-21T14:40:00+00:00",
+          "score": 3,
+          "score_reason": "Enfatiza detalles históricos, leve carga positiva/valorativa",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Nike y la Asociación Uruguaya de Fútbol presentaron las nuevas camisetas que utilizará la selección uruguaya en el Mundial 2026. Las prendas incluyen varios detalles históricos que hacen referencia a la trayectoria futbolística del país. Se trata de un lanzamiento conjunto entre la marca deportiva y la federación, en el marco de los preparativos para la competencia internacional que se disputará en América del Norte.",
+        "coincidencias": [
+          "Nike lanzó/presentó las camisetas de la Selección",
+          "Las camisetas son para el Mundial 2026",
+          "Participación conjunta de Nike y la AUF"
+        ],
+        "diferencias": [
+          "Montevideo Portal destaca 'detalles históricos', El Espectador no menciona características específicas",
+          "Montevideo Portal usa lenguaje más descriptivo y valorativo",
+          "El Espectador mantiene tono más estrictamente informativo y minimalista"
+        ]
+      }
+    },
+    {
+      "id": "story_007",
+      "topic": "Diego Aguirre y actuación de Peñarol",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Pablo Gardiol y Fernando Zaharriev en El Despegue",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSDhLQm15elpxWDhkMHhDNjB1Y1pVODdIZVFrRGhRazBRYXVCeTZPUnJxeERNbEZXRERUeFhWTExkZXhaRUNUcmxIbWxTc3JhcFowYk1VQnVmdFdMME40V1VsTmxUVUhfME95eDlubzllUmJnY2JOMGhqQ05sZEFFdWJNR1VFOW10QzBscGFDejh5ZEhSLUlHR0dhNA?oc=5",
+          "description": "Pablo Gardiol y Fernando Zaharriev en El Despegue &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-03-21T12:22:55+00:00",
+          "score": 1,
+          "score_reason": "Titular puramente informativo sobre participantes de programa deportivo.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Diego Aguirre: el 3-1 de Peñarol, el gran elogio a un jugador y lo que los motiva",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd1Y2ODhCQTBCOVU0UHdsVHJvaHRCS2F0TThwdzZfM0daZlRyRGRaQTJhVURVTGNpV09ua0U0emgzOWFocGVUVkR4QkhGOENWZG4xWHc1NXoydG8tNlRPejJ2QTRXWnREZHZURW8xMzB1dHJOdDRZRWx2VWJMdGlLc0diODFTZDVzVHdlSGVfcTVrVnFLRk5Odk03TjNsZGRKMVczbTk4ZEo2TmZxbmRCZDlOV3RWQ0hZMElLT0EtblhjUWJDMkHSAeoBQVVfeXFMT1lKenIwUVJKYVpPSmdVMnFCdmhIZnR1Q1d0WmFoa1NkZXJTcGF2QVRTektqMkFvYWdPbEpyZ0RsZDJja0k1SkJCeTVXREZBVVBUbTZPbTRZVWtPUlh6LW9wdkdIRlVaZlFZQ0thdEF5YlVsUi1YQ01tQmM0TnRyWW94WmxuWDdBWGJTLTlJX3UyMFI5TGI4TjNVbjR2UURGa3pZVFp2YkZrRmFvdnVDNUNUel9pUURYWGg4MzNISkZobjVPTjhKUjFwTWk2U1VZQTVpdGJwaFZNZU42dldGaWZRNnhaUzl2aW93?oc=5",
+          "description": "Diego Aguirre: el 3-1 de Peñarol, el gran elogio a un jugador y lo que los motiva &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-22T01:11:00+00:00",
+          "score": 2,
+          "score_reason": "Información clara con resultado, elogio y contexto motivacional.",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Se reporta sobre Diego Aguirre, técnico de Peñarol, en relación a una victoria 3-1 del equipo. Los medios cubren declaraciones del entrenador sobre motivaciones del equipo y elogios a jugadores. Montevideo Portal destaca el resultado y aspectos motivacionales, mientras El Espectador se enfoca en participantes de un programa deportivo. Ambos medios abordan temas relacionados con el fútbol profesional uruguayo sin mayores conflictos aparentes.",
+        "coincidencias": [
+          "Ambos medios cubren temas relacionados con Peñarol y el fútbol profesional.",
+          "Se mencionan personajes relevantes del ámbito deportivo uruguayo.",
+          "Los titulares evitan lenguaje sensacionalista o emotivo exagerado."
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza resultado deportivo y motivaciones del equipo.",
+          "El Espectador se centra en un programa específico y sus invitados.",
+          "Portal ofrece más detalles sobre el partido; Espectador es más genérico."
+        ]
+      }
+    },
+    {
+      "id": "story_008",
+      "topic": "Fernando Pereira viaja a Cuba en misión solidaria",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Comienza a llegar a Cuba la solidaridad del Convoy Nuestra América",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNckZvMnVzcXAtVEZ5Szg2R0Y2dkxuRm52Mnc4Rk9FUlc4U05jYzRibno2ZjZ2NkFsOVVrRzltWV9EU1J5MURTUXkxMUhmbUM1NktqY0k5cU5wcTA5LS01dWpyYkNOZTUwdF9reGx3ei1FQXpVWERWU2V5aU56cFk0dkJOMjQyMGd6VVI5ejZBZEx4OWUtdGxxdDhmME8xQWRjRnJRZ2xXOUpzQUZr0gGyAUFVX3lxTE0yb0s1VFdhMVF0cVpPQURJcjdiR0lsODVCLTRjeEI3aXhPYUVoa1hoaHczWDRmd1FoVy1POEc0TXRMMy1YeGdlT1NHWVQzSDdEbTE2UzNiSElBQjdGUUlkVjZDeHl3OGtPT0FfdkxUSjV5M1d1UHZFOTRHb1piYXlBVFhiRnRtZ3BKMVI2R1ZTTUZ1eGNiQ1ZDWFllTlVmc3NRcENzU3FjdlY2cjY3alNMaGc?oc=5",
+          "description": "Comienza a llegar a Cuba la solidaridad del Convoy Nuestra América &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-03-20T23:08:00+00:00",
           "score": 4,
-          "score_reason": "Lenguaje directo, informativo; dos hechos sin carga emotiva adicional.",
+          "score_reason": "Describe el evento con lenguaje positivo pero sin adjetivos cargados.",
           "score_pct": 40
         },
         {
@@ -461,33 +491,33 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Femicidio en Artigas: mientras velaban a la víctima, le desvalijaron la casa a la familia",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa3pfUDdmdkNiOXQ3cUVmZVdVc3lxdVdRRU1qdGZZQXdWM2ZrNWxza0hlVVNGTjVoa05NcnVBRTAtVldLTzJ4aHhXeUM2TF84Y2VMSThkOVpyU1BRMVU2RGpZNGJxSlUzYWdETTVweTZiOXhxbjRWOGdwSmR6QkNUekFaSlVFb3NSUkI5cTU4MmxOb3dXUlpPVU41amhhSERlUExRVWRCRXM1Q2lfRFZfNkJXajhwcGpnQWhMd0ozbFJOMm5WUXV3Q0lpOE5ydXdW0gH0AUFVX3lxTFBkN3U0MmU3czZBMW9pQ1ZnQ2ppZ2xmeWtUbC14T0pFd3hEalUzd2xiM3c5MGFXZXR2SGhPMHJPTHNYblhjM1kwWS1GemlhZExjNkQtY0ZrZkhiM2Y5WTc1bnZ1TUNOYzhraXc3Uks4bWlUTW5rZlBkR2M2X0tjZlJVZzFleEtnYkZDSGp2MzdLMlgySFRQOU53b1VNeVpRVzktOFNjMWVDNUF3eHBvNjRTSU5RbGk3TFZxVkJHcGQwLXlMQnpUQzIxQUxyUVdDenJnb1BrR1o5X2tuREZHOUMyZGFISFpWTXl4X1VfWlVERDJYOVk?oc=5",
-          "description": "Femicidio en Artigas: mientras velaban a la víctima, le desvalijaron la casa a la familia &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-20T19:32:00+00:00",
-          "score": 6,
-          "score_reason": "Énfasis emocional en 'mientras velaban', genera impacto dramatizado.",
-          "score_pct": 60
+          "title": "“Después hablan de libertad”: Oposición criticó reunión de Fernando Pereira en Cuba",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORjd2V01nZXJEVU1jUVRfQW1FODJHcjQ5VVFJb1J6Sml1WFhTUzZSWW54dTh2MnBQMENEQnR1ZGl3XzFidC03Skdpb1VzcDJ1UTJjcklyck5NanVVYmVROGhkaTlhaXlPM1dUU0M4X0xscWNkSnFUNTd0RFp5YkFRRmhoUzVHTGd2ejRTV05JWUxXSFNveUNwUXdmbTNlMHE5Z243LUlwWlRnVTU2Q2E3eU40X3g3Z1c2WDA4bVpfTTZQYzVHTDhMWUd30gHuAUFVX3lxTFBLTzc0aTlKTjAyQ1JmTG9ZaHJhcHhxU3RfOEdsOWVJaHdPUlBvVE9tQmxhazcxMWVzUXQxSmFSLWRaRDhMaE1GZS1GWWlmS2hDQVd5eU5BNzVMXzYxR0J1YmliX1RmMFRLM3NhWXFqLUF3ZUo1RTBQNEUzS0FfTzdlMGtSM1VGcTBjX2ktMVJTQTQ0WldZdFhNTGllQ1ZxM1prdTVUX3NQQnhqVEFpS2JWYlhuTDd5UU9ZTDMzakkwUnpYRXBDTVBDSExTTlhfTnNWMThpTm1iNGVqbFBZbUZDMTJabzdDVklZVEtWLUE?oc=5",
+          "description": "“Después hablan de libertad”: Oposición criticó reunión de Fernando Pereira en Cuba &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-21T12:09:00+00:00",
+          "score": 7,
+          "score_reason": "Usa entrecomillado irónico y contraste crítico deliberado.",
+          "score_pct": 70
         }
       ],
       "analysis": {
-        "resumen": "En Artigas se registró un femicidio. Mientras la familia velaba a la víctima, desconocidos robaron la vivienda de la mujer asesinada. El presunto agresor fue trasladado a Montevideo para continuar con las investigaciones y procedimientos judiciales correspondientes.",
+        "resumen": "Fernando Pereira, líder del Frente Amplio, realizó una visita a Cuba como parte del Convoy Nuestra América, iniciativa de solidaridad regional. La oposición cuestionó el viaje, asociándolo con críticas sobre libertades políticas. El evento refleja posiciones divergentes sobre relaciones diplomáticas y políticas exteriores en Uruguay.",
         "coincidencias": [
-          "Ocurrió un femicidio en Artigas",
-          "Durante el velatorio robaron la casa de la víctima",
-          "El agresor fue trasladado a Montevideo"
+          "Fernando Pereira viajó a Cuba",
+          "La actividad está vinculada al Convoy Nuestra América",
+          "El evento generó posiciones encontradas"
         ],
         "diferencias": [
-          "Montevideo Portal subraya la vulnerabilidad emocional de la familia en el velatorio",
-          "Subrayado prioriza el traslado del agresor como dato procesal importante",
-          "Uno enfatiza el delito contra la familia; el otro, los pasos de la investigación"
+          "Montevideo Portal destaca críticas de la oposición; Caras y Caretas enfatiza solidaridad",
+          "Portal usa tono irónico y confrontacional; Caretas mantiene tono descriptivo",
+          "Portal prioriza el conflicto político; Caretas prioriza la iniciativa regional"
         ]
       }
     },
     {
-      "id": "story_010",
-      "topic": "Corte en rambla y debate sobre soluciones de transporte",
-      "category": "Sociedad",
+      "id": "story_009",
+      "topic": "Nacional perdió 2-1 ante Defensor Sporting",
+      "category": "Deportes",
       "sources_count": 2,
       "headlines": [
         {
@@ -497,14 +527,150 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "IM alerta por corte en la rambla desde la tarde de este viernes: los motivos",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbXNZSi1MQWV0MGpmbjZiaUNsbGFmWGZJZTFBRHA1UG04RUJScHRlTmhDcnlOOWhuV0REanRjWmpmMGtVcUQyWnRoVkRub0w1X0laOXJ6U3g5aG5iUE9ZdnN5UVFweE9RUGFqc3VyQTVDcVIxc2VmREMwVXFUWnNHcDhQUGZXU2hhOXJLZEpZbU1XdG1vQzNlZ2hkT2xSd0FPUjhHWUJMMEI5YnVXLWJuZElKVDlBaDJHaEk1Uzd5SjbSAeQBQVVfeXFMT0MzOXZkZDRTeUlOYnNFWkk4eUxTQ2dTczFaSlc5dTlHbU9MMG53NHJId3dLUGxUZzd0bTFaVzl0aWpGbGNOMXIwa3ByenF5VmVoRU0xcWVmZlRRRXc0T19ndFNZQmlaSXA5ZUF4clB5MV8zMWRDNkUxWXd3YWRFZzllYzM2emNEOGg3VGhTMXR1emRTc3ZrZDNreENqcW81dUlscFdjNjJmTGJ2d0dIeFplNU1WSUlJcWo4Q3pFS3ZsSUN4VHpGSUxLN29mMEVrcWJoaUNadjlycDE0OGluTDhUY18x?oc=5",
-          "description": "IM alerta por corte en la rambla desde la tarde de este viernes: los motivos &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-20T20:08:00+00:00",
+          "title": "Viera tras la derrota de Nacional ante Defensor: “Duele” y “volvemos a la semana pasada”",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQWpIRjZEdWhPeC1CazhsRVlPVzJsRkRBNHBVSjNXTkoxSnNyRVczQmwzcnVybXczYmxud2RSbVlqQWtsN0RMdkc1WVoxZkMyWkNZZlJ6WWVaaTJpSTFMREVZRU5VRl9VQUU1dy1RNDJ3NkhxaHRoRW13cXAxOGRpOTZSR0d0SzBTTlVWOUpDcTNtb2tkLUZMekxCbVJ5azlLbW4tUS1yMnlvQUIzNXpJU2pudEMxbVN3a3ZqaFBJMktQRVRlWDFFeTloZkY4QdIB8gFBVV95cUxOVFVCcE5tQ3RGcW1Ld2Iya1cteGY2cVYtVjFMdEw3S3pvY2hsbUNpQTJ5Sm5OUUNYekhZSXdaamlUNGxtWDFGcHBnVS13WVNoMUtoVnZ6R0tlbzZVc2JydHRxNlMzdjlCdEVYRkQxckR2am16V3lrR0NqNTFoZFEwZ0R0dWdMcm1WREZUa2NSMmNTajJOUlBjVTRvc1p5SmlDWF82S1Y1THRWWlRjRDcwMVgtYXVuRkFQTElYVC1Fb2ZQZzRtV1BvYUZsOU5HRHN4MlNOUl9hR3dMbEJpb2xIdDRrVUEtaXpwdm9vclFJMTRIUQ?oc=5",
+          "description": "Viera tras la derrota de Nacional ante Defensor: “Duele” y “volvemos a la semana pasada” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-21T02:55:00+00:00",
+          "score": 4,
+          "score_reason": "Incluye declaración emocional pero mantiene dato objetivo principal.",
+          "score_pct": 40
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Nacional volvió a dejar puntos y compromete el Apertura: Defensor le ganó 2-1",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGM5V3JrTDdSYmEwdE4tUjd2STJUZkNkTFhxNGxkQWhHT25FOHBJRzdfWklUUWhTTEZWXy1DX05jX1JfVEVjbk9fcEZHOWs3dnlISUp0X3VsZ2VHeUlsd3JRZ0FUZ2E3czRYa3Z4c3hjSEM5U1QxZEhUYjV6akQ5d2lyVlVBamZoRFowdWpsLVFKUHoxRmhTMkM1Z3E4clBKd1ktYjJLOC0tZWkwbFR0Vmt30gG3AUFVX3lxTE1ZYlAtTHg3d0VhSmt6WU9wakRXVThvRXpTZ3ZSaG1tS0Q4R2F0TU0ySmN5REp2bXhXWmZDN2ZCdHZVUUZFSUZuby12RmI3X0VydTN6NjJvOHpZeUg5blptOVhWakRCeWk2a3ljN2VxOUczcXdMNkN5MTlmM2JCb0YwVmNMSnRQNDh6MDJGRmRSUWw4b0NWS2RCN2ZlTVIzTmwxdkM5cGFYemRaN3JPSG1INHZUd1QwMA?oc=5",
+          "description": "Nacional volvió a dejar puntos y compromete el Apertura: Defensor le ganó 2-1 &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-03-21T13:28:00+00:00",
+          "score": 5,
+          "score_reason": "Uso de 'volvió a dejar puntos' y 'compromete' implica valoración negativa.",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "Nacional sufrió una derrota 2-1 ante Defensor Sporting en un partido del torneo Apertura. El resultado representa un paso atrás en las aspiraciones del equipo tricolor, que vuelve a ceder puntos cruciales en la competencia. El técnico Viera expresó su frustración tras el resultado, señalando que el equipo retrocedió en su desempeño respecto a encuentros anteriores. Esta caída complica la campaña de Nacional en la pelea por el título del Apertura.",
+        "coincidencias": [
+          "Nacional perdió 2-1 contra Defensor Sporting",
+          "El resultado afecta negativamente las aspiraciones en el Apertura",
+          "Se trata de un retroceso en el desempeño del equipo"
+        ],
+        "diferencias": [
+          "Subrayado enfatiza el perjuicio competitivo; Portal prioriza la reacción del técnico",
+          "Subrayado usa lenguaje más crítico ('compromete'); Portal es más descriptivo",
+          "Portal humaniza con declaraciones; Subrayado se enfoca en consecuencias deportivas"
+        ]
+      }
+    },
+    {
+      "id": "story_010",
+      "topic": "Peñarol enfrenta a Cerro por el Apertura",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Apertura: Peñarol recibe a Cerro en el CDS: Hora, por dónde ver y alineaciones",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbS1LRVpLY2FCWC14QmpmX3c1ZEVRWXRTbVFjdVlFSTNpZFZQR3B1UDQwVk5LYmVpX3JIM3RLRExHblZmYndwbldsWEZIUlViWm53bDJfVzRTcWFfUENSejY4RFZndWQtNzRyRE14aTcyenM5aF9sUmNITFM3UU9ESXdHcFdzU29WclNPdVJXdFVPM1lrdzRwRXJQb0tMOEVGYnRRZVpYdlM5QUJGWFhySG9qSm1nVzFqV29XVHJpMjbSAeQBQVVfeXFMTXRUSHRaU3I1OFNWdXhFMmZhNk9FQXR4bTBTNDBsTU5nWFdCR052ZndIby1ISzVhY1Btd1RxajB2bkwtZ0c3WTZQd3k3TTR2ekljYUczSEk1VEl4b2l3aW9hakVjM1p0RXdqSzZjZWZFOVF2YnlNZHFhdFdMYnpQcGdTRmpBczFQSVZlNHhiOW9FcnRudm1mQ283a0dEeEtRN3puV01nc05mS2xzUTE0bzYxbUh2M1pOV1V3ZGhUQmRURjFYQ3NON0xyb2lITURvcWhZLXkxMDBaOGdLSWtWYWU0SEVv?oc=5",
+          "description": "Apertura: Peñarol recibe a Cerro en el CDS: Hora, por dónde ver y alineaciones &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-21T11:30:00+00:00",
+          "score": 1,
+          "score_reason": "Puramente informativo, enfoque exclusivamente en detalles prácticos.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Peñarol recibe a Cerro este sábado en busca de la cima del Apertura",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObllaaF9XaEdycF9GRFgwVG1FOE93blZTaG9vdUpMaWZGZ0ZMdENORlhVNmxzVjlnTzlrODR1S09IMEE2bXFRc25QMkhjaUVVeDJCWnJ2d25pcGozdEwya0VDUEx5OUU3SkI4YWMtV0J3MWJuS1lOeVFRMXZLd1E0cnlHVmZNZHhwTnNXNFljX1ZUMU51TzdRTnlqZGZLQdIBowFBVV95cUxPVDJaMUtLcjRTbjNpci1DNW9iV25OZEtlMTV6YTNBWHpWNUszT3NTSmlPbjJMRGFZS0pYeVAxVzdUTDdCZERwdzVPSEw3a1BERW1qSEsyN3Rud0RKaUNGZ3hQQmJQaEJ5RElnMDY4TW9sYlZjSFhDRmFwbFA1NVh1T3h3cmFmd1hBRl9rTmdTZkljNGRsWnhwQXR5d0t0eG1EajFz?oc=5",
+          "description": "Peñarol recibe a Cerro este sábado en busca de la cima del Apertura &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-03-21T18:46:00+00:00",
+          "score": 3,
+          "score_reason": "Añade interpretación deportiva con 'busca de la cima', leve énfasis.",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Peñarol se enfrenta a Cerro este sábado en el Estadio Centenario de la capital uruguaya, en un partido correspondiente al torneo Apertura. El encuentro representa una oportunidad importante para Peñarol de posicionarse en la cima de la tabla de posiciones. Ambos medios informan sobre la fecha, horario y canales de transmisión del partido, así como las formaciones esperadas de los equipos. Se trata de un cotejo relevante dentro del calendario futbolístico nacional.",
+        "coincidencias": [
+          "Ambos confirman que Peñarol recibe a Cerro",
+          "Ambos mencionan que el partido es en el Apertura",
+          "Ambos refieren al partido como evento deportivo relevante"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza datos prácticos (hora, dónde ver, alineaciones)",
+          "Subrayado destaca el contexto competitivo y aspiracional de Peñarol",
+          "Subrayado sugiere mayor importancia mediante 'busca de la cima'"
+        ]
+      }
+    },
+    {
+      "id": "story_011",
+      "topic": "Resultados deportivos: fútbol y básquetbol uruguayos",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Goes, Biguá y Urunday ganaron; Welcome y Cordón complicados por el descenso | Noticias | Básquetbol",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONlVNLURlYkhtTDJzMXRiQXFsQm9JZ0lQMkl4R0pqbkM2SHp0MkNiR2ZycW1Qb2tQTHZaZUx4Nzl6MjNQMk9HVWc3UF9wVjMwcmhKZjNJZHBFV3dFZXFqWmIwa1FUMVQ1TFB0UVZ6U3NiQktpNEotMkl4b3ZOVGgySjQyUzlrMWVMRm9tbmIxVzJkdmEtemJmekFWWHJfRjc0dER0Z1lzRzdrMG1jZXdfNy1LcXQtcFU?oc=5",
+          "description": "Goes, Biguá y Urunday ganaron; Welcome y Cordón complicados por el descenso | Noticias | Básquetbol &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-03-21T12:51:03+00:00",
           "score": 2,
-          "score_reason": "Informativo directo, informa el hecho sin carga emocional aparente.",
+          "score_reason": "Lenguaje informativo directo, plantea hechos sin carga emocional.",
           "score_pct": 20
         },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "España: Federico Viñas marcó para el Oviedo de Almada, que volvió a perder y sigue último",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNk5GWUw3V3NiUHpGT01td0h4eW83dzM4SlZycEUwU1R3bTFzRUVWVDZHeTd3Z2x4Tk5BWlZsYWNRNF94UmRWUFByUEpUbUh4bXZjd05IUlA2NGhadi1ZQi1CNVd5UEhlSHUxd0M0WTMyUUFhamtoZlViMTdsak9RMHBSUG5zNGJsV2FfaTZSUkhyNGdSQnY4X2FlMndTOEF2SkMxcmV4dnpkeVRhek9SQ05wRURBclF1UlJKY0xxdXM0Nk1SRG5OSlFDRHc3X2ll?oc=5",
+          "description": "España: Federico Viñas marcó para el Oviedo de Almada, que volvió a perder y sigue último &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-21T20:18:00+00:00",
+          "score": 3,
+          "score_reason": "Énfasis en la derrota y situación última del equipo.",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Se reportan resultados de competiciones deportivas uruguayas e internacionales. En fútbol, Federico Viñas anotó para el Oviedo español donde juega Almada, aunque el equipo perdió y mantiene su última posición en la tabla. En básquetbol local, Goes, Biguá y Urunday obtuvieron victorias, mientras Welcome y Cordón enfrentan complicaciones en su lucha por evitar el descenso.",
+        "coincidencias": [
+          "Ambos cubren resultados deportivos de competiciones donde participan deportistas o equipos uruguayos.",
+          "Los dos medios reportan situaciones de riesgo: última posición en fútbol y complicaciones por descenso en básquetbol."
+        ],
+        "diferencias": [
+          "Montevideo Portal destaca un gol uruguayo en el exterior, mientras El Espectador se enfoca en competición local.",
+          "El Espectador presenta equilibrio entre ganadores y equipos en riesgo; Montevideo Portal enfatiza el fracaso colectivo."
+        ]
+      }
+    },
+    {
+      "id": "story_012",
+      "topic": "Reforma movilidad metropolitana genera debate participativo",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
         {
           "source_id": "subrayado",
           "source_name": "Subrayado",
@@ -516,31 +682,10 @@
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMnBPd1ZhVmFmSFFEMWJIa2FYTFZOeUNNOTlNdFNlMmNQUlNaQWZRemdWQ3QxOWhWdW5HMzd3eXhpM0gzcFVTUnZTZ1k0Nm8yWmd3bjN6ZFE5Q2ZtVFcwMHBxdmg1aVNxd3ZnZ2RTX0ROWGF6VmJ6SW5zNmhudTA0X0l2aFZZVm5mR0FHUnpHQmY1ZUItMFJ5VUdHeFY1REs4UTNlczV3Tm5RTWNLdnU2NHNSUDBWTXRZ0gG-AUFVX3lxTE1mWDRMWmozdjJJV0hEczNBQmdid2Q2NHoyMUpraldjdWxicWItYTI3OGczM0Y1ZW5WemdGSHRwOGtMcy1kLTVBTGgtWm9xNmNpaGdyUmpLN0FvcFRKcXFFR2loWHBtZlVPRkdaRDJwRHoxYk9hNm40OEQ4aVBlR2pneUpZUi14VHNQZUtjeXNPOXUza3hnZEZMaFF0ekJ0dkVRaFZHaDRtNkdwTmcxQTMwUm1SZ3pMNTZRMk5XVmc?oc=5",
           "description": "¿Es una solución el túnel por 18 de Julio? La opinión de usuarios del transporte en Montevideo &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-03-20T22:40:52+00:00",
-          "score": 4,
-          "score_reason": "Formula interrogante especulativo; enfatiza soluciones potenciales sin información concreta.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "La Intendencia de Montevideo informó sobre un corte en la rambla a partir de la tarde del viernes. Simultáneamente, se retomó el debate público sobre la viabilidad de un túnel bajo la avenida 18 de Julio como solución a problemas de movilidad urbana. Ambas noticias reflejan las dificultades de circulación y transporte en la capital.",
-        "coincidencias": [
-          "Ambos medios abordan problemas de circulación en Montevideo",
-          "Hay afectación del transporte urbano y movilidad",
-          "Se trata de cuestiones de infraestructura vial de la ciudad"
-        ],
-        "diferencias": [
-          "Montevideo Portal reporta un hecho concreto; Subrayado abre debate especulativo",
-          "Portal es informativo factual; Subrayado busca consultar opinión ciudadana",
-          "Portal se enfoca en impacto inmediato; Subrayado en soluciones alternativas"
-        ]
-      }
-    },
-    {
-      "id": "story_011",
-      "topic": "Agenda deportiva viernes 20 de marzo",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
+          "score": 3,
+          "score_reason": "Pregunta abierta genera curiosidad sin sesgar; busca diversidad de opiniones.",
+          "score_pct": 30
+        },
         {
           "source_id": "montevideoportal",
           "source_name": "Montevideo Portal",
@@ -548,396 +693,26 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Agenda deportiva del viernes 20 de marzo: fútbol, básquet, tenis, combate y más",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnpSRVVVUFUzc3Z6QkttbS1ta0llU1hJWXpTdWtRN0NuY1h6bTNVLTdTdTJqUlNPR0d4MmxCalgwLTUxUjNPeXZqNjRuYUt3di1ZVkJFUk1EX3pDNEJrT1ZLYzU3NkdYSjhTcUpDbXF3R0tkT2gydHpRYnZURVBxYmpFX3FjSVBLdzlhcU9yWnFCMXlRNlE5LVhZVFJ3OWgxWHhnWHdJU0Y3S3lhSmRKaG1PQVBKS0ZELXdHcV9YODfSAeQBQVVfeXFMUHZGSUNxaXRpNmFrRVFrckV4ZEtMUDh2TC03MDlsN0xjVFhsN2d5Tzhmb0FPeDAzbkc2YlFRd0w5UTYxVVRMNFFsRl9ORTlOWi1BbHlRQTQta0p2MVEwQm9NcXJicnd2c2RvZUpEOFIxRzBVZFpBS1JSWkZZRlNfeFBLYTg2dFozSl9sUXl6eGFhMVdsMHRKUU9oa3VOOUhmcHJFRHhCUEE1QTc5aU9jbXkwcXZtcW5GTzZVOWJ1b0duaThYazRHUjFkS2tLNExyU2E2N0ttajhGdi02Y0pVNjFQUzlN?oc=5",
-          "description": "Agenda deportiva del viernes 20 de marzo: fútbol, básquet, tenis, combate y más &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-20T09:40:00+00:00",
-          "score": 1,
-          "score_reason": "Titulares neutral, informativo. Enumera disciplinas sin énfasis.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Programa completo del 20/3/2026",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQU5QbThqLUxSOTZvYXdKS21hMnd4ZDNNVVBYVjlSbVVpQndnSDVkRnR6Mk1seFVjZFc2QmtzeEd3ZnBJODhXT2NEdU5SWlFSOURGY3puY1c1anYzZ182R1h2NExoWTl6WVhZYXhHa283U1huaXV2RTFVZUpiRmVJV2V3UU5Qai1XaEE?oc=5",
-          "description": "Programa completo del 20/3/2026 &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-03-20T18:31:02+00:00",
-          "score": 1,
-          "score_reason": "Redacción objetiva. Describe programa completo sin carga emocional.",
-          "score_pct": 10
-        }
-      ],
-      "analysis": {
-        "resumen": "Ambos medios informan sobre la programación deportiva del viernes 20 de marzo de 2026. Se trata de una cobertura estándar de agenda que incluye actividades de fútbol, básquet, tenis y combate, entre otras disciplinas. Los titulares presentan la información de forma neutral, sin enfatizar eventos particulares ni generar expectativas específicas sobre resultados o desempeños deportivos.",
-        "coincidencias": [
-          "Ambos cubren la misma jornada deportiva (20 de marzo)",
-          "Presentan información de agenda sin sensacionalismo",
-          "Incluyen múltiples disciplinas deportivas en su cobertura"
-        ],
-        "diferencias": [
-          "Montevideo Portal enumera deportes específicos; El Espectador generaliza como 'programa completo'",
-          "El Espectador indica año (2026); Montevideo Portal solo fecha",
-          "Redacción de Montevideo Portal es más descriptiva; la de El Espectador más sintética"
-        ]
-      }
-    },
-    {
-      "id": "story_012",
-      "topic": "Equipos uruguayos conocen rivales Copa Sudamericana",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Copa Sudamericana: Juventud, Boston River y Montevideo City Torque ya conocen sus rivales",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYUt2eFdCSGxiOXo3c1lvbVVWT2I2RjJyY2ZzSVJ1UDlHQlIybHlkSHduMmdwUW5WUTVwLUM2dDdTcGZVU25GSnBQM0VKaDA2eGFMdV95WTlDSFRrTWQxcXZ1amU2VG5iZzJySmc5Y3FVTTlXbXlwM1RpYUdmYU5mWkJsNk9KX3dOMWtIMTJ3NzZvTnFlMGpfSTNqdFNvZFZ4WmQyUmRTdXhMX0xMWmlCOGtKb0FXUW9weXp4a09yOWE4bzNDQnpDUFRLZ0FJeDZ50gH0AUFVX3lxTE9ZSnpob1ZvT1N3OThlSkVKVkgwbU5vRmwzV3U3dTVNMG9kc3BOY2hVaU8wM0d5d2p0aDZuY09qQVkyQmtqLXptaGhCOWllZG1MRTI0Z1ZDU2JEcG9JbjRGNms4a0FzRHBFZzBIcTUwZmdnUVRXOWJFNEc4dzByUjl3LUUtODNqTm91amNQNjNhWGRnLUk4R05zZ2xEcmJiRDF5NVpoblY5VnNZSUdRQjlSWE43ZS1IYVVBUnpHdHdpOW9hVXQxeUZ6VzI2VklGV212ckpsamVoMWJZVm5RY0ZRRGVKdkNrTXB0UVRwTjJwYjBBLXc?oc=5",
-          "description": "Copa Sudamericana: Juventud, Boston River y Montevideo City Torque ya conocen sus rivales &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-19T23:14:00+00:00",
-          "score": 1,
-          "score_reason": "Lenguaje completamente neutro, informativo y directo sin énfasis particulares.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Juventud, Torque y Boston River tienen sus rivales confirmados por Copa Sudamericana",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQW51WDFaVGQ0eFNJSWdtUVBwWDBYbnE4bTVVc2RPbXRvMXJIajdCWjB3YXFGb1VGSnRWU2xxYk44bkVlYlVsaWVvM2xMWnVSc2VvaXJxZXJUU1RSMU1MTXk0WnF0TFpVVFhtTVhFM0tGUnNTQ29hUlVzLXFfX1J6NFRQMUpIVEFvV2FrdFV2aVRub2xQSjk5RFpaMEFoNHVmYlN0NzY4QVVjWEhnV1dSNkk5aw?oc=5",
-          "description": "Juventud, Torque y Boston River tienen sus rivales confirmados por Copa Sudamericana &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-03-19T23:29:45+00:00",
-          "score": 1,
-          "score_reason": "Planteo objetivo y equitativo, mismo contenido sin carga emocional o selectiva.",
-          "score_pct": 10
-        }
-      ],
-      "analysis": {
-        "resumen": "Tres equipos uruguayos —Juventud, Boston River y Montevideo City Torque— conocieron a sus rivales en la Copa Sudamericana. El sorteo determinó los enfrentamientos que estos clubes disputarán en la competición internacional. Se trata de un desarrollo administrativo esperado en el calendario de la competencia regional.",
-        "coincidencias": [
-          "Ambos medios informan sobre los tres mismos equipos uruguayos.",
-          "Ambos destacan que ya se conocen los rivales confirmados.",
-          "Ambos estructuran la noticia de forma equilibrada sin alarmismo."
-        ],
-        "diferencias": [
-          "Montevideo Portal utiliza 'ya conocen' (presente), El Espectador usa 'tienen sus rivales confirmados' (énfasis en confirmación).",
-          "Montevideo Portal mantiene orden alfabético (Juventud, Boston River, Torque), El Espectador reordena (Juventud, Torque, Boston River).",
-          "El Espectador omite 'Copa Sudamericana' en la descripción introductoria, Montevideo Portal lo mantiene."
-        ]
-      }
-    },
-    {
-      "id": "story_013",
-      "topic": "Ancap reporta ganancias en 2025",
-      "category": "Economía",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Presidenta de Ancap explica ganancias del 2025: \"Nos posiciona para enfrentar lo que está sucediendo en materia geopolítica\"",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNY0ZQVjRpLU03MVZ6N0w2ZG9Xd0wybkZadmJfX0xaZEJybU9wM1N2d3A3U0NpVDFIYXVHdjZfZHMxWlpKWWF5aURaZHlXbXRyTV9EWkZfcTFrSFVGTFQwQWkzdFA0dzN5dGNfLWJuYUFWc3B4WVEzX01YNk1EY0RidHFJU3N0U3ZMTlVFOXh3bk96ZE5DNXpNeVFyYnFvQl9DdFdTMW1MTmRNZElBcGM4TVZMdG9RajM1dFBtM1Z6V3pxV19YQXpnVWdORkk5Vnc2UHl1cmhSRWRDUjVtMTNHWDF30gHnAUFVX3lxTFBnMHZWZ3RISk5oaFVlQ0ZGYVE1WS13ZEJXeHY1NEFocDN5V2pfbXIteWsySVJBZWl6enRiWUxGZTdqNFdIMXZkSFhEYzlRUUpSRFBtR1gxTGgtclF3LTZyOHo0bG1XZ2Z0am1GOWhhYWhGTUh0ZURjUVI2UEZZbDlFYmVNQklmOXI0MDM0VTdzcm4xSmlRcUlGUXgwV3VwdWxuMVdiWUVmdHZlZl9aWTRFS2FnNUpvRDlPSEVGWHhkdkdQQ0NJQXJjQlh6VlRac1RYaEEzU2FmOUhmdzlRa0pnNTlmRXdwSQ?oc=5",
-          "description": "Presidenta de Ancap explica ganancias del 2025: \"Nos posiciona para enfrentar lo que está sucediendo en materia geopolítica\" &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-20T16:40:00+00:00",
+          "title": "Colectivo junta firmas por una “participación real” en reforma de movilidad metropolitana",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRjBFUEJ4bXU5WGF6amVZV2xHb0M0U1dvT1lXMjNvNGVZaUlrVnh6cGotaG1oMlA5X2JxMUVSdGV2S0JSdVM3VjcxMXl3dFF2NmRtblFhQ2g4NjNFYVJiNU9MakprdW53TU1QMDZFQ2tBTllPRHlnOXpwY25PUV9lM2wtTFk4cWltUWVjMF9LSmo0V1FmOE1ac2g0ZmV4Z0NodHdSWnBxdFlUQlRjZkhfajRjNm1oTHA0b3ZnWXFVT0hOal9XcXlQRGxTUnpNYjFs0gH0AUFVX3lxTFBfRngybDdrelZ5QWlUOElrNXVDb1E1WWNQaUNlVzMtcjZ4NU5HY2dsejlRN3F4MkVtZEVPb0t0OUVGTjBNSU5TNUxla1hMRjBNOTlaeTRDRkhLdW9RcmpPUktxVXJDclpyRHJfczdrMHJJMTRoeG4teFczTG9GR19nMjQwVjJEVTN5QW1jd2NlY0J0RzN5RDI5TmVWNjNrVjRrZDRXUXJxdVRKWG5LQmlyNFNXdFktNmVBVUtDOTk1dGpHck5fTmhnZUJoOTF2dkl5MXBCeFhJUmRBS21seHlONnhZNm84VE1YTkphOFdwelZsSU0?oc=5",
+          "description": "Colectivo junta firmas por una “participación real” en reforma de movilidad metropolitana &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-21T18:43:00+00:00",
           "score": 4,
-          "score_reason": "Incluye cita directa favorable pero contextualiza geopolíticamente.",
-          "score_pct": 40
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Una encrucijada geopolítica",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZ1FMRVZBeXFJRFIxVzBndGtMQ3dpOWhLc21Tc0FKbWY0dlExRUtlYmpZUGRmTDhkZE1fOUE3Z1VlSmZrUlNVRnJLZUNSU2VUajJsUXNuLTJsa1BGcS1ENEFMamtBQmw4ODlpdlNDbmUzRGc1?oc=5",
-          "description": "Una encrucijada geopolítica &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-03-20T06:15:28+00:00",
-          "score": 6,
-          "score_reason": "Término 'encrucijada' sugiere incertidumbre sin detalles específicos.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "La presidenta de Ancap presentó resultados financieros positivos para 2025. Según la información divulgada, la empresa estatal logró ganancias que la fortalecen frente a los desafíos geopolíticos actuales. Los medios cubrieron el anuncio enfatizando tanto los resultados económicos como el contexto internacional que enfrenta Uruguay en materia energética y comercial.",
-        "coincidencias": [
-          "Ancap reportó resultados económicos para 2025",
-          "Se menciona el contexto geopolítico internacional",
-          "El desempeño empresarial vinculado a desafíos externos"
-        ],
-        "diferencias": [
-          "Subrayado enfatiza optimismo con cita de autoridad; La R subraya incertidumbre",
-          "Subrayado destaca fortalecimiento; La R plantea encrucijada sin solución clara",
-          "Tono de Subrayado propositivo; tono de La R más interrogante"
-        ]
-      }
-    },
-    {
-      "id": "story_014",
-      "topic": "Lema propone regularizar a cuidacoches",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "lr21",
-          "source_name": "LR21",
-          "source_short": "LR21",
-          "source_color": "#827717",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.lr21.com.uy",
-          "title": "Martín Lema propone legalizar y fiscalizar cuidacoches que cumplan la normativa",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXBybXRRU0ZnbUpGZnQ4ZHYzdm5XeVNxRVJ1Z1BpM2Z4UFA3QWxHNk5uaGVfRDAxdzcyakdCSW1aUkRVTG1CeDFpMEg2X3psZjFLbUs1RFRDY0Q2Tm9ndHNrTk1DekQ1TnVZdDE4YXIxZ1FlM2xfVWtJREJ2R1ZFVFA4RjRoSW56QllXbDMyTmJzTElWQ3J0YkVvY2pKVUxvdFBIS3RpSFczWkZQRlJnT1hjc3ZaTUtCY2gyaDZn?oc=5",
-          "description": "Martín Lema propone legalizar y fiscalizar cuidacoches que cumplan la normativa &nbsp;&nbsp; lr21.com.uy",
-          "pub_date": "2026-03-20T11:33:20+00:00",
-          "score": 2,
-          "score_reason": "Lenguaje directo y neutral; expone propuesta sin énfasis particular",
-          "score_pct": 20
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Lema planteó reconvertir a cuidacoches que cumplen la normativa y mayor fiscalización con la Policía a los irregulares",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSERlVnZWMDNhczI2NzY2MVNJUHluTG5xX1pCYk1QWmEycGRzVERhcjc3YUxfQnk4R2NEbVRXR2ZjQnNIaHZoNVdpaEJWMzYyUWN0QVVhbWJxSmxxcFNQTGIyQVY3dUQ1dnNudjlnQ3g5alk4ODhIUloydVp0RmdJckQ3ODlOMVJnelhsYXJfdF9XeXVZQVRsMGF0ZFlkTFV0dUg2cGFuYk1TTlJZS0prOHUwV0ltSFdJaDBvQWhzbVN0X1FWd1VfZXJGM05vMUtxNVdzTXJZZG52R1lWWG1kenBn0gHnAUFVX3lxTE04RWx4TGpacnFlYVctWjlHSGc5MmFTVHkyNVpKWS1DUDVpSk1PZkl2MlhCc1FWY0Q2UFNuZ05tYVZOZHY2WE0xenpJMldzNWMzXzJmLXVHUFhXdno3VmQzdF9VdDgwcGJlTkJXQ3FLakF4SDktUE1mZ0pGcC1nRzVObDBaeVhGRzUzUGE5M1JZZWhTV0djTWRMLWdSbFIwSXRPV19leGFUMjRjNFdqSTRTb2ctcjhnSHBYRnhrS1ZYbUEtelgtajZsa0tEQXVQejJub0NkbGdBQ3A4YkFlQUhDbUlpcV9hbw?oc=5",
-          "description": "Lema planteó reconvertir a cuidacoches que cumplen la normativa y mayor fiscalización con la Policía a los irregulares &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-20T10:56:00+00:00",
-          "score": 3,
-          "score_reason": "Enfatiza reconversión y mayor fiscalización; orden jerárquico sugiere prioridad",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "El candidato Martín Lema planteó una propuesta para regularizar la actividad de cuidacoches que cumplen con la normativa vigente, complementada con mayor fiscalización policial hacia quienes operan de forma irregular. La iniciativa busca ordenar este sector mediante la legalización de quienes se ajustan a las reglas y el refuerzo del control estatal sobre los infractores.",
-        "coincidencias": [
-          "Ambos confirman la propuesta de Martín Lema sobre cuidacoches",
-          "Ambos mencionan la legalización o reconversión de quienes cumplen normativa",
-          "Ambos incluyen el componente de fiscalización policial en la propuesta"
-        ],
-        "diferencias": [
-          "Subrayado destaca 'reconvertir' (implica transformación activa); LR21 usa 'legalizar' (más estático)",
-          "Subrayado separa dos acciones (reconversión e irregulares); LR21 integra legalización y fiscalización",
-          "Subrayado ordena por reconversión primero; LR21 prioriza legalización en el titular"
-        ]
-      }
-    },
-    {
-      "id": "story_015",
-      "topic": "Regulación de cannabis reduce narcotráfico en Uruguay",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Regulación de cannabis bajó de 70% a 6% la venta por narcotráfico de esta sustancia, según Junta Nacional de Drogas",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVZWYmpYQWJJanM2QjRBT1JCS0tmUVptTUdBNGt1ZW5iUWxfMTdENktaUE0wOW1BRzdVS2s1Sk5iUVplR0pjMjlyMDZTcTdGbkZ4dEF5aTB1ZS1tM2hoWGpZaUVSclluU0gxWmlvbXdLZEI2VW56aFRFM1NXTkJXRGpISDNHVTFhYnpsd2g5Mm9vejJjTmg5LU1kVENUdVMxSDI4N0dmalRDMDlkQWF5NHQ2bmtWLVRtUkRpd0JFR29NYk0wc2fSAcsBQVVfeXFMT3R4cHluT2c1TmdyU3BwRHI1LTZwLVNCX0RmWGZaeWo5NzIzQTNsanJtSlRYdTZRTGNIcVZJclUta09BbVB4YUhhNHdNbzJ4TkMyTFczUTZlMGNpdlVneFQ0SVhDbkMzRHhGS0ZfZ3pqZVNHWnpjNkljUXljTHBXTDZ5R0VkZU53UmxINy1XRXNNRmJZbUYtaFB6MmFPUVRHR0xUS21TdTdpN0FXOGN5VU9UOTNMNnZpemtvX0h1emV6d182eUFzdi1uOGc?oc=5",
-          "description": "Regulación de cannabis bajó de 70% a 6% la venta por narcotráfico de esta sustancia, según Junta Nacional de Drogas &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-20T20:14:00+00:00",
-          "score": 2,
-          "score_reason": "Datos concretos, estructura neutral, sin lenguaje emotivo.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "En Naciones Unidas, Jorge Díaz insistió en poner límites a la penalización y estigmatización del uso de drogas",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSUVOWDQzOXdTUnU0UDRQWl8wVzhEQXg2WHMxc0xJeEswR01KV1U1V045VVVrVE1jS3Z6Y1R2akdRUXM3ZWsyT1ExcjhwZEh4dnpRdVJwZGQ3TlQ5aHRaN2stb2VFS2JMakVLaXFHcnVObnpuT0Y4eEpFWUtzc251WUpPeGVTWWFiTU9zcVZodzBoMnpSWE85S1V4Y0UwT2JwSXNDUDRvUHo3dnMwT2UzSnRmelNjcFFKVWtPZkhCREJKbDA4Qm95ZlYxTzV3dnN5ZmJmblB2VXp6Q0hpVWY4cFZwX3g?oc=5",
-          "description": "En Naciones Unidas, Jorge Díaz insistió en poner límites a la penalización y estigmatización del uso de drogas &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-03-20T18:47:00+00:00",
-          "score": 3,
-          "score_reason": "Énfasis en aspecto humanitario; 'límites' y 'estigmatización' sugieren postura.",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Uruguay reporta resultados de su política de regulación de cannabis. Según la Junta Nacional de Drogas, la venta por narcotráfico disminuyó de 70% a 6%. El canciller Jorge Díaz presentó en Naciones Unidas los logros de la regulación, enfatizando la importancia de limitar la penalización y estigmatización del consumo de drogas. Ambos eventos subrayan el impacto de la política regulatoria implementada por el país.",
-        "coincidencias": [
-          "Ambos abordan la política de regulación de cannabis de Uruguay",
-          "Reconocen la disminución del narcotráfico como resultado positivo",
-          "Sitúan a funcionarios uruguayos como protagonistas de la gestión"
-        ],
-        "diferencias": [
-          "Subrayado enfatiza el dato estadístico; Búsqueda enfatiza la dimensión ética",
-          "Subrayado es más directo y cuantitativo; Búsqueda tiene matiz humanitario",
-          "Subrayado destaca resultados; Búsqueda destaca posicionamiento diplomático"
-        ]
-      }
-    },
-    {
-      "id": "story_016",
-      "topic": "Evento cultural Macondo con perspectiva latinoamericana",
-      "category": "Cultura",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "carasycaretas",
-          "source_name": "Caras y Caretas",
-          "source_short": "CC",
-          "source_color": "#4A148C",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.carasycaretas.com.uy",
-          "title": "Macondo, una mirada latinoamericana - Jueves 19 de Marzo 2026",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMlFvdXREdVN4UnlUdmxYdllYcGdvZTVEQ2xzR1pYbnAwdmdFb29RT252dkJhX2tsMEVfbXUydHlxcl9IcFJkcUo4LVVXbjJqaTRjdmRLTU1kT1c3MWprWElDdUs2Y05KYXNuRXJWN3REUklpTTBLa1ZpcVYtblRWS1Q0RUQyVzRCdmhlaEVET0s0Rk1ucXI0bnhQOHliTms2bmE0d3c5Mk1pZHF5QU9zWHNIU3Q?oc=5",
-          "description": "Macondo, una mirada latinoamericana - Jueves 19 de Marzo 2026 &nbsp;&nbsp; Caras y Caretas",
-          "pub_date": "2026-03-20T00:29:00+00:00",
-          "score": 3,
-          "score_reason": "Titulante descriptivo pero con énfasis en perspectiva latinoamericana.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "acompañamiento",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiYnZwTEZ5c1BYV0hRTlBDdWtaaGJDVFd1Q1A4b0tfXzhEbVhDUG52LWt4dVc2eW5tY09QcGQ2RkViTHpwbTRoZEM1ZTJ3OUVVaDFEVGtjaHZmU3NX?oc=5",
-          "description": "acompañamiento &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-03-20T10:35:52+00:00",
-          "score": 5,
-          "score_reason": "",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "No es posible elaborar un resumen objetivo de los hechos. Los titulares proporcionados carecen de información sustancial sobre qué ocurrió. Caras y Caretas menciona un evento llamado Macondo con enfoque latinoamericano programado para el 19 de marzo de 2026, mientras que Diario La R apenas ofrece la palabra 'acompañamiento' sin contexto. Sin detalles sobre el evento, participantes, objetivos o relevancia, no se puede sintetizar los hechos ocurridos de manera responsable.",
-        "coincidencias": [
-          "Ambos medios reconocen la existencia de un evento o iniciativa",
-          "Ninguna otra coincidencia se puede establecer con certeza debido a falta de información"
-        ],
-        "diferencias": [
-          "Caras y Caretas contextualiza con nombre, fecha y enfoque; La R es completamente opaco",
-          "Un medio intenta informar mientras el otro apenas comunica una palabra sin sentido"
-        ]
-      }
-    },
-    {
-      "id": "story_017",
-      "topic": "Programación de medios uruguayos viernes 20 marzo",
-      "category": "Otro",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Programa completo del 20/3/2026",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmxwdVpaTzhiQnA4ZXR1VGNMNHF5ZVh1bi1Fb2IyV1JuZlJidlpONl9aRXp6VUY5bGtScUFWQkIwc1czWXVRa1V1SkV1SkhjTHJFbjdONUdDVTFXX1QzeFZBWl95d0hMeFlPT21hS0F2bTR1ZE1JQmFKM21BdzhoNDVuLUlXY0JOMlhmVXhmdw?oc=5",
-          "description": "Programa completo del 20/3/2026 &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-03-20T21:41:38+00:00",
-          "score": 1,
-          "score_reason": "Totalmente neutral, informativo, sin carga emocional alguna.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "carasycaretas",
-          "source_name": "Caras y Caretas",
-          "source_short": "CC",
-          "source_color": "#4A148C",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.carasycaretas.com.uy",
-          "title": "Legítima Defensa - Viernes 20 de Marzo 2026",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFJNMVBMMWlQWWo4ZVZKUW1MMEZfcHVNbkVGRFFucXBlakdPUUxZZVdkYjJsS2VzZzhvU1NRVjE2ekZXMTJha0lqUGpoMjhqalh6azN1SDB5ZTI3amhURU92WHJUR09qY19zZ0hRZkU5Z3VmRjEydVJwN09tcUtTdm1BYkh0TGxHdGJRWlEyOFhXcURsa2M3cEhVNnhTQQ?oc=5",
-          "description": "Legítima Defensa - Viernes 20 de Marzo 2026 &nbsp;&nbsp; Caras y Caretas",
-          "pub_date": "2026-03-21T01:25:00+00:00",
-          "score": 3,
-          "score_reason": "Título descriptivo pero destaca nombre de programa específico.",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Los medios uruguayos Caras y Caretas y El Espectador difundieron su programación para el viernes 20 de marzo de 2026. Caras y Caretas promocionó su ciclo 'Legítima Defensa', mientras que El Espectador anunció la programación completa del día, con énfasis en contenidos deportivos. Ambos medios cumplieron con informar sobre su oferta de programación sin incidentes particulares reseñables.",
-        "coincidencias": [
-          "Ambos medios informan sobre su programación del mismo día.",
-          "Los titulares son descriptivos sin alarmismo o sensacionalismo.",
-          "Se trata de comunicaciones rutinarias de parrilla televisiva."
-        ],
-        "diferencias": [
-          "Caras y Caretas enfatiza un programa específico; El Espectador ofrece panorama general.",
-          "El Espectador subraya contenido deportivo; Caras y Caretas destaca ciclo de análisis.",
-          "Enfoques distintos: programa particular versus oferta integral del día."
-        ]
-      }
-    },
-    {
-      "id": "story_018",
-      "topic": "Informe ONU Mujeres sobre violencia género política",
-      "category": "Política",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Ministerio del Interior refuerza sus compromisos en materia de género",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFpHRWtvUmlFeTN3RktNNEJVS1hJTVVmNUM4ZXBZR21sT3RybjI4LXdXd3ladWVTNzhUSXgyaWw5WjM5MmNtTlQxSU9fUExDZ0dZX3FPRWEzOHpnc1ZLTHZMZW5kNGs2ZXZld2pCeW5Yc3NmXzc4NFlVMUhrQ3pEYm1qZEJtRXZyUE9KMDVfQjhOWGFlMUxUbWl2MFBVNW9XWV9ZQ0R6LTQyUndD?oc=5",
-          "description": "Ministerio del Interior refuerza sus compromisos en materia de género &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-03-20T07:13:34+00:00",
-          "score": 3,
-          "score_reason": "Enfatiza respuesta institucional positiva sin mencionar el problema.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Un informe de ONU Mujeres revela el alcance de la violencia de género en la política local",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcnAzVWZrZG5Idk9HOHRGTW40MDJwTDFWTVEtaFpmaTJZa1NGVUs1aHlRZ3AyczI2b0kweUE2bWtRY1gxWVo1YmNOZUd1eVhoUGxadUstVzY5RXNxM0g5dk9IdDZZczhXc3M1NWRfdVFYTEJUZGtDWjdWWEluUHIwak4weDVIZE8tQmNFREJaNXlrdUpvOEZScmxHbTRfMk83X0E4eEZSRFdIU05ZWXQtQ2E5YnZ5RWsydm1CN2xpMzlxZw?oc=5",
-          "description": "Un informe de ONU Mujeres revela el alcance de la violencia de género en la política local &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-03-20T21:06:00+00:00",
-          "score": 4,
-          "score_reason": "Focaliza en hallazgo problemático; usa 'revela' con leve carga.",
+          "score_reason": "Comillas enfatizan demanda; encuadre de participación ciudadana.",
           "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "Un informe de ONU Mujeres documentó la violencia de género en la política local uruguaya. El Ministerio del Interior respondió reafirmando sus compromisos en materia de género. El organismo internacional evidenció la magnitud del problema en espacios políticos locales, mientras la cartera estatal enfatizó acciones y políticas de protección y equidad de género ya implementadas o en desarrollo.",
+        "resumen": "Un colectivo ciudadano está recopilando firmas para exigir participación real en la reforma de movilidad metropolitana de Montevideo. La iniciativa surge en medio del debate sobre posibles soluciones de infraestructura, como la construcción de un túnel bajo 18 de Julio. Los usuarios del transporte tienen opiniones divididas sobre las propuestas en evaluación.",
         "coincidencias": [
-          "Existe violencia de género en espacios políticos locales uruguayos.",
-          "Hay organismos y actores (ONU, Ministerio) abocados al tema.",
-          "Se trata de un asunto de género y política simultáneamente."
+          "La reforma de movilidad metropolitana es el eje central del debate",
+          "Hay participación o consulta a usuarios y ciudadanía involucrada",
+          "Existen propuestas específicas sobre infraestructura en evaluación"
         ],
         "diferencias": [
-          "Búsqueda destaca el diagnóstico crítico del informe internacional.",
-          "Grupo R prioriza la respuesta del Estado ante la situación.",
-          "Un medio expone el problema; el otro, las soluciones estatales."
+          "Montevideo Portal enfatiza reclamo por participación real; Subrayado cuestiona soluciones técnicas",
+          "Portal enfoque en movilización colectiva; Subrayado en perspectiva de usuarios consultados",
+          "Portal plantea demanda política; Subrayado presenta análisis de viabilidad"
         ]
       }
     }
