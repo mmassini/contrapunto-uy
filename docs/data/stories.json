@@ -1,25 +1,91 @@
 {
-  "generated_at": "2026-03-30T11:08:01.626401",
+  "generated_at": "2026-03-31T10:58:35.697859",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Racing vence a Peñarol 2-1 en la novena fecha",
+      "topic": "Lesión de Piquerez y su participación en Mundial",
       "category": "Deportes",
       "sources_count": 3,
       "headlines": [
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Racing le ganó 2 a 1 a Peñarol en la novena fecha en el Campeón del Siglo",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMUFRT3VITVFnS2RxNE1JNTVFVjduYXVxWXAtaWE3R2ZYOWhFZTk5b1hkSkdiNHBnZGZWdU1QaEVCc2k1RmlPaDBWU2VjRDFQdVg0aFlpbVhNbHg0aG9CcXRsT1hRSDYtR3lCYTNhRXl3LTdaRTgxUlRYZk5qT3FyaTJvNU1Nd0lYN1l6RUNwUllUTTZEa09hTTcySjB2YnZrUUE00gGoAUFVX3lxTE1sRlJsMVppRnRkTFRhVlh0RDBCMVllZFdrZnFheGNqLTV2ZFFXSXdQY1ZSWkdUTV8yM3lXTm10d2lHeHpIVnJKV1RGa1hRYkdqWmpTc052R0dRUkhYVklEanFMcUNVWWZJMWswT1BEN2RFVVJ4NWdfNHF1UzBPY0wxSzJOWnNWY25lcmE4UkVjYUJIR3o0WHRtX1RIUUFBaS1vNFc1elVCLQ?oc=5",
-          "description": "Racing le ganó 2 a 1 a Peñarol en la novena fecha en el Campeón del Siglo &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-29T19:50:00+00:00",
+          "source_url": "https://www.teledoce.com",
+          "title": "Mundial 2026: Bolivia, a un triunfo de regresar a la máxima cita del fútbol tras 32 años de ausencia",
+          "url": "https://www.teledoce.com/telemundo/deportes/mundial-2026-bolivia-a-un-triunfo-de-regresar-a-la-maxima-cita-del-futbol-tras-32-anos-de-ausencia/",
+          "description": "La selección boliviana, que no disputa una Copa del Mundo desde 1994, se jugará la vida ante Irak el miércoles a la medianoche en Monterrey, en el duelo definitivo del repechaje intercontinental. La entrada Mundial 2026: Bolivia, a un triunfo de regresar a la máxima cita del fútbol tras 32 años de ausencia se publicó primero en Teledoce.com .",
+          "pub_date": "2026-03-30T19:30:57+00:00",
+          "score": 2,
+          "score_reason": "Neutral, informativo, datos concretos sin carga emocional.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Se confirmó la gravedad de la lesión de Joaquín Piquerez y corre riesgo su participación en el Mundial",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTnhHSGRjVzNxOTM0LVczTVdSLVF4cmRoOTRJY3N6S3hWVGZXUmpvQkVsc01GcUN4b2xVVmR5VHNCYXg5RmZNWmJDSkNKUGhjRUgydF95T293THFIWlRaZmU1QTZwSlNTZGFCdDZZNHJvMDViRnM5SW9LSnQ3RHlBanhNTVVmZTEtb0NOY2JGS01BclRVLW9lTEo1czJ3Yzh5X2Zob19uNUltZHNpQVlkeFNMbzhiSDgya1RXMVNmeFZzN0d4VEZOYmVNSnpJdGF3YlRqWFpkQ1hvM0tt?oc=5",
+          "description": "Se confirmó la gravedad de la lesión de Joaquín Piquerez y corre riesgo su participación en el Mundial &nbsp;&nbsp; espectador.com",
+          "pub_date": "2026-03-30T14:03:56+00:00",
+          "score": 4,
+          "score_reason": "Lenguaje cauteloso pero enfatiza 'riesgo' y 'gravedad'.",
+          "score_pct": 40
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Joaquín Piquerez será operado y es prácticamente un hecho que se perderá el Mundial",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSEVINTBKOFNEeERvaXN6X3JSdHV3ZVdHYnhEaXB4MVVFSDFsaHhUenBmU0F0TVlXc2xkQndPWGtlMUYyb0JRdDlibW5Fd3B5aWdjQzcwSW1pNy1RUlpCcFJxQndKZkxuaFROOS1uVTM0cDlZSXVET0p4MFBqY2pDdl9qOTJoUWFGOXNrTmt3S2EyTUhSXzJRdi1YbEs2ZGNVZ20tRDNzVHFjTUFQMHZ3NzYxR0FqbEVIbFFmUXp0dE5OLUVaNnFHN09lRdIB7wFBVV95cUxQb3RXa3pybHlVSzQzekNJMFJQdjBSeWhqZzhCWHAxRjRPUENNdGU2Y1FBTDJ2ejRtd1EtRzFvckN2Tm9oWjUtdXBqSEticmZnMk9TUjBQU1JzMHFIZGFtT2pkUUNmNWVmYXN4RldhWGg1aDcwVk9UdEFmYmJEVjdGV2dqSzQ4QmRQby1HZDdXYnlUV1hmQzhEWlNncnk2alVhWUJDY0k1eHN1M1Q4QXY0aGpSVXlDdkRkTDhJNHdxa1dIU3RpS1NpaDNVd0xaWHpqYTI5RlV3ZmkzX2tEbWZSbFZJbW9oVEFwY3BPWHdOdw?oc=5",
+          "description": "Joaquín Piquerez será operado y es prácticamente un hecho que se perderá el Mundial &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-30T13:49:00+00:00",
+          "score": 6,
+          "score_reason": "Usa 'prácticamente un hecho' con carga conclusiva exagerada.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Joaquín Piquerez, futbolista uruguayo, sufrió una lesión que requiere intervención quirúrgica. Su participación en el próximo Mundial 2026 está en riesgo debido a la gravedad de la lesión confirmada. El jugador deberá someterse a una operación, lo que comprometería su disponibilidad para la competencia internacional. Mientras tanto, Bolivia se prepara para disputar el repechaje intercontinental contra Irak en busca de clasificarse al Mundial tras 32 años de ausencia.",
+        "coincidencias": [
+          "Piquerez requiere operación quirúrgica confirmada",
+          "Su participación en el Mundial 2026 está en riesgo",
+          "La lesión es grave según evaluaciones médicas"
+        ],
+        "diferencias": [
+          "Montevideo Portal predice prácticamente su ausencia; El Espectador y Teledoce mantienen incertidumbre",
+          "Teledoce desvía enfoque hacia Bolivia y el repechaje; otros se centran en Piquerez",
+          "El Espectador y Montevideo Portal enfatizan lo negativo; Teledoce toma enfoque informativo diferente"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Eventos internacionales y situación actual de Uruguay",
+      "category": "Otro",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "180",
+          "source_name": "180.com.uy",
+          "source_short": "180",
+          "source_color": "#F57F17",
+          "source_text_color": "#000000",
+          "source_url": "https://www.180.com.uy",
+          "title": "Uruguay fue sede del Encuentro Red Vida LATAM 2026 de Mapfre",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPczc3MU9KYWhQYTUyS24zTTloZnpxSER4dHIwTFVYeTMtX0x0Q1RvOGhKNFlsM0VNLWEzbkp6UmZNeC11VDdrOXNWdmxPUEx1UUNpd2hyNlFESHpDWTlqeW82eU5uODc1ZWxwZG1wb003NmJYNjVtX2lmSlY4MmRrVDhkc1UxeXJoOTRnUGVmbUlJZXNjX3JnMEJhRWt4Skk?oc=5",
+          "description": "Uruguay fue sede del Encuentro Red Vida LATAM 2026 de Mapfre &nbsp;&nbsp; 180.com.uy",
+          "pub_date": "2026-03-30T12:13:08+00:00",
           "score": 1,
-          "score_reason": "Información factual pura: goleador, resultado, fecha y estadio. Completamente neutral.",
+          "score_reason": "Informativo puro, sin carga emocional ni adjetivos cargados.",
           "score_pct": 10
         },
         {
@@ -29,165 +95,12 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Apertura: Racing le ganó a Peñarol 2-1 a domicilio y le arrebató el primer puesto",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSFhySVFYM2VyUi14czktb1NHZHRDOWpxOG1JSXhQNUNFbzE2TWE0aVNyamF3MnhDaGRHQzNwRXBxVVRIR0plWmZPczg2cDIxWUE3Z3U0OFhnNTJpblV0cFQ0ZWUxeVNvNDVKUGhxWi1wWURsdzJrdFdyWmNxaGJvWlRESWJsSmJYQ3dIaERHN2lzSE40eFdmbm5tVmhnYV8yNlRxQUZRRjdwc1pHZzAzdHo0S3lhNXJINXBNelZPQ2J6cEdLMFJZ?oc=5",
-          "description": "Apertura: Racing le ganó a Peñarol 2-1 a domicilio y le arrebató el primer puesto &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-30T00:34:00+00:00",
-          "score": 6,
-          "score_reason": "Usa 'le arrebató' con carga emocional innecesaria en resultado deportivo.",
-          "score_pct": 60
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Suspendidos tres partidos del domingo en la Liga AUF Uruguaya: Peñarol - Racing en duda",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVHI2NDAwcXdQTW9lclZUMGd0Wm55VU1PWkVwdGdtak85LTZPTzV4ZXg1LU5CMzlWS2tXWXl3cHRzMlBaTkVwU1JaTDEteVlqWFBUU1BhU1k2YUdEZ2tmNG5lVEUxUjZBSkVhUllMQnRTRHpHaTNmaG9JWk5zQXE0aWVqQjhSS3lrU2ZrZFZ2VjBBaGhkS3ppR0xQWHpUOEpIWUszVW1yZURrLWhQVVRuY0xnRUN4SzU5V3ZjTmFyYjlpS2F3WTRQX21DdUs?oc=5",
-          "description": "Suspendidos tres partidos del domingo en la Liga AUF Uruguaya: Peñarol - Racing en duda &nbsp;&nbsp; espectador.com",
-          "pub_date": "2026-03-29T15:15:51+00:00",
-          "score": 8,
-          "score_reason": "Titular contradictorio: anuncia suspensión pero el partido se jugó normalmente.",
-          "score_pct": 80
-        }
-      ],
-      "analysis": {
-        "resumen": "En la novena fecha del Apertura, Racing derrotó a Peñarol 2-1 en el estadio Campeón del Siglo. Con esta victoria, Racing se posicionó en el primer lugar de la tabla de posiciones, desplazando a Peñarol que ocupaba esa posición anteriormente. El partido se jugó bajo normalidad en el estadio de Peñarol en Montevideo.",
-        "coincidencias": [
-          "Racing venció a Peñarol 2-1",
-          "El partido se jugó en el Campeón del Siglo",
-          "Corresponde a la novena fecha del Apertura"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza el cambio de liderato con lenguaje dramático ('arrebató')",
-          "Subrayado mantiene registro meramente informativo sin interpretaciones",
-          "El Espectador crea confusión refiriendo suspensiones cuando el partido se disputó"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Ruglio desaconseja viajes de hinchas a Brasil",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“No vayan”: Ruglio advirtió a “familias” de Peñarol para partido de Libertadores en Brasil",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOWgxWFU2dzJTd3N1NDNMUHlSMTAtNjlteGo1VlNWMEFRMmY2M1VkRXFlOEhEOXN1Z2RoZFpNcnBibXp6OWhXQmhLRXRCSjh5OHNIMVliVW40TXdGdlVqSnBrOVU2VkN1OWJIVkJhSktxcEx0ZUMyUC1FeEYtWHIyeFJ5SVBmUjVmUGRndVJocW1sMzBTTUpGaS1aOUh4bGdGQkItaFFUX3pKSldYWjBLZXd3S1VrbjAxaEhNUVJrX3IwUWxETEVxUWhGZEV6Uy1Z0gH0AUFVX3lxTFBLM05WLVlnY0R0R1loYS0tVm8tNFNXc2xvcHRiZ05iak9vZGpoV1hNc1hQR2tTTVBYT3F6T21NcF85Y3JFcFM5UlpJTFdjTndkYXVuOVdBVG10aVZaYUVSUnpaSlFhX1U2ZjQxbGNLS09TSkRVcXlsTHRnejh3RHlsN1lUeTF2TzZfX3BzZUVwYXNWdFBtWDZ0Y2JmcHM2N0poc0NrUUN5TGY5ZWJyWm5XWWc3UGxRUUVVa2NmNXhwNFpUWEZuSE43eW13TXF5WVZ2MzU3M0k5UElsRzc4Z2NnaVpCa0t4YXdYcXlzb2ItRHNsSjM?oc=5",
-          "description": "“No vayan”: Ruglio advirtió a “familias” de Peñarol para partido de Libertadores en Brasil &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-29T18:28:00+00:00",
-          "score": 3,
-          "score_reason": "Uso de comillas enfatiza la advertencia, lenguaje directo pero informativo.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "\"A todas las familias les he recomendado que no vayan\": la advertencia del presidente de Peñarol por viajes a Brasil por Libertadores",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWF8wQjVQTFJNSDgwRF9iYVN6WEpJNlJYNm5nel9XS3hJZ2c2RllydUhyTTE0QXFQdi1xTnZ2MDgzN0F5NkZ1QnVuQktFbmdxRDV1cV9NMmFFVGFXTGdBTGpZNzVQX0VLWHpJQlBsdzYwUzVxWVJTMUtBd2VWYjNkQ0o5RzBZM3RYOG5VZWpVRVM5TDdIOXZFakhQdlFpVjVWSlBHbENEWVJGeGR4TlJJWnVpZXJ1bHhQWmpvQjNxMjdlSm8xU0t4Q21ISE9naFA5ZGlGa3FUc0dDLUp0Z2VlNFdsOUdZZW1odUNr0gHwAUFVX3lxTE0xS3pWN3Y4ZlB6OTdFOXJuUU1QTVJ1TWdROFd4SjZSdk1TcHlwcWk2TERUR2xfZ2RjZ1FDNXR3OTV4XzRZaWNrNFI1b2hwNFozZ3hscWFsZnhLWVByUFd3aXFjSFVleG9XbmhGVHgtMkpCYmx1ZlA3SkFSa2tCY1VvbWtTVVcwOFF2R1NvS3NSN2pHMU90M2N4SzFLYUJhTXFmVDZjczF4Q3FwTjJLTkpuU3hkcHo2QzJHc1FXN1lQX0VNcGdPa0w4UGo1MV95ZnhsRGh0VUVjRFhqY0lGZEc1blk4UmJyX3dhS2YwNTZ1ag?oc=5",
-          "description": "\"A todas las familias les he recomendado que no vayan\": la advertencia del presidente de Peñarol por viajes a Brasil por Libertadores &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-29T14:38:00+00:00",
+          "title": "Sturla duda que el papa León XIV llegue a visitar Uruguay en 2026: ¿por qué?",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTBmS3ZocWFZQVFpX3lwdnpoUkphVkNFRVJRdlpCUnhZNXlFeFFjQ05yeEUtczF2Ym13b1pqWmhTVDVFR1djOHBscGQ1TTd2N05Qd3F6VV9KakVIRmhHVThHZDQ4T2lJYmVxQnZuaFlhSGpRR2FNdGNhMnUyVzd5WW8zaklXLXFwVUk3QlNvVkhlRkFrRi1jQjhxNHZ1Y2ZOSXJUeWtBdzRNYloyM1pzRjZ6QVc3OU94SmZHZE1nWWrSAeQBQVVfeXFMTllKRHF1eTJaX0NUSmNaUkZudkI0UFpwN0xOV3ZfZWI0b05hZTZpN3NyempmaUVQRzMxbnlsZG9DUVhSa0g3NExVbnJuU2hWMFEwZ3VCaXdFWVR4aXYwaUdlWkxBYWh1dzdnM0lxd2RacHQ0aWotRklkaG5XckJMUXAtQTdGT1FIZ21tR0Q4RHVnT1FFUGdlbGhZNVY2OUtOOFQ5YW54a2hZWnRFNkpSWUhTN0lXXzI2VXZnYVNDbm11WHRDVklzVkkzajl0M3pTWjJNbmFWTzdCdC11SXpwNGVnLWtN?oc=5",
+          "description": "Sturla duda que el papa León XIV llegue a visitar Uruguay en 2026: ¿por qué? &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-29T23:45:00+00:00",
           "score": 4,
-          "score_reason": "Cita textual extendida añade dramatismo; énfasis en 'todas las familias'.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "El presidente de Peñarol, Ruglio, realizó una advertencia a las familias de hinchas recomendándoles no viajar a Brasil para el partido de Libertadores. La recomendación surgió por cuestiones de seguridad relacionadas con el desplazamiento de aficionados uruguayos hacia territorio brasileño para acompañar al equipo en la competición continental.",
-        "coincidencias": [
-          "Ruglio es el protagonista central de la noticia",
-          "La advertencia se dirige específicamente a familias de hinchas",
-          "El contexto es un partido de Libertadores en Brasil"
-        ],
-        "diferencias": [
-          "Montevideo Portal usa comillas simples; Subrayado incluye cita textual más extensa",
-          "Subrayado enfatiza la universalidad ('a todas las familias'); Portal es más conciso",
-          "Subrayado genera mayor dramatismo mediante la estructura de la frase"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Temporal con inundaciones afecta Uruguay",
-      "category": "Sociedad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Inundaciones en Montevideo por intensas lluvias este domingo: imágenes muestran autos afectados",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR1doTUEyMC1UNkF4WVRqR2RNcWlFZjJJN2xrMmliQnJTNGpxZXlqQnFKOVl1ZzJvcEcwQVRWQUNLVUdlWDFNY3VYemVXQ3FYSGdjQXh6dl82cmdDb1hpLU9iajdvOExaa1pZa0EycTRrTjRQZ1AzSzcxMi1ubGtQVlpVYWRZbF9Wd0UxakhvWlB5VklSS0pNOVNZWWgwZ3hHM1ZIdVlqOUo2UmQ5QW5LZWllTkVYUDd2U0FtZUhrNWI5VFHSAcgBQVVfeXFMT1g3YzRncTVCcUhIVXJTUVFHYmJuMjZYU19uVlNzM0FuTzFwZmJ3YU56eGZzazdmdklrWmVIaWI2SUt4NmE4R3RxVGtXNDlXWE9VQmdtUWt6SHpyWkFxdlRJY1dYRUVvWXVfVUJKS0ZieFZpbVpnZ0V0ZGdseEp0YkNkM0FEQlRxbDU5WTNYeDFsX3YtRDNSQ0g3UXQxd0YwbXJmNzBXc0RrY1Fxa21mX3hNT1h2Zjd5RWJ1b0RkTGw2Y25zQm9Ycmg?oc=5",
-          "description": "Inundaciones en Montevideo por intensas lluvias este domingo: imágenes muestran autos afectados &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-29T17:53:00+00:00",
-          "score": 3,
-          "score_reason": "Descripción factual con énfasis en daños específicos, lenguaje neutral.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Calles y estadios bajo agua: las imágenes del temporal que azotó el país el fin de semana",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTF81eS1qT0RFMmRKZlA0dE5yd01IMEliTHRONTFXazA0N29BWlg4UmJCTVlKTkJ6c1hJMXoxMklHbXRZWEY2eXRYMjJ4ZlMzXzRlMVIxS3dTS2lzYzg1aFVVdnlpR3NRci1OMHhLLWtBRHc3YllfTEl2ZDB2RjRMUUhPWFZPRmxoNEstYVNnZW5wV3EtQUUzY01vWDFJNnFEeVo2MEhUNFFJZzlKNEx0aW44SFQxNW1hTDNsamVRcHd5dDhVZkVURm9TRzNYakNQRkHSAfYBQVVfeXFMT2YwRE4tLU02TEJXZUI4X1hXSl9jV2lfVm9uM0Z1aWc2ZzcwT3ZVeTRPb1hIcXBERGhfUzl2Z2xDMWs0TG5rTUFtbkFrSDRwNm5PYlRqVmNhN2l2VHZ0SUNiM2lNZVZVTmx1MHBCQmo2a3pIcFl1ZE5OODBrdmwyVi1lM25NaXJTM3c1aVlkVUFHcjhjQlI3Mk1xRzFxYm1ORmNWeklPUUtueGVORjR6S2tURzhwRnpLRnlCVG5Odlgta0dPZHdISUgyVEdGNEJDTE5peGFTYmdJa1RfLTN2UmlhcEJkNTZveE11RHUxdVd3amZrRjd3?oc=5",
-          "description": "Calles y estadios bajo agua: las imágenes del temporal que azotó el país el fin de semana &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-29T18:20:00+00:00",
-          "score": 5,
-          "score_reason": "Verbo 'azotó' confiere dramatismo innecesario al fenómeno natural.",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "Un temporal con intensas lluvias azotó Uruguay el fin de semana, causando inundaciones en varias zonas del país. Montevideo fue particularmente afectada, con calles anegadas e infraestructuras como estadios impactadas. Se reportaron vehículos dañados por las precipitaciones. El evento climático generó afectaciones generalizadas en espacios públicos y privados, requiriendo atención de las autoridades locales.",
-        "coincidencias": [
-          "Ocurrió un temporal con lluvias intensas el fin de semana",
-          "Montevideo fue zona afectada con inundaciones en calles",
-          "Se reportaron daños materiales en infraestructura y vehículos"
-        ],
-        "diferencias": [
-          "Montevideo Portal amplía cobertura geográfica (país completo); Subrayado enfoca en Montevideo",
-          "Montevideo Portal menciona estadios; Subrayado prioriza autos afectados",
-          "Portal usa lenguaje más dramático ('azotó'); Subrayado mantiene tono más descriptivo"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Selección uruguaya y situación nacional de salud mental",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Un guiño a Bielsa: Nicolás López pidió a Maximiliano Gómez para la selección uruguaya",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNWVlUHZjZkRHUHFNMXJ0ZFhjclVpNjJqdmRzbUg3cmZkM01ZNEVTQzJnMDktVDh5SjFmLUxvVThJRDRPZGV1STBzbEJNaXVHYjJzdUJMQUw4X29oNG5LaDJ5M1hreVpGWW04QUFxNG93SXN3aUYyX2I1eTVYeEJXQTFrYlFoODVSdjhPNy1SMmlvYnJHMm1DcUpabncxbTN0MWZWRkNxVU9tQlBZRHVjQ3JWTWFOazBxWFBabVhGSXN4V0cxM29RZnVTc3DSAfABQVVfeXFMTkZtbEp5RzZQcnQzY1lkVnJZMjFtRDZwN29jN053Z1dNcndVTkxDeFVvaDRLMlZhbDVWa3ZueDZDT2c2MExUblBrSVcwWXhBRXBwSjhQdGlhZm15OGltYUxsUzFMNDJ5ZFpZRFRpdDdjRzM3X0F2TERlVUdEOV9oZmM1WHNEUWV1S2NoU2FGQmNxMHE3b0pjUi1EaTBWYlNpOXpzeWNPTDhha1NPOGdXSGhuc1JNY2w5b1FfZ2gxc3FoaFU0ZU9ydlRlbmFYLVRfa1lRNXFfaWQ3b2d5emJyNkIyZWVaM2hOQ2ZSZTBoeS1o?oc=5",
-          "description": "Un guiño a Bielsa: Nicolás López pidió a Maximiliano Gómez para la selección uruguaya &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-29T14:13:00+00:00",
-          "score": 4,
-          "score_reason": "Usa 'guiño' con carga interpretativa, no meramente informativo.",
+          "score_reason": "Pregunta retórica genera expectativa; tema vagas dudas ministeriales.",
           "score_pct": 40
         },
         {
@@ -197,32 +110,98 @@
           "source_color": "#6A1B9A",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.grupormultimedio.com",
-          "title": "Crisis grave de salud mental en Uruguay.",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTd1cGM4cWdEN3ItdmhFTHJVaVFhaHAtSkoxOU1IbkNUdF9xSi1iV3Z6anpWekhTNTgyT2I4WUJCeWtQdmJIZUJ5VVJJbWlqZWV3OGM0RU8xVko5QkNwWVM5YjJRWHd5d1c1QjYtZnB1Ry1MYW93OWFDT0JqcVpISVRJNkI?oc=5",
-          "description": "Crisis grave de salud mental en Uruguay. &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-03-29T04:52:12+00:00",
+          "title": "«Uruguay está siendo utilizado como plataforma de exportación de precursores químicos hacia Bolivia”",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR3EtUHpQTEtXc0hvNmhta3ptcWhCUS04M2xUTThFc0VGeG5GSDlRXzdSbDExQXVwcUNON28tMDRGTEFJTnp6S1E5c2s2c21iQ1psbnFSeXFONmtpSzR0cGs0SFZLYWV6QWlOazJTREtaM192UmxfaEp0SWY5SmN1Z2RQLWxGejhtbkwzcU4tNXZ1Y3JIOW9uNmNreldLdk1nZ1dUZVpCc2lGYkJnbXJya1JBYUVlWS1jWlBqcTFPLURJS0xEWXVqX2FEcHNsY3RUaXkw?oc=5",
+          "description": "«Uruguay está siendo utilizado como plataforma de exportación de precursores químicos hacia Bolivia” &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-03-30T04:53:52+00:00",
           "score": 7,
-          "score_reason": "Adjetivo 'grave' alarmista sin contexto específico ni datos.",
+          "score_reason": "Comillas acusatorias, verbo 'utilizado' con connotación negativa.",
           "score_pct": 70
         }
       ],
       "analysis": {
-        "resumen": "Nicolás López, en su rol en la selección uruguaya, solicitó la incorporación de Maximiliano Gómez al equipo. Este pedido se interpreta como un gesto hacia Marcelo Bielsa, técnico anterior. Simultáneamente, medios reportan preocupaciones sobre crisis de salud mental en el país. Los hechos se presentan desde ángulos distintos según cada medio.",
+        "resumen": "Se reportan tres noticias distintas sobre Uruguay: el ministro Sturla expresó dudas sobre una posible visita papal en 2026, Uruguay fue sede de un encuentro empresarial de Mapfre para la región latinoamericana, y se denunció que el país estaría siendo utilizado como plataforma para exportar precursores químicos hacia Bolivia. Las tres cuestiones reflejan diferentes aspectos de la situación del país en el contexto internacional.",
         "coincidencias": [
-          "Ambos abordan cuestiones internas del fútbol y salud nacional.",
-          "Los dos medios operan desde perspectivas editoriales identificables.",
-          "Carecen de datos cuantitativos o fuentes citadas directamente."
+          "Los tres medios reportan hechos vinculados a Uruguay en 2026.",
+          "Todos presentan información sobre relaciones internacionales del país.",
+          "Ninguno realiza análisis profundo de consecuencias o contexto."
         ],
         "diferencias": [
-          "Portal enfatiza movimientos tácticos en selección; La R prioriza crisis sanitaria.",
-          "Portal usa lenguaje deportivo interpretativo; La R aplica tono alarmista.",
-          "Portal mantiene foco en decisiones de gestión; La R en problemática social."
+          "Montevideo Portal enfatiza dudas políticas; 180.com.uy celebra oportunidad comercial; Grupo R denuncia ilegalidad.",
+          "Tono: Portal interrogativo, 180 neutro-positivo, Grupo R crítico-alarmista.",
+          "Enfoque: Portal en decisiones gubernamentales, 180 en negocios, Grupo R en seguridad."
         ]
       }
     },
     {
-      "id": "story_005",
-      "topic": "Peñarol enfrenta a Racing en el Campeón del Siglo",
+      "id": "story_003",
+      "topic": "Talvi reaparece públicamente; Nacional gana partido",
+      "category": "Política, Deportes",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Nacional le ganó 3-2 a Montevideo City Torque en el Estadio Charrúa | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3Z4UzFTZEthQmtxcUcteGtxa3NFVFk4bFVNT200UjJRWUlmcWxoWlY4U2dxSmFWRUNQOUhGYUp0S1dDR0hzcE50QlVXVnE4YnY4TDlFdFY3bEF0SXNPTTFnZV8wX0dGamhUX0pvVGFZb1Z3RGdweU5sdndaUXI5LUFWYzRobGktcVMwNWU1VkNzakdSRVZ6SzBZYTh4aGhhWnFBQUtFb0F6cktlSDNDRGVPLU4?oc=5",
+          "description": "Nacional le ganó 3-2 a Montevideo City Torque en el Estadio Charrúa | Noticias | Futbol Uruguayo &nbsp;&nbsp; espectador.com",
+          "pub_date": "2026-03-30T13:40:47+00:00",
+          "score": 1,
+          "score_reason": "Titular informativo directo, resultado deportivo sin carga emocional",
+          "score_pct": 10
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Carlos Santana archivos",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoVTJsSkdvY3VEcm9Db3ZyQTVISkQyMUg0cjdfZmx1N2NtOFVSZmViSW5QTFNRclo3cHdNT05uUmNxQnYyX09UVmdDTFo5QUVRQmsyLWtkN24yeG4w?oc=5",
+          "description": "Carlos Santana archivos &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-03-30T23:46:33+00:00",
+          "score": 3,
+          "score_reason": "Titular muy genérico; no especifica contenido ni contexto claro",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Reapareció Ernesto Talvi en evento en Uruguay: a qué vino y con quién se sacó fotos",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDZMNWZkVWxZejR2TWN3Rk94eWphaVVDRWduVDlfOWFBWW05YU5SSzZNcGx3ZVByLTlUVzQ3UUd6dlBrdFctNzJ6c0ZMVUtoUVdIalJRblJiQzJBLUt2V0MtLTdtdE1zUmtuZlNrWVowWkp1OXNXY2tTQkk4ZGNOVmhtbTlvTWtMN0x3QVBYTE9TZllFcjU1aXRvSzgtaEluV2pnZW1MVzhsc3A4YjFiU0k2X0ZZeFJvZnVOTnBBX0Q1aU9DdW5yMGFB0gHuAUFVX3lxTE4xR25OVVpRNTdJandjRExKYXVyTDdXdzFJVHVXZWZ2S3hUYVRCTXFDYk95NnF3V2dsSGEySndHVnBvZklKeGFJWWlURmdaa3YwczVZbkJYdzYtTmZ2OTBYX0c0RUJRbEZHUzJfNU02QzhkVzVhcmZXdHBfa0NuRnEyY1pHdjVzV2ZkMkV3THZfMUtlZERmNXp0dTg1ZGZqSzl4STQwcDJFQWc5SmlQMHZfLTRQOFllSEVMbjJIOG5sdW5HZm5idmI0QjZ3WHplaGFsdDVNcFhfMzNpZlZxbkt2NWlCTFhqSXhvTjRtUVE?oc=5",
+          "description": "Reapareció Ernesto Talvi en evento en Uruguay: a qué vino y con quién se sacó fotos &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-31T00:00:00+00:00",
+          "score": 5,
+          "score_reason": "Usa 'reapareció' con énfasis dramático; enfoque sensacionalista sobre actividades",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "Se registraron dos eventos de relevancia en Uruguay: la reaparición pública del político Ernesto Talvi en un evento local, generando interés mediático sobre sus actividades y contactos; y simultáneamente, el Club Nacional derrotó 3-2 a Montevideo City Torque en el Estadio Charrúa en partido de futbol. Ambas noticias fueron cubiertas por distintos medios con énfasis diferentes según su línea editorial.",
+        "coincidencias": [
+          "Los eventos ocurrieron simultáneamente en Uruguay durante la misma jornada",
+          "Ambas noticias generaron cobertura mediática en distintos portales",
+          "Se trata de hechos públicos de interés informativo local"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza aspectos políticos-personales; El Espectador prioriza deportes",
+          "Grupo R presenta titular vago sin información específica, a diferencia de otros",
+          "Tono dramático en Talvi versus objetividad deportiva en Nacional"
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Actividad futbolística nacional e internacional",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
@@ -233,48 +212,48 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Peñarol-Racing en el Campeón del Siglo por el Apertura: hora, alineaciones y dónde verlo",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV0laRDd5OVZfeFlXWUxEa0ZPX2Z3VUtRd1BfUzYxdGthTG5HNWtBcVM0RWtBNVE2NGlxUEFEaUoyYjAzeDR3NjZfdkFodEg1QlZ4cHcwSkwwT3lLOTBDdnZPU2JYNUswWFBuZTZGWXpPckVYRmN0N0VULVZkWVRNOWxLcVRWa1RlckZ0RnMyTUZySFJJOUd4Rks5MXk1TG8yaUhrZFlmdmNORE80eE5sY2w4dU5wSUdIc25vaG04UV9FcDVoT2RiVTNPR3h1VEXSAfMBQVVfeXFMUDJOWldDdW9xbE9GVHFZNEJVTVItLUtMajRWN1RVWkd5dUF2RE8yWk1qc2c1d0p6empySDFaUmJnTG9jVEdFa2ZoQmRUdk5ySV82V05sQ05YNDB1SWRJc2theWxBcm5UbEZmY1VVTjhjSXJGRHNzUndNbVJlQzdrcllHeVhYYXhWVU1BeEdZWW8zNTZfQzlmYzBCV2JRb0VIRFFmbE5aMmhSckpDMVhabU0wQjhLUkJhT2RsYkRrNVJPeVJoTG5XSUU5MmM0WkdrZ3REYV9BdkZpVXdpNm9jeUt3Zk8wOE92SlRzZEotS1lQUTI4?oc=5",
-          "description": "Peñarol-Racing en el Campeón del Siglo por el Apertura: hora, alineaciones y dónde verlo &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-29T19:30:00+00:00",
+          "title": "Con Sergio Rochet de titular: el once que perfila Uruguay ante Argelia este martes",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdnR4SVNZaHJlS0J4cHozU1NoMnpKOGJXZndrYnlFd3RzZGhTWjNvZzVwY3JfX2c5N2Jpa2RNWGRmNW1iZDk5Y0FMVzVLMmJqcjNySHo1d0lXbloxcU1KR3JpdWtJYjNzRHZuUFZHbDFwaGNvQUN2enllNUxmVGxUZE1xRjc4Z1NLZ2QyVWI3LXRzcHI0TDRaTlRETnR5UGtuUFRIRjhCbWVFeUpVMFRDWnFVaDUwN09MQjQ5STBjZjRTUVVubTMwStIB7AFBVV95cUxPYmlodVJEbGxQMEJJWHc4MzNGZER0cmJYR3lhWlZRRE0wSWtGN19pdHRacXgyYUpKWmFrZEZ5UmNfVUdLVjZ0dy1rSExDNnJ0ZW02bE1sdmZleGpROXdWR0Q5WWx6N19tRVlsTlFqUXFUa3h1MlBlYm1RTWZJMDdCZUJGTHEtZlV6Mng3dlNpcEZpQlN6QmZnQ2RYWmpjbDVfZ0gzRTV6MmE2cFNEQUQtNFZqVDVuUTZrTjB0LU5aaklTMHdvRDJQNzB4WlA3SGo5amFlVi1pbHNZRmRwZjhvRUhERndyRWl4Y1dKSg?oc=5",
+          "description": "Con Sergio Rochet de titular: el once que perfila Uruguay ante Argelia este martes &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-31T02:12:00+00:00",
           "score": 1,
-          "score_reason": "Formato puramente informativo, enumera datos clave sin carga emocional.",
+          "score_reason": "Puramente informativo, presenta hecho sin carga emocional.",
           "score_pct": 10
         },
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Peñarol recibe a Racing en el Campeón del Siglo este domingo desde las 19:30",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ1RCdTF5TEJDRDVmWmtyU0Z0SEFGVEJUeVF3TkwydEV4QTg5Mk5vYXYtMTh0eDZ1cDJxNzBPZk1xNC0xeHl4TjhYdEd5OWN5OHBIYl9Da0ZvMkkwOVJjb052V2pKS1NfWG4ycXdCRVpCbExpUFlvLXZqVmxZOThiSzNsT0VydFlxVWhQclctZUE4LTVUS29oUkt5djhoSWhfMG40M9IBqgFBVV95cUxNOUFLa1F0UW16ckZkOGd3QWp3LXBIUHZ3OTlJZTl3WVhQS2toQkR4b1gzbXoyU0tTNlVua2xJb3Y1MzU4Yl96VkRoanluekZTZnFNRnJORWc3YnJ1ZGplb3Y4ZGh6akhVelZ1b0RBTTdwVVgwb2NKOGRNYXNueGJHUlk5amlOd0QzOUJmOUNGUGQ0SWhzejJ3VVpZYlhUQjlZYURIcU03WVl6UQ?oc=5",
-          "description": "Peñarol recibe a Racing en el Campeón del Siglo este domingo desde las 19:30 &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-29T19:50:00+00:00",
-          "score": 1,
-          "score_reason": "Lenguaje directo y neutro, solo presenta hechos del encuentro.",
-          "score_pct": 10
+          "source_url": "https://www.espectador.com",
+          "title": "Suspendidos tres partidos del domingo en la Liga AUF Uruguaya | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWE9yR3VTTnJnVTgwTnkyT3c4WVNIUDlTLWRFRmxwSEVzOFpBT0tQTUc2V292U0xkUmZzTFI3YXg5YlVWMExXTmpnTkNzUzRValdhLWd6SzRrRGF6Q1RlRDI5amZxQWRVRmRFVkdPX25mR2pXMURuNU93dndFNGZFY2EycVJoVWkwTEFhUHlhT2tkUTltR294SXZoRjZHQ2FyM185MDZuX1ZJRWEz?oc=5",
+          "description": "Suspendidos tres partidos del domingo en la Liga AUF Uruguaya | Noticias | Futbol Uruguayo &nbsp;&nbsp; espectador.com",
+          "pub_date": "2026-03-30T12:38:48+00:00",
+          "score": 2,
+          "score_reason": "Informativo directo, solo enuncia la suspensión sin énfasis particular.",
+          "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "Se disputará un partido entre Peñarol y Racing en el estadio Campeón del Siglo el domingo a las 19:30, correspondiente al torneo Apertura. Ambos medios informan sobre el encuentro de fútbol uruguayo, proporcionando datos básicos como horario, ubicación y equipos participantes. La noticia es meramente informativa, sin desarrollos adicionales sobre contexto deportivo, clasificaciones o expectativas del partido.",
+        "resumen": "Se reportan dos noticias del fútbol uruguayo: la convocatoria de la selección nacional que enfrentará a Argelia el martes, con Sergio Rochet confirmado como arquero titular, y la suspensión de tres partidos de la Liga AUF programados para el domingo. Ambas novedades impactan la actividad futbolística del país en diferentes niveles competitivos.",
         "coincidencias": [
-          "Ambos medios informan sobre el partido Peñarol vs Racing",
-          "Coinciden en la fecha y hora: domingo 19:30",
-          "Ambos mencionan la ubicación: estadio Campeón del Siglo"
+          "Ambos medios cubren noticias del fútbol uruguayo de actualidad.",
+          "Tratan eventos que afectan directamente la programación deportiva nacional.",
+          "Utilizan lenguaje objetivo y factual sin interpretaciones valorativas."
         ],
         "diferencias": [
-          "Montevideo Portal incluye menciones de alineaciones y dónde verlo; Subrayado es más minimalista",
-          "Subrayado enfatiza que Peñarol 'recibe' (perspectiva local); Montevideo Portal usa orden neutro",
-          "Diferentes estructuras de titular: uno interrogativo con detalles, otro declarativo simple"
+          "Montevideo Portal enfatiza selección nacional; El Espectador enfatiza fútbol doméstico.",
+          "Un medio trata competencia internacional; otro trata competencia local.",
+          "Enfoques temporales distintos: martes versus domingo como contexto noticioso."
         ]
       }
     },
     {
-      "id": "story_006",
-      "topic": "Nacional goleó 3-2 a City Torque en Charrúa",
-      "category": "Deportes",
+      "id": "story_005",
+      "topic": "Dos imputaciones por delitos diferentes en Uruguay",
+      "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
         {
@@ -284,12 +263,114 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Nacional volvió a ganar en el segundo partido de Bava como DT: 3-2 a Montevideo City Torque en el Charrúa",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjhjSHNycTlDUUVJRnd0dFNfRDBPcEozNFAwSEZUcm1MWlEzQ0xMRUNINl9BVzk5cjNQT2NEdGdpSUtUNzVlN20tMTFNX1kzczFGTnBoQ0VqellVWmRLRGgyWThjVmJoeFpmdW9FejdMSUNLMVV5UzM0b0RDS0dxSW0zWDlQTGpNVVVCS0llWE8wamQyNTJQdTZPaUZrRHlabE14TnhMQ0FxTldlOVhFRndDRUtCMkNVQnhtcTNlUUpRa1dSY1I4adIBzgFBVV95cUxPR2hkR3RYUEZrZHJyNlhEeVcyTWJxTVRQVjB1SjA0d1NCZG9LdUF5TmRkX1pzMGhiUzlLNXZmYzdNVkNvU2FkaFNIcWVwOW9rQ3BURGpnRGh1VVh2QmhUWWJiVF9VMEx3T1VsLVYyVWxOUTFDcG56NkRONDFVUS1NYXdWMmNWYWtTRXc0ckgxLUNpeGhESnVKa1VubjFzX3gyV0h4dWtYRi0yX0JqbW9fUmUwY2owX2ZiQUJqQmlXTU5CeWlMdkdiN182c2Z4dw?oc=5",
-          "description": "Nacional volvió a ganar en el segundo partido de Bava como DT: 3-2 a Montevideo City Torque en el Charrúa &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-28T23:18:00+00:00",
+          "title": "Imputaron con prisión preventiva al autor de una rapiña a estación de servicio de Bella Italia",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZldCYm02WHU3Yl9mMTdEWHJBN0hKSXpUMEFGd3RkR1E4WFZuYmtQc1V6T191YXNLNmEtVVBkNnp6VS0tLTdZZ2dad0tjSWhFWVlnRjlGNnltd1d1T0JwZHJLNEYyc2dCTlh1TUdHMnBzZjNDeDRIX3VvX2pGTkhHZ0dqQWtCNG1VY0VMVjlobEJPZHdVNkhiUlIzdWlQbVl2VXQwSDZZaGwweGlDWHVaVzNBVXZEVlZD0gG-AUFVX3lxTE50WUFvMjloWkRsWEpjaHRtaFZZR1lUQW9vb1hzVm52LWl1MXBmU0t4cmYwcmN6VWo0al9GVDJTcDZRU2FnNmF6SnlRUVBzN3o4aWpDUTFRWnZqeVc1NWxiaWl5NUtUZ19DNTkwS1BsSXZQTkNDaTRlRGswbVJhZU85LVJoVUkwc2ZmQ014RmQ2UUloUHM3NG90N2tBTkgyWmRYNkVpUkxkOF85YkNiZHhuVmhXanJJVTdBRFhwSEE?oc=5",
+          "description": "Imputaron con prisión preventiva al autor de una rapiña a estación de servicio de Bella Italia &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-03-30T23:33:00+00:00",
+          "score": 3,
+          "score_reason": "Información factual directa, menciona prisión preventiva de manera objetiva.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Imputaron a una mujer por abusar sexualmente, “sin contacto”, de su sobrina de 16 años",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbGtLX0ZWZkFmQ1AwRVlmMTJGMmdLbnAyRGc4d0YzdklWNGRQamtEMm9sWC1GZ2RQRzRsbmFRWmpkV3VBSHZ0OGFBM0hDQldNNFVvc3N4Qmc4ZEhTTlY1dHBpZ2RZb0JYX1EyR253dFVSSVpXOVZNUnk4emdOUHJQYXhYdU1qMFdqVlRWblNzbmhDWVhxOXhpTk0zZmsyRUs5bnN1REozVnNWeVRUZ2g1V2dmeGhCR2dKbG05TVJRWFh6LTl3S1dCOG1maVPSAfABQVVfeXFMUDhTd01ISTRJbjh6WDRxbW55ejNnMTB0UUpKRlF0cm0wdnJhZXg5N0lGMlp6bmhBT25WaDVmaUVsaktkZHVSOEFGWEpnTFg2OEhYdk9JUlg1Q204ck9SN09nV2paN0dIQU5DNkk5aFV1YnRfVTVqeWFJcVBYcGN1cVVfdkNBWVdpdnlWODdtZVVWV0xhTF9uWTA1N2lpc0FVMS15cmNNb2NUaU1XcE9qdDlac3d0NkdPLUNXVFl0eFhQc1N3ZWJTTjJ6NTVmU19icjhYLXp2Wkg5ZmFHMnIzSU1lQnN3Z1RUcXBQbVRRNE1X?oc=5",
+          "description": "Imputaron a una mujer por abusar sexualmente, “sin contacto”, de su sobrina de 16 años &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-30T18:01:00+00:00",
+          "score": 4,
+          "score_reason": "Especifica 'sin contacto' de forma neutral pero destaca aspecto inusual.",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "Se registraron dos casos distintos de imputaciones en Uruguay. Por un lado, se imputó a una mujer por abuso sexual sin contacto físico hacia su sobrina menor de edad. Por otro, se imputó con prisión preventiva a una persona por una rapiña cometida en una estación de servicio de Bella Italia. Ambos casos representan delitos graves que fueron procesados por la justicia uruguaya.",
+        "coincidencias": [
+          "Ambos medios informan sobre imputaciones formales realizadas por autoridades judiciales.",
+          "Los dos casos involucran delitos graves sancionados penalmente.",
+          "Ambos utilizan lenguaje directo centrado en hechos verificables."
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza la modalidad 'sin contacto', destacando lo inusual del caso.",
+          "Subrayado subraya la medida de prisión preventiva, enfatizando la gravedad procesal.",
+          "Cada medio cubre delitos diferentes, sin conexión aparente entre ambos casos."
+        ]
+      }
+    },
+    {
+      "id": "story_006",
+      "topic": "Racing venció a Peñarol 2-1 en el Campeón del Siglo",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Peñarol: Ignacio Ruglio volvió a criticar a los árbitros tras la derrota frente a Racing",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTXlxTnAxR2l0UmcxR3N4MnhQWGY4OVFZNFNDaDdjRUloUmk3dFc1WXBPZ2NSRUpkdTB5NG10WWxOaGdLOGc0LUpVRkVKWDB0UGJiQnQ5RjMwTFBUU2xhU1F6ZzJyUm05b1RYdC1tV3duSWt1WkRGd1dpV2ZsV1pjaUppV29PN0hCMTh1bW9jRW5YUHB4NnBTVUVaV3NyX3djb0dBeTdhUy1STWJYYmZrYWlhR3lXbTdwaEtWN183VmpjSkUzNXFXQVB4bmZNbks00gH0AUFVX3lxTE1PRDZWa2RXZW41UFlpVGp2Y1NUZkJvLU1laUlwS3lrQmlKOHZ5Y25PS1BuQ1d6UzFEN2JpWUczQ0xDbTNYYlZLaUlmUHFJRmV4Y2NDNnJFTU1nMGU2VmJxcFlKNzJUWjJMWk9zdndqNnBoQjNzc05tVkdLNnN0eXVNNGR0Qi1DcERGVnlqVVJFT0p1U19qU25Ka2R1MEl0WkdET1hMM0dkcWVTbFNMbnc4YXVMZzVQa25mcC1GbnA2RV9nc01Qa1RRNlVPcFJZcGZlWWFIMXJTcTBEc3ZfNDdRR0pLWHlRS01NeUNvTzNPdFBWVVc?oc=5",
+          "description": "Peñarol: Ignacio Ruglio volvió a criticar a los árbitros tras la derrota frente a Racing &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-30T10:24:00+00:00",
+          "score": 3,
+          "score_reason": "Enfatiza la crítica arbitral sobre el resultado deportivo.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Racing asaltó el Campeón del Siglo: le ganó 2-1 a Peñarol y es el líder del Apertura | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPakUxbjFSNDkwak14WXhEdXRQSUp2UWh0NUl3UDNENzMzcEQ4MEhiRDkxMWhPX0hEMlBmVHJndDVUeVUxSkJvN2p5SmtWYUthS29sYUlybkdtcmUtdExNWnRiLXBDUmdtRVUwekM1cEJPY2JfNGRXem9GWThuc3hvOXczcFNlZDFLZDVJZkZSeUZPaFJqSXNLSG5UdDZCa2pCa2xUbzRSMFc2OXBBZVh3b3c1Tnl2akczMURWRVo4WllKTE5TcGdHT2VR?oc=5",
+          "description": "Racing asaltó el Campeón del Siglo: le ganó 2-1 a Peñarol y es el líder del Apertura | Noticias | Futbol Uruguayo &nbsp;&nbsp; espectador.com",
+          "pub_date": "2026-03-30T13:45:20+00:00",
+          "score": 6,
+          "score_reason": "Usa 'asaltó' con carga emocional; destaca triunfo visitante dramáticamente.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Racing Club visitó a Peñarol en el estadio Campeón del Siglo y se llevó la victoria con un resultado de 2-1, posicionándose como líder del torneo Apertura. Tras la derrota, Ignacio Ruglio, directivo de Peñarol, criticó nuevamente el desempeño arbitral del encuentro. El triunfo visitante resultó significativo para las aspiraciones de Racing en el campeonato.",
+        "coincidencias": [
+          "Racing ganó 2-1 a Peñarol en el Campeón del Siglo",
+          "Racing asumió el liderato del torneo Apertura tras la victoria",
+          "La derrota de Peñarol fue en su estadio de local"
+        ],
+        "diferencias": [
+          "Montevideo Portal prioriza las críticas arbitrales de Ruglio; El Espectador, el resultado y liderato",
+          "El Espectador usa lenguaje dramático ('asaltó'); Montevideo Portal mantiene tono más informativo",
+          "Montevideo Portal enfatiza conflictividad; El Espectador, hechos deportivos concretos"
+        ]
+      }
+    },
+    {
+      "id": "story_007",
+      "topic": "Choque fatal en ruta 56 de Florida",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Choque en la ruta 56 en Florida terminó con la muerte de dos niños y sus padres; el conductor que los chocó de atrás resultó ileso",
+          "url": "https://www.teledoce.com/telemundo/policiales/choque-en-la-ruta-56-en-florida-termino-con-la-muerte-de-dos-ninos-y-sus-padres-el-conductor-que-los-choco-de-atras-resulto-ileso/",
+          "description": "Un quinto ocupante del auto, de 42 años, presentó “lesiones de extrema entidad” y fue trasladado muy grave a un centro de salud. La entrada Choque en la ruta 56 en Florida terminó con la muerte de dos niños y sus padres; el conductor que los chocó de atrás resultó ileso se publicó primero en Teledoce.com .",
+          "pub_date": "2026-03-31T09:44:58+00:00",
           "score": 2,
-          "score_reason": "Informativo, destaca el dato de Bava sin carga emocional excesiva.",
+          "score_reason": "Enfoque informativo con detalles del hecho; menciona responsabilidad clara.",
           "score_pct": 20
         },
         {
@@ -299,32 +380,185 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Apertura: Nacional fue contundente y venció 3-2 a City Torque en el Estadio Charrúa",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSkJDUmt6RFdURHc4YWFsR1dYTUtLNnBZUkIzOExiTXhicXd5SDI0Z0VHdC05bjlmVjE0X0QxZ2hwRDJjWlZtQXZuem9pLWE1cVRtTV9TbUJ2UGR0S2ZzemtDN1NTTDZoVmV6LVh2VVF4NVdqb0VMeWZRUkJKdkNZOWxDNGNXeFZmdkV6OEZieFRRbE9URDBHdE5HQ2xQUEY4b280U1JRN3Z2dWhlT1NCMFk5RjRlSlVVYU45TmhDaktPSUJaVUloNm9n?oc=5",
-          "description": "Apertura: Nacional fue contundente y venció 3-2 a City Torque en el Estadio Charrúa &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-29T00:29:00+00:00",
+          "title": "Tragedia en Florida: murió una familia, entre ellos, bebé de dos años y su hermano nueve",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM1FvNmx4LXhqWmRGTS1LT2JKWWxKd0RFZngtUWw1anE4eDluZzFvTmtGVTl6My1ORUQyNXFZN1dwZ0pBbnBlT2I3Q2lKaEFGbmV4M0RleC00LUVseUVacU42V2VfWkJLUzhEQWlYSTlqMVpjWFlZM1V0WElGdzdFNkpfV0Rvc2pxQWVXYXBwalVzYTZqeXQ0R3dzYUEyMzJISl84eFgtY2JXSmRVZE9vS0RqSWROZEhEZVowUjdYTjJMV1FidG5aNU1jaEFvd9IB8gFBVV95cUxPdXF6eFJsRFJLTHhXYVpYN2pUVzNfTlhlNTFNQkY3Qi1uZmRWTFJwVWRPN3ZMbHJUM3QxaDBrcTFLd0JfVUVud2FJWEo4UFYtRV9FTUUybmZJQlZKV1piSC1QQ2FVSG53a3pxdE51V1ZpVWs4RWhSU3p2dDExSXlrMld6a2hRNGtyZXB2UXQya0FYa1RzLVBNWVdDdk5oYThUeGlleTB6LVh6LTl1c295eG5ZVGJmSHlsQ1ZZbGlLbnFjcE96Z24tT05GbHF1QWxkaG9pRVhkMWVOX3VoOUlraWhJTmVvUm5xRVcyY2hJbFE1dw?oc=5",
+          "description": "Tragedia en Florida: murió una familia, entre ellos, bebé de dos años y su hermano nueve &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-31T03:00:00+00:00",
           "score": 3,
-          "score_reason": "Usa 'contundente' para describir la victoria, leve subjetividad.",
+          "score_reason": "Uso de 'tragedia' añade carga emocional al relato objetivo.",
           "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "En el Estadio Charrúa, Nacional derrotó a Montevideo City Torque 3-2 en un partido válido por el Campeonato Apertura. El resultado constituye la segunda victoria consecutiva del equipo tricolor bajo la dirección técnica de Bava, quien recientemente asumió el cargo como director técnico del club.",
+        "resumen": "Un accidente de tránsito en la ruta 56 de Florida resultó en la muerte de cuatro personas: dos menores de edad y sus padres. El siniestro fue provocado por un vehículo que impactó por atrás al auto de la familia. El conductor responsable quedó ileso, mientras que un quinto ocupante del vehículo víctima sufrió lesiones graves y fue trasladado a un centro asistencial.",
         "coincidencias": [
-          "Nacional venció 3-2 a Montevideo City Torque",
-          "El partido se jugó en el Estadio Charrúa",
-          "Es la segunda victoria de Bava como entrenador"
+          "Murieron dos niños y sus padres en el accidente.",
+          "El siniestro ocurrió en la ruta 56 en Florida.",
+          "Hubo un impacto vehicular entre dos automóviles."
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza la forma de juego ('contundente') versus Subrayado que enfatiza el aspecto contextual (segundo partido de Bava)",
-          "Subrayado resalta más el factor temporal y secuencial de las victorias",
-          "Montevideo Portal prioriza la característica del desempeño; Subrayado el factor técnico-directivo"
+          "Teledoce especifica que fue un choque por atrás; Montevideo Portal omite este detalle.",
+          "Teledoce menciona al conductor responsable ileso; Montevideo Portal no lo destaca.",
+          "Teledoce refiere lesiones graves de otro ocupante; Montevideo Portal no lo incluye."
         ]
       }
     },
     {
-      "id": "story_007",
-      "topic": "Incautación de químicos en frontera Argentina",
+      "id": "story_008",
+      "topic": "Robo en apartamento de Punta Carretas filmado",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Video: un delincuente quedó filmado tras ingresar a robar en un apartamento de Punta Carretas",
+          "url": "https://www.teledoce.com/telemundo/policiales/video-un-delincuente-quedo-filmado-tras-ingresar-a-robar-en-un-apartamento-de-punta-carretas/",
+          "description": "Estiman que logró ingresar a través de los techos vecinos, desde una obra en construcción en la misma manzana. La entrada Video: un delincuente quedó filmado tras ingresar a robar en un apartamento de Punta Carretas se publicó primero en Teledoce.com .",
+          "pub_date": "2026-03-30T21:21:37+00:00",
+          "score": 2,
+          "score_reason": "Descripción factual directa sin carga emocional ni elementos sensacionalistas.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“¡Qué susto!”: entró en apartamento de Punta Carretas por las alturas, robó y fue filmado",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdi15VGppM1hZNFZZZGVLcVRtRkp3UHJibGE3NDJkVlpsaTZWSHAtc3FSZWFLUTJRLTJqUFBkdnNsd0FmUHJrbW1qVDhtZzRVQVI4MzhVNDJKWFoyeTRzV083djlGNkROeXdoYXcwUVk5V2ZzNW9rN2o0OG1SRWtLSWNRMmRsMTJEODI4bzI1VHZIY1dfVkdPbU5hVWZhc3hxT3BLN01SQTlLWTVVS0hsbGxOc1dXQzRRakZWZ2N6dlRIa3lrdExNQml1V0NTQdIB8gFBVV95cUxQR0lfelBpS2hYWU1GS3BzemxiYU85aXMxQjBrQWdDbmJwd3hNOU03RnE4THluRTlscW52TWstWmxFMEZsdFk4WjNKcm1HVG5BbTE0NEpRRGc4eGs1QW9xTU9zVUFQT0k4bjhQRUZrNm9UVU1teEFCZjVwcDFrX3hnYjJuXy1FTlo5TUlORWZLNnVnZjdUV2liWFVBVVdaLUlFWHY0UXFKdjBNNVFnTkdDQjNfRlZOYkRsZXdqS2JMQUxsQzNma0FObGJrdEhsZnN6VktlaVlOSlJ1NlUxTi1tV1Q2Y1daNXhPV2JvY2ViazZ2QQ?oc=5",
+          "description": "“¡Qué susto!”: entró en apartamento de Punta Carretas por las alturas, robó y fue filmado &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-30T00:01:00+00:00",
+          "score": 7,
+          "score_reason": "Exclamación exagerada y lenguaje alarmista generan dramatización innecesaria.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Un delincuente ingresó a un apartamento en Punta Carretas atravesando techos de edificios vecinos, aprovechando una obra en construcción en la manzana. El sujeto robó pertenencias del domicilio y fue registrado por cámaras de seguridad. Las autoridades investigan el hecho y buscan identificar al responsable.",
+        "coincidencias": [
+          "Ocurrió en un apartamento de Punta Carretas",
+          "El delincuente fue captado por cámaras de seguridad",
+          "El ingreso fue a través de techos de construcciones adyacentes"
+        ],
+        "diferencias": [
+          "Montevideo Portal usa exclamaciones y tono alarmista; Teledoce mantiene neutralidad informativa.",
+          "Portal enfatiza el 'susto' como reacción emocional; Teledoce se enfoca en hechos concretos.",
+          "Portal prioriza impacto emocional; Teledoce detalla el modus operandi del delito."
+        ]
+      }
+    },
+    {
+      "id": "story_009",
+      "topic": "Orsi invitado a foro de líderes progresistas en España",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Yamandú Orsi fue invitado a foro de izquierda en España junto a Pedro Sánchez, Lula da Silva y Gustavo Petro",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONEVKc3ZFRU40WW1NVkJ4cURhN1BsVHR1bkJPaXhlSk9nOFZnUVBuanF2U0lScVZLSXVjZ1ZzVjF4b3hnUldzdnFWWjE2ZVlOc19ibnY5TTVLTHpqTHg5cHRFY2xuODZkWWVhTFY0cVppcWc5V253UE02al80MU9ka3N4UlRRZGc0VzNhZW4xTkJmYzh1SXA1Y0V0NnBZZV9jY2wtSFJoak9iMmFiamtabjV3SHg0SGhPLVptYzRRSVpwNHFzNExQZE0yTWF1SERj0gHWAUFVX3lxTE5VV0diRDRnZzNWSU5TdVBCYW1YMVdxcmRDY2hwWVFFSERwNkNKeEFna1NNRVd0MnVrdXgzWnEtdVAtcWRQZVotb09NMExIMm9LSTJYd2NjWHJUbTlCY2lyc20zdHcxRE5lU0U3UHhzQmlEVV9NMXUyNng5bzM4UEhqbFM5Um1OckVkek5CSEFMVVBKM19odXQtZ1VLZDE1Ukh2N1JyeXFQYWl4WENoVGtTQWpGdGpNWDF3bnUwOUZsQlduUXNHdjVFdHJBVXAwWm9GbDEzQ2c?oc=5",
+          "description": "Yamandú Orsi fue invitado a foro de izquierda en España junto a Pedro Sánchez, Lula da Silva y Gustavo Petro &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-03-30T22:12:00+00:00",
+          "score": 2,
+          "score_reason": "Enumera hechos sin interpretación; neutral y meramente informativo.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Orsi fue invitado por Pedro Sánchez a cumbre para “frenar la ultraderecha”: qué decidió",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObURuTXpreEE0Mlp4TWp0dWI4VEFqdEZrTVZQMDlsbHdibXRFYWJKS3hOUUZpM1M3SHlLdnhsUWNtQWNtYVZzVXFhTjFHZ0NheGhldm9lOFpSNnY0Q18yZ3ZsUnF2aUgxNzdTMmFOdU1lcmJHRzZMNFdoM09oOGZvUlZ6ZWxCMDhHaHR5d3l5d28yMWo2M0tIM3k5ZjJ3VFhmVFpWc3M1V0xnZVh5WUFYYUp4R3pNWk1ZcG53N0EzMkhYMkZUdG9GWm9CYTg5d9IB8gFBVV95cUxOUTFlVkVwNHFjRGxWeV9PNFFrZWE1NzZiaVY0Y3ZsMmhaODVpSUFITFhHTkNpejF6cTJBcXVSdFhxMHRVdHlSNHp1TzlUUG1pOHhGRTQ0RXJZNU9Kb0NuOExRZnZ2aWZRWkctc1pfZENMUXdfanV4U29jdFBYWi1VNlNKVkhDaU12OVFNUzBxajNaUEJmbjJ0WmZ5TVhwRWU2S2hqNXdXdXYtenpyMmdMQ3lhZ1E0cnExZ3JTOUJjd3lzNDNBSDB6MmxtLWZycEYtUTFZSmJvTHVvVl93ekNnVVcwZ180aVJkVWZzSUNJMUFXQQ?oc=5",
+          "description": "Orsi fue invitado por Pedro Sánchez a cumbre para “frenar la ultraderecha”: qué decidió &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-30T17:54:00+00:00",
+          "score": 6,
+          "score_reason": "Destaca objetivo de frenar ultraderecha; interpreta intención política.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Yamandú Orsi, candidato presidencial uruguayo, fue invitado por el primer ministro español Pedro Sánchez a participar en una cumbre de líderes progresistas en España. El evento reúne a figuras de izquierda latinoamericana y europea, incluyendo al presidente brasileño Lula da Silva y al colombiano Gustavo Petro. La noticia refleja el posicionamiento internacional de Orsi y su inserción en redes de gobiernos progresistas.",
+        "coincidencias": [
+          "Yamandú Orsi fue invitado a un evento en España",
+          "Pedro Sánchez es quien lo convoca",
+          "Participan líderes progresistas latinoamericanos destacados"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza el propósito ideológico (frenar ultraderecha); Subrayado solo enumera participantes",
+          "Portal añade interpretación de intención política; Subrayado mantiene tono factual",
+          "Portal usa comillas estratégicas sugiriendo postura; Subrayado evita caracterizaciones"
+        ]
+      }
+    },
+    {
+      "id": "story_010",
+      "topic": "Michelini opina sobre personas en situación de calle",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "“Hay que discutir con responsabilidad”Gabriel “Chifle” Molina",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd1dpM0FTXzNqZE9mR24teTFCVUFCLU5mN1VCTUR2TU1SMnRCLTE2WUJ1OHI5TjRFc0hZX0ZxT0Voa1VvUHlSaHBzWUo5RTcxaWUyNktsVkZkNHdHSFlpTnp3NG1QQnB3eDdZemJtdHRzTjhfSWI2UU9xQnlOdUdUSndNOXhVcHQzUElnZ1cyVlhoaUpKUXU4SFRfRWs?oc=5",
+          "description": "“Hay que discutir con responsabilidad”Gabriel “Chifle” Molina &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-03-30T04:53:56+00:00",
+          "score": 3,
+          "score_reason": "Destaca llamado a responsabilidad; enfoque más equilibrado y menos emotivo.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Hiere mi sensibilidad”: Michelini pidió “actuar” con las personas en situación de calle",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUnhmejR1NjN6WllfZndwRzI4X05SX2hDcHlTSnZRdl9YRVQ1czdnTE0xZFBadjlVQkg3TDNhendhaTdoekZGc3JObE5NUXZCMUM5ZTlLRWFxa2pjRENRUkgyMkFlMklCeV9HZE9qdEZkbXBtbm1vbllBcE8zZUw0enlTX0c3alBkMzQ1Q28yMlU3czJpT0p2NzFMR2xKVFBBV1hTNWY0ckN4Y0syNWgxajJZS2M0MDI2N0wwUC13QmRER2o2cXVPVnN0OE9hZ9IB8gFBVV95cUxPVEpEWFY5UHZ0NV9UdmtiY2JocVlyMEE3YW5uU2dfV2l2eTNvYmxsUmFpM1hFQVRHdERtVEZ3eDB0TEtST3BDQjVoZ0J3eWlCanlqV0ppUGVURFktUGptYnBtWk9tSEpIOWctZ01mOEJaakVGaVNvYVNrTzNPMHAtYXRyOTN0N2IxY09IQ1prYjd6X3VVQlJ5UGxKT1U2SHpYYnZPRnQ2QVY5eV81QUhwMTJ2b3BWMXc3SVIzaGNmaC1JWTdHdmxHd0RTYThhMFZXNld4d1Rhb01nY0RkQnBYbmt3T2tOWGRkTW1obFNLWk5OZw?oc=5",
+          "description": "“Hiere mi sensibilidad”: Michelini pidió “actuar” con las personas en situación de calle &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-30T16:08:00+00:00",
+          "score": 6,
+          "score_reason": "Usa comillas emocionales que enfatizan subjetividad personal del político.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "El político Michelini se refirió a la situación de las personas en calle, expresando que le 'hiere la sensibilidad' y pidiendo 'actuar'. Por su parte, Gabriel 'Chifle' Molina pidió discutir el tema con responsabilidad. Ambas intervenciones generaron cobertura mediática sobre cómo abordar este problema social desde diferentes perspectivas políticas.",
+        "coincidencias": [
+          "Ambos medios cubren declaraciones de políticos sobre personas en calle",
+          "Ambos presentan opiniones de figuras públicas sobre el tema",
+          "Ambos abordan el debate público sobre la problemática social"
+        ],
+        "diferencias": [
+          "MP enfatiza la dimensión emocional/personal; GR subraya responsabilidad en la discusión",
+          "MP prioriza sentimiento del político; GR prioriza tono del debate público",
+          "MP usa registro más subjetivo; GR utiliza enfoque más institucional"
+        ]
+      }
+    },
+    {
+      "id": "story_011",
+      "topic": "Ministerio Interior instala nuevos tótem en Montevideo",
       "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
@@ -335,12 +569,12 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Camiones que partieron con químicos desde Uruguay fueron detenidos en Argentina",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc08yczJzRTlPMkpWaF9FZWsxNk92NkhNU1NZMl9iMnlrVW14YlM3ZVpReHhlVlJvOW5RbDRqQ21VWWZSYnpFZmoyUDczb0Y5SEtjWFVyR3ZNcmZha0NacVVTRzUwdUhEUFNicnpKejVGc01HaHRBa1BOTHl0Wk1HRlhtQ3FtQk4weG80YVdpRkE5aldFOGdPR0Z6TWxMdjhoYjEyM3o4aDlBRjdQd0tVVDZDUUVGeG4zLVNDdkhEZU02SzdtRlHSAeoBQVVfeXFMTlV6blJJOWlVLXR5YU94cDh2WW5wSDdrOW9fa1ZSaE9KdnZMdkxIMkF3UEdPV0E5UE9IVngtY0x5bkNGN0RnVG1JbnBFX2hqNzFRQ1U5Qkc3WmlXdkpQa2V3bXN6M3pnUzY4U1Jpc01kdjJEUHFZTTJWNWJRdUFfQk1qY3B1SVM1V29VWVRRcFpsT0ZoYm9xc3RISU9YNzFQSEY2RktUcWdJbFVGc2E1amo5NFZTS2YyTU5BTnJsRV9OYVZ2am9QMVBQakZPYkt6MTgzN0t5TGJmMkoyeVNMVXJadXpaZURGNjZn?oc=5",
-          "description": "Camiones que partieron con químicos desde Uruguay fueron detenidos en Argentina &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-29T18:37:00+00:00",
+          "title": "Ministerio del Interior instalará otro tótem en Montevideo: en qué zona",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTkEtMlJzZkVvbHdtUnUyZkJycGpJYjNCcThsVnZzcmZmdFNlZFdaSkxienA1OHlmTVBIcmJVZDJ5eDBQcnlMT0pKWDZpS2hZaGFZcVpnVU9kXy1ISlJKOGtZamtEZkJKbG5teVczUG0xeW1WY0tWTGhBcGxYaVVKU2pEOHNwTTlfNlpNVXlQU0c0R3gzQmJ5eFM1N0tsRldSQXljWGFicTQ3dTRrMmRZMm1ELWNKQWx0ZEHSAd4BQVVfeXFMUFF1T0V0Y0tRa24waWxRaWs3YlBpaWtlV256NlpNTVpnWHRKLTFlYnJ0cGFFeENKNVh0ZGlFQXlaOWlJZGlUS0pfcmlSQmdXOTdVUzlrdWFrbTM0MTRjNFVJLTEyZHlmQVJUU0VRVTFTY0hta1djZldaZGRpYWJYZVQ2UXlXZE55TTU0dkp4d2tpWC1xTDVvSFBjZjhSUEE4QUxqRVhVZjVZaGhMOERpYlNuajNYanJwMEtEQ3d4S0YyVDdCcEFJNU91Y2JKZldaQk0xZXJoN2t6bDU5TS1R?oc=5",
+          "description": "Ministerio del Interior instalará otro tótem en Montevideo: en qué zona &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-30T19:26:00+00:00",
           "score": 2,
-          "score_reason": "Neutral, solo hechos verificables, sin adjetivos cargados.",
+          "score_reason": "Neutral, informativo, solo presenta el hecho sin adjetivaciones.",
           "score_pct": 20
         },
         {
@@ -350,49 +584,100 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Dos camiones con precursor químico salieron de Fray Bentos rumbo a Bolivia y fueron incautados en Argentina con documentación falsa",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb3RYM3N1ajM5cUNnYWlKdXM3RERRak8yY1A0Y096RnhaSkxpZ0ZtUXJib2NKaVpHeURJTHhSQlF4Z043RGpxXy1KNFpuTmtSMzZ1SG9IeHQ1VGVaRnJpOUgySS1YcWVKYktHV3V0Z2JXaVJMa0RfVG9qbWRnMDIyWjF2eUdBem1VaTFHdWRWdEdyOXN0Z0c2QkNWSklBWlo1ZUx3SDIxQTV4RTd6T0w1UG9CMm5uemlDeUNPYWZ6dmlESTFScXhHMzUzdlhTSTY5MVlTRXJ4LXRtcndWUDV5TTY4OXJVZXhq0gHuAUFVX3lxTFBZZXFJdnp3Ty1YYVhCNUdwNjRuZndpSWxBTUFkWkpNa194SURKY1gyeWRQd2RkY0VHMjBlQkRmVXNrZXdaR0NEVWZ3Z1M1anVyRmU0eExiSkNFTEF0WUpvN20yb1RFQUVremNOdG84UjdzakJvZ2VRVFZCT2Q0VTN3X2NXTWxxWFZSNGl4M1h0eC1iVnpvYy1zRTV0MWpqczItOW52ajRfOU0xNV9odjVuZ3hMb05VUy12TGw2LUxzeUVSbkFVQnp3b0tRbDdNYWRaZDNhMzd2bjkyamF0NmRTN1BSYmZ5UjFoeHZqVHc?oc=5",
-          "description": "Dos camiones con precursor químico salieron de Fray Bentos rumbo a Bolivia y fueron incautados en Argentina con documentación falsa &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-29T16:15:00+00:00",
+          "title": "Interior instala dos nuevos tótem en Montevideo e incorpora drones que cubrirán el 40% de la capital",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMTNTWXRkYllpODE3TVR4d0dibkpjQVF3bVd2SXVDUThhUllVR096a2cwOUh2Rm5lNWcxRTlDbVMxU0RIdWJZRlJxZVdyeFF1SG41dm1pR3E5Zlp4WlVhWUo1WTFKRTVFWW9tYXJ4VTZ3R2VZeWE2ZFVRbEtvazVTVjh5elJjSHluMEE5ZHBYajBoT096RkNYRDRsVFFrLTBPaVJnd3ctS2JwXy1KVXVGaEw4UHlhYUk3Wk5HUWMtQ3RWaTRpUVlLQkNKY9IB0AFBVV95cUxNMXlkeFR6MEJhM1ZsTThqTGw3cXAybWM3RU92VVN6UkdmdTdWSldSdE9Mb3htMEpreTlDeEFxZ055MTAtVGR5aHdEVngzZVdGQUN4d3BpTDhHejZXa3NCUDFJTElCMlJTRi1WU3lGUjIxMmpvSUliZlc0TklpYXhndnBPYmluSnBVZXV4cXAxZ1c3SG1ibmd2SC1XUUVPWGJwOU1jOURwSEtXOGRNcGhtOHVlMW0zamV5aUVmZnk4UHhKS2V0UE9VNFFDUzlFTHdu?oc=5",
+          "description": "Interior instala dos nuevos tótem en Montevideo e incorpora drones que cubrirán el 40% de la capital &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-03-30T22:43:00+00:00",
           "score": 3,
-          "score_reason": "Agrega detalles específicos (Fray Bentos, Bolivia, documentación falsa).",
+          "score_reason": "Leve énfasis al destacar cantidad de tótem y cobertura porcentual de drones.",
           "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Dos camiones que transportaban precursor químico fueron detenidos en Argentina. Los vehículos partieron desde Fray Bentos, Uruguay, con destino declarado a Bolivia. La incautación se realizó porque portaban documentación falsa. Las autoridades argentinas secuestraron la carga en la frontera. El caso involucra potencial tráfico de insumos para producción de drogas ilícitas.",
+        "resumen": "El Ministerio del Interior ha instalado nuevos tótem de vigilancia en Montevideo como parte de su estrategia de seguridad. Montevideo Portal reporta la instalación de un tótem adicional sin especificar la zona exacta, mientras que Subrayado amplía la información al mencionar dos nuevos tótem e incorporación de drones que cubrirán el 40% de la capital. La medida forma parte de las políticas de monitoreo y prevención del delito.",
         "coincidencias": [
-          "Camiones transportaban químicos precursores desde territorio uruguayo",
-          "La incautación ocurrió en Argentina",
-          "Los vehículos tenían documentación irregular o falsa"
+          "Ambos confirman instalación de nuevos tótem por el Ministerio del Interior",
+          "Los dos mencionan que la medida se ejecuta en Montevideo",
+          "Ambos reportan como noticia de actualidad sin cuestionamiento crítico"
         ],
         "diferencias": [
-          "Subrayado especifica origen (Fray Bentos) y destino (Bolivia); Portal es más genérico",
-          "Subrayado enfatiza 'documentación falsa' como dato delictivo; Portal lo omite",
-          "Subrayado suma dos camiones en titular; Portal generaliza con 'camiones'"
+          "Subrayado proporciona datos cuantitativos (dos tótem, 40% cobertura), Montevideo Portal es más vago",
+          "Subrayado menciona incorporación de drones, Montevideo Portal omite esta información",
+          "Subrayado enfatiza mayor alcance territorial, Montevideo Portal se enfoca solo en ubicación"
         ]
       }
     },
     {
-      "id": "story_009",
-      "topic": "Conflicto entre Cardama y gobierno por patrulleras",
-      "category": "Economía",
+      "id": "story_012",
+      "topic": "Tiroteo contra motociclista en Montevideo",
+      "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Cardama reclama al gobierno que saque de su astillero lo ya construido de las patrulleras oceánicas",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVEpHeE53Q2FoaWg4Z3NCOUZ3MEJEQkNWWm1oNm4xM09DRThsenhsdExFNE55aERFME5BN0NjYXNza0YwWUl3X0Z2T1NEOElvZGFVLWdYaC1mdkFxX09yMnEzN1YyakEzUGZsZXBxSWMyNmltZVYtOHAzVW0wbHprVTYwNGpZYW9xdUZFVDNjQ3JSN3JSNE1ITjkxR2tjajdGaVpPSW5uY2lyemNZcEUxZFNxRjUwVVlyd1Y0NERpRDR3U1prYzliRS1UVdIB0AFBVV95cUxQc0dlNU10MVFnaTR1QWJNMFliTWljZVhkSWhpTlh6Zi1PRENkdXI0anFYZy0yMVFSdVhKNWVQMkRCdnlmVFhKZmNsYzFqalNQUFpURFVvbWRIVDZXa1EyUXhIcE92QVVhM3AzTmZXRWdrMGRub3FKM0FPYVA3b3gyOGdGSXdkZzV4Y2FXNFFmek1TSGdIT3pEZU11THdIUUJXXzF5Nlhabm5OdWFEbVVybEN3TFRWbl9oRHhoMGpmcWNuNGxGZ3drVjVKSEJqU0po?oc=5",
-          "description": "Cardama reclama al gobierno que saque de su astillero lo ya construido de las patrulleras oceánicas &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-28T23:55:00+00:00",
+          "source_url": "https://www.teledoce.com",
+          "title": "Atacaron a balazos a un joven de 23 años que circulaba en moto por el barrio Flor de Maroñas",
+          "url": "https://www.teledoce.com/telemundo/policiales/atacaron-a-balazos-a-un-joven-de-23-anos-que-circulaba-en-moto-por-el-barrio-flor-de-maronas/",
+          "description": "El joven se encuentra en estado grave y el caso está siendo investigado por la Policía. La entrada Atacaron a balazos a un joven de 23 años que circulaba en moto por el barrio Flor de Maroñas se publicó primero en Teledoce.com .",
+          "pub_date": "2026-03-31T09:59:53+00:00",
           "score": 2,
-          "score_reason": "Lenguaje neutro, verbo 'reclama' descriptivo, sin adjetivos valorativos.",
+          "score_reason": "Lenguaje informativo, datos objetivos sin carga emocional.",
           "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Un adolescente de 16 años iba en moto, y recibió un balazo en la espalda desde un auto",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRnl0c21Jb3M0TVVwSFhpa1Bmc3czeUdSZE1MME92ZTFZMkFOMmtvdHhoMVoyemg0bFBWRl9zVnNzNDN6dDRWQmg2NThVUVktZ2M1YWlUY3pFQzY2NWFJUXcwYmVwendLWXRZRTA3cC11ZEJjSUhCTU4zbHAwYmRLSGF4VDdtVE9vWm8xMHVVcWszbFA1a2EwazR3ZE01R3NOQW9zc3otVThRRzFfZVhSMHhXbVhXWGp1eXR2VXJQRXdFRWlwRGNOSm1RRTRRUdIB8gFBVV95cUxOTnpkWWpJNlo3UUJmeGpTTVR6S0YydThhSzlwbDh5anltMkFlTFh5QXBybnVuZnBMUXhhZXNmQjUyUTNRVUhsc2l5QS1aUkF6RzF4R0NyNy1kV0hWa2xyaURzbFpxYkVPMmJ1YTFMTnVWeFVJYllXRndxTUYzSG10VWl1Ry1SdC1neU4yVmdjT1dhWXhVZ0JyTW8yUlNWWl8zWWFsclE0dmtWTzFqRFBQakNIUnY3ZXpLRnJnb0JneWgxMTB0eHJMbFJ3dHdNVVNSOEwyeWN4RlN4Y1lWV3hBY245V2FtUlB4LUlrR05QNE5BQQ?oc=5",
+          "description": "Un adolescente de 16 años iba en moto, y recibió un balazo en la espalda desde un auto &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-03-30T15:26:00+00:00",
+          "score": 6,
+          "score_reason": "Énfasis en edad del adolescente, genera más alarma social.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Un joven fue atacado a balazos mientras circulaba en motocicleta por el barrio Flor de Maroñas. Los disparos provenían de un automóvil. La víctima se encuentra en estado grave y el caso está siendo investigado por la Policía. No hay información sobre detenidos ni móvil del ataque hasta el momento.",
+        "coincidencias": [
+          "Víctima circulaba en motocicleta",
+          "Fue atacada a balazos desde un automóvil",
+          "Ocurrió en Flor de Maroñas"
+        ],
+        "diferencias": [
+          "MP destaca la edad (16 años) para impacto emocional; Teledoce dice 23 años.",
+          "MP usa 'recibió un balazo' (singular); Teledoce 'atacaron a balazos' (plural).",
+          "Teledoce menciona investigación policial; MP no especifica."
+        ]
+      }
+    },
+    {
+      "id": "story_013",
+      "topic": "Evento político controvertido en Uruguay",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "larepublica",
+          "source_name": "La República",
+          "source_short": "LR",
+          "source_color": "#B71C1C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.larepublica.com.uy",
+          "title": "- larepublica.com.uy",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvM0JpdnBGSGQybTJMelpqak5rRXJhZXFhRnNzeUdyWWlWZXl5cUlkeHNVc1FfZ1oxcEwwNUlfT0J2OWFsc2poOC1Xd2NBSE8wa214azNuMHlWMUNnOXA5NlRqTlFZSDNnajh6anZ6WWVGaFc3?oc=5",
+          "description": "&nbsp;&nbsp; larepublica.com.uy",
+          "pub_date": "2026-03-30T10:37:40+00:00",
+          "score": 0,
+          "score_reason": "Titular ausente o vacío; imposible evaluar tendenciosidad.",
+          "score_pct": 0
         },
         {
           "source_id": "grupor",
@@ -401,26 +686,77 @@
           "source_color": "#6A1B9A",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.grupormultimedio.com",
-          "title": "Cardama responde con dureza al gobierno y exige que se lleven lo construído de una lancha patrullera",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUXZ6d3RtM2dOT3pnQWpScl80dHlXWGgwNHAwVDFxVnFyZ1c0MUtTZXVOUHF2bFlyZV9NcnJORWtsTTVxN3MwUDFEU3NXQWxndGdldmFVclYxQ28yYnJsQkVoVURPMW81VzhRdEVielpHdW1oN3lVRDEtejk5OUVOQ3lxcVNRb1JNMnpwVDlJT3Zndk8xdHhyeWhrdU9iaHliNW1jYlZVY3pxd0JIVkJQTG1ESUxBNTRzTUtWUGRuT2xTdmdXWkNGVUlLQzh2N3dOSFYyclVB?oc=5",
-          "description": "Cardama responde con dureza al gobierno y exige que se lleven lo construído de una lancha patrullera &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-03-29T04:20:29+00:00",
-          "score": 6,
-          "score_reason": "Carga emocional: 'responde con dureza', 'exige'; amplifica confrontación innecesariamente.",
-          "score_pct": 60
+          "title": "golpe estado",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oS1F4NXBfeVA1NEdDQ1pfQVNRcjh6ckI3M2dSeXI3VjlsRkF2aFpMalRXQjBsNU1fR0FDZ0gxMGxqOUhjbng4em1UYmpLclpQMjBMLTJhX0ttZw?oc=5",
+          "description": "golpe estado &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-03-30T23:46:32+00:00",
+          "score": 9,
+          "score_reason": "Término 'golpe estado' es lenguaje extremista, sensacionalista, sin matices.",
+          "score_pct": 90
         }
       ],
       "analysis": {
-        "resumen": "La empresa Cardama mantiene un conflicto con el gobierno respecto a patrulleras oceánicas en construcción en su astillero. Cardama reclama que el Estado retire lo ya construido de estas embarcaciones. El desacuerdo refleja tensiones entre la empresa y las autoridades sobre este proyecto de defensa naval.",
+        "resumen": "No es posible elaborar un resumen objetivo sin información clara sobre qué sucedió. Los titulares proporcionados son incompletos: uno carece de descripción y el otro menciona 'golpe estado' sin detalles. Se requiere contenido íntegro de las noticias para analizar adecuadamente los hechos, contexto y alcance del evento reportado.",
         "coincidencias": [
-          "Existe un conflicto entre Cardama y el gobierno sobre patrulleras oceánicas",
-          "Cardama solicita que retiren lo construido de su astillero",
-          "El desacuerdo involucra construcción naval incompleta"
+          "Ambos medios reportan sobre la misma noticia política",
+          "Los titulares indican un evento de significancia nacional",
+          "Falta información completa para establecer otros puntos de coincidencia"
         ],
         "diferencias": [
-          "Subrayado usa tono informativo; Grupo R enfatiza la 'dureza' de la respuesta",
-          "Subrayado dice 'reclama'; Grupo R dice 'responde con dureza y exige', dramatizando",
-          "Grupo R amplifica el conflicto mediante lenguaje confrontacional innecesario"
+          "La República presenta titular vacío/incompleto versus Grupo R con lenguaje alarmista",
+          "Un medio es neutro por ausencia de contenido; otro es altamente sensacionalista",
+          "Imposible comparar enfoques sin textos completos de ambas publicaciones"
+        ]
+      }
+    },
+    {
+      "id": "story_014",
+      "topic": "Programación cultural y deportiva para 2026",
+      "category": "Cultura",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "La temporada 2026 de la Comedia Nacional trae clásicos adaptados y autores contemporáneos",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd1k2WTVNYTJBZW53V0NVaFNYNjJoSEQzakNyVk1hLXVVWkJ4THBSNWZtT0Zqa1RoT2IyWnZlRHpZVDlQT2FBd2JHU0M1M2JaYnNMbndYVzZaZ3daRzloSm1TeDlTS3hqWkhMT2JVaWhSbEZ6SXFoWG95TnNsZzY2QklHUFFzSURxbGRtYURYanE0ZkRWWWplQUxweXJiRW1hMV9tcVhEcXBIT2g5dkxkaU01eDlRZXZ3a2YwZmVsRXdScDZwSEc0SEdfbzBzWXg1NlE?oc=5",
+          "description": "La temporada 2026 de la Comedia Nacional trae clásicos adaptados y autores contemporáneos &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-03-30T15:33:00+00:00",
+          "score": 1,
+          "score_reason": "Titular descriptivo, informativo y sin carga emocional aparente.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Mundial 2026",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PYUtiMFdYVFFFUmR5djFoT2VkbThtSXY4RkdUeVdncURlS3RQQjFfUUpYclp0bk91MTBXc2FNOEZZX2d6WXZKOE1KOUpZaWpaX2pldmFlbnBxdw?oc=5",
+          "description": "Mundial 2026 &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-03-30T23:46:33+00:00",
+          "score": 2,
+          "score_reason": "Titular muy breve, genérico, sin contexto ni adjetivos valorativos.",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Se difunden noticias sobre la programación para 2026 en Uruguay. Búsqueda destaca la temporada de la Comedia Nacional con clásicos adaptados y autores contemporáneos. Grupo R Multimedio hace referencia al Mundial 2026. Ambas noticias son relevantes para la agenda nacional pero se enfocan en áreas distintas: una en cultura teatral y otra en deportes internacionales.",
+        "coincidencias": [
+          "Ambos medios abordan eventos significativos programados para 2026.",
+          "Los titulares son directos sin lenguaje sensacionalista.",
+          "Se trata de información prospectiva sobre actividades relevantes."
+        ],
+        "diferencias": [
+          "Búsqueda enfatiza cultura teatral local; Grupo R enfatiza evento deportivo internacional.",
+          "Búsqueda detalla la propuesta artística; Grupo R usa solo la denominación del evento.",
+          "Uno se orienta a público interesado en artes; el otro a audiencia deportiva."
         ]
       }
     }
