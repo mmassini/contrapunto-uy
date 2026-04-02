@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-01T11:02:50.298101",
+  "generated_at": "2026-04-02T10:56:25.551023",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Uruguay prepara equipo para Mundial 2026",
-      "category": "Deportes",
-      "sources_count": 4,
+      "topic": "Trump y Irán: tensión escalada en negociaciones",
+      "category": "Internacional",
+      "sources_count": 6,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Trump afirmó que Irán pidió un alto al fuego, pero Irán lo negó de forma tajante",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaUM4d196bFJFd1FkM09Hdm9QdTN5cThBWkdqTmpGQXdmMmNOT0QxMWFUTGxYN1R4ZUthLXVLdDU4ZEZiSjNRR3RYMUFOMGNCbDN3TlFPOGMwRGxDOUExLW9RdFM1ejVkaEdrdU12OXN4U2JTMFdvVjJ0YW11TTZRWjdVOExFbmpaT2VRdjhkVDBzYURFUUZPNENNNEtqZEsxWklHSUZndmpLV3pFb1pFa3NWUzRGVlNXR1dQUzhOWFFhUW9vV1HSAeoBQVVfeXFMUG1oZmxIanFFZXIwa1lSU3hYSVFKQVB5TUg1SjdRb3NSOXhnVkc4aW9yM0dEQkVBMS1zMWE3bTdEUXNfYjlWRHMwVEM4djJYM0N2bGpEc2pTMDhZOUFyQm1sbDJYMFdVeW90dEhiNHQtaWlEUzFXZzRhYW9qYVlMRU02R1BJUjlpNlNDTy11cFc0M2RsMHE2MkRlZmFOc016aHRhMUJsN05MX1gxdXl3cW14N25DbWg5YnF0SGgwdkhqTzBocXhGcXFfOERlQTNIb2ZEUkxZMS1maU1RR2d5SVJlaU9QZG1YWWFB?oc=5",
+          "description": "Trump afirmó que Irán pidió un alto al fuego, pero Irán lo negó de forma tajante &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-01T18:58:00+00:00",
+          "score": 2,
+          "score_reason": "Presenta ambos lados: afirmación de Trump y negación de Irán equilibradamente.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "ladiaria",
+          "source_name": "La Diaria",
+          "source_short": "LD",
+          "source_color": "#1B5E20",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://ladiaria.com.uy",
+          "title": "Trump insistió con que la guerra en Irán está “llegando a su fin”",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRjN4WDlaanJLTVJxcjlCMXBKRG9ETjZoQlFpYnAycjRRZW1hREJiVHpvdE1sdTUyYnZjb01BQzNCaXBYMzVsRnZZbEI3aUk1TmlfeFFIa0tHTEIyLWpTV3MxNlV6Q084OHlia3dQY0p3RTN1X1VuSFJweXdnS0V3YlpILVU5eVJqVjNFVDJRbDFxVkdFNzlPMXkySXJKV2ZtbG1tQlRpTXhWUngyMVZj0gG_AUFVX3lxTE5NTENqaW5NVkFhaDdFQTdzcjh3aVQ3QXJ1eHNXVXNVQkdsSjZ4ejNIc0s1YjJkUkZyd0lyMmRodjJRdFpOQzhFRkViSG9BOGI1RUVNeUEtWVVyR2RvTGpQOXVjN1NzWlRHcFlHdDhQTkFQNnJkSUFTcFI0RXBLN2NieV93M2dyWWwwM2RqWmRhamN6cHZrTWRLSWpCcVd6bmY1eVlRZXljbkhadFllV3JWZFh2UkdoeV9tMVQteE13?oc=5",
+          "description": "Trump insistió con que la guerra en Irán está “llegando a su fin” &nbsp;&nbsp; ladiaria.com.uy",
+          "pub_date": "2026-04-01T00:35:57+00:00",
+          "score": 3,
+          "score_reason": "Leve énfasis en optimismo de Trump sin contexto de desmentida iraní.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Irán ratifica el cierre del Estrecho de Ormuz y descarta diálogo con EE. UU.",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGxTWUtfbko5VnpSV0pSanRLUHJQZm1UTzhkMFIyOHVZbS1Jc1R5Tm5EaUxkVjdpMVRZREJYOTdfUXNpUmhvQ1V6UTJwdDlBZVRhWmxRZldSOEJZZWN3bXkzOHBfU2hKRlB4MVV6UVVRa0c1a1BnRTRkMExjdFZTNGFpWDdtOV80V1lIMFI3RThvWDdKUnprNzVRZTg1Vm12aUFlQ1gydFFJeFVJbngwTnpqTQ?oc=5",
+          "description": "Irán ratifica el cierre del Estrecho de Ormuz y descarta diálogo con EE. UU. &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-04-01T15:38:37+00:00",
+          "score": 4,
+          "score_reason": "Informativo, relata posiciones de Irán con énfasis en firmeza política.",
+          "score_pct": 40
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Irán desmiente a Trump y niega haber pedido un alto el fuego en plena escalada",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZENVZ2ktNUlTdHpXZnNaMzJfSmdURjZGSDJQWkp0MGFtTVNhVjZWUk50LXN0dDNvLXhVRS1SdWF1VjFqa2JsZml6cTgwcHVDTXBGQ0VYd0ZwdzFhR01tRHRKY29sTFRBS29qRlFmQ092NEloWVhqOXJkcEk4bkZPTDBycnpqZkpjYmxrNnV1amd2OTFWVHdkUVExZUNVWnZCclFCR0tyQWxlc2tHMFNHSG5jR1dOYzJCNVA1V0hLUUpfUQ?oc=5",
+          "description": "Irán desmiente a Trump y niega haber pedido un alto el fuego en plena escalada &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-04-01T17:34:00+00:00",
+          "score": 5,
+          "score_reason": "Enfoque en desmentida iraní pero añade 'plena escalada' con carga dramática.",
+          "score_pct": 50
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Irán promete ataques \"devastadores\" contra Estados Unidos e Israel tras las amenazas de Trump",
+          "url": "https://www.teledoce.com/telemundo/internacionales/iran-promete-ataques-devastadores-contra-estados-unidos-e-israel-tras-las-amenazas-de-trump/",
+          "description": "\"Con la confianza en Dios Todopoderoso, esta guerra continuará hasta su humillación, deshonra, arrepentimiento permanente y seguro, y rendición\", aseguró el comando militar iraní Jatam Al Anbiya. La entrada Irán promete ataques &quot;devastadores&quot; contra Estados Unidos e Israel tras las amenazas de Trump se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-02T10:45:14+00:00",
+          "score": 6,
+          "score_reason": "Enfatiza promesas de ataques y lenguaje belicoso sin balance contextual.",
+          "score_pct": 60
+        },
+        {
+          "source_id": "lr21",
+          "source_name": "LR21",
+          "source_short": "LR21",
+          "source_color": "#827717",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.lr21.com.uy",
+          "title": "Trump evalúa sacar a Estados Unidos de la OTAN ante falta de apoyo en el conflicto con Irán",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOejl1YnR3aHl5Y3hJNE1ET2F1Y2tsMmhIRjVnYXh6QmlPWU5uMjJZeDNqQTRKdlRKVWFKdHZacUtuMGZQTWRMYTk4TzZDOExyOWpRYzV1S0llZWZmR1d6aV92VHRZMjE0bWJfRzdJeFZkenFhNUV0eWVZTmVaLXRZTE0xN1l4Rmo0WVp1cFE5WGtGSm1rTTIyRHhGbkRMLXZJWjN0bTRWNlRmbUg3V3ZPTTZWZlFpb2hTVkdHSmd1VlFEbW14cE92dw?oc=5",
+          "description": "Trump evalúa sacar a Estados Unidos de la OTAN ante falta de apoyo en el conflicto con Irán &nbsp;&nbsp; LaRed21",
+          "pub_date": "2026-04-02T00:28:47+00:00",
+          "score": 7,
+          "score_reason": "Destaca amenaza de salir de OTAN como noticia principal de forma alarmista.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Trump afirmó que Irán solicitó un alto al fuego en el conflicto, pero Irán lo desmentió tajantemente. El país persa respondió con promesas de ataques devastadores contra Estados Unidos e Israel, ratificó el cierre del Estrecho de Ormuz y descartó diálogo con Washington. Trump, por su parte, evaluaría sacar a Estados Unidos de la OTAN ante falta de apoyo en la disputa con Irán.",
+        "coincidencias": [
+          "Irán desmintió públicamente la afirmación de Trump sobre solicitud de alto al fuego",
+          "Existe escalada significativa en tensión entre Estados Unidos e Irán",
+          "Irán ha adoptado postura firme descartando negociaciones inmediatas con Washington"
+        ],
+        "diferencias": [
+          "Énfasis en optimismo trumpista (La Diaria) vs. énfasis en confrontación iraní (Teledoce)",
+          "Enfoque en consecuencias geopolíticas de OTAN (LR21) vs. control del Estrecho (Grupo R)",
+          "Tono equilibrado (Montevideo Portal) vs. alarmista sobre escalada militar (Búsqueda)"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Múltiples eventos culturales y deportivos en Uruguay",
+      "category": "Otro",
+      "sources_count": 6,
       "headlines": [
         {
           "source_id": "subrayado",
@@ -14,42 +125,57 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Uruguay empató sin goles con Argelia en el amistoso preparatorio para el Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeG04MGFnblYwU3BVTGpnZm94ZjBzbGFoTGpYVElpWndfZFc4OEhMcm9ZNzNBY2twb3BxRFYtV2poMkJLLWkzZmVrSmlHYy1tQUN6QVF3SWFJdXhqMFJVMVVqRklDNHBzOXdIRl9XMG9aT0wwYVdaQy1PWTBLSzhDLTlabHlzdzBha0tjWGFlTkxDWW9XUFdYaWFaTjV3UVJYZEhhbDNHeHB0blnSAbABQVVfeXFMTm96ZTUwWTdhRm5OSUpvZ2R6d1VWcmMtUjdfaVZkS2RBQ2hTOTlDZnBJRU5xdzlxdm1BbWV3OHZiUFR4Znl3MWZNcDI1SDJnY1RpZDZmaGVGQmdHS2NHT1J5ZHpheUNnYnFnVlVnSzZvcGNpRGN3WUZJOU9tUEZjM0FnRHh3X0lBN2dMMHMzcnpQNnZ5aDRzX0p6WXRuQVY1am1zZ0dLcmp1VTdTREJUMU4?oc=5",
-          "description": "Uruguay empató sin goles con Argelia en el amistoso preparatorio para el Mundial 2026 &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-31T12:20:00+00:00",
+          "title": "Festival Cinematográfico del Uruguay: un clásico de Semana de Turismo en su 44ª edición",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkc5UERLNzgwVWVPZHItTkdVZ2VORlJMM19BdkNudC1RMkNjVjVaNEZFei1OMVhkdkplNENYNzMzTm81S25IUVNiWnUySHA5cDVzaDRjcm9FZ3MwZGt1U05fSlBHNkZrZU13TVFicWpDTjcxXzZ0cnVuakRZZTdmVGdGSjBZTDJxb0t1b1FfWk5paHJWZERIamVkTHU2MFpaQTBfdXZxTEtmeFhlMXJlWHFNRHDSAboBQVVfeXFMT25pMjdoTlNiZHFBT1ZsbzFsN0dHdFVDNnE0bjAwNjRfWHdkdnBJMzR1dEpKNTdwb1Y1dDU3Tm1CcjVDX2NiVjRZZlA4bEF6UzdlNThqVmxoR3JGUjF0cUZEeFBpY3padTNhTUdFdENBcktLeE1nNGpac1NUV2JSS3ZVQ1oyaWhuMm9BVnFhaEoySFJPajUzVEw4TU9LaHBwY1NTMTJpN1dmb1dCckc4NjAyMGhkSk0zZS1B?oc=5",
+          "description": "Festival Cinematográfico del Uruguay: un clásico de Semana de Turismo en su 44ª edición &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-02T00:59:00+00:00",
           "score": 1,
-          "score_reason": "Completamente factual, reporta resultado deportivo sin interpretación.",
+          "score_reason": "Informativo directo, neutro y factual sobre festival.",
           "score_pct": 10
         },
         {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Un trabajo de tres años y un final cerrado: la lista de 26 futbolistas de Marcelo Bielsa para el Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc3liMGg5Ry1naXI3RVlZbWhlMWdKeFY4VUdoUl9mUHZYSzQ4bUt5YlR0T09RZXp5MjhqVzRPMVZPZ3czR3dxNGpSd21XMHlPTzF3WFNvVmNQYjhXa3E1U1pVLW5MTlhXSDBoeTFaTlRKaDVRNkpZMEpITHp6Y2xYbE8xY05VWjBRR3Bab3YxUEpDYXJaMVhpV2FKN3ZFRVUzdHRnaWUtLWZrTTNuSVRCeGl3RzhhWTg0SnN3VFJxODNYYlJpblJsT1lONUpFanlZWV8xdkcyOEVWM0nSAeABQVVfeXFMTkk1M3JRR1puT2lhN0RhV0xaQURzWTdoNm4wQ2ZJWnMwalExUTBrSndqVVZLa1FQR2RXLTQ1NnN0aVBOV0pfUW8yX1ZKYXdNN0k1cU5OR1hqRjZHSjBZVEo3eERCV1JJWlVEdkpLQllVSGZKUmViTVRIU3JTUXFNakpvTUJVZmZNY0hWdkJrX0puWGEtTm4zUzFLdzRTMDVQbVRoNVRNOExSS29FUnVJelRTWmE3TGZXS2NWOHNRc2hqbkdGakx0TGd0VXdRUU5xN3M0Vm5fNGM0UDRGNzlLekQ?oc=5",
-          "description": "Un trabajo de tres años y un final cerrado: la lista de 26 futbolistas de Marcelo Bielsa para el Mundial 2026 &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-03-30T23:19:00+00:00",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Historia de la mastozoología en Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQm5wNE1HZk1wYlJUWkJpRl95S3RuU1RxRUNDOThuYTg3N3laMjFjZElRSXE4LW5hZUhpZll1TjBIY2lMSmxMelRpYUNUZmZFclhRVTdLTUNlWVZURk9MUHdyTGd2NkpXWFBIWkZQVnByNmZUWTU1cTJiVTc5aUlwamduOGg?oc=5",
+          "description": "Historia de la mastozoología en Uruguay &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-04-02T04:35:40+00:00",
+          "score": 1,
+          "score_reason": "Titular académico, puramente informativo y neutral.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Comenzó el Festival Cinematográfico Internacional del Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVzBIUTZoWlhHWXUwYWE2YUJ0bDJtQlRMejl5N09mTGY0YldDZnlxcHBOTlgxWlVmSHI1OEE4SWt5OUFMTjlxT0pITndiUlMyeTVvdjhNcDhJYnNHUzdzQ2JUN21hRmJ5Q2xzZk5tQVpwdnRELTRVaDU4dE1CS2hpQ0JINGtLSWVyOGFuSzhDY0JiaDJNWTlDWGZFaGQzMlA3WW5jcnp2bXp1eG_SAbABQVVfeXFMUHJBNW5HS3dlTmNlMnpkR2ZjSWFiZmJZU0V0WkxDSlloQ2NZMFdaVUc1ejNZVlhHa2xtdmVrSDFyMDJmcjAybFAzZWRPeEpvai04amc4am80a0g0VUxPN2NWMHJmT2xoSFdFazZzYVRodUd6UHlObjdKeUsxaHJxdE1idFJMZ2hNS3hlcWprRmRjWmlidDZRc3drVDNuU3ZWalhPSGZISmUwUm1YLXVUNEo?oc=5",
+          "description": "Comenzó el Festival Cinematográfico Internacional del Uruguay &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-04-01T17:33:00+00:00",
           "score": 2,
-          "score_reason": "Informativo, destaca proceso y resultado final sin carga emocional.",
+          "score_reason": "Titular objetivo y descriptivo, sin énfasis particular.",
           "score_pct": 20
         },
         {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "¿Cuáles son las posibilidades de Uruguay en el Mundial?: qué respondió Bielsa",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWRfVTk0d09UZThVXzQ3WHRpRnRwd0NmNlNRMThXZVlEUnQxTThXeEN0M2JTNkY4bU1mVkFabW5pSmlhcFVaNmFfWnNlNHdjLVgyTTlJaUZMSlBXOU5HWDRoQlQ1OWZ1U0Vqb3FOaUxma2ZDTGc4a09ydjZkanFkRFQ4aGlERGZzNldaZHFmZGlRVS1rcnBNcmxzTXVwcGJKMXZjeXhJVGROLWdfanJfUG9sRlpJNEJOSFdGNmh0d05Wd9IB5gFBVV95cUxQdmRxSVdQeHJERGlSX2xJMjFSRDhLa1ZEejJJeVRFQ0J1aUFpWUZ4NzJnSzJRSzN1djF2RWRaNWxJdGFPajlWdzlqb3JjalBTeVBuVEdBQnhwWmYwUFlmWEhyMzZGcmtEcnBJUl9ta2Q0OWd3T0ZmTElpdUZIMjhwU3JOcFpMTVhIdUFrN0dWNlYtLWlfUkcyUDFId3Q0MGdBNTNyYTdBV0xUS29JM0Fka1FKamFzdEFHV05GNFBIcVR5V3p3Nl9VWDJTUy1YOXp0Vkx0Q1g5NWJwRDJUQUl2SzJpWTBGQQ?oc=5",
-          "description": "¿Cuáles son las posibilidades de Uruguay en el Mundial?: qué respondió Bielsa &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-31T21:34:00+00:00",
+          "source_id": "180",
+          "source_name": "180.com.uy",
+          "source_short": "180",
+          "source_color": "#F57F17",
+          "source_text_color": "#000000",
+          "source_url": "https://www.180.com.uy",
+          "title": "DIVINO lanza el primer Catálogo 3D en Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnE3WHJlX2gwRkhBQXk2OVAxdGdseDczVTBRTVJ6VnBMM2JtR1l4cEFtV3hUQjJjeEVLMFItbUcyb3FhenRWRnE1QVoxTE5PR3l1LVNCUGFyT2VxRFVNd1EyQ1JCN3c4NV9PeF94R09ES1VyU1RUbzU1eUFSZ19wUnZJbEJ4RFNOVFdR?oc=5",
+          "description": "DIVINO lanza el primer Catálogo 3D en Uruguay &nbsp;&nbsp; 180.com.uy",
+          "pub_date": "2026-04-01T13:54:32+00:00",
           "score": 3,
-          "score_reason": "Pregunta sobre posibilidades genera expectativa, leve énfasis optimista.",
+          "score_reason": "Mayúsculas en marca generan énfasis innecesario.",
           "score_pct": 30
         },
         {
@@ -59,34 +185,196 @@
           "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.espectador.com",
-          "title": "Álvaro “Tata” González: “ya se siente el clima mundialista” | La Mañana del Fútbol | Entrevista",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdE9GMVVQR3NYSlIzV1BoQWpTRnpiT3JlVVBOWVpwQXE0czBMaXZLaGFVN2ZIWEhzbC1uOC1CT0dmWnI0RnpTXzdsLVMtS2J4eVhCc2xqcnBJRVRuUFNocFE3dUV0eEdCd2syMXNYS0NvdUI5Q0piZjQ5cjk5Sms3LUpNbEJrbTdlOUdFUkZuR0tJWXFuNkVYaHUzTzV1UQ?oc=5",
-          "description": "Álvaro “Tata” González: “ya se siente el clima mundialista” | La Mañana del Fútbol | Entrevista &nbsp;&nbsp; espectador.com",
-          "pub_date": "2026-03-31T13:08:51+00:00",
-          "score": 4,
-          "score_reason": "Cita emotiva sobre clima mundialista, leve sesgo emotivo positivo.",
-          "score_pct": 40
+          "title": "Alejandro Villoldo: “acá en Central tenemos gente con hambre“ | Vamos que Vamos | Entrevistas",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWdrWjR3aHpnb0docHllRnlhNDk0WGEyRV91dmNGTzNCb1ZGdXBqYVl3LTJ0MFpTZFZURzFGSFB3S1J6Rk9oMDFrU3BETlNTeDM3a0JYSEI4eXhlTHRoR0hObzJETF9kcXBzNllqT1Fxc2RzM0tqa3V0OGlsNXNBM1Aya3V4NGZJeUtJempPR3FfQ0l5UEpZOEFtUFNud1VKZ1dRSkhlUGw5VVE?oc=5",
+          "description": "Alejandro Villoldo: “acá en Central tenemos gente con hambre“ | Vamos que Vamos | Entrevistas &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-04-02T01:20:17+00:00",
+          "score": 5,
+          "score_reason": "Frase entre comillas genera dramatismo sobre hambre.",
+          "score_pct": 50
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "De “la ñata sangrando” de Cáceres a “cambiamos la imagen”: voces de Uruguay tras amistosos",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcnF1SnNnaGJHSnU1d051MlJOQ0ZxUS1oMFVyMlNESkItVFNiVk5WWmZ5eVBBU1N1cTAtbFFQZWJTVGNRQkN6R3hqVE5RRml0RUU5UHpkUGRHcXlpTHVqdTZDYjhQWVEybEhJUXl5LWhTeVl2d2RPQU5jZG91TC1oclk2UHVvWVRTcmthSTZSdkQxUWFmcmV5YnRNRFduVFdoaFJMT2lnY0xCXzZ2Mk5PYWdPdFh0bkVaZ1hERVlOQUlyX3h5cktDcVVfa180UU3SAfMBQVVfeXFMTU8tcjFsOElWMkJrT1JWMVg3RFVjd0pXRmJHZExOcVhxVmhHVzVfZXpNUGxENFloQWlzeFV5aENtcERIdkQ1eUFmWlhSc2gxNFJ2eTRDR0xMRlgwSUVnNU54UWhIYjFmbFlRcTJBRnVoSURaeUFrSk9aUVhIREZncEkwS3pZS053YjFpY00yc1ZhWkVCWXpDZ256V2UzeWxXR1BJYWJkU0phU25pclM1R3B2ZThhZkJHcWt1LWl2czV6bTcyeFpGb3NrakRGRnlLR1NrMGNBeUFjNTZmZmFrOU82RjAtOTl2NlJnY0R6am5PVkpB?oc=5",
+          "description": "De “la ñata sangrando” de Cáceres a “cambiamos la imagen”: voces de Uruguay tras amistosos &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-01T11:10:00+00:00",
+          "score": 6,
+          "score_reason": "Usa expresión coloquial dramática para titular sobre fútbol.",
+          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Marcelo Bielsa confirmó la lista de 26 futbolistas para el Mundial 2026 tras tres años de trabajo. Uruguay disputó un amistoso preparatorio contra Argelia que terminó sin goles. Bielsa se refirió a las posibilidades del equipo en la competencia. El ambiente en el país ya respira clima mundialista según dirigentes del fútbol local.",
+        "resumen": "Los medios uruguayos cubrieron distintos eventos durante un período: amistosos de la selección nacional de fútbol con comentarios sobre desempeño, la 44ª edición del Festival Cinematográfico Internacional del Uruguay como parte de la Semana de Turismo, el lanzamiento de un catálogo 3D por parte de la empresa DIVINO, una entrevista al futbolista Alejandro Villoldo sobre Central, e información sobre la historia de la mastozoología. Se trata de coberturas de actividades culturales, deportivas y empresariales sin conexión aparente.",
         "coincidencias": [
-          "Marcelo Bielsa es el referente principal de la selección.",
-          "Uruguay está en proceso de preparación para Mundial 2026.",
-          "Existe expectativa y entusiasmo sobre la participación uruguaya."
+          "Todos cubren eventos reales y verificables en Uruguay",
+          "Ningún medio tergiversa hechos básicos de los eventos",
+          "Los titulares mantienen relación con contenidos descritos"
         ],
         "diferencias": [
-          "El Observador enfatiza el proceso de tres años versus otros enfoques puntuales.",
-          "Subrayado reporta solo el resultado del partido; otros medios amplían contexto.",
-          "El Espectador destaca aspecto emocional y clima social, mientras otros son informativos."
+          "Algunos priorizan lo deportivo mientras otros lo cultural",
+          "Nivel de dramatismo varía: desde neutral hasta coloquial",
+          "Temas completamente desconectados entre sí en la cobertura"
         ]
       }
     },
     {
-      "id": "story_002",
-      "topic": "Uruguay se prepara para enfrentar a Argelia",
-      "category": "Deportes",
+      "id": "story_003",
+      "topic": "NASA lanzó exitosamente misión Artemis II",
+      "category": "Internacional",
       "sources_count": 4,
+      "headlines": [
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Artemis II: la NASA vuelve a llevar astronautas a la órbita de la Luna tras más de 50 años",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUG9NRHpFQlNWUFlHSU5IZFZlUUZ5a2JGSnlQWlFaMWZnTHpwWWpfRzRkLW5HVjBCa0NRWlVlTjFSb3pWZ04zeHlQeVpxMEgxdXNMMVpmUnk3Wi11WEJFMHBkb0tEN1k4aE04MGVDUXZsTUpFRWNLanlTd1g2aXBRQlI2dHBQYjVyN0xORlVDVmItcFZLdlJuS1NWVnJxV1FEUHpYbjlISlM?oc=5",
+          "description": "Artemis II: la NASA vuelve a llevar astronautas a la órbita de la Luna tras más de 50 años &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-04-01T23:05:00+00:00",
+          "score": 1,
+          "score_reason": "Neutral y factual, contexto histórico sin carga emocional.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Video: así fue el despegue del Artemis II, la misión que vuelve a llevar humanos alrededor de la Luna",
+          "url": "https://www.teledoce.com/telemundo/ciencia-y-tecnologia/video-asi-fue-el-despegue-del-artemis-ii-la-mision-que-vuelve-a-llevar-humanos-alrededor-de-la-luna/",
+          "description": "El lanzamiento se realizó desde el Centro Espacial Kennedy, en Florida, alrededor de las 19:35 horas, en medio de un potente rugido que se escuchó a kilómetros de distancia. La entrada Video: así fue el despegue del Artemis II, la misión que vuelve a llevar humanos alrededor de la Luna se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-01T22:59:16+00:00",
+          "score": 2,
+          "score_reason": "Informativo directo, describe hecho con detalles objetivos.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Todo listo para lanzamiento de Artemis II: dónde verlo, a qué hora y la sorpresa uruguaya",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNU05b3BzOExkMGpFek54d2pGc3RVc0hoVjlVSWhITnhJVU0tdGpTLU1tbGc4UlZrR3FVeGY0WF9rQnFYY0d5Wm1UVWp2NUwxU0NEbk5URXpoXzh1MUJIMUlLVjUxZktKbjJEUHpIQms4d3FaR2ttUmpjT0Rpdm1WS1p6YTVwazdnZXRrQ1kydjdNdVB4OGlDUVBQOU1ENFR0a1p5RlBCTmQ2VS1JUG9kSzhOZkE5WXdFWlN0a3lYUGFwSWRFczMzQTBZajR3X1ZRd2toM2dYclJSU2xNdDNyWNIBhAJBVV95cUxNOTlpVmc3V1dUX0RsZExxQjdqNWdWY0VBbldSQWFlX25Pb0hwYkpKN2ZYajJhaXZfbVFlT3EwVzV3Ml9uX3FzODI5LVhzNzRXdk5jd3ZvVFhESVdROE84SW5iV00wQUJDbFRGd1BqTld3QkdFamxROFhVbXpyVlQ2Wl9yMl8zbFdVbTc1aXgtdS04bXUzNnRZckZSXzByNjFRYk92Y21xOVU2dVpfTkRocGpVWl9Cak5Jd2ZHdzk5eFhIaXNjaHM0RU5HZk1KRFNOTjNaWDk3SlMwOXZMOU9MNmthd1J4WVJBaWt0UllleEZZMHFjeXRFUUdvS0I4T3J0UzlHVg?oc=5",
+          "description": "Todo listo para lanzamiento de Artemis II: dónde verlo, a qué hora y la sorpresa uruguaya &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-01T13:09:00+00:00",
+          "score": 4,
+          "score_reason": "Enfatiza aspecto local con 'sorpresa uruguaya', tono promocional.",
+          "score_pct": 40
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "La experiencia del uruguayo invitado por la NASA para presenciar el lanzamiento de Artemis II: \"Un sueño y una emoción\"",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOE5BN3RoRVRoTUtWM3FNOGJQYVZTbFBJQkxiTVFGemFSMTZyLThoeDEwNFNzZjU5MlM4S2xUOVBWamQ4NGZqMEx6NEFaNHdYZnhqT3RteDRvZTQ3VDY4Rzh5YXBpcWFmM3FKUWg5R1JjbWJEbWRVNG9SV1I2RkpCUXhDS1JIcWo0V21EQ1o5bzRnV3NBbng4c1F1MlRQRFQtQUU0NldFYTAwYmlNaVB1c3V3SGpBblJjNGhjX2N6dDdmWkZTUUtMMFVVSFdXd1ZlcHpwNEx2LWl0d9IB3wFBVV95cUxPWFVzeXYtVk85TFV3WkJ0c0hCX3JGVnpQdldCSERVRTNJamNHTWYwelpmMFFtamZSN1pJYmU2c2tEY2VlZU5JV1ZSM0NEdjZRR3lWMlhlbndtV0s1Y01xeU1Xa3R6bjRKRzlfWG9FTmIwbWJueC1fMGpTMWFFRHp2c21SV05ESVROdGFXMlgzN2UyOVRwamZnaXpjd3lMLU9YX3RoZTFEWDZPbEZrbHNZWlhhWVhqeDROTllVa3JoX2pGbS1PMi1jUElJdkREMnIxbGcwYmFVUUZiOU5rLTFv?oc=5",
+          "description": "La experiencia del uruguayo invitado por la NASA para presenciar el lanzamiento de Artemis II: \"Un sueño y una emoción\" &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-01T23:33:00+00:00",
+          "score": 5,
+          "score_reason": "Focaliza testimonio emocional del uruguayo, menos noticia espacial.",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "La NASA ejecutó el lanzamiento de la misión Artemis II desde el Centro Espacial Kennedy en Florida. La nave despegó alrededor de las 19:35 horas con cuatro astronautas rumbo a la órbita lunar, marcando el regreso de humanos a ese trayecto tras más de 50 años. Un ciudadano uruguayo fue invitado por la agencia espacial estadounidense para presenciar el evento.",
+        "coincidencias": [
+          "El lanzamiento de Artemis II se realizó exitosamente desde Kennedy.",
+          "Participó un ciudadano uruguayo invitado por la NASA.",
+          "Viaje llevará astronautas alrededor de la Luna tras 50+ años."
+        ],
+        "diferencias": [
+          "Montevideo Portal y Subrayado destacan ángulo local, otros enfatizan misión espacial.",
+          "Subrayado prioriza experiencia emocional del uruguayo vs datos del lanzamiento.",
+          "Búsqueda contextualiza históricamente, Portal y Subrayado usan lenguaje promocional."
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Uruguay enfrenta desafíos previo al Mundial 2026",
+      "category": "Deportes",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Así quedó el ranking FIFA en la antesala del Mundial: Uruguay sigue entre los 20 mejores",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcWhJaThoQW1TU0p4UFllQU1pRFV5bVhtNzNQZS1HX2NqWUZrRnVxV1V3OGxsazhCUk84WjdyM1NOT3dxUjA3MW45M2Fua0FRQUpVS24teFNjZTdpc0E5UGpTaEM5UUtNRUJGc1BHUXdoc01LZWx1ZzJtSi1TU1ZGdXJ5ZmRtUU4ybTlmSFFwQTlON0dLc2Ruemlzd0tWRS1KOFYwTTlOeEd5Tmk1MGtUcXJGMlVOU0HSAbwBQVVfeXFMTnhUMGVoTTVDcU5WVlEyMzdQdmVXQjJ4bXVIcW53d1BXU1EyVEtuTF9LS3hweGpUNm9nVEthOXF6SWhReHhwd0Zkb0xHT3hRMkFzVVB5X1J1Qi02REhWMmFIejBaeUQzSlFHUzFpSkYtWmN2MXM2Z1Y0WVhtY29QY3k4Sm9LalFoanUtOWp6OEhOeF9ZTUhfNElQQm40TnVaZ0FiQjhlX2lQNm1ENHR2dndEQ2VhblBFaEdmQ2s?oc=5",
+          "description": "Así quedó el ranking FIFA en la antesala del Mundial: Uruguay sigue entre los 20 mejores &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-01T17:34:00+00:00",
+          "score": 2,
+          "score_reason": "Neutral y equilibrado; destaca logro positivo sin sensacionalismo.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Uruguay de Bielsa se apagó tras Copa América: menos puntos y alarmante sequía goleadora",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObC0zanYySU5Qd0tWTmxMbUdobldoU1l2WG82cl9URWhnMWhzeXc0dkVkMTdFQzNhTVdJYjFPeHBCcGxvMlZ2V2tKTGdScXltdXUyWGxsV0RZU1BJUnlHM1Rxc1JHR2RkbVp5eDdJay1mVkNpRzVGbWNLQldIOVFkLTdBLXdzN0I2UlFvMjd1QjdlSDdTdklNZEtTcGJndE9vUEhJSGQxNE5lQjBScjFKaXFQbjZ3VDVQYmFYRkNKWkkyaXBaT1RGaVgxWml6WHPSAfMBQVVfeXFMT1J4T1dYYWt1WHdwNUhud1Qtekd4T1hhRVBWMUNZaGcyVE82SXNydWFRNjZDejE2bmEtWi1JeUIyYVdJWUd3OW1JMlVvOElFU3ZDQzNCeXViY0JDbTE4eEJqdHdFZ2NYdDk3a0plQVpxTnVPOGhOUzB5VzVpS0lkMnhhazVQTlIteC0zUFh4akMzMldGVXl5eWo5Mjl1azJxX2lwc2MwQ01GanZxdnY0cnlXOHk5U0lXanNxMWo5Wk53OEZZQmo2d0tER1h0aVREWWFLUjNRWEFiTm1xbF9Wbm11ZDRXQUpEUXQ5RkQ3elNvdldn?oc=5",
+          "description": "Uruguay de Bielsa se apagó tras Copa América: menos puntos y alarmante sequía goleadora &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-02T00:35:00+00:00",
+          "score": 6,
+          "score_reason": "Usa 'se apagó' y 'alarmante'; moderadamente dramatizado pero informativo.",
+          "score_pct": 60
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "La crisis de Darwin Núñez, el tobogán sin fin y la búsqueda de una solución milagrosa de Marcelo Bielsa para el goleador de Uruguay, a 72 días del Mundial 2026",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOU05Obm9wdW8xMjBHSTktSmFySHZDS01JSGNpV3FVVy01WXQwMk9laWlRVHRRdTQ0UEFkUWlRN2pvQVRJSUdZQlFTa1M5cVVkbzJ2R2Z1RWhOZ2pfR1F6bnp4S19EanFVVFA1dDByREZHZHBWYkJyXzBpRkZsU1NCVDhjX1V2Q0x6T2puZXZnWWtDR2VoQ1VVRDRNeEd1MDV3VVJlYm9kNjQtRVY2amZ1LWNWTU02YkRPLXhJMlAtNkZ2UEJ3cFl1N0Z2QnNETlBlNExTcjdzbE5xOTR2cGQ3MFhOU3ZsNG1wajJoNElPNXc5MmVybEM0MTdVYTBKMGpBQVo0YWhoWDhaZU01bXNkT0pUUdIBmAJBVV95cUxQakM0UUJxN0hRTERPbW1sSW0zSTJ1NElwZ3gtRXJZOWJxYmlZLWt4RHFYYWVIcFUzUGpKSFJzajI4MDNsLUtzbFJ6SzlyaExoNUVYZ05ZaE9mb01SeGw2V3BJQnAyRkNaYy14ZjVsSXJNUWpmbE83TXdKSzlnVlRESW5yVHNCeC12WkdoZ0FMVlRqaWg0aDRLcEZRNC00aUVwa3k1Vk9nUmFtNlZfbHBNeVNNWU02d3A3M1VoUUktWFFhc29QTzJ0ckw3MkNzRl81dXR3VjhCWnNSTHg0VkdXX0hzSmZ2WmYtN0lrQW5pdm80QkdCc203eDk5bVFFVmY3cHdIRnU4OUVsT1gxc2MwSndwemE5bV9t?oc=5",
+          "description": "La crisis de Darwin Núñez, el tobogán sin fin y la búsqueda de una solución milagrosa de Marcelo Bielsa para el goleador de Uruguay, a 72 días del Mundial 2026 &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-03-31T23:13:00+00:00",
+          "score": 7,
+          "score_reason": "Lenguaje alarmista con 'crisis', 'tobogán sin fin' y 'milagrosa'.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "La selección uruguaya atraviesa un período difícil tras la Copa América. El equipo de Bielsa registra menos puntos en las últimas fechas y enfrenta una sequía goleadora preocupante, con Darwin Núñez en particular pasando por un momento de bajo rendimiento. Sin embargo, Uruguay mantiene una posición respetable en el ranking FIFA, ubicándose entre los 20 mejores equipos mundiales a poco más de dos meses del Mundial 2026.",
+        "coincidencias": [
+          "Uruguay experimenta una baja en rendimiento post Copa América",
+          "Existe una sequía goleadora que preocupa al equipo",
+          "Faltan aproximadamente 72 días para el Mundial 2026"
+        ],
+        "diferencias": [
+          "El Observador y Montevideo Portal enfatizan la crisis; Subrayado destaca la permanencia en top 20 FIFA",
+          "El Observador individualiza el problema en Núñez; otros hablan de sequía colectiva",
+          "Subrayado adopta ángulo optimista mientras otros adoptan tono alarmista"
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Declaraciones de Valverde y arbitraje en Peñarol",
+      "category": "Deportes",
+      "sources_count": 3,
       "headlines": [
         {
           "source_id": "montevideoportal",
@@ -95,27 +383,297 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Con Sergio Rochet de titular: el once que perfila Uruguay ante Argelia este martes",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdnR4SVNZaHJlS0J4cHozU1NoMnpKOGJXZndrYnlFd3RzZGhTWjNvZzVwY3JfX2c5N2Jpa2RNWGRmNW1iZDk5Y0FMVzVLMmJqcjNySHo1d0lXbloxcU1KR3JpdWtJYjNzRHZuUFZHbDFwaGNvQUN2enllNUxmVGxUZE1xRjc4Z1NLZ2QyVWI3LXRzcHI0TDRaTlRETnR5UGtuUFRIRjhCbWVFeUpVMFRDWnFVaDUwN09MQjQ5STBjZjRTUVVubTMwStIB7AFBVV95cUxPYmlodVJEbGxQMEJJWHc4MzNGZER0cmJYR3lhWlZRRE0wSWtGN19pdHRacXgyYUpKWmFrZEZ5UmNfVUdLVjZ0dy1rSExDNnJ0ZW02bE1sdmZleGpROXdWR0Q5WWx6N19tRVlsTlFqUXFUa3h1MlBlYm1RTWZJMDdCZUJGTHEtZlV6Mng3dlNpcEZpQlN6QmZnQ2RYWmpjbDVfZ0gzRTV6MmE2cFNEQUQtNFZqVDVuUTZrTjB0LU5aaklTMHdvRDJQNzB4WlA3SGo5amFlVi1pbHNZRmRwZjhvRUhERndyRWl4Y1dKSg?oc=5",
-          "description": "Con Sergio Rochet de titular: el once que perfila Uruguay ante Argelia este martes &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-31T02:12:00+00:00",
+          "title": "“Amo Peñarol, volvería gratis”: Federico Valverde recordó su carrera y definió a Bielsa",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUXNXN1paVTA4T1pXQlFkektLeE12Q1AtVHBjNTVXa3ZwMVJDUTV2X0U3U3h5THpBcWJwTHNTYWJKWm1Qano2cTBfVTRYMFg0RExkTkEtcS1jeUJRUDNLaDlRTzJXZVpsLU1kbURfeXlwQkVvd3NMRFdLM1dBS2dYMGE0SlhmaEpsdWV3Rkk1TXJWaGtPV2owSENwYlNSTTFwS2tuSGpxREtteC1jdUstYjJzU1lvcjJkMDB4emN5SGs0ejk3WkkzNXh0aDZIUdIB8gFBVV95cUxNUEJTSlF4dmFKMHhiWXZMX1c3NnRfTnRBNDN2S2V3TTdzcmV5ajQyWnNjZDZ1ZVN3WkJzd1MxclJOSnV5MFpJNWJtMnZ0WC1Ia1VpVENuWkV5bktZc2NhbTdLYUpXdGlLZjdkcWJJX2xnVXF3N2h2YTRXOUFWdW96RDhWMmNOQjM3bGQxYU9zX0JHTlpzSU80Q1VFa09rNXRZUW1BVDJQbWJMRVFtQVlNbVhVSkp1TVBScGpocGVEanFqS2pEQnRwNkVtYnFJaXlHOGVRMHk3cHlvTXpFbWlHaWJoNWxickNSZHVtQ0tfQkNlZw?oc=5",
+          "description": "“Amo Peñarol, volvería gratis”: Federico Valverde recordó su carrera y definió a Bielsa &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-01T22:16:00+00:00",
+          "score": 3,
+          "score_reason": "Titular informativo con leve énfasis emocional en declaración del jugador.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Marcelo de León: “no había consideraciones para cobrar penal a favor de Peñarol” | La Mañana del Fútbol | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXVUclJGVWE0a3NPbDBCWXh3Q0RLTjlheHVyS2NoZW9yUkJQUmtHYnpTUGNFT2pZSzdhWndJTkdZc3ViQmZsM3NoLXRPVHloa29wYk1Wb1A4eVdWeng4akNzaElMdEFEVG95bU1nR016VXp3YWFEQzBNbmhEYTZleG9FSVB1aWZfX2ZNYTJ5ZkJ0U01mRmdNR01JR3BoQzRMajNKSlBlNl94djdYeDVvQ3oxYTIwU1B1WXBYRw?oc=5",
+          "description": "Marcelo de León: “no había consideraciones para cobrar penal a favor de Peñarol” | La Mañana del Fútbol | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-04-01T13:26:17+00:00",
+          "score": 4,
+          "score_reason": "Formato de entrevista neutral, pero enfatiza la defensa del árbitro sobre penales.",
+          "score_pct": 40
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Enrique Floreal Delbracio Parma",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5SFRaYmY1dXdZZEZBX1hyRkY3c3J4bzFCS25HeE51M3NHUnBWZlVTZk12UWtaUEZZYUpHMmxOdEd4bzdhVTFEYktiUkhkNEN4d2N2Z2hHNWppQnhaM1lhQTZIUUxkbFl2RzN5TlkwcmFmTG5mOHA1dHJB?oc=5",
+          "description": "Enrique Floreal Delbracio Parma &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-04-01T03:10:21+00:00",
+          "score": 8,
+          "score_reason": "Titular incompleto y confuso, sin contexto claro; potencialmente manipulador.",
+          "score_pct": 80
+        }
+      ],
+      "analysis": {
+        "resumen": "Federico Valverde expresó su amor por Peñarol y comentó sobre su carrera en una entrevista. Por otro lado, el árbitro Marcelo de León se refirió a decisiones arbitrales en un partido, negando que hubiera consideraciones especiales para cobrar penales a favor de Peñarol. Se menciona también a Enrique Floreal Delbracio Parma, aunque los detalles específicos no están claros en los titulares disponibles.",
+        "coincidencias": [
+          "Cobertura de declaraciones relacionadas con Peñarol",
+          "Participación de figuras públicas del fútbol uruguayo",
+          "Temas vinculados a arbitraje o decisiones deportivas"
+        ],
+        "diferencias": [
+          "Montevideo Portal destaca declaraciones personales de Valverde; El Espectador enfoca en aclaraciones arbitrales",
+          "Tonalidad: Valverde es positivo/nostálgico, mientras de León es defensivo/aclaratorio",
+          "Grupo R Multimedio presenta información fragmentada sin contexto definido"
+        ]
+      }
+    },
+    {
+      "id": "story_006",
+      "topic": "NASA lanza exitosamente misión Artemis II hacia la Luna",
+      "category": "Internacional",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Artemis II de la NASA: así fue el despegue hacia la Luna",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMnB6ZjQxQVdKWEJaWC11UDFPVXlvemxubFN4c2FjWDF3dk5aUW90Q0xjTWxDREJMVmNNbzNyRmV5eGFGOGVxc2cxVjAzcTNtMFRpaVF3Zmx0QjM1VFMwbHNIWE5jdTYta0xYbEoxRkpDeS1heXcya3RlVmVOYWczRGNFNG5zZ1draEFaYjM3a2ExU2dyVlpZN2ViY2FjVzZRSnRlWDZOTldXN1pkWnpWVk01UGbSAdoBQVVfeXFMUG9zY1N5UEpWOFRRTlp5NzdXWmZmU2Y2WWhTd1g3X1lNOXItYXhrM09WWXRLSTBYU3AwNnJTNE1JQ1VXYjFJSVRSUHVFR3Vwb2dmdXBZTkhwSE5kbUUybHhjUWNseWdfTlhLUmdFbHY0LUE2cFJHR0hhanJSZU5aenVSUmxVdDhpQTVnM0YyUWlpcnhabFhCTDFWTUx6cXItRWhXM3VRMlU4V0dDcl92QW9PaE9tYU0zNUFuWHVDWkRRSXZnT3czT2RnT0ZJUGpGbzR1SW9nWmdHdFE?oc=5",
+          "description": "Artemis II de la NASA: así fue el despegue hacia la Luna &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-01T22:14:00+00:00",
           "score": 1,
-          "score_reason": "Información factual sobre alineación sin carga emocional.",
+          "score_reason": "Lenguaje neutral, descriptivo, sin carga emocional ni interpretaciones.",
           "score_pct": 10
         },
         {
-          "source_id": "ladiaria",
-          "source_name": "La Diaria",
-          "source_short": "LD",
-          "source_color": "#1B5E20",
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://ladiaria.com.uy",
-          "title": "Conferencia de prensa de Marcelo Bielsa: \"Uruguay jugó mejor que contra Inglaterra\"",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWt4azZjY0hjemtERWFhTXY1UEtRMmI3WDZ3cnlWRk5NLXVOUTRVUmxONFJtaEpiTHhTX25wMXlnSWU1NU55ZDlHUUQyWFQtS2RPWWRjOUtxMWNZQUF3bDNjaDZzX2ZqRnl5amJxWnFqc2JlUDNPMWtDYU1EQmF0dVRNRWNRNGIzZ1JlcF9GLXRmWURFeHRralVOV2NzbWF0M0s3RlZOc9IBtwFBVV95cUxPSWVOU2puc2thSkxsU1daSWxPMFBfWHpCbU9wMFhUekE2UEFWZTJodmZWOFRheVp6TUpXMG02TVBGZmZIYUUwdG9XYVZ0ZldlLXdidzB5TFREaW5qZ3ZlTDFWUGhVOVpoTTJuM3otQnh0dW9oVjVyV0V4NmtJYWRLMkJvSDdsVE1IeW5rMTBvQzk4Nktjd1ZQbmZPMVBtd0xjOXpnVjN3RkhZSmN2cFhGVm5udHM1eFk?oc=5",
-          "description": "Conferencia de prensa de Marcelo Bielsa: \"Uruguay jugó mejor que contra Inglaterra\" &nbsp;&nbsp; ladiaria.com.uy",
-          "pub_date": "2026-03-31T22:43:37+00:00",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Así fue el momento del lanzamiento de la misión Artemis II que lleva a cuatro astronautas hacia la Luna",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSk5PNERTVkNBV09lMzZsUFp5N0gyU0tsYndXYk5pazVFei1pSzNISWJDMmdJQ0lIdG5wbWxnOC1zS2pkczJiS1JiMEhCeHgzRVc0UzQ1OWZZNTl6N2lmanVtXzVRc1hoc3lFRENBRTBQX0hiYUxlSGtmUWwyNnZTaEtKLWJzX01UQ0tHbTloa2tRa1B0cUpJOWxCVHZBcWZOandmRV9xWEJlY0tCU29hY2ptd3FSa0tKc2x5bFFTZVJpbVE4bDZ3cHhR0gHPAUFVX3lxTFBmMDVwYlpCXzlrMVNOMVh2cjV6NWJ3X2hNclhVOVI5dFNXa1ROOXYzOVNhUXJPOVRRSlR4QS1sUHc3cVRTVXNrU0VxRndOb2lKUWlnZ3BsR1IzSGhnTjB5WDhqQVhYZlhac2lLWm9oS1paaHh0UWpMbXhfbVVNbFlyQzdOUXZLWnJOckk1dm8yY0ZkLWFkWThPM3lKTTBxZlRobnZmUkt1aFpTeklMd09NZ0V6OV91RXMwel9XS0tSMTVreUJpVm5KLWp4MjhPbw?oc=5",
+          "description": "Así fue el momento del lanzamiento de la misión Artemis II que lleva a cuatro astronautas hacia la Luna &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-01T22:19:33+00:00",
+          "score": 1,
+          "score_reason": "Título informativo directo, describe el evento sin énfasis ni valoraciones.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Tras el \"exitoso\" despegue, la misión Artemis II orbita alrededor de la Tierra para pruebas y reparaciones previas a fijar rumbo a la Luna",
+          "url": "https://www.teledoce.com/telemundo/internacionales/tras-el-exitoso-despegue-la-mision-artemis-ii-orbita-alrededor-de-la-tierra-para-pruebas-y-reparaciones-previas-a-fijar-rumbo-a-la-luna/",
+          "description": "Si todo sale bien, se espera que el equipo de Artemis II emprenda el jueves su viaje de tres días hacia la Luna, alrededor de la cual dará una vuelta para captar nuevas imágenes y hacer observaciones. La entrada Tras el &quot;exitoso&quot; despegue, la misión Artemis II orbita alrededor de la Tierra para pruebas y reparaciones previas a fijar rumbo a la Luna se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-02T10:14:29+00:00",
+          "score": 4,
+          "score_reason": "Comillas en 'exitoso' generan distancia; énfasis en pruebas y reparaciones.",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "La NASA realizó el lanzamiento de la misión Artemis II, que transporta a cuatro astronautas en dirección a la Luna. Tras el despegue exitoso, la nave se encuentra orbitando la Tierra para llevar a cabo pruebas y reparaciones necesarias antes de iniciar su viaje de tres días hacia nuestro satélite natural, donde realizará una órbita lunar para captar imágenes y efectuar observaciones científicas.",
+        "coincidencias": [
+          "Se lanzó la misión Artemis II de la NASA hacia la Luna",
+          "La nave transporta a cuatro astronautas en su tripulación",
+          "El despegue ocurrió exitosamente según los registros"
+        ],
+        "diferencias": [
+          "Teledoce cuestiona el éxito mediante comillas, mientras Portal y Subrayado lo afirman directamente",
+          "Teledoce destaca pruebas y reparaciones pendientes; otros medios priorizan el lanzamiento",
+          "Portal y Subrayado usan 'así fue' para reconstruir el evento; Teledoce anticipa próximas fases"
+        ]
+      }
+    },
+    {
+      "id": "story_007",
+      "topic": "Aumento de precio de combustibles en Uruguay",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Ajuste de combustibles: garrafa de supergás sube $ 80 desde este miércoles",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWpBZ045eXNyZk5zRVd3NXlPQUxtVVA0Uk45a3JEYUNGVjJ2c3NGUjdSeHNXam9oc3ctYXVrV3MxUHR4dU9zdWxaNlhSeUpvQkItMExxSFF0bmxqSE82Wk43ZTVVeXdkclNoVWcza09NUXdTcjJFWTFtQlgwY3cyQzByOGljX3R3Zi1LQ1N6bDlZZ0FQbklJSUVNZlhuc2x5ZV85V2hHRmRCU0JvajlSRWlmQk9GaFVVcUpQbtIBwgFBVV95cUxQMUdBaTNtOUhDRTdjekVLWjdYQnBWTldCdjlmWk9WOGd0OG9EUU1qbjhia21pMVRFd1NSTmRUdk00TjE0aTI0SEwwQ19TM2s0TmRSdlQyY0RMTVFuTXpwZkxsZlNwSXFJakh0VUJSdncwNEtwM3A3TjBkT3A1Znl1bi03TFl1SV95QnhLLWl3M2V4SmdYeld4dDAtXzM0d1hMWWFDYmlOY3NBQ242ak01N1JvOXdPaVV3ZGFvSEpla0dmZw?oc=5",
+          "description": "Ajuste de combustibles: garrafa de supergás sube $ 80 desde este miércoles &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-04-01T08:00:00+00:00",
+          "score": 1,
+          "score_reason": "Informativo y neutral, solo datos concretos sin carga emocional.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Rige desde este miércoles el aumento de los combustibles; la garrafa de supergás subió 80 pesos",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZE9VRFBTMFhnNWlCT2xkQUVFUm5xaVdZMlBvVEdJY3dHTnktQ1ZvMUI4OWpmLWVjWHd3ZV9tRDEzZ0JyQl9JbmZfTWpqNVpOejhaQU5yT0ZRVm1zQnFGaWJjTGp6R3BjWllNZmZuQXhUVGYzMmhYNWhkY3ljTHlld0kzYnB2X0wwY1hsclZ2T09kLUNjTVBza3gwNWdQTEZwT2d2aENMc0pXVlVsbFVHQWNTakFoTklmSkhTT9IBwgFBVV95cUxNYl9lWG05YmlYWGJfU2VEUWJ2XzZEcnR6dU11Qzl6Wk5NWFl0cTNvZFUwNkxBOWZMQXEzUUpoQkU1SUYzZV9rOG4ydXpxdUtEbl8xR29QdWdqMS1OVWwyTEZEbmpIVjhVOGdZVDktUkx1UnBJYlBxNTdjSlUtcDFRNm0zY1BoMmhMZDE0dWlkQ1F1WnFsYXluMFMwZG1OakpXYkdmZkZHd1A0TG1zcWIwcDRiMU1iLU1CZmpOVGpwcEtsdw?oc=5",
+          "description": "Rige desde este miércoles el aumento de los combustibles; la garrafa de supergás subió 80 pesos &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-01T11:38:00+00:00",
           "score": 2,
-          "score_reason": "Transmite declaración de Bielsa de forma directa y neutral.",
+          "score_reason": "Neutro pero con énfasis en 'rige desde', generando algo más de urgencia.",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "A partir del miércoles entró en vigor un nuevo ajuste de precios de combustibles en Uruguay. La garrafa de supergás experimentó un incremento de 80 pesos. Se trata de un ajuste periódico en los combustibles que afecta a los consumidores. Ambos medios reportan el mismo acontecimiento sin proporcionar contexto adicional sobre las causas del aumento ni su impacto económico general.",
+        "coincidencias": [
+          "El aumento de combustibles rige desde el miércoles",
+          "La garrafa de supergás aumentó exactamente 80 pesos",
+          "Se trata de un ajuste periódico de precios"
+        ],
+        "diferencias": [
+          "El Observador usa 'sube' (acción), Subrayado usa 'rige' (norma) y 'subió' (hecho consumado)",
+          "Subrayado menciona 'aumento de los combustibles' en general; El Observador especifica solo supergás",
+          "El Observador es más conciso; Subrayado enfatiza la vigencia temporal del cambio"
+        ]
+      }
+    },
+    {
+      "id": "story_008",
+      "topic": "Campeonato de fútbol y evento cultural en Uruguay",
+      "category": "Otro",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Apertura: posiciones al cabo de la fecha 9 y detalles de la 10, que empezará el viernes",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUJIdTBUeG1ULVNvR3NDOExzOTA4OEw3akd0bVlzY3RqRlpOZi1yeDBzak5zazVCNTktZEw4ZlM5c0pscHVVSDl5WEFIOHNZZnlVdHR1ZHpfRkQ3VmI3U3NhX1l3X1NKS3JzYy1uaWZTN0RJVWx5MnpUREtCdUNaU2s2ZFpaSWx6Q1YxZjBtOWlXVzdRTk5qUUN2NTFMY1RiYkhneDB1TFU2WGRBT3BZSGFxbG45bXV5SGtSUUdlWThzMmlFTDVCZER2MjQ5QQ?oc=5",
+          "description": "Apertura: posiciones al cabo de la fecha 9 y detalles de la 10, que empezará el viernes &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-01T00:53:00+00:00",
+          "score": 1,
+          "score_reason": "Lenguaje puramente informativo, sin adjetivos ni carga emocional.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Tocó Venir Montevideo: el festival gratuito multitudinario se realizará el 15 de abril",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT0dveERTcVRtcWthTjlybmlqTDBUb2pLZjBSdUpsbURnRXZfWS1Gc0E1Nkt4RGxiSFV4UDJ4aTBZVDhOWDJ3SWtJVzlBbkk0b1EtNnNoRzZfQk5FbmdHZjZSS3hESmdwdThqWVM1Y0puS2h0ckZ5ZGFFQlBkSVZUREFpeGZuazFSVjVNTTlxZnNlOG1wNFJwcnJBTkRNY2NlWWw0bWRScEhkQ2I1ekM5R3FlSlMwdUJVUGZRNWVSbkRySFpySFhReWlRQdIB0AFBVV95cUxQRG03dTBFb2NSUmE3SERDVHRDRDd3RUJWV0FfQTAzVVpzUXJDcG1BTXVMTXV1SHBBa2lFc2VNcjE5eTJDVjhRU0dzcFk0RUdBUC15dTV1SGM2UnFCX0xXNmZ1X3JpVWt0UHh4Y2JVNkNQOU9acDlSYW1vU2EyQXpKQWJuUkt2bU5tU0NXRUtjNW1hUE8tdUtpNnktSkUtaExsZkZTRDJzQ2JGczZRU3NwYndXcXNBbVlJVi1Va3dUeE82ZGJ3R3pUNmxWc3hNWjZs?oc=5",
+          "description": "Tocó Venir Montevideo: el festival gratuito multitudinario se realizará el 15 de abril &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-04-01T17:09:00+00:00",
+          "score": 3,
+          "score_reason": "Usa adjetivos valorativos: 'gratuito' y 'multitudinario' generan expectativa positiva.",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Se informó sobre la situación de la Apertura del campeonato uruguayo tras completarse la fecha 9, con detalles sobre la próxima jornada que comenzará el viernes. Simultáneamente, se anunció la realización del festival Tocó Venir Montevideo, un evento cultural gratuito y masivo programado para el 15 de abril.",
+        "coincidencias": [
+          "Ambos medios informan eventos públicos de relevancia en Uruguay.",
+          "Se proporcionan fechas específicas para la información brindada.",
+          "Ambos titulares tienen carácter informativo sobre agendas futuras."
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza detalles técnicos deportivos; Caras y Caretas destaca aspecto social y cultural.",
+          "Portal utiliza lenguaje neutro; Caras y Caretas emplea adjetivos para atraer lectores.",
+          "Portal informa sobre competencia; Caras y Caretas promociona evento cultural masivo."
+        ]
+      }
+    },
+    {
+      "id": "story_009",
+      "topic": "Marset renuncia a juicio rápido en Estados Unidos",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Marset renunció a juicio rápido en Estados Unidos y se aplaza audiencia preliminar hasta el 20 de mayo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdENEaGl4c0J5SHl1UVEtOWZVYUNiT3BLS3gwS2xrdzlZdFpwMXlMTUM4dEJkX2IzODRycldzS3FDT1ZHZ0JodmFWMlJlU2tvM1ZOR09lQlBabkZRRDlIQnRKUmR3M1lKX0dWaEQ4M014YlNqOTUwUTdfVkozdG9LUTZsT3hTYy1xMXNxOXJYNTdoR3RpdjFnTzRUNFlIcS1pdHc4UV9WQm1BVnZXdTNESkVJTmZIcTVodHpVMl81ZEdlZTZZ0gHKAUFVX3lxTFBkdG1DSmI4UHFkTlZmaEVTb0NVTmRwTFY1c2MtM21Fekphald6Y3Y2bVZYYnNuNi1jVE9RTXFFclF1bVowdTllOGNPZFBMT2pIMkFaQWNvVGVLR3lka09LRkwwR2tUamY1TG9UNmx4R3N6aWlYb3UxWjlUb3p5eVlIc19jdHlYSEYxZ3UxQlljcFBMSVFmLXBFZmZ1RTB4MWVZWHY1TC1obEF0MmpmWTNHN09RU1VaMlFJYVNkNjI1Umw2aWt4X3Y2SFE?oc=5",
+          "description": "Marset renunció a juicio rápido en Estados Unidos y se aplaza audiencia preliminar hasta el 20 de mayo &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-01T20:32:00+00:00",
+          "score": 2,
+          "score_reason": "Reporta hechos concretos sin lenguaje cargado ni adjetivos.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Marset descartó el juicio rápido en EE. UU. y el fiscal hizo una advertencia al narco",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSjA3djF2dC1NV3lMeTJUWnJWbW1PQjhlUmZud2ZyeEpBOGhvenI4elpsU1VXdEQ5Q1F2THZXeWpoRkxQZXJKVXhxbUh6WUhrSjlvTE5ZeUV5WW4zXzZRWERLVVNvdkFtY21OYzE3YUVpWHFqOVBNbVE4UzdRaEhXQ3JQV2VEYi1DblVXZ2swTVpfUEVtWVdhQmlQSkZGOHpQbjdCdEZJaEdCQ0QtczdnVmtqT3pQbHJ4bTRQWDRtMTIzTF9NYXR6NklfZ9IB7wFBVV95cUxNLWthWmJMc2dqYkI1RFlVME5fV1RKbGJKZFhiWFpvV3JQblNubmc0RDBzc183V205UVpCTWZRNllwOXo0X21qRjhIeXQ2LWFxOUZ6Uk9WRDdUM0tPMjJweWdtMFJxeGN4d0c3TVE5Yl84LVJLOF9tQk1FTEpNWUVweUduU1p2YjlFUUJzc1pNQ0w4b0JGTlRhNjR3ellwcVo4TzNHQnFGU1pyY3pETF9iVUJHQkNoN0thcnpPUFBDU0NRWXJELTJkbXhwTXVkdF8zR0tEZVJFQlNKZFVydG1qeDl3c0pscG9CYlE5WXRYcw?oc=5",
+          "description": "Marset descartó el juicio rápido en EE. UU. y el fiscal hizo una advertencia al narco &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-01T19:35:00+00:00",
+          "score": 6,
+          "score_reason": "Usa 'advertencia al narco' con carga emocional innecesaria.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Nicolás Marset, narcotraficante uruguayo detenido en Estados Unidos, renunció a ser juzgado bajo el procedimiento de juicio rápido. Esta decisión aplaza su audiencia preliminar hasta el 20 de mayo. El fiscal realizó una advertencia al acusado durante el proceso. La renuncia al juicio expedito puede extender significativamente los tiempos procesales en la justicia estadounidense.",
+        "coincidencias": [
+          "Marset renunció o descartó el juicio rápido en EE.UU.",
+          "Se aplaza la audiencia preliminar hasta el 20 de mayo",
+          "El proceso judicial estadounidense continúa contra Marset"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza la 'advertencia del fiscal' como elemento central, dramatizando.",
+          "Subrayado mantiene enfoque puramente informativo sobre hechos y fechas procesales.",
+          "Diferentes titulares generan percepciones distintas: uno sensacionalista, otro factual."
+        ]
+      }
+    },
+    {
+      "id": "story_010",
+      "topic": "Irak se clasifica al Mundial tras 40 años",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Repechaje: Irak derrotó 2-1 a Bolivia y jugará la Copa del Mundo luego de 40 años",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVmFUOUtvZS1WNU9uZXExazdfdE9McGVmVGFlOHR6X1FXb2RoakJnQXBCNEJFd0J3d3NsVWhpYXlZQTRXQVRiRUlXN1l5RV9qcEVPOG1jWkNHNWFtMHUwcERHWkZfZGRlbkRFblZfOGItYldGS2RFa1ppbE5XS01OM3RZdktkZVlyZ2RrT2plLVJydEtwSWtTbUNtVEhwU2RIT1didnVyZG5HUFVaa1h5NUlKSXd0RlJkQl9naUp6R0FfdF9WS2RZ0gHrAUFVX3lxTE9WczBTY0lZMWVqdXMyTDd4QnNuaGpVcVUxQjQ2bjR0Yzh0NENHNnl1RENOdUpDRWxJRlFYMGs3S2Y3U3JfNDlPaUotMDBqVElnaXpfZUZWenV3NnlzdmtCekdmb0lLeTVyUjRpVUpBb09jVUxGV1ZTXzVBNUw2WjlwaW5ERTdPZzZaN2RnODNKUXZMN0FQTXRjdXRtZVhUWmFmdFFCYzVKY2FXSnpOUUFTaThSaTgwdFlPT09QWGNrNjcyeFZYc096WmU0Q01EbV8ySFN1WWVMc043OVBrVFhIQlRQZlpKUHNtR1E?oc=5",
+          "description": "Repechaje: Irak derrotó 2-1 a Bolivia y jugará la Copa del Mundo luego de 40 años &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-01T10:10:00+00:00",
+          "score": 2,
+          "score_reason": "Informativo directo, datos concretos sin carga emocional.",
           "score_pct": 20
         },
         {
@@ -125,49 +683,34 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Uruguay enfrenta a Argelia en Turín esta tarde y estrena la camiseta de alternativa azul",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEthNVE0T0d0SzZyelpNOU51Uk9fOEZxNFEzRkVzaFVLLXd2U0RDTkNraFltOFlmdUlhTGdpZDlnYWJ2U05QMkJQTDhlYjRWVTBIQjNLQnhzVXBld2tuRHNuVy0tYmo0ZHBFUGdZUWpFcW1NZEx6LXhoWVI4Nm5OOFlJVFJKZGFZZlNMbHdER2xDTlRfekN3bEFtQnVZRjhObG5jYllLWk1yMjFPMmhqLXFpRTlZR3MxcmfSAb8BQVVfeXFMTkJMVWNZVnZYUGRPWmhTUXd5dVlyR0dpNk5jMUlONkUxMXR2MmN2VXRZaW0xd21vSldyUDZMWDV1UVRGNEY2NXJYdlliVmhfX0pRYXJ1cmNVZmZwOW9lVG50VzhHb1RsenNDc1J3ODRGd0g1V040S3NlYzZJYVFxYnZIQzdMWVNmR3FLYWxqN2x5RllVVWw1R2puclh1OW1ONk1fbUxtYU54aHlXT3dXaHgyZjJJSk5rQTI4VjhCbG8?oc=5",
-          "description": "Uruguay enfrenta a Argelia en Turín esta tarde y estrena la camiseta de alternativa azul &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-31T12:20:00+00:00",
-          "score": 2,
-          "score_reason": "Datos objetivos: rival, lugar, hora y uniforme.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Alejandro Balbi: “los hinchas de Nacional estamos muy impacientes” | La Mañana del Fútbol | Entrevista",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb01LNkZCZ29zMVFicDNIZ2hLNTQzb1VSRm1IcW81dmRWOVhYbnYxRndYVHVUQlo4SkVEekZLZkFOTzY4QUZMT1BLUmExdXpneTlFQXlIOTZHcHRzVmtDWVdkSGMtakQ0ZHJka3dfY192VFJldkxOQWFpOThqX2ZHc2JXaXZjeEhSTnNtWUpqTlowSjVyX1lSSU04cnlhMFBrbkhlamlScHBPQQ?oc=5",
-          "description": "Alejandro Balbi: “los hinchas de Nacional estamos muy impacientes” | La Mañana del Fútbol | Entrevista &nbsp;&nbsp; espectador.com",
-          "pub_date": "2026-03-31T13:38:59+00:00",
-          "score": 4,
-          "score_reason": "Enfoque sectorial hacia hinchas de Nacional, menos relevante.",
-          "score_pct": 40
+          "title": "Congo, Irak y Bosnia entre los clasificados al Mundial a última hora: mirá la lista",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUFozaExIRm5zM0xIUllLOXkzcndRVHhTcHRSYloxUl8wbGNmbVVRcWZPeUxaVUlYNUNYMU00ZUNpSjBJWjBpdXBRQkVLb2t0OE5MUXdESWJwdnBqS2dXX0JpcGoyUWdieXlJbzhGTGc5X3l2bGxNRDdiRHlZdFJlU0NLRVRkRjhmS2luVEdKRGZRU0xJTUhrNTVtVGRnZ0dmUUxJemxOSDBfb0J1SjN0ZdIBtgFBVV95cUxNZlFHUTFzazVCYWdjN0lBR212VzdfSXcybmN6OFlodm50d1NVeEItMS13TUd5RHVRUmZkUVpfb0RJMm5XVU5OV1MzMkdYRFhaUXlMNzUyR2hiRFcxTkhyQ2M5dVNyQ1MwbDUtTGtoQkYxZXBNd1BPaVFDSHI2aTVyQzFTbnMwWUcwY1h2ZkdFYk9ycGxIYm9PdDIzQ3FHVWpkV2x0YUNvUUJIbUlwZmswTVdVZ0Z0UQ?oc=5",
+          "description": "Congo, Irak y Bosnia entre los clasificados al Mundial a última hora: mirá la lista &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-01T12:15:00+00:00",
+          "score": 3,
+          "score_reason": "Énfasis en 'última hora' crea dramatismo innecesario en noticia deportiva.",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "La selección uruguaya se alista para jugar ante Argelia en Turín bajo la dirección técnica de Marcelo Bielsa. El técnico destacó que el equipo jugó mejor que en el partido anterior contra Inglaterra. Para este encuentro, Uruguay utilizará su camiseta alternativa azul y contará con Sergio Rochet como arquero titular. El partido se disputará esta tarde en Italia.",
+        "resumen": "En el repechaje mundial, Irak derrotó a Bolivia por 2-1 y se clasificó para la próxima Copa del Mundo, logrando su regreso a una competencia de este nivel tras cuatro décadas de ausencia. Simultáneamente, otros equipos como Congo y Bosnia también aseguraron sus lugares en la competencia internacional tras encuentros disputados en la última jornada clasificatoria.",
         "coincidencias": [
-          "Uruguay enfrenta a Argelia en un partido próximo",
-          "El partido se disputa en Italia (Turín)",
-          "Se trata de preparación o presentación de la selección"
+          "Irak se clasificó al Mundial tras larga ausencia",
+          "Se trata de clasificaciones en repechaje/última instancia",
+          "Otros equipos también lograron su clasificación"
         ],
         "diferencias": [
-          "La Diaria enfatiza análisis de Bielsa sobre desempeño del equipo",
-          "Montevideo Portal y Subrayado priorizan aspectos operativos y detalles técnicos",
-          "El Espectador desvía hacia tema de parcialidad con hinchas de Nacional"
+          "Montevideo Portal enfatiza la victoria de Irak sobre Bolivia; Subrayado presenta un panorama más amplio de clasificados",
+          "Montevideo Portal usa estructura clara de resultado; Subrayado apela a urgencia con 'última hora'",
+          "Montevideo Portal destaca al equipo ganador; Subrayado distribuye peso informativo entre múltiples selecciones"
         ]
       }
     },
     {
-      "id": "story_003",
-      "topic": "Choque fatal en Florida: mueren cuatro de una familia",
+      "id": "story_011",
+      "topic": "Choque fatal en Florida: imputación y duelo",
       "category": "Seguridad",
-      "sources_count": 3,
+      "sources_count": 2,
       "headlines": [
         {
           "source_id": "montevideoportal",
@@ -181,23 +724,8 @@
           "description": "Imputaron al conductor de la camioneta que chocó de atrás a familia que murió en Florida &nbsp;&nbsp; Montevideo Portal",
           "pub_date": "2026-03-31T23:49:00+00:00",
           "score": 2,
-          "score_reason": "Información objetiva, enfoque procesal judicial sin carga emocional",
+          "score_reason": "Titular factual, directo, sin carga emocional evidente.",
           "score_pct": 20
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Justicia dispuso medidas limitativas para el conductor de 48 años que chocó de atrás al auto en el que viajaba la familia que murió en Florida",
-          "url": "https://www.teledoce.com/telemundo/policiales/justicia-dispuso-medidas-limitativas-para-el-conductor-de-48-anos-que-choco-de-atras-al-auto-en-el-que-viajaba-la-familia-que-murio-en-florida/",
-          "description": "El hombre ahora está en calidad de emplazado, debe fijar domicilio y no puede salir del país mientras continúa la investigación por parte de la Fiscalía y la Policía. La entrada Justicia dispuso medidas limitativas para el conductor de 48 años que chocó de atrás al auto en el que viajaba la familia que murió en Florida se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-01T09:44:59+00:00",
-          "score": 3,
-          "score_reason": "Información equilibrada sobre medidas judiciales con contexto procesal",
-          "score_pct": 30
         },
         {
           "source_id": "subrayado",
@@ -206,455 +734,100 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Siniestro de tránsito en Florida: murieron cuatro personas de una familia; dos niños de 2 y 9 años, y sus padres",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb1RNTGcwOGRHMVRkNWhIVUt3WDRVclBQMUpsOXZ6T3pIVzhGa05XTGJaTWF1U2lydl9hY3U1SEk2bktqcUpEd1V1ZkFlVkJJeWpobUU2aG44bWhfOXltMWllUGx0RHdXTHlzdjZiN0phcVpfMGZFSzRTaWZaNGd6dXdRZTVBRXJHUTczSGJiT1E3bUxmSDNnZndVU2hpOGYzZXhpT3VlRUIyVkh3YTRpMWZWR0x3bWpuaFozRlpHc3VoRHZoMGtmZmltV1JjdEhQ0gHWAUFVX3lxTE00VFRHZk51YXVHSHp6U2JISHlKVnFrZUVVa2hUWWI5T0hWT2VRX05OZW1rRl90cHFtTTVRUWMtYlJvMjZWVGQ0bThpclV2RHg3d3dqM1RfRmlTcVV4XzY0ZTJuakdDM0l4TTFFalpnRlJ0cUlKWkROT1ZMdVdVaUVyUi1zeEF3blc3QkpxT1lJaWVxSWhPMXVueTg4RWhkWGtYaUF3MzRRcV9VME1iQWMtSk5idGpuWjFCWE5CaG1BVXQ4b2NLTVBSNnE3c3V3OFBmS0J5QlE?oc=5",
-          "description": "Siniestro de tránsito en Florida: murieron cuatro personas de una familia; dos niños de 2 y 9 años, y sus padres &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-31T01:00:00+00:00",
+          "title": "\"Habíamos estado hablando en la mañana; quiero que se haga justicia\", dijo el padre del conductor fallecido en siniestro en Florida",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWGozV3RiUWVCYkUzamJiT2pUc29JMGhUREl3YjJmMkFUSjBKa3hneU1uTFZRVHZvZXZyZzJEN05Xa0Q4eDJUOVdvVlR2QWI1Mm9GcTZ2Q2w0cU5aQVd3LUN0cU5FUXItQmwyajlWbVNGUHJEVUV6azhpVEdSX0RPWDRuekxUNFdNeUNZcTJOOXk5RXhUUHc0YVY3LXZNRlM2ZFhmMldoUTExLXQ0SmtsNGtoeVRZTDFjR3M4aVl6NDFNUS1vRmhDaHk1VmFuVkZiaWNsQ0NVWTU0cjNtLXNrdmxqNnhqYlgzcHJVONIB8gFBVV95cUxOc1VnMmxkRk1TeU8wa2ZVS0VEYkhFU19lSzl6SmU0TXdwdXpQNGw5MFZLMlRRWXEwVTljcG1zS0tJcGdZckVNRTZwb215VzNyeHA5Z29CLVpJYW10RHlxNjh4VUEweGFJMzRydVFsQy1sb3lWVjR4Q0FJc09GZjRzLTlpT2prOE5fdmNLUDllanVZbGw4akNCUnZLMkYxeExzaUFwcDE1cUx3cF90ZTBCRER2YlBFYWZncndxSGJMOHlYU2lQcnhsNlB6ZWpDdVptb3RUMHRjb01PemRZck9acXg0anFWV0hOYWZqbVhZLVlJdw?oc=5",
+          "description": "\"Habíamos estado hablando en la mañana; quiero que se haga justicia\", dijo el padre del conductor fallecido en siniestro en Florida &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-01T22:00:00+00:00",
           "score": 6,
-          "score_reason": "Énfasis en víctimas y edad de niños; lenguaje emotivo y detallista",
+          "score_reason": "Enfatiza declaración emocional, humaniza al victimario, genera empatía.",
           "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Un conductor de 48 años chocó de atrás a un automóvil en Florida, causando la muerte de cuatro integrantes de una familia: dos niños de 2 y 9 años y sus padres. El conductor fue imputado y quedó emplazado ante la Justicia con medidas restrictivas: debe fijar domicilio y no puede salir del país mientras continúa la investigación fiscal y policial.",
+        "resumen": "Un siniestro vial ocurrido en Florida dejó una familia fallecida tras ser impactada por una camioneta. El conductor de ese vehículo fue imputado por las autoridades. La noticia también abarca el testimonio del padre del conductor fallecido en el mismo accidente, quien expresó su deseo de que se haga justicia y recordó haber hablado con su hijo esa misma mañana.",
         "coincidencias": [
-          "El choque fue de atrás contra el auto de la familia",
-          "Fallecieron cuatro personas de una misma familia en Florida",
-          "Se dispusieron medidas legales contra el conductor imputado"
+          "Ocurrió un siniestro vial fatal en Florida.",
+          "Se produjo un choque involucrando una camioneta.",
+          "Hay responsabilidades legales y duelo familiar involucrados."
         ],
         "diferencias": [
-          "Subrayado enfatiza la edad y vulnerabilidad de las víctimas; otros medios priorizan hechos procesales",
-          "Teledoce y Montevideo Portal centran titulares en acciones judiciales; Subrayado en la tragedia humana",
-          "Subrayado usa lenguaje más emotivo; Montevideo Portal y Teledoce mantienen tono más informativo"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Antel registró ganancias por US$ 249 millones",
-      "category": "Economía",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "lr21",
-          "source_name": "LR21",
-          "source_short": "LR21",
-          "source_color": "#827717",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.lr21.com.uy",
-          "title": "ANTEL tuvo ganancias por $9.710,5 millones en 2025, casi US$249 millones",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU3RhQUFGZHRJWkwzemxNNklHcWRMTm50Y0U2cjBQaVlpXy1pR19HNng1QldQWWl1MFR5RUlVVG5Sb0luWkxxdFlTRTAweV9tdXljMmdCS3lvR0pETHlQSnlYS1VvcEp2RUtYMGtHd09HNWhyY29lMUZwb18zU0dBRzhKR3I?oc=5",
-          "description": "ANTEL tuvo ganancias por $9.710,5 millones en 2025, casi US$249 millones &nbsp;&nbsp; LaRed21",
-          "pub_date": "2026-03-31T13:03:35+00:00",
-          "score": 2,
-          "score_reason": "Presenta datos de manera neutral y descriptiva, sin carga valorativa.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Antel registró utilidades por US$ 249 millones y volcó la totalidad de sus ganancias a la caja del Estado",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONFZUYlJCQTRvN3RWNEtESWFDYmNKSVZSOEx5UXlTZzBCb2lESHBOX0JZNnZidTFNNTFQb1VtUTh3QjNyMHJ4SHRKU2t3RS1GUFc2NklianFTVEMxcnJ5WU1RLUhaSTU4S0NUeGk2R1dHeGlrbk1HcS13MEVSWWJZRUtOWW9HUkU3eHhKVlJWZURYblBiQm8yMWNFSzNDcFFIV1pBb0ZuNjJQbnlTdmtKaV9JajJNNFROZi1YdVBnN1A4SDBQa2ZNZmRWMU1rdFg1MFc2UU5PaVRJcDNlOTJHOFhaQXRzeURWNWdDWtIB8gFBVV95cUxQb1hFbnRhTGpWdDc1UVFZb1g0c3EzOV85SHlkMWVxX3dsQUY3amFTQmxLTENSNUVtZDN2SHRyaDJXVmlqLWpXUDV0ZlR0ZTRpVHNpWDBqNHpxS2JkODE3bGw0TFpJM0tuUm5BLUltUnFXLTluZTJQNWFyLW1QWVphN0gzcjMxZ3BYQi1rSmNUSnhzb0JrTkt5X3VGbFNCYXlsYV9hNTA1dHBpWm5TMEZPWkhqN1UzaTF6cTZxX2loY05YZW9wY251VW11bzRPNUdvQk52U0RaaEQzdl9hcTJsQUE1WXN6amVHRDdxcDFsbzBsQQ?oc=5",
-          "description": "Antel registró utilidades por US$ 249 millones y volcó la totalidad de sus ganancias a la caja del Estado &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-03-31T08:00:00+00:00",
-          "score": 4,
-          "score_reason": "Enfatiza la transferencia de ganancias al Estado con verbo 'volcó'.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Antel, la empresa estatal de telecomunicaciones uruguaya, obtuvo utilidades por US$ 249 millones (aproximadamente $9.710,5 millones) durante 2025. La totalidad de estas ganancias fue transferida al Estado como dividendos. Se trata de un resultado positivo que refleja el desempeño financiero de la empresa en el período analizado.",
-        "coincidencias": [
-          "Ambos medios reportan la misma cifra de ganancias: US$ 249 millones",
-          "Ambos reconocen que las ganancias fueron transferidas al Estado",
-          "Ambos utilizan fuentes oficiales de Antel para la información"
-        ],
-        "diferencias": [
-          "El Observador usa lenguaje más activo ('volcó') que subraya la acción redistributiva hacia el Estado",
-          "LR21 presenta únicamente datos sin interpretación o énfasis particular",
-          "El Observador destaca el destino de las ganancias; LR21 se enfoca en la cifra misma"
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "Accidente fatal en Florida con cuatro víctimas",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Florida: vocero de Policía Caminera dijo que hay \"indicios de una alta velocidad de desplazamiento\" en el choque con cuatro fallecidos",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRUtZMmJDc290a0wyRjM5T25sLUNfMXBTX2pabWw0VlhfQl9OYjA0V2o3ZjBlQ1BpazdSOU5OTDFGS1NCMWFjUjN2YzJGdnc1YV9ic3VUdzhtVENFRWtVOGx3RmZ1Qk9WNG1HaWUzMVA4V3hpN2NvS1hpYTF2V01jQnRmc1pHRnRrWGhfMzNRLTY0ZlJmNjhfb01XUWdVRl9IZVpsS1p2NGEzQ0ZXZDUtZGpydDdOQjBqVFprR094bWdxLVJ5Z3k1VEUxVnBsbVZBZUYzSndVVXpjdjFPTGlrYXctazRKSjJF0gHuAUFVX3lxTE1EbENnWUVhcDVxTjhGcGRCVlNOVVhIMGNXd3NSR2dnVHdfMGl6VVRBbFdHNTlyWUpSc0tSQ0QxRko4QTRWUy1EQTZ4M0c4SmxlUll3bFo2MWFZOUw5ZHIzaVNpVTgyOV81VUt2eVl4b1A3TC00VEZ4NkZtN3JJSFpLcl9qcGtSUzc4RlNENjVzWVFvMkhWQ3dsTDViRXdxaFl5cS1mQ3VHa19zOVpIYUJqTUtFU1JZZmQza0lnM2pqN3JOaEF3NndsSkxvaDdURVEzV1U4TzlVRUNfeEthMzBaeXMwNHBucXhiQXZ2Vmc?oc=5",
-          "description": "Florida: vocero de Policía Caminera dijo que hay \"indicios de una alta velocidad de desplazamiento\" en el choque con cuatro fallecidos &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-31T11:06:00+00:00",
-          "score": 2,
-          "score_reason": "Lenguaje factual, cita directa de autoridades, sin carga emocional adicional.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“De suma violencia”: desde Caminera apuntan hipótesis sobre tragedia ocurrida en Florida",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT0lqb3pja3FQck4wYWZLUWx6Nk5XSkI1bDJmbzZ6S0ZEZDFqT0FGNmtDNWdFc3BmbjFTNXRDX1BsaUVMWXBFLWhIaUVkcVczakFQc2pHazFvMHhVOHpJbGlCUjI2UHgxdXBiZXMxbGE5V3VzYTREcldydzN3ZldfLW9tSm5XY3BnZWdidmRQQ1IzRkdta1hXWmtZUHlEeGNWTmwwTGVfWmtxWi1FS3poeG5uaVdyWlZiWVFEd3pJdGhQOUp5c2lRMUZWVllSSENm0gH0AUFVX3lxTFB1SV81RG5hYVVNR25TX1BfZHJmNUNqMURydVNUdHFKbmNsMTlKXzg4NU5OYXQwQzdnZ0d4U3BxU202Rm1yVTlpLVlrc08wSEs2M2VuQ1dwYVZ6bGU5Sm15aVFfX2IzblRQZHhMUnJxYjk3cHBWVzB6ZmNXeUtBNHRkSzV5aGFxMF9xYU5kU0dadUdvRjVhb2plR2xkeUp6THluMFF2SlBzczhrVGZpeWExZHRfb3gyU09JR1M2emMtMWxsYVFKeGdiV2Npb3NHMlUySUY5VmM1d0UzZjAwbF9PM2tZTVJNUzduc3VwMEk1dW5JSXY?oc=5",
-          "description": "“De suma violencia”: desde Caminera apuntan hipótesis sobre tragedia ocurrida en Florida &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-31T13:00:00+00:00",
-          "score": 6,
-          "score_reason": "Descripción emotiva con 'suma violencia' entre comillas destacadas.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "Un choque vial ocurrido en Florida dejó cuatro personas fallecidas. Según voceros de la Policía Caminera, el accidente habría sido de suma violencia y presenta indicios de alta velocidad de desplazamiento como factor determinante. Las autoridades investigan las causas del siniestro vial.",
-        "coincidencias": [
-          "Ambos reportan un accidente fatal en Florida con cuatro víctimas",
-          "Ambos citan información de la Policía Caminera como fuente",
-          "Ambos identifican la alta velocidad como factor en el siniestro"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza el aspecto violento del choque; Subrayado prioriza evidencia técnica",
-          "Montevideo Portal usa lenguaje más dramático; Subrayado mantiene tono más neutral y técnico",
-          "Montevideo Portal presenta hipótesis; Subrayado reporta indicios concretos de investigación"
-        ]
-      }
-    },
-    {
-      "id": "story_006",
-      "topic": "Accidente fatal en Florida con víctimas fatales",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Siniestro fatal en Florida: permanece detenido el conductor que chocó por alcance el auto de la familia fallecida",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSHR3NlJKTW96ZnIxMFdhZWpLQmV6ZVNSTDlaSTRJUTRFUklIbExQQnRwaE5WZHJ3UzkzTDBOemV1QVdiRlBtcjU4enkyWkk3Y2xaUXlKU1hPU0h3VF9WbVZxQkNUbDBiM1lfNWsxMjVYd1VieUx5TEZrVHl2a3VDWGNHSFlxdDNXQTlnSnVkb3lDdGNHQkh2SnRVVnlKY3E4WFZpY3BnNlkwZWV2MG45eUtMZlFzQl9EOVMyTUZELXNfYmgyTjAwSHhPUl90SUQzbktjVDVMc9IB3AFBVV95cUxOSk53eW5sQ0hVUGVLUk9zWHBkUzhQcW9Uc3M0T1VEVUpVdF9PX3RDRFFQd3lrb0RMRUR1UjYyZlM4bzNtcmxsYmlxZ1VCbUw0Q0tKOFRMSFV0a0xMb0h6d3lLVTR4OU1JS1EwckUxTmZvMDZzQnZPTXEwODNzYTVpai1TMVF5M2ZqMHRDODN4aHRPQmx6bVVTZnRyX0dpWUdIQ1VUZ3JUTmJpaWpRVklqaGxrZlV1T2tneVR5RW5wdlFINmllU0lSS0pIUDVZdmJ2dWRkVzIwRGRnazJx?oc=5",
-          "description": "Siniestro fatal en Florida: permanece detenido el conductor que chocó por alcance el auto de la familia fallecida &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-31T21:40:00+00:00",
-          "score": 3,
-          "score_reason": "Lenguaje técnico 'siniestro', enfatiza detención del conductor responsable.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Tragedia en Florida: murió una familia, entre ellos, bebé de dos años y un niño de nueve",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0dRM1lMZEY1aFBxUHpTMjZIZ1dpZE5Cc0E5bHpmYnpreWlRMTZLMFJxMi00Q1kwWXpLb2Y3MjJPQ0lrQTJXNGpHWXRyTmpILTNEdS1kQzU1LVFCM09nY2dUSTMydU5GSkJhZVdwTkZOZ1o2OU5nTWF0ZTdoNlptMVBMTEN1QVM5UzhfcGxWSVJ2YzZQc1g4b1YxdVF5Y1JVNXRyVFRuaEQwZW5rOHJFV1ZBdWhxeGZHeEMtcGNBamt6c3RCUTNXb29HYXBkZ9IB8gFBVV95cUxOSWVNWE1OcG4xNG9DMVFDZGJqOEc1STJkcTRRNmRONDIxZHRCWFlVS2lfWmFpcllVNnNXYmVfellrMVU1ZHF1dG4za2hSVlFCOEV3YUZJUGRTWEhoS19BdXdPZnFyYWtFTmU1eWt5U2tVXy1mOUVyR2pQbC0wTWthY3RaSkNuVUZDU2NoV1RmOWNGd3dta3lJVy14bHpMbVhzNXdVT2lrUXlCZE9BMkxtSFNNNDlkeWlFVVhnMlktbDY2ZkFFWFdaekRuNktzWFZISTlfQTZoNmoySER3NTlVWjVmRVowSDFES2tMaGNRTmpuUQ?oc=5",
-          "description": "Tragedia en Florida: murió una familia, entre ellos, bebé de dos años y un niño de nueve &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-31T03:00:00+00:00",
-          "score": 5,
-          "score_reason": "Uso de 'tragedia' carga emocionalmente; énfasis en víctimas menores.",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "Un accidente de tránsito ocurrió en Florida donde falleció una familia completa tras ser impactada por otro vehículo. Entre las víctimas hay un bebé de dos años y un niño de nueve. El conductor del vehículo que provocó el choque por alcance fue detenido. Las autoridades investigan las circunstancias del siniestro vial que resultó en una tragedia familiar.",
-        "coincidencias": [
-          "Murió una familia completa en un accidente en Florida",
-          "Entre las víctimas hay menores de edad (bebé y niño)",
-          "Hubo un impacto o choque por alcance entre vehículos"
-        ],
-        "diferencias": [
-          "Montevideo Portal destaca la tragedia familiar y víctimas menores; Subrayado enfatiza la detención del conductor responsable",
-          "Montevideo Portal usa lenguaje emocional ('tragedia'); Subrayado adopta tono más técnico-legal ('siniestro fatal')",
-          "Montevideo Portal se enfoca en el resultado de la tragedia; Subrayado en las acciones legales posteriores"
-        ]
-      }
-    },
-    {
-      "id": "story_007",
-      "topic": "Padre e hija uruguayos mueren electrocutados en Brasil",
-      "category": "Internacional",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Padre e hija uruguayos murieron en Brasil tras recibir una descarga eléctrica en un sendero",
-          "url": "https://www.teledoce.com/telemundo/nacionales/padre-e-hija-uruguayos-murieron-en-brasil-tras-recibir-una-descarga-electrica-en-un-sendero/",
-          "description": "Las dos personas pertenecían a una familia que se encontraba en la región La entrada Padre e hija uruguayos murieron en Brasil tras recibir una descarga eléctrica en un sendero se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-01T00:11:31+00:00",
-          "score": 2,
-          "score_reason": "Lenguaje factual y directo; especifica 'sendero'; sin adjetivos emocionales.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Tragedia en Brasil: un padre y su hija uruguayos iban a la playa y murieron electrocutados",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZzBHLTBTLUdMZDh1NGhYc0diZ21Sbk1HTWVBR2s1VU1hcGE0dUY2OTd3RGplRlNFUHo2N2lmQ2lWa3Y2S3hUcVQ5Z3NOWUU3QVBmaGdRR05OWndfb3RHdU5JZnYtaG84bTl3bndPLXA2ZHVPM29BUFVWQnJtcTN4MzAwZUtoTUtZZHZSc2lxbHphVU9aOTVxY2NFZXV4MkhTQ3V5OWIyY3FwWkRIMVlhT3BOQ1Joa0x5NU9BRE9UTjJEekt4MDdGLW9RbGFkREU5cjBn0gH3AUFVX3lxTE9NTndHUExVTTFBcksyS2JidEx4dVRMNDhDVGtfRkU4WDNVamlWQXNrbXd5N2pMWFR5aUMxZ1h5akF2T1huYWFuUE1OZEVIMU1rRGItVzB3blN1VEZyQzk3M2U4a2R1c1EzYUpIODVraDFuT0VFejVqeUVFRmxhUlp6ckIwRlNQYVVtbW5PRlk2SkxlSHlRNUEzWHhHbEhIZEVzUVRxTFdHZ3UwVFI5RUtGa3pNTXFPdFk5RHFCTEg0NjE4dnVIVUdEYzliSGxYWUFQUC1nYTFydXFPRnpZNkVrSzMyQXMtcm9fN0NnQUZsbzdTS1dUa1U?oc=5",
-          "description": "Tragedia en Brasil: un padre y su hija uruguayos iban a la playa y murieron electrocutados &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-31T23:12:00+00:00",
-          "score": 5,
-          "score_reason": "Uso de 'tragedia' carga emocionalmente; contexto 'playa' impreciso.",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "Un padre y su hija uruguayos fallecieron en Brasil tras recibir una descarga eléctrica mientras se encontraban en un sendero. Ambos integraban una familia que visitaba la región. Las circunstancias exactas del accidente no se especifican en los titulares disponibles, pero se trata de una tragedia fatal ocurrida durante una actividad recreativa en territorio brasileño.",
-        "coincidencias": [
-          "Fallecieron un padre y su hija uruguayos",
-          "La causa fue una descarga eléctrica",
-          "El evento ocurrió en Brasil"
-        ],
-        "diferencias": [
-          "Montevideo Portal utiliza 'tragedia' (cargado emocionalmente) vs Teledoce es neutro",
-          "Montevideo Portal menciona 'playa' vs Teledoce especifica 'sendero' (más preciso)",
-          "Teledoce contextualiza la familia en una región; Montevideo Portal omite contexto adicional"
-        ]
-      }
-    },
-    {
-      "id": "story_008",
-      "topic": "Ernesto Talvi reaparece en evento público uruguayo",
-      "category": "Política",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Gustavo Ernesto Olivera Castro",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ubnoteV9kWlZSV3hocDlXdndkRE5mVlVCb2Jaam9NSFktZnc3YXZ6S2tZVjdtOUtGb0hyVFNpeXBTaGtvU3dPRlhUTWhUcF9EajBLd1hydXBsajZlN19URGY2aUFUc3RVdENGcTlrQnZnU2JfeUVZZg?oc=5",
-          "description": "Gustavo Ernesto Olivera Castro &nbsp;&nbsp; grupormultimedio.com",
-          "pub_date": "2026-03-31T03:05:50+00:00",
-          "score": 1,
-          "score_reason": "Solo nombre propio, completamente neutral e informativo",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Reapareció Ernesto Talvi en evento en Uruguay: a qué vino y con quién se sacó fotos",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDZMNWZkVWxZejR2TWN3Rk94eWphaVVDRWduVDlfOWFBWW05YU5SSzZNcGx3ZVByLTlUVzQ3UUd6dlBrdFctNzJ6c0ZMVUtoUVdIalJRblJiQzJBLUt2V0MtLTdtdE1zUmtuZlNrWVowWkp1OXNXY2tTQkk4ZGNOVmhtbTlvTWtMN0x3QVBYTE9TZllFcjU1aXRvSzgtaEluV2pnZW1MVzhsc3A4YjFiU0k2X0ZZeFJvZnVOTnBBX0Q1aU9DdW5yMGFB0gHuAUFVX3lxTE4xR25OVVpRNTdJandjRExKYXVyTDdXdzFJVHVXZWZ2S3hUYVRCTXFDYk95NnF3V2dsSGEySndHVnBvZklKeGFJWWlURmdaa3YwczVZbkJYdzYtTmZ2OTBYX0c0RUJRbEZHUzJfNU02QzhkVzVhcmZXdHBfa0NuRnEyY1pHdjVzV2ZkMkV3THZfMUtlZERmNXp0dTg1ZGZqSzl4STQwcDJFQWc5SmlQMHZfLTRQOFllSEVMbjJIOG5sdW5HZm5idmI0QjZ3WHplaGFsdDVNcFhfMzNpZlZxbkt2NWlCTFhqSXhvTjRtUVE?oc=5",
-          "description": "Reapareció Ernesto Talvi en evento en Uruguay: a qué vino y con quién se sacó fotos &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-31T00:00:00+00:00",
-          "score": 4,
-          "score_reason": "Usa 'reapareció' con énfasis; destaca fotos y contactos",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Ernesto Talvi, político uruguayo vinculado a sectores moderados, reapareció públicamente en un evento realizado en Uruguay. Su presencia generó cobertura mediática por la relevancia política que representa su aparición tras un período de menor visibilidad. El exdiputado y exembajador participó del acto donde se relacionó con otras personalidades del espectro político.",
-        "coincidencias": [
-          "Ambos reconocen la presencia de Talvi en un evento en Uruguay",
-          "Ambos consideran la noticia relevante para su cobertura"
-        ],
-        "diferencias": [
-          "Montevideo Portal dramatiza con 'reapareció' y enfatiza interacciones; Grupo R presenta solo datos",
-          "Montevideo Portal busca generar curiosidad ('a qué vino, con quién'); Grupo R evita especulación"
-        ]
-      }
-    },
-    {
-      "id": "story_009",
-      "topic": "Cambios en selecciones previos al Mundial",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "A 72 días del Mundial, Ghana despidió a su DT tras sufrir dos derrotas en la fecha FIFA",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTTB5QktOeS1wSGRBVEZGbF9kREVldDNLbm1BRGxEVTJXTXFmTDZ5WGdabWdvbFhsd3M3OVJabGRxekZ5NkEwdGFRSE1jN3JDWGFkMnhXZmVxMGszNUxLU2kyY1I1Y3k0cWdfOEZXNHBkQkpzQ2FjS25LSlA1Qkc2MDBySmF1NWpUQzhSeXpXOXJWR1plb1JRSXQzak9UdnhGVzdwakRhczd5WmY1aW1fOElaOUZBNy1VSkhSN3lCaXpzOWZrV0FjT25BSGhrWlHSAfMBQVVfeXFMTUhwdnVjUVptcjVzRWVITXYxSWJSeW1NTkVKT0VGYmV2VnVzVGpFdERqYUE0blNlaV9DVzg1ZlRVVlZwVmFBMmZ6djR0a19qY3pIeUMwR1RMUkZhaldiTFN1VUR5cGNIMVlkTzlzdnRHTS15TWFIZ1F2YWZOVU9WN0ZlRzFERTk5bFduN0Y2RHotajF3cm5jVWNIblVzcnZUeldSbTdQWWhyX0xVV3VKRWJVeDE5TkhrY3JadnZMYVVZSnBTdWNHLVNpZkJwUTg2dFN6STRSWktZZ0pfOVN6aWxQTWIxZnFHZ3liZ2c5cHRLRDZB?oc=5",
-          "description": "A 72 días del Mundial, Ghana despidió a su DT tras sufrir dos derrotas en la fecha FIFA &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-03-31T11:20:00+00:00",
-          "score": 2,
-          "score_reason": "Información factual y clara sin carga emocional adicional.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Irak y República Democrática del Congo sellaron los últimos pases al Mundial; Bolivia y Jamaica se quedaron afuera",
-          "url": "https://www.teledoce.com/programas/especiales/mundialxlatele/irak-y-republica-democratica-del-congo-sellaron-los-ultimos-pases-al-mundial-bolivia-y-jamaica-se-quedaron-afuera/",
-          "description": "La alegría de los nuevos invitados contrasta con el sueño roto de los bolivianos, que han completado 32 años de ausencia en los Mundiales La entrada Irak y República Democrática del Congo sellaron los últimos pases al Mundial; Bolivia y Jamaica se quedaron afuera se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-01T09:32:28+00:00",
-          "score": 4,
-          "score_reason": "Lenguaje contrastante: 'alegría' versus 'sueño roto' añade matiz emocional.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "En la fecha FIFA reciente, se registraron movimientos importantes en selecciones nacionales de fútbol. Ghana despidió a su director técnico luego de dos derrotas consecutivas, a 72 días del Mundial. Simultáneamente, Irak y la República Democrática del Congo aseguraron sus clasificaciones al torneo mundial, mientras que Bolivia y Jamaica quedaron eliminadas. Bolivia completó 32 años sin participar en Mundiales. Estos cambios reflejan decisiones drásticas de algunas federaciones frente al desempeño deportivo previo a la competencia internacional.",
-        "coincidencias": [
-          "Hubo cambios significativos en selecciones durante la fecha FIFA",
-          "Algunos equipos lograron clasificación mientras otros quedaron fuera",
-          "Las decisiones afectaron directamente a equipos en competición internacional"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza cambio directivo (despido del DT), Teledoce destaca resultados clasificatorios",
-          "Teledoce usa lenguaje emotivo ('alegría', 'sueño roto'); Montevideo Portal es más neutro",
-          "Montevideo Portal prioriza urgencia temporal ('72 días'); Teledoce contextualiza históricamente ('32 años')"
-        ]
-      }
-    },
-    {
-      "id": "story_010",
-      "topic": "Taxi atropella a madre e hijo tras choque",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Un taxi chocó contra una camioneta, se subió a la vereda y terminó atropellando a una madre junto a su hijo",
-          "url": "https://www.teledoce.com/telemundo/nacionales/un-taxi-choco-contra-una-camioneta-se-subio-a-la-vereda-y-termino-atropellando-a-una-madre-junto-a-su-hijo/",
-          "description": "El taxi circulaba a alta velocidad cuando una camioneta se cruzó en su trayectoria, provocando el impacto La entrada Un taxi chocó contra una camioneta, se subió a la vereda y terminó atropellando a una madre junto a su hijo se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-01T00:18:32+00:00",
-          "score": 3,
-          "score_reason": "Descripción cronológica de los hechos; detalla causa sin carga emocional excesiva.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Taxi desvió al chocar en esquina “peligrosa” y embistió a una madre e hijo; están estables",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb3JMaG1oS18yMUI2M3Fxa013dHA3N1plODY1NTBkbUg0bmprWUE3ZEVOODFzUjFTWGxQTGJVTUo0R2FkWmpmcjE0UWNOVk9HS0g3ek52aHY0TmhXV2hZX2czbnFWUm01MW5LbjFteUNySEhhZy1JeHd2VHBKSDdBOHBkZG1JVUE4S2R1TG5tT25vaFYwdXdzaFhfMHpEa3Vnb3FuaDVMVGM0RHg1NU5nNVZXUGhuNDhQN2xHQW9lMGh5cXFJbVBFTDdkTzdmSndT0gH0AUFVX3lxTE0tN19RcV94MDlORUxCdWtsQXFKLTVocWY1OUJHaWxNa2k1U3hRblFZX0pPbVNqcEhPeUNtWjVVcGNKSEhVcFVleXR2RTJxZl9ia1cxUVJhaUNEQk43QU9IUG5sd3ZJNU9CTExPTzNKYkV5UHhjU0FNb3FFWXJ6dW5fOXdDU2lPdlRTVHRpeFMyM0lDenVkWDRUd3pqVjBkaF9PQzVEWUROdGhnUG4za3BiSy1YQVRaaExaN1FFT3NWWkI4elBSQWF6VTcwOXo5QzV3U29LNGFXYmFlMTFzWGFnd2lsdDJKOFI1X2N0ZmI0OEk1bEM?oc=5",
-          "description": "Taxi desvió al chocar en esquina “peligrosa” y embistió a una madre e hijo; están estables &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-01T00:59:00+00:00",
-          "score": 4,
-          "score_reason": "Destaca la esquina 'peligrosa' entre comillas; leve dramatización del contexto.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Un taxi colisionó contra una camioneta en una esquina de Montevideo. Tras el impacto, el vehículo se desvió, subió a la vereda y atropelló a una madre con su hijo que se encontraban en el lugar. Las víctimas fueron asistidas y se reportan en estado estable. La camioneta habría invadido la trayectoria del taxi, que circulaba a velocidad elevada.",
-        "coincidencias": [
-          "Un taxi estuvo involucrado en un choque que resultó en atropello a peatones",
-          "La madre e hijo fueron atropellados tras el impacto inicial",
-          "Las víctimas se encuentran en estado estable"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza la 'esquina peligrosa' como factor; Teledoce culpa principalmente a la camioneta",
-          "Teledoce especifica que el taxi circulaba a alta velocidad; Montevideo Portal no lo menciona",
-          "Montevideo Portal usa comillas en 'peligrosa' sugiriendo cuestionamiento; Teledoce es más directo en la narrativa"
-        ]
-      }
-    },
-    {
-      "id": "story_011",
-      "topic": "OSE confirma persistencia de emergencia hídrica",
-      "category": "Sociedad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Presidente de OSE dijo que las lluvias \"han sido un alivio\" pero que la \"emergencia hídrica\" continúa",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOU5saGktME1IUGVPZDV6UWJybllwVC1QNzRVUTdqa1A3MHpGRjYyZk1kWTRDSm0xczJoTGdyOWpLVHZwWkY5MGg4TlUwbVhSVTctdVM1d3hGVzNPQWxWYlRoSGMybzNqY3ZEazRySmh4WU5aSE8wcVdsRUN4OTUxbEExbmI3UndTQ0N5TnBtbFB2Ykt0cVBncjhHUWVTOTNObWtzbjFkYU03Q1I4TjdES0RtUWx3NmxVc2FlV3JTSDdpcFZtMUsyRjhoN3jSAdIBQVVfeXFMTlQ0aWMzMEI4dFJjZmt4dnZUcENYYWM0WDZ6T2Y5YUFzeFNEbVFPSUxadHI4V3R2TFlINUp0NmpFNERHRVRsM1ZzTVNHRWVyUk0tSE9ZTk5aNTM3aHVfYmxNQzlZbzdzamNmbG02M2lXcFVTMkNfLUptWGhtMGtNWU42cHdyY3h1OU9HZngzVzBNa2F1SDZ1MFRlYnhqclFyR2RidlQ1d0tfNVlzNkZ6ak5hSlEtYk1oeVdtdG00Q0ZFYlVDZzhyWkVKalBPSGdZVEhR?oc=5",
-          "description": "Presidente de OSE dijo que las lluvias \"han sido un alivio\" pero que la \"emergencia hídrica\" continúa &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-31T17:40:00+00:00",
-          "score": 2,
-          "score_reason": "Presenta ambos aspectos de la declaración de forma equilibrada y directa.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "OSE advierte que la emergencia hídrica persiste pese a las lluvias",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLWxnaklvXzh0WDRiVjV0MFVXRlhlQ2pwTnI0djhMd0pIT21BdHVYdDhsVGU0Q2FEcnlQZUEwVUhxbmpRWTJMTV84T09ZZnUyT0NHclNwQm9Xb3NMZk9aTG41RlRpRzA1M0QtTVRLcHlPSjNJM2R3U0ZRazVheFU0bk9CaEVfaUtsR0FvS3BkT1ZaUEpIUkxRdWhSOUltb2xEeEhBZUEyOGE?oc=5",
-          "description": "OSE advierte que la emergencia hídrica persiste pese a las lluvias &nbsp;&nbsp; grupormultimedio.com",
-          "pub_date": "2026-03-31T19:57:16+00:00",
-          "score": 4,
-          "score_reason": "Usa verbo 'advierte' que enfatiza la alerta, minimiza las lluvias con 'pese a'.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "El presidente de OSE declaró que las recientes lluvias han proporcionado alivio a la situación, pero advirtió que la emergencia hídrica continúa vigente en el país. A pesar de las precipitaciones, los niveles de agua no han normalizado completamente, por lo que se mantiene el estado de alerta respecto a la disponibilidad de recursos hídricos. La declaración refleja una evaluación matizada: reconoce mejoras puntuales sin minimizar los desafíos estructurales persistentes.",
-        "coincidencias": [
-          "El presidente de OSE se pronunció públicamente sobre la situación hídrica.",
-          "Las lluvias recientes ocurrieron pero no resolvieron la emergencia.",
-          "La emergencia hídrica sigue siendo la preocupación central de OSE."
-        ],
-        "diferencias": [
-          "Subrayado da igual peso al alivio y la persistencia de la emergencia; Grupo R prioriza la persistencia.",
-          "Subrayado usa 'dijo' (neutro); Grupo R usa 'advierte' (connotación alarmista).",
-          "Subrayado destaca el alivio como aspecto positivo; Grupo R lo subordina como insuficiente."
+          "Montevideo Portal enfatiza responsabilidad penal del conductor imputado.",
+          "Subrayado prioriza la perspectiva emocional del padre del fallecido.",
+          "Uno destaca proceso legal, otro humaniza al victimario."
         ]
       }
     },
     {
       "id": "story_012",
-      "topic": "Conflicto vecinal con disparo en Salto",
+      "topic": "Canelones organiza jornada sobre cultura cafetera",
+      "category": "Cultura",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Canelones dedica una jornada a la “cultura cafetera” y tendrá diferentes propuestas",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPam9mR0s0Y1UyNDNzZnNzZ0pCZldWY2F3d19oS29sSWd3QTRXQlBIU1Zaa2pvTGJORG1nRXB4RzBhOFc2VUxlN2V0YXdmM0FsYlNZdWNtdi16NDhMeUFqMHFkMW9lZTVvTmpGczhBX05wX2VrUlJtZmpWS2VNdmlBSWx5U0ptLU1nNDg1aGJwLW1YTk9nVXFhSG92a3psblBWaHlLLWFLM1J6MEVVc01Bd1BFLWZVR01BMVZtTkFfMWxkZnVUYzdqYtIB7AFBVV95cUxQRnAtNVE4WEZVczhFZVhxVkhDQ0F2MFFwZ24taWFCN2dpWG4wSHhpR0FoZEJOQU1CVV95dU43NFVKOHVYdlU2REtocXppYXpxSUxlZjZxVmhhVWJhZG9heVR0X3h4N1kxVXdqOGlCTmpFUF9iMEUxR2g0S2FtQU1PdFpCQWt2SXNsdGliT012ZlNNSW0zSDZrVXdWUmFuMTVTODN4bUNQandIRXVWdTdKSWhWM0xSbEdjWlNYY3FPSXlfdTdUb2VPRUg0aTNSQk1oY0xiZ3BnMzQxamN0OFg1WUlaM2k5OFdIaUNPZg?oc=5",
+          "description": "Canelones dedica una jornada a la “cultura cafetera” y tendrá diferentes propuestas &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-01T18:36:00+00:00",
+          "score": 1,
+          "score_reason": "Lenguaje objetivo, informativo, describe hechos sin énfasis.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "\"Tarde de Café\", la novedosa propuesta turística de Canelones",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1VpX1MteFI0OVFnVG1sQ09zNmxuZVFzQTNFODVrTThyWEFtUm5sUnE4emw1SGJBbDBSUndXRC1Ec0hxcUNacFpYRXBEMXRmUGIxTlBJQmFoLXpwbHE5Y2V6RkdDNHRKcVNFejVZWVFBWXRUUDNtekdXaUF1TVh5dmVYMWEzOW9fTUhyTU9RZHhXMXI3eUdCcHRIa2NRalA2MjBz0gGoAUFVX3lxTE93a21VR2ZKMXgtdEVWeGtka2ppVTNhQmVSWHdJbE1leE5wQ3FoYVF2WmdGUVRPSW1tZFdyQkk1NzM5RXRSblZ5VFNJM29iOGpwekI0TzlXNHdYc2E3REFudnl3dUVFNWRkM2MyU0oxZzNrXzZXMkFDZE5NUlJnT0pzQ0wteHRTbjJWTDY1V0dfUFNWWWNYYi1fU2hqVWxVeVdTN21kelBSWQ?oc=5",
+          "description": "\"Tarde de Café\", la novedosa propuesta turística de Canelones &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-04-01T14:19:00+00:00",
+          "score": 3,
+          "score_reason": "Destaca lo 'novedoso', añade carga positiva moderada al evento.",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "El departamento de Canelones realizó una jornada dedicada a la cultura cafetera con diversas propuestas y actividades. El evento buscó promover esta temática entre visitantes y residentes, ofreciendo diferentes opciones para conocer y disfrutar de aspectos relacionados con el café. Se trata de una iniciativa orientada al turismo y la difusión cultural local.",
+        "coincidencias": [
+          "Canelones organiza una actividad sobre cultura cafetera",
+          "La iniciativa incluye múltiples propuestas y actividades",
+          "Tiene orientación turística y de promoción cultural"
+        ],
+        "diferencias": [
+          "Montevideo Portal usa término neutro 'jornada', Caras y Caretas lo denomina 'propuesta turística'",
+          "Caras y Caretas enfatiza lo 'novedoso' del evento",
+          "Montevideo Portal presenta como evento informativo, Caras y Caretas lo posiciona como atractivo turístico"
+        ]
+      }
+    },
+    {
+      "id": "story_013",
+      "topic": "Sebastián Marset comparece ante justicia estadounidense",
       "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Estaba escuchando música, llegó un vecino e insultó a su pareja; fue a recriminarle lo sucedido y el hombre disparó y lo amenazó de muerte",
-          "url": "https://www.teledoce.com/telemundo/policiales/estaba-escuchando-musica-llego-un-vecino-e-insulto-a-su-pareja-fue-a-recriminarle-lo-sucedido-y-el-hombre-disparo-y-lo-amenazo-de-muerte/",
-          "description": "Ahora la Policía de Salto y Fiscalía trabajan para el esclarecimiento de lo sucedido. La entrada Estaba escuchando música, llegó un vecino e insultó a su pareja; fue a recriminarle lo sucedido y el hombre disparó y lo amenazó de muerte se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-01T10:04:03+00:00",
-          "score": 4,
-          "score_reason": "Presenta la secuencia de hechos de forma más contextualizada sin carga valorativa.",
-          "score_pct": 40
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Fiscales de EE.UU. dicen que es “probable” que presenten más cargos contra Sebastián Marset",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc3NwVzVSTmRtdEg1eFJYRVJMVWlxWEhESDNJN3ZOREZCa1R3UDFzLWdlbHlHWktwdi1EUU9CalY2N3FEX3FMYldBZlFIdzBnbWtRb0xrenNnbVh1OFp4Uy1nQ21Xdk95Tmo2QllIc1NrVnZVSlR6dEtkV2FuNlU3dDdOZmZvVGtiWUluS2RZdnBFbXk5VC1RdzQwNnJCZ1dHMDZPWElqZ0hnYUdvNEhoOE1GNUFUSDlmNEhVbTRnLUV6R1BUeWxLOUNVZU5XZw?oc=5",
+          "description": "Fiscales de EE.UU. dicen que es “probable” que presenten más cargos contra Sebastián Marset &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-04-01T17:13:00+00:00",
+          "score": 2,
+          "score_reason": "Informa hechos concretos sin calificativos previos.",
+          "score_pct": 20
         },
         {
           "source_id": "subrayado",
@@ -663,77 +836,77 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Un delincuente intentó rapiñar a un repartidor y fue detenido por el trabajador y un vecino que resultaron baleados",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV0NmbGpMSy1peFVYc0NHZHZsTnA1VnpMWWhkaG1XWTRaQS1CWGZrU1NBaWRHZHBqcm9ueTBpOHREc094MzdGMkJlcmVZdHRLLS1IblpMaTF1U0RWdVNpdng3d3dYNmV4MzBsTEV1Y2hjUnN1ZWxWMjNfSk40OUFSQkt5VVhfa2w2NHpZLW5QdWpfa05PZ1htMlcxUDBKd3I1VFRfV2ttYWJtNlJZdkpDVFZjbGdRQlhhcFMyWjBtdmRjVUM2RkZBZ3N4bFg3ZDh4UnJxNmFHOFlPM2ZrY21waNIB5gFBVV95cUxNTi1yMWs0WExPYThrXzRhOWVOM2dPMk5TdHNTMy1fQzNMdE5reDlMd3hjLXkyWGh5SnBxUnlyLTdjMWZwNUl4TFlfOUthR0VoOU51UmFmZkk3TmsyX2xkS2lEV2pseTZlOVo3OUpHOWRuVjkwTzZHN013OEpQNURLU1VyOTBQX1pQS3RyQVZjdXJGRllpSlZaRW1YUXZhelQwakxUOWNub29VRzNwczlobm8yVUY3Y1RGd3hLUENvckI0T3FWZDRtTVAyUlVnQUNTMmRzRUg3MVFuMGNQb1B0SWZ3VWdCUQ?oc=5",
-          "description": "Un delincuente intentó rapiñar a un repartidor y fue detenido por el trabajador y un vecino que resultaron baleados &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-03-31T20:04:00+00:00",
-          "score": 6,
-          "score_reason": "Enfatiza la detención del 'delincuente' y minimiza el conflicto previo.",
-          "score_pct": 60
+          "title": "El narco Sebastián Marset declara este miércoles ante la Justicia de Estados Unidos",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYjE5enJ2eGk0c3YxbFhNYmxxaEJsc1B0NGpOcHRrWGI2WGJIUUZHdUs2UHlwYi1Ed29FcHlBMEJvUkpFV1gzblhBQkp3UnBCbXpFWDB0VjhHVWpIXzhGUk11Q085NnVNbV9LU0ZfV05oVkV2eHJwVDU0c1U1V01HUWVVeEdnMmdxTUFORWpONEIySVlKV3owUk9vYlJxRll0NjV0RkxnU244Y1RwNFpFQzNIRdIBuAFBVV95cUxNak9CRUZfOWVSUzNvT0hKdHl0UEVYR3Q5NzNTSFlOYTRsRFBLc0F4aThtWGI1OUlhRjlIeU9ZeEw3VVVLUUpzWVlVMXlRVXNyMkFJa3ZTV0pTUEhpcjBmaWNqcGxrLVZNeGthdS1XNXQxbG5xOWRUU09JNGp6T1BGMGRKR3JoVHk1Mk1McFhYckhHUDJlQWtHYTI5dlpEemZvWm9Lb3Z2RjFmLVBaSlNqdWJPSTc0Qjg3?oc=5",
+          "description": "El narco Sebastián Marset declara este miércoles ante la Justicia de Estados Unidos &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-03-31T23:06:35+00:00",
+          "score": 7,
+          "score_reason": "Utiliza 'el narco' sin presunción de inocencia, prejuzga.",
+          "score_pct": 70
         }
       ],
       "analysis": {
-        "resumen": "En Salto se registró un incidente donde un hombre disparó contra vecinos. Según las versiones, el conflicto comenzó cuando el sujeto insultó a la pareja de un vecino que escuchaba música. Cuando este fue a recriminarle lo ocurrido, el hombre sacó un arma y disparó, hiriendo a dos personas. El atacante fue detenido por la víctima y otro vecino. La Policía y Fiscalía investigan los hechos para esclarecer las circunstancias exactas del enfrentamiento.",
+        "resumen": "Sebastián Marset, presunto narcotraficante uruguayo, declaró ante la Justicia de Estados Unidos. Los fiscales federales estadounidenses indicaron que es probable que presenten cargos adicionales en su contra. El caso se desarrolla en el contexto de investigaciones sobre tráfico de drogas que involucran a personalidades de origen uruguayo. La comparecencia ante los tribunales norteamericanos marca un avance en el proceso judicial internacional contra el acusado.",
         "coincidencias": [
-          "Ocurrió un disparo que hirió a personas en Salto",
-          "Un sujeto fue detenido después de los hechos",
-          "Hubo intervención de vecinos en los eventos relatados"
+          "Marset comparece ante justicia estadounidense",
+          "Hay probabilidad de nuevos cargos contra él",
+          "El caso se desarrolla en Estados Unidos"
         ],
         "diferencias": [
-          "Subrayado enfatiza al atacante como 'delincuente' y destaca la detención; Teledoce contextualiza el origen del conflicto",
-          "Subrayado presenta el marco de una rapiña; Teledoce narra un conflicto interpersonal con insultos",
-          "Subrayado omite detalles previos; Teledoce explica la cadena de eventos que precedió al disparo"
+          "Subrayado lo identifica como 'narco' sin distingo; Búsqueda mantiene neutralidad",
+          "Subrayado enfatiza la declaración; Búsqueda enfatiza potenciales nuevos cargos",
+          "Subrayado usa lenguaje prejuzgador; Búsqueda usa lenguaje técnico-judicial"
         ]
       }
     },
     {
-      "id": "story_013",
-      "topic": "Bentancur advierte sobre protección de sus jugadores",
-      "category": "Deportes",
+      "id": "story_014",
+      "topic": "Trump anuncia retiro de guerra en Irán",
+      "category": "Internacional",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Pablo Bentancur: “si tocan a mis jugadores yo reacciono” | La Mañana del Fútbol | Entrevista",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeE5wbEZzTFpHRHd1TU1BWDAwd0FQLTBqZ01wY2VkdTg1NXlxSllFVHhLbnl3Q3dDa3BEdTJ3bGxIMVBlaFRFakpJUWNfY3RpT1dQQzMwcFVZeEhvLXdhWXZVM2hnNE8yVHRkVUttakloRXZBZmRPRTZrRFNhMm05MHJ1eC1vbFczQlFCYURjQkpYdUNGY2JGNW5EbkE?oc=5",
-          "description": "Pablo Bentancur: “si tocan a mis jugadores yo reacciono” | La Mañana del Fútbol | Entrevista &nbsp;&nbsp; espectador.com",
-          "pub_date": "2026-03-31T13:30:40+00:00",
-          "score": 4,
-          "score_reason": "Cita directa con contexto, pero énfasis en reacción emocional.",
-          "score_pct": 40
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Trump asegura que Estados Unidos se retirará “en dos o tres semanas” de la guerra en Irán",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV0lBUmpKQUVGZC1HZkl2QVdxLVFraWhCRHE4dVRvSGVHUkV6NDhpZEdmdXBSc0NtRFJtVGlCNGFDZzdoWllrVUhaMzNzbVVrOVM0NzRkdHhEOHhtV3BkdHl0TWM2QU56M2tQNlRmM1hDRDBmMUVYMGZXRjNMcFBkTnlkSUhTeVctdEpNdTdzSlZxSzlNaVBRSVBWMzMxbEdRUDNYWTVzMG50cVhBOTdVTm5xRXVlRERDS0dOcjFNZEJTcGdCeUZ5SHdORkI?oc=5",
+          "description": "Trump asegura que Estados Unidos se retirará “en dos o tres semanas” de la guerra en Irán &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-03-31T23:30:00+00:00",
+          "score": 3,
+          "score_reason": "Enfatiza cronograma sin incluir amenazas; encuadre más directo.",
+          "score_pct": 30
         },
         {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Enrique Floreal Delbracio Parma",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5SFRaYmY1dXdZZEZBX1hyRkY3c3J4bzFCS25HeE51M3NHUnBWZlVTZk12UWtaUEZZYUpHMmxOdEd4bzdhVTFEYktiUkhkNEN4d2N2Z2hHNWppQnhaM1lhQTZIUUxkbFl2RzN5TlkwcmFmTG5mOHA1dHJB?oc=5",
-          "description": "Enrique Floreal Delbracio Parma &nbsp;&nbsp; grupormultimedio.com",
-          "pub_date": "2026-04-01T03:10:21+00:00",
-          "score": 8,
-          "score_reason": "Titular confuso y desconectado; no comunica la noticia efectivamente.",
-          "score_pct": 80
+          "source_url": "https://www.teledoce.com",
+          "title": "Trump dijo que la guerra en Irán está \"casi terminada\", pero que vendrán semanas de varios ataques: \"Vamos a devolverlos a la Edad de Piedra\"",
+          "url": "https://www.teledoce.com/telemundo/internacionales/trump-dijo-que-la-guerra-en-iran-esta-casi-terminada-pero-que-vendran-semanas-de-varios-ataques-vamos-a-devolverlos-a-la-edad-de-piedra/",
+          "description": "Sin embargo, advirtió que si no se alcanzaba un acuerdo, Estados Unidos \"tenía la mira puesta en objetivos clave, incluidas las plantas de generación eléctrica del país\". La entrada Trump dijo que la guerra en Irán está &quot;casi terminada&quot;, pero que vendrán semanas de varios ataques: &quot;Vamos a devolverlos a la Edad de Piedra&quot; se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-02T10:26:56+00:00",
+          "score": 6,
+          "score_reason": "Destaca amenaza extrema ('Edad de Piedra') como gancho principal.",
+          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "El entrenador Pablo Bentancur realizó declaraciones en una entrevista donde expresó su postura defensiva respecto a sus jugadores, señalando que reaccionaría ante agresiones hacia ellos. El Espectador cubrió la noticia como parte de un programa de análisis futbolístico, mientras que la información del Grupo R Multimedio presenta un titular confuso que no clarifica el contenido específico de la noticia ni su relación directa con lo declarado por Bentancur.",
+        "resumen": "Trump declaró que la guerra en Irán está casi terminada y que Estados Unidos se retirará en dos o tres semanas. Sin embargo, advirtió sobre semanas de ataques venideros y amenazó con objetivos estratégicos iraquíes si no se alcanza acuerdo. Las declaraciones mezclan mensajes de conclusión con advertencias de escalada militar.",
         "coincidencias": [
-          "Ambos medios cubren declaraciones de Pablo Bentancur.",
-          "Ambos están relacionados con contenido deportivo y futbolístico.",
-          "Ambos reportan sobre posiciones defensivas del entrenador."
+          "Trump afirmó que Estados Unidos se retirará en breve plazo",
+          "Ambos medios citan declaraciones directas del expresidente",
+          "Se menciona la intención de terminar o reducir operaciones militares"
         ],
         "diferencias": [
-          "El Espectador especifica la cita directa; Grupo R no clarifica el contenido.",
-          "El Espectador identifica el programa y formato; Grupo R omite contexto.",
-          "El Espectador usa lenguaje accesible; Grupo R presenta titular ininteligible."
+          "Teledoce enfatiza lenguaje amenazante y posibles ataques futuros; Búsqueda prioriza el plazo de retiro",
+          "Teledoce incluye detalles sobre objetivos específicos; Búsqueda omite amenazas adicionales",
+          "Teledoce usa fraseología más dramática; Búsqueda mantiene tono más factual"
         ]
       }
     }
