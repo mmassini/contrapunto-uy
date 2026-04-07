@@ -1,11 +1,107 @@
 {
-  "generated_at": "2026-04-06T11:03:15.035079",
+  "generated_at": "2026-04-07T11:01:02.091878",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Tres noticias distintas de medios uruguayos",
+      "topic": "Variedad de noticias nacionales e internacionales",
       "category": "Otro",
-      "sources_count": 3,
+      "sources_count": 5,
+      "headlines": [
+        {
+          "source_id": "lr21",
+          "source_name": "LR21",
+          "source_short": "LR21",
+          "source_color": "#827717",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.lr21.com.uy",
+          "title": "Cuál es la jubilación mínima en Uruguay en abril: los montos vigentes del BPS",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZUtYTXA1X2hYQVBPcnVKeU45bFl1ZzY0bVFlRFpiRllZdlVZdzNoRU9ZWXVYSEhRYklKMndvTHlPQkFhMkE1VjAyM3M5bDdBcmI4b0p3NVFYNlQxN192X3dMUXB1LUVac3VWcjJSaWtOaFZ0N1lsUDRHREx0dUtoNC1EWVh0dDg?oc=5",
+          "description": "Cuál es la jubilación mínima en Uruguay en abril: los montos vigentes del BPS &nbsp;&nbsp; LaRed21",
+          "pub_date": "2026-04-06T00:20:43+00:00",
+          "score": 1,
+          "score_reason": "Titulación puramente informativa y factual sin carga emocional.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "¿Qué te dejaron los amistosos de Uruguay? | Los Mismos Locos | Pasó en Locos",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMnczZ0JaRjNDZzBHOEk5aklBc1c3cGsxU1ZsaTNSRGdVRS0yNjUxazVVc1VpODA0Umt5ME5PMUl6c2pBZkFJN3dGVzV2dEpudnhhbXNWN1V2RjFZV3FhektQOHMwZ29oM3lvajA0V1c1ZkctbWdnS2w2Q08wYmlpUU5NQUdrbFlmVkQtZU9NZXd4bFk?oc=5",
+          "description": "¿Qué te dejaron los amistosos de Uruguay? | Los Mismos Locos | Pasó en Locos &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-04-06T02:33:29+00:00",
+          "score": 2,
+          "score_reason": "Pregunta conversacional; tono neutro sobre análisis deportivo.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "El 82% de uruguayos percibe más gente en situación de calle",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3Q4cmpkc1YtNWlrS3ZTWDVnUUQtQUhNU0hVQkl0QjZDeW5JcG1HbS1xYlUyY0VKVDhMbTBZcEtiX1lxaFZWZk9qZEROTW1iNmRSQlZfWXpaQWxxeHphUFpkYWxNN0V6cmJSX3haVkw0bFIyRTdETHZZcC1WTXNRaGhEMlJnOURs?oc=5",
+          "description": "El 82% de uruguayos percibe más gente en situación de calle &nbsp;&nbsp; grupormultimedio.com",
+          "pub_date": "2026-04-06T18:58:17+00:00",
+          "score": 5,
+          "score_reason": "Datos numéricos impactantes sin contexto comparativo o histórico.",
+          "score_pct": 50
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Desde Brasil advierten que Uruguay quedará en medio de “masas opuestas” y qué sucederá",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWE96SWdTSVRud1ZDU3Y2MVM2TnVSWmp3QVVpbmxjOURvaTVZdTNVbFdkb09tSV9RSlhMX1FPdlZfSU1lVEI3Y1l0TzNWYzJWR1RJcVQ2dWpxTzVybGZHNUhwbFQxU2E3WTJzeDN0bmN1X1hEc0pOSmxpaUh5eDZHRXJVRXNpWXVfRmoyT2JFeEkxemNPWDhoemFfWU82R3J1SEZxbDZqNjFBQS1YZE5LVGpxNlVoUEYwenU2eW9KMTZJSHEwYzQ5dG53SlZObDVrQUFiQUFkTkVjVFlY0gGAAkFVX3lxTFA1MUItNkEwaU04LW5PMk8za1UwVGZLWTkwYk5OdU8wVVlsdHFPYkhXb1pxZzhXeU5mcnhzQm9CaFFTcjJZMC01aWlmS1ZIY0duTzZQU1N2alA0Z0h6SHpQaHB0SmxLTnAxeFp6Tmg5azBZZFphRzcwNl9vdUhYVm5NV2lnQ0p1aUJySGFuM2hNdkpKYmQ0eDVJa0ZKaHdUakRva1ZLY016RVZrUjhXT3dWUWVYM245RkN4cHlsaHJFczdtbnZMc19uT3J3TzhZZzdHRjNRSDI1cTFkYVVRQ2pVMF9ENnVaUW81QmdCZmFobkN6bThhZlVqa0RFVVVOTHg?oc=5",
+          "description": "Desde Brasil advierten que Uruguay quedará en medio de “masas opuestas” y qué sucederá &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-06T13:26:00+00:00",
+          "score": 6,
+          "score_reason": "Usa comillas y expresiones alarmistas como 'masas opuestas'.",
+          "score_pct": 60
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Con Marset como uno de los ejes, Uruguay recibirá a agencias de droga de toda la región, incluida la DEA",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOalRpT09CcWVub3BmZGU1MnEwNXpfT1JqUmpGdG9vQlpHNDkzUEc0V0pVMVlIRlR6dzZpUHVyTTF3aWcteGZXR1JBOWxSaVhTMU9XWDY5RGRHVm5aWmxPME8xMl9KaGo0U2FoRUptT2VTbWdVMFB6SWpIdHAxNEdaZHFDcEh5REg2RGFwSElyOVVHSmNvdWh0LU9lUUhxRFNGdHlQT25iel9EbThDTHpXQ1ctREtNbGZ1WXJWT1M2OWM1TVlZUG9FUEpseDBVckNqZXUzTmQ2TQ?oc=5",
+          "description": "Con Marset como uno de los ejes, Uruguay recibirá a agencias de droga de toda la región, incluida la DEA &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-04-06T20:55:00+00:00",
+          "score": 7,
+          "score_reason": "Prioriza figura controvertida; estructuración sensacionalista del tema.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Los medios uruguayos cubren distintos temas de actualidad sin aparente conexión entre sí. Destacan advertencias desde Brasil sobre tensiones políticas, información sobre jubilaciones mínimas del BPS, una conferencia regional sobre narcotráfico con participación de agencias internacionales incluyendo la DEA, análisis del desempeño de la selección de fútbol en amistosos, y una encuesta que refleja preocupación ciudadana sobre aumento de personas en situación de calle en el país.",
+        "coincidencias": [
+          "Todos informan sobre realidades uruguayas o que afectan a Uruguay.",
+          "Ningún medio repite o cubre la misma noticia específica.",
+          "Cobertura diversa refleja pluralismo editorial en la prensa nacional."
+        ],
+        "diferencias": [
+          "Montevideo Portal e Búsqueda enfatizan temas internacionales/geopolíticos; otros medios priorizan asuntos domésticos.",
+          "LR21 y El Espectador tono informativo-neutral; Búsqueda y Montevideo Portal más sensacionalistas.",
+          "Grupo R Multimedio usa datos de percepción ciudadana; Búsqueda enfoca figuras públicas específicas."
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Política, fútbol y medios en Uruguay",
+      "category": "Otro",
+      "sources_count": 4,
       "headlines": [
         {
           "source_id": "ladiaria",
@@ -19,22 +115,22 @@
           "description": "Nace la diaria Radio &nbsp;&nbsp; ladiaria.com.uy",
           "pub_date": "2026-04-06T03:48:12+00:00",
           "score": 1,
-          "score_reason": "Titular puramente informativo, neutro, sin carga emocional.",
+          "score_reason": "Informativo puro, anuncia lanzamiento de proyecto sin carga.",
           "score_pct": 10
         },
         {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Divulgaron los audios VAR de los penales que reclamó Nacional ante Central Español",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQVQ4TFd1elp2aUNWZncxWEZoS09KZnZtUUMzVUdLbnk1TjM2RWYwZXdPLUNKaG15TWJHRGI2eHczdWljaURiNkh3bmYxT3BPYTUzRlRkMUhwQUxRWFlqZ0xXZXBweE50RUFfVUFpVUJvdFIzZl9RM3N3NnVycFJIZzBPSGtWUFgyYXJNbW15TEJQcGdIaGdTLWpNN1IwTTg3NS1EMG1Lbi1URmtJdFdyRTdBeXF1TjlfUE9ocVkxRUVZNDA4c2dsUWZB0gHuAUFVX3lxTE55RDVlTUx0NlB4a2E4Ym02WUNOWDcwRllWWmJVMG52VXR4N04zdUluV3Q0TzVWSWYtNVJwUXpLMkNyYjktdldVdzRoajcwSmh1eFVfSndsZGM4SWFMNDJZNUlzMEtqcFpraHQ0RjJsMDV6THRXOEUzN1JnVThWVm1UbmJpb2lJQ3g0cVRldFdmd3ZIWXJlRkJuS0t4M2lWTEZ0dlJpem5oeXhRRDBOWlp2VUE2SW04S0JPdnB0RVZTc2xkQlZicEJUQkR0c1lJSkpSSmtHYUxGU25jRGZuckhrNm4wNmRwOElTR0Zhb1E?oc=5",
-          "description": "Divulgaron los audios VAR de los penales que reclamó Nacional ante Central Español &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-04-05T20:37:00+00:00",
+          "source_url": "https://www.espectador.com",
+          "title": "Pablo Peirano: “no me esperaba salir de Nacional previo a la final” | Las Voces del Fútbol | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOai1KcjlVZm5kUGlZaC1WWkM0V1ZLaDMxVlVxNlF4ZVhqX3M0b2xQTXpxSjFLYldvR1RKNmdLTE51UHZxV0RNa0RSOFNIa3o4MkRieWd3MFA2VnBWamZuWFNLZXF5cGZjT29iMmhKM0JTcm9HNFFTOUxjSlFHZlRHSjR1NUxRWEZ1RVYxVXhKeUdQNC15RjdXSG5xWFJMcmQ0dVZlWEJDcFdia3VMNjg3XzFCT3cxNFU?oc=5",
+          "description": "Pablo Peirano: “no me esperaba salir de Nacional previo a la final” | Las Voces del Fútbol | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-04-06T20:18:47+00:00",
           "score": 2,
-          "score_reason": "Informativo directo, hechos claros, mínima interpretación subjetiva.",
+          "score_reason": "Titular con cita directa, informativo, encuadre neutro.",
           "score_pct": 20
         },
         {
@@ -44,64 +140,13 @@
           "source_color": "#6A1B9A",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.grupormultimedio.com",
-          "title": "teatro solis archivos",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12blhLdWxJOHlHTkZuR0VmdTRsR0RjcDlaVk1FSU51S3JTcVJ5RW5sUEFidk5IMzdCUUJ3aWllWHl3ZDlkVUt3VGlCckdmZF93am5kTjU2UHMwQQ?oc=5",
-          "description": "teatro solis archivos &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-04-05T12:49:29+00:00",
-          "score": 3,
-          "score_reason": "Titular vago, sin contexto, requiere más información para entender.",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Los titulares presentados corresponden a tres noticias completamente diferentes: el lanzamiento de un nuevo servicio de radio por La Diaria, la divulgación de audios del VAR relacionados con penales reclamados por Nacional en un partido contra Central Español, y una noticia sobre el Teatro Solís que no se detalla suficientemente. No existe una noticia común entre los tres medios, por lo que no es posible realizar un análisis comparativo de tratamiento periodístico sobre un mismo evento.",
-        "coincidencias": [
-          "No hay coincidencias: se trata de tres noticias distintas.",
-          "Imposible establecer puntos comunes entre eventos diferentes.",
-          "El análisis comparativo no aplica sin una noticia compartida."
-        ],
-        "diferencias": [
-          "La Diaria cubre medios; Montevideo Portal cubre deportes; Grupo R cubre cultura.",
-          "Distintos sectores temáticos: radio/medios, fútbol/VAR, teatro/artes.",
-          "No hay diferencias de enfoque: son historias completamente independientes."
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Incidente violento tras salida nocturna montevideana",
-      "category": "Seguridad",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "¿Qué te dejaron los amistosos de Uruguay? | Los Mismos Locos | Pasó en Locos",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMnczZ0JaRjNDZzBHOEk5aklBc1c3cGsxU1ZsaTNSRGdVRS0yNjUxazVVc1VpODA0Umt5ME5PMUl6c2pBZkFJN3dGVzV2dEpudnhhbXNWN1V2RjFZV3FhektQOHMwZ29oM3lvajA0V1c1ZkctbWdnS2w2Q08wYmlpUU5NQUdrbFlmVkQtZU9NZXd4bFk?oc=5",
-          "description": "¿Qué te dejaron los amistosos de Uruguay? | Los Mismos Locos | Pasó en Locos &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-04-06T04:46:26+00:00",
-          "score": 0,
-          "score_reason": "No corresponde a la noticia descrita; es contenido deportivo completamente diferente.",
-          "score_pct": 0
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Los reales desafíos de la formación docente en el Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa1lCZDRuT25DUHVMU0MxV1FOVTRPdWtHNHd6M0hPTEttZ3hwZ25TQV9wdVZCX1IzNjlhVHRieUhnV2ptV2Q1b1FoSktFNHgxZ3AzTVN2ZzFvZUJDS2pESm1VYTFKNTVkVS16dk5xVlpmZG9raDhackdhZEhxTVp2VDhNbzlLY1pRRk9yYmJfN2ZOMkIySU5BUURqdWI?oc=5",
-          "description": "Los reales desafíos de la formación docente en el Uruguay &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-04-05T03:55:27+00:00",
-          "score": 0,
-          "score_reason": "No corresponde a la noticia; trata sobre educación y formación docente.",
-          "score_pct": 0
+          "title": "“Malvinas hoy es una base militar”: la mirada crítica de Rodolfo Carrizo sobre la actualidad argentina",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYlQwTTJzNWhETHhpRk9mUXNVNTc5VG1xUGN4d3VfQnJtaUVQd2p5VU1GdXNIX0gxQnlXRExINFRqQjMxWkFFbW40LXE3d3lMZnFWQzYtcUF2d2l1VF9FTjZxTnZqeHd5eGdlSTNzQWVRQ1ItS2piZ2xaeXJhU3ZZRVBFU2NrdXpTWkFpWXdVSG9LYm9ZM0tPQ0RtdUlGOGhXblpkc0NvUmVBSFJ0TnVQY3RxMWh4b2FWbUsxQ3ZGUDhmaTJ1em9SSnJUWGQ1ZlFrU0pSWQ?oc=5",
+          "description": "“Malvinas hoy es una base militar”: la mirada crítica de Rodolfo Carrizo sobre la actualidad argentina &nbsp;&nbsp; grupormultimedio.com",
+          "pub_date": "2026-04-06T05:16:51+00:00",
+          "score": 5,
+          "score_reason": "Adjetivación crítica 'mirada crítica', carga interpretativa presente.",
+          "score_pct": 50
         },
         {
           "source_id": "montevideoportal",
@@ -110,83 +155,32 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Salida de boliche en Montevideo terminó mal: menores a las piñas y armados en un auto",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQXZ6LUlXRG5yRGFWM2QxaFhsQWNVNEFIX1VHd3pzZXJnYjJaOVhpYXdoOEhZSnRhZ2dadDR0VTZPNXc1VTBsMF9TWFhXMjk5V0VORmdLNmdfaGpoUElGcEdwVWk1OGc4YVBzcElIajllN0VGODlTTV9PVTdHeTRHWUhGcldRZlZhZXh1MEJsLWpMckV3UzdtaC15eW1jcGVLVWJxS1A1Mk9wUzRwNXluRWpsaTJCVmdfSXA0T09sWUFrVzlfUFJGVm9QNW_SAfABQVVfeXFMT29JOUlZdjljMHFpU2p0ZUNqbTN3RkZmNTJsRHUxaWw4eUktalM4aGI4ODVIT3hVekZXeF9CZUNNbktCQm1lckVYbGQ5aDNJT2hnNDhnb1l6enNiT0tOemlFUlE0WllUTDNFdEctMnJlcDFBdVIzNjF5WHpJbTBMbUQ3OS1ZQ05hRFd6NndST2VJUkFCajNIY2pTb0NTQVNrVWgxYjFZaWM1LVo0eVRBelhLT2RNaE93dkh3TGs1R3dkNzE0NnlxNmVaMElQSmZPSFZwbGl5cUxmckRQUE5fR2ZxYUpHV1llaUNCempudElJ?oc=5",
-          "description": "Salida de boliche en Montevideo terminó mal: menores a las piñas y armados en un auto &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-04-06T00:18:00+00:00",
+          "title": "“Que no nos arbitre por un buen tiempo”: Vairo sobre Burgos, Nacional y los audios del VAR",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTlg5WXNtMEZjVFBrMG1SbE83MFJEZmVJUHhDalJnMGhjRld1RUpVN2lKWkFXZi1zbTR4cGJFYk1YVEh3UG5Xc2JBOGtTMHhSLXphcGtzSW1LbmNUb2VXUFlaV0pWMERmSzJVeGw3QklFeC1BNzhHdjdXZm1leXIzdFVLX3BMVGROdzdGZ3lDUy1pQ0JnM0M0TmwwdmNYb2dYQjl4ZzRmWTM4cEk4VWRDMUhLRXF5MmZ4VGwyU013Rlo4emZBQ2R4Y1RGUm9mLUhjU2fSAfYBQVVfeXFMTWU5WXJqLUVmYUtvelBZdDc5V0R5YnZiLUlndHVSY21aMkZGWEZpR1ZiN0RsVXRZSUZ2R1ozdkJMNHB0alJDOV9XUGZNU1RkdUZub3pkVHZDNzFpVjFSRFZJV1dnRDctUDhQQ3FDNXM4cGp5amx3VUUtT09kYmNzaEtpQ0lPUHhlVTBJYVlXS1JYdDZOLUhsRTh0SmV1dmRyUVNtWk1kaUM0REJBcUdIV1FMVFdCODZ5b0VQLWg3aU9CSkpWWjdxSERfaUphUVA1bERGUkt1bUpsUkxCbUxXTHItLWhfN2oteThoMFZmT1ZBb25uM2FR?oc=5",
+          "description": "“Que no nos arbitre por un buen tiempo”: Vairo sobre Burgos, Nacional y los audios del VAR &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-06T11:36:00+00:00",
           "score": 6,
-          "score_reason": "Lenguaje coloquial y dramático con expresiones como 'terminó mal' y énfasis en armas.",
+          "score_reason": "Cita directa con énfasis emocional, destaca conflicto arbitral.",
           "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Un grupo de menores de edad se vio involucrado en una pelea en las afueras de un boliche en Montevideo. El incidente escaló cuando algunos de los jóvenes portaban armas y se trasladaron en un vehículo. No se especifican detalles sobre lesionados, detenciones o circunstancias exactas del enfrentamiento, pero el hecho refleja preocupación por seguridad y comportamiento de menores en espacios nocturnos.",
+        "resumen": "Los cuatro titulares abordan temas completamente distintos sin relación aparente. La Diaria anuncia el lanzamiento de su plataforma de radio. Montevideo Portal cubre declaraciones del árbitro Vairo sobre una polémica arbitral en Nacional. El Espectador entrevista al entrenador Peirano sobre su salida de Nacional. Grupo R Multimedio presenta críticas sobre la situación política argentina. No existe un evento único que articule estas coberturas.",
         "coincidencias": [
-          "Ocurrió en Montevideo durante horario nocturno",
-          "Involucró a menores de edad como protagonistas",
-          "Presencia de violencia física fue central en el suceso"
+          "No hay coincidencias verificables entre los titulares presentados.",
+          "Todos son de medios uruguayos pero cubren temas completamente distintos.",
+          "Ninguno comparte fuentes o eventos noticiosos comunes."
         ],
         "diferencias": [
-          "Solo Montevideo Portal cubre el incidente de seguridad; los otros medios publican contenidos completamente distintos.",
-          "Montevideo Portal enfatiza armas y violencia física; sin comparativos por falta de cobertura paralela.",
-          "Ausencia de múltiples perspectivas editoriales sobre el mismo evento para análisis comparativo."
+          "La Diaria cubre medios, mientras otros cubren deportes y política exterior.",
+          "Montevideo Portal enfatiza conflicto; El Espectador busca perspectiva de actor.",
+          "Grupo R Multimedio es el único que aborda política internacional argentina."
         ]
       }
     },
     {
       "id": "story_003",
-      "topic": "Pablo Bonilla ganó la Vuelta Ciclista Uruguay",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Pablo Bonilla ganó la Vuelta Ciclista del Uruguay | Noticias | Ciclismo",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR3YxZnBCc2lmRmpyRDdLQ20yRnBkS0dvdEFEUjZsSmRxUF9PVVZYUUpQTzdqbmpidGp1eE5UaVozVmFNRFdPYUpIOVJ2TlB6MEV3WWhMNkhMTE82OXRPZXR2SnlKSHR3V2RTTXBTVk9JbnR1emhRUHgxXzg3d0tURkpUV1Y4eThzRWdKY3h0YUR4YTRl?oc=5",
-          "description": "Pablo Bonilla ganó la Vuelta Ciclista del Uruguay | Noticias | Ciclismo &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-04-05T17:41:27+00:00",
-          "score": 1,
-          "score_reason": "Neutral y directo, solo enuncia el ganador general sin carga.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Vuelta Ciclista: Pablo Bonilla se coronó en Montevideo, donde Asconeguy ganó la etapa",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNczUxZkhsTk9SVFc3SnFSSWlGUU5EalUzOWpPZy1OT2sza2JxYUJ6RkdFdWs1OHhzcFp3TGc4WkMzSjRyZjl4Vm1mcjZYa29tazdqT2x0TE1ZZHdmXzdVSEN6Zk1nTm44eDNvcXdia1JVRWhFMXdrUFpwQ3htSnFObjNFenNVWUFaMWFvZjB6eldIMkh1b1lGN2lmVWR3UFNtMFlqem1pd2t0Mm5XSzdUZEtaS2k1b2I2QlFVajdhZUxWNmU5QmdYNVcwSdIB7wFBVV95cUxNLVJCQ1VEcFB1bmk1MzNTNkFlUHJYclkzdmtndldBdFl6NnlWSjZfME5Sa19hNGpzTlI3eEZpYzVZY2RmQS1Gdjc5SzRqWmxRWnpqSTI2NEpsbGE4QWlTNDdsazVWVkUySWl4RFhnOGxxY2ZMVlBrRUI3djFUUmplZVRTellrampycURZUG1rNW52bFJ4VDFHNlRrNlRHMUpBTVBfSDgwMDVGSEpkMDhmVFJzeXA0Z19qWlVNT0ZibVpMOE5FOGk0ZGR0R1JGX1c5QzN3TUlXMFc0N1NSU2czT3JRd3NfM3hFdVV1WFhicw?oc=5",
-          "description": "Vuelta Ciclista: Pablo Bonilla se coronó en Montevideo, donde Asconeguy ganó la etapa &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-04-05T16:24:00+00:00",
-          "score": 2,
-          "score_reason": "Informativo, menciona ambos ganadores sin énfasis dramático.",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "Pablo Bonilla se consagró campeón en la Vuelta Ciclista del Uruguay. En la etapa final disputada en Montevideo, Asconeguy logró la victoria parcial. La competencia concluyó con Bonilla como ganador general de la vuelta. Se trata de un evento ciclístico nacional de relevancia deportiva.",
-        "coincidencias": [
-          "Pablo Bonilla ganó la Vuelta Ciclista del Uruguay",
-          "El evento se desarrolló en Montevideo",
-          "Hubo participación de otros ciclistas destacados en etapas"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza el ganador de etapa Asconeguy; El Espectador solo destaca a Bonilla",
-          "Portal otorga relevancia dual al resultado; El Espectador se enfoca únicamente en el campeón general",
-          "El Espectador utiliza formato más minimalista; Portal brinda contexto adicional de la etapa final"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Diego Monarriz cesado como entrenador de Danubio",
+      "topic": "Diego Monarriz dejó de ser técnico de Danubio",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
@@ -197,13 +191,13 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Diego Monarriz cesado como entrenador de Danubio, que mira el descenso con preocupación",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSHhjbmRTMnhLb2pHMC1xbm9kR1d0UUgtMEV0Ty04ZE9QV0FISVdoaGppeUYyY0gyUVNBQWFZbk9hMGhmVVl1SVZYUEd0bnRCNFRFdVJQS2RxcFpYRXpSaXFFVHotNUZBNUdkMmVZUUdLcFJHRmhlSG8yZUJWZXZyX2FyOTJJN2JmOXlzbVRXV1U4VWVwMG5tcVFHbXQ5WVpiZl8tUHRIbXg3RDRzVUJtT2hNOUJYTFc1WjZZOWNiSWJucDZlcGZwNVZkWWNlM0HSAfMBQVVfeXFMTVEyTUV1NWx1cGYyZklOcV9yTzhUbzd1U21qU20wZGRwYmRfeWdJNDA4T0p4WTJGRUVXX21pN0hHeFI5LVBtRFduMUJrbG03b3hyZEtLYlZBM0U2S1BmdWZyOTFmbjJfRHpkcldkOExEamtXNjdra0owWUNTeDQ1cFNWeExBWGxmNTUwQ1UwSE40aUFVX2FfbDl2UklvbWVjMWNUTFNVNTNDOFZ3cTh0YTBEZWlqZzBuVVdFRWp0NUhkZzBEMXUzay13dV9PejNsUUpMam9mWENOOXpkUFA2XzRaNFROX3N4RzZYdjR1VkNGVlow?oc=5",
-          "description": "Diego Monarriz cesado como entrenador de Danubio, que mira el descenso con preocupación &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-04-05T22:46:00+00:00",
-          "score": 3,
-          "score_reason": "Título informativo con leve énfasis en preocupación por descenso.",
-          "score_pct": 30
+          "title": "Monarriz, su salida de Danubio y los procesos: “Todo verso” y un pedido al fútbol uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjBsalJWMjFMYjRpczFKcGVLSWZIZ0l6NDlwSnJaTHRNVHhtSVpWb0JHM2ZUTnRyMzk1YWNybTdOUVVWOE1xV0JPb09jQThvMWxWekpOTVhURG5FUFF6NHd4MkxwMzZZemoyYzhNSUNMY1ZLckFEV1o3V2dUZjc0eEw5U1dYV0pLREljZWdoZ0taRUtkSVIwSEJnNHJaSzhpVHhwc2gtVUdMU0F2ekhIN1VDdC04LXU2VE5iMnZHaktkcGpJMDFPVVE3dHBPd2tQ0gH0AUFVX3lxTFBEekEzcDNJcW43ZElaeW9uUXVwZ3BxWHd5ZU83TDFEUEExemF3azZ0NGk1Y0NRVDhibVZmUHRWMmt0MmVFV21mVmJiREdCSHRCcFJiZEVVQkUydHQtSnppd2RBazd1SUYzaDdoZXRTbVEzX1FEWDJwQlBIYVY1QVQwTHZ6ZEFXQ0JMR3RxeW9GWWMzZi1OX3JMNDlJMXBsbjUtUllmVVFkQlI5TGhaXy1xOGdxSWhYM3ZfMUwzWjQyZmdndmZHODFqNFNWV1E5Z1duTnczYU0wdjVWVUJPUnZTUVVlSmNUWERqU1RzTmVvS0tsWXA?oc=5",
+          "description": "Monarriz, su salida de Danubio y los procesos: “Todo verso” y un pedido al fútbol uruguayo &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-06T20:32:00+00:00",
+          "score": 4,
+          "score_reason": "Incluye declaración del técnico; enfatiza su visión crítica",
+          "score_pct": 40
         },
         {
           "source_id": "espectador",
@@ -217,27 +211,27 @@
           "description": "Cayó otro: Diego Monarriz dejó de ser el entrenador de Danubio | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
           "pub_date": "2026-04-06T01:53:27+00:00",
           "score": 6,
-          "score_reason": "Expresión 'Cayó otro' utiliza lenguaje coloquial y alarmista sobre despidos.",
+          "score_reason": "Lenguaje coloquial 'cayó otro' sugiere caída; tono alarmista",
           "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Diego Monarriz fue destituido de su cargo como entrenador del club Danubio. La medida se produce en un contexto donde el equipo enfrenta una situación deportiva delicada, viéndose amenazado por la posibilidad de descender de categoría. El cambio en la dirección técnica representa un intento del club por revertir su actual desempeño y mejorar sus perspectivas en la competencia.",
+        "resumen": "Diego Monarriz cesó en su cargo como entrenador de Danubio. El técnico cuestionó procesos internos del club, calificándolos de falsos. La salida ocurre en un contexto donde Monarriz había realizado un pedido al fútbol uruguayo respecto a cómo se manejan estas situaciones. Se trata del último cambio de técnico en la institución tricolor.",
         "coincidencias": [
-          "Diego Monarriz fue cesado como entrenador de Danubio",
-          "El equipo se encuentra en una situación deportiva comprometida",
-          "La destitución ocurre en contexto de riesgo de descenso"
+          "Diego Monarriz dejó de ser entrenador de Danubio",
+          "Existieron conflictos o cuestionamientos respecto a procesos del club",
+          "Se trata del último cambio técnico en Danubio"
         ],
         "diferencias": [
-          "El Espectador utiliza tono más dramático y sensacionalista ('Cayó otro')",
-          "Montevideo Portal enfatiza la preocupación institucional por el descenso",
-          "El Espectador sugiere una serie de despidos con su redacción"
+          "Montevideo Portal da voz a Monarriz y su versión crítica; El Espectador no",
+          "El Espectador usa lenguaje más sensacionalista; Portal es más informativo",
+          "Portal menciona un pedido de Monarriz al fútbol; El Espectador no lo incorpora"
         ]
       }
     },
     {
-      "id": "story_005",
-      "topic": "Expulsión de Advíncula y cese de Méndez",
+      "id": "story_004",
+      "topic": "Nacional convocados para enfrentar a Chile",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
@@ -248,13 +242,13 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Luis Advíncula fue expulsado a los 41 segundos del clásico del fútbol peruano",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNXpqWlZzSTZzZWt5YVYxNjRvaU5xVnhUUVVDWG9iRmZHQ3JiWDY0UjVrUjEyV1N2Qk12QzdOQzVKVW9EZXpFVmMtZk9TQnBLRG5FX0NnZzR2RG91cFVHS0ZiSHlGX3J1ek40VTZrX1F2enlBOEtGQU1mTHFXallpRmJLemRZLTFIYThpNXVjSzVrbjV2ejVxZWM3QU9wbmlRcGJJVmh1V1lsd1gxTHAtelcxa0t2Y3E1ZGdzUHBGT3I3LVHSAecBQVVfeXFMT0V2NnFjSV9HZ0xjSkZkQ3VDWUNWVk93dEdFX0R3VUxyazdUdXNWeG9pQ2hZZE1JbWk1MkZ1c0tIVUREQ3Mxd2cxSG5EOXI2ZTMtNE1GZk9iUmZ6TEJhRjVvenVCNUZfRUVjS3B4THpoY3pZVkdnNmRVSF9HWUxTVUFqNllaa2wtUXpfS0tQdzQ4MnB5MlVienMyLVh4bDVaRzltUHdYRG5XVTNhUVVHZ1F6TEJ6SWJxeWVsdHJvQ3RPbnlKNWxvd2ZydEtZcC1fdkxEYlNGd0JaWHlLMGJ1R2N6S09kenNZ?oc=5",
-          "description": "Luis Advíncula fue expulsado a los 41 segundos del clásico del fútbol peruano &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-04-05T17:09:00+00:00",
-          "score": 1,
-          "score_reason": "Exposición factual y directa sin adjetivos ni sensacionalismo.",
-          "score_pct": 10
+          "title": "Nacional: 24 convocados para viajar a Chile y enfrentar a “un rival de mucha jerarquía”",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR29MMXA0MXVmQmNCMUJwSXZKZ1c0YVVhYkg2NWxzOXpVWG1CcEtnaGpZb0NkNmx3UFhhdHpJVXNtalo1YUVNUF9jTmNwQS03dWR6cFc1YU5hWWxDX0lLbzZrN1Z3VHZjdFZyb1NfRHVKaG40cnFlVXRFUDRTNVdUbXB2WXMxTTB2aFFvT2xfelNaOXJyal9vTkJXTjVPTzRoa0N5SVlVOHJaRDF2dU1vNnIwSGRsZE9rZ0pVZklDRGRHQXpWTkpWTnZKclBmd9IB8gFBVV95cUxNb08wZFpqVnBwVkRVanhrZHlnd0J4cmd2azhSdTRYMWlISlMxQzJuV05VSlk3NzF2WXlvOVRvY0htWktKRVFoWDRudlBOelh6RWc1TW1zOG4wbFMwNU15aUVXQzN4Tld5NDg1SEJwN2RKcVI2NVVQQnJvVXc4UTdfVXZjSlJaQmd6V0pYQWNWVkUzNUhhYldpT1VmTV9KT0hMbl91UEJOT3FNWHRRWG56X3NmdENsZUhqLWlobS1BSlNBTUxkbkVELTZ6bXptaVM1X2VkUkhzdVB0amJWbjFidWs5LVpMLVE2Vm9ELWdBVUM3UQ?oc=5",
+          "description": "Nacional: 24 convocados para viajar a Chile y enfrentar a “un rival de mucha jerarquía” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-06T16:06:00+00:00",
+          "score": 2,
+          "score_reason": "Informativo, neutro, enfatiza rival de jerarquía sin adjetivos cargados.",
+          "score_pct": 20
         },
         {
           "source_id": "espectador",
@@ -263,86 +257,50 @@
           "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.espectador.com",
-          "title": "Sebastián Méndez fue cesado como entrenador de Juventud de Las Piedras | Noticias | Futbol Uruguayo",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQUVQZF82RFgwMWMzeTEzTjdPWW1iU2ROTEZnZ1hoOEdkYmZpNk5BNzUwZ2FuQU0tVTVBZGI1bGJKZXU2TGttUENXVkhoZTIxWFZMbWJwQnpCY1RkUVl1eEdKd0szaTlXT1YxbW5fUXhDNGt2WlNaa0RlUzdBeEp2ZWNMdGhJWVhSeEtwV1N2NmhudXVWYzJ1QWhxc2RkUTlpdEZDbGI1TzNUS2ZEVUxXY0ZrekVjZVNy?oc=5",
-          "description": "Sebastián Méndez fue cesado como entrenador de Juventud de Las Piedras | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-04-05T12:48:21+00:00",
-          "score": 1,
-          "score_reason": "Verbo directo \"cesado\" presenta hechos sin interpretación emocional.",
-          "score_pct": 10
+          "title": "Alejandro Villoldo: “el objetivo es dejar a Central Español en Primera” | Convocados | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRE1RU3VmUk13WlZ5RG9Fblh0VEZ2Vl9LZGlWeV9UM2x1LUtGV29Yd2plYnR0Y2F2YnJMYWVHdl9mZlR3YTlYc1UwNVAyOFExQl9SWE8yUDhsWENnTEpOVFpBdVU2RHpVNURvTWFEblpLY3VKamk1Z1JOcUswWW5zVXBHUklwU1d0QXFMVGRsbUtpWjdpVm00b0F4dW4zOTBqc0sxOEVYUWFzd3Y3RG9QZ05zRQ?oc=5",
+          "description": "Alejandro Villoldo: “el objetivo es dejar a Central Español en Primera” | Convocados | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-04-06T15:47:34+00:00",
+          "score": 3,
+          "score_reason": "Leve sesgo: destaca declaración del técnico sobre objetivos institucionales específicos.",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Luis Advíncula fue expulsado a los 41 segundos en el clásico del fútbol peruano, estableciendo un récord de expulsión más rápida. En otro acontecimiento, Sebastián Méndez fue cesado de su cargo como entrenador de Juventud de Las Piedras. Ambos hechos marcan cambios significativos en el fútbol peruano y uruguayo respectivamente, generando impacto en sus respectivas competiciones.",
+        "resumen": "El club Nacional convocó 24 jugadores para viajar a Chile y disputar un partido contra un rival de jerarquía. El técnico Alejandro Villoldo manifestó que el objetivo del equipo es mantener a Central Español en la Primera División. La noticia abarca tanto aspectos de la convocatoria como declaraciones del entrenador sobre las metas institucionales.",
         "coincidencias": [
-          "Ambos medios reportan hechos deportivos verificables y específicos.",
-          "Utilizan lenguaje objetivo sin palabras cargadas emocionalmente.",
-          "Se enfocan en la acción concreta sin contexto sensacionalista adicional."
+          "Ambos confirman la convocatoria de Nacional para el viaje a Chile",
+          "Ambos mencionan el contexto competitivo y los objetivos del club",
+          "Ambos se basan en información del cuerpo técnico de Nacional"
         ],
         "diferencias": [
-          "Montevideo Portal cubre fútbol internacional (Perú), El Espectador prioriza fútbol local (Uruguay).",
-          "El primer titular destaca lo inusual de la expulsión rápida, el segundo enfatiza una decisión administrativa.",
-          "Distintas competiciones y países geográficos cubiertos por cada medio."
+          "Montevideo Portal enfatiza al rival como 'de jerarquía', mientras El Espectador prioriza los objetivos internos del club",
+          "El Espectador destaca declaraciones directas del técnico Villoldo, Montevideo Portal mantiene tono más descriptivo",
+          "El Espectador vincula el partido con el objetivo de mantener a Central Español en Primera, Montevideo Portal solo menciona el rival"
         ]
       }
     },
     {
       "id": "story_006",
-      "topic": "Cambios en técnicos de equipos de fútbol uruguayos",
-      "category": "Deportes",
+      "topic": "Misión Artemis II completa sobrevuelo lunar exitoso",
+      "category": "Internacional",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Manuel Esteban Mateos",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRV2RWeFE2RXZMcXNQRTNVRmVhNkZ6ejN0NkdLMUJqZnJteXRMUERZNFVjRU5FaVJNNTJBMDBiZU15N2RVcEFHSmkxLWJJMS0xYUltUWU0NXdaNGVYNDNuSFNYdG5VZWprSHBjbQ?oc=5",
-          "description": "Manuel Esteban Mateos &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-04-06T03:10:26+00:00",
+          "source_url": "https://www.teledoce.com",
+          "title": "Los astronautas de la misión Artemis II concluyeron su sobrevuelo a la Luna y comenzaron el viaje de regreso a la Tierra",
+          "url": "https://www.teledoce.com/telemundo/internacionales/los-astronautas-de-la-mision-artemis-ii-concluyeron-su-sobrevuelo-a-la-luna-y-comenzaron-el-viaje-de-regreso-a-la-tierra/",
+          "description": "Durante cerca de 40 minutos, los tripulantes de la cápsula Orión estuvieron completamente aislados de cualquier comunicación con la Tierra al pasar detrás de la Luna. En ese momento, pudieron ver tanto la puesta como la salida de la Tierra. La entrada Los astronautas de la misión Artemis II concluyeron su sobrevuelo a la Luna y comenzaron el viaje de regreso a la Tierra se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-07T09:38:44+00:00",
           "score": 1,
-          "score_reason": "Titular muy escueto, apenas informa sin carga emocional.",
+          "score_reason": "Descripción factual y equilibrada sin adjetivos cargados.",
           "score_pct": 10
         },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Sebastián Méndez cesado en Juventud y Diego Monárriz en la cuerda floja en Danubio",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMVRPVUVvcjBqSXg5VmFIR2tVdDlWTUcxZDVpQ29zdVgzaV9haHJ0dmtCNFRQWHVNQ2hYQnlLZ1cxYUhuckJ5RHJrcU9VVXhza0ZOcVEzQWZxLXRxOEFEdy1Kemg4R0RRWGRYc3huN2pPZk9EX3g2VFJ0UUdveC1VTjRhYzh2UXBudzdXZUVaSWQ5bTAxbU05WHRoOVp0SFIzb3ljWFlSUjlYaHlLU1k3SkZBT0R2elhCbzRSWW1vazRxc25kOHhJb0NR0gHuAUFVX3lxTFBaZGJTSHEwWlRQT0hiVFFnY21kVHBSNHJTRDdNdlZDLVAzTm96VGU5TG4xNjJVcGNHYlg1VjRLNmNEbUsxWnZXQTNWei0ta0FKZ0lXTzhMcll1VHlDR0g3eDJ1QUMwY25GNkFWb2JWblZKSU5xWG50cWFyYl8yLVRzLWpoaVB2UU1RTGZoOUJZMnpBTDQyVHYtOFYzVXJackVoN2p0eG1QN29ReUVuUGxmQ09yZlA1RmMwN0Y5SDlTSVZQQllwc1ZkcVhRMmF2Mi1tOFZLZFBCUHNfVkFLOHdYd3RxemJVYjV6YTNnbWc?oc=5",
-          "description": "Sebastián Méndez cesado en Juventud y Diego Monárriz en la cuerda floja en Danubio &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-04-05T13:47:00+00:00",
-          "score": 5,
-          "score_reason": "Usa 'cesado' y 'cuerda floja', lenguaje algo dramático.",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "Se produjeron cambios en la dirección técnica de equipos de la Primera División uruguaya. Sebastián Méndez fue cesado de su cargo en Juventud, mientras que Diego Monárriz se encuentra en una situación incierta en Danubio. Paralelamente, Manuel Esteban Mateos habría asumido algún rol en este contexto de movimientos técnicos en el fútbol local.",
-        "coincidencias": [
-          "Hay movimientos de técnicos en equipos uruguayos de primera división",
-          "Juventud y Danubio están involucrados en estos cambios",
-          "Se trata de decisiones o cambios en la dirección técnica"
-        ],
-        "diferencias": [
-          "Montevideo Portal destaca la salida de Méndez e incertidumbre de Monárriz; La R solo menciona a Mateos",
-          "Montevideo Portal usa lenguaje más dramático; La R es minimalista",
-          "Enfoque en dos técnicos vs. énfasis en uno solo, sin claridad de contexto"
-        ]
-      }
-    },
-    {
-      "id": "story_007",
-      "topic": "Peñarol vence a Progreso con doblete de Angulo",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
         {
           "source_id": "subrayado",
           "source_name": "Subrayado",
@@ -350,48 +308,33 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Con dos goles del colombiano Angulo, Peñarol derrotó a Progreso en el Centenario y quedó a solo un punto de Racing",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbDRZelZFZGhXYmlCT3h6dVh0YlFzZEtDbFJPaGlyRXZlNmZYVlUtVXdQUWZUeTl6UXBHSFdraGdDWnAxR29SaWNIdnpnR3BVdEVoSGpnNzVLaTJtNF9VeTJLbFV5QUJYalA5ODN6eWkwR2JQaWtnc1hiMVlkYmtxMHZTOGZWTzRpQzhGdDFjRkJjcUdRZ25ONG5PSm9QNHN6RWM5UmtxNFR4MDU1MndMMndENlM0bUxXdGNDQWZiaklyV0pXMUhFc1RFSDVEVUlfNElUU1BueHDSAd4BQVVfeXFMUEtFcXZhX3dSOWl2VmlPUGVPcWtjNy1nUF9aSTBiR0MzS3d1YmNFdkxCZDdEclhXSi0yYjBDZzRHdF9ZQ2tzUkFoVUxzTDB6SXNScGRiQlNYM3ZuQTdReGdWeWxXRDVqQUdKdHQ2VVNUZGtmRXZJUzNhc0ZZWWRmOXY3UmFLa2hUQnhUeDcxU3l1V21TX0FPb0x2LXktWUtrekFaazRPenBlMEs0WjRwc2V0cUVEU2VaNzRvLV9GLW9lY1E0cGlXX1NabWkyMWJFSS1SYmx1MlhCQmxyakZn?oc=5",
-          "description": "Con dos goles del colombiano Angulo, Peñarol derrotó a Progreso en el Centenario y quedó a solo un punto de Racing &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-05T13:24:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo, neutral, datos concretos sin carga emocional ni énfasis.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Angulo, el deseo de ganar la Libertadores y su doblete en Peñarol: “Me gusta bailar”",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUXhrNzh4T1RJLUdnR2JiYi1QN1RISWxaZGQ4dk1wSWRfVm9HSjhOS01MYmE2SVRLSllhd1lnZlkxdldNTnI1VkZ3NWY3WGVwVFpXdHpHd0pwYUZDMmFDM0VqaTd4S0tMN2QwSWN0RkY2TWdhVkcxLS1mMEN6ZmE4NUZWR1RIcmllYzJUT1RycHZKdVdEbVZ0STRYWDRYZE1QY3daYjNLMEU4aHQ3LTFyOUdNX01ONnlTRXJwR1dqTU02MEtNNlhCQlZ30gHuAUFVX3lxTE1sQ3hYbDhDWWNxMkswRUc3TjdYS2pvSmxqbkVwZzVOVTBONjVwTEtkRGM5YWZhMzF1bUNwTVNqWDlhOElzekpmOU5JT0l5Z2QzWGlfeU5lN0ptcTd1Vm9UdFBKX1FNemFJOFR2S3dtTlV3YUpHMHcyN29ULXFjY1E3S1p2NkJmVUs1LURDcmJXZ1J2WHRKU1N3Q0t3X0JIQmNUQ1FaZW11NjVOZkZPTjJoMFhOTHlMTTFMY1RGWEtYaklOcGRYVkRCS2luVEVaM0hPMzVLaEVFanh3UEVCdktfUG9DSVBZVDhXMVJPMlE?oc=5",
-          "description": "Angulo, el deseo de ganar la Libertadores y su doblete en Peñarol: “Me gusta bailar” &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-04-05T11:15:00+00:00",
-          "score": 4,
-          "score_reason": "Incluye declaración personal; enfatiza aspecto anecdótico sobre jugador.",
-          "score_pct": 40
+          "title": "Día histórico para la humanidad: tripulantes de misión Artemis II volaron a mayor distancia de la Tierra",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOURLXzVFM1JlOTdWUW1QVExUY2FuVTZZbVhMZ0hrZ3R6VTBrVGxZMzV0WUNrRzlhWUpwS1NlakNiaDZMRTRJdWkzYWg1UVAwT2U3cnpZUml0blpOaWt0R2l3TVBYZlRsVHZxZTdjY25OWDRTUmZfZWhDMWNZdWtCMTlpU0NpMlNpeWMyUmthN3VuNThfN19DdGJyWDNOYWpsT3U1Z0ZCc0o1T1hVRkRjY3dIVzBKMmgtZ3lxZnJHSkRZbzdidVpB0gHMAUFVX3lxTFBpTlVLUndNTmtDVk5QMXVDUDFPSWRfblpuUlJlSVoyMGVjeC1GdGV6UWtBQXJ1MW42ODVRR0x3dzZwX0o5X2pqdHo0R183VDVNNkpLNjNyZ242X244eGpZaUo2SDE3RDB2U1hIR0FwX0ZoWEJicTIzeGZra2RoejYzU2RxaktUUFRHSkt5ZmdJc0ZWNEtkTHVwYlR5cTdMM2R3ZTdfbFB3dWM4eWxjTXNWQ3VObzhUWUlyN2M4WUZNd3hJLXZPdzJ1dlZpdg?oc=5",
+          "description": "Día histórico para la humanidad: tripulantes de misión Artemis II volaron a mayor distancia de la Tierra &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-07T00:22:00+00:00",
+          "score": 7,
+          "score_reason": "Lenguaje emotivo: 'histórico para la humanidad' sin datos concretos.",
+          "score_pct": 70
         }
       ],
       "analysis": {
-        "resumen": "Peñarol derrotó a Progreso en el estadio Centenario con dos goles del delantero colombiano Angulo. Con esta victoria, el equipo aurinegro se posiciona a solo un punto de Racing en la tabla de posiciones. El partido destacó la actuación del goleador, quien también manifestó su interés en conquistar la Copa Libertadores con el equipo.",
+        "resumen": "La misión Artemis II completó su sobrevuelo a la Luna y comenzó el regreso a la Tierra. Los astronautas de la cápsula Orión estuvieron 40 minutos incomunicados al pasar detrás del satélite, pudiendo observar vistas únicas. Se trata de un hito importante en la exploración espacial tripulada.",
         "coincidencias": [
-          "Peñarol derrotó a Progreso en el Centenario",
-          "Angulo anotó dos goles en el partido",
-          "El resultado acerca a Peñarol en la tabla de posiciones"
+          "Artemis II completó su misión lunar exitosamente",
+          "La cápsula Orión fue la nave protagonista",
+          "Los astronautas regresaron hacia la Tierra"
         ],
         "diferencias": [
-          "Montevideo Portal destaca la personalidad del jugador con declaración; Subrayado es puramente informativo",
-          "Montevideo Portal menciona aspiración de Libertadores; Subrayado solo da contexto de tabla",
-          "Montevideo Portal humaniza la noticia; Subrayado mantiene distancia periodística objetiva"
+          "Subrayado dramatiza como 'día histórico'; Teledoce informa objetivamente",
+          "Subrayado enfatiza distancia récord; Teledoce describe detalles técnicos del viaje",
+          "Subrayado busca impacto emocional; Teledoce prioriza hechos verificables"
         ]
       }
     },
     {
       "id": "story_008",
-      "topic": "Disputa entre Ruglio y Nacional sobre arbitraje",
-      "category": "Deportes",
+      "topic": "MSP alerta sobre hongos silvestres tóxicos",
+      "category": "Salud",
       "sources_count": 2,
       "headlines": [
         {
@@ -401,48 +344,99 @@
           "source_color": "#6A1B9A",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.grupormultimedio.com",
-          "title": "Jubilaciones sumergidas",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwaUdkQ01ON1FKZFJBNC1TMUctOUdOYmJtT2xoMXhwQzNIZl9zQU1ZdDdFdW43cGUtUS16cHFGTHNDbmFCckpWdVpFMWhVeHdna1NPRnRyZFFZa080WTZfcWFPLXlpN1ZmVzVFbExqQQ?oc=5",
-          "description": "Jubilaciones sumergidas &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-04-05T05:05:04+00:00",
-          "score": 0,
-          "score_reason": "Titular completamente neutral sin carga emocional, meramente informativo del tema.",
-          "score_pct": 0
+          "title": "MSP emite alerta ante la llegada de la época de recolección de hongos",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMERYYlNRM1V2ZWxFN1A5a2FyZ3pxRDRjTHkzX3FpUXlVQkJ3cWQ3eHAxQU83a2pVaWU1WDNORUhBdzV3SEo4N2JOSHVLNmR4T3JnQTRxdzhGNmRCWGVHV1h6cVZZQUhVTWFPYmljaWFIUnBjcHBFVWhBd2hQUHRla3lod25jUFFkTWM3cEFwRGpiWGlSUDRkYjdlMGUxNGhhek53czlLRjFvTXVz?oc=5",
+          "description": "MSP emite alerta ante la llegada de la época de recolección de hongos &nbsp;&nbsp; grupormultimedio.com",
+          "pub_date": "2026-04-06T04:40:43+00:00",
+          "score": 2,
+          "score_reason": "Lenguaje neutro, simplemente informa alerta estacional sin carga emocional.",
+          "score_pct": 20
         },
         {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Da risa verlos quejarse”: Ruglio contra Nacional tras críticas tricolores a los árbitros",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORGNGaDctcGVFUG5pWmEzZldGTVJ3QUY1NGpzU0pQc0tnc2VpWGtNQWc0aVo0RVFCZVBUb0M0QlFjVFBKSDMzcXUycWxGTVBNNnRic3Y4aHNGdVJJRmNORnRqMGVkcEt2a1BDVmR3WWljaE9LQ0ZWZkdlVWd4MGlLekNZb0hXamkxTlRfWkY5RHVjQ2ZIaXo0YUlZY3NFYnBNbnVOLU9GRjhBMjA0Q09vOC1BSzlsN24xRE4xNHliajc0Ry1Pc3FoQWlXR1IzazE5blHSAfYBQVVfeXFMTUJYT0QyRnpoWVdoeEl4ZEtxemtLazBOSFNTaF9iSlJLb2dwb1ZnVFlKWGxyb0lJWWpSel9RNnNMRmJ5UE9aWmFpSjlLeWR0TmhINGx5ZjIya2pxT3VJRlV0cGNQT3hsLWZ1ZzhYcGdWdWR0T0VoMUh0U18xQnhKVlBWaU1tNjVmMmxzZEVlTUh2MXI1akRoNFZ6Qjd2RThZQUxNTnBFRHk5WnNRa3JkNk5yNy05d1lzbjBzcWRqNlgydU9ZNHY0eHhnazVQT0VjU3JBT1E1TEhKZENPRHdWTEJ4c2g5OHJBb2d2S2llNmJmRmQzMF9n?oc=5",
-          "description": "“Da risa verlos quejarse”: Ruglio contra Nacional tras críticas tricolores a los árbitros &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-04-05T15:25:00+00:00",
-          "score": 7,
-          "score_reason": "Utiliza expresión despectiva 'da risa' que trivializa y ridiculiza posición contraria.",
-          "score_pct": 70
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "MSP advierte por riesgos de consumir hongos silvestres tóxicos para la salud: conocé los detalles",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMURSVU1xM1VyekxJaU5YUHJPZjA4c1pkWnpyZ19CZUp6RklQUUJ0dkh4ckVXWGhuc3JrWG5lMGtwNU5pdnJ4R2s5NklUM1ZYRmprZ1dtT3RvbVB0Q2lPT2xreHhtZ0lXNmRXQUxxdmJ0eGIwTy1qT2wwR1VkM2hyNXpDZHppMGhLekpDVl94ZktvbGZuSkhLbWVONkRGTURDZW5SVTVSQ2VwZlZ4c0swUVYxZV9SM2dhSXJQUGNBVdIBxAFBVV95cUxQUFlwVFE2RVFSangzdmw5aVppRzI1VW5xWmFKVDJ6U3JsMVBYZUdyNHFWSkFWQXRyZm43MjJOVkZnb3E0Y282cHN0Mm41NEtzWHhFbFpZX1dvckpPbTFFVVU5U2NuY3puX3czaFFIUXZBYk8xZnNpRE9xamoxRGdOSnZFU0xQRzF4RWJVY21rQjNuR1kweFhid2l6NDJieFgyTWI5QjBUa2JvdkJhcDl6VnNlOGxPYko5RkVEQ05QT21qXzhk?oc=5",
+          "description": "MSP advierte por riesgos de consumir hongos silvestres tóxicos para la salud: conocé los detalles &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-05T23:47:00+00:00",
+          "score": 5,
+          "score_reason": "Énfasis en 'riesgos' y 'tóxicos' genera mayor dramatismo informativo.",
+          "score_pct": 50
         }
       ],
       "analysis": {
-        "resumen": "El presidente de Peñarol, Ruglio, respondió a las críticas del club Nacional respecto a decisiones arbitrales en partidos recientes. Ruglio desestimó las protestas tricolores, argumentando que Nacional recurre frecuentemente a este tipo de reclamos. El intercambio refleja la tradicional rivalidad entre ambas instituciones y sus diferencias sobre la conducción de los árbitros en el fútbol uruguayo.",
+        "resumen": "El Ministerio de Salud Pública emitió una advertencia sobre los riesgos del consumo de hongos silvestres tóxicos coincidiendo con la llegada de la época de recolección. La alerta busca informar a la población sobre los peligros sanitarios asociados a la ingesta de especies venenosas que pueden confundirse con hongos comestibles, especialmente en otoño e invierno cuando aumenta la actividad de recolección en el país.",
         "coincidencias": [
-          "Existe un conflicto entre dirigentes de Peñarol y Nacional.",
-          "El tema central es la actuación de los árbitros en el fútbol uruguayo.",
-          "Ambos medios cubren un enfrentamiento entre máximas autoridades de clubes rivales."
+          "El MSP es el actor institucional que emite la advertencia",
+          "La alerta está vinculada al período de recolección de hongos",
+          "Se refiere a riesgos sanitarios por consumo de hongos silvestres"
         ],
         "diferencias": [
-          "Montevideo Portal adopta tono burlón y sarcástico; Grupo R mantiene neutralidad informativa.",
-          "Montevideo Portal amplifica la posición de Ruglio con lenguaje despectivo; Grupo R simplemente anuncia el acontecimiento.",
-          "El titular de Montevideo Portal busca generar polémica; el de Grupo R es meramente descriptivo."
+          "Subrayado destaca los 'riesgos' y 'toxicidad' como eje principal, Grupo R enfatiza el timing estacional",
+          "Subrayado invita a 'conocer detalles' (interacción), Grupo R reporta objetivamente la emisión de alerta",
+          "Subrayado adopta tono más alarmista, Grupo R mantiene registro informativo más aséptico"
         ]
       }
     },
     {
       "id": "story_009",
-      "topic": "Retorno de Abel Hernández a Peñarol",
-      "category": "Deportes",
+      "topic": "Vecinos de Parque Rodó denuncian inseguridad",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "\"Hay bandas que copan las cuadras\": vecinos de Parque Rodó se reunieron con el Municipio B y la Policía por violencia y delitos en la zona",
+          "url": "https://www.teledoce.com/telemundo/nacionales/hay-bandas-que-copan-las-cuadras-vecinos-de-parque-rodo-se-reunieron-con-el-municipio-b-y-la-policia-por-violencia-y-delitos-en-la-zona/",
+          "description": "También están preocupados por el \"crecimiento de las personas en situación de calle\". La entrada &quot;Hay bandas que copan las cuadras&quot;: vecinos de Parque Rodó se reunieron con el Municipio B y la Policía por violencia y delitos en la zona se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-07T10:38:22+00:00",
+          "score": 5,
+          "score_reason": "Comillas directas de vecinos, menos dramático pero ligeramente alarmista.",
+          "score_pct": 50
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "\"El Parque Rodó es tierra de nadie\": vecinos denuncian situaciones de violencia e inseguridad y se reúnen con autoridades",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN2RhcWJidktxTWVnbnk2Wk5EeThMbnlBRzhJWkw3S05RTFc3X19iTnlJeEVVb3g3NnJnd2FGcDFLT1dhQWEyLUlhWEVITDIxejJTTkFHU1dWc01jX25TSlgzNE9VbW0tbXUxZmlMVm1oLWR4dzZUTzZjdVFLN3dyOFJ5MjBqME5kWUgwV2ljWWVwX2Zoc2h2QUNNdTRyWXlEdXpXUWtiTEpWcXZBR0VQR01mUlpKdEFuT1VXSTJ3Xy1oQWh2MGxUNzhXVVp0NDk0RjJuRUF6QzB0QmdQZWVr0gHkAUFVX3lxTE1BTWVhdDdienhyNzR5MG9PVUgxWWJxVWwzSDRYM2pMekRBYWR6WUIwM2thQXZwTy1qRmgyNDhVeVg4ellWTkNJbURlQUF3aDdmSHZiNDB4bXoteEEzUzhkdC0tbS1way02TFI1YUYyUnpjUkJOTnJXT0JBSWpET25sTUs5RG43Ykw0UG1ENWpqOXI0Sl9fcHRvRDlhcWtaMkhHODllXzM0ZXV0RDlocWR0dmQ0RTY3ajVzM0swUkE5TlZObmFPLVZCTnlIdTJrMXF0czdIa21GVjRjb0NTbkt0RnNSVQ?oc=5",
+          "description": "\"El Parque Rodó es tierra de nadie\": vecinos denuncian situaciones de violencia e inseguridad y se reúnen con autoridades &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-06T22:34:00+00:00",
+          "score": 6,
+          "score_reason": "Metáfora alarmista 'tierra de nadie' dramatiza la situación.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Vecinos del Parque Rodó se reunieron con autoridades del Municipio B y la Policía para denunciar situaciones de violencia e inseguridad en la zona. Los residentes reportan presencia de bandas criminales y también expresaron preocupación por el aumento de personas en situación de calle. Las autoridades se comprometieron a abordar la problemática de seguridad en el barrio.",
+        "coincidencias": [
+          "Vecinos se reunieron con autoridades por inseguridad y violencia",
+          "Presencia de bandas criminales en la zona",
+          "Participación del Municipio B y Policía Nacional"
+        ],
+        "diferencias": [
+          "Subrayado usa metáfora 'tierra de nadie' mientras Teledoce cita directamente a vecinos",
+          "Teledoce enfatiza personas en situación de calle, Subrayado no lo menciona",
+          "Subrayado mayor carga emocional; Teledoce más informativo y documental"
+        ]
+      }
+    },
+    {
+      "id": "story_010",
+      "topic": "Convocan ministro Civila por situación de calle",
+      "category": "Política",
       "sources_count": 2,
       "headlines": [
         {
@@ -452,64 +446,13 @@
           "source_color": "#6A1B9A",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.grupormultimedio.com",
-          "title": "Luis Eduardo Varela Macedonio",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wdEROSmlOTnNsSWRpMV9vaTFpUXRKWXFhS19wYWdoY1JBYUVoN09qbmRvbmF6OUp5UGNNZDVEenJpLWl5SXVLMEIzQS1Famh2SUxoay0tZldvcGRWamVldkRzNUZBS0ZRVVBGOWFMV3k2OHgwSncw?oc=5",
-          "description": "Luis Eduardo Varela Macedonio &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-04-05T03:05:40+00:00",
-          "score": 1,
-          "score_reason": "Titular meramente identificativo, sin interpretación ni carga emocional.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Abel Hernández y la vuelta en Peñarol: de los “meses duros” a su “disciplina y constancia”",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUW5jMlUtT2hqRExQdTJyZ0MzVjJ2OF9jUzAyQmhtbzZtMXdHMDdtdFQtbDlhX0RtM3RDTi1xa1I3a1NaZ3NKbS1PSEdLYlA2eEdzSlNvRVowcGlsMU54akxzTDJ4dTNWcEUwSnBOVUhsSGt1VzdZT0ZfSk9YQXFjeVpMUl9QdjdYVXZZS0ZPMkFhN2w1aXBySUR5Ukd5STJtUjlIM3JBYkFTYzRWWVRBc3ZBNHk5eDBUU1ZtUHUwdl9PWWg1aTRWVzliQmprdTTSAfMBQVVfeXFMTVpFc096OC1xNDdCZlg1Zy1kb0dHbDRTQ1NJemlTVmxnQ28xQUpEV1lKWHN4MDR6b2hYVzNBdlRmQ1VWa0h3alZILU9aS0czVV9CVkV1d0ZpdjdVcGV4RkJDQ1E1NG9BT1Y5UUJ5T0ViWWt5Y2JtQ0x5THNhMGgzejhhMEdidFVwZURPZlQ2TWNvb01wd1ozZUFvenQtNzNpdW1URmp6VnlNM25mSTktSHdnMjZ0aUdZdXMxUnNfV1NLWFZ0NU9VTWh3OU92WnVlUG9ZNzF4YVJyRkZUa1hJY1VKUVFYYmZ2X1lhVUlkZXBIcGpN?oc=5",
-          "description": "Abel Hernández y la vuelta en Peñarol: de los “meses duros” a su “disciplina y constancia” &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-04-05T11:30:00+00:00",
-          "score": 3,
-          "score_reason": "Usa entrecomillados de declaraciones para darle dimensión emocional.",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Abel Hernández regresó a Peñarol tras un período difícil. El delantero uruguayo vuelve al club después de atravesar momentos complicados, demostrando disciplina y constancia en su recuperación. La noticia marca su reincorporación al equipo carbonero, donde busca retomar su nivel competitivo y contribuir al proyecto deportivo del club.",
-        "coincidencias": [
-          "Abel Hernández regresa o se vincula con Peñarol",
-          "El retorno ocurre después de un período complicado para el jugador",
-          "Se destaca su actitud profesional ante los desafíos"
-        ],
-        "diferencias": [
-          "Montevideo Portal humaniza la noticia con aspectos emocionales y declaraciones; Grupo R es puramente factual",
-          "Montevideo Portal enfatiza el proceso de superación; Grupo R solo identifica al personaje",
-          "Montevideo Portal busca impacto narrativo; Grupo R mantiene máxima neutralidad informativa"
-        ]
-      }
-    },
-    {
-      "id": "story_010",
-      "topic": "Mujer apuñalada mientras esperaba en refugio",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mujer de 28 años fue apuñalada en el pecho mientras esperaba lugar en refugio del Centro",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVnFkaWpNUy1Nb1NtSHNOVGxYS0xrVk4zZFdsdE91TVRsZTN0YllmcXlSUk1Pd0FLeUx6aXRiUkxXZkNuMUtuU0VjMElMdmQyZy1uanY5dm1YYm1Ua0VOMFNyaFRQUUtFWHduRGdBVkV3OWtWVDFKZE51WTF1d2piVWFlTm5RT0x1blB0QmtnTkVET3FDSEZ6ZWZWZzJGQmZBUkNMUkxxM1ROd0tmVUtsbjVvNDZ1SXFtT0ZrRm5nT2lGdHRSR0JaVVp5Y2RtaWFOemfSAfYBQVVfeXFMT3JwZkExczZOcThOMDdqMnRQaWtiUkVhQmdWRVF2NWphQXBFblFIMXRyOEt1SEpXUFJRYVJ3c3RHWTJBbk5Dc1BNRjY3T3BCdHViRm1jXzNIRjg4Q2cwWkFhM1Rvdm53THBveDAxUmNoS2ttazRUQmRFSG1MaS1XNXJpbnozNTdsbVk5cldmQWxxRnZ6aUZ5SnZ6RXpSaGh3OFJmazV3VDZLR1RoN0x4WWthV0tnWmtVdnhucDdrdzBxLW5qSllORFh5UXFlSVkzcjNRV0tXQnA4TWI2ZFhFUXVpVVo3TW8zNktLVllBZFdJNGxZR053?oc=5",
-          "description": "Mujer de 28 años fue apuñalada en el pecho mientras esperaba lugar en refugio del Centro &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-04-05T18:01:00+00:00",
-          "score": 3,
-          "score_reason": "Factual pero destaca vulnerabilidad de víctima en refugio.",
-          "score_pct": 30
+          "title": "Convocan al ministro Gonzalo Civila al Parlamento por situación de calle",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWTJuUUxKTHpGUEtSM29SUldVT3pzLUZ5UkhSbThWVVFpd3YwMWxUd2hkblY5QlVwSGFLb1owNlhXeEtZbG1CSlJsNk1VVzlWVVR4ekNVb1A0VlE3WmtHdnlybXU3WkhpYnNGOWV2UEFzdV9HQV9aTHRtOXA4b2dJLXVnS1lkdVNoWmV1VGVSbXptVkxwZ3BNVWEyZWFLRHJsdVFwYTYwd1dXWXBYT2IyYw?oc=5",
+          "description": "Convocan al ministro Gonzalo Civila al Parlamento por situación de calle &nbsp;&nbsp; grupormultimedio.com",
+          "pub_date": "2026-04-06T20:38:26+00:00",
+          "score": 2,
+          "score_reason": "Presentación factual y neutra del evento sin lenguaje cargado ni énfasis emocional.",
+          "score_pct": 20
         },
         {
           "source_id": "subrayado",
@@ -518,281 +461,77 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Joven fue apuñalada en el pecho tras discusión callejera mientras esperaba lugar en refugio del Cordón",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTB5M2ZlTVNqc2Y3MnRLUHQwazhDbm4xUlY1MzlRbEVpZE1LRWs4TzktZTRLU0N2bVFfczZjSDVDZzJzQjZwcERxWWcxdHZhZW44THgxWUY0bVhnNG4yVUM3b0t6aENPQkt6UGNMWk1DMHhpZ0VWSGxuTVVDQ0V5Q2lCZkdNeFFmUW1TMTVWczBkaUwzM2otbE5uTUFPeWNZbU13bXhWRjlha3FCNG1hUmVHUEtacHlwUXZTa0oyU2VGTlNIRXhGZtIBzgFBVV95cUxNUkpJWW5fNTgyTlQzdDVaUExzT2ptYWlrQUJoVEUtSkJxTFlTMG9Oa0Z2enFxZmJzOHcyTkMyZVJNTEhQdk9sSmp5a0FKSGhUTHd6ZTI5WExjbmRIaWFPRUdkTkFaS0NvalFZV2hmTmdoVFI0VWFYRGZfQUNocUJ5UE1HdTNyVVBXbTZSdlhVSnptYk9jN29Kc3M0eFVoNWIzaTB5VEpxSUVZVnBYdkRmVDNTajhYbVJpSlVrbUFKVzlDNFN2VmFEZE9zRmhXZw?oc=5",
-          "description": "Joven fue apuñalada en el pecho tras discusión callejera mientras esperaba lugar en refugio del Cordón &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-05T16:07:00+00:00",
-          "score": 4,
-          "score_reason": "Añade contexto de discusión, más informativo que el primero.",
-          "score_pct": 40
+          "title": "Exdirectora de Mides dijo que \"hay una situación de desborde\" de personas en calle y convocó a Civila a Diputados",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOXNlN015SkZhSDFLcVJ4a21yWGloVmp4SWhGU2puS1hpYlFJaXpiWHNfZUZlYmExeFFxcFNxdjh5VklYMUFaamVVY2pZV0hjOHRTdVJXTm5EdHIxWTEybmx2WTFmVUtmVGtMWUxzME95N2hCWG14YVlLY05wcHg4aTN1S1FNdTF0VkJ0VldLWDlhX1Q4S2Y3dUh6bTdpajh6YWdGdkFSUHRHMEJNa0w0VThZOGhXc3hBbnVjS3E1dUt6eU1URDhld3F0NURrd9IB0wFBVV95cUxPT3FWWXlJZ2JSeE84Qm9DZnZOYzZ6bGdSc3o5V2lINGVPc2hDWDJ5cmZZZXJMbTl5TnROcmtDVkdoY1llbVZHT19abFhVZ29jOWlRd09ENXRNem5mZWxndk1jRmhVbDZLRHRNalNwQU5Ub0piaHpQaXFwX0ZzZzI2bnNYam9zWjktNkFyTTdGWXcwb0QtX2pmaHdtVjQteDBKS0l2LTVFUlFhVWdiX1VYdURCR1BabzBQUXVZcW5iXzZDUVJIUG5iWDh0TGZ5Ukl2eUNR?oc=5",
+          "description": "Exdirectora de Mides dijo que \"hay una situación de desborde\" de personas en calle y convocó a Civila a Diputados &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-06T17:45:00+00:00",
+          "score": 6,
+          "score_reason": "Uso de \"desborde\" genera alarma; cita entrecomillada intensifica el tono crítico.",
+          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Una mujer de 28 años fue apuñalada en el pecho en el Centro o Cordón de Montevideo mientras aguardaba atención en un refugio. El incidente ocurrió tras una discusión callejera. La víctima fue agredida con arma blanca en circunstancias que involucraron un conflicto interpersonal. El caso quedó registrado por los medios como un hecho de violencia urbana que afectó a una persona en situación vulnerable.",
+        "resumen": "La exdirectora de Mides realizó una convocatoria al ministro Gonzalo Civila ante la Cámara de Diputados para abordar la problemática de personas en situación de calle. Según sus declaraciones, existe una situación crítica que requiere atención parlamentaria. La convocatoria busca que el ministro responsable de políticas sociales comparezca ante el Parlamento para explicar las medidas y gestión frente a esta cuestión social.",
         "coincidencias": [
-          "Víctima fue apuñalada en el pecho",
-          "Ocurrió mientras esperaba en refugio",
-          "Sucedió en zona céntrica de Montevideo"
+          "Ambos reportan la convocatoria del ministro Civila al Parlamento",
+          "Ambos identifican la situación de calle como tema central",
+          "Ambos mencionan la participación de una autoridad de Mides o exautoridad"
         ],
         "diferencias": [
-          "Subrayado especifica que hubo discusión callejera previa",
-          "Montevideo Portal omite el contexto de conflicto interpersonal",
-          "Subrayado dice Cordón, Montevideo Portal dice Centro (ubicación imprecisa)"
+          "Subrayado enfatiza la gravedad con palabras como \"desborde\"; Grupo R es descriptivo",
+          "Subrayado destaca la voz de la exdirectora; Grupo R omite este detalle",
+          "Subrayado carga emocionalmente el asunto; Grupo R mantiene tono informativo puro"
         ]
       }
     },
     {
       "id": "story_011",
-      "topic": "Artemis II captura imágenes y avanza en misión lunar",
+      "topic": "Trump amenaza a Irán sobre estrecho de Ormuz",
       "category": "Internacional",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "NASA revela primeras imágenes de la Tierra desde misión Artemis II",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS1ZQaF9ObG1peTI1QjJMcFdWeTN5Nnc5SnFfdHZfVkFVVUllbXJlaWJ5MlRSVnNjQ2h1c2ZPMjluWC1DRmg3RUVfOUpPendlM3QyNTlwbWNqTU81am5VM2hlby16MGY5UEE1MlpoUHB5WFdBSmlGVU5CTzcxR1p4T1A4aUtUXzF0QVRyazY1WXVfM0ZpYmJKb0M2RERIc0E2OV9fMkFKQ2IwWjJDaV90YjhmNnI3OERoM1VQeG0xRVB4czls0gHoAUFVX3lxTFBOUUdNbXgyRF9HSlpaNC1FYWZ4RU5STUozUzQ1NUZ3ZkdvOTRYSmNBVlRmZldPNmhBMWQxVGFneVhkektvQndQdlJUUUF5QlZULUZ0ZFlkeVhZU0JlWmt2cUFYNTFkVkhDYlJ1bHQ1QlVfeE1LU3NQam1oX0RXUkRWcDNCSXBkbkpoYkoxUUFtSHFHTURVQkNZYjVyVWVNVzVPanNvY0QtbE1EQ2RJeGRTOEtwUUZZanU0Qkp6RUlnblFaOGZXdEl6aVBFeks1SER2U3dCamR4MEY0c1pGQTRjWml2d2lOWkg?oc=5",
-          "description": "NASA revela primeras imágenes de la Tierra desde misión Artemis II &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-04-05T11:34:00+00:00",
-          "score": 1,
-          "score_reason": "Titular neutro, descriptivo, enfocado en hechos concretos.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Artemis II permite a astronautas ver zonas de la Luna “nunca antes vistas por ojos humanos”",
-          "url": "https://www.teledoce.com/telemundo/internacionales/artemis-ii-permite-a-astronautas-ver-zonas-de-la-luna-nunca-antes-vistas-por-ojos-humanos/",
-          "description": "La tripulación ya superó dos tercios del viaje y se prepara para el sobrevuelo lunar La entrada Artemis II permite a astronautas ver zonas de la Luna “nunca antes vistas por ojos humanos” se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-05T18:42:57+00:00",
-          "score": 4,
-          "score_reason": "Énfasis emotivo en 'nunca antes vistas', agrega contexto de progreso.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "La misión Artemis II de la NASA ha avanzado exitosamente, permitiendo a los astronautas capturar las primeras imágenes de la Tierra desde la nave y observar zonas lunares sin precedentes para el ojo humano. La tripulación ha completado dos tercios del viaje y se prepara para el sobrevuelo lunar, marcando un hito importante en el programa de exploración espacial estadounidense.",
-        "coincidencias": [
-          "Ambos confirman el avance exitoso de la misión Artemis II",
-          "Reconocen logros significativos en observación desde la nave espacial",
-          "Contextualizan la misión como parte del programa de exploración lunar NASA"
-        ],
-        "diferencias": [
-          "Montevideo Portal prioriza imágenes de la Tierra; Teledoce destaca la Luna.",
-          "Teledoce añade lenguaje emotivo sobre 'nunca antes visto' vs. enfoque factual.",
-          "Teledoce incluye progreso del viaje; Portal se centra en revelación visual."
-        ]
-      }
-    },
-    {
-      "id": "story_012",
-      "topic": "Agenda deportiva del domingo 5 de abril",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Agenda deportiva del domingo 5 de abril: fútbol, básquet, ciclismo y mucho más",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmxfWFpBXy1tVlJuV0JCc1g5YS1sREd1czdFWXhHSXZVNkJXU0VOU0J6ell2V09kWXQwcnBqVTNVOUJpTDVMeF9Vb2ZfN3J5all3Y0J5SkxBWG1SZnJNRTBhbUlEcFNKRVk3WkVjR0JXRTFDekdpTC1KN09hLUd0MjBfVlI4bFptWFJucnBFR2NHNnFLRFdpRk9ES3RobXprYVNTZVQ3d2w2b0dyUjBjb1FVclROSUdhMDJ2cS1ybljSAeQBQVVfeXFMT3ItSEhQN3VzTjgtMUVieDF2dFlJZzJGejFzZnpxdkxYU3BqREx0OXJ3SFJnQWJ2d2dNbmFuSUZ6TnJKOGdHTmNlSFFGdlI2UWRpRktDMFQ5bmI2S2lhTGlGN2xuRnI0VHhfeTFuYmVVeC1qNGNkaEFseWVTbG9PWms0WWcySjZSRUVDTFFualVsTTVmbGJYbERDR3JmbFB5R3psLVBpSVBTQXNudldabnpuLUdWOW5oM1lldmowWlpVSm5RS3k5VXJ6bVQxYmhkNVl5b2Y0aXhsRllsc2o0T0I3QVRn?oc=5",
-          "description": "Agenda deportiva del domingo 5 de abril: fútbol, básquet, ciclismo y mucho más &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-04-05T03:00:00+00:00",
-          "score": 1,
-          "score_reason": "Titular descriptivo, neutro, con énfasis inclusivo mediante 'y mucho más'.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Programa completo del 5/4/2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3RVMG1lUERJdVpzWDRiOTlVR3ROTVIyVzhrbEI4Si1vLXBTemxTMjlDLUY5amFTMWg4WHRjc1JrT1ZJcmktVjBwSmNUbzhqSGpwVVNNWThiMU5RbDZpd012RElCcVFjMTJadGJ5cS1ROE5GX193dE9aNm5SVEhoWXc3NWVuNGVZbkl2Z0V3?oc=5",
-          "description": "Programa completo del 5/4/2026 &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-04-05T16:25:57+00:00",
-          "score": 1,
-          "score_reason": "Titular minimalista y objetivo, simplemente enuncia el programa completo.",
-          "score_pct": 10
-        }
-      ],
-      "analysis": {
-        "resumen": "Se trata de la difusión de la agenda deportiva para el domingo 5 de abril de 2026. Ambos medios informan sobre las actividades deportivas programadas para esa fecha, incluyendo fútbol, básquet, ciclismo y otras disciplinas. Los titulares cumplen función informativa, comunicando al público sobre las opciones de entretenimiento deportivo disponibles sin realizar interpretaciones ni análisis particulares sobre los eventos.",
-        "coincidencias": [
-          "Ambos informan sobre la agenda deportiva del mismo domingo",
-          "Ambos incluyen múltiples disciplinas deportivas en su cobertura",
-          "Ambos utilizan lenguaje informativo sin carga emocional o valorativa"
-        ],
-        "diferencias": [
-          "Montevideo Portal especifica disciplinas (fútbol, básquet, ciclismo) mientras El Espectador mantiene generalidad",
-          "Montevideo Portal añade 'y mucho más' sugiriendo más contenido; El Espectador es más directo",
-          "Montevideo Portal usa lenguaje inclusivo-expansivo; El Espectador es minimalista y formal"
-        ]
-      }
-    },
-    {
-      "id": "story_013",
-      "topic": "Aguirre valora victoria y Cetto anuncia salida",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Es tiempo de pensar en la Copa”: Aguirre valoró triunfo y proyectó el próximo desafío",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQkUxSkRqWlA1NTY5YTJkNGw0QjV0d0dQNXNOTEUwOEpxUFlMT1ZMcVNkNlNkRHo0ZTVLSkdWRVQ4dFlhUW9UN3JPQTAtaWhyZm5sdGxTdExybUR6SzhGTGxIdnFqbTdIMFhFUlhxbl9mVjB0dzdIV3hCdzU4d3RLWmt4MzBlclBUZVJVOFNVS2pJQWttSk9DS09rbFlCRkh0T1h6cmI5WkFwV2wzNGU3cWJaUlFKOTR1YzBfSUx6RzNsOVBQZ1dCa2tTcXZtUdIB8gFBVV95cUxNTUY4VUNhazlUUVFhVDBkTTJObVVFSmVnc1pqVDdDcWYwMUZWTE1SNmNfd09XSG40bHpTdnY0dk1aNGJBYjVRamtkck51alVpeHk1aTRzQlpiTkNVVnpIYVl5N2VKRjJfd3AtS3RXS0lRME91eXJoN2hzMWEybHN0RU45WVEzQVRsb3ZTNy1BWHdqTkJCLWRPYU5NdnV3ZVBBbVg4WmJTUFdMSDNzU1VTT3pFNUhieVNSOFAxWWtWUmRSb1otUnBqTkFJYWpTMTdIZy13aGI1aU9VS3FzMjlIQUl5TzRqcmtPMld1Zm9laFo1dw?oc=5",
-          "description": "“Es tiempo de pensar en la Copa”: Aguirre valoró triunfo y proyectó el próximo desafío &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-04-05T01:15:00+00:00",
-          "score": 2,
-          "score_reason": "Titular informativo directo, cita textual, sin carga emotiva.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Mauro Cetto: “entendimos que era lo mejor para ambas partes” | Vamos que Vamos | Entrevistas",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcUJVcnI3Um9TdFA3cmtxY0tDbFQxdjNwdGZpenpmeUNwX3duS1MzQW9qQjF2ZTh1Y185ekwzTFFVNFBiRWhTcm1qODJCd2Q4aFZsRTNLR2hzdWRJdHNEOGlTY3A5V2VvdFpaV1Zsd0k1RFh6OVEyaHI0TWducGFGRTVlOGdGbjRMcjVBcmpvQjBXOWE0dnhob2REMk5EVVQ3RFh1MWZJOXRYZw?oc=5",
-          "description": "Mauro Cetto: “entendimos que era lo mejor para ambas partes” | Vamos que Vamos | Entrevistas &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-04-06T05:51:28+00:00",
-          "score": 2,
-          "score_reason": "Presenta declaración textual, objetivo, enfoque en los hechos.",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "Se registraron dos hechos deportivos relevantes: el técnico Aguirre expresó satisfacción por una victoria reciente y proyectó el enfoque hacia la próxima competencia (Copa). Simultáneamente, Mauro Cetto comunicó su desvinculación de un proyecto, señalando que ambas partes consideraron que era lo más conveniente. Ambas situaciones reflejan movimientos en el fútbol local uruguayo.",
-        "coincidencias": [
-          "Ambos medios cubren hechos deportivos recientes del fútbol uruguayo",
-          "Utilizan declaraciones directas de los protagonistas como fuente principal",
-          "Mantienen tono informativo sin adjetivos valorativos cargados"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza logro deportivo y proyección futura",
-          "El Espectador destaca cambio de vínculo laboral y acuerdo mutuo",
-          "Enfoques complementarios: uno hacia adelante, otro hacia el cambio"
-        ]
-      }
-    },
-    {
-      "id": "story_014",
-      "topic": "MSP emite recomendaciones dengue para viajeros",
-      "category": "Salud",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "MSP emitió recomendaciones a viajeros que regresan a Uruguay para prevenir contagios por dengue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOWM4Q1hCSjQzMnMxU0VIY1UzQ0FSTVZvejFOVmJSWHRUTlJIemprY3lZQ2F5VTdabnFTLXJSWFhZdjYtb1lqbmhESVZQbWM3LWRtOExHbldJRnhWUXRYalVBWEl1dEdRM1pDajdFN3c4QkptV0o2TFRRVjVTUDJRcWlIbnN5VWk4WmZFN1B2MzQwdkpFNXg3a3owU3NXVEdES2FDaWFsVkFYR3FuNy1nN1EzbVlKNG9RR0lSTtIBwgFBVV95cUxPRmxqWW13cWQ2TlNMWWQ5ZjZsTU5CeTJXOUl6ay1mNVJLWUV0WU9IYnU5eXRkYUJPSU45M0RJUEV1WldWRE1LWjBiLTdOdVRnRVlNc0NYTWdzWTdKdFA0TU54RjdwSDFoeU5WMWw2REFQVmZnOHRUSkhBbi1aZE9QLTNKVDhFb1VFQ010YjYybFI0NzdMN1Z5MHloVkRadnI3Z0JTUEpXeTlGLWxTOHRzeHg0UE9ROHY1YjRUUTVlb3hTZw?oc=5",
-          "description": "MSP emitió recomendaciones a viajeros que regresan a Uruguay para prevenir contagios por dengue &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-05T21:53:00+00:00",
-          "score": 1,
-          "score_reason": "Estrictamente informativo, sin carga emocional ni énfasis particular.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Seguir usando repelente y prestar atención a síntomas: tras la Semana de Turismo, MSP emitió recomendaciones contra el dengue",
-          "url": "https://www.teledoce.com/telemundo/nacionales/seguir-usando-repelente-y-prestar-atencion-a-sintomas-tras-la-semana-de-turismo-msp-emitio-recomendaciones-contra-el-dengue/",
-          "description": "\"A la vuelta del viaje, seguí cuidándote del dengue\", pide el ministerio. La entrada Seguir usando repelente y prestar atención a síntomas: tras la Semana de Turismo, MSP emitió recomendaciones contra el dengue se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-06T10:39:05+00:00",
-          "score": 3,
-          "score_reason": "Contexto temporal agregado y cita entrecomillada que humaniza levemente el mensaje.",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "El Ministerio de Salud Pública emitió recomendaciones dirigidas a viajeros que regresan a Uruguay tras la Semana de Turismo, con el objetivo de prevenir contagios de dengue. Las medidas incluyen continuar usando repelente e identificar síntomas de la enfermedad. Se trata de una iniciativa preventiva del organismo oficial en respuesta al período vacacional.",
-        "coincidencias": [
-          "El MSP emitió recomendaciones sobre dengue",
-          "Se dirigen a viajeros que regresan de viajes",
-          "Incluyen uso de repelente y detección de síntomas"
-        ],
-        "diferencias": [
-          "Teledoce especifica 'Semana de Turismo' como contexto temporal, Subrayado lo generaliza",
-          "Teledoce incluye cita directa humanizante, Subrayado mantiene distancia informativa",
-          "Teledoce enfatiza conductas específicas, Subrayado solo menciona 'recomendaciones'"
-        ]
-      }
-    },
-    {
-      "id": "story_015",
-      "topic": "Incendio total en pinturería de Pueblo Victoria",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Incendio en fábrica de pintura en Pueblo Victoria dejó pérdidas totales",
-          "url": "https://www.teledoce.com/telemundo/nacionales/incendio-en-fabrica-de-pintura-en-pueblo-victoria-dejo-perdidas-totales/",
-          "description": "A las 21:30 el fuego fue extinguido completamente, informó la vocera de Bomberos, Lohana Calleros, a Telemundo La entrada Incendio en fábrica de pintura en Pueblo Victoria dejó pérdidas totales se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-05T19:40:10+00:00",
-          "score": 3,
-          "score_reason": "Información clara y precisa, enfoque en hechos concretos.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Incendio en pinturería en Pueblo Victoria provoca importante fuego y condiciones de combustión intensa",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUzkyNHprMTJ6c2RoQzhNcG1mZk9OSld4VW1qUDVhSW9SUTc3QzNBdjR3MnNGbGQ1X1FOQmNwQndEVk5KaE9Sbm1FcmdHVTFNZnFUX25Pb04yVzR6RlVwcExPYVIwbWtqcUFHS2dMUGxTOFYxM2FTazl0UHRMNzBqZzd1cGRZM1N0VG5Zc1V0Z0FjWG5TUERpSHlnUkF3b3JaWF9PcmZmenp4N2FJTzdMT3lDSUpleUFXa05rWkZZQzhXVWNtdzBXdGd1UdIB0AFBVV95cUxNTVNTM0lQbktBTTVvdXJYZV93bEUydFZqXzVMY0pEaXh1S3VGVDNwOFg1dkw0V2FyTXlqQ2E3TG9xdUp2dmh1WjZPcVpyMEFKQ2NhNTE0Uk03Z1hYcnFhMFZnci1qUFFJbFZIemNUOUZvbVNCQkRGNjJBc0hwclpqdU9MVDRIVGZYMVlhQ0VmeXltRzV5bld4VVJoWTIxRS1fTk14eVpKQnFLaUh3TjRtdVExX09vQUJ5TXJ0N1RMeXF5Z2lyTld1R2hGMDQyTC1K?oc=5",
-          "description": "Incendio en pinturería en Pueblo Victoria provoca importante fuego y condiciones de combustión intensa &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-04T23:07:00+00:00",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Irán rechaza propuesta de alto el fuego y exige el fin de la guerra; Trump endurece el ultimátum",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZW8xdG9uYTI0WTQwYzJzei1mY212RTZ1blZLbG80Wl9xdXFSN1JSRHhPanEyTDFScVc4VFUwNlRkNEE5alNEbGVTSmMtYWRUOXBabnhfa2NZT1ZTdV81eGQ0aWVkbXllSDlMV3Z0M2NFdklvR19hUGpuVEFIZkZ6QVRfUHdEbWFINWoxMWhkaHpWbXBacTNUZTA4R0tPb3BfYjllejFCb0FKdm42NHIzaklyYXc4ZHNQWkVuOGxFdDlROHFV?oc=5",
+          "description": "Irán rechaza propuesta de alto el fuego y exige el fin de la guerra; Trump endurece el ultimátum &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-04-06T17:17:00+00:00",
           "score": 5,
-          "score_reason": "Énfasis en 'importante' e 'intensa', genera alarma innecesaria.",
+          "score_reason": "Estructura narrativa que sugiere escalada; equilibra actores pero con énfasis progresivo.",
           "score_pct": 50
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Trump amenaza a Irán con destruir \"todo\" el país si no reabre el estrecho de Ormuz",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeEU2RkdndFVmT1JZVWtZMWlGbnhUY2w0RHN3YzFCZEdnRFJoMldlZGZ4MWRyZGNnVk9YZU5HRS1ZYjk3SlhmTnlwVkVNVmFoM2hGS1VhVVVWUmVDa3RNVW1TVlB5NXFhY3Rzc0pLNzZGemhrZnlyUnAwYXlVRTRFaU9jRUh0TUFFSFg1YXJPODVVNkgtUVkzNmFDOWwzMDNuSF9tTXpaalU1RFh4ZGfSAbMBQVVfeXFMUHJtUlVFTC0zM3FvWjVfeDNCWENMbWctcUVKcWgxX2h5RlZwUW9rRzZpckNsdUVTSGoyTEhQZW9pMVVVR0VmZDZZOWhFUXI4YWhGRDR4anVMZzJBX0JzN091R21ySGR2WXEzYmpuZURNMnpsVG5FSDRYU3Z2QXYwX29EdnJYZHFYeFhITDluWFBpVTlvQjV0U09QcE5BWERTQ1doeFVralNGVWkyWHd1QmYtVUk?oc=5",
+          "description": "Trump amenaza a Irán con destruir \"todo\" el país si no reabre el estrecho de Ormuz &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-06T20:43:00+00:00",
+          "score": 6,
+          "score_reason": "Uso de comillas sobre 'todo' amplifica dramatismo; lenguaje alarmista moderado.",
+          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Un incendio se registró en una pinturería ubicada en Pueblo Victoria. El fuego presentó características de combustión intensa, generando condiciones peligrosas en el lugar. Los bomberos lograron extinguir completamente las llamas a las 21:30, según informó la vocera de Bomberos, Lohana Calleros. El siniestro provocó pérdidas totales de la infraestructura y contenidos del local afectado.",
+        "resumen": "Donald Trump realizó amenazas contra Irán vinculadas al estrecho de Ormuz, intensificando la postura estadounidense. Simultáneamente, Irán rechazó una propuesta de alto el fuego en el contexto de conflictos regionales, manteniendo demandas respecto al fin de la guerra. Ambas partes endurecen sus posiciones en negociaciones o disputas en curso.",
         "coincidencias": [
-          "Ocurrió en un establecimiento de pintura en Pueblo Victoria",
-          "El fuego fue completamente extinguido por Bomberos",
-          "Resultó en pérdidas totales del local"
+          "Trump realiza amenazas o endurecimiento de postura hacia Irán",
+          "Existe conflicto o negociación regional en curso",
+          "Ambas partes mantienen posiciones firmes sin ceder"
         ],
         "diferencias": [
-          "Subrayado subraya la intensidad del fuego; Teledoce enfatiza las pérdidas económicas",
-          "Subrayado usa lenguaje descriptivo del evento; Teledoce proporciona hora exacta de extinción",
-          "Subrayado genera mayor dramatismo; Teledoce mantiene tono más informativo"
+          "Subrayado enfatiza amenaza estadounidense; Búsqueda contextualiza con respuesta iraní anterior",
+          "Subrayado usa lenguaje más directo y dramático; Búsqueda estructura como secuencia de acciones",
+          "Subrayado singulariza amenaza de Trump; Búsqueda presenta dinamismo bilateral de tensión"
         ]
       }
     }
