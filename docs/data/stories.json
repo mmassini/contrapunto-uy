@@ -1,26 +1,91 @@
 {
-  "generated_at": "2026-04-18T10:45:50.431122",
+  "generated_at": "2026-04-19T10:44:36.697913",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Amenazas de tiroteos en liceos uruguayos",
-      "category": "Seguridad",
+      "topic": "Tres noticias distintas de medios uruguayos",
+      "category": "Otro",
       "sources_count": 3,
       "headlines": [
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Custodia policial en más de 30 liceos por amenazas de tiroteos: \"Por ahora es una broma de mal gusto\", dijo Caggiani",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWnV0WmdTNUVld000SjN3ZWVGQzI3V0xtQWtYbzB5OFM1M00xX2FZSmxCRTh0ZjczOEo5emtVREtnLXFDVk1Uc3NmcW1CVkpmeGJUQUpUam1JVE5SeENnMmdzRU82T09uYWVrWDlZeUxFaTZrSlpkLXNvUE5sbFVFdjlqbFZ1dlhneFZoMzFFU0xlN1JGZDAxNHkxU1dQaEI1bFdPRWJaMi04ZV9uWUZOVXVvbmhvTDJ5WnZRUHZ1S3hxdXUzTlF4bGxzMDctUXPSAdQBQVVfeXFMUEg1Z2Y5bjhOVkIzX3dLSFpmOFFTYUJpQ2l3RldlUVEyR0kxdVBQQW5QMEdxNng0aDVRcmNZVXdaaHEwc3laam1sN0RGc0JBWlFBYjZhSURJamMwaTlUaDZKVFRtVDBuZXF2VUJQWVRqX1RZZkJJR1RNTHdWLTdkS0VxUm1rTlBfVzF0bGhuNWZVWTVLQ182YXc3QXJ2bWVjd2NDRXd2bUNjOGpNX2Q4NkpGRnlSc2lhNG94VWxYd0lxamhhQXliRTM3UndZWmJ1WGpGRFo?oc=5",
-          "description": "Custodia policial en más de 30 liceos por amenazas de tiroteos: \"Por ahora es una broma de mal gusto\", dijo Caggiani &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-17T15:13:00+00:00",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Inédito fallo sobre filiación en Uruguay: la Justicia priorizó un vínculo afectivo",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTzlYVmV5b3EtdFgxOFRPMFpRY0VhMWFiaTNhTTZKZ2YwVk1OanJvd2dNU01yeGVHSGtOdzVBY1NFbW0tWlowUE4wTktkVzdoNEV1S2FaQzJxVFVDSk1TMU1fSDFXazlJTmlFRXVVVkVqWlRMZUxDUnRmLThscnZoOHdpdnZlN2xoaEViUG9ERV9Makd5NzREMXpaWVdfaXJ1Z2JEZUhWMmw0ZUhUWDhWRF85cnZUWU5VU1RJd2cxRXJNREoyODBUdtIB7AFBVV95cUxPRUtJWjFWY3VOZXZpMXlHNlBJMF84WkloeWpCNGFUYkZQZzU3QkhKWWlUdXotb1AtdG1NamZOaTdsQ1pZZ2VuUHJRT3owZmpJZGhOWnRMeFctWE4yZkFqQlhHVWk3WE12TFlhUjA2U09idWZSS2I2MFBxcG9Tei12Vmtkam1QcW9sMkVCRHd6YS12YlF4NnZfdzhpaW9hckhXalRtZ2ItTy1CSHhOellTb0xQdDlCcVpjT1lDQkx3T0k5ZU4xZ3Z6Ykp2YnJiTTl0VVh0WDRwdFhyQTJXelZsS0wySkhER3FTeWkwbQ?oc=5",
+          "description": "Inédito fallo sobre filiación en Uruguay: la Justicia priorizó un vínculo afectivo &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-18T19:34:00+00:00",
+          "score": 2,
+          "score_reason": "Descripción objetiva del hecho judicial sin carga emocional.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Pablo Londinsky y la decisión de contar la historia de un crimen uruguayo olvidado: \"Quería que no se perdiera y señalar algunos discursos que se repiten\"",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQeFhtdmxDSG5kcWRCS2MxcTI4STBYel9oaGo2T3RZRlRVZ1FLVklBdms5SG9Hb2lnX2NaNGVMVGpQZ1E3SlF6VWpCMkxDQXBXY1FETllYdmdpbG15RGQweWtsY2E3SlY1ZU1BbUg4UUE2al8tc2Q0YXp4Y3hsbC1jOWtCQlVndmFpRDRtRUt2ZUtBNnpjZXZMRWwyYnRpU0FTWEZtTmRkYW5xLVV4Umdhc2xiVUpRQ3E2UUs1cE0ybXJHclV2elMwYnh4Zy1LNmhRQmdpVXVRc2lWaWxLeGU4S2xERUVCZXRSWGFMeXdhLUUwUVM4eU1LR1lSWmdmNThMeU9UeG90T2xZVDctTFd0TG54QjTSAZoCQVVfeXFMUGxrZG9xTS0wYk9YVnJqQWpQZFpMb0FaMGNYdmc5dVRxRjU3WS1MWUhXMlE0QnFrZnUyZHM4Y2h2bm5LQ3BHa3o0bnRaZFJ5VzJGbllIVTh1TWdaaFdtUmQ3MkhLNkdJQ2k5dW15elNuUVhlVjRsOGtFWlpOMmY2NEJJMzZZME9KZEhnWTBVZHFyaG1ITFJ3YkZlM3hVXzVEcnI5TXVTM0xyaFBPS3NUTlR3Y1RtczBlblI4aGNSMWJCUUgzSTNDMzNqUVVOMEtnNlFFQXUzcWMtNkNqWWpFQ2prUU1icjR6VFF3S014SmZISWVsU0RGZVBUZlVaeXRMX0QwamJvc3hHMzV2T3Z6ZkQ1NXltb1ZFdC1B?oc=5",
+          "description": "Pablo Londinsky y la decisión de contar la historia de un crimen uruguayo olvidado: \"Quería que no se perdiera y señalar algunos discursos que se repiten\" &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-04-18T08:00:00+00:00",
           "score": 3,
-          "score_reason": "Incluye declaración oficial que contextualiza; leve énfasis en escala.",
+          "score_reason": "Titular informativo con leve énfasis en la intención del autor.",
           "score_pct": 30
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Goleada histórica: Albion 6-1 Central Español | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXZyamE4b3FOT25xdlJiME9od1ppbkVLdUVNWXFyTlJQdzBYd19xVmIySy1tVVNhYVJUSzdUVWdmcGVMenBNZUNyUlRZNEc4Tl90S3JFcGJ4M2xpemh2TUJXVWUtcE5BR2g1Y2JLT0NxZ01CNXh2VktmQkI5RlhjSGplZmdVcFVCY3dqTzBTODIxVDQtN1E?oc=5",
+          "description": "Goleada histórica: Albion 6-1 Central Español | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-04-18T12:39:36+00:00",
+          "score": 4,
+          "score_reason": "Adjetivo 'histórica' añade énfasis subjetivo al marcador.",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "Se presentan tres noticias sin relación entre sí de medios uruguayos: El Observador cubre a Pablo Londinsky y su proyecto sobre un crimen histórico olvidado; Montevideo Portal informa sobre un fallo judicial inédito que priorizó un vínculo afectivo en un caso de filiación; El Espectador reporta una goleada histórica de Albion sobre Central Español en fútbol local.",
+        "coincidencias": [
+          "Los tres medios abordan hechos reales y verificables sin desinformación",
+          "Ninguno utiliza lenguaje sensacionalista extremo o fake news"
+        ],
+        "diferencias": [
+          "Temas completamente distintos: cultura/crimen, justicia civil, y deportes",
+          "El Espectador usa lenguaje más valorativo ('histórica'); otros son más neutrales",
+          "Diferentes públicos objetivo y secciones editoriales según la naturaleza de cada noticia"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Manifestación pública por caso Moisés Martínez",
+      "category": "Sociedad",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "En imágenes: multitud se movilizó pidiendo justicia y la liberación de Moisés Martínez",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWS1leE1ST0x3QjRMTDU2QldHRTlnOHJlU1lZRm5USzZVaTRZb19qVlFreFlKQkdydFU3TUVtcHhUcGpROFdCS2RyU1FCNUhOaU1UMWVkYm9tYW5POC02LVhsYW9rQ1hScFk1LUQ1cHFiN3hNd29OMXNQRWU4S0VHNi1OaGNSZkd0amNkbjItU2s2dWM1UV90YTRMWFhWdEp2X2s1TUJ6ZV9SS2R1RjF2UVBOb2pZQnZCdkpfLTZxc1kyWFpmRTV4V2Fkakoxd9IB8gFBVV95cUxPUkdQN0liVmZ6VUU0YkFfZG13aEF2REtOLUFWTFFsWDIzSUR3NVFPNE1vWWh4R21JMmE0MFprMERYZ2djQTQzNVdaTFFfTkh5VUVmbXB1bTR2NWZHZ2ExWllnSkZLVGVydDZYU2lrTU80Y3FZc0xqTEFCNWo2emo4ZXZsTjVhUDAtNGpEQ0l3bXpZQXJ1V2E2MWg2WGxlZFctNVcybkxVU040MDNKUnR3ekJWZjh0TGZaSmI5cU9nMW9IRmN5bHJjd1JNY1pDbWk0N082a043SWctWk10QlEzOC1BaVNPRXRLRm5wbTYxOGVvdw?oc=5",
+          "description": "En imágenes: multitud se movilizó pidiendo justicia y la liberación de Moisés Martínez &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-18T00:51:00+00:00",
+          "score": 4,
+          "score_reason": "Neutral, describe la movilización sin carga emocional adicional.",
+          "score_pct": 40
         },
         {
           "source_id": "teledoce",
@@ -29,14 +94,50 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "Denuncian supuesta agresión de maestra a niña de 4 años en escuela de Montes de Solymar",
-          "url": "https://www.teledoce.com/telemundo/nacionales/denuncian-supuesta-agresion-de-maestra-a-nina-de-4-anos-en-escuela-de-montes-de-solymar/",
-          "description": "La denuncia fue realizada en la Policía de Canelones y también fue comunicada al Codicen a través de dos correos electrónicos La entrada Denuncian supuesta agresión de maestra a niña de 4 años en escuela de Montes de Solymar se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-17T20:26:16+00:00",
-          "score": 5,
-          "score_reason": "Mezcla temas distintos; 'supuesta agresión' a menores genera alarma.",
-          "score_pct": 50
+          "title": "\"Queremos justicia y que haya penas más duras\": hijo de repartidor asesinado participó en marcha en reclamo de seguridad",
+          "url": "https://www.teledoce.com/telemundo/nacionales/queremos-justicia-y-que-haya-penas-mas-duras-hijo-de-repartidor-asesinado-participo-en-marcha-en-reclamo-de-seguridad/",
+          "description": "La manifestación se organizó por parte de ciudadanos vinculados a familias de cuatro personas que fueron asesinados en recientes hechos de violencia. La entrada &quot;Queremos justicia y que haya penas más duras&quot;: hijo de repartidor asesinado participó en marcha en reclamo de seguridad se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-18T21:31:28+00:00",
+          "score": 6,
+          "score_reason": "Enfatiza reclamo de seguridad, omite contexto de Moisés intencionalmente.",
+          "score_pct": 60
         },
+        {
+          "source_id": "ladiaria",
+          "source_name": "La Diaria",
+          "source_short": "LD",
+          "source_color": "#1B5E20",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://ladiaria.com.uy",
+          "title": "“Liberen a Moisés”: cientos de personas se movilizaron para apoyar al joven condenado por matar a su padre abusador",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOEpXZnZQUkRwU05UYkFtWHBDdHRrQzBqLTVycGhfSzlZTFN3Qi1aQ3pyWkxpRzZMQ1FGdmJRVmFYWUVSWGpWTkNoalBVQXlvVjBnbVdFbFM1b0l4ZW9rZjdjdzBnOGRNb052YXNoZ2lBTUhSZHg1a1VyRERTQS1XOEgxSkV5WnJjd3l5bXgycXNRNXM5Q3R2dkdZNWQ4cklBaDdPYUV3UmhWV0kzN2Z6YkxaT0hlZmhzNWNzcUpoVkNQNkdMMnR5cWFQbTZSX1FvZHlKMm85T0J2TU1HUl9Iay05aGZ0dHB3cGpoUkV4OVpYdEN3VVVV?oc=5",
+          "description": "“Liberen a Moisés”: cientos de personas se movilizaron para apoyar al joven condenado por matar a su padre abusador &nbsp;&nbsp; ladiaria.com.uy",
+          "pub_date": "2026-04-17T23:47:26+00:00",
+          "score": 7,
+          "score_reason": "Contextualiza abuso paterno, genera empatía hacia el acusado.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Se realizó una manifestación en Uruguay con participación de cientos de personas. Según algunos medios, la movilización fue para apoyar a Moisés Martínez, joven condenado por homicidio. Otros medios señalan que también participaron ciudadanos vinculados a familias de víctimas de violencia reciente, reclamando justicia y mayor seguridad. La marcha refleja divisiones sociales sobre el caso.",
+        "coincidencias": [
+          "Hubo una manifestación pública con participación masiva de ciudadanos",
+          "El caso de Moisés Martínez fue central en la movilización",
+          "La marcha estuvo relacionada con demandas de justicia"
+        ],
+        "diferencias": [
+          "La Diaria humaniza al acusado mencionando abuso; Teledoce prioriza víctimas de otros crímenes",
+          "Algunos medios centran la narrativa en apoyo a Moisés; otros en seguridad general",
+          "El framing varía entre defender al condenado versus reclamo de penas más duras"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Orsi participa en cumbre regional en España",
+      "category": "Internacional",
+      "sources_count": 3,
+      "headlines": [
         {
           "source_id": "montevideoportal",
           "source_name": "Montevideo Portal",
@@ -44,32 +145,62 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Policía investiga amenazas de tiroteos en liceos: insólito motivo que explicaría el caso",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYWFDZjFudWlxMk9SRkNCN1JoZHNwak1Wdzhlc0NFNGt4TnpEa0N1VkhqQlF1T2RIODhxME02ejlFdTBrYlZ2M3B2QWxDRlBnTldlSzFQM01DaXhVQzN2RkdwblpIb0drY1NwNm5uRVFrdk5McTY1d2ZTX2JFWHBXMkM4eDRvNk5kZXdSQTdyNGliak1ydy1nNDVTd2IzdzZFNWxEdEdLUzFFXzhCQXRsc3h1WGVackhYdEM4cHdkX2U5M1ZrMWJyYkdrUzVWM1FN0gH0AUFVX3lxTE5SS3RiQkxWWmVWc09PMlh5azlIRENWWXNJbTRqNmdPSDc0aWtiajVub3dFX3NRVVFiRHY2TkdEMkl6OVhhaHJrX0RIQXFMdDgxbWViVGpQcjJUanpBNFZuSl9Sc3JIa0h3ZFg2WEVSd2VZcnBvc3BkcEVUX2J6R3gwVk5tVURZWFItOGNZQm1ob1hTSHpQWDViRDYzNVJWSmdrQVp2SGFQdWxpMk8xeGdrTzVYVUIzMkY5R2lLQkxDNzM5TG1xMjNkX3lVSFhhRy1qSUJJalNFcFlKV280Q0VqS2lIR3prOVhPYnFFaDNaeG9hd04?oc=5",
-          "description": "Policía investiga amenazas de tiroteos en liceos: insólito motivo que explicaría el caso &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-17T00:08:00+00:00",
+          "title": "“Unidad por Latinoamérica”: Orsi y presidentes de la región posaron tras cumbre en España",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOampsa1NGTV9tTzRfMTM3YkJfaUtleEw2ODMxNGtPZkZnTU5CMWQ1Z3JuM1k4all1eUZlQ1RIakg4T1IwSmNOWURiLXhYLXdJRWNVcGVXb19ITVJCTkJYQjgzTW9WOWc5RWJCcWVSWEpXbTBYTzlEZldQeHJPSjNEYjVYSEdHUWdpUTVlOUl1QXY4RlNMVXNuVWF4OV9SMFUzdFBDNmgwZWN2UHlTWFVBc0N2QU1fQ2pNR0JpNDV1NFZ4UjB1dUp4RnpReGl6MnEwX3fSAfYBQVVfeXFMTVBzUVI5UW02d2xCOXRUV3h2eHpOUlk1a3dDTm9ZWmxEVE5IX0ZxRll2N0VVMUNrem5xcy1Xd3RoOEY3Q05FbnA4MXRUbGY0bEd3Q3J4NTkyZHF0eld1eEtTOG5iRzRjeV9sck1HM0lCS1pjdm55MHFJdldGdDV5M3dFR0F0SGN6Q0ZBMFJjU2wwREUyam9KekpuOXZJVFlBSE5EcC1uRnFoWm5kVmRIYUo1ZlIwOV9Bdk9paTlrRHA2U1FDNmVCdVF3NjZfcWM0QThfamVSeWczVzR6Mi1ValBqV0hwQkZzcF9CYnVLMHRURS05T1NR?oc=5",
+          "description": "“Unidad por Latinoamérica”: Orsi y presidentes de la región posaron tras cumbre en España &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-18T17:58:00+00:00",
+          "score": 2,
+          "score_reason": "Enfoque descriptivo neutro, destaca el momento fotográfico sin carga política.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Orsi participó de la Cumbre en Defensa de la Democracia junto a Lula, Pedro Sánchez y más presidentes progresistas",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDlhWjgzTkVFMXp3bWR6c1U0TjdKekFfWlAwZlEzaEVDbG54TWp4NjZZU2lZanBEOGY2S2laYTlyTWJPdFNicWRnSDB6STdMM3FGc0poMlVSX29uMWM0bzllQmozelFVM3M3OEVSNHNORmlZSGd6VkRkQm1JalEzS1dYeDJqYTN2ZFE5QW91akRmaUE0WG1meTNRYm5Eb0FSbF9SSUU1bTA0eFpyb3I4ZlpzQVJVUF9ocXZkMi1hdGJOZHVEdjBXWTVpMmI1dTVOMnhzUS1SVdIB3AFBVV95cUxQVnpjcGVISjdiYS1ma0tXdno5OG9qd25DUXlrWDdwMmktMXBoSDZVVUpwVHNNQThFM1BqR1VqQnJNUmpVMXk1eFFtUXRWVE1UYmdzQk9ZOFZFd3BPSEthYlpuX241WE13YThyeVg1elEtRVQ5UUJrempzY1h4aTI5bER3dThKUFJCZTRsYk5mcmhGSHlFZzhCdGhHYTJtX1NPaVk0bnBGN2JVTXdiX1lwcGlTUFBlYklqVzdnZ2NqRmpqYUl6Y2JzX2pmbEFxVll4ZUpVdUU4NGcwTjl3?oc=5",
+          "description": "Orsi participó de la Cumbre en Defensa de la Democracia junto a Lula, Pedro Sánchez y más presidentes progresistas &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-18T12:44:00+00:00",
+          "score": 4,
+          "score_reason": "Identifica ideología de los presidentes, énfasis en 'defensa de la democracia' con ligera carga valorativa.",
+          "score_pct": 40
+        },
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Líderes progresistas sellan una alianza en España con alusiones a Trump y críticas a la presión sobre Cuba",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUlBmaWFuTVA1dkRWN1IzdDBpX2FRQkxIOWFHcEE3NmxSSXBscGJNYk1PaFJMYXZCdnQzR3QyV0pUclNhZ0h1a1F1SFRHQnRRZ0pmZUY1dC1iWHlGU09xRUZLdWFEclRlaVI5QWhoeU9TLVJRQ1VNangwN3RteW9NZTJlUnZQaS16WHQ4cTk2ZmNfeFNsZVBhWERnUWZxNERBbTZ1ZmVqVlZHOHFfei1FbW8yWFhvVlhwbzUwYlNDaXVQbzJZc0FJbFBoNllHU0YzM2pOX9IB2gFBVV95cUxQM1U1SmVIODFDa0JMRC01MWRuV0J3bXgtR1Jpb2JWdFlYR1RCZWUzcXlfbktTWlhoTlNiaXB5OW1zSjlQRF9VYTFhcW9zeXJhRzdNMjRmeVczMjNZWEVPdzJwUXR3ZDA0UTl4TWUzNlc0TUc1bHplbnRVOWdncEdNZFBZVUlFRUI4dTJFLTFFaTRiMENvZ0lmSENMaDg5aUxmSnI1TlBBamtzdWRKeXp2YkFhbmFnNjB6cHRDazNYZjZNektqUDR2VU1LYk5HZkVUYWswQXZ4YkFkdw?oc=5",
+          "description": "Líderes progresistas sellan una alianza en España con alusiones a Trump y críticas a la presión sobre Cuba &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-04-18T20:45:00+00:00",
           "score": 6,
-          "score_reason": "Palabra 'insólito' carga emocionalmente; genera curiosidad sensacionalista.",
+          "score_reason": "Lenguaje 'sella alianza' sugiere pacto coordinado; menciona Trump y Cuba con intención de contextualizar posición política.",
           "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "La Policía investiga amenazas de tiroteos en más de 30 liceos del país. Las autoridades, incluyendo el ministro Caggiani, catalogaron inicialmente los hechos como \"bromas de mal gusto\". Paralelamente, se denunció una presunta agresión de una maestra a una niña de 4 años en una escuela de Canelones, caso que fue comunicado tanto a la Policía como al Codicen.",
+        "resumen": "El presidente electo Orsi participó de una cumbre de líderes latinoamericanos en España junto a Lula, Pedro Sánchez y otros presidentes. El encuentro abordó temas de democracia y unidad regional. Se realizó una foto de familia con los asistentes. Durante la cumbre se discutieron críticas a presiones internacionales sobre Cuba y se plantearon posiciones respecto a políticas exteriores.",
         "coincidencias": [
-          "Policía investiga amenazas vinculadas a establecimientos educativos.",
-          "Las amenazas involucraron múltiples instituciones en el territorio nacional.",
-          "Autoridades intervinieron activando protocolos de seguridad correspondientes."
+          "Orsi participó en una cumbre internacional en España",
+          "Asistieron otros presidentes latinoamericanos progresistas",
+          "Se discutieron temas de democracia y política regional"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza lo 'insólito'; Subrayado prioriza declaración oficial.",
-          "Teledoce introduce caso separado de agresión escolar sin conexión clara.",
-          "Subrayado proporciona contexto institucional; Portal busca impacto emocional."
+          "Montevideo Portal evita mencionar ideología; Subrayado y Caras la enfatizan explícitamente",
+          "Caras introduce actores externos (Trump, Cuba) para contexto político; otros medios no",
+          "Subrayado destaca 'defensa de la democracia'; Caras enfatiza 'alianza' y críticas específicas"
         ]
       }
     },
     {
-      "id": "story_002",
-      "topic": "Oposición ausente en Congreso Nacional de Educación",
+      "id": "story_004",
+      "topic": "Oposición no participa en Congreso Nacional de Educación",
       "category": "Educación",
       "sources_count": 3,
       "headlines": [
@@ -85,7 +216,7 @@
           "description": "Cosse dijo que la oposición comete “grave error” al no ser parte de Congreso de Educación &nbsp;&nbsp; Montevideo Portal",
           "pub_date": "2026-04-17T23:45:00+00:00",
           "score": 3,
-          "score_reason": "Usa comillas directas de Cosse, presenta posición oficial sin contrapeso equilibrado.",
+          "score_reason": "Reproducción directa de declaración; leve énfasis en crítica de Cosse.",
           "score_pct": 30
         },
         {
@@ -100,7 +231,7 @@
           "description": "Para Cosse es \"grave error\" la no participación de la oposición en Congreso Nacional de Educación &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-04-17T23:37:52+00:00",
           "score": 3,
-          "score_reason": "Similar a Portal, enfatiza crítica gubernamental con término valorativo 'grave error'.",
+          "score_reason": "Similar a Montevideo Portal; cita textual sin adjetivos añadidos.",
           "score_pct": 30
         },
         {
@@ -114,183 +245,30 @@
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTU5jR2pmaExrbmtHRlVtRWxKb0FGaWRmTDR6OEZoQlZBWTFUbXlsNTRfRHV2aVBlenVhRUNTMUdTMTMyalM5RElhRmU0bDM5WDNraXg5bGp2OWJscXJaS2dJRlhfNEpiZ1l1engwdGM5Y1JEclZ3dm9GX1d6a2ljWmdoMklJZ1RRbEx3ODhmekNMZnZzeFM5VFptbWpmNmw2UXV6YjBlakJjdHUyclo3cGZvUVRyRlNFT1BpNkNRbWFtWEJIOVhhRGluanRjRktfWk5wbF94Z2JqM1NNUDBkS2VR0gHnAUFVX3lxTE5TT2pEUUF3bElKYTRMeTVPOW1sV0I5YlNQbldvbmlyb2VvUFFDcEYwLTc5OGNFZjViamF2ZE9PWDFUUFhPdnl6cUhsUW5vYW1kRkxqTlZzZF9vWngyMVBMQ3U4dDlLTE5CRHgtMmhXOEJabjZmaUI1YWNsLXVPTlZaVG9KVkU4MzN2dlE5enBzaGtIbFR1RFZOS3Y3c2VlQVVidTRkVWdNMlh3LURJaU96eUZNTlJZS2xYUzE5ZnRXQUJUTDJYRHBWYkxySXlKSE9iamlwcGpSbjZqYk9ZaEM3M0RSa2JMcw?oc=5",
           "description": "Mandacen: \"La posición del Partido Nacional, Colorado e Independiente es corporativa y antidemocrática\" &nbsp;&nbsp; Caras y Caretas",
           "pub_date": "2026-04-17T22:59:00+00:00",
-          "score": 5,
-          "score_reason": "Prioriza posición opositora, usa adjetivos cargados como 'corporativa y antidemocrática'.",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "El gobierno, a través de la ministra Cosse, criticó la decisión de los partidos de oposición (Nacional, Colorado e Independiente) de no participar en el Congreso Nacional de Educación. Cosse calificó esta ausencia como un grave error, mientras que desde la oposición argumentan que su posición responde a diferencias sobre la estructura y objetivos del congreso. El evento constituye un punto de tensión política sobre cómo abordar la política educativa nacional.",
-        "coincidencias": [
-          "Existe desacuerdo sobre la participación de la oposición en el Congreso Nacional de Educación.",
-          "Hay posiciones encontradas entre gobierno y oposición respecto a este evento.",
-          "La noticia refleja tensión política sobre política educativa nacional."
-        ],
-        "diferencias": [
-          "Portal y Subrayado priorizan la crítica gubernamental; Caras y Caretas resalta argumentos opositores.",
-          "Portal y Subrayado usan lenguaje más neutral; Caras y Caretas emplea adjetivos más valorativos.",
-          "Enfoque: dos medios destacan error gubernamental percibido versus uno que enfatiza posición política de oposición."
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Buque noruego realizó exploración sísmica sin autorización",
-      "category": "Política",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Gobierno investiga posible exploración sísmica ilegal de buque noruego",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UWl9xa3V2SjJDUVI5NWRxVXhZbE9uaTI5VE9nY3E3Tk42NlZYY3prdzh5bWRSSXdfLXJzOHJTYXRkaE9lTHlIN1o2WHVjSmhE?oc=5",
-          "description": "Gobierno investiga posible exploración sísmica ilegal de buque noruego &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-04-17T11:49:46+00:00",
-          "score": 3,
-          "score_reason": "Lenguaje neutral, usa 'posible' y se enfoca en investigación.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Buque noruego que hizo exploración sísmica sin autorización generó cruces entre Ancap y Cancillería, una publicación borrada y un pedido de explicaciones de Ambiente",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPRkJNRnJXUkxOMHJhNWZ5Um1TaEtlWEhfOGlZR3JfMFpCcDZXQ3hjcGdtYXJXSEZSeWFQTkZMRHBSd3lJYjdOOVFmLVlhRGZYRklTMXU3YnoxbEpkM2dYMGlOT1VlZWhVMEpWMTg3RHFHYXduTlVBZGJPcWFuOXJucXQ3N2VzbmY5S3RsU3o2RWRoUVMwUDZ3bWJheTlRbjR1SlJzWkpzVnpVZEpndEREaHc1YXN2aHFhamRnTGd1ME9oWC0wdnpVdmJhaWUycWt1cE5kb2NlbEIxUXBxRmN3cVdNLUYwelF0QnlVSlhSVDlWQlNtSEZxNXRmcmRuMVBpaUxSbWo5eDdDeS1hTFE?oc=5",
-          "description": "Buque noruego que hizo exploración sísmica sin autorización generó cruces entre Ancap y Cancillería, una publicación borrada y un pedido de explicaciones de Ambiente &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-04-17T08:00:00+00:00",
           "score": 6,
-          "score_reason": "Énfasis en conflictividad institucional sin confirmación formal.",
+          "score_reason": "Prioriza posición opositora con términos cargados: corporativa, antidemocrática.",
           "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Un buque noruego realizó actividades de exploración sísmica en aguas uruguayas sin la autorización correspondiente. El incidente generó tensiones entre organismos gubernamentales: Ancap y Cancillería tuvieron diferencias sobre cómo proceder, Ambiente solicitó explicaciones, y uno de los medios borró una publicación relacionada. El gobierno investiga lo ocurrido para determinar si hubo irregularidades en el procedimiento.",
+        "resumen": "El gobierno, a través de la ministra Cosse, criticó la decisión de los partidos de oposición (Nacional, Colorado e Independiente) de no participar en el Congreso Nacional de Educación. Cosse calificó esta ausencia como un \"grave error\", mientras que desde la oposición argumentan que su posición responde a razones corporativas y antidemocrática. El evento constituye un espacio de discusión sobre políticas educativas, cuya relevancia se ve afectada por la falta de consenso multipartidario.",
         "coincidencias": [
-          "Un buque noruego realizó actividades de exploración sísmica",
-          "Carecía de autorización previa para estas actividades",
-          "El gobierno uruguayo inició una investigación sobre los hechos"
+          "Hay desacuerdo entre gobierno y oposición respecto al Congreso de Educación",
+          "La oposición decidió no participar en el evento",
+          "Las declaraciones de funcionarios oficiales critican esta ausencia"
         ],
         "diferencias": [
-          "El Observador subraya las tensiones intergubernamentales; Grupo R enfatiza la investigación",
-          "El Observador menciona una publicación borrada; Grupo R no lo incluye",
-          "El Observador usa un titular más descriptivo de conflictos; Grupo R es más directo"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Ministro Fratti aborda crisis de garrapatas",
-      "category": "Política",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Fratti y el tema garrapata: anuncios, críticas y un pedido, \"no llamen al ministro porque no hay concesiones\"",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUXRzV1hiSTk4ZEROSGE4akNmMlhZYW9wckZ0a19OS0ljRFBxc1k2cV83QUp1NkJPWE1yQUtSME9LMDk4OC1HRmp6T1VkY3JOQTgzRG5LR0tlcGlxNkppU1Q0eDlxRDhyV0U3LThjamxTeGFwODgtUTRpdDBsbXh4RU1tcTFwNTZWcENwQlFiSVZDTlktSnFCcnhLYmgyYnhiUWRpaXNvaVhuVjR1SUxQUVJ6U3RnMVR2YnZKLWpuU3BBTjk3Z3lZN3RZem1CdnV6eTBrLXJBcVB3LUgxQjhKV3lJOUvSAeoBQVVfeXFMTjVZNC1UYTY1bTV1MkttT1V3bXZtRjNiVFJkb0tlc1ZENG5naTJUOHNUY2dvbVdocGg3dnNWSGdIdHRRNzEwN1hxVTJYY2tFYzRpQXFTNnFNbFlMdVg4MDJmYmF1SE1RcnRtaUFZTlNtZi1ReDF5eU15b1lQb3VlbHlJdUNCdEhUczVRbnMzMENzQlpOUmlhSnpmWUM2M0tHaV9CeFNHZWc2N01yeUY4eHIzemczMFhnN0RJellNelRSek1PeUltaWhJRjhuN19ucXJSeVJCX2hnLUJxaGxqSmplT0JZTU9iT2pR?oc=5",
-          "description": "Fratti y el tema garrapata: anuncios, críticas y un pedido, \"no llamen al ministro porque no hay concesiones\" &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-04-17T01:28:00+00:00",
-          "score": 4,
-          "score_reason": "Incluye declaración defensiva del ministro, levemente enfatizada.",
-          "score_pct": 40
-        },
-        {
-          "source_id": "carasycaretas",
-          "source_name": "Caras y Caretas",
-          "source_short": "CC",
-          "source_color": "#4A148C",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.carasycaretas.com.uy",
-          "title": "La autocrítica, las \"operaciones\" y la falta de un rumbo que movilice",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWU5Ha1h2ajV2ZzFvYkwyMXVDeDR1VjVhMjRxRlBsYU5DOUxjVEdoZ2lNaWhFNklyMUttWE51QllGUXFNU1NfSzB2czZTdzNpa1JXMzRWQjN0RlNLaVIyd3pXZ3dWSFB0QXdlTHFVMW5WZ0FEMjBaTjcteVpVbnhvTU5UbU5oYVdIVVlKbW9iQk5lX05WNk4wYktMLUV3NzVlakt1RzhzY0RBRHRUZ2VZZEdn0gG3AUFVX3lxTE1hYkM3RFVaVDhFTFJNaTFFS2RtNkNWT2RTY2k1U1pSbU1NX0VnbndlV0dEZmt2c19UYmtVd1VRNENRb0pjcVNJQld0TlVLaFBwR01mN3MxNUQxRkxkVm5iUjhFQUtKTUtJamVnZGY4Y3BJa1R1OUVCcnNaS3hFLXZ5U3RrYXVCaHdUd2ZWT1E4R1lla3h2WEJhRy1JN3g2bV93NGNBMTlrMGk3V1FubEJKUkM5TjMwdw?oc=5",
-          "description": "La autocrítica, las \"operaciones\" y la falta de un rumbo que movilice &nbsp;&nbsp; Caras y Caretas",
-          "pub_date": "2026-04-17T10:20:00+00:00",
-          "score": 6,
-          "score_reason": "Sugiere autocrítica y falta de rumbo; términos entre comillas implican cuestionamiento.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "El ministro Fratti realizó anuncios sobre la problemática de las garrapatas, enfrentando críticas sobre la gestión. Durante sus declaraciones, pidió que no se le contacte buscando concesiones, sugiriendo presiones políticas. Simultáneamente, admitió errores de autocrítica en la conducción y cuestionamientos sobre falta de dirección clara en las políticas implementadas.",
-        "coincidencias": [
-          "Fratti realizó declaraciones públicas sobre el tema garrapata",
-          "Hay críticas sobre la gestión ministerial",
-          "El ministro reconoce problemas o presiones políticas"
-        ],
-        "diferencias": [
-          "El Observador enfatiza la defensa del ministro; Caras y Caretas subraya la autocrítica",
-          "El Observador destaca presiones externas; Caras y Caretas cuestiona falta de dirección interna",
-          "El Observador es más factual; Caras y Caretas usa lenguaje más crítico"
+          "Montevideo Portal y Subrayado enfatizan la crítica oficial; Caras y Caretas amplifica la posición opositora",
+          "Dos medios usan tono informativo; uno incorpora lenguaje evaluativo (corporativo, antidemocrático)",
+          "Diferente jerarquía en los argumentos: gobierno versus oposición como protagonista principal"
         ]
       }
     },
     {
       "id": "story_005",
-      "topic": "Joven condenado por matar a su padre",
+      "topic": "Búsqueda de puma suelto en Canelones",
       "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "\"Defendió a mis hijos\": familia de joven de 18 años que mató a un hombre de 57 pide su liberación",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLVFhVml5eGdRNDZEb2Y4bEhkUExhZC1fOFJNRTVyZHNPSGJtR0tSMG15Z1hWdUpPcE83RERtWDRKckhIdGhnUmk4RzI1bTIxSVN5aHNsU2xmdW43R3RWRHZHNjlpckZMWkJXMTdsQW1YSG93djN6MzNPZDd3c0pjTHIyOWc2YVRFS0Nxck95bmo0aTEwQl82ajRHV29veVR0QS1hQXp0U2NXb0dRWmttX0ltMmNfV2hZc2Mw0gHAAUFVX3lxTE96a0YzWlFsY1hxMUhrc2FYTDBXT0pVWmpNTHo3dFcwNVI4ZHFwZU8wRHlGX21sLVBzT2JJcHNWV3I2dlRIT1lJcHZ1OWdOdVRHa3ZaUGxaUFVBM0g3anBabFo4Qjgxb3JwVTZxeFFWQlpYYlluLWNQVDlkdFdsZzZNMGtqYnNld1kxNGgzMGNFVlBoZlJoRFN4dXh6Y2ZqbjhFbVVRYWMxX3p1N1F3c0JBNnJTdm5rMFJ5emI3UzA3Rw?oc=5",
-          "description": "\"Defendió a mis hijos\": familia de joven de 18 años que mató a un hombre de 57 pide su liberación &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-17T22:28:00+00:00",
-          "score": 5,
-          "score_reason": "Enfatiza defensa familiar; más neutro que La Diaria",
-          "score_pct": 50
-        },
-        {
-          "source_id": "ladiaria",
-          "source_name": "La Diaria",
-          "source_short": "LD",
-          "source_color": "#1B5E20",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://ladiaria.com.uy",
-          "title": "“Liberen a Moisés”: cientos de personas se movilizaron para apoyar al joven condenado por matar a su padre abusador",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOEpXZnZQUkRwU05UYkFtWHBDdHRrQzBqLTVycGhfSzlZTFN3Qi1aQ3pyWkxpRzZMQ1FGdmJRVmFYWUVSWGpWTkNoalBVQXlvVjBnbVdFbFM1b0l4ZW9rZjdjdzBnOGRNb052YXNoZ2lBTUhSZHg1a1VyRERTQS1XOEgxSkV5WnJjd3l5bXgycXNRNXM5Q3R2dkdZNWQ4cklBaDdPYUV3UmhWV0kzN2Z6YkxaT0hlZmhzNWNzcUpoVkNQNkdMMnR5cWFQbTZSX1FvZHlKMm85T0J2TU1HUl9Iay05aGZ0dHB3cGpoUkV4OVpYdEN3VVVV?oc=5",
-          "description": "“Liberen a Moisés”: cientos de personas se movilizaron para apoyar al joven condenado por matar a su padre abusador &nbsp;&nbsp; ladiaria.com.uy",
-          "pub_date": "2026-04-17T23:47:26+00:00",
-          "score": 7,
-          "score_reason": "Contexto de abuso justifica acción; carga emocional alto",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "Un joven de 18 años fue condenado por matar a un hombre de 57 años. Según reportes, la víctima habría ejercido abuso sobre el joven y su familia. Cientos de personas se movilizaron pidiendo su liberación, argumentando que actuó en defensa propia o de sus familiares. La familia del condenado también demanda su libertad.",
-        "coincidencias": [
-          "Joven de aproximadamente 18 años condenado por homicidio",
-          "La víctima tenía relación familiar directa con el acusado",
-          "Existe movilización social pidiendo liberación del condenado"
-        ],
-        "diferencias": [
-          "La Diaria enfatiza abuso como contexto justificador; Subrayado evita nombrarlo explícitamente",
-          "La Diaria destaca apoyo masivo ('cientos'); Subrayado prioriza demanda familiar",
-          "La Diaria construye narrativa de defensa; Subrayado mantiene distancia mayor"
-        ]
-      }
-    },
-    {
-      "id": "story_006",
-      "topic": "IM presenta proyecto de transporte en 8 de Octubre",
-      "category": "Política",
-      "sources_count": 2,
+      "sources_count": 3,
       "headlines": [
         {
           "source_id": "montevideoportal",
@@ -299,420 +277,12 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "IM divulgó renders del proyecto en 8 de Octubre y avenida Italia: así será la circulación",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcHdlMEhoYnpvX2NTMm10QUx3ZFZTQjQ4WGZpWWUycUJLSzc4UWFVaFlNc3JBbGRrRmx6T2cySU4zUEhqRy1kM2hxc0Q1TnFNSFlpN3hNSWp5ZGtMYXlOTUFkYlk3RmFiSGpRbXd0U2dPeWdjcU9pSnFlc1lOYWdLY2p1TTZyT0hrczJEa0JPQlgwWGxDS1NFUjdwR0hCczczbGF4QVFRbkl6S2Q5MjdKcGRFbWdpWW54ZDkzMGI0NVJNSTk0SjRpWW5tWlhEWmEwZkHSAfYBQVVfeXFMUDlZOHRlTzFCcTA1Zk1sT0xZWUhkUjh5TExlQ0JMdU5XUkdEWFk4VnoxY01LSE02WE1IeTUwQXpCY01ZNzEtZV90RHNhSVhMYWZsYjlfN2dxRlZXM3o4dlltWWsyTC0ySEJ2Sk9rdjBaUmJneEZnV2NlSW5iWE84ME1pdmhiNkROSkh2b1JhRnBUbFA3S1poRTdOUzNXc2trX0cxcURwTm10SlhUMEV0eWZCX0pjQngzMEZuR1BUZGlvWlBzN0xMei1WcllWV3AxTmlVVFUwWFZ3NUs1emJOMVhmel8wcE5xSkphdkNfWGp2VXZVZWx3?oc=5",
-          "description": "IM divulgó renders del proyecto en 8 de Octubre y avenida Italia: así será la circulación &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-17T13:45:00+00:00",
+          "title": "Sigue la búsqueda del puma en Canelones: se está haciendo rastrillaje y vuelos con drones",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY2VyRzRVQ2N6WlJvejJtcFZ4VjFsVF9zVTBidnRZNVFmMFJndGZ3Ql9WdGp6dVBjMmFJMk1GSkk2V2p6NGw4SXVpalJkRENPQ2h2V19IY2o3aExRWWNRcXROdEQyZDAyRzNLQnltcEEyblZBcGFlaDhpNldRNDVSUlJzNW00Vk5tWkpTcE42cGRaTXZfYnpJUFFFQ0pCb0sxbjJzQzRnb2cxbTVpa0RfaGVCR1d5UGh1UVItRGMtRWVPRXlGX25zQnJnQ3lreFlBVkHSAfYBQVVfeXFMTnlLd05vdzAxYUxoR3hkX3NxbEpBcGZRX3p3WjIzSGpBNnp2eGRnSFp3LXJyaF9sTUxlRjFnWDhoN0trbnhXZnpxUE14VTQ2LWJLbC13SURXLVMtWHlIa19uNlZYbTBXQURYTEtfU0Z6SEY1b3UwNElNX2NmQ3ZNVDd3cW9PN0Q4UFVnWTREQ3MwSDdPNTNtM0xhdHFjOFYxMkpCbkx5Y055YnR6THExWm5VS09SUWtjNG5jVHBVcXBvOUpSR29tc2RMQ2dhZUZDa3BpXy1Qc2oyaUJpaXRYYVdIRTF6TlJMYkt2aUV2RVI2MXVHWGp3?oc=5",
+          "description": "Sigue la búsqueda del puma en Canelones: se está haciendo rastrillaje y vuelos con drones &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-18T21:36:00+00:00",
           "score": 1,
-          "score_reason": "Lenguaje puramente informativo, se limita a describir hechos concretos.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Más detalles del proyecto de transporte: pasos a desnivel y nuevas imágenes de 8 de Octubre y Avenida Italia",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbzNsREVLZllIbWJTUzhJUmJPd19McUZHWktzQzloZjVIZ2pUdnluSmplakhZekloOXNNQXVxc2lZX3I0ODE4RU1DTzg5YTFiTG43aEk3RFVoZERNdU5yMUx2bElHUzN2aUdSX3NmQ2FOOTRCNXBVYWZmRUQ5LXNYa2JZcDhYd2Rlb2plNXV6ZDVDQkpXZVNwamIxeEVBWkZ6c0dGZGZOaVo3SkRXTlVSU0lndlA3cTEzbjJWU2JRdkJPQjNyNGl0OFpuc08wMW_SAdQBQVVfeXFMUG9CV3JwUmxUNVJFUUNOb2d2TC0tVHpqUVNiS2M2WkZybGhyTXc4Yjhhck9rb0lYQnlITTIxWlg0NENqaGtUNk42NHlNQWNtWEFpUGswYVB0bEFTai1PVTBNWHFYVnlLd3hIbkxkMlhrV0V3bEtlWVgydDB4b2hHb2I2Nk5UZFExUjBpMTNxNm1FOThWY0padXlCQ09vTlhfNDFQUXlTd1c0TElTOEtHTlJzR3g2Rm5pTzYwWC1JWUtLMXNWaDNQQ3NwVFVxWjRoOHd0QTY?oc=5",
-          "description": "Más detalles del proyecto de transporte: pasos a desnivel y nuevas imágenes de 8 de Octubre y Avenida Italia &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-17T13:47:00+00:00",
-          "score": 2,
-          "score_reason": "Informativo con leve énfasis en 'más detalles', pero sin carga emocional.",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "La Intendencia Municipal de Montevideo divulgó renders y detalles del proyecto de mejora de transporte en la intersección de 8 de Octubre y avenida Italia. El proyecto incluye pasos a desnivel para optimizar la circulación vial en esa zona. Ambos medios informan sobre la presentación de estas nuevas imágenes y características técnicas del emprendimiento de infraestructura urbana.",
-        "coincidencias": [
-          "Ambos reportan la divulgación de renders del proyecto por parte de IM",
-          "Ambos mencionan específicamente la intersección de 8 de Octubre y avenida Italia",
-          "Ambos cubren aspectos técnicos como pasos a desnivel y circulación"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza 'así será la circulación', focalizando en el resultado visual",
-          "Subrayado destaca 'pasos a desnivel' como elemento principal, priorizando infraestructura",
-          "Subrayado añade 'más detalles', sugiriendo profundidad; Montevideo Portal es más directo"
-        ]
-      }
-    },
-    {
-      "id": "story_007",
-      "topic": "Peñarol perdió ante Platense en la Libertadores",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Peñarol perdió con Platense en el Campeón del Siglo y se complicó en la Copa Libertadores",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWWctNmxycnhUblFKWGVabTZ2ZnpJTHdYYUF4VGdJVF8tX3l2RlRNM3pNZHAxd1BOTjVfWWdGQUx2ZHNub1hGWDBfdjBzZ1d5dkJXeFVpZ3BucXc5b0Q1YXBIT3hkRGFmZnZia1Axc0c0ellSOUNSNVhYcU5oOUY2aEpSbGdEdG9BMFRQV0xHdWpPYlpxLXVEN3B0eWZjV2dzNF96TTA3MjIxV2hoTjJXOHg0OTZySFQ50gG-AUFVX3lxTE1UWXZjTVI5ZmhQbWNxSXd3aWQzd21nVWUtdTdvcmNiVFFfR2RmVHhmdXk4OTgtT0draW56SmtZTDlSd1dGWXpTSHFwMjVQc09zel9xcFRhVnhJdnBIMlpiVlhRUlJCdFF3dWd4dTV2LTYxTjFJb1d0dVNWdGEwa1dRdXpnLVRGZmtLQ0JhRzZSWWpsUHNhWms4NndoaEZGNGYxS0VGUmhsLU5veXk2SHdINVlfMWk4c0ZGMlFNalE?oc=5",
-          "description": "Peñarol perdió con Platense en el Campeón del Siglo y se complicó en la Copa Libertadores &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-17T12:06:00+00:00",
-          "score": 2,
-          "score_reason": "Relata el resultado y sus consecuencias de forma objetiva e informativa.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "El mensaje de Ruglio tras el 1-2 de Peñarol con Platense: “No hay lugar para los débiles”",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRloyRF8yR3BjSjNiN21vYlpPSjlITDlyejNkMUVIUUtxRXZNRDllcERaRl9sUFpnZ2IzaEVmY01rOTlPYjl5ek5fU3BnVWFaM2lpc2dDWFRlb0JLWjYzc0l6cExUY1hlRjFPUjR5ak1iZXR6eE53cXU1OExJQ0tCWTVieFdHZm11R0t4LVA2c0lfOFpCNHVwZUlINUVULVhkenVKdDBjSHZhUFA1bi1Ia0RqYm45ZUdvX21mRjhHM0NINFNyWjVxMUJkYWhNeko3UXfSAfYBQVVfeXFMTU5YQ3ZlN0J0bUJnTDREQ296ZmZMZGpMM2Jac0xoWWNXaU11bEhzbnI0QTBSWm83MW41clp1VGtsZTFSeDVDOVk4NjFpbmNkRF9VX25KeUhyNUozd21yYXlVb3B1Z21zbVBPcklNTzZyVTBGT2tPazN1bVd3aTZKTDhQTlNmY0JneGpNOTZxTFk4MFpMSVJuSGNpM2dyZXJYU21uYTRLdDlqWXJGZzY5VzJzd1p1cVBvYlphX09ZU1czQ3d3eDhJTnBzdGF2Yk9xZGJjT2VIRGZpdzdra0hpSnFCZG9hZTlvWWF5VjNZOGtWaDBoRnpn?oc=5",
-          "description": "El mensaje de Ruglio tras el 1-2 de Peñarol con Platense: “No hay lugar para los débiles” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-17T16:30:00+00:00",
-          "score": 7,
-          "score_reason": "Destaca solo la frase dramática de Ruglio sin contexto deportivo.",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "Peñarol cayó 1-2 ante Platense en el Campeón del Siglo en un partido válido por la Copa Libertadores. La derrota complica la situación del equipo carbonero en el torneo continental. El técnico Ruglio realizó declaraciones posteriores al encuentro, señalando la importancia de la mentalidad competitiva en este tipo de torneos. El resultado deja al equipo en una posición difícil de cara a los próximos compromisos.",
-        "coincidencias": [
-          "Peñarol perdió el partido contra Platense.",
-          "El encuentro se jugó en el Campeón del Siglo.",
-          "La derrota tiene implicaciones negativas en la Copa Libertadores."
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza una frase polémica de Ruglio; Subrayado se centra en hechos.",
-          "Portal usa lenguaje emocional y sensacionalista; Subrayado mantiene tono neutro.",
-          "Portal busca provocar debate; Subrayado informa el resultado y contexto deportivo."
-        ]
-      }
-    },
-    {
-      "id": "story_008",
-      "topic": "Mujer mata hombre y lo roba en su casa",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Una mujer conoció a un hombre, lo mató en su casa y le robó todos los electrodomésticos",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaWlRX21VelVXNVJxTzZlOGwyUHJGQjlRSFZETlh6a0JOS0xFcS1DdVRmdTkxczB5LThadC1FRjhGU0VUakJZbUpZVDRkNFFYQmtHVTg3anRtUEFZN0wxNnI2S3lEd3lOTHVfLUVaREhvR3UzNTVqOW5TMnNmVlRYbTVKX0VxRmlmRXZHOVN2VmRrTWQ0NjN1VElFR015UnpjaUxzUmQ3amljaVA2eDBPbDh3R0s5ZVJ1Y3Fr0gHAAUFVX3lxTFBiRkYyMFF6LTZBZ2dGdlFXNzRYYWhhYm5zUWE0UzQxTFVKQzV5a3ZnOHRfdHhDTGE2emUzeE44NUJBNmtad1Y4WW1IdjBxdVQ1TVo1Y2d5MjdpNE9kX004a2paSHIxTnFDNVBIWDZDbVROYkdxLWU1NFc3R1U2NTBpdWlpVXhlUUZNdUJ0bFJ3RjRFM19nNXlzWk54c2tEeEl6SkRxN0Y3WkRkWnNsVEpySUJrQUJLTkhQa3A5aDZSRA?oc=5",
-          "description": "Una mujer conoció a un hombre, lo mató en su casa y le robó todos los electrodomésticos &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-17T12:54:00+00:00",
-          "score": 5,
-          "score_reason": "Secuencia narrativa que dramatizan los hechos sin excesiva carga emocional.",
-          "score_pct": 50
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Una mujer mató a un hombre en la casa, lo desvalijó con un flete y dijo que eran “regalos”",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc19hQTRPZFRjYTI4RVJUaDJpYnpqUEUzSHozUVBUVTlYeDNycnZwUVByN3RSUzhsWWprRm5NZTA4VVJFTjR0N041RUlKNEV2WWVxMHJoNXRXWkp5ZWgyS296MjZjWENnckRUaWVqMUpMRXVIRUxPbE1Lc2ZaVE1OeDRmOFRwUFpKalZPZm5MOW1xNHVFM0tMZTFiODdYSTJGV0V0WVlHZGpmcGExbHBjY1VLR25PQlFJTGN1QkN4ajVkYl8zaDV6aUQ2c0hPbWl3VmfSAfYBQVVfeXFMUC0yRDFGOWZ1MVdwVk44QXJzeGNXbUdFeXBOTlFRNGtxMXd0dmQxYTNyQVlZM1hCTEZXUzF0VVd6a1hmdkRHNldJZWRuWndVeVRKODI5YmlXem1qekJwMG1tbGdFVnhLalBpTHp6UmVCUC1hWFNHWHFCblJNcGgtcG1VOFBXS0l3V2VQYS1tQmRYS25jemtEMnpIZW9rZDM0dGNjLWpwNHYwUG1BV3A0ckFBRXV6Umh4MGlvQ1BCM0VZVlQ4SUtZMVZ6WXc1Sm9NQXNYbjZwZ0NxRXdnc09EVUFHd0Q1MlJSTGhCSk5SVWhvVFNjTDNn?oc=5",
-          "description": "Una mujer mató a un hombre en la casa, lo desvalijó con un flete y dijo que eran “regalos” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-17T14:07:00+00:00",
-          "score": 6,
-          "score_reason": "Enfatiza la mentira de la mujer con 'dijo que eran regalos' entrecomillado.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "Una mujer conoció a un hombre y lo mató en su domicilio. Posteriormente, sustrajo electrodomésticos y otros bienes del lugar, alegando que se trataba de regalos. Los objetos fueron retirados mediante un flete. El caso involucra tanto un homicidio como un robo calificado, investigado por las autoridades competentes.",
-        "coincidencias": [
-          "Una mujer mató a un hombre en la casa",
-          "Robó electrodomésticos y bienes del lugar",
-          "Los hechos ocurrieron en el domicilio de la víctima"
-        ],
-        "diferencias": [
-          "Montevideo Portal destaca la versión falsa de la mujer; Subrayado relata los hechos cronológicamente",
-          "Montevideo Portal menciona el flete; Subrayado omite detalles del traslado",
-          "Subrayado enfatiza el conocimiento previo; Montevideo Portal se enfoca en la coartada"
-        ]
-      }
-    },
-    {
-      "id": "story_009",
-      "topic": "Niño fallece por impacto de bala en la cabeza",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Homicidio en Colón: hallaron a un joven en la calle con un impacto de bala en la cabeza",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdU9ab1Q3SW1ZZF9kLUZreFctUWpKY1U0TkJmZFZVWWdILXRaTmRvNEtJeTR0QnliN0lTOHgwTU1XcEhMYjlNWEp5elYtVldONmNnRllVczE5MnViREE1czdsZXgxTTZMempIYnFkLXZnTHp2QTdBVEt6blhCeHBWR1NCTnM1QkM5NTMtc0E3QzhmcDM1aFRJd1lGNzRCdGY5aGJQLUg2c3JHQdIBrwFBVV95cUxNRWlmZm9IbXpveGRtMTB1WWE1bWtOcWhQbGhKa3dFVGtJaDVGRVZMSkdFUk5lTlpVMTlRbXJrTkdUT2RBVEttZU9yWjJzVGhCaWpjcUtpcXdPWnV3cUhaOVRVYmJtMEJaTDJtb3Ntb1EzVXRzd1Q3UldRelRQeGo2dnhLZlp0WUJONzB5YjJ3ZDZNdHV5dk1QR0FDMEZJTk9COXRiWGZpNmp0SWotQVFB?oc=5",
-          "description": "Homicidio en Colón: hallaron a un joven en la calle con un impacto de bala en la cabeza &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-17T11:50:00+00:00",
-          "score": 5,
-          "score_reason": "Define como homicidio sin confirmación; genera interpretación antes de hechos probados.",
-          "score_pct": 50
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Un niño de 13 años estaba en su cama, entró una bala por el techo y le dio en la cabeza",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcktIMVJ1SmdpNnhjaUxRcmJOdEM3QUdtWjNFcVhhR01iT3l2cDBkMlBua0dkOFRIWWkyQ1l6bEhTUnF2TzZMd2taSkxyLTAwNW5RWlM1NVYyUk5vZE9zME1iVGRvUUhfYi0xTm1CdEMzZEhEWmlWSjNnOWk3ZndkSk5ac0ZBZEJhSk9lWWlFSFo3TnpvZmFESGJoZnh2TUVjRUVWdGQ4eVVUQVhWbnF4MERsZ040UzdDNk1qRkUzbWd2Tm85LU00QjhGQVBpREnSAfMBQVVfeXFMTndsQ0ZZc0dwMmE4V1BlbHFlVzZpblVBQUJXaXBRYzRMMEVJMTJqcmpaSEd0MS1fMmx5cjFNaDR2Q04wTGdoWEV4ZmZ3RzAwZl9hczhqc1EwWjNjMHM3WWZaRFJMZGs0UktOODlSWXh0azBNUkhYNWkxWWFIV0FNeGxkWlF5Wk0wd3RpUlJuNmpZMEdaNkFjeDF0Y3Y4SjlQOEEwei1FT1dWN1FITFhZaDktRTNRM3o1MDl4YlRNSG1mU0psclVIb3FrNE8xVWVBSHNNRTZ1ZDJadVI0VTJpYlI2SU84SVFmWG9CTFE4QTRUOUVJ?oc=5",
-          "description": "Un niño de 13 años estaba en su cama, entró una bala por el techo y le dio en la cabeza &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-17T11:19:00+00:00",
-          "score": 6,
-          "score_reason": "Énfasis en vulnerabilidad de la víctima en su hogar, carga emocional moderada.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "Un menor de edad falleció tras recibir un impacto de bala en la cabeza en la zona de Colón. Según los reportes, el proyectil ingresó a través del techo mientras la víctima estaba en su cama. El cuerpo fue hallado en la calle. Las circunstancias del hecho se encuentran bajo investigación. No hay claridad sobre si se trata de un homicidio intencional, un accidente o fuego cruzado.",
-        "coincidencias": [
-          "Víctima es un menor de edad con impacto de bala en la cabeza",
-          "El hecho ocurrió en la zona de Colón",
-          "Existe un fallecimiento confirmado por arma de fuego"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza la seguridad del hogar violada; Subrayado asume intencionalidad criminal.",
-          "Portal describe la trayectoria del proyectil; Subrayado simplemente constata el impacto.",
-          "Portal sugiere casualidad trágica; Subrayado presupone crimen premeditado."
-        ]
-      }
-    },
-    {
-      "id": "story_010",
-      "topic": "Justicia rechaza amparo contra prospección sísmica",
-      "category": "Economía",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Justicia rechazó acción de amparo en contra de prospección sísmica en aguas uruguayas",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdmpCVnRIU1ZkRldDdk4xLTVlV0l4Z0ZzZkdyTFItSGs5dkp1QXl5YmJlRE1oNDduYzZuWWVlbEJwVW9xblBKeW9QMy1Ed1IwVm91VEJyVGVoQ0pDSWdXMkVoM3NlTEdQb3ZIVFBLYnlndUtRVXVIQmx4Rk5wa0lqeWxQQm02bFdKVWJmUmZJbkRTdnZjNjVFOWtjYWpIeWdtMnZFMEVzbk02bkFHejViUVU5TXRLc1pZS1ZlZW9jaG15Sy1mS082YmFPZE9VQdIB8gFBVV95cUxNd0E5bDZYalBWOV9zLTNERHFrbFNFSU9GRjd1ZUIybVE0ZjF4MDc2R0VJTU15akxmeHh3RHlCekpzYWU2dnZ1M1VrY3ZXSkVCbnhSNF8xU0ZhQTVXZGJxUGlRdmlRNHZMNHhuVmllYnBjdUNCVnB3VWdmTE5JaE8zakJGdjV2RmhsWmphemFob1JjeFlZQkhlSFdZWTJRbEVmSFBRaFR6VXdQcHVCYzB0blYzTnVNbXJMY2otMUpPeVBEem14ZHlSWWtPSmRNeE9aYWpTX3hUY1pjZFNUQ3NYdlZWeGVxWnhTTjZRa1lMdTYtUQ?oc=5",
-          "description": "Justicia rechazó acción de amparo en contra de prospección sísmica en aguas uruguayas &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-17T21:48:00+00:00",
-          "score": 1,
-          "score_reason": "Redacción neutral, informativa, sin énfasis emocional.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Justicia rechaza amparo por prospección sísmica y la actividad puede continuar realizándose; ambientalistas apelarán",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZThiYXNUeVFacGRPeDVuaUstMTEzYUgzWFhHMW9LTFVHUmFtVHoxemZnRTEtR2xrWkYtcC1tYUE4cG1fMzlJWGxmYkNzQy04Y0JHYzdEZlJwaW1TTHhJTjdtYWp6eWs5bGNOZmlYVnRjU0ItY0FZTzBXRVlZX0doalhuUXVTTTFYbG1zYXJrUWY3Y1dMTlVYM2UycmtPQjctRXFGSHlFZEdkSTZaeTJCNWFnNGhVQXdabXZVUllTS0xOX3JEMDRLVlRFMnFHTS1FMFUzekFhMjNHLXVhWUJQNUtnVdIB6AFBVV95cUxNQVc2MjZVZm9ZRVpfUmhfVEdZRU5YR3kwOU8taDRMSXR2X1RVLWN6WlJOblBUVWZSckRyWU0wZ0NNSHJ6UmtfWGdaaXFZMWdaYnl2VHJld1NUX0NqVmlYUDFsekozNmtjVE9YRUJuTjJYeUYySWpRbXNSN3JZUGNOZUR5NzdfZ0dWRExPenRibHRFYVNfUnRnY0hCUVNCZFJjWTM3eXhGc2s0YUFSSGdoVS1wTzJqQ19GdnVJbDVzQnJzWUQtYTVUZFJwdU0wN21FWUp4ZXRMVW9wYTRIZzVGVDNranFrcjRZ?oc=5",
-          "description": "Justicia rechaza amparo por prospección sísmica y la actividad puede continuar realizándose; ambientalistas apelarán &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-17T21:05:00+00:00",
-          "score": 3,
-          "score_reason": "Añade consecuencia práctica y reacción de ambientalistas, leve énfasis.",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Un juzgado rechazó la acción de amparo presentada contra la prospección sísmica en aguas uruguayas, permitiendo que la actividad continúe. Los ambientalistas que promovieron el amparo anunciaron que apelarán la decisión judicial. La sentencia representa un punto de inflexión en el conflicto entre los intereses de exploración de recursos naturales y las preocupaciones ambientales.",
-        "coincidencias": [
-          "La Justicia rechazó el amparo contra la prospección sísmica.",
-          "La actividad puede continuar realizándose en aguas uruguayas.",
-          "Los ambientalistas tienen la opción de apelar la decisión."
-        ],
-        "diferencias": [
-          "Subrayado explícita la consecuencia directa (actividad continúa) en el titular.",
-          "Subrayado menciona la apelación de ambientalistas; Portal omite este dato.",
-          "Portal usa término neutro 'rechazó'; Subrayado enfatiza continuidad de actividad."
-        ]
-      }
-    },
-    {
-      "id": "story_011",
-      "topic": "Ministra Lustemberg comenta sobre uso de eutanasia",
-      "category": "Salud",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Eutanasia legal: Lustemberg afirma que “hay personas que están pensando” en usarla",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ2sxTDNGTTBtbGtwcHhVSk04ZTVOTEhnQzB1VGJjVHNkR3h4TWt3eTFOWlFnTi1UcG93bmxGdHRQd3VZTlk0VW5oRGhYbkFvYWlYX2hXcE54MVFZcTh3eEZnRGN0N2g4bW94QjVoeF95cGJydzhxX08talhfcHZ0YUtzd09xZnJJbEJpcDFhOU15WDA1SzVjel94cnJWZ3RNQzVLNVRBYnJhNGJqQklJb3BJeW1rVzgydzE3c0R5VHhqT2ZEWHfSAeoBQVVfeXFMTlhtRnAwb0dxZ01qR2xIdFM5RW1aUDEwRnlCNUFyaTU0UFFsLW5oUjVDTnBKMDN5Q0k5OFZzODJHYTI3OGxyTGpzN3lTNVNQSTFsQm9uUGdFaGNTMTZIRDJlR0oySmRIMEN1MW5RMS01eUhZYl8tajNSU0gzLUVkZ1JZdHNVem9PXzZNRzM1ZjNBREVILXlfeW9oaTBnNzVwNlRKTUYwblhvZ3hXdkpfOFVIMG1xT3RTQ0czUlZJSnZEdng1c3ZORER4OFJoZE1TT0lpUlpwRTEyWDRYN1RsRDFwLUVWcy1GNVNn?oc=5",
-          "description": "Eutanasia legal: Lustemberg afirma que “hay personas que están pensando” en usarla &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-17T17:39:00+00:00",
-          "score": 2,
-          "score_reason": "Cita directa sin interpretación, formato informativo estándar.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Eutanasia: \"Hay algunas personas que ya están pensando en hacer uso de este derecho\", dijo la ministra Cristina Lustemberg",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbFhnbURQMHExUVBSYk01X0V5MVJqZGxISlFnQUZGb0V1c016R1FOR2pWeEZ1S3NrSjNkVEVFZnB1enRTZDZZdlJCRDlvVjlucE9NZlhQT0JiZWRfU09ha0cxeGxxdXRoUWJ2clVvOG1xbmROdEJ3S1ZtZXJ0Nmg3Z1dhNk9uaGY5LThNVVEwVFVRTm5jZzBzV3pCMU5qUldCU2EyclF2YmN5Q0hOV0hWVlBWSlBuQV9iODZDQVZUNGlScnFxOTBvQ0dPU0VCNDgzVHRlV1RNWGd1Tzg3TkhGRTlnQW_SAeoBQVVfeXFMTUhQV3h4d2FCMy1qRk9ZZnRxbnY2SVlZNHR4OG0wRkwyeVhZT2tVWmpkR1NiaXdmaXNfS3VIcE4weWhqNElodW5WSGcwbVk3bm5oMXpITFBYZWF0aHBpWnRmT3piZkkzaHNfRmRrRjI5VU1IUzViZk9Sa0xPcGl1cjloT21KZllrWUlvLV9oRXhMQVdyODNuUFMzZk1pOVZqc1ZzS3lqWVJ1SHFuQnQyTUh5NW5aQWpNUmhhV3ZTT1NpTERtT18zblN4T1JjNDZKYkI1UDcyaFAxb0tLTGpvQjNxajNuM0VDamxR?oc=5",
-          "description": "Eutanasia: \"Hay algunas personas que ya están pensando en hacer uso de este derecho\", dijo la ministra Cristina Lustemberg &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-17T17:02:00+00:00",
-          "score": 3,
-          "score_reason": "Énfasis en 'ya están pensando' sugiere urgencia o inmediatez.",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "La ministra de Salud Cristina Lustemberg realizó declaraciones sobre la eutanasia legal en Uruguay, mencionando que hay personas considerando hacer uso de este derecho. La afirmación forma parte del contexto de la ley de eutanasia ya aprobada en el país. Lustemberg señaló que existen ciudadanos pensando en utilizar esta opción, lo que refleja que la normativa está siendo considerada por la población. Las declaraciones buscan informar sobre la realidad de implementación de la ley.",
-        "coincidencias": [
-          "Ambos citan exactamente las palabras de Lustemberg sobre personas pensando en usar eutanasia",
-          "Ambos identifican a Cristina Lustemberg como ministra y fuente de la declaración",
-          "Ambos contextualizan la noticia en torno a la eutanasia legal en Uruguay"
-        ],
-        "diferencias": [
-          "Montevideo Portal usa 'hay personas' mientras Subrayado enfatiza 'ya están pensando'",
-          "Subrayado agrega 'derechos' para contextualizar la eutanasia como garantía legal",
-          "Subrayado utiliza comillas más extensas que Montevideo Portal"
-        ]
-      }
-    },
-    {
-      "id": "story_012",
-      "topic": "Denuncias de violencia en centros educativos uruguayos",
-      "category": "Educación",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Identifican a otro adolescente involucrado en amenazas a centros educativos: fue condenado en Montevideo",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRVV4YmlXRkxaSFdBSzVxWU0zQ0V6YVNfd3JiZlNGUS1LMFNQUGxYcTY4X2Q3SjRFRnp5clktelRCQm9xNG1feWNoZ1lOUjF5YTFoalFnVFNKd1JrMzM5ZVBNVmFZN25jbHZXQTZ0WUNqLTJWb0UtekZlc1FpSVlMOUJwNEUxSUpPdm9mZFJwR3ZtNUVpRlMxNEJXS3VGZ2Z1TlBObnZlajJDa1pkQkFKQUxzTDFMQVZ6SzlTU0cxdFctUE5Fd2JoamItY9IB0AFBVV95cUxQNlZrWnh0YTNEa3dwZkdTcURvbXVKS003eXFVNG16NThQQmYzME9veHV3TXN2dWE2Q2t2OVBUUkFEUmRYSDdOOU1SbkNZcTRlWDliUzlnY3cyMTg0RWxYNXZzNlRtWjFGTG80QnREZE9NLUJPVXl5STk4RC11UjZFU1FPTkdsN1J6SWg3X19OSHk1WW1EX2hFb041LU1yNTNNN1FDSEJvd2FHcTRLU0ZVNWVfUHVkdTBmS3htblQzazI1cGJaMUZqUjAxdEEwdnNy?oc=5",
-          "description": "Identifican a otro adolescente involucrado en amenazas a centros educativos: fue condenado en Montevideo &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-17T21:19:00+00:00",
-          "score": 4,
-          "score_reason": "Énfasis en antecedentes penales, pero mantiene estructura informativa básica.",
-          "score_pct": 40
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Moretones y golpes: denuncian a maestra de Solymar por lesiones en una niña de 4 años",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeklacUhFSzFSX1N2bWVYMG13ZXZvbGxhTTd0dHJPNE5RSWJlQm13T0xZMDM5RVhDREwzdTI4NzZTSzY3VGJhbW9RbGVFS0ctUG9GTVB5Y1gzRlJlZ3pfamwyQXJldmw2NGJkVFdVVFl2aWptNVBkRjZmblNWZGNpRGtieXpScmRBendCVktQUktQdnhGN2xnQzBCWGxIYm5Vc1FxbDBsZUd2ZmlPSWV1cTVvQncxb20yczRaSmNqQXdoSVNST3RnUkRrUGPSAfABQVVfeXFMT29DVEpWbzV6X2JxcVphbDRhRHJuMkhwb1hQNGJrbzJpc09ZRmNxUDd4UnZfeW1maFZrNURBMl9mcDd0dFJuUWgzWjdHU2VGbm5NVEtsSnBIbUExc2JQaUF1V1QwLUxjVGJ1cmFESWV2Nmo4UUNLS0g3TXlHVjhYR0hKWC1hUTJETUJPMEhWdGVmSlNzc2prS01MSnc2SjRpN2hOa1pKZGZHRlA2WlhZTHp0dUxWNkJ5by1mT2lqb3VtWnpKczRTRUl0V1JZQS1pdF9LeEI0d25OUUp1b3htSGlwdTJRVFpuakhwbENROE5i?oc=5",
-          "description": "Moretones y golpes: denuncian a maestra de Solymar por lesiones en una niña de 4 años &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-17T16:39:00+00:00",
-          "score": 5,
-          "score_reason": "Descripción detallada de lesiones genera impacto emocional innecesario.",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "Se registraron dos denuncias separadas en centros educativos uruguayos. Una involucra a una maestra de Solymar acusada de lesionar físicamente a una niña de 4 años, con evidencia de moretones y golpes. La segunda denuncia refiere a un adolescente identificado como partícipe en amenazas contra establecimientos educativos, quien cuenta con antecedentes penales en Montevideo. Ambos casos se encuentran en investigación.",
-        "coincidencias": [
-          "Ambas noticias se refieren a incidentes en centros educativos uruguayos",
-          "Involucran a menores de edad como protagonistas de los hechos",
-          "Reportan denuncias formales ante autoridades competentes"
-        ],
-        "diferencias": [
-          "Montevideo Portal aborda violencia física contra menores; Subrayado trata amenazas terroristas.",
-          "El primero enfatiza lesiones visibles; el segundo destaca antecedentes judiciales.",
-          "Diferentes contextos: maltrato en aula versus seguridad de establecimientos."
-        ]
-      }
-    },
-    {
-      "id": "story_013",
-      "topic": "Irán condiciona paso por estrecho de Ormuz",
-      "category": "Internacional",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Irán anuncia la apertura “total” del estrecho de Ormuz",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeGVZLWlKUGtXSTBlMnBtX2c5UXRMSDI2UTVQYVBaT0RhVWdSSHBZdlJ5eXlkUXFodUJFQmRuOWFMRkJHTTN0dTFLZ1NzbGJZUlVJN09XSW1sanJwZTMyVkl0ZnhVaGZzd0VuX0kzcnMwY05FSG40dnpTSVZZdVNERGxDYk5qTDdpdE41enozNA?oc=5",
-          "description": "Irán anuncia la apertura “total” del estrecho de Ormuz &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-04-17T14:13:00+00:00",
-          "score": 5,
-          "score_reason": "Comillas en 'total' sugieren ironía; presenta versión más positiva.",
-          "score_pct": 50
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Irán cerrará el estrecho de Ormuz si no se levanta el bloqueo estadounidense, dijo el presidente del Parlamento",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYlNiczk5MzJBRUZLbFViN25jQ191Sy0xMVBoSjkwUVQ0b05YU1lfRDkwUW0wZ18wc0dsNEZKUi1ZR2pJQ3pfVFdaU0hWbDhWQWpXYU5LMmlBMHQ2QzJCWENoQVk1N2JXaGNSRkw2cW5mQ3NLLXljNmtrUWh1Uy1hQTAta1h3d3FtRVNjRmJ1OW5Qd3oybTBxQlp4VVFsOHl4TUxnNUpTSVdZLXBrYm54eS1iaUxqWk83RzhTWmprZEFBdkkxNEgxRnZabFlrbWVvcTJIaFFvWmdlS1JJZlHSAeMBQVVfeXFMUEhkM0ctY2FYb09qSnJ1cmdTUWtfY1JwSXBVU09qek1vVWxLRVNnZ211eC1QVHIxeFcwZnh6SFBpQS13XzlxaTR3bWk5MGlfV0MyZEZ4RGtWY1FyVXdmTjNhczZ4aEY0TE1UbWMtUVpWU2FiOE5WbFdFLUYyNDJCRXNyX2RTSlUtajM0Y3JGWmVuakF3dHA3QlA4bE1CRFJEWmZPZ2JqYXBySkdGZTYwUFpKRlpQbC04Wm9DZS0yN191a21lbFYwZHZOYzh1VXM0SFl1Rng5T2FUT19vTGczOEJhUlk?oc=5",
-          "description": "Irán cerrará el estrecho de Ormuz si no se levanta el bloqueo estadounidense, dijo el presidente del Parlamento &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-18T00:50:37+00:00",
-          "score": 6,
-          "score_reason": "Destaca amenaza de cierre; enfatiza aspecto conflictivo y negativo.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "El presidente del Parlamento iranî realizó declaraciones sobre el estrecho de Ormuz, vía crucial para el comercio mundial. Según los reportes, condicionó el acceso al levantamiento del bloqueo estadounidense contra Irán. Las declaraciones generaron interpretaciones diferentes sobre si Irán amenaza cerrar la vía o garantiza su apertura. El contexto incluye las tensiones entre Irán y Estados Unidos por sanciones económicas.",
-        "coincidencias": [
-          "Ambos reportan declaraciones del presidente del Parlamento iranî sobre Ormuz.",
-          "Mencionan implícitamente la tensión entre Irán y sanciones estadounidenses.",
-          "Abordan la importancia estratégica del estrecho de Ormuz."
-        ],
-        "diferencias": [
-          "Subrayado enfatiza la amenaza de cierre; Búsqueda subraya garantía de apertura.",
-          "Subrayado usa lenguaje condicional (si no se levanta); Búsqueda presenta como anuncio afirmativo.",
-          "Tono de Subrayado es alarmista; tono de Búsqueda es neutral o irónico."
-        ]
-      }
-    },
-    {
-      "id": "story_014",
-      "topic": "Hallazgo de cadáver en Punta Gorda bajo investigación",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Investigan la muerte de un hombre cuyo cuerpo fue encontrado bajo un árbol en Punta Gorda",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYUhNbzdZbEc2ZmVJQXh3R1NJc21RczVadUY4amZkb0JMeGdmVlh4X1NxcTJ2QWpBYmpqdE9lRmFaRE5CZ3UyZHZpangtQy1RRnpJZm01WjBHZ01aam84YkY4VEtja1Y4bUNRUHBhR0NqaGpzY2huSmkwNVBWMG0yeUprMzFGWHN3aTdSc1A0TEJUbU9XbWJybkFrTHNBa3pJU2tCS3NOS1EzWnBzUFViVl9CbFpBNXPSAbwBQVVfeXFMTWpPeVBwZEJxZ19Ydk43MVIyR2F0MUlDeEQtRjQ0Y1k4MFBzdzQyZTRTS2FJSHE5d2h3aXFRbjJhNF9ETmUxbjZqN1lKYVpRckprcmFIS1JJa1JrMk5mOTlTMjFxSThTV0dUTE45ZGlKX0p4ZVkyZlhZSjB4RmxDY3JGSkw2aldKUTNMVjJEblBZQS1KSV9DM3VFelBsdG8wQU1mN1ltQ3ZBN2pGMzlmLTRXQjc1aFFMcmU5TkU?oc=5",
-          "description": "Investigan la muerte de un hombre cuyo cuerpo fue encontrado bajo un árbol en Punta Gorda &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-17T20:47:12+00:00",
-          "score": 1,
-          "score_reason": "Lenguaje directo y factual, sin interpretaciones ni énfasis especiales.",
+          "score_reason": "Lenguaje puramente informativo, especifica métodos de búsqueda sin carga emocional.",
           "score_pct": 10
         },
         {
@@ -722,32 +292,164 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "Identificaron al hombre fallecido en Punta Gorda; descartan que estuviera en situación de calle",
-          "url": "https://www.teledoce.com/telemundo/policiales/investigan-la-muerte-de-un-hombre-en-situacion-de-calle-en-punta-gorda-estaba-durmiendo-al-lado-de-un-arbol-fueron-a-hablar-con-el-y-no-respondio/",
-          "description": "En cuanto a las causas de la muerte, aún no han sido determinadas. La entrada Identificaron al hombre fallecido en Punta Gorda; descartan que estuviera en situación de calle se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-17T19:02:28+00:00",
+          "title": "Sigue la búsqueda del puma en la zona de Colonia Nicolich y alrededores; autoridades analizan información recibida",
+          "url": "https://www.teledoce.com/telemundo/nacionales/sigue-la-busqueda-del-puma-en-la-zona-de-colonia-nicolich-y-alrededores-autoridades-analizan-informacion-recibida/",
+          "description": "El operativo de búsqueda comenzó el jueves, luego de que en la madrugada se registrara la presencia de un presunto puma en la zona de Villa El Tato, sobre Camino de los Horneros, en Canelones. La entrada Sigue la búsqueda del puma en la zona de Colonia Nicolich y alrededores; autoridades analizan información recibida se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-18T18:23:38+00:00",
+          "score": 1,
+          "score_reason": "Información objetiva, ubicación específica y detalles de análisis de autoridades.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Continúa este fin de semana la búsqueda del puma suelto en Canelones, cerca de Montevideo",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQUd3WVlKaUEwRlB3c2F3emZLbUhzS09IZ3BMTXBtYTBzTXJwVmM5NGs1a1BZa0RBd29QRGtaczByZGpLWW03UEFvWUZlV0JhM1pibng3X1NzVDZXWl9Zdkppb1BaelpWSm1kT2xZdnJwZmVQMmY0ZzJhY0RLbDFqeFZRQjdiZ0ZycVJNU2Y2ZlhyaDMzQ1RtTlg3a3N6VzduNlB6Y29qaWxCd3hyTUdDc3VmdjdCZ2lC0gG-AUFVX3lxTFBwWlZxZVYzN2FjOUliS3FWNzZfT2U4OXJsNmV2SWFOV0FaNnJ4b2JkTDJOYVc2Mk1rMjBoNUdIcng2TDdaV2NEeGVoOEdqRmxBbzlpeTR3Y1dxQTBwVEsyOEJkejk4T1l3QThycE4wQ0poZEhzemtSYnBtcGNNM2VnVGZtUWJCdUdaTzFNdkZiWGNFMEtUZWNIV0xfc1BNY21fMWZZQ01KdGhzVTkwSWJTX0M0MGtGYzhmQWR2cUE?oc=5",
+          "description": "Continúa este fin de semana la búsqueda del puma suelto en Canelones, cerca de Montevideo &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-18T14:23:00+00:00",
           "score": 2,
-          "score_reason": "Añade información relevante (identificación, descarte de calle) sin sensacionalismo.",
+          "score_reason": "Neutral, solo añade «suelto» que describe la situación sin sensacionalismo.",
           "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "Se encontró el cuerpo de un hombre fallecido bajo un árbol en la zona de Punta Gorda. Las autoridades iniciaron investigaciones para esclarecer las causas de la muerte. Se identificó al difunto y se descartó que estuviera en situación de calle. Aún no se han determinado las circunstancias exactas del fallecimiento.",
+        "resumen": "Continúa el operativo de búsqueda de un presunto puma en la zona de Canelones, iniciado el jueves tras avistamientos en Villa El Tato, sobre Camino de los Horneros. Las autoridades realizan rastrillajes, vuelos con drones y analizan información recibida de la población. La operación se extiende durante el fin de semana en la zona de Colonia Nicolich y alrededores.",
         "coincidencias": [
-          "Hallazgo del cuerpo bajo un árbol en Punta Gorda",
-          "Se abrió investigación sobre las causas de muerte",
-          "Se logró identificar al fallecido"
+          "Todos confirman que continúa activo el operativo de búsqueda del animal.",
+          "Todos sitúan el incidente en Canelones, zona cercana a Montevideo.",
+          "Todos mencionan que las autoridades están activamente involucradas en la búsqueda."
         ],
         "diferencias": [
-          "Teledoce descarta explícitamente que fuera persona en situación de calle; Subrayado no menciona este aspecto",
-          "Teledoce menciona que causas aún no están determinadas; Subrayado enfatiza la investigación en curso",
-          "Teledoce enfatiza la identificación como dato relevante; Subrayado prioriza el hallazgo inicial"
+          "Montevideo Portal y Teledoce especifican métodos operativos; Subrayado es más general.",
+          "Teledoce menciona análisis de información recibida; otros solo describen rastrillaje.",
+          "Subrayado enfatiza el fin de semana; los otros no marcan temporalidad específica."
         ]
       }
     },
     {
-      "id": "story_015",
-      "topic": "Coldplay actuará en la final del Mundial 2026",
+      "id": "story_006",
+      "topic": "Orsi se reúne con líderes latinoamericanos en Barcelona",
+      "category": "Política",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "El encuentro y saludo de Orsi con Claudia Sheinbaum, Gustavo Petro y Lula Da Silva en Barcelona",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ3Z1MXNaTkU4V3Y2bzI2cElObVkzWW5VT2lmSkFxMHdnVUpVT0laZU1Od3JydlBvRi1OVVEtNnpIeFdSSjNIQWpLTS1IZUJ2U2pNMVp4bWVRNFU5Zk9kdjFtQnFwRlpIYkJwb0ROR3VQV3ZSLWNIVkd6REpXZ21KZzY3d0xRU2JSZ0hqeEtVajAzaE92NHItcnhvSXlrTmFTODlzYlRQZm9HZDFYNm5CRVYzZzlrS1RfZzFrQzlTRdIBxAFBVV95cUxNcE04WVBfUnNGcDVIWlZvd0EweWdnYi1lYnF2OFQ5RjZ2RVBUeEpxYXR3T1B5d1VoOXp6OFQ4VXo5RVNWRHVaVmFWX3B5QzJkc1hIQVR2WGgzZmFCQjFxZHFIV0tmS2NxdkNaYWtIekIyNmZCZExlcS1PNWJUNkFrNTNnNkptWnlTbjluRjRxYVRwYi1tQ2ZFYXNTZE5fQm45THJFeDY5bzd5YkJGOXlNcVhLUTdIclpqS3dxdUlmMUVWNDhW?oc=5",
+          "description": "El encuentro y saludo de Orsi con Claudia Sheinbaum, Gustavo Petro y Lula Da Silva en Barcelona &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-18T18:34:00+00:00",
+          "score": 2,
+          "score_reason": "Titular descriptivo y directo, sin carga emocional ni interpretación.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Alexis de Boismenu en El Despegue",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaTByNVhkVzJtTFRoSUZpck9SYlFsbC0zb0J6TGZWSlBHcHlLZHNlR2FkVzlKdUszaEkybWRRdGlQVmwyODhWbHNpTV8ySF9xa3BFT0RRZzhxSVZYSXUwRTdQTGRFSzBZMGpBZlVTdHVERDNwQmQ5dHBDUTB5alpiS3FzMFFRZw?oc=5",
+          "description": "Alexis de Boismenu en El Despegue &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-04-18T12:27:31+00:00",
+          "score": 9,
+          "score_reason": "Completamente desvinculado de la noticia principal, aparentemente etiquetado incorrectamente.",
+          "score_pct": 90
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Rosa Blanca Criniti Hernandez",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XNEd4QWcySlIya09UN2I5azRmWHJGWGdsbG5veTFUd3RyV3lCMmdqRXlhUWNyODc2SGRJNW9QSlZIaUtmTUJCLW5OdTdaZktnOVJKV0p1WjMtTG9tdjdlYl82NDdURzZiTE40ZEc1YlhfZDhfZEdF?oc=5",
+          "description": "Rosa Blanca Criniti Hernandez &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-04-19T03:05:57+00:00",
+          "score": 9,
+          "score_reason": "No guarda relación con la noticia, parece ser un error de indexación editorial.",
+          "score_pct": 90
+        }
+      ],
+      "analysis": {
+        "resumen": "El candidato presidencial uruguayo Yamandú Orsi participó en encuentros con líderes de América Latina durante un evento en Barcelona. Se reunió con la presidenta mexicana Claudia Sheinbaum, el presidente colombiano Gustavo Petro y el expresidente brasileño Lula da Silva. El evento permitió el intercambio entre referentes políticos de la región en el contexto internacional.",
+        "coincidencias": [
+          "Solo Subrayado cubrió adecuadamente la noticia de Orsi en Barcelona.",
+          "Los otros dos medios parecen tener problemas de catalogación o distribución de contenidos.",
+          "No hay coincidencias verificables entre medios sobre este tema específico."
+        ],
+        "diferencias": [
+          "Subrayado reporta la noticia política; El Espectador y Grupo R publican contenido no relacionado.",
+          "Subrayado destaca el aspecto diplomático; los otros medios carecen de cobertura sobre este evento.",
+          "Diferencia en calidad editorial: Subrayado con información sustantiva versus medios con aparentes errores de distribución."
+        ]
+      }
+    },
+    {
+      "id": "story_007",
+      "topic": "Oddone rechaza revisión de impuestos propuesta por FA",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Oddone dijo que no analizan revisión de impuestos, como propuso el FA, y que prevé crecimiento de la economía del entorno del 1,6% para 2026",
+          "url": "https://www.teledoce.com/telemundo/nacionales/oddone-dijo-que-no-analizan-revision-de-impuestos-como-propuso-el-fa-y-que-preve-crecimiento-de-la-economia-del-entorno-del-16-para-2026/",
+          "description": "Telemundo habló en Estados Unidos con el ministro de Economía. La entrada Oddone dijo que no analizan revisión de impuestos, como propuso el FA, y que prevé crecimiento de la economía del entorno del 1,6% para 2026 se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-18T22:23:23+00:00",
+          "score": 2,
+          "score_reason": "Información directa, equilibrada, sin carga emocional. Incluye contexto económico.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“No estamos en condiciones de avanzar”: Oddone por cambios en impuestos planteados por FA",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRTNyLVZ1SS1ZX2Ntdmg4Q0pieGR4dXlxZ3lnY2lEdF9ITVN6d0dFdUhxZWtWemdKUVBHZ0h3enl3Y29ENEIwMGRvVmwySl92MENvQnRobEo4T1FhMEczYXJ2c2NOd2VfN1lFeXh1SERNdnU3aTA4QzBoTVlVdTB0QVN4MEVzelNYQi1TMGxqMEltVnBvNS15XzJMWUZxSkZRbDczazNmLUFHV2t3Z25yam42SzAtbDZ1MU5pMV9xZ1dBUmo4cTIwam5kWU9HMFlHS2fSAfYBQVVfeXFMTjFRX2FUSUcwX01NbzlqTHozRTUzamhHWmp6SEI5ZGhzR0RDcE1YQUZiOW5ieWllS1hObldUTmZ1MnRIOHczcDNVaml3eUxQZzBIazdtOU1JT0xmYXI5anFEQWo2NjAyQWJOODVTTC1aUFk5VmFLM2pUNHYyS0h5b1pkc0pFeVI3TTgwb0VZWGxBOWw3TXdWRXVaYUVwZFY2bjc3cUVQZ0tlTlVpZDBBN3FiZXBnU3ZheHU2dGlyRVZZclRfbVZNR0pDSUF1aWk3Y1hhVS1kb1BoZVVRQXc1S0pBa3RrODVMUWJBVmdaZDNYYzFwZzJB?oc=5",
+          "description": "“No estamos en condiciones de avanzar”: Oddone por cambios en impuestos planteados por FA &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-18T23:33:00+00:00",
+          "score": 6,
+          "score_reason": "Énfasis en la negativa con comillas, carga emocional moderada.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "El ministro de Economía Oddone descartó analizar cambios en la estructura impositiva que propuso el Frente Amplio. En declaraciones desde Estados Unidos, señaló que el país no está en condiciones para avanzar en esa dirección. Simultáneamente, proyectó un crecimiento económico del entorno del 1,6% para 2026. La respuesta del gobierno se enmarca en la discusión presupuestal entre coalición y oposición sobre políticas fiscales.",
+        "coincidencias": [
+          "Oddone rechazó analizar cambios impositivos propuestos por el FA",
+          "El ministro argumentó limitaciones en las condiciones actuales",
+          "Se mencionó proyección de crecimiento económico para 2026"
+        ],
+        "diferencias": [
+          "Montevideo Portal destaca la negativa con tono más crítico; Teledoce informa contexto económico adicional",
+          "Montevideo Portal usa comillas que enfatizan la expresión; Teledoce reporta declaraciones sin énfasis particular",
+          "Teledoce incluye datos específicos de proyección (1,6%); Montevideo Portal prioriza la negociación política"
+        ]
+      }
+    },
+    {
+      "id": "story_008",
+      "topic": "Nacional disputará el tercer puesto en Champions",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
@@ -758,41 +460,245 @@
           "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.espectador.com",
-          "title": "Programa completo del 17/4/2026 | Desde el Vamos | Entrevista",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdTk2Qnc3OHZtaEVwRWZEbkxtLThCeGRhQng5V3h0emRhaFQwMkRoX3FyZUVhaDNPd1Nxbk5Gb1c1YWdXNGU0NWo4OURHSHlRZXkyaE1LdWpEMkNDNTkxU2pOWVIyRlN0c2ZkYWpTaUxBckprU05qSzJmSjZzem1qZk5n?oc=5",
-          "description": "Programa completo del 17/4/2026 | Desde el Vamos | Entrevista &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-04-17T15:41:45+00:00",
+          "title": "Flamengo será el rival de Nacional por el tercer puesto de la BCLA | Noticias | Básquetbol",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1VRZzh1RjZvci1qM0ZiQ0NVcTdqNkVrVTNDMFgyUGU4bHU0Vjl3SWZ0d1JQWkpxTXllbnlZbmUtX0VaSEVYbTdIRThfTExLblY4TzhSNjZaeG90QkhoVDM1SGZaSWYyNXA1ZnNxRWw3SjNqS0I1bXZnZmVqVWJIc1hLcDc5b0k5VDhtOU9YQUlJdlZtWDExMGY5QVNwYTZJbGxfMUNxck01S0FXYnc?oc=5",
+          "description": "Flamengo será el rival de Nacional por el tercer puesto de la BCLA | Noticias | Básquetbol &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-04-18T12:53:32+00:00",
           "score": 1,
-          "score_reason": "Presenta información de forma neutra sin adjetivos ni sensacionalismos.",
+          "score_reason": "Título neutral, informativo, sin carga emocional ni énfasis.",
           "score_pct": 10
         },
         {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "¿Coldplay en la final del Mundial 2026? Anuncian show de medio tiempo",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbFpKaTR6cEE5V1Z6alo5YjdONE9LZXhQYVJ2QnZTZjUzNENHcGZWbldtRGpybmt1R1dpWkNwcVotRDdVQTREQWpFRThwc0w5cGhaZWQyYzZtdUZTMEVIM2FlUnhNUEM4VmpoUmNhWUlMLTFLUERmT2FwbjZ4cUlQQXFyZ01sbk95LS1YNXU0aHhycWVVYXZYdTJPT3ZtbU5Jd3pybzk2VFFQVFBkVWc?oc=5",
-          "description": "¿Coldplay en la final del Mundial 2026? Anuncian show de medio tiempo &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-04-17T18:28:00+00:00",
-          "score": 3,
-          "score_reason": "Interrogante genera expectativa, pero es principalmente informativo.",
-          "score_pct": 30
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Básquetbol: Nacional vapuleó a Flamengo en Obras y fue tercero en la Champions League",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQekl2aHpnVmpLVHpTYnoxWkNDTmQ0OXpIWUhyb1c1Nnhrc0FPbEVONEk0bXQ1YlpCWFpadGxxZTNub2U4Q0s2aGhaVXJ6bHFCZk1tUHNlRGZuYURUTFdIWGdFQmNKclo3WmFxMkdfSzlISy0wako4MGE1TEhtZzU3NC03VjVGZmRFV1pJcWxWcHZ0YTJCN3BMVXJQNVNMSFNzZkhFVWNfMGlpVVRqUEhYdmxyMG1WSmZGa2wzYkVkX1NuUXNEUEc4MTFJSklQQdIB8gFBVV95cUxNdExxODctcFlUbjM4ZXFhM1JxVXNLZVdNam5IVjBJX0xKbmdCM2l2RzMxQkxaV3pDT09WRFZ3b1VwTEc1Wk4zTFBGQmk1ZEZlY2NPVnFMVERGeEZZUUpRbG5Oalctb2hnbHRoX2dHUzR2NERaOExNMHZtaDNDQW5zOHY1MjJvRXl6V3pqRnBac1JlaVVzLVd3WXJwQmNRbXoyWmxhSS15ekRweUZfaDllOG1yRTBfZ0FXWWdJUWk2TDVZWXZHZG5RV3FZVlpLbXp4UUk1NUUyMFQ5LW9CSi1INHZsR1FMUmNFTHFBajAzdE5lZw?oc=5",
+          "description": "Básquetbol: Nacional vapuleó a Flamengo en Obras y fue tercero en la Champions League &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-18T23:39:00+00:00",
+          "score": 7,
+          "score_reason": "Usa 'vapuleó' y anticipa resultado; lenguaje emotivo, tendencioso.",
+          "score_pct": 70
         }
       ],
       "analysis": {
-        "resumen": "Se anunció que la banda británica Coldplay actuará durante el espectáculo de medio tiempo de la final de la Copa Mundial 2026. La noticia fue difundida por distintos medios uruguayos con diferentes enfoques sobre este evento musical que acompañará al partido decisivo del torneo internacional de fútbol.",
+        "resumen": "El equipo de básquetbol de Nacional enfrentará a Flamengo en la cancha de Obras por el tercer puesto de la Champions League de las Américas (BCLA). Según Montevideo Portal, Nacional ya habría ganado ese partido contra el equipo brasileño. El Espectador presenta la información como próxima, sin confirmar resultado. Ambos medios coinciden en que Nacional clasificó para disputar la tercera posición del torneo continental.",
         "coincidencias": [
-          "Ambos medios informan sobre un anuncio oficial de actuación",
-          "Ambos refieren al Mundial 2026 como contexto de la noticia",
-          "Ambos abordan el evento de medio tiempo como aspecto central"
+          "Nacional participa en la Champions League de las Américas",
+          "Flamengo es el rival de Nacional",
+          "Se disputa el tercer puesto del torneo"
         ],
         "diferencias": [
-          "Búsqueda usa formato interrogativo para generar incertidumbre sobre la confirmación",
-          "El Espectador presenta la información como programación estructurada del día",
-          "Búsqueda enfatiza a Coldplay como protagonista; El Espectador la ubica en contexto de programa"
+          "Montevideo Portal reporta resultado consumado; El Espectador lo presenta como próximo evento",
+          "Montevideo Portal usa lenguaje emotivo ('vapuleó'); El Espectador mantiene tono neutro",
+          "Encuadre optimista vs. meramente informativo del desempeño de Nacional"
+        ]
+      }
+    },
+    {
+      "id": "story_009",
+      "topic": "Vecino de Melilla repele copamiento a tiros",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Coparon una casa en Melilla dos veces en una semana: \"Gritaron que eran la Policía y tiraron la puerta abajo\"",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT0xVbEZQQUVXMTFPRGd1M1lYWFR5cURmREgza3FoQ1hCc3BNSkNLU1g3RExROUI2c2xpb3ZRNHRmYUhCRXRVSk9mV2c3S0h1NkNuSTdYcjVHLWhiV0pSdS1xakpqSk96SXduVDB5X3RRVmN5b0dDSXZObkJtOFBFT2Y1c0pDeV9wYlU2ZUhjY0daNWZNaDllZ05vbjlrLVZEZWVjSUtkUEs4bUFVRjdPZ0t4UjBmY1pZa0NMdUd2TmxHcm40WGdDdHJ1LVlCNnlrMXhreNIB2gFBVV95cUxNVDVhVWlEenlXcHZGSjRFRUVqamktUzdYMHV6SWdVcEYyWDdyb1BOQTRUblQ4SDFQMnE1MV8tbE1LRkFPcmh5ZXpuUVo2Q1Y3MVhGUTlVMFg1VDRtWmItYmpzV1Uzd3NTQUxiNEMyM05MX3UtMGI3X3N1dlREeGJMVldUT0Y0Q1pRckxNUWdlR3J5MHV2ajhvNFJfRlRHVHZUbWdCb3E4SC10ZlU0NmZmRU4teDRmUlVfaDJtUDZQRlMxdmUzQXpNVzJ1UVdrcXF5Rkc1bE5sZW1Udw?oc=5",
+          "description": "Coparon una casa en Melilla dos veces en una semana: \"Gritaron que eran la Policía y tiraron la puerta abajo\" &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-17T23:02:00+00:00",
+          "score": 5,
+          "score_reason": "Incluye detalles dramatizados; comillas de víctima generan mayor dramatismo.",
+          "score_pct": 50
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Vecino de Melilla sufrió dos copamientos en una semana; en el segundo los ahuyentó a tiros",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSzZmWDQtamtNc01OazEyUWtiTVZTYlZ2LU1TTHhNR2ZOYWI0WHd1NEtXbDRtaHlkVlBpSWl5Rmp1SVQ0VTFPdnUtV0dBRnhzUWZtX3Z0aFZaWnl6a1BTNDFYTnRLd3VaWHJaMW5hc01McjdBN0RVdHRweWwtT01mZnYtMUM3dXYxOF80eFFSQUFWZW01TmpKdHFnR2pVR2xKTjhXMXROZ05HYkIwN1I2YTZHbUNFOE90TDYzRktna25wUnRmWFV1N0dJaGFjODFRbUZJ0gH3AUFVX3lxTFBUSnNadkV1d096UGRycXV6UDFILTJLSXl1WDBDQWhiSk82TWNYUFZOWm5oTXV2eWZoSUc1Wk91SnlDUWZucjVyMmUybkw1N0d1SDBYUkI2ank1NzlqMV91eTRUTTVjaXlXdElKc2g3QnJPUmlfbUZ4NEZhWkJ2dG10NmxJX201Mmlfejl0ekE0VWJuOEZtYzlpUlo2M2VXT0lJZ0VaNUVrR3Y3ck9sZFBzS1JzcGcyZ1ZtTzNGMFdQNUc5dlZQaWp3ak1IZmd2RjZrS1lNcjZQSEZzUTZoV1RmdVlGNmVta3hibXBKRnFHNjNJUV9MNVk?oc=5",
+          "description": "Vecino de Melilla sufrió dos copamientos en una semana; en el segundo los ahuyentó a tiros &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-18T14:10:00+00:00",
+          "score": 6,
+          "score_reason": "Enfatiza la acción defensiva del vecino; destaca «tiros» en titular.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Un vecino de la zona de Melilla sufrió dos intentos de copamiento en el lapso de una semana. En el primer episodio fue víctima del delito. En el segundo intento, los delincuentes ingresaron a la vivienda forzando la puerta y fingiendo ser policías. El vecino logró ahuyentarlos utilizando armas de fuego. No se reportan víctimas fatales ni detalles de detenciones en los titulares disponibles.",
+        "coincidencias": [
+          "Ocurrieron dos copamientos en una semana al mismo domicilio",
+          "El segundo intento fue repelido por el vecino",
+          "Los hechos sucedieron en la zona de Melilla"
+        ],
+        "diferencias": [
+          "Montevideo Portal destaca la respuesta armada; Subrayado enfatiza el engaño policial",
+          "Subrayado incluye testimonio directo para mayor impacto emocional",
+          "Titulares difieren en qué aspecto consideran principal del evento"
+        ]
+      }
+    },
+    {
+      "id": "story_010",
+      "topic": "Mieres se opone a indulto en caso Moisés",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“El Parlamento no se debe meter”: Pablo Mieres sobre el posible indulto en el caso Moisés",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZEdFcnN2LXo1Z29xaTF0cU1SRzl2SE1oaHFKV2FicFFNSDVJNkJTTlBCODRQbURIS2YyUGJHY3ZMdkRYUzh3TWJrdWdNekd0clE1YTJLQXBPdlVvTFgwZVhqdG1FekhDOWd4MC1US05vQzZIMWFYVXNIR19tZHIxTkc3OUVhM1RrMVMzY3R2NVBGU1l6LTVtbjFkVjBDYm42YTJNUTIzeTF3LXhHcjUwZVNMek1lT2dUdkRTODNxT2Z1WnRpYXY5cno0OWczSDhhUnfSAfYBQVVfeXFMTnJMVHpHNXNLdUQtT0gxN0I2VjZINXJpMWVKNl9KUTRXUFVLbVpWcHFaVTZBUFk3LVM5WjQ3a1E0RjBOeGZsbmJMTXhzWktBRzF6elhYTVlGYW5YdXVlQ2hDNDdEMTUySmNtcHJzLUtSRTFpN0ZPWGJBenJnaTVOSUxud2FUaWdsRlZmT0p5ZWs4cVRPNHEteFJwNlBvN1ZiT1Y0YkZmS1JUZF9WSUNRSUxmNXN0MmtFdU05U0RiVHM1eW9WcFU2aEpMY1hlSVJjbHc4ZTBkQ2hrQ0wzbzlXaXRfcUp6Wk91ay1MUzRQYkV3N0x0bmpR?oc=5",
+          "description": "“El Parlamento no se debe meter”: Pablo Mieres sobre el posible indulto en el caso Moisés &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-18T23:06:00+00:00",
+          "score": 2,
+          "score_reason": "Titular directo, cita textual, presenta solo posición sin interpretación.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Mieres se manifestó contrario a eventual indulto a Moisés: \"Abre puerta a donde después empieza a legitimarse la justicia por mano propia\"",
+          "url": "https://www.teledoce.com/telemundo/nacionales/mieres-se-manifesto-contrario-a-eventual-indulto-a-moises-abre-puerta-a-donde-despues-empieza-a-legitimarse-la-justicia-por-mano-propia/",
+          "description": "“Acá hay un caso que puede afectarnos mucho en la sensibilidad, en los elementos que existen, pero nosotros no estamos de acuerdo en caminar por un camino que implica no tener en cuenta el principio de separación de poderes”, dijo. La entrada Mieres se manifestó contrario a eventual indulto a Moisés: &quot;Abre puerta a donde después empieza a legitimarse la justicia por mano propia&quot; se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-18T18:42:56+00:00",
+          "score": 5,
+          "score_reason": "Incluye consecuencias negativas implícitas, carga alarmista sobre justicia.",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "El senador Pablo Mieres expresó su rechazo a un posible indulto en el caso Moisés, argumentando que el Parlamento no debería involucrarse en decisiones de justicia. Según Mieres, otorgar un indulto en este caso abriría puertas a la justicia por mano propia y debilitaría el principio de legalidad. Sus declaraciones generaron cobertura mediática con diferentes énfasis sobre el contenido de su posición política.",
+        "coincidencias": [
+          "Mieres se opone al indulto en caso Moisés",
+          "Enfatiza el papel del Parlamento en la decisión",
+          "Cuestiona la viabilidad política y legal de un indulto"
+        ],
+        "diferencias": [
+          "Montevideo Portal prioriza la exclusión parlamentaria; Teledoce enfatiza riesgos de legitimación de justicia por mano propia",
+          "Teledoce usa lenguaje más sensacionalista con advertencias sobre consecuencias futuras",
+          "Montevideo Portal utiliza formato de cita directa neutra; Teledoce interpreta y contextualiza la posición"
+        ]
+      }
+    },
+    {
+      "id": "story_011",
+      "topic": "Orsi habla sobre energía y guerras en Barcelona",
+      "category": "Internacional",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "En su discurso en España, Orsi advirtió por aumento mundial de consumo de energía por áreas como la IA y cómo eso impacta en las guerras",
+          "url": "https://www.teledoce.com/telemundo/nacionales/en-su-discurso-en-espana-orsi-advirtio-por-aumento-mundial-de-consumo-de-energia-por-areas-como-la-ia-y-como-eso-impacta-en-las-guerras/",
+          "description": "También llamó a “fortalecer” el trabajo por temas como “la seguridad”, un “derecho fundamental” y que “hace libres” a las personas. La entrada En su discurso en España, Orsi advirtió por aumento mundial de consumo de energía por áreas como la IA y cómo eso impacta en las guerras se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-18T19:59:01+00:00",
+          "score": 2,
+          "score_reason": "Descripción neutra, informativa, sin carga emocional evidente.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Orsi habló en Barcelona de las guerras por el control de la energía y señaló cuál es \"el único camino para evitar el desastre\"",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNXzAtVnBLeTJuOEMyNzEtdEhraEJWVjRyeGI4aU03T1RfWk43Vzlmb3RqeG91X1p1MDJ6OHo5eS01dDUyM1NBZjdQRkV6QmtEWnpjZ3UzUHlRMzQxZTdfT2xaX1JfcVgxS0lPWmg0RWphc3lSczdobzItVXFVdHFEQU95ZnUxMC1EUkgtU0lJT3BxaEFQdVZYYVdTd19HSzNtaDJ4c1c5dGduY2ZVWjIyTElYUjdxcmFndmYwUloyM1BOd2plZHNBUm81LWdkQXd1RENFNl9lLVdsVjhQ0gHiAUFVX3lxTE5iR0ZHeW1UNE5xWC1zUXVTOUc4cXV3anp4akxsX0N3R05PV2NXbnhRbzRpbHQtQW9WdVo0eFlVZ2hxQzh3TDlwSVozdEVNNGFyclJlaHdURWE2ei1LU2FMS0pPWmRWeVNJTmdLbkIwTENuNTl5VVpTa0o3aFloOGljOWRwZXpYcEVLdWMydW5qSUN3QnlZRjdrME4yUDcxT0M4MF9KM29YRHFnTUwxQ0M1ZXpaalJFaWs2RU1qMWx3SHh4TGRGWmp3U1ZPS25nSWtHQl9TUHM4R0JuZnpsSGswbFE?oc=5",
+          "description": "Orsi habló en Barcelona de las guerras por el control de la energía y señaló cuál es \"el único camino para evitar el desastre\" &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-18T21:05:00+00:00",
+          "score": 6,
+          "score_reason": "Usa palabra 'desastre' entre comillas, genera alarma innecesaria.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "El candidato presidencial Yamandú Orsi pronunció un discurso en Barcelona donde abordó la relación entre el aumento del consumo energético global, impulsado por tecnologías como la inteligencia artificial, y los conflictos geopolíticos. En su intervención, Orsi también enfatizó la importancia de fortalecer la seguridad como derecho fundamental para garantizar la libertad de las personas. El discurso se enmarcó en una reflexión sobre los desafíos energéticos mundiales y sus implicancias.",
+        "coincidencias": [
+          "Orsi realizó un discurso en Barcelona sobre temas energéticos",
+          "Se abordó la relación entre consumo de energía y conflictos globales",
+          "La inteligencia artificial fue mencionada como factor en el aumento de consumo"
+        ],
+        "diferencias": [
+          "Subrayado enfatiza una solución única y catastrófica; Teledoce presenta el tema más equilibrado",
+          "Subrayado dramatiza con 'desastre'; Teledoce mantiene lenguaje más descriptivo",
+          "Subrayado omite mención de seguridad; Teledoce incluye ese aspecto del discurso"
+        ]
+      }
+    },
+    {
+      "id": "story_012",
+      "topic": "IMM repara red de saneamiento en Pocitos",
+      "category": "Sociedad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Comenzó la reparación de la red de saneamiento Arteaga: inversión de USD 3 millones y tecnología que reduce tiempo de obra",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd1lScEgyMWtDZEJjSzdtZzcwdnFRNk1VZDZxcHZnNGdUS0ZrNDZmdHQyR2ZmUnZJV1R5c01UaHV1c3M4NmFuM21FNFNNVG0yRnl0bldfUWU1ajMzRVgzVGhzSnNCRW5rUlZhajNHSi1peHNkU2oyVFdHeFk0T0dOOG1ybXd3SHZLdjhoUU5GSUpEemNKOWNfNk5WcGlZZ3prenlmdU1TSnVwUEcyaFhQMHlYS1RwcFRLNVRoWGVGWF9lanZiWGsxaEFMQmxCNmZKTFZRSURINDNRc0ZBQXluN9IB5gFBVV95cUxPZ0psa3daUHlobmRnSExHa0p2cnI0aFFOVkRXcDhHZE1pRFF2TllMcktEZEQ1WlB4eUNEUmRVZXF1NjRTYUVJTV9qVnFfWjg1QVpKMW1BZ2o3R1RaVXQyTEQ2ekd2TnRHZ05sOEJCYTlCM2JWVUxVQUd3NGRQM182eTRzaXRWaTIzWkF5dGJnVVFkZUpGcE1DYkFndHk3QVZWODZUU2x0TTdGUkhzcHA1TC00dERoSk9kSnFBSmo1clRScHJldGJtTmdWZWpzUjhXbnZicXRWZHFGakNmZDNRM1FUWUllQQ?oc=5",
+          "description": "Comenzó la reparación de la red de saneamiento Arteaga: inversión de USD 3 millones y tecnología que reduce tiempo de obra &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-18T00:25:21+00:00",
+          "score": 1,
+          "score_reason": "Informativo y directo, destaca inversión y tecnología sin carga emocional.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "IMM comenzó a reparar en Pocitos la red de saneamiento con tecnología que se usa por primera vez: reduce tiempos, obras y costos",
+          "url": "https://www.teledoce.com/telemundo/nacionales/imm-comenzo-a-reparar-en-pocitos-la-red-de-saneamiento-con-tecnologia-que-se-usa-por-primera-vez-reduce-tiempos-obras-y-costos/",
+          "description": "Los tramos de las reparaciones se hacen a razón de 100 metros por día hasta completar los 2 kilómetros previstos en esta fase de la obra. La entrada IMM comenzó a reparar en Pocitos la red de saneamiento con tecnología que se usa por primera vez: reduce tiempos, obras y costos se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-18T19:10:14+00:00",
+          "score": 2,
+          "score_reason": "Añade énfasis en primacía tecnológica pero mantiene tono factual y objetivo.",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "La Intendencia Municipal de Montevideo inició la reparación de la red de saneamiento Arteaga en el barrio de Pocitos. El proyecto tiene una inversión de USD 3 millones y utiliza una tecnología innovadora para el país que permite reducir tiempos de ejecución, costos y disrupciones. Se prevé reparar 2 kilómetros con un ritmo de 100 metros diarios.",
+        "coincidencias": [
+          "La obra comenzó en la red de saneamiento Arteaga, zona de Pocitos.",
+          "Se utiliza tecnología nueva que reduce tiempos, obras y costos.",
+          "La inversión es de USD 3 millones para esta fase del proyecto."
+        ],
+        "diferencias": [
+          "Subrayado enfatiza la inversión como dato principal; Teledoce destaca la novedad tecnológica.",
+          "Teledoce incluye detalles operativos (100 metros/día, 2 km totales); Subrayado omite cronograma.",
+          "Teledoce subraya que es uso 'por primera vez'; Subrayado solo menciona 'tecnología'."
         ]
       }
     }
