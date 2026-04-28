@@ -1,93 +1,27 @@
 {
-  "generated_at": "2026-04-27T11:49:20.962672",
+  "generated_at": "2026-04-28T11:50:01.791967",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Cobertura diversa de temas nacionales e internacionales",
-      "category": "Otro",
-      "sources_count": 4,
+      "topic": "Situación socioeconómica y seguridad en Uruguay",
+      "category": "Política",
+      "sources_count": 5,
       "headlines": [
         {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
+          "source_id": "lr21",
+          "source_name": "LR21",
+          "source_short": "LR21",
+          "source_color": "#827717",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Nuevas miradas del arte uruguayo convergen en ‘En escena’",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb1drLTNuOWZUNlJSb2N2elNMTDlVUkEzcTlaZ3Y1b3ZRZ3p0VEVBYjVyTllGS3NZMGhGWnFfOWQ3eGdmUEl0WUJkTnJ5SFFiR1lWUXpCOWx0OWZnUGRySzd5aUlab0YwalZtQ0hGT0hSYVA3OE4zMTRuako3VXNIeDA1SUh3bFVhVkt6dWthYXhsVHFiQ3VMTGY4NkRhTkE?oc=5",
-          "description": "Nuevas miradas del arte uruguayo convergen en ‘En escena’ &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-04-26T15:57:00+00:00",
+          "source_url": "https://www.lr21.com.uy",
+          "title": "Clase media en América Latina: Uruguay mantiene la mayor proporción del continente",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMDQxTGR6MVRLNUZQdHVDZ1ZFWXZVNGxzdGJ5Rnd4VV9DRklnNy1idTl1UjM0NHpySzdVWG5WY2hwRVFlMXQ4UmI4ZEo3Umw5UHNXYzZuTWZkS1VNSXY0WWdqSHNKcmoyWXFiQmVvNXVPZ21IY1VEVTRSNGczV091VlFJUjk0Z290c0k2TUZR?oc=5",
+          "description": "Clase media en América Latina: Uruguay mantiene la mayor proporción del continente &nbsp;&nbsp; LaRed21",
+          "pub_date": "2026-04-27T11:40:00+00:00",
           "score": 1,
-          "score_reason": "Completamente neutral, solo anuncia evento cultural sin adjetivos.",
+          "score_reason": "Neutral, informativo, presenta dato estadístico sin carga valorativa.",
           "score_pct": 10
         },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Arquitectura de Montevideo: los diez arroyos entubados bajo la ciudad y cómo explican las inundaciones recientes",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM191MVpmUUExeHpHcWVuWVJwbFFBWlhFQmkwVDA3MHB3Um9neUJSdEM3dWFFbkhkMU9hMEtUYzljS0kxYm5FQ1B3SDhiaTl4eEtwN2tQWnZaTzZPTm1DeGE1TEt4OGhBYjBxdWEwaDRFaFBHTmpTWExudGpqblFBZTZBazJab3RQdHlFVlhoc1N5Q3c5al9WQjMwanVaTFU2VndyWmNhQzVDUHlGc1lldlFHbzZncnZ3YnpieHJmUHU4WDdfTHZTQm9OeUhCREtjcnRzM2lCbEFyaVN2Vk45ZlZMcW1xS0Nv0gHuAUFVX3lxTFBNZjR2OWM4UERBRFdJN0FXbTVZelV4WDFTVjNCTHUtY1RBX2Flc191ZVpiU1B3V3V1NU53TFZfUkx5cG8talJhaFpqaTN4eWhzdUhwS3pDZ3NWb1JYQmY5Q0pMNXVWT0E5d1o0V1prc3JENnBGMVNXOEh3VERJdUk2dGVoY191SFZPSG1kWGxpbGItZ1FvUDB1Ukw2ZUJWZWhTZDhBZ2U0TTZtQkF0YXFYRFVFRzVlWUl6bTl3OFh0WGQ4Ukt4N29qcUpYbTZIbkI0ZkRtSkx2MjZ0V1luSlQ0Q3I2ajg3alI1ZGdCQ1E?oc=5",
-          "description": "Arquitectura de Montevideo: los diez arroyos entubados bajo la ciudad y cómo explican las inundaciones recientes &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-04-26T12:05:55+00:00",
-          "score": 2,
-          "score_reason": "Informativo, descriptivo, explica causa-efecto sin carga emocional.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Histórica exhibición de Franco Colapinto en Buenos Aires: mirá cómo fue desde adentro",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRmd0THd0TkFWU0c5Rl82MTVnbk52ZGtRWXdzRnE2ektSOF9yU1FwWW8zaVhkVmR6c0hIT1R3YTJBZTdsNTdnUU5nWmFwREc1SHhUQnM5bEdCVzlmd0ZocmVsN0ZlY3hDTWx5R1RWc1ZhdmNDdGp4OUhuR2JLQ2k3Nkh5cWlPOGxuc0JBSzQ0eTUzU2NRQWtZT1ZfQ2N1bmhTaVRpdXMybE56UV9IM1RuRlRySjJweVljS3VKNkRHVWxQV0VfZjhKUllxOXfSAfABQVVfeXFMTVJ1aE5XZnV4dHppYmhEMFFjZ1R1YjRVNWJKaFljWjBZeV9qSHZZY0wzLXU5b3ZMNU5BVk9NYk9IVWREY3J5eEd0cGxzclppMXE4dE1sdG94UC1DTjczSTd1cGFEd0ZoZnhtZFYtWWctdEY5emhvYkFtMTZvM0FGUFgwOEx5dlZWWE4yanpta1Y0czQ0SVJaaVRySkIyV2FsRVprcmNNcEczcEdjeFozQllZR0xhTk4tNWl3UkdxT09aMlN5R0EzeXVuVldNMVNoWS1TUzE2SHVDSzdDMkY0V1lPSnJjM3dIVmQ1TmN0ZDk4?oc=5",
-          "description": "Histórica exhibición de Franco Colapinto en Buenos Aires: mirá cómo fue desde adentro &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-26T20:54:00+00:00",
-          "score": 3,
-          "score_reason": "Usa 'histórica' y 'mirá' para generar interés narrativo leve.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Uruguay: entre la asistencia y el estancamiento, el desafío del retorno social",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX0o3V1NKY1kyX2c1RTdyaUExenF2TDJUV0wtUHlmMnlUR0dMUHlYUmpxSnVFM2t3dnNGSHZLR01vUk5zZzY1OTZReldheFg5emNLM2dRZGI5S3hhM1MyS0xKZ1FqcGdJS25oaGtCRTNvYmFGMkc4bnBZbFdod3ozaUJBakY4SFNhR2pLOE50ZEhjNlgwdERiNElXTlpxQng5TEhwY0lZSExiTGJTSTJUZFVkOEJkZw?oc=5",
-          "description": "Uruguay: entre la asistencia y el estancamiento, el desafío del retorno social &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-04-26T05:25:49+00:00",
-          "score": 4,
-          "score_reason": "Plantea tensión conceptual entre asistencia y estancamiento, encuadre implícito.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Los medios uruguayos presentan una cobertura variada sin relación aparente entre noticias. El Observador aborda infraestructura urbana y drenaje en Montevideo; Montevideo Portal cubre un evento deportivo en Argentina; Búsqueda se enfoca en arte local; y Grupo R trata aspectos sociales y económicos. No existe un acontecimiento único que unifique estas coberturas, sino más bien una selección editorial diversa de temas de interés general.",
-        "coincidencias": [
-          "Todos abordan temas de relevancia nacional o local.",
-          "Ninguno utiliza lenguaje alarmista o sensacionalista extremo.",
-          "Todos mantienen estructura informativa estándar de titular-descripción."
-        ],
-        "diferencias": [
-          "El Observador explica fenómenos urbanos; Montevideo Portal cubre eventos internacionales con conexión local.",
-          "Búsqueda prioriza arte y cultura; Grupo R enfatiza problemas socioeconómicos.",
-          "Tono: desde neutral técnico hasta sutilmente crítico sobre políticas sociales."
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Racing campeón del Torneo Apertura 2026",
-      "category": "Deportes",
-      "sources_count": 3,
-      "headlines": [
         {
           "source_id": "espectador",
           "source_name": "El Espectador",
@@ -99,9 +33,105 @@
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZHNwUVdxb1FOMkl1RmdFMGxlUXZ1NDZiUXdudEZtajFsdWdROWxiTHBONk1LSGJQdVRJNC1SSW0yS2ZNcm9TdTJDYlNtbkdwR0FJblE0QWM0US1CTk1mc1V5cWN2Q2tvck9Lbl9RUHNyUTN3OFB0OTJaVGRJaXh0MkdXRDg4Skw3RHJUVjk2TQ?oc=5",
           "description": "Racing campeón del Torneo Apertura 2026 | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
           "pub_date": "2026-04-27T01:03:29+00:00",
-          "score": 1,
-          "score_reason": "Titular puramente informativo, neutro y sin énfasis particulares.",
-          "score_pct": 10
+          "score": 2,
+          "score_reason": "Neutral, meramente informativo sobre resultado deportivo del torneo.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Levantar al técnico”: el mensaje de Ruglio sobre la crisis de Peñarol tras otra derrota",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMlNFaFhGUktoQzR0Rk9UOGI1a0JmMXJ2Rzgyc0pYczBVaERKLWNlRzBvSG9rMjdOaDJHVnI3ZG1uNS11SVdPbnBlTVFlY2xkX01kQWU2Ul80cUVabUFzbUtxX1VwaW5JTm1zUkQwWk9kRWMzbFhVSDZOZ24tbk1XMmlBMXYxX2VodW5NZ3lSdEk4ZlFuUHloampNR2Zyd01jTVFEQkE1bjFOanAzcUdXTEJJSlhRYlc4Z2ZQd2hYNkR6YVk2UXhwenFoVEtZLUph0gH0AUFVX3lxTE02SGg1dXJHQzdsOHJsSFdDdE45NHBTa0tBeXI3LS1qRFdZZ0ZuQzNPTG1oZmVWQnJZZU81SWFLdTJ5Tkp3OENHQU4zVFhvMmtvbmZLbU92X0VkN0stcTgzaUxfNDZZU2ZLQUJ0ejlIbThOSXoxckFnOXlxS1pGdnJ3WFNyb241OWpmU0E5ekZ4UjJvYXBlM2FSZGdxRkpGbVl4SVlmcDQ0ZGRsMGl2SFpUaFV0ZnJqTVYySUtsaENNa2VoVldFSzA5NDVidjhNZWZBeGUxd1ZwU2djd09BUk96SS1QOE1rNlp2Q2dZOTlQQ3dWX2g?oc=5",
+          "description": "“Levantar al técnico”: el mensaje de Ruglio sobre la crisis de Peñarol tras otra derrota &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-27T16:56:00+00:00",
+          "score": 4,
+          "score_reason": "Cobertura deportiva con énfasis en crisis institucional del club.",
+          "score_pct": 40
+        },
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Pobreza en Uruguay: No todo lo que reluce es oro",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVkktWnZYTUx6VmtIQ3lNRDJFUXM3RXlrX2FTYi1BRVNwYkhIRUZTT2dqUjh3RUJpZXJzRmxYdUlEQTZVVFdnU3MwcmhGM0hmakhFeHZxc1F5QUVKaVpadFZrU2dUSDhtZFlKeElvYXhrNTlpMTByaGpPamg4OVpNZjROTzlsU0t5dkdJT0VRN0E2WDFMeDNycdIBngFBVV95cUxPMm1kMENLX2xWc3A0Uk4wX3Z5RkJ4d28zLUZiZ3dmRjhoTzBJTjBRRlpGODFqai1JVHJkeUxzemVlU1RqWjhWWXJfSF95YVVLdngyWmdfREU3dzNyVUdFT3NlYXItUlh5Sml1UFBldVEtWmw2YlptTENmNlBEdVNhdGx6Tm8yUUpTYlVBS0dkbTJtYmc1Nm1wR09pUHZxdw?oc=5",
+          "description": "Pobreza en Uruguay: No todo lo que reluce es oro &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-04-27T12:33:00+00:00",
+          "score": 6,
+          "score_reason": "Titular metafórico que cuestiona indicadores económicos positivos implícitamente.",
+          "score_pct": 60
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Un Bukele a la uruguaya: el reto de dar sensación de seguridad sin sacar el garrote",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdkt4NEw5cThEcVVBVl9qalJIeFhMbGVOVEx3SG1OdXJ4M1dOejdzTVFvV01iRTdIRGNUUXByVGp4eVhzaUgxTDNOVmtKYXFFeUFGZlpjOWt1YnVDSHRWOHpqTzlmYVlFcWl6RVlPSS1LdHNfb1hpdWdORUcxV3lVcG1Pc0NsQS1mV25DczM2cFZZanRKWUM3b3pjU3NHYU9ZdXl1Ql93?oc=5",
+          "description": "Un Bukele a la uruguaya: el reto de dar sensación de seguridad sin sacar el garrote &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-04-27T08:05:00+00:00",
+          "score": 7,
+          "score_reason": "Compara con Bukele, lenguaje crítico y sensacionalista sobre seguridad.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Los medios uruguayos reflejan una realidad compleja del país. Mientras algunos destacan logros económicos como el mantenimiento de la clase media más grande de América Latina, otros enfatizan desafíos pendientes en pobreza y seguridad. Hay debate sobre las políticas de seguridad y su impacto en la percepción ciudadana. Paralelamente, los medios cubren crisis institucionales en equipos deportivos locales como Peñarol.",
+        "coincidencias": [
+          "Uruguay enfrenta debate sobre su modelo socioeconómico actual.",
+          "Existen preocupaciones sobre seguridad y políticas públicas de control delictivo.",
+          "Los medios reflejan interés en tanto temas sociales como deportivos."
+        ],
+        "diferencias": [
+          "Algunos medios destacan logros económicos mientras otros enfatizan deficiencias en pobreza.",
+          "El Observador adopta tono crítico-político; LR21 mantiene neutralidad informativa.",
+          "Cobertura deportiva muestra énfasis diferente: crisis institucional versus resultados de campeonato."
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Combustibles: Ursea prevé aumentos para mayo",
+      "category": "Economía",
+      "sources_count": 4,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Informe de Ursea da incremento en todos los combustibles de cara al ajuste de tarifas previsto para mayo",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjdiWnQtSXBkSldmSlJpUDU4NkxmTS1LV21Cay1YNEpib0h3RnRRZ2d5cWUzUk1idWExaWFERGhxRWh0LU40ME1McDdSZnliSEVhQmVNWWtuaHcwcFpqbWE1TVJzMld6aWxWN0tpYmtNVEZHd01adzhmQTZkRGxuZXpkMXB4N2FDclpUcmFVc2V5OUdtU3hXY0VoWFpqNjFOb0hmU3R1UmRNX0JTaTNJaEpZMFdvaW93enZlYkV3bkdBWEXSAcgBQVVfeXFMTTd4TmdhWEZKZmFZZ09zVmZnb0h4RFhyMlA5NVFjQ3h6WXJSUzFJWVB6X0t6d3hxRGplX2Z0STdaRHNYY04xcG5JYWgtWFB5SERpNWtqSy1mc3MwbjNOZzI3RXFDTTRSWW55X0RzMG5xSW9XQ1lxNlZUbm5SRUJ4YVVDUzlINmphaWowYXJrQktjYlhCVm5yV1hWQ2RWVFo2ZkdlX0pMZDhqZmV3MTR4NTRMNkRWS3lnTnZfc3AzUThKbkVTZ3VES18?oc=5",
+          "description": "Informe de Ursea da incremento en todos los combustibles de cara al ajuste de tarifas previsto para mayo &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-27T20:30:19+00:00",
+          "score": 2,
+          "score_reason": "Informativo y neutral, solo reporta el informe de Ursea.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "lr21",
+          "source_name": "LR21",
+          "source_short": "LR21",
+          "source_color": "#827717",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.lr21.com.uy",
+          "title": "¿Aumentarán los combustibles en mayo? Esto dice el informe de Ursea",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdlFnQmhhR1J1X2NYOUQ2dVlJSVA3UTZXUkEyZlFsOUFQYUw0NWwzTGstXzN0RFpnampZb3Z0X2R6Mm9HRkVydXMtc2dwYTFCUzZ4cllaelpYZGJVSHJDZ0tCZEl3T2NzZ2Zqd0RqR1VlQWY0XzEwbWNQWHBMUjVqZnNlRQ?oc=5",
+          "description": "¿Aumentarán los combustibles en mayo? Esto dice el informe de Ursea &nbsp;&nbsp; LaRed21",
+          "pub_date": "2026-04-27T22:35:56+00:00",
+          "score": 2,
+          "score_reason": "Pregunta abierta, reporta sin carga emocional.",
+          "score_pct": 20
         },
         {
           "source_id": "teledoce",
@@ -110,13 +140,64 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "Racing se consagró campeón del Torneo Apertura 2026 y consiguió su primer título de Primera División",
-          "url": "https://www.teledoce.com/telemundo/deportes/racing-se-consagro-campeon-del-torneo-apertura-2026-y-consiguio-su-primer-titulo-de-primera-division/",
-          "description": "El equipo de Sayago le sacó siete puntos a Peñarol a falta de dos partidos por jugarse. La entrada Racing se consagró campeón del Torneo Apertura 2026 y consiguió su primer título de Primera División se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-27T00:00:10+00:00",
-          "score": 2,
-          "score_reason": "Descripción objetiva con datos concretos sin adjetivos valorativos.",
-          "score_pct": 20
+          "title": "El gobierno define por estas horas los precios de los combustibles para mayo: el PPI indica aumento de casi 6% para naftas y 10% para gasoil",
+          "url": "https://www.teledoce.com/telemundo/nacionales/el-gobierno-define-por-estas-horas-los-precios-de-los-combustibles-para-mayo-el-ppi-indica-aumento-de-casi-6-para-naftas-y-10-para-gasoil/",
+          "description": "Días atrás, el ministro de Economía, Gabriel Oddone, dijo que \"seguramente ocurra\" un aumento en el precio de los combustibles para el próximo mes. La entrada El gobierno define por estas horas los precios de los combustibles para mayo: el PPI indica aumento de casi 6% para naftas y 10% para gasoil se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-28T10:05:22+00:00",
+          "score": 3,
+          "score_reason": "Objetivo pero específico con porcentajes, leve énfasis.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Nafta y gasoil: tarifas rezagadas y precios altos presionan al gobierno de cara al ajuste de mayo",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOXy1fOXFDb3kwOHRnUzhkWE42TXJqOVNJV1JGRFpPOWRPdkxUai1TX2FjcFJMWEVudHJMVng4anRaN3hIdXVsYU91bm56allGTHo4Z0lWMEVLRFRHRDdCazAyVk9jTlJ5X0o0dmJuMFZja1RfQzJTMzRjX09MdUxjdmp5Q3EtYUdpNFA2RUdscHgwV0wxX2h0T0ZldGs0dzVwLVBPWnFtd3BLWEFnVzI4cEs3YmJNRHZIZDhzNldOeTFIUTI4ZXhYZkZILU9fai00MEVYRFpJVzg5TklmWFpKcGZPR1lxdw?oc=5",
+          "description": "Nafta y gasoil: tarifas rezagadas y precios altos presionan al gobierno de cara al ajuste de mayo &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-04-27T08:00:00+00:00",
+          "score": 6,
+          "score_reason": "Usa \"presionan\" y destaca problema para el gobierno.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "La Ursea informó sobre incrementos esperados en los precios de combustibles para mayo. El informe indica aumentos de aproximadamente 6% en naftas y 10% en gasoil. El gobierno está definiendo en estos días los precios finales. El ministro de Economía había adelantado que \"seguramente ocurra\" un aumento. Esta situación genera presión sobre el gobierno de cara a su política de ajuste prevista para el próximo mes.",
+        "coincidencias": [
+          "Todos reportan que hay informe de Ursea sobre combustibles.",
+          "Todos mencionan que se esperan aumentos para mayo.",
+          "Todos contextualizan en el ajuste de tarifas del gobierno."
+        ],
+        "diferencias": [
+          "El Observador enfatiza presión política sobre el gobierno; otros son más neutrales.",
+          "Teledoce es el único que especifica porcentajes concretos de aumentos.",
+          "LR21 y Subrayado usan tono interrogativo o neutro; El Observador es más asertivo."
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Bebé de un año muerto en balacera en Montevideo",
+      "category": "Seguridad",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Hallaron auto usado para balacera que terminó con bebé asesinado en Colón; principal hipótesis señala enfrentamiento entre bandas narco",
+          "url": "https://www.teledoce.com/telemundo/policiales/hallaron-auto-usado-para-balacera-que-termino-con-bebe-asesinado-en-colon-principal-hipotesis-senala-enfrentamiento-entre-bandas-narco/",
+          "description": "El crimen ocurrió en la noche de este lunes, pocos minutos antes de las 20:00 horas, en Pasaje J y Aparicio Saravia: allí, un ataque a balazos terminó con un bebé de un año asesinado y su padre, de 24 años, herido. La entrada Hallaron auto usado para balacera que terminó con bebé asesinado en Colón; principal hipótesis señala enfrentamiento entre bandas narco se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-28T11:21:23+00:00",
+          "score": 4,
+          "score_reason": "Incorpora contexto investigativo; menos carga emocional que otros.",
+          "score_pct": 40
         },
         {
           "source_id": "montevideoportal",
@@ -125,49 +206,13 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Racing se coronó campeón del Torneo Apertura de forma anticipada e hizo historia",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb3FUanN1b0NYOTV2dWhQczB3Zkw3X2c2ajR1TzZGM3hvOXJSMmM4WVVUY0pSX3lXZFB6SmVqaURpVVloLXhVeWhXbUdBSjZqUVZ1bmpiOTE3SnB5Y0ROc2JhTFpVclp2ZEhGRkg3cVNQUlB6bVQ4QzFtZUhhX2lScEhfR0QtQmZoMmpDV21QdUhxZjAzN0VuLVV5ODYxZ2hKWTlYQUV3OWh4SG9iMGRSVlBKalVSVlF5RnZGMlZBanNGTjZBbE1F0gHrAUFVX3lxTE9iNXJqLW1BbGxEYkVlT2FlcjFfaXNEemJ6RWVudVRQQl9pR1VGT2VRSEJBd1pJeDkyMlBpZ0FGbGdWNzhidWd2NDl3ZDlXbmpQTEEyMC1IalAyZmJfenF0NTlvZURUOFpkREs3SzBabk13VzAxbm9uMDhSOF8yeW9uY0FEaTZOdFpCZHRuWjNoTnNHanoweExCbEZBOGZtcTU3aXdsTlNkbFhseU84cFgycTNPZWg5d0VsazlCUFFyTHhUMWstUnhfZkxaVTlFM1pWY3hfZTB3bnZ2cmQ1WGhiRHl6MngwZU43OWs?oc=5",
-          "description": "Racing se coronó campeón del Torneo Apertura de forma anticipada e hizo historia &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-26T23:57:00+00:00",
-          "score": 6,
-          "score_reason": "Énfasis en 'hizo historia' añade carga emocional innecesaria.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "Racing Club se consagró campeón del Torneo Apertura 2026 de forma matemática anticipada, faltando aún dos fechas por disputarse. El equipo dirigido por Sayago logró su primer título en Primera División, distanciándose en siete puntos de Peñarol, su más cercano perseguidor. Este logro representa un hito histórico para la institución en la máxima categoría del fútbol uruguayo.",
-        "coincidencias": [
-          "Racing se convirtió en campeón del Torneo Apertura 2026",
-          "Fue su primer título en la categoría de Primera División",
-          "La coronación fue matemáticamente anticipada faltando partidos"
-        ],
-        "diferencias": [
-          "Montevideo Portal destaca el carácter histórico; otros medios lo consignan como dato factual",
-          "Teledoce menciona específicamente a Sayago como entrenador; otros no",
-          "Montevideo Portal y Teledoce añaden contexto sobre ventaja sobre Peñarol; El Espectador omite detalles"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Condenan a ladrones del Monumento al Peón Rural",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Condenaron a libertad a prueba a los hombres que robaron el Monumento al Peón Rural en el Prado; vendieron la estatua por $30.000",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeUxWTHlmWlR1c0h5c3JUdlF5QkVwME05NVNPWUkzY1V5QXRHSEVIUkJvWEdrTGNxVVZfRHkzaE1LakVWeExWTmg3cWJ3QzZqZ2dIckxkaWtjU2YtLXJDQWYwRUtpV09sLVgwdzFWclhEc2tGajZzMnZTd1ZPR0R3eTBRNVF2SnRodGhLcUpzQm4yWnFKTm1oUHpWUUlyRmRhRzlIdnJvZUhjaW1hakpZeVBpbWItdTJ1TEpGNFdaU1A3Zmtwek9XVEpnNDJ3QmtQWW1LQlFUMF9icV9nbXFETzRCR2o2UWtNM2fSAe8BQVVfeXFMTm56S2FpcTBLSE94Yi1VUVNWMWREVW82djdHUzh2emp0YmJPcDkzbk54dGREa3Fwb29uSXF6N0kwWVFtNHlIRzB0RjVkR05hNS03ckljczBVV3JSVHMwYmd0eGpmTFRoVVhaUzNpekl1X3NxVGFjTEh0QjZ5cTVFZC1KSWk4Vy04dGxPY2FIVDRZUFI0dzV5a2dVRXJ3WWJWa1ZibGRPYm9WYkNyc3d2YUlTb0RGUS00YmZDWi10QnFVS2dwRk1MWnZueERPRS1xeUh1QnBWRlJWbFoybHpuTmJKa2hSbnlUU2lxcUhtejA?oc=5",
-          "description": "Condenaron a libertad a prueba a los hombres que robaron el Monumento al Peón Rural en el Prado; vendieron la estatua por $30.000 &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-04-26T14:41:49+00:00",
-          "score": 3,
-          "score_reason": "Estructura informativa clara; verbo 'condenaron' es neutro; detalle de precio humaniza el robo.",
-          "score_pct": 30
+          "title": "Mataron a balazos a niño de un año en Montevideo: dispararon contra el auto de su familia",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTnNIQ1RTOXdMQzNFWl93MnVLTXNjRWVVSzB4MEJVX2FDVmlaVWFtZDFKRThDUXNrZGFnamV5andodGRJeVVMRUhnV2dvOTFncWpqRDJNZ2lGTlNEVk91ZDJKeWN3dGNBUEtUNy1GakthdmZoNjlUZEV5UnFtc0I1cW9JQmtqejllQUtNWDdEbnp0UFFhUHZPVlRUZ3FXaGNWU0dwcGgxRmFZcUlPU2NaMlNzTmd4RDg5LXZ6eWZUWnZxTElLbUxKY01KMkZmY25rN0HSAfYBQVVfeXFMTkVKS1pvNGxWaDdUcGVuUWJVMlFQalU2SEtOMG5mdWNwbnhrWER3X2g3ZTc3dmljTEJCOFhqVTFuSWdPUUJiTi1vQUlyMEYteGpXMU1RLWVXTUZBOTFiTVlDdHBXNlpvWGtUTU5CYVBhQmNmZU5pQ1lyU1RHaXRrc2ZxTTRWMFFUODhDY1c1UFRkN2lOb3ZnYTlTNzRwejVEdk85dDY1cHZhMDlHTEJJV3J1T1RNMGhTZVJDRjB5b2VCbUtFOHRXNl9DQ3BFRUxyeU1uMEY2UDVVX3N6Y3ZaRUdXRTl4LXNhZEhySC1CXzFQWktDQUd3?oc=5",
+          "description": "Mataron a balazos a niño de un año en Montevideo: dispararon contra el auto de su familia &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-27T23:51:00+00:00",
+          "score": 5,
+          "score_reason": "Enfatiza acción violenta; estructura genera impacto emocional.",
+          "score_pct": 50
         },
         {
           "source_id": "subrayado",
@@ -176,150 +221,63 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Condenan a delincuentes que robaron escultura en el Prado: uno dijo que la vendieron a $30.000",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHl5NjVFeC13V29Wdml1TTlZUGhqenR4RnM2NEw1WmF5M1VTbTQ2cnBvSmN5N19QYlZxcWFYeFg2VjNkVU5nd0JfM2hldk5FQkdnU2JHMVlDSnZsM1k5S21rYWU2bkYtYWlhOVczRUtHZmYzV1gzMjBXeE9XYkdzZmhlbWtUN1NwcnVzbktvbHZFR3FOZFRKY2NkUklCRFJ2aThLN2UtVHROdWcyWnVZYW1MUXVvaXRSOXZ1OUZoQdIBxAFBVV95cUxPTnhIYjdjaGp6QVRNZ0xTWnhHWUJZYU9oRXZyMTNQQlVoOXBIUkQySkpHVlBzS0F1M0VLYVJnX2lDdEhiU2E5SFhnbVlNcXhOUENsano5UU5DbHRiMF9wSld4Nks1X09abmVjOUNxV0piR0dvRmxaQzUzMFFMUVl3RGkzczNFRkotd1dwdEQ3YkNZQzRJUDVWYk5pZzR0MXhIV0FwTi1LQzg3T0Fqcm9aS01yMGItUWNsSDZnbUxvMzBXeXhW?oc=5",
-          "description": "Condenan a delincuentes que robaron escultura en el Prado: uno dijo que la vendieron a $30.000 &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-26T14:04:00+00:00",
-          "score": 4,
-          "score_reason": "Etiqueta 'delincuentes' es más cargada; atribuye precio a testimonio ('uno dijo').",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Un tribunal condenó a libertad a prueba a los hombres responsables del robo del Monumento al Peón Rural, ubicado en el Prado. La escultura fue sustraída y posteriormente vendida por treinta mil pesos. La sentencia permitió que los condenados mantengan su libertad bajo condiciones de vigilancia y cumplimiento de requisitos establecidos por la justicia.",
-        "coincidencias": [
-          "Hubo una condena judicial por robo del monumento",
-          "Los responsables fueron sentenciados a libertad a prueba",
-          "La escultura fue vendida por treinta mil pesos"
-        ],
-        "diferencias": [
-          "El Observador afirma directamente la venta; Subrayado atribuye la información a declaración testifical",
-          "Subrayado usa término 'delincuentes' mientras El Observador refiere a 'hombres' de forma más neutra",
-          "El Observador prioriza la condena; Subrayado enfatiza la calificación delictiva de los sujetos"
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "Andrada expulsado en España; Danubio vence a Nacional",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Danubio derrotó a Nacional 2-1 y lo eliminó definitivamente de la lucha por el Apertura | Noticias | Futbol Uruguayo",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYm5tZEt2ejRPdVJqUUZPd0FxRk5DU0Y2anJ3dXJULUp1NmNkLWtoSk9ia1lOTjVzMnhndFdSMHU3TEVHdlVHRmJZV1kxTDVid3ppc2hzRWVfYTlYYk1lc1ViU1pnS1hmcUdRMExkNy1pT1lRMnFWSmtaZHV0b1NpTGRJN1VyUE8xcExwQXZrQktYNFphNlZoNzJKcVg4dmRVUkJ0QVpSYXpBdXZ4Qk1IUDdaQU81RXk0aGFUUk8tYUNnQ2NDVkNHVy04dS1Kb0E?oc=5",
-          "description": "Danubio derrotó a Nacional 2-1 y lo eliminó definitivamente de la lucha por el Apertura | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-04-26T00:12:38+00:00",
-          "score": 2,
-          "score_reason": "Objetivo, neutro, solo hechos deportivos sin carga emocional.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "España: el argentino Andrada fue expulsado, pegó una piña y desató una hecatombe",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRGpIeExOblFiUzdOZDM0Zy00RWdMYmlNTU1HTk44LUF1SS0xNEt2RU01eFR4SFRmSmtEM2dxM3BMY1FlczJQUVRFd1NnV2NqUFc4YTlqUnhnb1NaOWxxR0ZXN1RXSnZiNGNiLTR6TEZza01zSTh2TzlrYnFnYWhEblZxaDZOVzZIYzdXWll4U1R2dm5vLTNvSWRibzZsaEpKVk1RLURwZnJjQS1oTHN3dXIwR0NqTGJaYkxMaDlhUVZ6alh10gHoAUFVX3lxTE8xck9KNVVKTS0xcUVwMHFMbTdOdjBVM0ZIYkR6YncyM2pORnNRcGUwZHFXNmo3MUpkT0RWdHJDQ1ZpbjdtSENpQ2ttei1IVnNNdUhGOExwdng4WWI0S2JKZnNVT25GVmVpemFoV05telBNR2drbUJyM3NVWktNYU5UbFRMWF8zVkZ6d0JpUFNIOTh0Vm5pa3h3ZXNfYnE4SEJ0aEU1V0lxQlZjSDVhMTVON0J2dkNTeE4yRWozYlpNbHBUWUI0VURDSGJoZlg1MDNNS0ZOaHhubjIzcjhnNlFXeDNOWm1kbEk?oc=5",
-          "description": "España: el argentino Andrada fue expulsado, pegó una piña y desató una hecatombe &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-26T19:34:00+00:00",
-          "score": 8,
-          "score_reason": "Lenguaje dramático: 'hecatombe', énfasis en violencia y caos.",
-          "score_pct": 80
-        }
-      ],
-      "analysis": {
-        "resumen": "En un partido de fútbol en España, el jugador argentino Andrada fue expulsado durante el encuentro. Tras la expulsión, protagonizó un incidente violento al golpear a otro jugador, generando una situación caótica. En otro partido del torneo Apertura uruguayo, Danubio derrotó 2-1 a Nacional, eliminando matemáticamente al equipo de la contienda por el título del torneo.",
-        "coincidencias": [
-          "Andrada fue expulsado durante el partido en España",
-          "Danubio venció a Nacional 2-1 en el Apertura",
-          "El resultado afectó directamente la clasificación del torneo"
-        ],
-        "diferencias": [
-          "Montevideo Portal prioriza el incidente violento y lo dramatiza; El Espectador enfatiza el resultado deportivo",
-          "Montevideo Portal utiliza lenguaje sensacionalista; El Espectador mantiene tono informativo neutro",
-          "Montevideo Portal descontextualiza el partido en España; El Espectador contexto competitivo local"
-        ]
-      }
-    },
-    {
-      "id": "story_006",
-      "topic": "Julia Paternain en Maratón de Londres",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Julia Paternain logró una histórica octava posición en la Maratón de Londres | Noticias | Atletismo",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWldWUXpJU1FKS0NYM1V2U1F4X3pHZTkzRkJyUmpZNEx1MUItTEZ2bmFmeGdrakpQeHN4SFpzbGlpNHZjekYtTXVTQmZDVFRQcjRKVnNsdzZyWnJqcS1uYVNfTHhGYkg2d0NNcWNjZjFyNGp5dUN2SHQydU1VaGpTc3UxdXc4NHJPSFl3cFNOS3FWTWNKRjcyZEJjM2hvU3lnNVpvRFdqWFhjTGtVUl96eVdsVFZMeVNWUFE?oc=5",
-          "description": "Julia Paternain logró una histórica octava posición en la Maratón de Londres | Noticias | Atletismo &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-04-26T13:10:47+00:00",
-          "score": 2,
-          "score_reason": "Enuncia resultado concreto sin adjetivos valorativos; información clara.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Atletismo: Julia Paternain brilló en la Maratón de Londres y volvió a hacer historia",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSzhlbEgwMklHdlZRalctcGdDRDFYa1ZfcDZaWW9PUDVrQTFPMGc5LTgyQjNDY2NyUkZzTThCSkt4MjRvTTVmanZ3OV9mb0FCTVdINzhBQ3oxNmRFYXdSam5RQXJraUJXeFlLT0tfWUhBd09FcTVlQ2JoQ0FBeDF5Ujh0Qm1za19IX0ZKT1YwMkNJTGRDOGJjcUxaMktvem1TQlBTRDg0VXFQcUV1REdBa1BobDhOUzVGa3hpVWxnVG5hWUFROVlQdUVyUdIB7wFBVV95cUxPR0UwVjVqdXJLZTQ2b1BBcE9xMlVyc0V1bEZzOVhtYWg5RkVvM3NmaGJVVndsUDh4dWpKcU93RGRINmY5b2pyTHlDSlY5NF9jMEUwQzF3TG9ac0stLVVIcktfcDdHUGNvTDFydXZEU0xnQ0pVWFNKOV9OSkR6c3dUS3l0SkJjNW40bUpEM3BTOEE3MWtWX2ZoVEY0a1pWa082azRUb25iS3VtVWhjZWtjOVhnYTdRakhUVF9oX2dEV2tnX2tpcWpyQXQzVkRob0FwYTg1cDJLaUZrZzJ2NTBjMWI1a25mZ25JV3liSjlJUQ?oc=5",
-          "description": "Atletismo: Julia Paternain brilló en la Maratón de Londres y volvió a hacer historia &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-26T12:49:00+00:00",
+          "title": "Un bebé fue asesinado en un ataque a tiros en Colón",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYzc3Y2FKbE1XMU9FVmRfNW9mT3d4Y242ejVBeThnY25CbHVvM3M2Nm5kMXQwMTRnNDQ2Q2NUemc5SFVpek1aM25iWUo2bDBGMGVvLU5WZHRsd0RiOGJkVV8xSWtob1ZDT25JV1ZqQkFSS1dvZFQ4MzNlZE5jX2pEVHVlY2ltYUl20gGOAUFVX3lxTE4wUEl1a2NYNV9OQzY5ZHk2VFhFUnd3LURSNnh5TkJ6ZXhyd3c0NmJWYWxfWE5IOV9SbkRySU5pZWZGUEp5MkNMYTY4S1c4bFFZVGVSSGkzSEdOT0NwWjdBNzdWdURTUjNRc1pZU1FiZHlZaVZ5TDNacFVCeUdDWm5XVEdrQlc4Zlhuc2dmWHc?oc=5",
+          "description": "Un bebé fue asesinado en un ataque a tiros en Colón &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-27T23:41:00+00:00",
           "score": 6,
-          "score_reason": "Usa 'brilló' e 'historia'; lenguaje emotivo sobre resultado objetivo.",
+          "score_reason": "Uso de 'asesinado' es carga emocional; 'ataque a tiros' enfatiza violencia.",
           "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "La atleta uruguaya Julia Paternain participó en la Maratón de Londres, donde logró una octava posición en la competencia. Este resultado representa un hito importante para el atletismo nacional, posicionando a Paternain como una de las mejores maratonistas del país. Su desempeño en esta carrera internacional de prestigio refleja el nivel competitivo alcanzado por la deportista a nivel mundial.",
+        "resumen": "Un niño de un año fue asesinado durante un ataque a tiros contra un automóvil en el barrio Colón, Montevideo, la noche del lunes alrededor de las 20:00. El bebé viajaba con su padre de 24 años, quien también resultó herido. El auto utilizado en el ataque fue posteriormente hallado. Las investigaciones apuntan a un enfrentamiento entre organizaciones narcotraficantes como hipótesis principal del crimen.",
         "coincidencias": [
-          "Julia Paternain participó en la Maratón de Londres",
-          "Logró la octava posición en la competencia",
-          "Se destaca como un logro histórico para Uruguay"
+          "Víctima fue un bebé de un año en Montevideo",
+          "Ocurrió durante un ataque a balazos contra un vehículo",
+          "El padre del niño también resultó herido en el incidente"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza la performance con lenguaje laudatorio ('brilló')",
-          "El Espectador presenta datos concretos sin carga emocional adicional",
-          "Portal busca generar admiración; Espectador prioriza la información factual"
+          "Teledoce añade contexto investigativo y hallazgo del auto; otros omiten detalles",
+          "Montevideo Portal y Subrayado priorizan la tragedia; Teledoce enfatiza la hipótesis narco",
+          "Teledoce especifica ubicación exacta; otros medios son menos precisos geográficamente"
         ]
       }
     },
     {
-      "id": "story_007",
-      "topic": "Muerte de hincha y competencia por campeonato",
-      "category": "Seguridad",
-      "sources_count": 2,
+      "id": "story_004",
+      "topic": "Venezuela solicita reingreso al Mercosur",
+      "category": "Política",
+      "sources_count": 3,
       "headlines": [
         {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Racing ganó y será campeón si pierde Peñarol | Noticias | Futbol Uruguayo",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQWt3MUpOd2I2Y21Ia3ptY1RYWmpRYWJFNXZ1RmIySUlEYTVMZHJKUHZNWlI2OFRhcUd6UVlFYWEzVHpqZHV5ZTRTZTZIYWxhUzY0bHVIZkUzWndsM2hydXFHaEtxa1h0Z3N0VGc3LVcwblI5bW03WDRvU2dqWVZMSTY0V0Q0LUJCSHgwUG03NWthSFNXVVE?oc=5",
-          "description": "Racing ganó y será campeón si pierde Peñarol | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-04-26T21:12:52+00:00",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Colombia: ataque en el Cauca deja 20 muertos, a un mes de las elecciones",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlpLSGxsMWhYeXJTTEhnZnFHVkR1XzRmZ3I5c2lUdWtJcXRfd21ndFpTNm9OeGs5OVlrZ2U5M18xR0UtYUVodHhDYUdaZzF5NUZIYTlvM2hfVzYybHRZekdBbmlVOHVMMURFWGV3MW9uT1RuWG9tVDBISWItVy1xLWZvSlhTYWV2TjNrelNLUEtibVpzdVNhd3VpNlBLY0tZ?oc=5",
+          "description": "Colombia: ataque en el Cauca deja 20 muertos, a un mes de las elecciones &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-04-27T12:01:00+00:00",
+          "score": 0,
+          "score_reason": "No trata sobre Venezuela-Mercosur; parece corresponder a otra noticia.",
+          "score_pct": 0
+        },
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Delegación de Venezuela pidió en Montevideo su reingreso al Mercosur",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnJnMnBDT0JqV3FZMXV0U1g1VmdhU0Z5emJlWUxJNHFSeXhMaUxFdVdfLTZQNU5TdTRrSVRfaUg3UXF2VV9uT0RINTZXT0RBZ0NiRE1Bb0JPVjV2WHNCVnZyR2YzSHVuNkM5cER0Ymtqclc3SjNTd2xnMzRkai1nOG51S1JQX3hjNlpCZ1Eyb2FkajBRNUZLNkU2S3FoTWNMMVNKSkZ0eGpKcHJ1MXIxMtIBtgFBVV95cUxQOG0xeFJzOWVFa1djTEpEWTVGbzlGeHAxclJrTWpNRFR1ak5LSk5JSDE0d2J4TGVFWmQyR0ZJS2NfVG5fekgxVTBrM00yNjFUNE9RMnY2QzBpZUNBV0hGQ1BMR1JtNzk3T2ZyTDRqSFZKQnpSQVRHeFNXckNiYTh1V0xaWG5iaWVOMzJYcnZGeVdweWxxTUJDZjZPRFNPWEttMFpFcmJadVluSkNTUllGb2RBb3Q2dw?oc=5",
+          "description": "Delegación de Venezuela pidió en Montevideo su reingreso al Mercosur &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-04-27T18:16:00+00:00",
           "score": 1,
-          "score_reason": "Titular neutro, factual, centrado en resultado deportivo.",
+          "score_reason": "Describe el hecho sin carga emocional ni interpretación parcial.",
           "score_pct": 10
         },
         {
@@ -329,32 +287,317 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Quién era Nacho, el hincha de Peñarol ejecutado por un barra de Nacional en Montevideo",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUHkyMmp2LUtEdUZJcUlYOUY5V2NWX3A2aGFCS2NIRDBEaGJUT0habVN3RG9xS1NEbEdIdzQwU1lzN0c1b3FSWDJ2ZDk1Q3NLdnZZbkpTeTEtRTVSTWFwR0NfbmdpY3hIZklEbGZZZkdTc0Q5dWFNcS03b29HNVE5SmE1ZGlEWW5iNDJOMzlYZzZQWUdUdk1FZ0pXZ05LLWZHOHhjNkI0YWVIYU04TUgxQkdzcktEaFJya056YnF3OEYzR0h5UW9rMnBPUjlJZ9IB8gFBVV95cUxNY1hmOWZYYXR4ZVdqSjdGMEU3ODNZc2tmR2hadlhDMnQ4UkdaTF9mZHBTMXlQVUpDUkdvYk1TYmpjbkVNR2xqd0I3N2FiSm0wZlIyelRLZU1TaXM4elVFZkdWZ3lmeHJHS1NJZEpWTXRLS1ptd3ZoZWQ4cEtLdGRITllJUlFVWDZMLWF4ZmphTnpLZlpKX21OY3pKV29VVjdERkp1ek0zMEJDU1RhUzdQdlF5YzJhZUlPVUNRRi15TVFIZ0NOMklmdWFJbTJfNEFxRFgtR2kwZnlLMmpSZElLbEpPZDhCclVJRU1QRFBrX0FzUQ?oc=5",
-          "description": "Quién era Nacho, el hincha de Peñarol ejecutado por un barra de Nacional en Montevideo &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-27T00:11:00+00:00",
+          "title": "“Rechazo absoluto”: legisladores alertan por eventual regreso de Venezuela al Mercosur",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVHNFVWN0YXRWbVdwZXlBVzNxRU4tTmg5c0VTX0RHeDFCc0JPZU1sZ0tBOFNZQ3RkSzVUeWZGRjNHaWVLU1dVN2VDc29mLXdQVXF3eFY4Q3pTdlh0RjN2SlBYaWREbW1icDZrSVJQZkNRYTE4ZmV6VXJXblNKM0pKeE9SSXFtMmQyWTZHTFQ2ZzVMQUJMS3pDMFhoUUlBREpLUXU3TGJhRzJHRnM1WmFYQlFGVW90TUQydG92bkRfZGdWa1dnZGdsR1lhUEtSZ9IB8gFBVV95cUxPWmxLdDF2VXZOQTVHeW14RXdKS1QwS0swZWs1SjlmVnZVZTZkMXdDb3dUaTZjbmdnUEd6d0lvSkVsQXZxUUlKdmZLVzlDMzlJbm9NQi1qV0YzQ1J3a25rMHR3SEdkcnh4S1JkNE5KX01UWTlENmZuLWRVZmZUUlY0cFJjNzlHQ0lDLU1DM3Ayal9tQjdWQ3QtZGFSYjJudzdHUVZqWURNMGtELWxUUXlpb1h6MElEZ09paUwwU09tSHU1SUs4aFBUZGpIWTQ5MnpJZi0wbE1ZVkUwaGVINkN2T1VQeVFxNG9xVlBYRHVISmhtQQ?oc=5",
+          "description": "“Rechazo absoluto”: legisladores alertan por eventual regreso de Venezuela al Mercosur &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-27T12:04:00+00:00",
           "score": 7,
-          "score_reason": "Usa 'ejecutado' con carga dramática y especifica rivalidad.",
+          "score_reason": "Lenguaje cargado con 'rechazo absoluto' y 'alertan', genera alarma.",
           "score_pct": 70
         }
       ],
       "analysis": {
-        "resumen": "Se reporta la muerte de un hincha identificado como Nacho, vinculado a Peñarol, en contexto de violencia entre barras de fútbol en Montevideo. Simultáneamente, Racing obtuvo una victoria que lo posiciona como potencial campeón si Peñarol pierde. Ambos eventos ocurren en el contexto del fútbol uruguayo contemporáneo.",
+        "resumen": "Una delegación de Venezuela presentó en Montevideo una solicitud formal para reingresar al Mercosur, del cual fue suspendida en 2016. La noticia generó reacciones encontradas entre legisladores uruguayos, con algunos expresando rechazo a la posibilidad. El proceso requeriría aprobación de los estados miembros del bloque comercial sudamericano.",
         "coincidencias": [
-          "Ambos eventos ocurren en Montevideo en período simultáneo.",
-          "Involucramiento de equipos tradicionales (Peñarol y Nacional).",
-          "Contexto relacionado con competencia futbolística uruguaya."
+          "Una delegación de Venezuela solicitó en Montevideo algo relacionado con el Mercosur",
+          "El tema genera debate o reacciones entre actores políticos",
+          "Se trata de un asunto que involucra institucionalmente a Uruguay"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza violencia barrial; El Espectador enfatiza competencia deportiva.",
-          "Uno utiliza lenguaje sensacionalista; otro mantiene tono informativo.",
-          "Portal prioriza fallecimiento; El Espectador prioriza campeonato."
+          "Montevideo Portal enfatiza el rechazo y la alarma legislativa; Caras y Caretas narra neutralmente",
+          "Portal usa lenguaje reactivo y emotivo; Caras y Caretas es puramente descriptivo",
+          "Portal anticipa confrontación; Caras y Caretas solo reporta la solicitud sin proyectar consecuencias"
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Orca varada en Punta del Este es eutanasiada",
+      "category": "Sociedad",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Una cría de orca varada en Punta del Este movilizó a rescatistas, guardavidas y Prefectura",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX2pScU92Y1dTLS0wZ05lNURXY2Jtb1ZQcnJZcnRSUXk2OVRGQmRjUVhUXzNGakVManVfN1ZiX1BKVUF2alk0ZjYtSHk4Wngtd2tSR0paRUtDelhNbDNTd1NtOHpmOHhwUzgtbTBkOXE0SG1Bcnd0NHRSWV9DWXFUQ3BfQUFzbzEzX052cEJyUU5jRlNCUzg3OFlid2JONTBlS01tR1dRYTNsVGRwSjYwb3Mzdlh2X213ekhN0gHAAUFVX3lxTE5pSzlQajFWYWU1aWNMelJjX0g3eC1vRGxlbGotd2FfZXBySzJWUGx2eHRieXJWdEw1TjhEYlY0ckgzaXdsc0w1ZjExZkNPclFCMERWLWVXUkRBT1hYWUZsTVBsdXdGQnhzX2dtUzVPQnY2RFlIYVU2SEVuenY4RFNuSHM2Q09zSDZOMEhUWHlBYmRkTkt2TW04SnlRV0x2cTVYb0FtVlhrejl6dEtZN09qY2VEYmNJMkd3YzNSa0x4bQ?oc=5",
+          "description": "Una cría de orca varada en Punta del Este movilizó a rescatistas, guardavidas y Prefectura &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-27T10:42:00+00:00",
+          "score": 1,
+          "score_reason": "Neutral y factual, enfatiza solo la movilización sin juicios",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Se hizo lo que se pudo: practicarán eutanasia a la orca varada en Punta del Este",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcnlGbVlOMkZ5Q0xfM3VILVdMQ0RHOGZ2YVVjeGxoN2FIUW9xLU1WMHlHdGNkdnBweWNSLUV3c1hJT0lobThYSHVfd1h5cmNRNzVpMGxpdnJsTDE5ZW55NmItaThJNVN0bWd4ZHpWa3BXR3NkT1BJUGVZWHJwOHBFakRxUVpzZHFOLTFrb0YwcXhVV3hhQkpJaWQzd2pHd3hwX3NsNHpGZFdqQUt0dVc5amlnMy1RbjNvN25DU2NheHJfSUlKMlE?oc=5",
+          "description": "Se hizo lo que se pudo: practicarán eutanasia a la orca varada en Punta del Este &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-27T13:36:00+00:00",
+          "score": 4,
+          "score_reason": "Suaviza la acción con 'se hizo lo que se pudo', tono justificatorio",
+          "score_pct": 40
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Sacrifican cría de orca varada en Punta del Este",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSXljUFRPNjdtSkdFeVc4cUJGMFBqYUZ5ZERMOFNRMHJyNTRNbHFHem1hV2EwOHlabkNhZGVqU3J3aU9rUkphV2JmUTNWYXpLZzJDNmIwUS1md2ZuaGZYVTB3bVVhbkpxTEt5YUphOE5kX2JzUXNQaThCYlI2RG5FVjRQQ0lQcDRsb3pMdGNwZ1M?oc=5",
+          "description": "Sacrifican cría de orca varada en Punta del Este &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-04-27T18:47:30+00:00",
+          "score": 6,
+          "score_reason": "Usa 'sacrifican', término más emotivo que 'eutanasia' o 'practicarán'",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Una cría de orca quedó varada en las costas de Punta del Este, movilizando a equipos de rescate, guardavidas y autoridades de Prefectura. Después de los esfuerzos realizados para salvarla, se determinó practicar eutanasia al animal. La decisión se tomó considerando el estado del cetáceo y la imposibilidad de devolverlo al mar en condiciones viables.",
+        "coincidencias": [
+          "Se refieren a una cría de orca varada en Punta del Este",
+          "Mencionan la intervención de autoridades y equipos de rescate",
+          "Confirman que el animal fue sometido a eutanasia o sacrificio"
+        ],
+        "diferencias": [
+          "Montevideo Portal justifica la decisión; los otros solo la informan",
+          "Subrayado enfatiza los esfuerzos de rescate; otros evitan ese detalle",
+          "Grupo R usa 'sacrifican' mientras Portal usa 'practicarán eutanasia', con diferentes connotaciones"
+        ]
+      }
+    },
+    {
+      "id": "story_006",
+      "topic": "Adolescente dispara arma aire comprimido en liceo",
+      "category": "Seguridad",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Una adolescente de 15 años llevó un arma de aire comprimido a su liceo de Salto y disparó contra sus compañeros",
+          "url": "https://www.teledoce.com/telemundo/policiales/una-adolescente-de-15-anos-llevo-un-arma-de-aire-comprimido-a-su-liceo-de-salto-y-disparo-contra-sus-companeros/",
+          "description": "En el episodio en cuestión “no resultaron personas lesionadas” y “se procedió a la incautación del arma de aire comprimido”, indicó la Policía. La entrada Una adolescente de 15 años llevó un arma de aire comprimido a su liceo de Salto y disparó contra sus compañeros se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-28T11:39:58+00:00",
+          "score": 3,
+          "score_reason": "Más informativo: incluye edad específica y aclaración de ausencia de lesionados.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Una adolescente llevó un arma de aire comprimido al liceo y disparó contra sus compañeros",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPczhpUzJQbk5QZ2R3dUtlOFp2enVzeWxYWkI1UTc3NTNFUFlsOFVtX3hLc1Jrd09LdXVQNlNrZU1ZYnY1bFhtbm03QjBYR1cwbmp1WjBJV2ZuNXgxNGRxYW5fdm5xRkdVQzFrMmxmbnVVeXlwVUN0VG1adlI0dm03XzRITGphcWxEWlJ0Y2VjQ1VmX3hmRC03R3J1Rmg0MFZvcHJNSEV4Q0NmdTZJQ0k5VnZzQkc5TXRRazVEUncyV0ZsUTIzcWoxb3R4c2tyNWxVSU9N0gH3AUFVX3lxTFBMajlyWUsxU2lEa1ROUUFNTkt6TC1tWkpTb1hrQXN4bGxvNHNYSWhINGxSNlpTUnJKT285Ri1tU19xai1rZjdTMm80bmgwaFprR25PWGNsZjNsTUpuMHhQZS1oV2dRZjVlQ1A3NGRDR2VjVFlrekhTQmNYVkI5WU5USHJPSUNnRVR2MFdCR1JWRlJFTDFUb0RmR0lEel94NlRRdW9BRndnb0xZSkFnNmRTUnIzOEI0bjFrdGd2ZUVMc01Tdnp1ZjlhSkhpZm15eXhiWlRfWUF3cE9VYlJ0V2d6NUdkb2ZaRlpKRXdqUVNxa1JkTk4yd2c?oc=5",
+          "description": "Una adolescente llevó un arma de aire comprimido al liceo y disparó contra sus compañeros &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-27T21:02:00+00:00",
+          "score": 4,
+          "score_reason": "Información completa pero verbo 'disparó' genera leve dramatismo innecesario.",
+          "score_pct": 40
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Una alumna ingresó con un arma de aire comprimido a un liceo y le disparó a compañeros en Salto",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVEJicE56WHdkbUZxbGdIaTZyWTBNQ2hKODZxNGtvR05TZ1l4ckk1Vl9mbUV1ajc4N1N6bWRzNnhmMzBOa1E2Z1c4UGtoNkNOb294b1BQOWlTN0EtcWdFd3NCeHp5MkZXSTFkZ1ZvSXE0U09CNFhMVjctN3BkYXBGRm1xR3ZXZXJQWlFQMlBUM1dpSktGdGpaRmxBODJTUnJQbDg0WTRMV1NBSjBIUlFfVXg5TXg2VHdGSzVN0gHAAUFVX3lxTE1ZY2tYUjd2RmZrUUVpZHlwQnAyTWdkN0dBWmhkR0hzSUc0X3hwaEkzN2xfSG1aTDVaYTl4Q2V5eXZjSzlIdVlTZnJ5QXhCeWJpYWRxYU8yajhsVExlUklzRS13Y3NVWHNWR2xxRmVoLXRTUWlmZ3lkdFliTGNEdGxrUVNvMHBrektoengzT2trOFdSVlRxWUE3aldXZUJ2eV9tbE9TSHlSREdQLTA5bVZQXzlpN3NCaWJzWjY4MnNZcw?oc=5",
+          "description": "Una alumna ingresó con un arma de aire comprimido a un liceo y le disparó a compañeros en Salto &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-27T22:03:00+00:00",
+          "score": 4,
+          "score_reason": "Redacción similar a otros; énfasis en 'ingresó con arma' subraya lo ilícito.",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "Una adolescente de 15 años ingresó a su liceo en Salto portando un arma de aire comprimido y realizó disparos contra compañeros. Según la Policía, no hubo lesionados y se procedió a incautar el arma. El incidente fue contenido sin mayores consecuencias físicas para los estudiantes involucrados.",
+        "coincidencias": [
+          "Una adolescente llevó/ingresó un arma de aire comprimido al liceo",
+          "Realizó disparos contra compañeros de clase",
+          "El hecho ocurrió en Salto"
+        ],
+        "diferencias": [
+          "Teledoce es el único que especifica la edad (15 años) y aclara ausencia de lesionados",
+          "Montevideo Portal y Subrayado omiten datos sobre daños y consecuencias precisas",
+          "Teledoce adopta tono más equilibrado con información adicional sobre incautación del arma"
+        ]
+      }
+    },
+    {
+      "id": "story_007",
+      "topic": "Racing campeón del Torneo Apertura",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "El festejo del Racing campeón del Apertura, en plena ruta, tras ganar en Cerro Largo",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPXzNucGhXQkZsZzdoWEV1MjQyWFBKMW5CX013WFJNaFdxZm1aTGNSdnBnMzFndXJBYmdFZ2otTkVJVlIzRG1nc0t2czBaT1IxMnp5X3MyY3dzby1yTFFYeHA3UHM2ejdKNlhRQWY0aUs5X1RXamZOZmxlZzFlWWg1bWpLb1FNTlAyelZrTlVmck54ZnRYWVpqdjlHSng5UlFHcnBtTlRVdmpFd1E1LUJUeWZ0TXBZTnBCWFhhS0ZQdWowd0p0U0NDUzhn0gHuAUFVX3lxTE1feW8wekRiVERDTHFWUG9WZjhaaGdXaThublc0WmNPSkp2M0VRWE5qSUxxcjItb3hjNTg2QkRaMzEtLWJUdzNyckVkMDZuNWxNQThoYzRNOEh3QTVTR0VpSm1lZ2JqUFBjMnVUQjZiSkZaSEd0RlI5aG9zLThJMjZ4UENEQTROZkQ1bnJ5ZTFRWWJqSm5NTTRZMEZWWXZSUGxkTG1rQk52cFUwdmdRQnNXZjFIQjc1UkM1Y2l2d3ByTXJOeGpOMnhGRTNUT1hKa3dkbmRUQ2FxOVE2Uk1pZ01UOHZ4QXNuMVN1N3Z5TFE?oc=5",
+          "description": "El festejo del Racing campeón del Apertura, en plena ruta, tras ganar en Cerro Largo &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-27T00:48:00+00:00",
+          "score": 2,
+          "score_reason": "Información directa y objetiva sin carga emocional o énfasis particular.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "El exacto momento en que el plantel de Racing se enteró que ganaron el Torneo Apertura: iban en ómnibus por Mariscala",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWFVLUjE5YTRBcG9PRGdPTXN5SnBWeWlCamM2M1UxTDh2R1JsVWlXVXBmUWRXUE5TclhSaXBzTnRkVDQ2eS14OUZ0WVlGQWFUdGttblhJOGJzVXJOZWxyWndONjlRMjQwR09haHhzamkydXdIYVZ4LUtMY1puWDhPajByTnN6QzBzTzllelpqX05YWE1IUk53bGEtQW1wTlFxX0U4R2xWZTZSWTBXMnlvb3pkY0J0dEd4YUsxdHlMYVduQWo5R3VrdERkcHA4aEdJdDhaV0R5M1Raekc3NFZsNWhiM1UzQdIB6wFBVV95cUxNMVRFQjBIcWQ0ZjBLZExEckRVMGlWdGRLcC1JZzRrYU1rQ0JDVGNpVlh6VGxkcV9QeVpzTU42UVNiZlRVeXBBRTZ0NTNpY2dhRkhJTDJlYzhKZURnemNOa1FDVDFlSm1XTVFsdmxvMi1iVVpiZk9WS1Y0OHdsQUlONkhjOEdhTDVTaGptYjZUT1BsZnlNR2NJU0JsRGNUU1F1U2tRdXcyMEpuZ1VyVEtpNV9oUlpiMGVLMFl1ZGFfOC00ck5jOFFDNjdueHRFQ3FiTzJYTGxRenJuWG83aE1RR3dldkV4RXozX0gw?oc=5",
+          "description": "El exacto momento en que el plantel de Racing se enteró que ganaron el Torneo Apertura: iban en ómnibus por Mariscala &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-04-27T02:21:01+00:00",
+          "score": 3,
+          "score_reason": "Énfasis en el momento y lugar específico, ligera dramatización narrativa.",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "El plantel de Racing se enteró de su victoria en el Torneo Apertura mientras viajaba en ómnibus por la ruta, tras ganar su partido en Cerro Largo. El equipo festejó el logro durante el trayecto de regreso. La noticia se difundió mientras el equipo estaba en movimiento, generando un momento particular de celebración que fue capturado por los medios.",
+        "coincidencias": [
+          "Racing ganó el Torneo Apertura",
+          "El equipo se encontraba en ómnibus durante el viaje",
+          "El festejo ocurrió en la ruta tras el partido"
+        ],
+        "diferencias": [
+          "El Observador enfatiza el 'exacto momento' de enterarse, dramatizando la simultaneidad; Montevideo Portal simplemente describe el festejo.",
+          "El Observador incluye detalles de ubicación específica (Mariscala); Montevideo Portal menciona el contexto del partido en Cerro Largo.",
+          "El Observador construye una narrativa de descubrimiento sorpresivo; Montevideo Portal presenta los hechos de forma más descriptiva y neutral."
         ]
       }
     },
     {
       "id": "story_008",
-      "topic": "Coates critica condiciones y expulsión en Nacional",
+      "topic": "Identifican responsable de homicidio en Kibón",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Autoridades identifican al responsable del crimen ocurrido en Kibón",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSDEtUmt0YVFXYkVZRVpJeHo3NDRBRkdDUnBILU9SdTdBVEMxczNCdksxeDYyYlB0cnlfczBaMlpDQVJmNDZjMG13MmdSLWtMMXFjVjlxb2dfU0RWM0dnczFEMXdEUEdRTFdXOHdBWTVra3VKNkU5b2V2UkxQQ1J0RE1PSGFDZXNrV1hTR2tvSzBvQ2ZxYXdIQkFQa0dQa2ZyaFprT3ZtZHJpZw?oc=5",
+          "description": "Autoridades identifican al responsable del crimen ocurrido en Kibón &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-04-27T16:46:20+00:00",
+          "score": 1,
+          "score_reason": "Lenguaje neutro, informativo, sin carga emocional ni detalles sensacionalistas.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Identifican al asesino de Nacho, hincha aurinegro: quién es el barra de Nacional señalado",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWDFFVWdCRlpNZmlSSktuLUI4cUJVVzFpbWY5WWo1Q3JTR2pHaTRXdXhhUjZRWVdXSjhCZDN2alB5VEZleERuWW9EbjVGeG0zVDFYSVd3T2hMa2pndkwzb0xKQWhLVzU2RTFISF9lSVVVN0VtVmdJVzNNdGtKVmotRjFLVkZ2enExeWYwWFQtV1JQbVZmc1lGVTRQMVZybVRTcTAyQldQdktqQWJpY25Kd3I3UlNsZVpUYmFsRmJXY0FrZzYxanIyWDFHSHRkcDla0gH0AUFVX3lxTE0xeHZuZzhEWHhQRmdnNTdRemkzQnJrLXpxVkdsV0RVbTM4NkRRanR4RGxCdGxEbnZLWDVlUzJXMGtqbG5wZTlDQTRXRGdHRTlkNDR0VDQ0T0oyeFFHcTJvTGFfLXpQMUNtTzRDMWU5QThhVzJYRElHeEpZdWwtTTJQSk9GbXRXWlJZUVR0UTlJcmlrVE15LVRON0lZNVN0UDBzajFlWnlYUzFrQVdhYWNGNWduSy1oRDZwczBGTm13S0dVOHktNjNMMUR2R0NPcDlUWXBzTGJ6VVlxTEtXc3VsVlZUZmR0empsZl9vTl9IdjY0dGc?oc=5",
+          "description": "Identifican al asesino de Nacho, hincha aurinegro: quién es el barra de Nacional señalado &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-27T15:42:00+00:00",
+          "score": 7,
+          "score_reason": "Énfasis emocional con 'asesino', identifica afiliación política de víctima.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Las autoridades identificaron al responsable del homicidio de un hincha aurinegro ocurrido en la zona de Kibón. Se trata de un integrante del grupo de barras de Nacional. El caso ha generado preocupación en torno a la violencia asociada con enfrentamientos entre grupos de simpatizantes. Las investigaciones continúan para esclarecer todos los detalles del incidente.",
+        "coincidencias": [
+          "Se identificó al responsable del crimen",
+          "El hecho ocurrió en la zona de Kibón",
+          "Participó un integrante de barras de Nacional"
+        ],
+        "diferencias": [
+          "Montevideo Portal personaliza con nombre 'Nacho' e identifica víctima; La R omite detalles",
+          "Montevideo Portal usa palabra 'asesino'; La R usa término neutro 'responsable'",
+          "Montevideo Portal enfatiza afiliación barra; La R mantiene tono meramente informativo"
+        ]
+      }
+    },
+    {
+      "id": "story_009",
+      "topic": "Violencia y crímenes contra personas vulnerables",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "\"Es absolutamente repudiable\": Marcelo Abdala alertó por violencia contra los repartidores",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeFlJblp0Z1hpYUI5ZG9DSFBuQWNaYnFyLV9kcDQ0V1I0bWsxdmJiNUxkWXI0U1ZGRzFXRUpucjlYaDFTUHBjV2FzTVkySXJkNGlRdzFuTU1xVWd5RGlVLU9xZjJCclBrcVZNa3RFa25obzkzV3d5TGlJNmszRURDVks2YjN5SjNjTnNTZlF0aDJDaktRalRkc3gxLUJtSUJhWWtHQzFkSW5sZ3RFQktvWE1XR3M2TklwRVV4YUxtX0dnOFVtU2NwdmhPYXHSAdIBQVVfeXFMTVo3QnhZZ2tXQ2RyTmFHMDZSWlhHZ1dkNm5XWlpsMGJ1QjFUZVpnTU5KNFlnSnRBcWJFYzRxWmFibHVRLTRmemJEWThqZ2RDdmhPV21ScWJMX3VQSDVzVFJvQmRFdEc2eTlUSVdpS2dfT0RwZHZBNV9mTUJpcmRGWWFkS2NsaTZaSm9vSTlHb2pLWEU4NEJTR05pVjRUVU15Y0MzeUJ1WllLSGg4Qm1RZW5SNnJuTXhTRmJ2T19hQUwyeFJRQm5FT2IzM3ZMX3lRSHVB?oc=5",
+          "description": "\"Es absolutamente repudiable\": Marcelo Abdala alertó por violencia contra los repartidores &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-04-27T15:00:00+00:00",
+          "score": 5,
+          "score_reason": "Utiliza palabra 'repudiable' que carga emocionalmente la noticia.",
+          "score_pct": 50
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Imputado por matar a su pareja: dijo que “la aplastó sin querer” en un encuentro sexual",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaFZHVTdvbmZDVXhYSk9OMWlhZzgtWVNtVXBsWkpfV21KbHhpRW1GSGhRcUNDVGIxaWJ4M3hwUjBrbnpDWmU2blRFUi1iU1V4U3h5RU1wQTdGSnFEaXM0R2xRMW5uRWNzR09XYUM0eFF1elNOajFIZEE2bFNXOHdHbHZLYXVvQnpzb1VMOWJhRkZUcjVLQ0ltVjU4NmZEV1FzT0NWRF9aXzB4NldreG1KR3cwUGUzQTBHRnhLaXdHeWkxSnhLT3N3ejY5STbSAfABQVVfeXFMTTZ4c3I5eHJ3dEJBYWZPMXZ6MVRmRUJMaFRlelRyVG53WUZHNFpYbHJhVlhNcjEzZ2EwcjJBS3FlRGNRMTB2eDRZamVLMG96V1hGUUZOM0RKVEpoODdyOVF5VGtzWWRWMDZkMjhCNTkwY2Fvc3IyU2RvUExvVHlmMUpuQ3pKa21lM1VkVjVKbC1ISWVlb05LYUp1am9yZVRoLWZ6MktnUHFYS3ZfVXpCU3FpS0xqdERpeUNJNkJXWE9KMVFzaTREVjN3TmZ4cTEwWERsMFhDNURkMVFNQmtMM0dDaGpfaEdPVUNPSl9xUEg2?oc=5",
+          "description": "Imputado por matar a su pareja: dijo que “la aplastó sin querer” en un encuentro sexual &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-27T20:01:00+00:00",
+          "score": 6,
+          "score_reason": "Incluye declaración literal sensacionalista sin contexto suficiente.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Se reportan dos hechos de violencia en Uruguay: un caso de muerte de una mujer durante un encuentro sexual donde el imputado alega que fue accidental, y denuncias de violencia contra trabajadores repartidores. El titular de Caras y Caretas cita al funcionario Marcelo Abdala condenando la violencia contra repartidores. Ambos casos reflejan preocupaciones sobre seguridad y violencia en contextos distintos.",
+        "coincidencias": [
+          "Ambos tratan sobre violencia contra personas en contextos vulnerables.",
+          "Presentan declaraciones o posicionamientos sobre los hechos.",
+          "Abordan problemáticas de seguridad ciudadana en Uruguay."
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza caso específico de muerte; Caras y Caretas aborda violencia sistemática contra trabajadores.",
+          "Portal usa lenguaje directo de acusado; Caras y Caretas cita autoridad condenando conducta.",
+          "Portal informa sobre caso penal individual; Caras y Caretas denuncia patrón de violencia laboral."
+        ]
+      }
+    },
+    {
+      "id": "story_010",
+      "topic": "Logro uruguayo en álbum del Mundial en Londres",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
@@ -365,13 +608,13 @@
           "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.espectador.com",
-          "title": "Sebastián Coates: “me pareció que la roja fue desmedida” | Noticias | Futbol Uruguayo",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUk14UmtnbGlBMG9TZHNlU1lYNVdaUFV0cmRhNkl3M0U5UEdBLUE0TlJiWTRPT1BqYmMtazVFOVdHWGhwVXNOVV9KcUJCTEt6MTVXenZOY1Fic1EzZEdqQ2pVUWJJa1c0cFNfaU1iMWRuUTRkYmdNTVFwaUQ2SEpLakNxSVg5Ym1vZndrVGl3cmxqTktESS15TVp0ZkRmd0E4WWc?oc=5",
-          "description": "Sebastián Coates: “me pareció que la roja fue desmedida” | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-04-26T13:26:08+00:00",
-          "score": 3,
-          "score_reason": "Prioriza la expulsión, lenguaje más directo y neutro.",
-          "score_pct": 30
+          "title": "Lerner: “En pocos países se vive la pasión por el álbum del Mundial como en Uruguay” | Los Mismos Locos | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSkg0UnRDVDdGUjJCbUcyMkZ6MnRNQ0l5WDdHWVI1b1NTVEh6Q1BETm9GSFB6OTN0aGRITDVPZ3VQdTFkTEVuVXhScGRnNmRaQ0hYX3NLNXFKLW1FRDY1b2x0Zk1uY2JDaXVHb2xNd3lGQUpSZm9yOHpzUkoyb0Rkek1FZ25EelJ0UUZ0Q1hjUUs4MGhyVzlQZjJ2Z3NSRzlRR3NXZGU3MUJCZ0NqZ1V3YVZreHF3UGs1V3RPQlhBeUgxdnhvdUZuNk9B?oc=5",
+          "description": "Lerner: “En pocos países se vive la pasión por el álbum del Mundial como en Uruguay” | Los Mismos Locos | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-04-28T01:19:46+00:00",
+          "score": 2,
+          "score_reason": "Enfoque en declaración, menos carga emocional, más informativo.",
+          "score_pct": 20
         },
         {
           "source_id": "montevideoportal",
@@ -380,35 +623,50 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "La crítica de Coates al fútbol uruguayo por lesiones en Nacional: “Acá hay canchas peores”",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS1JRZTBLWkdndmtqVHctblBFT1lRZGJteDEwUGhaaGhBWW5xbEVQVm9rOGRrRVpUdi1aNDdocW0wNERqZUVOTmdvZUhUemtKY2Z1TW5ETUpReUhaT3RzRDVxZGp0SFhIWGF4WGE0V04wZl9hMzd4STQ5UGhPay1nZWtxdjFkQzNLMEN1SXpHNF9lamVQQkRxRnZNWlJLRmhyZW5DVDd6NER5MkpPSzBNXzBLcm8xTC1DSlZtT21wLXFlX05zczIzRktvYUo4TEdxYjFn0gH3AUFVX3lxTFB0NlZxekFwSTZvUTFLLUNGSXhONUZaOWhfMlRMZXM4RWZsRlVfczhwTEdPcHBicFdidGRsRUlQaXotYWNId0Z1V2o1OVZnN1ljNURFRzJBbjZMNm1TX1AwdDRmX2VFU0tYWTNIMXBsZlNjN2liVTF1dlBpdm4wNF9GUXRSSUZkMUM5ZWNWMVV4cW4xcmc4bGtoM1RzX2lJV1E1X3ZjR25sYmxYVHlHMjRHSHRtdmp3VjRKbVdXd0xteW9QQWh2ZVdjS3lhWHJyV1VxWEROaVlIbTh4RS1kUndNZG5wZjhMVTgySVMydmFncERJbHdNRkU?oc=5",
-          "description": "La crítica de Coates al fútbol uruguayo por lesiones en Nacional: “Acá hay canchas peores” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-26T12:08:00+00:00",
+          "title": "“Vamo’ Uruguay”: Paternain y un mensaje al público celeste tras hacer historia en Londres",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbEVvZnlESXRjanNzS3h0SDB1VlhCZUw0c0tURUhZVkxLUkJJaHV2VGZvcWUyN0xBODVFVEQ2dHNNX3B3UkV4WWpWVWlCelpwemZuX1R5SmNkb1BydjNZODEtVmdhR2Fqa2Q3VlU2UHFmXzVkR3JBRkxzWWZ5c2o0RTRNTEZxNDE0Z0poSkpaMUVKU2tqRjZjSXBublNRRjQ4LUwzUTUzU0g1ZnJHVXR0TnBDdE9OTFhVSmN4TWwtWnNNcExhRk8tRDdlWjZqbWdD0gH0AUFVX3lxTE9WcmF0WEJsU0FRN1dKbjUzMlktM1dnRVlPMG1DUXVoUXhkYWRhSDB3RmoyaS1rZXZlaUQ3YVdjaDRoQm1xS1FOakJSeUxlZko3NUNfaEw4Zjc5UC1hY29iUFV3Q2tBVjBCQnFKWlpGdHNiNFlSZ0VMN0FRbGV3X0ZIWEMzNldhTWFkdzFRbXRMOGZ4TldoZG9hYkg0WmIxZ3Fmc09ZNEZsYXpkN0lOUTd3NDRrNmdKaEJ1S0Y2emlDaHUtZGlrYWRIN0NWRDQ1WXFJdDVpeUtvZHpnNEtwdXZXaUNZZDJSZWFQS2t3NUhpY3hYdFA?oc=5",
+          "description": "“Vamo’ Uruguay”: Paternain y un mensaje al público celeste tras hacer historia en Londres &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-27T18:00:00+00:00",
           "score": 4,
-          "score_reason": "Enfatiza las críticas sobre canchas, omite la expulsión.",
+          "score_reason": "Lenguaje coloquial patriótico, 'hacer historia' enfatiza magnitud.",
           "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "Sebastián Coates, jugador de Nacional, realizó críticas sobre dos aspectos del fútbol uruguayo. Por un lado, cuestionó el estado de las canchas del país, mencionando que hay superficies en peor condición que la del estadio. Por otro lado, opinó sobre una tarjeta roja que recibió durante un partido, considerando que fue desmedida o excesiva. Ambas declaraciones reflejan su inconformidad con diferentes aspectos de la realidad del fútbol local.",
+        "resumen": "Un hecho histórico relacionado con Uruguay y un álbum del Mundial ocurrió en Londres. Paternain realizó un mensaje dirigido al público celeste tras este acontecimiento. El evento generó repercusión mediática por la pasión que los uruguayos tienen hacia los álbumes del Mundial, fenómeno que se vive intensamente en el país comparado con otros lugares.",
         "coincidencias": [
-          "Sebastián Coates realizó declaraciones críticas sobre el fútbol uruguayo.",
-          "Las críticas se refieren a aspectos específicos del sistema local.",
-          "Ambos medios reportan opiniones del jugador de Nacional."
+          "Ocurrió un evento significativo vinculado a Uruguay y el Mundial",
+          "Paternain tuvo rol central en lo sucedido",
+          "Existe fuerte conexión emocional de los uruguayos con este tema"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza la crítica sobre estado de canchas; El Espectador prioriza la polémica sobre la tarjeta roja.",
-          "MP utiliza descripción más contextualizada; ES presenta afirmación más directa de Coates.",
-          "El enfoque de MP es infraestructural; el de ES es disciplinario."
+          "Montevideo Portal enfatiza lo histórico y apelativo; El Espectador reportea declaraciones",
+          "Uno usa tono coloquial patriótico; otro mantiene registro más formal periodístico",
+          "Portal dramatiza el evento; Espectador contextualiza la cultura mundial uruguaya"
         ]
       }
     },
     {
-      "id": "story_009",
-      "topic": "Cirugías de jugadores de Peñarol en España",
+      "id": "story_011",
+      "topic": "Juan Rodríguez lesionado en victoria de Cagliari",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Italia: Juan Rodríguez salió lesionado en el triunfo de Cagliari Calcio sobre Atalanta",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSFV5bm1KVS1lSl9ZdmR5UC1rMEVkYVU2SURrem5sLXdHWnJHNGEyM21JSlNCMV9QZDlQR1FFQjBlTWs4eFV5cWMtVXRzXzBxcU5lUnVibDJSTl9QcFZiUlpBSTVoRFdjTXdIWWp3NmJRcTJHOHZyMFRLNkVXRlFRSXQ2ZkJPcVppUGtyY1dhaFZyc0U1SXBnMWVPaXZGNkJLdXZjekQzbkFad21XOTNrbEtMdUVFeTJhMFRkaDV4bG8yTDRiTUdGdE43dkZfd9IB8gFBVV95cUxPRy13UG1Pdmp6cnFsUGp4ekhfR21KZTFvZU11dEN3bWdUUWVlVTgxdEdPQjlMMFRNYmNPZEVjcVVRVWZ3ZXlQVnc3enZuNlFlYWF6ejVrVFp0eUI0MkZVX2haTHRwSXBDTTB5djBncHZqdERmellIcU9TdVAyaXNWRjBpa1FQWEpoWUpoNVdCeFRnWEI0LXZKUXFTWk1HZVBLZ2hlYVVwYWw1bjFFVV90RkgwMDJOWkJSeWREZ29VdzAzdmkxR3JkQmJDdE54ams2eUJ4Wk96MzlsUVN3RUJqb3ZEb2tsVGoyT2dFMUt1SFV4Zw?oc=5",
+          "description": "Italia: Juan Rodríguez salió lesionado en el triunfo de Cagliari Calcio sobre Atalanta &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-27T22:10:00+00:00",
+          "score": 1,
+          "score_reason": "Titular informativo directo, sin adjetivos ni énfasis emocional.",
+          "score_pct": 10
+        },
         {
           "source_id": "grupor",
           "source_name": "Grupo R Multimedio",
@@ -420,146 +678,29 @@
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBZk83bWtQd294bUdDeDRkVGxwcGZuaUs2UVhsZFhKU2U2UlVranhvaXlEcEtUdEZOUWRnMnRpVEJUcXE0YnYwVGY0ZURHR21NSkttN0h2M2pQNWdxd3N0dnptdjJ5bjBLZjJJOXI1c3gwZWdsVTN1SWR3?oc=5",
           "description": "Gerardo Santiago Ruiz Lobariñas &nbsp;&nbsp; Diario La R",
           "pub_date": "2026-04-27T03:10:55+00:00",
-          "score": 2,
-          "score_reason": "Solo nombre de persona, sin contexto ni carga emocional evidente.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Ruglio sobre cirugías de jugadores de Peñarol en España: “Por algo el Real Madrid...”",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZTl0RVJJMjlHTGY4a2hNVFdwcDNaNGdxV204LUZVMFVfTkYzUmdKLWdJMmlHUkNlX1dQQTAzTnRqU19qTDVHNmZvU3ctU1JYQThLTXBhcm9XOVBjT2dRcjk5VWEzem9YYXRXWG9VWWdzakJzaXBaUVU5VGVEWFJSZHVvdEJNeExYbnF4Mm1aZi13NWE1blgwTXRaNWhsUVB3Q0lYNzN2OVFfOUpHVlp3ZS1SaVp2RDc0SXNvZDhFak9sTlhtajZnd09n0gHuAUFVX3lxTE9GeUZOSEVFX3BWX0lRR1djaU9JelBzUkF4eTFiaTNidHRFbmJ4eGhORWlIb1RCclBhVEVNT1JhZWpIM2lXSkVSdThWYUJ5V2ZmbEpXRGplMFo5VmZKcjM1RVl4MXBfMkVuTTZmdDBIQkM0cXY4dUU3OUFBNlRhTHgza3RZSklOYmxKUFplbHdIWXdjOWtMMzdzcHo3RnM2elB1bmFnYTh2NTVzQ0wwakc1UWFBM3BORm9iS2l2bklaalh3RFlXby03aGFtQm1NZ0tzX095c00yOG1BYVFJQ25zZENUeFZ0dExKdlNodkE?oc=5",
-          "description": "Ruglio sobre cirugías de jugadores de Peñarol en España: “Por algo el Real Madrid...” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-26T18:34:00+00:00",
-          "score": 4,
-          "score_reason": "Titular incompleto con cita entrecomillada genera curiosidad innecesaria.",
-          "score_pct": 40
+          "score": 8,
+          "score_reason": "Titular con solo nombre sin contexto, confuso y descontextualizado.",
+          "score_pct": 80
         }
       ],
       "analysis": {
-        "resumen": "El presidente de Peñarol, Ruglio, se refirió a las intervenciones quirúrgicas que realizaron jugadores del club en España. Ruglio justificó estas operaciones mencionando que instituciones de prestigio internacional como el Real Madrid también recurren a estos procedimientos en el extranjero. La declaración busca explicar por qué la institución mbohemia opta por realizar tratamientos médicos fuera del país.",
+        "resumen": "En un partido de la Serie A italiana, Cagliari Calcio venció a Atalanta. Durante el encuentro, el futbolista uruguayo Juan Rodríguez debió abandonar el terreno de juego por una lesión. El defensor fue reemplazado antes de la finalización del partido. Se desconocen por ahora los detalles específicos de la gravedad de la lesión sufrida.",
         "coincidencias": [
-          "Ambos refieren a declaraciones sobre cirugías de jugadores de Peñarol",
-          "Menciona a Ruglio o autoridades del club como fuente principal",
-          "La noticia vincula procedimientos médicos con el fútbol profesional uruguayo"
+          "Ambos abordan un suceso relacionado con un futbolista uruguayo en Italia.",
+          "Se refieren a un evento deportivo en la Serie A italiana.",
+          "Mencionan circunstancias que afectan a un jugador nacional."
         ],
         "diferencias": [
-          "Montevideo Portal destaca la comparación con Real Madrid para justificar decisión",
-          "La R usa enfoque más minimalista, solo identificando al personaje mencionado",
-          "Portal busca contexto internacional; La R ofrece información básica y fragmentaria"
-        ]
-      }
-    },
-    {
-      "id": "story_010",
-      "topic": "Wanderers ganó a Peñarol, Racing es campeón Apertura",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Nacional venció 98 - 94 a Aguada y le quitó el invicto de local | Noticias | Básquetbol",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMnFhOF9kTEZ5T0FWV1lwTFhhbkpBVlNuUEg1cHZISWZLSXhFWVNUYk82WEI2cGNnTVR2bTd0TmtGc0xvYURLZC1FVC1RSlo5RXpaN0plR3FzdUo0WnNLSUI4a0FxZVhQWGxEMU5kUm0zYndpS3hYRnRrSHh6R3BsdXRqNm12NzNnWFFjRi1UUmFOV3R4LTdCejBpSTV3aGhod2QtRUF1NXM?oc=5",
-          "description": "Nacional venció 98 - 94 a Aguada y le quitó el invicto de local | Noticias | Básquetbol &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-04-26T13:02:16+00:00",
-          "score": 3,
-          "score_reason": "Relato neutral destacando logro de Nacional sin carga emocional.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Apertura: Wanderers le ganó 1-0 a Peñarol, que sigue en mala racha, y Racing es campeón",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT0J2VG0xSHQ1dVp3QVZNbGJOUjdZbGRHS3BuZ1FBWnlKbTcwejZ0eVlJVFVJb1VIVm95c1ZxNnZGQU9fZTdWSUptVWZBWEtqZDdWdER2RnotYnJHTy1JX1N6Wkp4SDhnT20zU2NRWDIwdzVhY1RYVmxEeC1xRGs3SlpXOXkwUU5jR3o3VlhSalNDOFRPVTd5ZHBBRnpXc0E1UHpLc1oyRW92ZjdLb3pzX1g2a3hvYVRMUDlKMmFUeWlRdzlJMWF5cm9Vc1nSAfABQVVfeXFMTklzUjhDbnVlaEstUmVYOTd5YnhYQnpWVTFHNDFVM1otUEMtNjN2QVRtMUNpM2tZaXowLXJjZzVZZ015ZG9nY0l0LTF0dVQ1bVhGNU5raWtreWUyT1loYkJUb05faDkzcjVaaHRVX3lTNzVHMTJtc255RlFvemhBSTJkdzcwajNEQjBqRmxXNm1lbWxFUjctSk53Z2FDTnFyX0FDM2N4eDc4UkZONUhpTWhUeC1WVEluMmFxeXBLRmVnUjN2X2M5NGFyT3FHMDNvUkRyckE1YWl0dVpURk1kSkNTNlIzTnRmYjNSenh3RkZ0?oc=5",
-          "description": "Apertura: Wanderers le ganó 1-0 a Peñarol, que sigue en mala racha, y Racing es campeón &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-27T03:08:20+00:00",
-          "score": 4,
-          "score_reason": "Información objetiva con énfasis en racha negativa de Peñarol.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "En la jornada de fútbol, Wanderers derrotó 1-0 a Peñarol en el Apertura, mientras que Racing aseguró matemáticamente el título del torneo. Peñarol atraviesa un mal momento en la competencia. En básquetbol, Nacional venció 98-94 a Aguada en condición de visitante, quebrando la racha invicta que mantenía el equipo capitalino en su cancha.",
-        "coincidencias": [
-          "Ambos reportan resultados deportivos concretos y verificables.",
-          "Los titulares informan victorias de equipos locales en sus respectivas disciplinas.",
-          "Presentan datos numéricos exactos sin interpretaciones."
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza la mala racha de Peñarol; El Espectador destaca el quiebre del invicto de Aguada.",
-          "El primer medio prioriza el título de Racing en fútbol; el segundo se centra en básquetbol.",
-          "Enfoques en deportes diferentes impide comparar tendenciosidad directa entre medios."
-        ]
-      }
-    },
-    {
-      "id": "story_011",
-      "topic": "Tiroteo contra Trump en evento político",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Tiroteo en cena donde estaba Trump: el presidente fue evacuado y hay un detenido",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcVVPc2tpcGE4R1E5UFFfLWFrcGxWbE5BUGIxMXFQUzRqZ290b0d4NHVYWlBSVF9QZHVNRzE5SkVkU3lVZ1VQbUlXeGlWMzFnTkR4M0k1NFpEZUplcUZ5MFNJczRpTzFISGNtN21TX1ZBOFIyVGtrSmpuTFQzUW4zb1pSYWUzb2UwNTVQWG1wbnZ4TEZUc3huSmJBODBlYmtFUTV1b2pZZ0ZSZ190blAxVm5sWVPSAboBQVVfeXFMTmpCQlZhOEQwRGxTLVR6RTh1YmVzQ29tVlVpZGxwS1R1RFMxaTB3SGRpMHpoUlhVcFBGdDdfbzk4WjVqaFl5cWQzblpEUWVjdHIyenEtZFhFV19KS1lMQUlLeGk2b1RMeUZheDVuc2tNb2FvUHNjakp5UGpnM1FiNDY4MXJScUNHSGJjcEtyMFFkT3pBd0lfSHE5bUpoNTZ6X0dFWWNQR1Z6UFR6NnV1NnZqTjRZdnA2ODRR?oc=5",
-          "description": "Tiroteo en cena donde estaba Trump: el presidente fue evacuado y hay un detenido &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-26T12:21:00+00:00",
-          "score": 1,
-          "score_reason": "Relata hechos objetivos sin énfasis emocional ni interpretaciones.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Pedófilo, violador y traidor”: qué dice el manifiesto del autor del tiroteo contra Trump",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb0NwSUQ1R1VwUVhKdnhmeTI0cWd5YTZDNnBlV29zR3dwUDdVTnZtdEpUQy1nUENqOTF0X3pDVDA5bG9RZG1pNzVWb0pBSV9SVTdQYm5zVGE5elh3c0RYdkhjTXpYMmNPNmZuUnRwUUEtUXBNRW5rNFVEcVhibzVfbjhzcllJTzdYTFpPcXJVWGxHREE3UjFsYk5obkp6Q21YSlF3cExlcTYtZzVyZ0p0bzQ0SWgzbFhvUWtRQl9aRURkYm0zd0Q3ODdxUk9xRHdZ0gH0AUFVX3lxTE56X3lFYTlHSkpsWG9pRzBGUmM2LVUxMU9vVW0tOWRfNmVPR0JlcnZ0WVNxWWIwYllNWWcyQnNDbmVQdzZhMGJxTGQ0amt5TEpDQVZBRXp0OGo2YjF3WnJ0Y3BmdVl4OE5wU3Z0cmpURDM4NnZFNWxfS0lCb2V3SlhVcHB5RzNHNFhrZzlFLWZuMkZZUDhfTHVwUHZHdlNSVGphZmFqd2xGQ05xSjg0V25jZTlUZUxmVk1ubGE0Qk5hTGJDRnlITnl1djI5UVF1OXkzOVlGbFNhWEpOeHA1cS1Ddm9jNGFIT0pxSnM4dGU0VGEwbTA?oc=5",
-          "description": "“Pedófilo, violador y traidor”: qué dice el manifiesto del autor del tiroteo contra Trump &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-26T23:35:00+00:00",
-          "score": 7,
-          "score_reason": "Enfatiza acusaciones del manifiesto antes de hechos básicos.",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "Se produjo un tiroteo durante un evento donde se encontraba el expresidente Donald Trump. El mandatario fue evacuado del lugar sin lesiones. Las autoridades detuvieron al autor de los disparos. Se recuperó un manifiesto del agresor donde hace acusaciones graves. No se reportaron víctimas fatales en el incidente.",
-        "coincidencias": [
-          "Ocurrió un tiroteo en un evento donde estaba Trump",
-          "Trump fue evacuado de forma segura del lugar",
-          "Hay un detenido identificado como autor del incidente"
-        ],
-        "diferencias": [
-          "Montevideo Portal prioriza el contenido del manifiesto del atacante",
-          "Subrayado se enfoca en los hechos: tiroteo, evacuación y detención",
-          "Diferentes jerarquías editoriales de la información disponible"
+          "Montevideo Portal proporciona detalles claros: equipo, rival y contexto del partido.",
+          "Grupo R Multimedio carece de información relevante, presentando solo un nombre sin desarrollo.",
+          "Montevideo Portal informa sobre la lesión, mientras Grupo R omite completamente ese dato."
         ]
       }
     },
     {
       "id": "story_012",
-      "topic": "Agenda deportiva completa del domingo 26 de abril",
-      "category": "Deportes",
+      "topic": "Orsi expresa solidaridad con Trump tras atentado",
+      "category": "Internacional",
       "sources_count": 2,
       "headlines": [
         {
@@ -569,14 +710,50 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Agenda deportiva del domingo 26 de abril: fútbol, básquet, tenis, motor y mucho más",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU0JGT1YyRnZaZzZmZkpQZTdWaWwxQ0tadG5nRHlJWmxuV2pVQkxNMG00TFZYbnB4LWZhNXFOMEtpNHJwNVc1SlIzRk5MVjJVLTR3eUJyc29VbGhPQ2pUXy1xMkdWVnJFajlkQXo0bTRpTGVabU5hM2NuVzhBTmxiTjlUVGdUdzRUMUpsS1ZwOE9tNUlCQ0QzVk1zUUdsSXc3ZWNXcXkyaGc1bGhUU3FhVjBKVTBFcGswdmZINGQ0eWNUSWIwWVHSAeoBQVVfeXFMTThndW11b1plMzJvaFRKMi1lSlY3RmZnRUFibW9rTFprMXUydk9CSU1zYU1zaTNzMml5cXBBVXV6eGJKaHhkMXVYZDVJQXlxTEg5S0J0d213emlUUnAxQTdTNDlQX1NDekRBS0JTV0kxdUJWZWRtNGxzamFqNUtORS1JbUE3MUJacUpRMncydFB6WHZtQ21WSTRYRnFTRVNvWTdzdWowOWNWdDE4R01uNk9WbkgzaEFiUmNwaFdrRmRJQUVaSnkyelhYOFNXeUh0OHhoR2pGb0xBT0FqU3dWSmNfcmYyZ2ZBNThn?oc=5",
-          "description": "Agenda deportiva del domingo 26 de abril: fútbol, básquet, tenis, motor y mucho más &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-26T03:10:00+00:00",
+          "title": "La Cumbre Mundial de Comunicación Política cerró su primera edición en Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZzVmaEZaSDFheHpLcVJlNFk2YkE5T0l1bFVqWnRabG5CT2g1LUhKenFnWGZiaHk2SV84VzdyaHdwckktUXBqUUVxZXM3a25nUWg5MHJqejNVWXB6UUx1cEdaS1pRNFcxdmU2amxHV2NPUjF3a0hpZVdybzV4a1BXR1N6T19QdHZoTVo0bVV2bDNJYnByYkZUandOY1VTcWgwanYzYlEwNXpPOEV0YlA0OU1tc1VieE4tUGxVOTdZa20yUHZVeWJmeVlTTTkyTUxRQmhlV0JB0gH6AUFVX3lxTE9EUk5aY0NQWmFCUV9wak1mU1BnQUlOdDYxLTk2aHBXUl9xbk1PYWdaRlpMVS13SEJ0SDJwWG1USEpMLUpKWWZnNEtZSFBRR1hnT25hMWN1LVZpVElJNnJRdE5tSG1FQURWNlR5RXYzalpnZ0g5cC1ENEc3bFdqcWQ4ekhWT1hhQ0FwTTRweW5KSXc1QVZ4OG80TlFBMENyOHlUZGxRYzdjc2txd0tKcjM1NGxtQ2ZkYk5QNFBhblh5NU5KYlFfNmlJNV9abGx1OFBJQ2dOTkUtZmFBVFlPbjlLb1hmX0pjZVhwR2ZscEhiTWktTk9weTlfNlE?oc=5",
+          "description": "La Cumbre Mundial de Comunicación Política cerró su primera edición en Uruguay &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-27T14:30:00+00:00",
           "score": 1,
-          "score_reason": "Titular informativo, directo y neutral sin carga emocional.",
+          "score_reason": "Titular informativo, solo menciona cierre de cumbre.",
           "score_pct": 10
         },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "\"Uruguay condena la violencia\": Orsi expresó su \"solidaridad\" con Trump tras intento de asesinato en Washington",
+          "url": "https://www.teledoce.com/telemundo/nacionales/uruguay-condena-la-violencia-orsi-expreso-su-solidaridad-con-trump-tras-intento-de-asesinato-en-washington/",
+          "description": "A 48 horas de sucedido el episodio en cuestión, el presidente Orsi se expresó este lunes de noche en su cuenta de la red social X para referirse a lo ocurrido. La entrada &quot;Uruguay condena la violencia&quot;: Orsi expresó su &quot;solidaridad&quot; con Trump tras intento de asesinato en Washington se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-28T10:37:44+00:00",
+          "score": 4,
+          "score_reason": "Destaca posición de Orsi con entrecomillados, énfasis en solidaridad.",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "El presidente uruguayo Yamandú Orsi se pronunció en redes sociales expresando solidaridad con Donald Trump tras un intento de asesinato en Washington. El mensaje, emitido 48 horas después del incidente, condenó la violencia y fue divulgado a través de X. Esto ocurrió en el marco de la Cumbre Mundial de Comunicación Política que se realizaba en Uruguay.",
+        "coincidencias": [
+          "Se trata de declaraciones del presidente Orsi en contexto de evento internacional.",
+          "Ambos reportes son posteriores al intento de asesinato de Trump.",
+          "La cobertura se enfoca en la posición oficial de Uruguay ante el suceso."
+        ],
+        "diferencias": [
+          "Montevideo Portal prioriza la Cumbre de Comunicación; Teledoce prioriza la posición de Orsi.",
+          "Teledoce utiliza entrecomillados para enfatizar palabras clave; Portal adopta tono más neutro.",
+          "Teledoce especifica timing (48 horas) y red social; Portal contextualiza en evento diplomático."
+        ]
+      }
+    },
+    {
+      "id": "story_013",
+      "topic": "Pichu Straneo celebró título de Racing con comentario",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
         {
           "source_id": "espectador",
           "source_name": "El Espectador",
@@ -584,49 +761,13 @@
           "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.espectador.com",
-          "title": "Programa completo del 26/04/2026",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX182M0FPdGlpSjlUbUF2cC05emd1SkNzVXY2bDZmTVdBVVVBTTNKcHVRSngwd1BlWHpnTS1ENWVyejB5QUNRbVNVenRvRG5KZGZfUVNneVNwUjYtN3dvTlFrOHlURjFoY0dwOS1XTGZ4WlFpN0tUOTZVaTM3SGtJSnpWZUY0d1lJamlqVk52Yw?oc=5",
-          "description": "Programa completo del 26/04/2026 &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-04-27T02:53:29+00:00",
-          "score": 1,
-          "score_reason": "Descripción objetiva y simple de la agenda deportiva.",
-          "score_pct": 10
-        }
-      ],
-      "analysis": {
-        "resumen": "Se trata de una noticia sobre la programación deportiva para el domingo 26 de abril. Ambos medios anuncian cobertura de múltiples disciplinas incluyendo fútbol, básquet, tenis y automovilismo. Los titulares informan sobre la disponibilidad de una agenda completa de eventos deportivos para ese día, sin detalles específicos sobre resultados o eventos particulares.",
-        "coincidencias": [
-          "Ambos medios cubren la misma fecha: domingo 26 de abril",
-          "Ambos anuncian una agenda deportiva completa y variada",
-          "Ninguno de los titulares incluye lenguaje tendencioso o alarmista"
-        ],
-        "diferencias": [
-          "Montevideo Portal enumera disciplinas específicas; El Espectador usa término genérico",
-          "Montevideo Portal agrega énfasis con 'y mucho más'; El Espectador es más escueto",
-          "El Espectador especifica año en título; Montevideo Portal omite el año"
-        ]
-      }
-    },
-    {
-      "id": "story_013",
-      "topic": "Adolescente se entregó por homicidio de repartidor",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Adolescente de 16 años se entregó como presunto autor del homicidio del repartidor en Carrasco Norte",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU1ZXZmhhXzJyd2IyV3dUV0R5Tk5lR3puc2pGdGsyZFZRTzVFUWVwZGtrTzVubGZyaXNrMi0wN0p0Vk9CVFB0WVBpb0wwaUZFbUw2SDdmel8zaXZKMTdraEtzOE9XTUZoUEw2QS0zUmgwZmcyczd0RlNNY1pHV3RrT2tIc0dTVEJsLXdGQ0lKVm0zODFqRktPSFk3TGt4NjZsb21LLXhRMElRQlZtMUE1S3lQbnRfZ3M1cWdZRVhReHpQV0hmVnkyaFlaN0vSAdIBQVVfeXFMT09lU2ZUZmpZZ05MN3VpTm44WllTaDdvS0h1ZDdUeXhJcVVfSld1QVNUTTRaTFZURldwa3hTeVdrZVl6akNQOTNNRkFsYTJ4MmNyTGs1dnVPdlBDV2NSVWk4R0NoUTJZWFQ5ZGVDM3BlcXplaHhrb1JVVHpTOTRrQ0YzMDZuZnFGTnVDM3ZWZDQxU0p3ZTA3RGNPNzZOWE1JUEZSWnE2YWlJVVdKc2pxRmNUYmtGbC1pT2RYY3Q5V3NiZ1FWRXJCcWZ3S3U1Tm84aG5B?oc=5",
-          "description": "Adolescente de 16 años se entregó como presunto autor del homicidio del repartidor en Carrasco Norte &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-26T15:40:00+00:00",
-          "score": 1,
-          "score_reason": "Lenguaje neutral, término técnico 'autor', información clara y objetiva.",
-          "score_pct": 10
+          "title": "Pichu Straneo: “hermosa mañana verdad, ¿no?”",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1ctd3RucnZ4TkdnSDZSUy03MWI4S3NOeGlMYl9nZ2dvUXpvUzRBaEJEMVpCZGNLRWFPSnJxRDg3d1pJdGJPOW8wRUQ0TWxKQmJSRV9QY0RsNnZndGc0ZTdJRjlwWkx4RzR5Sm53YU02ZlBTUG1lS0Z3ZEdvOUpEZUpSTngtVzZy?oc=5",
+          "description": "Pichu Straneo: “hermosa mañana verdad, ¿no?” &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-04-27T13:50:59+00:00",
+          "score": 2,
+          "score_reason": "Cita textual neutra sin calificativos ni carga emocional evidente.",
+          "score_pct": 20
         },
         {
           "source_id": "montevideoportal",
@@ -635,355 +776,49 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Menor de 16 años se entregó como presunto asesino del repartidor en Carrasco Norte",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVWVuWWpQNkhZajdwSnpsOXlVSzlTckphMTQyRjMyYURSQUptN1MzT0FGS3lJLWFzUF96TTVubkhOamRJWWlaR1ZzbUFQMVNEYy1ZTmluejByZGNhSng3UU1kODN0dC1ULXUtQnZobUw2MFdTOUUtOWZWcmhpZFN3aDVZT2x5a1lTY0JNVGxBTTV1a0MxbXZqMnVzVVdjWG5CSjlURmZ2c3ZTenZtU1hIeldwWGdUV1VLN1J1VzQ4OUJ0RDRNYWxvb3FB0gHuAUFVX3lxTE8yTnJCbk41OHpEdFI5VGdsTXpVTnd5d2ZfdDc2X3BuekNjVEhuQ3pYcEg4UTRvMmRMc3U0R3htNmI3Qk90dTNUYTNfMlE1a0drUU9RcW9rUXpZZGM4cDdFOWl3WC01YWtIcDFueXhkTks1MUpDNWhwMGVOX3pBUmw5NHcxSndta3VjU0llNzFSaG0xQ29TUzZHaC1kSzVVTVVmYmhtbUVpbnJXUnBVSHFIRy0zcU1YeXRVMVBsNzVvSGRWa2lTeks3aS04YVNObjF1XzMxbnJKMC1jYkROMHVWSmZsZ1BsSjM3RWhZbGc?oc=5",
-          "description": "Menor de 16 años se entregó como presunto asesino del repartidor en Carrasco Norte &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-26T16:28:00+00:00",
-          "score": 3,
-          "score_reason": "Especifica 'menor de 16' en lugar de 'adolescente de 16', énfasis en edad.",
-          "score_pct": 30
+          "title": "“Acá tenés la grande”: Pichu celebró el Apertura de Racing con un chiste subido de tono",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS055UDFESGJkN296X1dJOUs2MmItZmxXTXMxTVFkWXBJLXZqeExod21acG5LQXZQd1lxQm9fX3NRbGc0eEJ2cVAzRVk0YzFQYlBlbHpERVJkRWhMMjl0czdUbzdpZEpLNXVrR2JIOWUxVWNCRlpwbEdvLVN1d1pUUzlDT3RPMHVnQS1obE1EZk5ISmlQV0VmTjc2VmJqeVBIck5SUEJWaHdLSVFTcFRaUzZHX3BZMUdPcUhKcHROYXZPSmxaVGZzUjlDdlA2V03SAfMBQVVfeXFMUGZsYVU2V0JRT2VTTkxBby1pVXNwRFktM0RaYmtjT1NKZHU4Uk1FeHRQZWNjNHVGM3c5Sm9DTjRsU0ctY2JuYVVWdDVKX1RFRHd1OWNQeFVmWk5SQkRYOFVnMjJuaXpibUMzSjFXU3BjNGd2UVhvblp1UDFCdzFyWUFSXzhzUzFURHBRRS1aa0g0c1RUX0JIRE56YXpnNUxjNGNGUFRubTh6amJBVExZWGhVdmdrdjQzbWt2c0dwaHhGNUhRTWRnQ3dfSlFVZUhfa1pia0ZKckNZcFFUTC1xTEduajVldHFONHhkUUxWaEZJUlVj?oc=5",
+          "description": "“Acá tenés la grande”: Pichu celebró el Apertura de Racing con un chiste subido de tono &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-28T00:53:00+00:00",
+          "score": 6,
+          "score_reason": "Destaca lo 'subido de tono' para generar morbo e interés.",
+          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Un adolescente de 16 años se presentó voluntariamente ante las autoridades como presunto responsable del homicidio de un repartidor ocurrido en la zona de Carrasco Norte, Montevideo. El joven se entregó a la policía, siendo formalizado por el delito. El caso se encuentra en investigación por parte de las autoridades competentes.",
+        "resumen": "Pichu Straneo, personalidad del fútbol uruguayo, realizó un comentario durante la celebración del campeonato Apertura de Racing. Montevideo Portal caracteriza el comentario como 'subido de tono', sugiriendo contenido de carácter sexual o inapropiado. El Espectador simplemente cita una frase del personaje sin contexto peyorativo. Ambos medios cubren el mismo evento pero con énfasis distintos sobre el tono o naturaleza del comentario.",
         "coincidencias": [
-          "Ambos medios reportan la entrega voluntaria del joven a las autoridades.",
-          "Los dos especifican la zona geográfica del hecho: Carrasco Norte.",
-          "Ambos usan terminología legal precisa: 'presunto' para no prejuzgar."
+          "Pichu Straneo hizo un comentario durante celebración de Racing",
+          "El evento ocurrió en relación al título Apertura",
+          "Ambos medios registran declaraciones del mismo personaje"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza 'menor de 16' mientras Subrayado usa 'adolescente de 16', marcando diferencia etaria.",
-          "Subrayado utiliza 'autor' (término judicial) versus Portal que usa 'asesino' (término coloquial).",
-          "Portal privilegia la edad como dato destacado; Subrayado prioriza el aspecto legal del acto."
+          "MP enfatiza carácter inapropiado; Espectador mantiene neutralidad",
+          "MP utiliza descripción valorativa; Espectador solo cita",
+          "MP busca sensacionalismo; Espectador presenta información sin juicio"
         ]
       }
     },
     {
       "id": "story_014",
-      "topic": "Leonard Costa gol Independiente Rivadavia clásico",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Argentina: Leonard Costa anotó para Independiente Rivadavia, que ganó el clásico y lidera",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWFF3am15SXRqa1pDR1JTeVJQMHREaXdzdEsxZ1loLTkzM082NEQwWW9fenAxX3hYUm9TcDZzVW5UVE5LRHlFT1A4R0NPb1l0dHZ0VEdIclFlSm0zcWtKTU9wX2swUEwwMUlHalNKZlc2QlN2ZXJvcXVGYVp3R091ckhDNGs4MHVEMVBoZFM4WHlFUXFYZjZBSUJMeTJjM0VZMnV4M3BoNnpaaERzQnBHN2lnenRNei1ZeWItRFQzOElhdVBoWG10ZFE2R3JQdUxv0gH0AUFVX3lxTE1MNGZmUEZUVzgzcFRKdlBtWThlNi13dXZ3MFF3aDVhRUh5VENMX1dmdjVCaENqeWM2SHdxazlPSkVJZkRxZU5qdHpqZ0l6MVpwOFQtUG5udnVrbTZOeV9hb0EwLWtEZVZvTkxfX3NYdnZDWUtPS1Y0WEUwcUlXQ0hBRWlOWjlpM0RHd0JCV2MyYWh4QXEwSmNjU2hDQ0lnSXJvY2pMNmN1V2pqTU5PR2F3OFk0QUxacGVNSm1LUUZyaFJCZ0NCT3hIRTVJbFdyLWF6WHpoSFB0WEU5cFg2VDdwYmtHdFNUeEZkLWt0N2lhdVYzY1U?oc=5",
-          "description": "Argentina: Leonard Costa anotó para Independiente Rivadavia, que ganó el clásico y lidera &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-26T21:42:00+00:00",
-          "score": 1,
-          "score_reason": "Titular informativo, enumera hechos sin énfasis emocional.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Maria Del Carmen Viacava De Ferres",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LTmRJZFdNcGJZY3RLZ2JNU3ZzWUxoME5DSHN2RmRQNHdiMVNPYTZXVjhXdUNNVXNFWE95ZldkVVdZbHlLNWNWdFdGbXY0Z0FjUmI5VlpiLUdQRE51cnVjMkx3M25KbThHYWd6V0RmWnJyZVZ3MEtYWHFYbVNHdw?oc=5",
-          "description": "Maria Del Carmen Viacava De Ferres &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-04-26T04:05:11+00:00",
-          "score": 9,
-          "score_reason": "Titular genérico sin relación aparente con noticia deportiva.",
-          "score_pct": 90
-        }
-      ],
-      "analysis": {
-        "resumen": "En Argentina, Independiente Rivadavia logró ganar un clásico local con gol del jugador Leonard Costa. Con este triunfo, el equipo se posiciona en la cima de la tabla de posiciones de su competencia. El resultado representa un hito importante en la campaña del club.",
-        "coincidencias": [
-          "Leonard Costa fue protagonista en el partido disputado.",
-          "Independiente Rivadavia obtuvo la victoria en el encuentro.",
-          "El resultado tiene relevancia en la clasificación del torneo."
-        ],
-        "diferencias": [
-          "Montevideo Portal contextualizó la importancia deportiva del triunfo claramente.",
-          "Grupo R Multimedio presentó un titular desconectado del contenido periodístico.",
-          "Solo Montevideo Portal ofreció información estructurada y verificable sobre los hechos."
-        ]
-      }
-    },
-    {
-      "id": "story_015",
-      "topic": "Enzo Cabrera anota goles con Danubio",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Esc. Alvaro Ricardo Duarte Perez",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsRGQ1VGFBU2JtQUlIQ1J5RGtld3NGYUpHMjJ6VUFEUTV3UGJHamJsdzlLRm90OWptS3ZoTkVaSzh6OEp0ZVRidzlQbHBtRXZjNnhwNm4wcXNkTXB3anhWOHZFX0M3bVFvWXdHN25DQko3WmQ5a01pdllB?oc=5",
-          "description": "Esc. Alvaro Ricardo Duarte Perez &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-04-26T04:20:17+00:00",
-          "score": 0,
-          "score_reason": "Titular aparentemente neutro, pero carece de contexto deportivo.",
-          "score_pct": 0
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Enzo Cabrera: de Río Negro de San José a anotarle a los dos grandes con Danubio",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeWNOMEtROEQtY042SlFnRGpVWlhmWnV3dkRXbk1PdlBlMHVaSC0yNnpDdnExT2ctd1BQeFMxdVBNWXRUNHBmQ0N4NUJpRW90TkVENldfSDJTcmtacllmS011Vk5PQjMyX3dFa1BsMXdMa0EzMnhoOWZVQ3c0SUlqeGthbVc1VU81YlQ4dENZTzNaTW54VVRLOVEtd1R0MVVFVG9JRm5KajJEZmczSnlpdVFtVFdEZVNjNlR4YkowN05rRDBU0gHoAUFVX3lxTE51WUFaQlVWYlNaYVNTU05OUUhZTktWUzNSb3lORWpyVGFrdGFka0I3VlVBNHY5NWFTck1YQlV3MlJIS2dOY1Byb1BjaFZUdU1XTW82dFRkX3NXaEdibS1IX25qOXc3WU9qTG9MTjlGM3pnQVBYX0JGV0JzOVl5Ym44RWk3MWFNSmV0bUh3VlU1OU5MZm5aSExpSGhUUG9SV2hQLUxzODZVT3AzVmN5bUtaeVB0b3dsakprRFZEaDBQNHhDLXZ1TkJiR2VsNVhwNVNmaW50YWFxYktVS29tR3dweUp1WmVkZjk?oc=5",
-          "description": "Enzo Cabrera: de Río Negro de San José a anotarle a los dos grandes con Danubio &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-26T17:11:00+00:00",
-          "score": 2,
-          "score_reason": "Titular informativo con énfasis en la trayectoria del jugador.",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "Enzo Cabrera, futbolista originario de Río Negro en San José, logró anotar goles enfrentándose a los dos grandes clubes del fútbol uruguayo mientras jugaba para Danubio. La noticia destaca la trayectoria del jugador desde sus orígenes en el interior del país hasta su desempeño en la capital.",
-        "coincidencias": [
-          "Ambos medios mencionan a Enzo Cabrera como protagonista",
-          "Se refieren a su origen en el interior (Río Negro de San José)",
-          "Vinculan su desempeño con Danubio"
-        ],
-        "diferencias": [
-          "Montevideo Portal destaca sus goles ante los grandes; Grupo R es genérico",
-          "Montevideo Portal estructura narrativa de ascenso; Grupo R menciona escuela sin contexto",
-          "Enfoque deportivo versus enfoque educativo/institucional"
-        ]
-      }
-    },
-    {
-      "id": "story_016",
-      "topic": "Temporal causa daños en infraestructura eléctrica",
+      "topic": "Programación y contenido de medios uruguayos",
       "category": "Otro",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Una palmera cayó por el viento y tiró abajo una columna del tendido eléctrico, en Agraciada y Valentín Gómez",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU2ZObHpDM0s3VmNoemZ4by1PMTlMUE5PNlNtWVk4Sk5VWGpiaHFYWDhja3MtQVRkRWw2TXYtRlJRazRZSl9xeWsySnZPNmtIbTJGWmdWRXVoUklITGk3U1NWcTBHZTJLVnZXNUo3b2szdHVmaHJKcnVKWjI3V0w0ZUprSC16WWVHQXNtU2lsSUdOMzAyMVR1V3pkOUpTVEllLS1CVktyVl9sbjZsTDNzMkFCNVg3QjRSOUota3oxTVF6eUhwSDJWN1FhY3Bob0d2YkgtV9IB2gFBVV95cUxOVkQxX1RKN00xMy1UOS1aeVl2bE1yUFcxcDYwZU5QLXFkdUs3ZmVqVGJLRG42MXBnS2lielVScGt0cU0yRXNkZmtFYm9qdTR6UFNTYkM0ZzE4ck44V2VqTmRqY2x6eFMxRVlvY2dTc0NuWVFGQmdEbkR4blF6ZndyNXcweEpyVDJjSUVYSUpnNTd1OHZNM28tRzZsc3NNYVJlYnJ4bGZ1eUpEVk1PUFJWeW1CQzZic241M0x6Zk9hbHJvUHR3RS1XSDhZeU9sV21UTGNuR1JOZjlqZw?oc=5",
-          "description": "Una palmera cayó por el viento y tiró abajo una columna del tendido eléctrico, en Agraciada y Valentín Gómez &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-27T11:29:00+00:00",
+          "source_url": "https://www.espectador.com",
+          "title": "Programa Completo del 27/4/2026",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWV8tUWxiRnJlMXpMOUZ3dVpHdkRIcGFjZUNBbWxWeGkzZHJXVUpoZVp0Q2FZM2gxdG81eXdBVGx6dmFVZmRwNTllTzZzd1pyOWRPN2M4ZE15MWhBUXF3UDF6Snp0ZlZlMFFxSWU5Sl9TWWdYekY3UXpPMlkxU2wyMTFLNC03X21ndUxsQ3JVVS1GZm8?oc=5",
+          "description": "Programa Completo del 27/4/2026 &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-04-27T19:52:48+00:00",
           "score": 1,
-          "score_reason": "Descripción factual, directa, sin adjetivos amplificadores.",
+          "score_reason": "Anuncio informativo de programación sin carga emocional ni sesgo.",
           "score_pct": 10
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Desde una palmera que cayó y tiró una columna de tendido eléctrico hasta una playa llena de granizo: lo que dejó el temporal",
-          "url": "https://www.teledoce.com/telemundo/nacionales/desde-una-palmera-que-cayo-y-tiro-una-columna-de-tendido-electrico-hasta-una-playa-llena-de-granizo-lo-que-dejo-el-temporal/",
-          "description": "Maldonado ha sido uno de los departamentos más golpeados, donde se registraron fuertes tormentas. La entrada Desde una palmera que cayó y tiró una columna de tendido eléctrico hasta una playa llena de granizo: lo que dejó el temporal se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-27T11:23:17+00:00",
-          "score": 3,
-          "score_reason": "Amplía contexto regional y usa palabra 'temporal' como marco dramático.",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Un temporal de viento causó daños en la infraestructura eléctrica de Montevideo. Una palmera cayó y derribó una columna del tendido eléctrico en la intersección de Agraciada y Valentín Gómez. El evento se enmarca en un sistema de tormentas más amplio que afectó especialmente a Maldonado, donde se registraron fenómenos como granizo en playas. Los medios reportan los hechos sin mayores diferencias en cuanto a lo ocurrido.",
-        "coincidencias": [
-          "Una palmera cayó por efecto del viento.",
-          "La caída derribó una columna del tendido eléctrico.",
-          "El evento ocurrió en zona de Montevideo durante condiciones de temporal."
-        ],
-        "diferencias": [
-          "Subrayado enfatiza el incidente puntual; Teledoce lo contextualiza en un temporal más amplio.",
-          "Teledoce menciona otros departamentos afectados (Maldonado); Subrayado se limita al hecho local.",
-          "Teledoce utiliza lenguaje más envolvente ('lo que dejó el temporal'); Subrayado es más directo."
-        ]
-      }
-    },
-    {
-      "id": "story_017",
-      "topic": "Incidente en puerto de Punta del Este",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Video: una cría de orca apareció en la playa Mansa de Punta del Este durante el temporal de viento",
-          "url": "https://www.teledoce.com/telemundo/nacionales/video-una-cria-de-orca-aparecio-en-la-playa-mansa-de-punta-del-este-durante-el-temporal-de-viento/",
-          "description": "Desde la Armada indicaron que mide aproximadamente 2 metros. La entrada Video: una cría de orca apareció en la playa Mansa de Punta del Este durante el temporal de viento se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-27T09:55:34+00:00",
-          "score": 2,
-          "score_reason": "Neutral, informativo, sin carga emocional ni dramatismo.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Una embarcación se soltó en el puerto de Punta del Este y se estrelló contra un pasaje peatonal",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZWxYc2ZjV2E0UzdLem01dlpEeDdVUHZ4bUVrWkhPaTg1QTN0RTBObHVyWEFBQjlkTXdyOVhQbVoxR0ZLQ3BjUEtzWUI3LWJ4NEdfMVJwbm00Nnd5X3FWS2YxaUdpY2p1NXZ3TnNCRU9HOXlHWjRJMmVrQkRlNkdUbVA3SHRJOVo2Y3VzYlM3eElyODN1QUpBa2hzRVFXMzhXbExvMzhWNU5vZGQwSGVtSERLQUM1ak1QS0o4MmJ4SGZBRVN2aXfSAcsBQVVfeXFMTjRtMmN1WnpwQlJRLTdKMGNHdW9EZ1FLaVNWSUpQN0tQRmV6UjVPMkFxbUNaOW9BMzhzUU5iSEt0ZV9sX2hNZWhHM3BIZE1VdDJiT0pDMWk1RmJ6TTFaeU5lWVpmWkU5bWJSQWJCOENnUVhqakpFX0FWQ0JuY3p5ZEdHeDBEeUZmNVJxQWhOYkRNZ0pmMlMxVkNWSFdWeG83enNPMEJnWUZvRGpFWjU3eTl6Nk9JZE1xWE1IXzdva3A3dGw2NU9DekxvUmc?oc=5",
-          "description": "Una embarcación se soltó en el puerto de Punta del Este y se estrelló contra un pasaje peatonal &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-27T11:10:00+00:00",
-          "score": 4,
-          "score_reason": "Lenguaje descriptivo pero usa 'estrelló' con carga dramática.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Dos hechos ocurrieron en Punta del Este: una embarcación se soltó en el puerto y colisionó contra un pasaje peatonal, y una cría de orca de aproximadamente 2 metros fue avistada en la playa Mansa durante un temporal de viento. Los reportes no especifican si ambos eventos están conectados o sucedieron simultáneamente, ni hay información sobre daños o heridos.",
-        "coincidencias": [
-          "Ambos eventos ocurrieron en Punta del Este durante el temporal de viento",
-          "Hay movimiento de objetos o seres en el agua/puerto",
-          "Los hechos sucedieron en la misma zona geográfica"
-        ],
-        "diferencias": [
-          "Subrayado enfatiza el incidente humano (embarcación-pasaje); Teledoce destaca el evento natural (orca)",
-          "Subrayado usa lenguaje de accidente/riesgo; Teledoce usa tono de observación naturalista",
-          "Subrayado prioriza infraestructura/personas; Teledoce prioriza fauna marina"
-        ]
-      }
-    },
-    {
-      "id": "story_018",
-      "topic": "Hombre armado detenido en evento con periodistas",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Hombre armado en cena de periodistas apuntaba contra altos cargos de la administración Trump, dice Fiscalía",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcHJRS2ZkaDRfMDE3QXcteUdHYWdaWFVsN0tmWExXbV9sZHA4Zlp2NE1iNFBqY1hUYzBnVkJQbWY2aG9semxUWkZPNDc3NFo3eHV1WThaUFhpT09DM3U5SXRzNDJxTmFERWZyelNsVGQyemJpaVZidERDV3dIbmViRTVMSXNqcXJ0eU91YTdCN0I3MmRiajkzMVRrYmplNmxfMk9hLUpBb1cyTmI1anFkVTFyQTVlRW1OU2ZQS1ZxbWZybnpxRGhld0RldnlSY0Nk0gHWAUFVX3lxTE45U2hWS3hJWUF2Z0ZYQmVORWo4eWJCTG9SRXpreWlGWlM3RVNkNHFpVUNSU2pDa0RfanNMZXVmX0dfQ3B3X29WdmZiTklzamRFVzRET1g1elBSSVhCbEc2Zk8yVXlZd3M5THFUVGVEaFlpdF80dVFZbk9QWVhGWHR2Wlo0aTY1Z3BoSE5SOWJkNHhCZnV1b1loUjF3VjVjc29KaTBxSE02ZzNQQUQySlFCakJpazJfa0x3bjNxX3FEUUwtaU1TRF9HbFBoOXdrbS1JWV9ZSlE?oc=5",
-          "description": "Hombre armado en cena de periodistas apuntaba contra altos cargos de la administración Trump, dice Fiscalía &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-26T17:24:00+00:00",
-          "score": 2,
-          "score_reason": "Informa hechos básicos citando fuente oficial, sin carga emocional.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Sospechoso de atacar a Trump comparece este lunes ante la Justicia; \"el tipo está enfermo\", dijo el presidente estadounidense",
-          "url": "https://www.teledoce.com/telemundo/internacionales/sospechoso-de-atacar-a-trump-comparece-este-lunes-ante-la-justicia-el-tipo-esta-enfermo-dijo-el-presidente-estadounidense/",
-          "description": "El sospechoso, cuya identidad no ha sido revelada oficialmente, no resultó herido. Varios medios estadounidenses lo identificaron como Cole Tomas Allen, de 31 años, originario de Torrance, California. La entrada Sospechoso de atacar a Trump comparece este lunes ante la Justicia; &quot;el tipo está enfermo&quot;, dijo el presidente estadounidense se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-27T10:42:20+00:00",
-          "score": 5,
-          "score_reason": "Incluye comentario personal de Trump calificando al sospechoso, genera énfasis emocional.",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "Un hombre armado fue detenido en una cena con periodistas en Estados Unidos. Según la Fiscalía, el sospechoso apuntaba contra altos funcionarios de la administración Trump. El detenido, identificado por medios estadounidenses como Cole Tomas Allen de 31 años, comparecerá ante la Justicia. Trump calificó al sospechoso de enfermo. No hubo heridos en el incidente.",
-        "coincidencias": [
-          "Existencia de un hombre armado detenido en evento con periodistas",
-          "Vinculación del caso con la administración Trump",
-          "Comparecencia del sospechoso ante la Justicia"
-        ],
-        "diferencias": [
-          "Subrayado enfatiza el objetivo (altos cargos), Teledoce destaca la salud mental del sospechoso",
-          "Teledoce incluye cita directa de Trump cuestionando cordura; Subrayado mantiene distancia informativa",
-          "Teledoce identifica al sospechoso (Cole Tomas Allen); Subrayado omite detalles de identidad"
-        ]
-      }
-    },
-    {
-      "id": "story_019",
-      "topic": "Imputaron a padre por intoxicación de hijo con cocaína",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Imputaron con arresto domiciliario nocturno al padre del niño de nueve años que se intoxicó con cocaína en Rivera",
-          "url": "https://www.teledoce.com/telemundo/nacionales/imputaron-con-arresto-domiciliario-nocturno-al-padre-del-nino-de-nueve-anos-que-se-intoxico-con-cocaina-en-rivera/",
-          "description": "El hombre de 35 años compareció ante la Justicia, donde fue imputado “por omisión a los deberes inherentes a la patria potestad\". La entrada Imputaron con arresto domiciliario nocturno al padre del niño de nueve años que se intoxicó con cocaína en Rivera se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-27T10:18:34+00:00",
-          "score": 3,
-          "score_reason": "Más específico con «arresto domiciliario nocturno» y ubicación.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Imputaron con arresto domiciliario y tobillera al padre del niño de 9 años intoxicado con cocaína",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMEFac0pqU3liLUZzRkkyNEZCRjBnVTJheWdVTkVRX2JMVm9lRzRRVUJNYUpGZVY5ODNSN2FKLTI0TkpyZS03b3A1V2ZhbGtNRFdfQkF2U3FxRVFndmNIY0VfdDBuVUI2ZjVmMXdKMWtkdTdKU041SVB2Qm9fTlpFcmtZQmNEX2JTQktfdDFWX2RtTzZVRTZBd29EYV9lME9hUTJuT1VnZE1JdFhwdW1lOGJJUzFZdWh2eExCN19SaHdUd9IBxwFBVV95cUxOQzZJVWxPSmhPZl81cmNxX1BmQVM4aEVUU0JycDNBUXJfS1ViZ0hhZ0NsRGlzeC1iZ2RwN2o0TjJIMWw1aTY4ekFVXzNvYlVhc3kwY19jZHJBMVNGcFUtZzBTU2MzVktnajFPTGZ5SVlsWXBLZ0ZPY1R2ODN2NnkySnlDRi10SHpvS1RZWFhMVmljbG9TakZWajQ0QUo3bVRTSVp5NEM0X0ZPOHlpdE5CY216NG96QndubkxpZE14MkFIY3QtQ19F?oc=5",
-          "description": "Imputaron con arresto domiciliario y tobillera al padre del niño de 9 años intoxicado con cocaína &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-26T18:56:27+00:00",
-          "score": 5,
-          "score_reason": "Énfasis en «intoxicado» genera carga emocional innecesaria.",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "Un hombre de 35 años fue imputado por la Justicia tras la intoxicación con cocaína de su hijo de 9 años en Rivera. Le dictaron arresto domiciliario con tobillera electrónica. Fue acusado de omisión a los deberes inherentes a la patria potestad. El caso refleja una situación de negligencia parental en contextos de exposición a drogas.",
-        "coincidencias": [
-          "Ambos confirman la imputación del padre de 35 años",
-          "Los dos mencionan la medida de arresto domiciliario con tobillera",
-          "Ambos refieren al niño de 9 años y la intoxicación con cocaína"
-        ],
-        "diferencias": [
-          "Subrayado omite especificar que es arresto «nocturno», Teledoce lo aclara",
-          "Teledoce incluye la ubicación geográfica (Rivera), Subrayado no",
-          "Subrayado usa «intoxicado» (más impactante), Teledoce usa «se intoxicó» (más neutral)"
-        ]
-      }
-    },
-    {
-      "id": "story_020",
-      "topic": "Posible visita del Papa a Uruguay en noviembre",
-      "category": "Internacional",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Sturla sobre posible visita del papa a Uruguay: \"Podemos decir que en un 80% viene en noviembre\"",
-          "url": "https://www.teledoce.com/nota/sturla-sobre-posible-visita-del-papa-a-uruguay-podemos-decir-que-en-un-80-viene-en-noviembre/",
-          "description": "El papa aguarda por invitaciones concretas de otros países que están en procesos electorales. La entrada Sturla sobre posible visita del papa a Uruguay: &quot;Podemos decir que en un 80% viene en noviembre&quot; se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-26T20:21:30+00:00",
-          "score": 2,
-          "score_reason": "Cita directa de Sturla con porcentaje exacto, lenguaje factual.",
-          "score_pct": 20
         },
         {
           "source_id": "grupor",
@@ -992,26 +827,26 @@
           "source_color": "#6A1B9A",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.grupormultimedio.com",
-          "title": "Sturla anuncia que el papa León XIV podría visitar Uruguay en noviembre",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVzREZXhGUmwtVjhzTndMZFRLVTdQcnZ0MjVRLXFCZHhZWWpwZDgybjVLZ0d3NUd2TGhKd2RwZk5KOXFVN3l4VjFHOGZ5VFZQaUItUTZIejZlMEMwUUpsR0c0QV9RMDV3RkhiMVNyUWdfaVJlWjRTSEw5VkVPVjR0bVJTQ2tHQlNNSjVoMnRpSTZhRnVSUUNLWGljY2FJRDVwd1R3YXhaRldWR3RkSzJz?oc=5",
-          "description": "Sturla anuncia que el papa León XIV podría visitar Uruguay en noviembre &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-04-27T05:21:58+00:00",
-          "score": 4,
-          "score_reason": "Usa 'anuncia' que sugiere certeza mayor; nombre incorrecto del Papa.",
-          "score_pct": 40
+          "title": "Suplemento Mascoteros Abril 2026",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tNmVCTkE0Sm4zQVZUejRfei0tNkhpTU02WFMxajFhOTZEU2NCY2RZdlJ0QTBLamtSU0tBcDJpTzE3dEFXQWNxNExYZXZCS1dEbHltbHBCRDgzTHpYTGN4NlpIQ2dLT0RhU2xtVTJjejk1VjJmamZ6M1hMYw?oc=5",
+          "description": "Suplemento Mascoteros Abril 2026 &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-04-27T11:16:09+00:00",
+          "score": 1,
+          "score_reason": "Anuncio neutro de suplemento temático sin opinión ni énfasis parcial.",
+          "score_pct": 10
         }
       ],
       "analysis": {
-        "resumen": "El ministro Sturla informó sobre la posibilidad de que el Papa visite Uruguay en noviembre próximo. Según sus declaraciones, existe una probabilidad del 80% de concreción. La visita depende de que el Pontífice reciba invitaciones formales de otros países en procesos electorales. Se trata de una gestión diplomática en etapa de confirmación, sin fecha oficial establecida aún.",
+        "resumen": "Los titulares proporcionados no corresponden a una noticia específica, sino a anuncios de programación. El Espectador publicita su programa deportivo del 27 de abril de 2026, mientras que Grupo R Multimedio anuncia un suplemento especializado en mascotas para el mismo mes. Ambos son avisos de contenido próximo sin información de un evento noticioso concreto que permita evaluar cobertura periodística.",
         "coincidencias": [
-          "Sturla es la fuente principal de la información",
-          "La visita se contemplaría para noviembre",
-          "Aún no hay confirmación oficial concretada"
+          "Ambos son anuncios de contenido futuro, no cobertura de noticias",
+          "Utilizan lenguaje puramente descriptivo y neutro",
+          "Carecen de elementos sensacionalistas o tendenciosos"
         ],
         "diferencias": [
-          "Teledoce especifica el 80% de probabilidad; Grupo R omite este dato",
-          "Grupo R usa 'anuncia' (más definitivo); Teledoce usa 'podemos decir' (más cauteloso)",
-          "Grupo R nombra incorrectamente al Papa como León XIV en el titular"
+          "El Espectador se enfoca en contenido deportivo; Grupo R en mascotas",
+          "Diferentes secciones temáticas reflejan líneas editoriales distintas",
+          "No hay diferencia de enfoque noticioso por tratarse de avisos publicitarios"
         ]
       }
     }
