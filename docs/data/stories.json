@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-04-30T11:42:09.818722",
+  "generated_at": "2026-05-01T11:12:07.274566",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Noticias variadas de deportes y política",
-      "category": "Deportes",
-      "sources_count": 5,
+      "topic": "Seguridad y gestión pública en Uruguay",
+      "category": "Sociedad",
+      "sources_count": 6,
       "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Libertad asistida para una adolescente por amenazas en centro educativo de Montevideo",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmNGY2J5TllvQnppSTJqaUhIYWotd2JURmNOeTFwUjNwQi05OUo2VW9oTGFvTl93THJOdzVoWFpqMC1VRjU0emVaWF9kbnE3YmV5NmhMYWI0QzkyZlA4cFZXdzBBcE95cGdZbVdsSExfQTVMMEFyYmVOb0ZhdC1heml2N2NwcTJqemVjeW1jX0pFajFaS01zem1TWnY3Rkphd3h1SVotbEg1ZnRy0gGyAUFVX3lxTE9pelk0X3ViV1cycGVzSjZXdlRaVEtOQmpGdEwwZDljcE95N1hvb0I1RDdxWXA2SkpRazFra1dsOF9jOHd5MTJ5U2p6X3NpQzdlMHNsazRaR1NUcHoxNkxmVlBnWjRscFFXck1VR1pOODVHdWZKdmI0MzdJamFkcVk2aUFoS1BLY0tIY3k3RDIzc2s4RUhtX2E0N2xlODJ5TGlNNHNBLU9qQUhVVEY2elg3VWc?oc=5",
+          "description": "Libertad asistida para una adolescente por amenazas en centro educativo de Montevideo &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-29T23:15:00+00:00",
+          "score": 1,
+          "score_reason": "Titular puramente informativo, neutral, sin énfasis particular.",
+          "score_pct": 10
+        },
         {
           "source_id": "grupor",
           "source_name": "Grupo R Multimedio",
@@ -14,12 +29,204 @@
           "source_color": "#6A1B9A",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.grupormultimedio.com",
-          "title": "Carlos Antonio Butureira Diaz",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxTHl4cVhjM2kweFZNZnBldzRTYnVZYjJYLWhpZmoxck1fdGZYZnlLUEZFMHQ3WE5PN2hTdHhVMFdhbHk4QmNSbzYxRmFPU0M2cHBjUklKSTdGNjFkZndsWlFJbGVRTGk5U1U2TDJYanlPQnZNNGtZ?oc=5",
-          "description": "Carlos Antonio Butureira Diaz &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-04-29T03:24:09+00:00",
+          "title": "Montevideo tendrá cortes y desvíos por el acto del 1° de mayo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWplSlhIQkczU09JeXBrU25WRkhFY2dGVEFlV1dPUGdPM0dfM2g4RXd1UVltbWlUZXNGVG1LMG9ocHljZ1J5V1RteDkxRmdKYmNyZkhwUU9pRWxIOTNuVU82cWswVENlV1dhWS1SN2EtN1VLaXgtQVRBdU9IYjNDdVcxR0FpVzlKbVZqUUtSMDFQbUpYdGxTWmZ3QktjWnpa?oc=5",
+          "description": "Montevideo tendrá cortes y desvíos por el acto del 1° de mayo &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-04-30T19:27:21+00:00",
+          "score": 1,
+          "score_reason": "Aviso práctico sobre transporte, informativo y objetivo.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "La seguridad redefine el mercado inmobiliario en Montevideo: barrios ganan peso y otros pierden atractivo",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMVRWOVh6RFJVemJ5N1hoSW95d05XZmtCVUxjSnR1ZDloMmxFTlhmWTZrT3dmeTFrVWNid25hWUIwenhGNmo1b2RzM1d1SDl6TXZhdGhiUHdlWlBvVmZMNElUYnlDZG1tcW9aU3ZYUlFfVktpbWRYU1dhM1lwc2VuTHB5XzBjNTJmRHhDaGdHeGQ0MXIzNnlyd3A4R0xPVzh1OEhsdWIzaHZHQ21DOGp1bWFzRTVqY0t6dy14R0tBUS1aRy1LS1h3dWpaZW1PYWdsdTZoMElNU0pycElIMTFWQTlB?oc=5",
+          "description": "La seguridad redefine el mercado inmobiliario en Montevideo: barrios ganan peso y otros pierden atractivo &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-04-30T08:36:36+00:00",
+          "score": 2,
+          "score_reason": "Lenguaje descriptivo, factual, sin carga emocional aparente.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Ignacio Ruglio desde Brasil: “con Diego estamos espalda con espalda” | La Mañana del Fútbol | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSnJXUVJEWmpoM0o2N3hHUXZQNUtVX1lZNm0yMFZvbjJxdkliSnprLVNRR2NaLV9iVURibktoV1FsaVV5eTdRWUZaLXhyOTgtS1pWQ0JHUXJzcE9abjJZQm5oR01GdXJjYks0RGhmTy1idlplU0tETWxseVVWXzBORHFsZU1aT2cwNjVWamdma2FjUEEwVlhqUkg2ZWhsVXdzeERyajloWTY3UmQ0?oc=5",
+          "description": "Ignacio Ruglio desde Brasil: “con Diego estamos espalda con espalda” | La Mañana del Fútbol | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-04-30T14:10:05+00:00",
+          "score": 2,
+          "score_reason": "Cobertura deportiva directa, sin lenguaje cargado o sensacionalista.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Puerto de Montevideo: “sin dogma”, ANP iniciará dragado con privados y en un año se llegaría a 14 metros",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQkRLYmF5bGlRV00tRUhpcm92bVpPUU1TaUZYVVFVQm1BSXkxWE9KS3FZdFBGcVdDT2Y2eGVaa094ZExCZ3l3NFJfMk95T2R2OHp6OVFvQmJsOHdyalZveG5GMnlUZXhTTzN1YUZ6NEwxdlhteE0zbEMzZTF6dWlDb0x6OEFjSUJwVXRwVEZuTlE5dzItT3k0WnRUanduT0Z2MlRPUXhOY2M4dndPdFkybW9zbTY4RXhjaU1Ic0lESnNtRzdyYlp1R3prTENsVFE?oc=5",
+          "description": "Puerto de Montevideo: “sin dogma”, ANP iniciará dragado con privados y en un año se llegaría a 14 metros &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-04-30T05:00:00+00:00",
+          "score": 3,
+          "score_reason": "Énfasis en 'sin dogma' refleja postura editorial específica.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Abogados calcinados en Garzón: la nueva pista que surgió y el pedido que hará la Fiscalía",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVkFkazF5M3o5dXd1bDBzdVFfNzN1QW5HLWFzMVhDazlsTUItOHFrb2cyTTRQbXNLYWxyR0h2aG1ta2J0UXlMT3ZScTlpUVlVQlFTdkpUWlZWUnJZNklQMUdvNDlzMkUtWjktNTlhZ2tMazVBVHdfZXp4N1o4anRZa0lzVklpLUVTeHpHNjluN0FLVHNoLWJlWndYbkE1Q2NoZmFEWU9HTVZmYmpEZTVGcmdBTzcxWVI4R2EzbGh0c09tbkZlVS1aUVR0akRSVE8zQVHSAfYBQVVfeXFMTl9ySWoya1dLLWhTcjdjem93MnlBNlAwY0dCc0xMSXM4NmtoQ3RLMWlNU2NBVkZ2amxBR2JSUEgxaWN4Wi1oYlNNQlhkemxQanppc0NidmgzTXFhTTF2ODBSdDNvdl9XMkFQNm5hb2NuZXZNeVpmMm12eEFjb1hOQVVIT2NWY2NxdUl4TnpKaEthT3MyQTZLcE1yR0ZoVklxYWI4bklFa0VxUDRUR19nMjE1OFpVZ3NUQjRvYnRLWG5FdkZjVFRwckxGNjJid2FnQkpfQWFsTHJuU2JWVzNkWEdSYnJOZ2hYajlfVzh6Q1Jya0VIQWNR?oc=5",
+          "description": "Abogados calcinados en Garzón: la nueva pista que surgió y el pedido que hará la Fiscalía &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-30T20:16:00+00:00",
+          "score": 6,
+          "score_reason": "Palabras dramáticas como 'calcinados' generan impacto sensacionalista.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Los medios uruguayos cubren diversos temas de actualidad durante el período analizado. Se destacan cuestiones de seguridad ciudadana afectando el mercado inmobiliario montevideano, un caso judicial grave en Garzón, medidas disciplinarias en educación, cambios en la administración portuaria, declaraciones sobre fútbol y organización de eventos públicos. Los temas reflejan preocupaciones cotidianas sobre seguridad, economía y gestión estatal, sin que exista una única noticia unificadora entre los medios.",
+        "coincidencias": [
+          "Todos enfatizan temas de actualidad local y nacional relevante",
+          "Ningún medio cuestiona la veracidad de los hechos reportados",
+          "Predomina el enfoque en impacto directo sobre ciudadanía"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza aspectos criminales dramáticos mientras otros medios priorizan economía y gestión",
+          "Búsqueda adopta perspectiva de cambio institucional; El País enfoca impacto social del cambio",
+          "El Espectador cubre deportes exclusivamente mientras otros abordan seguridad y administración pública"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Crisis financiera y social en Uruguay",
+      "category": "Economía",
+      "sources_count": 5,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Los gastos del Estado",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RWUdmNzVsMjdZcHE4ek9kTE9BYi1aTDVPWWIxcmt3c2loZFpZa1RWRXVLWHk3OXRVaF9ORW1Bckl3bjU5enljaXlrdllkNmtxMlZpTkpVNnIxLXZHM3VhdmN3cmJlSUR1b1hpQXBVVXFRVDQ?oc=5",
+          "description": "Los gastos del Estado &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-04-30T07:31:05+00:00",
+          "score": 1,
+          "score_reason": "Título extremadamente neutro, puramente descriptivo sin adjetivos.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "José «Pepe» D’Elía, presidente del Pit-Cnt durante tres décadas",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaXE5MEFnd21ZbXUxajJtUUNNaWNmWmJaRTIwUlVUb2ZNOHRDbnYyb0ZPbEJMcFVGdklSdGwwb3l5Nm1TMXYxak9UUVhxMFVrNlFnR2MwTzgtcUdDOWhXMmpzc3EtYWhrVUg3a0c1UlBvME9KVkpzZTM3X01FYVBOOGpXWkNlRmdkRENzakJseTBEMFFrc3RKazEyaUlSaXM?oc=5",
+          "description": "José «Pepe» D’Elía, presidente del Pit-Cnt durante tres décadas &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-05-01T03:04:15+00:00",
+          "score": 2,
+          "score_reason": "Titular informativo sobre trayectoria histórica, sin carga emocional notable.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "El gran desafío que viene: ¿Cómo se va a financiar el desarrollo en Uruguay?",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3FxeTBDUFVkR2ZpeUFBT2tsOVEwYXpJVlhKSzJBdDVFOTViM3JoS3lReG5qMVNRc1NCMXVVZDJqbTJQR1RPTXZxSFRFZlBza0ViS3A4MWp4Y1otaTVobzF2VVVzcG5LYmpXWkFRMUFYUnhRaG14ZG5FWFBOTW9VS1E0UmRMbXBjQ2V0ZzY5TFItOXJvQUNfM1BaUnEzOC1MTElMOWFfT3Ruby03aVBtc1AtR0c2U2RR0gG-AUFVX3lxTE1JY0xlcDJubGREWWpaNXNnNm5QVVp4NGhac0YtR2NLVDN4NFd5NFZaSFhWUkpocnNSbi12MVlHVE8ybk04aHlIeFBjLUh1NFBtOGdJSmZxZXA3UW05UVlFd0JxdkJqNnRoUjRmZHpZNHJmRU1ILXlBRTBfMlVxVjhyeUVpeWdVSUNKVklmekswRFhxRHNTbVN0WkoxWGJiay0zQjVyM3hqY3h3TkktZHZoaUlXNmphXzNjV1ZNRFE?oc=5",
+          "description": "El gran desafío que viene: ¿Cómo se va a financiar el desarrollo en Uruguay? &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-04-30T15:28:00+00:00",
+          "score": 4,
+          "score_reason": "Pregunta abierta implica urgencia, pero plantea genuinamente el dilema.",
+          "score_pct": 40
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "El eslabón perdido de la erradicación de la pobreza infantil en Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdWpKeUcyZEUyQlc1NzR2YXlPNEdaTzJWMzUwOXIyRGtldDd5SHZvX2Nsc1VtMkNjeE9ucmVPOG9vcnVKcUNVRzFzT09LT2hybDdpRUZlTFFmM04xTTcxYXc3R2R0VUp3YzVSOTFKUW1DbGpuSzA1RjROcDdlcjVzYlh1R181bHhob0ZJQVRabVctWUtveHVqRDRlZjhSMEduaVVYMXV2elI4aUlWNzhpc0YyOTQ1cXFUcHc?oc=5",
+          "description": "El eslabón perdido de la erradicación de la pobreza infantil en Uruguay &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-04-30T06:20:00+00:00",
+          "score": 6,
+          "score_reason": "Metáfora del 'eslabón perdido' dramatiza problema infantil existente.",
+          "score_pct": 60
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Es hora de retirarse”: presidente del básquet de Nacional tras fallo de Tribunal de Penas",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ3g2NUdyWWFmM3pSVVJoV1dIR2VLVklJUkFjOUQtNlpyR05fZV9oa2t2REhIRlo4Y0hMRl9ocllObWowSmNxOTZ2WldrNFp3NXJtYWZDWC1PMkJ0bWh0RlVxZlRhbWxLNW5OV3haSF9XR2cxZ3Y5OUQzelVheGpnV2RHSEt4NE16aUY5Z1ViRTBUbWxtUTVRNWpVMzlFcGxiNjJDa1ppWHhPNjJCN050UklVMkNXcnUyZDVaNUlreVhSZ1k3eGtEUWFlNE5CNHU4Z2840gH3AUFVX3lxTE1TdEJiV0FjZFFTa0hFUzVoUXdia0dYZzhxa2l6OGZpeElOQmRfS3BmZG9rMGM4cElKNUJWMlRqZkRvc0JHWVhXYVFoV21TOWg4Sk9qRE1uTzNXcVlQMnVBcU5hV1FVWTVwTU9ON1M3UllWTE5TMUNQNkdSa2NVRnFtTWFmMmZYYWVYRU1iS1BnWG13QzN1M2g1ZHRHUmxNXzh0TS1iWWV0aC1HVHRZR2VHOXhhZkR6THQyYTJ2Qk1WVEN2aW5DaXJaWUlqaXRya3pXUVlxSW9FR0hWdFRudW9oeTBoZGhSMHEyOVFwNGdvOEs5QUxDd2M?oc=5",
+          "description": "“Es hora de retirarse”: presidente del básquet de Nacional tras fallo de Tribunal de Penas &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-30T23:02:00+00:00",
+          "score": 8,
+          "score_reason": "Frase dramática entre comillas sugiere renuncia inevitable, sensacionalista.",
+          "score_pct": 80
+        }
+      ],
+      "analysis": {
+        "resumen": "Uruguay enfrenta un desafío complejo vinculado a gastos estatales insostenibles y sus consecuencias sociales. La noticia abarca desde la gestión fiscal del Estado hasta impactos en pobreza infantil y desarrollo económico. Se menciona también un caso disciplinario en el deporte que refleja problemas institucionales más amplios, y un homenaje a una figura histórica del movimiento sindical.",
+        "coincidencias": [
+          "Existe una crisis económica o fiscal que afecta al país",
+          "Hay problemas sociales graves, particularmente con sectores vulnerables",
+          "Las instituciones enfrentan desafíos en su funcionamiento actual"
+        ],
+        "diferencias": [
+          "El País y Búsqueda enfatizan aspectos macroeconómicos; Montevideo Portal se enfoca en consecuencias institucionales inmediatas",
+          "Algunos medios responsabilizan al Estado (gastos insostenibles) mientras otros contextualizan históricamente (D'Elía, luchas sindicales)",
+          "El tono varía entre análisis serio (Caras y Caretas) y dramatismo fáctico (Montevideo Portal con su titular emotivo)"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Sanción a Nacional de básquetbol por incidentes",
+      "category": "Deportes",
+      "sources_count": 5,
+      "headlines": [
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Competitividad, construcción, compras con franquicia, inversión fabril, recaudación y mercado inmobiliario en Uruguay en números",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNjlYTHg2QV9zeGsyVUV1OGt0OEcyVGQ0TnJfOGZDSjJrVFdjcEJ1RUxUT0FSSnVIYng2aVNoSkw2bVVKN0RYX1pUaTJFd3FMWW4zN2xDUW42ejVZbHlMUDQ4TjJObXVBd09Uc09TMW5hVjhPZ0tpOU02RmNXcEFfLVdGaHFhWDY5el9aNURyQm5xSk5PR2ZjVlF0ZmtHVmRadUxWbXNZMzFqUlExWkZGLUdXeHBOVXc4MTA2d0FzU0F4Z1I4dnNGU1JHYVVYdHp6ZnpfYmlmdHlpSFBWVF9iNFB5QXF0SDUyWDVvMEJ5eXlDUQ?oc=5",
+          "description": "Competitividad, construcción, compras con franquicia, inversión fabril, recaudación y mercado inmobiliario en Uruguay en números &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-04-30T05:00:00+00:00",
           "score": 0,
-          "score_reason": "Solo nombre de persona, sin contexto ni carga editorial aparente.",
+          "score_reason": "No cubre la noticia; contenido sobre economía completamente diferente.",
           "score_pct": 0
         },
         {
@@ -33,9 +240,39 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRTZLTWxqSXlwcmFxWTNicVljaWZkUnpnMXNmQmhONzRYeC1kaEVDTExUMVVYaEtaZE9xbUtaTUFXc1BCZ05yaUE0dENTT3lVNVFCY0FkT2FvY1V2Z0VhcElLWHhOVkNEdzZMR043LTktb0thd2NjMG9RVVNjUUgwRXVGVDZ6Vmg2R1piUGx6MGpKUQ?oc=5",
           "description": "Nacional cayó 4-2 ante Universitario | Noticias | Fútbol Internacional &nbsp;&nbsp; El Espectador Deportes",
           "pub_date": "2026-04-30T04:22:01+00:00",
-          "score": 1,
-          "score_reason": "Puramente informativo: resultado deportivo sin carga emocional ni énfasis.",
-          "score_pct": 10
+          "score": 0,
+          "score_reason": "Noticia de fútbol internacional, no relacionada con básquetbol.",
+          "score_pct": 0
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "La autonomía económica de las mujeres, el activo estratégico que Uruguay necesita",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTzVwSVNaSk1obVNXdGw3Y25aNlQ0SkF6YnRERzFObmtvcXZmZzlMTFVDd25wQmVLYUFFYVNMeVJpSGRaZ2pLSUctalZWOE9xZy16VTNRejFLSkJTY1FKOHVnV0dHeE83VVhwSEVYUUktMmtBYV9qbWhSMEc1ZnNuYUhuRHFqY1YyZnQzOThYTjkzaGtidklLWV9ObERsdFJHckZmbkxlR1Vram1PTHpkXzJIZE5FcG5WRXBN?oc=5",
+          "description": "La autonomía económica de las mujeres, el activo estratégico que Uruguay necesita &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-05-01T03:26:16+00:00",
+          "score": 0,
+          "score_reason": "Articulo sobre autonomía económica femenina, tema completamente distinto.",
+          "score_pct": 0
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Liga Uruguaya de Básquetbol: Nacional fue sancionado con quita de puntos y podría empezar las finales sin gente",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMXFYQ2NzMWRCNmZHeXVrS09LajJ3c0dvczZEcXRkSThDcDNxSTIwT0FwRGdJaGJ2YzhQbmJ2dDBQYm5pVnRWUE1OQ25tY2Fqd3d3V3h4V25oQUJFTFVCaHdvN2VKdUpqWkwxb2E3SnkyWGFsZm5EN1lfM0E2YVl6Ynd3NEs0Ul9QdHcxTk05cWlaaTkwNF9kY1JoMEp4YUMyS1hXYl9PRGdGVk1ZejkyQXlUV0ROSFlwY1dpREZXTDFHTTMyeFdvLTN1MWlrQWR1MTRKSkdENm8wMWgtLWdTRFF5Nk5aVVQzZG5LbQ?oc=5",
+          "description": "Liga Uruguaya de Básquetbol: Nacional fue sancionado con quita de puntos y podría empezar las finales sin gente &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-04-30T22:03:21+00:00",
+          "score": 3,
+          "score_reason": "Informativo pero enfatiza el doble castigo: puntos y público.",
+          "score_pct": 30
         },
         {
           "source_id": "montevideoportal",
@@ -44,80 +281,35 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "De Arrascaeta: la negativa para jugar en Europa y la vuelta de Suárez a la selección",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUlBNeGN2bm4xYkU0cEpJRXhSTmRpenFxUXlQczFUWm5TYnpza2lQel9CWW1fWEtEcDRBQ0htLW8wRXNvcVFpUGtOZG1QT3gyM2lvS3E3WGFLWHBlbHpCQkdLLURTUHhKRGZ3MEYweVByRU1BbWNSRUJaWjFHV0FTb0pVbGpJZFp3MUJrRHpOME5fQ0FLeUxTNzZCblJtVjhrMUk1UTg3bWNiSkZQN0hZRGR2Y05pOU9YdUpFVlBJb2ZQUGkyeUd5dGg0WdIB7wFBVV95cUxOY05QbC16LTd6dDNKdEE3VXE5MFJrQ2E0LWZuMFdwcHJVNDhfaW9YT0ltaEpqQ3prTWd0Y3BaQjFnSFA5NzVuX25JVm10VHQ0SjJyc09ZMmVBVzdOU2RHYTVIaVRBVHBjTEJwaEF2SWRQWk5xLUVMQlNUbXoxNURWUlBtYWVxem52eTBWZ2NKMzVKNkpkNDZrWXZFaW1fWjB0TlVWa3Z4VHhTTndvQmpGRy1lZ1BGZjBjQlFaVVZQNzBmcUlLMW9uZ2d2OEVzWDZ1TXQ4SkZ1eXhxa3l2VDZ0ZnptTktnZGgxS21XSFNxOA?oc=5",
-          "description": "De Arrascaeta: la negativa para jugar en Europa y la vuelta de Suárez a la selección &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-29T17:03:00+00:00",
-          "score": 2,
-          "score_reason": "Plantea hechos concretos sin adjetivos emotivos ni exageraciones.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Acuerdo Mercosur-UE se activa con incógnitas: Uruguay deberá “convivir” con la “ley de la selva”",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSV8teDdfYy1pSXlRdzd1WnRVcFljODBpQXhOeGx2QjIxbDd6TWRBQlF3aG4zLU9kelRGQVpTUnhEOE1TdlNNSHhEY3hKTElFYTZ0bUJWX0o5Z3FpN2tUT1VEaWtqMHN4UW9lLWdMSDJPOExRMl9PaVd1bEFGSEg2eTJxTkdVX3Z0RlJ2bk10cU9WRVpCcDY1Nk1RYnhOaF9HSzNlNWZ6MHczT09Qc3VDUUQ4UDU2dkhBQ29zT3FreHVFbWJB?oc=5",
-          "description": "Acuerdo Mercosur-UE se activa con incógnitas: Uruguay deberá “convivir” con la “ley de la selva” &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-04-30T05:05:00+00:00",
+          "title": "Básquet: quita de puntos y durísima sanción a Nacional por incidentes en el clásico",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYlpQS19mQXpnZ3VoU1NHOFJYVTEycTdGdkRTMzBhcWVxRV9wWTRDLU5XM2p2RkppcDV1Wm5tbXB3WlpobDFmLVI0YXRTSXdGNWZQakJiODFGbkpHMjJtTUR4T2ZuamlmSGJ5MGhNTHV6Nkd6LTI2NkhyZVQyby1JODdaV1RuTnFCRTZUY09Vc0RuSGxabXNMOHd3enVnVzRrY0F1U1REbkZ4MjVPX29qOHRoZmwxaldSYVFLNFVuOGRBZUFEVlh3RDRB0gHuAUFVX3lxTE8wSFpXTFZTcWJIcnhHZkdSbmh3S3hRdHBJSFhqclpvRWlzTGN6bnM2WDhwbjEyU2xBeFdxRGp3bG8tY2ZKUEx6bHBnc0NUbHNxLWt3X0Zlbk1naXM5TVUxZkF4WHJGd1VrVmdoaXJ3ZEtCc0dJemlQZW1CMENBOWR2OHdNRFRJc1ZGOUVoY1psbVh5MWhWRUxLVlVWZW1tcEg4MWEzX2I0ZE9iYnFYeW5JX29TNzZkR0hyd1pOakM1c1dsa1ltYVBFbGNucVVheTJacFBsbFBaUDBVNGF6UmwtdmF4dE40RUZDU3BpR1E?oc=5",
+          "description": "Básquet: quita de puntos y durísima sanción a Nacional por incidentes en el clásico &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-30T21:43:00+00:00",
           "score": 6,
-          "score_reason": "Frases entre comillas como 'ley de la selva' generan alarma innecesaria.",
+          "score_reason": "Adjetivo 'durísima' introduce carga emocional y dramatización.",
           "score_pct": 60
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Mirá la increíble jugada por la que la MLS multó a Luis Suárez después del último partido del Inter Miami",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlYwazFaUlBCdmZCS0xjZXRqQXpaZjVwWE9DT0Z3VGNzN1BsR2EtTTI3dl9MTTI2Y3Y2UnBRalJLSV9JdE5GVkRqQWhfdXJJY2Z3V19KeE8xSW9YcmRGczRvMDBFc3diWU4wLUhRaHFidkZDX1AxdkdQaksyaC1DWHBsaVB6VUZWczRINC0wdFBlN2p0NUxwRE5GQzFLdVhGZWZhT3BFUDZaNXZ6ekJBNlhIbTJqZzhZNkJFbFFwNjlOdWQxM05qWkxucjVzTWZWQ3FOTjU4RVN2WG1tNW1z?oc=5",
-          "description": "Mirá la increíble jugada por la que la MLS multó a Luis Suárez después del último partido del Inter Miami &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-04-29T22:48:04+00:00",
-          "score": 7,
-          "score_reason": "Adjetivo 'increíble' carga emocionalmente una sanción deportiva rutinaria.",
-          "score_pct": 70
         }
       ],
       "analysis": {
-        "resumen": "Los medios uruguayos cubren una variedad de temas: la sanción de la MLS a Luis Suárez por una jugada en Inter Miami, la negativa de De Arrascaeta para jugar en Europa y su posible regreso a la selección nacional, la activación del acuerdo Mercosur-UE con incertidumbres sobre su implementación, la derrota de Nacional 4-2 ante Universitario, y una noticia sobre Carlos Antonio Butureira Díaz. La cobertura refleja la importancia del fútbol local e internacional en la agenda informativa nacional.",
+        "resumen": "El club Nacional de básquetbol recibió una sanción de la Liga Uruguaya por incidentes ocurridos durante un clásico. La penalización incluye quita de puntos en la tabla de posiciones y la posibilidad de que el equipo dispute las finales sin público en su cancha. La medida se implementó como consecuencia de hechos violentos registrados durante el encuentro deportivo.",
         "coincidencias": [
-          "Luis Suárez está en la agenda informativa por temas relacionados con sanciones o selección.",
-          "El fútbol nacional e internacional predomina en la cobertura mediática.",
-          "Existen noticias sobre temas económicos y políticos paralelos a los deportivos."
+          "Nacional recibió una sanción por incidentes en competencia de básquetbol.",
+          "La sanción incluye quita de puntos en el campeonato.",
+          "Existe restricción de público como parte del castigo disciplinario."
         ],
         "diferencias": [
-          "El País dramatiza hechos deportivos con lenguaje sensacionalista, mientras El Espectador mantiene objetividad factual.",
-          "Búsqueda enfatiza riesgos económicos del acuerdo, otros medios priorizan deportes.",
-          "Montevideo Portal equilibra fútbol local con contexto nacional; El País se enfoca en drama individual."
+          "El País mantiene tono neutro mientras Montevideo Portal usa lenguaje emotivo ('durísima').",
+          "El País especifica 'podría empezar' (condicional) mientras Montevideo Portal afirma la sanción como hecho consumado.",
+          "Tres de cinco medios no cubren la noticia, sugiriendo diferencias editoriales en relevancia."
         ]
       }
     },
     {
-      "id": "story_002",
-      "topic": "Italia indulta a Nicole Minetti tras caso controversial",
-      "category": "Internacional",
+      "id": "story_004",
+      "topic": "Gobierno aumenta precios de combustibles en mayo",
+      "category": "Economía",
       "sources_count": 4,
       "headlines": [
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Migración en Uruguay: ¿Qué pasa con el proceso de legalización?",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGNnV3VHSnF3akRkUW9qOXd1SmlMSmlYeGJnS2tmZVNtaUthZzdjY3R4MTc3VDNpNE1mXy1rbkRnb0RmZ2hrZWsxTEVnNHNUV3BNSkxyRjZCNVJSNjhoenRhb1hqaENrNGxkeEQyY2V3bG9WZGtQYWNmZkluOUFPRFJtd0Y3QVZ3Mzh0Qnh2alBYWFlZNmYzMVFZdVhYbHhx?oc=5",
-          "description": "Migración en Uruguay: ¿Qué pasa con el proceso de legalización? &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-04-29T04:35:04+00:00",
-          "score": 1,
-          "score_reason": "Completamente neutral, enfocado en aspecto administrativo migratorio.",
-          "score_pct": 10
-        },
         {
           "source_id": "elpais",
           "source_name": "El País",
@@ -125,13 +317,13 @@
           "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elpais.com.uy",
-          "title": "Las claves para entender el caso Minetti: de las fiestas de Berlusconi a adoptar un niño en Punta del Este",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcm1YcEtjeVBXTnJpQ3J3YUtpVXA0Q2FuUTZibWpuY0RrLWZ2NWVfZE9adWk4bHNnVjl1UGJTQ3NuMHlQTzNicGxvUjl4OXEtTmd2d1ZZX2w2bGk2dThoemZSSlRGSFY1RHF1N1haQmc4SFMtbzB1U1Y2N243RFI2ZVZCZ3NwMXdIc0hfR09qbGRpR2lYak05dnpma0J2Zi1MSUZXYTV5a2ZwdXdKT1ZpZHN4ZmdJemstcExHSS13OS10YjZlalVHYmRxa3RJNWIxWWtr?oc=5",
-          "description": "Las claves para entender el caso Minetti: de las fiestas de Berlusconi a adoptar un niño en Punta del Este &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-04-29T13:11:42+00:00",
-          "score": 3,
-          "score_reason": "Informativo pero conexión entre hechos sugiere narrativa problemática.",
-          "score_pct": 30
+          "title": "Aumento de combustibles de 7% y 14%, ¿cuáles son los nuevos precios que rigen desde el viernes 1° de mayo?",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTV9Mam0tcXBHRExqa2N4eG5lak5GcHlLcmp5aDB2RjQ2Wm9CdFRqMUxsdGotU0ExSU9MbGhnSi00TzE3REJnaE1oOXlvVEswdnZZejlwZGxGN0lCOHUyZVNaNmtZcGVxaExxOWJ5UmowNlNCaWhLQXZRaUYtZ2paR1l4LUFDcXdNR2hzQV83UmgzVkItcDFfbGZ1WS1LQWdfLWpMQUxSbFFVLWpaNl94TUNISDNMY1JzT05HZ0R5T05OWUpvaUU2ZkE0N2x6Sm5VYWFLaTVnZEphVV9X?oc=5",
+          "description": "Aumento de combustibles de 7% y 14%, ¿cuáles son los nuevos precios que rigen desde el viernes 1° de mayo? &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-04-30T21:55:25+00:00",
+          "score": 1,
+          "score_reason": "Presenta datos fácticos con interrogante, tono netamente informativo.",
+          "score_pct": 10
         },
         {
           "source_id": "subrayado",
@@ -140,63 +332,12 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Caso Nicole Minetti: indulto en Italia, adopción bajo sospecha en Uruguay, incendio fatal y desaparición",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHRicDNMUFBsQ0NUS1F1eUdKWldZdU5oMlNKN2pnbnFLc3Ztd2JkY1hJc0FFTC0wRG03VTctclpDWi1hcmF0Z0NlTy0tY3JCc2dmM29TdnRtZU9TTWYwbDNLakkwcDlKOUJpYWlyZUpwVUpNOVZvcDRIcmpvbjZabjFPYlBneGltaHUtYnAyMWQwc1lUeEpybWthVXlIakY1NTVFeUREME1QQUpUcjNnNWFOVjlVNGNkdl9EcEFtLVhVMVFwQWhv0gHMAUFVX3lxTE1wb3d2ZGJVMFlLMS1qaTI5eWRnblBMZENoOFV0MDRROG5QaU5sZVVUaEp0My1uOW1zTUhrT0VFb0d4QjFQWjhEdEI0bVgtcnAteXJmVUw2U2ZUdzdMX0ZXNHpzUnZxb2RRaW9DOGlsdDROaUdYak9KTHYwMTRwemhZVHA0bkk3emY5aWxxN1pvS2g0OUM2dlpJMjQ3SVVQcUpmNVd3cS1rTmpSZFFBX0xudWxSSkZwd21GNGEybTZyS2h1M1ZmYzhaZWg2Ug?oc=5",
-          "description": "Caso Nicole Minetti: indulto en Italia, adopción bajo sospecha en Uruguay, incendio fatal y desaparición &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-29T23:18:00+00:00",
-          "score": 6,
-          "score_reason": "Acumulación de términos negativos genera sensación de gravedad exagerada.",
-          "score_pct": 60
-        },
-        {
-          "source_id": "lr21",
-          "source_name": "LR21",
-          "source_short": "LR21",
-          "source_color": "#827717",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.lr21.com.uy",
-          "title": "Italia indulta a Nicole Minetti, esposa de Giuseppe Cipriani, en un caso con muertes dudosas y extrañas adopciones",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUVQ2OXJQcFZwU0hTS2ZnZncyV3RySkZDVm85Q2ZIT21mY1l3NmI0QTJNVnBPdzR3Q2ZKZ3FmbU5wUzFUUGFteUFLcy1hNk5ucnFqTmRRamo1Ql85SmFPREJlZnNfRUdiVzV5VTZrWlRZb1hFTGJ6U1ByS0RtUENnM1JDR1Nac2U1eFZpYUtSSnVyN0JCZFZLQlpoNGEwRVdNVUN5bGRpcw?oc=5",
-          "description": "Italia indulta a Nicole Minetti, esposa de Giuseppe Cipriani, en un caso con muertes dudosas y extrañas adopciones &nbsp;&nbsp; LaRed21",
-          "pub_date": "2026-04-29T15:20:28+00:00",
-          "score": 7,
-          "score_reason": "Adjetivos como 'dudosas' y 'extrañas' cargan emocionalmente la noticia.",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "Nicole Minetti, ciudadana italiana radicada en Uruguay, fue indultada por Italia en un caso que incluye su participación en fiestas de Berlusconi en los 2010s. En Uruguay, está involucrada en un proceso de adopción que genera sospechas. El caso también vincula muertes cuestionadas y una desaparición. El indulto italiano ha reabierto el escrutinio sobre sus actividades en ambos países, particularmente respecto a la legalidad de trámites migratorios y de adopción.",
-        "coincidencias": [
-          "Existe indulto otorgado por Italia a Nicole Minetti",
-          "Hay conexión entre caso italiano y situación en Uruguay",
-          "Adopción en Uruguay presenta irregularidades o sospecha"
-        ],
-        "diferencias": [
-          "LR21 y Subrayado enfatizan lo criminal; El País contextualiza; Grupo R ignora lo sensacional",
-          "Algunos medios vinculan todos los hechos como patrón; otros los presentan aisladamente",
-          "Tono varía de informativo neutro a claramente acusatorio sin probanzas completas"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Múltiples noticias de actualidad nacional e internacional",
-      "category": "Otro",
-      "sources_count": 4,
-      "headlines": [
-        {
-          "source_id": "lr21",
-          "source_name": "LR21",
-          "source_short": "LR21",
-          "source_color": "#827717",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.lr21.com.uy",
-          "title": "Cancillería emitió recomendaciones para uruguayos que viajen al Mundial de la FIFA 2026",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVRyQVRES25Zek55M1Etamg3WnF0VFc2cU5NeDRrMDJTOHcxOEZfbTN3VHRGYmxxdWJNRllWU0dFZmg3YmhJa2tESzI2UXV2cERteTZrMWw1R2FhUWZHVlJfaXN3TTRtbzAtRFd1WUN5aklBV3luUDhkZnZrcTBKc1EyRXVELTVkbFR2T1hsbUdScE1vY2FtaWJ3?oc=5",
-          "description": "Cancillería emitió recomendaciones para uruguayos que viajen al Mundial de la FIFA 2026 &nbsp;&nbsp; LaRed21",
-          "pub_date": "2026-04-29T15:31:35+00:00",
+          "title": "Gobierno fijó aumento de 7% para la nafta y el supergás y de 14% para el gasoil en mayo",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQXzlrejB1X05pUll6a2NrSmFPcXBVMy1pUjhnbjQxTWt2WGhNSGhSV2hFWkU1VmJhbkdyd3Q5WG5kejlnNHVfQl9HQ2tpWG4tb0pFWDJEU1RLS3AzUWh0TzI2dFQ4RGxKaE5qY1hPT0ZkSnR1OGtKcmNJdk1KTFNQUW04SHlVc2VManM1QVlDeFVpa2NYcXNIdUZFMXYzRXdOSm94ZHBtZ9IBrAFBVV95cUxPcV9WdFc5c0lsLTE3S1h5ZmNkaElhOWlQRTNMNUpTUmFlT2UtQlgwcXpMemxTYVQzNGZCZS1VNGl0YVR2YWRxWEdna0NickpFelJrN3RCUXNfVGpudTZBNGR1WXItSkVmcjI3aVVxTzR4dmNmQ1RreGtOVjR0dDNOT1VhaVZyRmxfNTJvV2xPZVdiWUVrT1pNMDNqcklMWjN0Z2RscXlqeEtKSXJL?oc=5",
+          "description": "Gobierno fijó aumento de 7% para la nafta y el supergás y de 14% para el gasoil en mayo &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-30T20:18:00+00:00",
           "score": 1,
-          "score_reason": "Reporte factual de recomendaciones oficiales, completamente neutral.",
+          "score_reason": "Atribución clara al gobierno, información objetiva sin carga emocional.",
           "score_pct": 10
         },
         {
@@ -206,12 +347,276 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Anuncian cambio en el tiempo con fuertes lluvias y tormentas para Uruguay: cuándo será",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmVQM21OcjJtcVRkblpZV204MTlGdDRsbVVEb1FIWnNLVkxNVHdMelowYm9keWRpamNnS0lGWjFSOFROUHBrdUdfbTZBUFp3X2hGVjlsQUo5cTQ0OEZPU1VGMGVLMFNQY3d0VzhlRFNEN0RuN3l4OGxWLVJlMWd1VGF6VmhDaklHQXhybENhRkdhS3pSNXZDXzBJcFFvd1loMUx5YXZzR19KUkdaX3VzYTNJZ2ZXRTU0TGVHTjZ1VkNmQzNWZjZldndKODA3QdIB8gFBVV95cUxNaWh3ZUhGWE1sQng4WHZRdWJSZldEcUh1T2p0eV9URUVqeTJha1RsOC1hcGlFVWRkR2NBMjB5bFZCd3RkeS02TFRSNENicjRmdFRmc0hqM1FJdWxrTHl0MEtpNVVOYnUwdG1hbkEyM0s2TUF5ejZuVFBiM2hINDdlUEdxMktnV00zR1VUaWxlQ1dhT2NXZmZuRndXbGZIb3VXLVl2bEIwTEtDU29YcUJmWkVqdHp6Z2RYRDE3VnNWMTJ3bmV1aDJwWmQ2bFRZb09Vel8yb3M0UnUxMW02ZGFxWGVGUU0wZm5wUU5lYVhONHVYZw?oc=5",
-          "description": "Anuncian cambio en el tiempo con fuertes lluvias y tormentas para Uruguay: cuándo será &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-29T21:02:00+00:00",
+          "title": "Sube 7% la nafta y 14% el gasoil: mirá nuevos precios que regirán a partir del 1º de mayo",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNako1eTZhM1dTY0VfNVNWZkl0TnJZMUdpckpQVlJLZm1jT3BGX1ZOUkpFQUV4VEhxWHAxbzU5VV93N0hrYUdKbWctUlFSSzItNWF2bnI3dlNKZkhLNVJkUEo0YjhTQkVNWlBPa3lZaFQxTmNQakFRcUI4VXdpcVExMWRoRXRNNkFyOWs1Um9WMGVDVGxaeEJnNndjcDBRRUdqakQ1V0NVVVFxLXU0ZTFnVFZFM2k4VTBDVy1COFlNajc1d1FCYTBCQy15RWNsQdIB8gFBVV95cUxQTGV6VHRMR1RrcWdRZ3FkM0FIYXYtNEJvdExVajNKdU9GQjdFZGVpQ1RldDl3RlVRU0RiVUUtRlhoWXp1cy0zTlp1MEdaUUt3QjJFQTFiTWljbE1tQmJNd2hGdWF0ZnkxUkxOcHdMTFN5MXFiRDF1ZDE1cHZiOUwtdzk0UVJzMGZ6LVdWb3lXZnZjTFdJOWh3WXVQZTJtN182OUJQMEVhSjdvbVdiekFIUEt2d1JaLXpqNmFnOXdpQjV5YjJReE9MUjQxMlJFTkJJbHYtYV9HMHpVbHBQQWtTZWJGRldXM1Uza1RNOS15ZVZldw?oc=5",
+          "description": "Sube 7% la nafta y 14% el gasoil: mirá nuevos precios que regirán a partir del 1º de mayo &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-30T20:36:00+00:00",
           "score": 2,
-          "score_reason": "Información meteorológica directa, sin carga emocional innecesaria.",
+          "score_reason": "Lenguaje directo, verbo 'sube' es natural, invita a consultar precios.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Combustibles suben en mayo: 7% la nafta y el supergas y 14% el gasoil",
+          "url": "https://www.teledoce.com/telemundo/nacionales/combustibles-suben-en-mayo-7-la-nafta-y-el-supergas-y-14-el-gasoil/",
+          "description": "Los nuevos valores de los combustibles se fijan en $88,03 por litro para nafta, $57,72 por litro para gasoil 50S y $101,26 por kilogramo en el caso del supergás La entrada Combustibles suben en mayo: 7% la nafta y el supergas y 14% el gasoil se publicó primero en Teledoce.com .",
+          "pub_date": "2026-04-30T20:32:45+00:00",
+          "score": 2,
+          "score_reason": "Verbo 'suben' es descriptivo, incluye datos específicos de precios.",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "El gobierno uruguayo anunció aumentos en los precios de combustibles a partir del 1° de mayo: nafta y supergás subirán 7%, mientras que el gasoil aumentará 14%. Los nuevos valores serán de $88,03 por litro para nafta, $57,72 para gasoil 50S y $101,26 por kilogramo para supergás. La medida afecta directamente al transporte y los costos operativos de diversos sectores de la economía nacional.",
+        "coincidencias": [
+          "Todos reportan idénticos porcentajes: 7% nafta/supergás y 14% gasoil",
+          "Todos especifican la fecha de vigencia: 1° de mayo",
+          "Todos atribuyen la decisión al gobierno como responsable"
+        ],
+        "diferencias": [
+          "El País usa interrogante para enmarcar la noticia como pregunta informativa",
+          "Teledoce es el único que incluye los valores numéricos exactos en el titular",
+          "Montevideo Portal adopta tono más coloquial con 'mirá' dirigiéndose al lector"
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Sentencia judicial sobre amparo de medicamento para Moratorio",
+      "category": "Salud",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Defensa de Moratorio presentó recurso de amparo por medicamento de alto costo; la sentencia se conocerá el lunes",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdHdQaHJqXzlveldyak9nVjg3dEFxVjFMQm1kS2dHWVNIc2hjUGVUTFlxbjktLWVaWHF6SzZPMzVFOWpZcjBwQjNGWl8zdkRWcGR1cmE0RG1aSGlLeUo5cy1aVHNSZ1FpM3RmVERZTjRBRV9aeW4waU1KRExpUXZPUnh0cHNLQXFJMVdUMEZyajM4TzJlRVV1S1lyTlRTMnNPTVBBQkZFOHN0U2Q1TWtEaWNmcERSN3JqbHZZbWdSV3NuT1BJUTFVdmJ0UkdrTjFTTmfSAdcBQVVfeXFMT2FPeHBlMWhDVGtZbG43QUViTi1SaC1FRUE2bnFRMXFXbE8waFJHZGFKb1hIUVdBZ2FRTmViWUpXdHY2d2Z6cXhCUnVsYW9XcFRGZDZHUGE1NkVTTUlOSnJvM2dDakF2cUVIWUdrU2FnckVTb3BLRmdLQnN0em1LeEUwaWVNakRQcXQtd1NUbVZVR3ppaVFSdXlRbEJSZVVxRzFWWVNBTFNrSXlNVVdDZGx2Rl8tUks5aUpTeUFSUjdENnZtWEdON05tYzU5Z2V1V0RlX1dqQ2c?oc=5",
+          "description": "Defensa de Moratorio presentó recurso de amparo por medicamento de alto costo; la sentencia se conocerá el lunes &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-30T19:39:00+00:00",
+          "score": 2,
+          "score_reason": "Descriptivo, neutro, sin carga emocional ni énfasis particular.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "\"Lo vamos a lograr\": Justicia anuncia el lunes sentencia por pedido de Moratorio para obtener fármacos de alto costo",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLV9iZVpucVBMU0hKanJhZ01FNjdYUjh0aHlWdmtCbW9OcVpnYU44bHlhZk01TEFVd3NTOTBCQXRZc2VDX0xkMzNDSC1QdWFycWNMQjB0eERJSkIyREV5V0RVRVlmazRSWEQ1d0dyY0tFWmdvdjMzeHJaZ1h1RG5uTnBTbEw0cFdzbXNHUTR0OU56UlM4Uk5XbkJlcW5Tb3g0WjNRNmp2QUlCWE9PdmdyTy0tcmlCY194Nnp5Yjc3MklDU0pjRGgwOENxN0J3N0FmRk40SzFBZ054bFlEYjFVVXNWX2tTcUJDWFlBelhR?oc=5",
+          "description": "\"Lo vamos a lograr\": Justicia anuncia el lunes sentencia por pedido de Moratorio para obtener fármacos de alto costo &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-04-30T19:33:20+00:00",
+          "score": 6,
+          "score_reason": "Incluye cita optimista con énfasis emocional injustificado.",
+          "score_pct": 60
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Si no hay tratamiento, no hay Moratorio”: qué día se conoce el resultado del amparo",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS19nOG5weHBnamNBbXBtTVQweElDSk1vaWtMaDZKMWRCcGhSWXltOXBVWF9DWVhTNjVMeGNZWFFzcUQtVDQ1d2xfdnFtc1NMQXprNnBlVnVmbFRtV1hfLVpuR0p4LUJUVkhFS3lMZXNKOS1JejJzUFdRVEwzbl91S3htTXBhcDBERmFlU0Y1TG1fYU84dk1pMy1LWi1Qc3ZvYlNDZU42MklQd28xMGV0dWFmQVNEQU5uYmVjYnpNRHo5R2Z6a1piN2V30gHuAUFVX3lxTFBlR2VVX1lPRnhfWjBWX0c3ZWRDM01sNGJISWk1endzMHdhN2gyc3dhdHFvbFJXX2RkYVJ4ZmFFRnR5N2VYVG9ySVEzMGRSQ2h6QmxuUjlBMWdVV05EcnpSTmE4YXpuZlYzOWlUeGVaY0Q4YlV4bm5jZWRfYXdSV2pveDBwbHRGWXhmWHVMN2RKanF3UmsxOWs4SnpzTUkwMVJZWkt6aXJFNGVncTdOMWVSMlhWWUwxb2c1M0syUlZ5U1N1cGZXS0plNjJaLVlrV0VfU2FlaWdCWUFJNGdKdm52VjlmU0gyUDlpZVNYd3c?oc=5",
+          "description": "“Si no hay tratamiento, no hay Moratorio”: qué día se conoce el resultado del amparo &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-30T19:40:00+00:00",
+          "score": 7,
+          "score_reason": "Condicional alarmista; vincula existencia de Moratorio a tratamiento.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "La defensa del expresidente Moratorio presentó un recurso de amparo ante la Justicia para acceder a un medicamento de alto costo. Los tres medios coinciden en que la sentencia se conocerá el lunes. El caso involucra la disponibilidad de un tratamiento específico y su cobertura. La noticia refleja un procedimiento legal en curso donde se definirá si se otorga acceso al fármaco solicitado mediante la vía judicial.",
+        "coincidencias": [
+          "La sentencia se conocerá el día lunes",
+          "Se trata de un amparo por medicamento de alto costo",
+          "Interviene la defensa de Moratorio en el procedimiento"
+        ],
+        "diferencias": [
+          "El País destaca la frase optimista del Poder Judicial; Montevideo Portal cuestiona la relación entre tratamiento y Moratorio",
+          "Subrayado usa lenguaje puramente informativo; El País y Portal añaden interpretaciones o condicionales",
+          "El tono de Montevideo Portal es más crítico; El País aparenta mayor optimismo sobre resultado"
+        ]
+      }
+    },
+    {
+      "id": "story_006",
+      "topic": "Distintas noticias de medios uruguayos",
+      "category": "Otro",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Murió Fabián Oliver, sonidista referente del cine uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObDB0amNuOEJkSHlic3lsQm9kVkRYZEstc1hiTG5iaUthNTVmOW9sa0J4dGNGamZxZTItZk9ndTZKelVrS2lNa1hXdDBVR2x0aHZJdlo2eUNCTi1PZmsySUtiTTZhcE9fS2NpXy1ndEE5WTIzZWRXdEJ3b1RmdmNva1FwQzg3dGVQRThid3NiSTlrNVRDcEhwRVllb1VFZy1tQWRHVnZtQnBDMXNF?oc=5",
+          "description": "Murió Fabián Oliver, sonidista referente del cine uruguayo &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-04-30T03:45:00+00:00",
+          "score": 1,
+          "score_reason": "Informativo, objetivo, sin carga emocional ni énfasis particular.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "José “Pepe” D’Elía",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OVGZfeUdkX01CZGVzTjZ5Wjd1N1hqUW1CUGthRElkbUZ2QWJkQlVhTHhKei1BQ3RGRDMxM3EwN24wQmxwZGpFUnA4MjhJU0VBekNYTEpIQ1NxLXZfT2lyQ1JwSWU?oc=5",
+          "description": "José “Pepe” D’Elía &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-05-01T03:26:16+00:00",
+          "score": 4,
+          "score_reason": "Titular incompleto sin contexto, difícil evaluar intención editorial.",
+          "score_pct": 40
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Sale a la luz una desconocida relación entre Xuxa y un famoso conductor argentino: \"Se ha quedado en casa\"",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVFpMWDBtVjhvS1pIMkhRUFlXRm1pcnJEVlFYQmhWYmFXS1VIWkFYeW91MlRYS2dJY1BxT3hheFY4YVZlMmRXNUdNQzY3Skw1NEtPcDNpUmtrYkx4SlBHaUlNVkxTanhTaVNUODFETGh0anh2QXlXTzlPQnRHd0Y2N0l4ZksxeVBjME56TklHYTU2d1JianhBTWZDcnF1MlVYMUlBS3FBMjhKNWxzV2FyZ3ctMnlaQlBuYWZMNkxwTGwwZU81Q2g3MGg3a1cyMnNURTZKWGM0ZlRLcURWVGNiTg?oc=5",
+          "description": "Sale a la luz una desconocida relación entre Xuxa y un famoso conductor argentino: \"Se ha quedado en casa\" &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-05-01T10:32:00+00:00",
+          "score": 7,
+          "score_reason": "Lenguaje sensacionalista, énfasis en 'desconocida', comillas dramáticas.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Los medios uruguayos cubren tres temas completamente independientes: El País reporta sobre una relación entre la presentadora brasileña Xuxa y un conductor argentino; Búsqueda informa sobre el fallecimiento de Fabián Oliver, reconocido sonidista del cine nacional; y Grupo R Multimedio publica sobre José 'Pepe' D'Elía, aunque sin contexto claro en el titular. No existe conexión entre estas noticias, que reflejan la agenda informativa variada de los medios.",
+        "coincidencias": [
+          "Los tres medios cubren eventos diferentes sin conexión temática aparente.",
+          "Todos operan dentro de la prensa tradicional uruguaya documentada.",
+          "Ninguno presenta conflicto directo de línea editorial en sus respectivos temas."
+        ],
+        "diferencias": [
+          "El País prioriza contenido de farándula internacional con tono sensacionalista.",
+          "Búsqueda mantiene cobertura cultural-profesional con criterio informativo neutro.",
+          "Grupo R Multimedio presenta titular fragmentario sin desarrollo visible del contenido."
+        ]
+      }
+    },
+    {
+      "id": "story_007",
+      "topic": "Tres noticias distintas de medios uruguayos",
+      "category": "Otro",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Jorge Abbondanza: maestro de las palabras",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1pGT2tBQ0ROZmNoTVllSUdqRTBBYmMzSVM4b0piX0dkMGRoRG4xQURybHB6MmRPUDNFUHI2UmlYem5lamRpNUVwU1ZrMkk5VV9iaG1rRWlybDNTcDJjQVppdXMxTkJZdzdCUXNQTjlpbXRhTGlZYTdETHgyay1pa3RVcmk1TkVvUkFkOWJnUGdQMTJQd05PWA?oc=5",
+          "description": "Jorge Abbondanza: maestro de las palabras &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-04-30T06:25:00+00:00",
+          "score": 1,
+          "score_reason": "Titular descriptivo y neutro sobre perfil de personaje público",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Libertadores: ¿Qué dijo Jorge Bava tras la derrota de Nacional por 4-2 ante Universitario?",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZUxzamZScTJtZTlyMWpPRm1vbUU3emRWMXZNSFNBcGdRNlhsSWFRZW1qYkVJeUFFeWNCOHcxYlMyYmVvbjItQWlXbjNnUWFJdWxoRk5mblZ1bHFoXzNIcHBTU0lMS3Z3R3BlaWY1NVVqZlRIMGQ4Qm1RaTJZekZMQVVPdmNlV3lJNXM0Yk5FQXFocFg3MDFqcWlxb1RnSHVGWktRbEdGYTRuZ0lKMEVUXzJNQlp2LUxkbEdEa1pXWEJDSGpESE52MnRRMHI3dEdJd2lB0gH3AUFVX3lxTE55OU9DX294QzdHSXZqTFdzVEt6ejZ0MFZMalF1b3dvX1FjbTN1Zi0tN0MzQTUwbXVZMEEwdXYzc2N4aGJXVkZobndwNjg1alRzSXJvbXB2dVE0bEpZaHJzcklIdXBRNHlCS3JJMzJIajF3UkJOZGFYTWhHeE5QSUw3Y2xBSWFqZk1qbGpQLVhfRGFRaWVzR0RuMmx2cTZWRk1zVlpkN08zUGhXeHp0TjZRZkFRbFc3R0VmMUpoTkx1c2lqajFSYVBhTjZudDhsd1UzamZzUHkweUxtTG01NV9TUl9yN3gxYTNNeG90XzIwRmFWX2FBLUE?oc=5",
+          "description": "Libertadores: ¿Qué dijo Jorge Bava tras la derrota de Nacional por 4-2 ante Universitario? &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-30T10:43:00+00:00",
+          "score": 2,
+          "score_reason": "Estructura informativa neutral con pregunta abierta sobre declaraciones",
+          "score_pct": 20
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "\"Hinchado como una pelota y con mal olor\": expareja de Maradona dio detalles de los últimos días de Diego",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcmVTWnQwN29kUXFOQkJTQ3VxTk9lcUMxbG5mYklaNU51Z3EwellIb1J0dU1BS2E2c0FqNjhDV0k4NXExbDhObnlJc3dNUGV6WWV4eFItSVNiQzBtZEJITURVaWMzN2ctSEJjcWhnTWMzbUw2aDdYR1dhbUNmU2U4azlhWk1IRVNZY081QmpoOFRjT3JxNnJVX0ZkcHhIRlZKb3JiQ05fckxMWU1tZnd1RTBaWUh1RG9aNHJqcXpIMkhiTXctRWl0ZllPcTNRajJ2MHk0ZUp6YUFrSDJ3?oc=5",
+          "description": "\"Hinchado como una pelota y con mal olor\": expareja de Maradona dio detalles de los últimos días de Diego &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-04-30T18:02:42+00:00",
+          "score": 7,
+          "score_reason": "Cita directa sensacionalista con detalles morbosos y crudos",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Se presentan tres titulares de medios uruguayos sobre temas completamente diferentes: El País aborda declaraciones sobre los últimos días de Diego Maradona según su expareja; Montevideo Portal cubre la derrota de Nacional 4-2 ante Universitario en Copa Libertadores y la reacción del entrenador Jorge Bava; Búsqueda publica un artículo sobre Jorge Abbondanza como maestro de las palabras. No existe un evento común que unifique estas noticias, tratándose de coberturas independientes de distintos ámbitos.",
+        "coincidencias": [
+          "No existen coincidencias: los tres medios cubren temas completamente distintos",
+          "No hay eventos comunes entre las noticias presentadas",
+          "No hay fuentes ni hechos compartidos entre los titulares"
+        ],
+        "diferencias": [
+          "El País enfatiza lo sensacionalista y mórbido; Montevideo Portal es factual deportivo; Búsqueda es editorial-perfil",
+          "Temas distintos impiden comparación directa de enfoques sobre un mismo evento",
+          "Niveles de objetividad varían significativamente entre medios por naturaleza de cada noticia"
+        ]
+      }
+    },
+    {
+      "id": "story_008",
+      "topic": "Uruguay destaca en rankings internacionales",
+      "category": "Política",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Pimpinela vuelve a Montevideo y en la previa los hermanos recordaron sus primeros viajes a Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNczBzZndzMUxQYlRhMHVvSHlpdm96MVptUXlFdXhOeEw3QzN0SWJSb0d3T2JBNzlhcG5xUTh2M09sYkVtaXRiX0VsOEVlZWxnNFR5RGVnSl83ZHBnZEZ0a0piWXBiZ0Z1Z2lQT1hHb3FjMkEzTkF0UDdKWktPd09tbTR4dzlYeDg0QU1NU1lUa29LQ0JYa3JkSGRWblVhcHhTNFNZRnA5WHFVT2ltcEV1OHRWSWh4ZHhEekl5QW9tYmZtZWZ6NDVhS9IBzgFBVV95cUxPSjR0eXp2SmZsc0tBTVNpVmFfRnFzNTlhRUhPek1tV0FJYjV5U0ZrUDVBY2R1Rl9EeWZaYnQ3VWdwOGNaMGJKMlYwZU9zdmJOMXl2M3MtV1lYcmpBUVZZcXdhaWo3VmRCLWVuZHFENllJWkJ6bzlYLUZ3cXhQWWhVRHpsRThjRXhSaS1CSWZFLUUtbG1IVW9DUlZHOGZjaG5ZdUxfdUp0QXRxTHFPQ3pwTDM1SENwM29aN2FSYUFiSWxZaDNwUWR6SUp5TjNUdw?oc=5",
+          "description": "Pimpinela vuelve a Montevideo y en la previa los hermanos recordaron sus primeros viajes a Uruguay &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-29T23:42:15+00:00",
+          "score": 1,
+          "score_reason": "Noticia cultural pura, descriptiva, sin interpretación ni énfasis particular.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Uruguay subió 11 puestos en libertad de prensa y quedó primero en América Latina",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTmFHUjVRaWphVjU4QTlvZkRJVnAzVjNNLUtCNW1BakpNbmVLY3FDWGQyQktNZHM0MkRGRTU0aFkzcFRKWTVTeURwMGNLdEIxMHZUSWFuQkota1o4Z0I0M2lUQXVFeXZyZ2ZoWEFvb3hZTl9wZE41QmpmQVR4VGZqQWU3a25NNG9URUF1WWNjdm1FQmwwNjNyMHhEV1pwSVdzTnk2NFBmMTlGb1pZRzRKTU1NVzM2cWxCYnN5MFQ5cmhWQ3dmaUJr0gHrAUFVX3lxTE43SkVMQ3FsdzF0RE8wRWFLa1pIT2ZKcGkzdFlUc0tTVVpnRVNkVmppVW1nNTRTRC1nbU5UUVU1dWY4cE1DMFpzMFlYWk1iRW8yd25ybTdzc0NkR29DeGRJSEwtMWJETEZDRWZNQ0ZBM3YyZ0pDWXQtN2NMTHhDUlZ6aWpTTjJvOWVjVTc2YTM2Mi1FNWwtMVRqU1RqSlIxc2hCN3dYdmVXdklZTXlQVkFQeVZaSG5iOTl1TFpvZ2xHR21NVkNxQ0N0RUh0ZDY1NVJHaXh2UGFiY3Vqbl9MZUlteHEyOXZmYVc0RVk?oc=5",
+          "description": "Uruguay subió 11 puestos en libertad de prensa y quedó primero en América Latina &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-30T23:08:00+00:00",
+          "score": 2,
+          "score_reason": "Informativo directo, lenguaje neutral, datos concretos sin carga emocional.",
           "score_pct": 20
         },
         {
@@ -226,563 +631,29 @@
           "description": "Uruguay tiene una buen evaluación frente al trabajo forzoso, dice jerarca ante investigación de EE.UU. &nbsp;&nbsp; BÚSQUEDA",
           "pub_date": "2026-04-30T05:00:00+00:00",
           "score": 3,
-          "score_reason": "Atribución directa suaviza mensaje, pero contexto investigación sugiere presión.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Orsi dijo que Uruguay enfrenta “un nivel terrible de violencia”",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOXE2X2JZOHpjV1RTSFc2NnJnZWd5Rzh2TmNhSko0M2JvRXc1SWNFWHB1N0k2dkp5VklUb3NWMy12Q1hQcTZVM3dqRlVkTW1xc3M3TmpiSDI2VkdSTVkzX1M4RmY5ODNjamJFTUI5em9tZnA5TzdnV2Z4VkNSbjZEVkZJbk5DV2p3TU1DeFpMSXdvdmJpTmQ0ejhRQWFnczhhdWc?oc=5",
-          "description": "Orsi dijo que Uruguay enfrenta “un nivel terrible de violencia” &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-04-29T04:50:16+00:00",
-          "score": 6,
-          "score_reason": "Uso de comillas parciales amplifica expresión crítica presidencial sobre violencia.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "Durante el período analizado, Uruguay enfrentó varios temas simultáneamente: cambios meteorológicos con precipitaciones intensas pronosticadas, recomendaciones de la Cancillería para ciudadanos viajando al Mundial 2026, evaluación positiva del país respecto a trabajo forzoso según investigación estadounidense, y declaraciones presidenciales sobre la situación de seguridad ciudadana caracterizada como crítica. Los medios cubrieron estas noticias con enfoques y énfasis distintos.",
-        "coincidencias": [
-          "Todos reportan eventos y declaraciones oficiales de fuentes gubernamentales.",
-          "Ningún medio cuestiona la veracidad de las autoridades citadas.",
-          "Todos mantienen estructura informativa básica sin análisis editorial explícito."
-        ],
-        "diferencias": [
-          "Grupo R enfatiza crisis de seguridad mientras Búsqueda destaca evaluación positiva internacional.",
-          "Montevideo Portal se enfoca en fenómenos naturales, LR21 en movilidad internacional.",
-          "Grupo R usa lenguaje más cargado emocionalmente que los demás medios."
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Nacional juega ante Universitario en Copa Libertadores",
-      "category": "Deportes",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Restaurantes para el Día de la Madre 2026: dónde comer en Montevideo y alrededores",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVlXTktvb0UxOGZMc3lqY2JGenozaGVIWnFpWUVHZmZpUVhxZnQwenUzRElwbEZjYXRtQUZJUDJ5Q1pEUkZHX0w5eHAxUExwTmhkRmZaRmE4eGNUNFJpbmUyRHlRQk5Xc1ZYWThneGRwWUtaTzRhblppLXNWcktDaGUxMFhpR29PRXNvSzczM2tYNkltTDQtRFV5RU5mQ3VHMWFDaUxCdXp5VzI0eGhIU3RfSjUwangwTDdR?oc=5",
-          "description": "Restaurantes para el Día de la Madre 2026: dónde comer en Montevideo y alrededores &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-04-29T22:19:00+00:00",
-          "score": 0,
-          "score_reason": "No relacionado con la noticia; completamente off-topic.",
-          "score_pct": 0
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Libertadores: Nacional visita hoy a Universitario por puntos claves. Hora y por dónde ver",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTRoRGVjOFl6a1p1LW5HVWRtdjRDYXlmcVRGX09ZZTRtRk9BWDFSZGxVd2dGY05qV2psY1ViMHMyUGxPMWhIZlBUSGpobnVhNGhTZUpYZFdEZnZQRWszdk94UGlwR0hsZjktaXMzdXQ3MkVFaGFraDJQVXdocEVyRkJRelpkMUQwUWU1THJBdnRfbVVVbEVQMVNrV1hFYThaekNBU1JtbDVZaTJheFdmX3ZjMll2bnlyOUZVZUh0MjB4aHBZRlMwMlVFeXpJSFJL0gH0AUFVX3lxTE5yS244NDRXdV9qUldVY1dWTy1SQk1Dbnl0LTZ0bC02ZXUxdE93RlZGRHBrYk9VdTBLME0tT0Y2dW9vSDBqbmJMTzUyU0dieVZ3N3hHX0NlNl9RTUZIYUlVUXVkdjRfNS11cnNVaDVmTVZQUE1SdTJPVE1rWXNmeGQ5bWtGUkFDNnJXdUtIeWl5NHJQZ243Y0tJYzktT1NHUks0MllzenBBU2xIczdYQ0RMMXBidklNVFNEWkpMWUg5VGNNcFdsWjdQVlY0b0NLamsxQk1XMDlFTlM5TUQtNmxJVGNQSUZmajVnc25RenA2TEtIWTk?oc=5",
-          "description": "Libertadores: Nacional visita hoy a Universitario por puntos claves. Hora y por dónde ver &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-29T11:49:00+00:00",
-          "score": 1,
-          "score_reason": "Puramente informativo: hora, rival, competencia y transmisión.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "El 11 de Nacional para visitar a Universitario por Copa Libertadores: vuelve Cándido y una sorpresa en ataque",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcDVtSGk1djh5QjhHUWlpdXhybEFoVkY5SGVxeTJqbGU4M21lTXVpdG9oYWlGcm1nM2M2M0R3UnNMQkF2ei0zS0dhaU9kTHpaakJtZ3R1UjFlSFpySUtEM3ZXSURyM3hJY3Z5V3A2SUdUcG43YVVMOGp0S2VHNFQ2N3JoYy1EdG9MU3E5UDBNbTJHN2l3SUxlZFZ2VjY3clFvU2o0T1NZV2RaNVB0WURIaHVJZmprMXJBN0o1N2FlSWhlajFJWnFxVGtUQW5zMURSYnI3dzhXTzBGeWhycTczb0dwcw?oc=5",
-          "description": "El 11 de Nacional para visitar a Universitario por Copa Libertadores: vuelve Cándido y una sorpresa en ataque &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-04-29T20:16:03+00:00",
-          "score": 3,
-          "score_reason": "Enfatiza detalles alineación; lenguaje neutral pero selectivo.",
+          "score_reason": "Usa 'dice jerarca' que introduce cierta perspectiva, aunque mantiene tono informativo.",
           "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Nacional se enfrenta a Universitario en un partido de Copa Libertadores. El equipo tricolor visita Perú en busca de puntos cruciales para avanzar en la competición. El equipo dirigido incluye el regreso de Cándido y presenta variantes en el ataque. Es un encuentro de importancia para ambos equipos en la disputa de la copa continental.",
+        "resumen": "Uruguay obtuvo posiciones destacadas en evaluaciones internacionales recientes. Según Montevideo Portal, el país subió 11 puestos en un ranking de libertad de prensa, posicionándose primero en América Latina. Simultáneamente, una autoridad uruguaya declaró que el país tiene buena evaluación respecto al trabajo forzoso según investigaciones de Estados Unidos. En el ámbito cultural, el dúo musical Pimpinela confirmó su regreso a Montevideo.",
         "coincidencias": [
-          "Nacional juega contra Universitario",
-          "Se disputa en el marco de Copa Libertadores",
-          "Es un partido de relevancia competitiva"
+          "Los tres medios cubren noticias sobre Uruguay en contexto internacional.",
+          "Todos presentan información reciente y positiva para el país.",
+          "Ninguno de los titulares utiliza lenguaje sensacionalista o alarma."
         ],
         "diferencias": [
-          "El País se enfoca en alineación y cambios; Montevideo Portal en horario e información práctica",
-          "El País destaca novedades del equipo; Montevideo Portal recalca importancia de puntos",
-          "Búsqueda no cubre el partido; trata tema completamente distinto"
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "De Arrascaeta fracturado a 47 días del Mundial",
-      "category": "Deportes",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Giorgian de Arrascaeta sufrió una fractura de clavícula a 47 días del debut en el Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTTlLRzl1M0xmVXUzdUYwUncwWGJtOU80VU1Jc21RWGxOYVo2YnowSy1ydUtEWHpCN0QyellyWDZ4OUo5NVF5NjUtUXdrQy1CYkljSkhNR2xDNGdaX1Z0dEtWV3FrVWxLa2ZIQ3Vwa0ZtRGdZc0w3ZmVKVm9CWXEwN3dTVFJQRjRjT2ZHTFowTTE5N1MwSnFpRzBYbGVYaENMNkEwdE1pbUdBVDBfUk5ha2FQMEVWdTBuTjVqWmMzOWwxZW0xNE5CbXlpY3h3QWVhRnA1VEFqUnhWQQ?oc=5",
-          "description": "Giorgian de Arrascaeta sufrió una fractura de clavícula a 47 días del debut en el Mundial 2026 &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-04-30T04:13:45+00:00",
-          "score": 2,
-          "score_reason": "Factual, menciona lesión, plazo y contexto sin dramatismo.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Giorgian de Arrascaeta se fracturó la clavícula y corre riesgo su presencia en el Mundial",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTXFLY2djY2ZBSEU1SHBKZ0VkMzZKVWZjU19mRDdlYm50dC1LeTF6YmlEY2pONmU5ZFh6azBVUU9xTVZFejRjd1RzZXZLenQ2QWxQNS1EbG93cEZaclotc0tNbVNSTFNSVHJkODlqcDhEeUdaNk1wbkk5UGM0U0w0WVFoVWVRbTlBbmdybXp6eXIxbEhocms3OE5pQlVmczJHR1g3Yy1uSktUQ3ZNSmQ4Z0NVUVBFbWMzVDZ0OXVnd1NaVmcxNTcyWXNoRXRrTWo0UFdr0gH3AUFVX3lxTE9HaFpiSS02Q0V4R01zakZzQW0zMEpKcXJ6YzMyRGl2Nk1zNGNBMW4yT3pzSlhSbThsaFBmUnd2YmgyNHNKOVJIME4zQXhpRmQ1ek1lbTZOMTJhei01WkVJaENpOG5QR0liWjRHdGFZZElLcUFSeGgzRVZ4TXhSS2JyNTlzVFpodWl6c3FtVGNtakE4QWg2T3NJM045dHBxSTZjR3ZkVnVMUVZMZktnbXdKQWZxS1pJd1BFbVlqR1FmalBsbURrRlpJLWY2LUdGelNVM2FzLVpRV3BBRExGM0JPWDZCV1dzRnhvNW9UQlhzSjhjZjNybGM?oc=5",
-          "description": "Giorgian de Arrascaeta se fracturó la clavícula y corre riesgo su presencia en el Mundial &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-30T02:27:00+00:00",
-          "score": 4,
-          "score_reason": "Introduce elemento de riesgo; levemente alarmista con 'corre riesgo'.",
-          "score_pct": 40
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Alerta para la Celeste: Giorgian de Arrascaeta sufrió una fractura de clavícula a menos de dos meses del Mundial",
-          "url": "https://www.teledoce.com/telemundo/deportes/futbol-internacional/alerta-para-la-celeste-giorgian-de-arrascaeta-sufrio-una-fractura-de-clavicula-a-menos-de-dos-meses-del-mundial/",
-          "description": "De Arrascaeta fue trasladado a un centro médico de La Plata y donde fue confirmada la fractura. La entrada Alerta para la Celeste: Giorgian de Arrascaeta sufrió una fractura de clavícula a menos de dos meses del Mundial se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-30T10:14:44+00:00",
-          "score": 5,
-          "score_reason": "Palabra 'Alerta' genera urgencia; tono moderadamente sensacionalista.",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "Giorgian de Arrascaeta, futbolista uruguayo, sufrió una fractura de clavícula mientras se encontraba en Argentina. La lesión ocurre aproximadamente 47 días antes del debut de Uruguay en el Mundial 2026. El jugador fue trasladado a un centro médico en La Plata donde se confirmó la fractura. Su participación en la competencia internacional queda en duda debido a los tiempos de recuperación requeridos para este tipo de lesión.",
-        "coincidencias": [
-          "De Arrascaeta sufrió fractura de clavícula confirmada médicamente",
-          "La lesión ocurre a menos de dos meses del Mundial 2026",
-          "Existe incertidumbre sobre su participación en la competencia"
-        ],
-        "diferencias": [
-          "El País es factual; Teledoce dramatiza con 'Alerta para la Celeste'",
-          "Montevideo Portal enfatiza riesgo; El País presenta información sin énfasis emocional",
-          "Teledoce usa encuadre de crisis; otros medios mantienen tono más equilibrado"
-        ]
-      }
-    },
-    {
-      "id": "story_006",
-      "topic": "Impacto fiscal del Diálogo Social en Uruguay",
-      "category": "Economía",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Presentación de documento sobre Diálogo Social: Pereira destacó seguro de paro a monotributistas y partida unificada a menores en situación de pobreza",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONnJHTldfbVVmd1VTdlpUWmZzajdVRkJINzZZSGpoeWhzd0d5cHdicDhhZTg5YnNHR19qQjJOVi1od2VhajZoX3k3Q2pLdFhWMmNQcE54Umk2Y3VtdVZ4TlFZU2FlRU1SWXZHSTk2ZElwSXdnaUJnb2g1N1hlMF9pQXNNMUdqNVhXc3dNbGs4NWxQMUU5UDhxSTByU1pSR0dscnJoSFNuN2pzbXZ1LWRpRWUwTXpPdURGY1I3WEZIUlNVUGl6V0tQWmpwcXpHZGM0UnVDcGdSVUNEdDZuS2oyQV9KNjNmMzdGMEczR2p1bEI3dWZ4MlkzcNIB_gFBVV95cUxPZTZza1VsMW1TOWRZZkhaUUh0aERDeVJfd0NmUHhzaW5mZFlMUlhMaDROM2dGRk5rcW1EWXNUU1hDVGZjRFdodzZsWjRWSzdscVg4VXFQTVFDNXkxOWsxX3dja0s0b1NVUVJWd2pIdTVtZE9yS2dMTlg3NTk5ZUlSM1UzbG5PUEZ5bTBFYV9tVGNZcEpsbDFheG9OQjNDRGNvWF93Z3RUUE1fWElvT3d1VGlRS2xtVEJjajJFUXRGZnNGVmk5TGQtVzNweGNMOVJOcmp0LTl2WjNDWDZjbTgzVG9DTmprSmlyYm44T1hZVUtGQ1QxTlhnTzhfYlBfZw?oc=5",
-          "description": "Presentación de documento sobre Diálogo Social: Pereira destacó seguro de paro a monotributistas y partida unificada a menores en situación de pobreza &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-30T00:55:00+00:00",
-          "score": 2,
-          "score_reason": "Reporta hechos concretos sin carga emocional ni interpretación valorativa.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Panorama fiscal bastante tensionado”: economista analizó el impacto del Diálogo Social",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRWlWQVhESHJ2ZmhIQkE4WXpXZXBEUVh3dkNkVDlfOFEwSUhwMTg2S1RoZ3ZwNjBXV2ljYnRfNVlYSmJSVFNLRHltTk9MREtMeVpUOV9zM1BlaHZmNWhKX1U4Y1F2WEl5dXd4bUkxWTFuNUV1d3c5V2JyTlhIUnBGZnVwRER4U3FpMndtSl9VbGJwUUFFTzZvdEtMZzBUOW05UDh2aVJjVEdSdk1PVXZYbm5RR0ZnTXlpd1ZGb3NqOEZuMkUwUVVpOUZ3RVF0Z0HSAfMBQVVfeXFMT1p2TTlGWF9xNEc0clJIZHhGUGk4WjZ6UXVTSU53T0ljOGpodDN4eDJlOEVtdHBhTW8xVlozNmVIT0dJWkhrQ1lqTGFVMWpZXy1qN1Q3ZTZiTU1rTmxDbGk3QjlxY041Zmk2WmpYWjhRdW5IVl91ZGVRSkRvaUNnVEF0dWFQdkNfbzZMRHc1Ui1rMG93M2RmZ19pX1VfV09lNHppWXB6OTF5bk95N1I1ZjFRclBrN2d5R2JTOE4zTEJHdEszS2Y1V09FQzFjOHlCeURZWTFyeWxQT1NEY1ROcHJmRHFacS1mdExmN09fSGVPOFlV?oc=5",
-          "description": "“Panorama fiscal bastante tensionado”: economista analizó el impacto del Diálogo Social &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-29T21:51:00+00:00",
-          "score": 5,
-          "score_reason": "Enfatiza aspecto negativo (tensión fiscal) sin contrabalance positivo.",
-          "score_pct": 50
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Ministro polemiza sobre la gestión fiscal con un centro de análisis al que señala como “partidario”",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcDkyQzdBVkladnNqNG9RQmZIbS0zVGJScF9lMHFLZVJYUG5OanFRZVp1TW5TOXlCMl9zNDBNdVlNbm5ZMlg0M1lLdFBPdU9feGdFWWFMa2UwX2U0LVBkckxfdFpxaFN4ZUs4ODA1Ykg3bmlRNGx2XzhhN1dUWmh6b1Z3QjFxLUI4dTZRekRMUnMyTDB6QkpjUW1CczQwWlJkMTF6dGt3T3lKWUhHM0U3c2toOVg0clYwNzJiQ1h2QkEyU25WeHc4N2hR?oc=5",
-          "description": "Ministro polemiza sobre la gestión fiscal con un centro de análisis al que señala como “partidario” &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-04-30T05:01:00+00:00",
-          "score": 6,
-          "score_reason": "Usa palabra 'polemiza' que enfatiza conflicto; cita crítica como 'partidario' entre comillas.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "El gobierno presentó un documento sobre el Diálogo Social donde el ministro Pereira destacó medidas como el seguro de paro para monotributistas y asistencia a menores en pobreza. Economistas advirtieron sobre la tensión fiscal que generarían estas políticas. Hubo polémica entre el ministro y centros de análisis sobre la evaluación de la gestión fiscal y sus implicancias presupuestarias.",
-        "coincidencias": [
-          "Presentación de documento sobre Diálogo Social es el evento central",
-          "Ministro Pereira es figura protagonista en la noticia",
-          "Hay evaluaciones sobre impacto económico y fiscal de las medidas"
-        ],
-        "diferencias": [
-          "Subrayado destaca medidas sociales concretas; Montevideo Portal enfatiza preocupación fiscal",
-          "Búsqueda retrata conflicto entre actores; otros enfocan contenido de políticas",
-          "Subrayado mantiene tono informativo; otros medios priorizan valoraciones sobre gestión"
-        ]
-      }
-    },
-    {
-      "id": "story_007",
-      "topic": "Juventud goleó 4-0 a Academia Puerto Cabello",
-      "category": "Deportes",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Sudamericana: Juventud goleó 4-0 a Academia Puerto Cabello en el Centenario y se ilusiona",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMUtlbXJURjFZeEwzajc2dnBKNGVvcGRhdmFEaHd2UlBOTmhjdW56cm1YbDBSaDhvMzNoT1FfbnRzVHc5LXNXbl9hT2pVME9rOWJCSVpEdTZBdDBld0RyVmNKSEFsT2pQZ0VTN3lEQUVjVXIyU2ZaZTR4YkFnbF9qWV9lcDd2XzFjaTQxbGlBRGJJa2I4bFpfSHI3c1BZYlc0Y3g4VG51dTFxTE1OT1dmS0IxNDBPRFpfaTh1bTNnalJKRzBYeEpJN0MzT1hRMkFfS2fSAfYBQVVfeXFMTkxtbGpqRjhQRktiT0NOT0pTWHFaejl1NHlwbWtiaUJYVDU0Vm5MTEgwZ0VPMzZFbUpZak5qdzNMOXY1NEw5cEVMSmEwMndMWnlpeTZnU1d2UWx5U0dzT0wtM1I2SUc2bVJkYTVibDJsWEhyeUdBRG1mUUJ6Tm56QVd0YkhDdjlUUGptVEZpNXo2cVM2UzUwXzl1RXhlbzZjLVduMWlDVWZqREpQMnh0RFQ0bnZSNFcyakhQYWpMSWFXcWItc2wzSzBwR0E5VU5odnd5aXVQSUZPODE1bWpXeWFsZm4yOTBqaThlR25XaEJTbHF3eDNB?oc=5",
-          "description": "Sudamericana: Juventud goleó 4-0 a Academia Puerto Cabello en el Centenario y se ilusiona &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-30T00:00:00+00:00",
-          "score": 3,
-          "score_reason": "Enfoque optimista con 'se ilusiona', pero factualmente correcto.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Jorge Abbondanza: maestro de las palabras",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1pGT2tBQ0ROZmNoTVllSUdqRTBBYmMzSVM4b0piX0dkMGRoRG4xQURybHB6MmRPUDNFUHI2UmlYem5lamRpNUVwU1ZrMkk5VV9iaG1rRWlybDNTcDJjQVppdXMxTkJZdzdCUXNQTjlpbXRhTGlZYTdETHgyay1pa3RVcmk1TkVvUkFkOWJnUGdQMTJQd05PWA?oc=5",
-          "description": "Jorge Abbondanza: maestro de las palabras &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-04-30T06:25:00+00:00",
-          "score": 8,
-          "score_reason": "Titular sobre persona ajena al partido; información desconectada.",
-          "score_pct": 80
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Haydee Magdalena Arigon Maiorano",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OTVFKbVZmWS1TR1dEbUdXMWFxSmQ4elo2c2s1TVlLSEdhTld6LUhQU2FsVE1iQ2N1ME5Fem90TUhuT2xMTHVKM1FKOFptaV9nbDlHMVVCa0RrTzFLXzlSc282bzNoQUFjVkZFSHFGaV9YaFVLcWxYR012UQ?oc=5",
-          "description": "Haydee Magdalena Arigon Maiorano &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-04-29T06:27:06+00:00",
-          "score": 8,
-          "score_reason": "Titular sobre persona sin relación aparente con la noticia deportiva.",
-          "score_pct": 80
-        }
-      ],
-      "analysis": {
-        "resumen": "El equipo de Juventud de Uruguay derrotó 4-0 a Academia Puerto Cabello en un partido de la Sudamericana disputado en el estadio Centenario. La goleada permite a Juventud mantener vivas sus aspiraciones en la competición continental. El resultado fue contundente y posiciona al equipo en una situación favorable de cara a los próximos encuentros de la fase.",
-        "coincidencias": [
-          "Juventud derrotó a Academia Puerto Cabello en la Sudamericana",
-          "El partido se disputó en el estadio Centenario",
-          "La victoria fue por goleada (4-0)"
-        ],
-        "diferencias": [
-          "Montevideo Portal destaca el resultado y perspectivas futuras del equipo",
-          "Búsqueda y Grupo R publican contenido sin relación aparente con la noticia",
-          "Solo Montevideo Portal proporciona contexto deportivo relevante y cobertura específica"
-        ]
-      }
-    },
-    {
-      "id": "story_008",
-      "topic": "Despacho digital de tropas entra en vigencia en mayo",
-      "category": "Economía",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Despacho de tropa digital será obligatorio desde el 2 de mayo",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWNqWWhIdmNVZkxFTHpwMFZ5U2pKVDVmN2JoRXRHQzlhNHhQVUhzRTIzOHhCSFFmWnY3VklMMHhXUFNBa1JJUjBWWE5ueVZiSDBwV3hXX2tEYVpRMG1TZkIta05qa1hWc2FHajZQajJFbHNlOFdnSVBPUzNIQ0UtdGxlZDBJMURaSUY2TldwRm9fekNtSUE?oc=5",
-          "description": "Despacho de tropa digital será obligatorio desde el 2 de mayo &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-04-30T04:05:00+00:00",
-          "score": 2,
-          "score_reason": "Puramente informativo, solo hechos fecha y obligatoriedad sin matices.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Despacho de tropa digital empieza a regir a partir de mayo, siendo otra acción con la que el MGAP busca \"bajar la carga de garrapata\"",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTV9FNnU4SENmdFRZRnVqV2dvNFIzbVRvUFFtTU81cmE5amNVbjJCd2xxckR3dXk0MnpqRm1iUlZmYkI1d2sybjFYeTY2N3F1aVVHZ053RVVoOGljN0ZEc2VsZkZzVkJMYnRLUDNyUUYyNkFadjNLVTlUcHBhZ05TeXZOUlEySzlBVGFjTDdQckhkUEhUaHJUVEJLN21iT002OFdsaElzOExEeDNHdzIwcFBjbjNuQlBfc2RyRHNEZElCZy1HQ0lNUklVd2xxVkdseFcyLVhxWmVuT3pWMzNkMW5zMXpJRHZfYVJsVF9qVWRlQzdFN3drYlQxdXp3OWc?oc=5",
-          "description": "Despacho de tropa digital empieza a regir a partir de mayo, siendo otra acción con la que el MGAP busca \"bajar la carga de garrapata\" &nbsp;&nbsp; Rurales | El País",
-          "pub_date": "2026-04-29T01:50:03+00:00",
-          "score": 4,
-          "score_reason": "Menciona objetivo sanitario entre comillas, contextualizando la medida.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "El Ministerio de Ganadería, Agricultura y Pesca (MGAP) implementará a partir del 2 de mayo un sistema obligatorio de despacho de tropa digital. Esta medida forma parte de las acciones gubernamentales orientadas a reducir la carga parasitaria de garrapatas en el ganado, un problema sanitario que afecta la producción ganadera nacional. El nuevo sistema digitalizará los trámites de movimiento de animales entre predios.",
-        "coincidencias": [
-          "Ambos confirman entrada en vigencia en mayo (específicamente 2 de mayo)",
-          "Ambos señalan carácter obligatorio de la medida",
-          "Ambos contextualizan como acción del MGAP para control sanitario"
-        ],
-        "diferencias": [
-          "El País enfatiza el objetivo de reducir garrapatas con comillas, Búsqueda omite este contexto",
-          "El País presenta la medida como parte de una estrategia más amplia, Búsqueda es más escueto",
-          "El País usa término coloquial 'bajar la carga', Búsqueda mantiene tono más formal"
+          "Montevideo Portal enfatiza logro de rankings; Búsqueda presenta declaración oficial de autoridad.",
+          "Subrayado aborda tema cultural distinto, desconectado de los otros dos.",
+          "Montevideo Portal y Búsqueda ofrecen contexto comparativo; Subrayado es meramente informativo."
         ]
       }
     },
     {
       "id": "story_009",
-      "topic": "Declaraciones de Perchman sobre Nacional y futuro",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Nacional: el jugador “insustituible” para Perchman y una decisión sobre futuras altas",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTmFfdkEtWWREZndJbTFJVVFGYmlZYVhFOHNsdnZhWFB1a1pGcFVVUHFiUmtoZUt1WjBnS3Bld3J1SjFTbVg3VTZkMFVna3VqallJOVk2c2FsRWx1aXliNjAxR1lpMk4wQTFqNlFmcVpLaWZBbFppQlVVRGNWdVdjTjc1WWpzS0cxTTcwNnBOczNfZ3dzYzl1RENUd1BBSzUtckROeWVib0wybTBKQlhQb0xXMUhQSjFqVzJOUDQzQ0NMdjRPM2FkV1VB0gHuAUFVX3lxTE1na2ZjZ2c4M1NTTWduVTBFVE1QOUVwNmJHRm92dWxXWEc4U0lTVnFoQ19iT2VQRFg0U1JubzZyOU5JR0VIQkh3dktBb0dfTWJ3cWtfcXlxYWViLUpjSWJ5UDhpSF9VYlB4UVFMSmRoQzZ5bmNTUnZjWVpWR1ZjUkFKUnRPeWtEWmc1SnNVZ2FHNzZndTljRnROcWJYZmpCeENzS0J3V0NYSGdfSnlNcXFHU1VOQ1QxVjhzNGJRRkFWNzVXU2JFNjFrVTk3UjEyQkNvUWlUTlN4Nmx1SnBMZXFPZDlUUDlOcE1vT3ZRa0E?oc=5",
-          "description": "Nacional: el jugador “insustituible” para Perchman y una decisión sobre futuras altas &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-29T15:07:00+00:00",
-          "score": 3,
-          "score_reason": "Usa comillas en 'insustituible' para destacar, leve énfasis selectivo.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Flavio Perchman desde Lima: “el Apertura es un muy mal torneo de Nacional” | Convocados | Entrevista",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcTZoX0h5VWhKb1dpRnFCVzJGMDlTSl9DbGZKdnc5aTQ3MTdzbDByNlVkQ0J6enJncFlVendkUUE5WFY5NnBrbXlTUi03YXFOR2VZWWdSd0VuN1FhY0FWaTRuV3pweXJ2elRMOVNRNVQzVndRY3VWU3dJVWlaanJOaFF6aHJoSG9iTU82MlBlcmpUSjVYa0RNMkxkUXhYWG1maWkyREFPQ1dPSlJ0b0VWMVhab0J6X0k?oc=5",
-          "description": "Flavio Perchman desde Lima: “el Apertura es un muy mal torneo de Nacional” | Convocados | Entrevista &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-04-29T15:25:48+00:00",
-          "score": 5,
-          "score_reason": "Prioriza crítica negativa; 'muy mal torneo' destaca más que contexto completo.",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "El entrenador Flavio Perchman brindó declaraciones desde Lima sobre Nacional. En la entrevista mencionó a un jugador que considera insustituible para el equipo y realizó una crítica al torneo Apertura, calificándolo como \"muy mal torneo\" para la institución. También se refirió a decisiones sobre futuras incorporaciones al plantel tricolor.",
-        "coincidencias": [
-          "Ambos cubren declaraciones de Perchman desde Lima",
-          "Ambos mencionan temas sobre el plantel y decisiones futuras",
-          "Ambos referencian opiniones del entrenador sobre Nacional"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza un jugador específico como 'insustituible'; El Espectador prioriza la crítica al torneo",
-          "El Espectador destaca más la valoración negativa del Apertura; Montevideo Portal equilibra con tema de altas",
-          "Enfoques distintos: uno en plantilla, otro en desempeño competitivo"
-        ]
-      }
-    },
-    {
-      "id": "story_010",
-      "topic": "Agresión física en transporte público montevideano",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“¡Dale palo, dale!”: dos hombres bajaron a otro de un ómnibus a las patadas y piñazos",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY283OTZpcE53VUE3Q1p5TE5FX3pTd1ZBa21XekFTamItemIxY2h5RVcwNzQ2MzRiTTk4aXptczZPb1QzMHNyY3R5M1ViZVZHWGVVSG1Sck5oRndVQzNKeTRYcjdVMFJKRE1VT2txUE9lTm9CbVJhdnlRcnM5ZGZBRUdtT0Nib0VrU0lIUHpIcTRyU0FLUjA5SW01aUtNT0VSelk4NFM4RGh6QXppMFJMV0NOeERkSXZWeDN6SVRJcWhGYWoyMExkUdIB7AFBVV95cUxNMFFyVlJOT05qWUZ4aU9ad3ZRd1FWVTlBcXBPd2JrM2VvR1ItZ2xsM0xMbjA3LXVaakJJTDJyUjZmb0tOXzVYb2hMU2YzeS1XXzBUUHZwWERMVURDU1BzeXhTNTZiVEhMYnh0STBNcE9oTE9yZng0S245Zk5FbGRKeV95TDRZb0x1QkhuZWJpRkxLNHBJN3VrelpCUFdnSm1DblFGUDlSNHFsNFRINDFPVTMyc05vaExLOE1pTjRJZFJsQmZwaUJVeGhYakswSXlzV1FwYXU0REdxSWk3V0Zmckpua25XU1pqb0lLTA?oc=5",
-          "description": "“¡Dale palo, dale!”: dos hombres bajaron a otro de un ómnibus a las patadas y piñazos &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-29T19:42:00+00:00",
-          "score": 7,
-          "score_reason": "Incluye diálogos sensacionalistas entre agresores; dramatiza la escena.",
-          "score_pct": 70
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "¡Te llevan!",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YM2VDZ2JEZlhoV0g2Z3gwSjJZZlo1RWgzUjRZOUNOOVZsaFNZWVpTMFdueHYzUHJHN0dlSTF3UjlXeGVtTnRwUlBxZU41VklHNVU5ZTZ4M3gyWm5EeFBpNDdnUHp0ZmVQc2RCbU9JUjR4U1U?oc=5",
-          "description": "¡Te llevan! &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-04-30T06:10:00+00:00",
-          "score": 8,
-          "score_reason": "Titular ambiguo y alarmista; genera intriga innecesaria sin informar.",
-          "score_pct": 80
-        }
-      ],
-      "analysis": {
-        "resumen": "Dos hombres agredieron físicamente a otra persona dentro de un ómnibus en Montevideo, bajándolo del vehículo mediante patadas y puñetazos. El incidente ocurrió en presencia de otros pasajeros, quienes presenciaron la violencia. No se cuenta con información adicional sobre las causas del enfrentamiento, la identidad de los involucrados ni las consecuencias del hecho.",
-        "coincidencias": [
-          "Dos personas agredieron a una tercera en un ómnibus",
-          "La agresión fue física, con golpes de puño y patadas",
-          "El hecho ocurrió en transporte público montevideano"
-        ],
-        "diferencias": [
-          "Montevideo Portal describe la acción con diálogos de los agresores; Búsqueda ofrece solo una exclamación genérica",
-          "Montevideo Portal es más específico sobre el tipo de violencia; Búsqueda es vago e interpretable",
-          "Montevideo Portal contextualiza el evento con palabras de los perpetradores; Búsqueda crea misterio innecesario"
-        ]
-      }
-    },
-    {
-      "id": "story_011",
-      "topic": "Conflicto interno en equipo de fútbol uruguayo",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Nos arruinó el partido”: uruguayo Mauro Silveira arremetió contra compañero por expulsión",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVlRHQlRTTk8wTTJrV0Z1cHdzRS1ya3VUTVJGaURuTm9RLVBwX1Iya1NHb0dwRHFmdVppc21YY2JTNFRaQWFDbVZTT1NDN3RSZWY3Q3pBX0JNRFlPcG1NUUZJR19zaFl2MmVBekozRHFVOXlNLVc0MlFtS0haaWdINkZrNWpCWGJ0R1cyZ19jSVViZGhsN2ZuQ0Vfb0FORXdrcUh5amNvb2FoTjlMU0ZEQ3J2NHNyUkYzRzU1cUFUa21CRm9QV2thYVJ2azhnMkROYmx30gH3AUFVX3lxTE0weW5wbldkNm5kLXVOamRRNmNVMFp4N2dFSUdscGhCaGd2RG9nQ25qUkJub1hPUDBjdGhZLUtwYXExbUNDMW13RURfcVVHclIybzBKbTh5QmlGMXhzZ2N3cmwwaW5VczlTNmZVWko3UUlwRU1uTG1BLUtPVnVhZVdDMVFuMEMtM0Z6Sjd6LUdMSlB3cEt3MWJEZlJ0SXFkemlPRG9fVGp6d3VWUmZ5YVNhMVlkaFIzdUtCY09uWnBuaUc4OV9uSDhOMVpJVDdXRzIyRVVFYXJhb0FnOE9TdlFfZGdDVzRac2pzUnJCbTVpSkppRmpSS3c?oc=5",
-          "description": "“Nos arruinó el partido”: uruguayo Mauro Silveira arremetió contra compañero por expulsión &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-29T18:00:00+00:00",
-          "score": 6,
-          "score_reason": "Entrecomillado sensacionalista, énfasis en conflicto interpersonal.",
-          "score_pct": 60
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Pablo Schiavi: “nadie cree en la gestión de Ruglio” | Vamos que Vamos | Entrevistas",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMkg0aXppeFAtajA2NTNqb25BelJobGVyQjFzTVI4eTBTWm83WlZuclNxWXc1T0YyN3dHTFpSUUtacl9iSlh6dEVxZjcxYW5WS3ZJM09tVDVYNG5MSzkyQzcyWEM5dHJSdUpKajZncmVDOGpaRDlOaWhrSmJKbDEwZmR1RXJNeE53TEZ4Z2lKU3pWeFpCbmZlSFc2N3VsQQ?oc=5",
-          "description": "Pablo Schiavi: “nadie cree en la gestión de Ruglio” | Vamos que Vamos | Entrevistas &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-04-29T00:13:33+00:00",
-          "score": 7,
-          "score_reason": "Afirmación categórica negativa sin matices, carga emocional pronunciada.",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "Durante un partido, el jugador Mauro Silveira fue expulsado, lo que generó tensiones internas en el equipo. Silveira responsabilizó a un compañero por la expulsión, argumentando que arruinó el partido. Paralelamente, surgieron críticas sobre la gestión del director técnico Ruglio, con comentarios públicos cuestionando la confianza en su liderazgo. Los incidentes reflejan problemas de cohesión y dirección técnica en el club.",
-        "coincidencias": [
-          "Hay problemas internos en el equipo de fútbol",
-          "Existe cuestionamiento sobre el liderazgo deportivo",
-          "La expulsión fue un evento significativo que generó tensiones"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza el conflicto entre jugadores; El Espectador cuestiona la gestión técnica",
-          "Uno se enfoca en la expulsión como hechor; otro en la dirección como problema estructural",
-          "Tonos diferentes: uno reporta confrontación directa, otro critica capacidad de gestión"
-        ]
-      }
-    },
-    {
-      "id": "story_012",
-      "topic": "Lodeiro y nuevo espacio gastronómico en Uruguay",
-      "category": "Otro",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Casa de Campo: el nuevo salón de La Tahona que apuesta a experiencias a medida",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNUFrSUNXTjZ6cHE4OHhOWVJvd2dyUjc2QjJ4bGkxSHBhSzdSbVEyaVN3MWVtTUNYaU1YbDZ4enBkWkJWTE1FZDFrZnhIZDVrYTRQRUV2RVRNSnN4bDVla0E1YzNUakpWN1ZITE5JODFxR0RvX1kzaFphZF9TaWpPLWhPbE5mVWtiZnJLWDQ2aVZRVmF0a1FLLUtzcXFocGZrOHVYWGNTRmxtVE51SVNNWGthTQ?oc=5",
-          "description": "Casa de Campo: el nuevo salón de La Tahona que apuesta a experiencias a medida &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-04-30T02:00:00+00:00",
-          "score": 2,
-          "score_reason": "Titular puramente descriptivo y comercial, sin carga emocional ni interpretación.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Lodeiro: el emotivo reencuentro en Lima, la previa copera y la apuesta a la victoria",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2lTTkdUWEJTZVdlWFRTMVBVWHJueTliSGxOcHBVQjJfVHVkU2dGQXNBZ0E0NHQ4S28zcDJzd3JUaFp4ZldNN1NhV29HY3BCNlljNWNMelRUTGQyYjRRcVhTZlI1NUV4YUVKQjlscTRQb1JrREdRTkZSV0swSlp6aWYtTUQzZEVHaDZuOHBDclNVRUF3Y1NrbVJuOEh1V3d4YU9IRnJjTGNvWXJhYzlrZFpQZkdPWjJMRFJ3YWVnNUtyUkVYS283Sm130gHuAUFVX3lxTE8tcmNuSnRsQVFiXzFsUzdQanFCMG1CRE5WLTFuT3NUS2NnWE4tRlZHbWRXdGlHOEdRRzItYmwzVzdwQ3U0cEVjWW1xRFZvaGlhY0hMSGZGTTV4Y1F3aFA1MFp3cFp0TWlXTEd6UjBNLWVpUVQyRHdGMFVCVXlFU29DVDZ2ei12MjZPSWg0SUtQVXJmNEJXMjJJNWFRYWJzZ0Etalg2NkNjRmVlS1kwOHZWbHE2Sy12YlNBdXlBWFNOclNNMmxCOXlNYktHRlgwbXM3VXNFR0x0ZC11OXdPVDRyM2hxRVdXak8xYnlma1E?oc=5",
-          "description": "Lodeiro: el emotivo reencuentro en Lima, la previa copera y la apuesta a la victoria &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-04-29T00:14:00+00:00",
-          "score": 4,
-          "score_reason": "Usa palabras emotivas ('emotivo reencuentro') pero mantiene estructura informativa clara.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Se reportan dos noticias aparentemente desconectadas: una sobre el futbolista Lodeiro en Lima con actividades previas a un partido de copa, y otra sobre Casa de Campo, un nuevo salón de La Tahona dedicado a experiencias personalizadas. No hay información suficiente para determinar si existe conexión entre ambas noticias o si se trata de cobertura independiente de dos hechos distintos.",
-        "coincidencias": [
-          "Ambos titulares utilizan 'apuesta' como palabra clave en sus descripciones.",
-          "Ambos se enfocan en eventos o espacios específicos con énfasis en lo particular.",
-          "Ninguno de los dos presenta información política o conflictiva."
-        ],
-        "diferencias": [
-          "Montevideo Portal cubre deportes; Búsqueda cubre gastronomía y negocios.",
-          "Uno enfatiza dimensión emocional; el otro enfatiza propuesta comercial.",
-          "Los titulares parecen referir a hechos completamente desconectados sin relación aparente."
-        ]
-      }
-    },
-    {
-      "id": "story_013",
-      "topic": "Cámaras empresariales critican documento del Diálogo Social",
-      "category": "Economía",
-      "sources_count": 2,
+      "topic": "Diálogo Social presenta propuestas sobre educación y cuidados",
+      "category": "Política",
+      "sources_count": 3,
       "headlines": [
         {
           "source_id": "subrayado",
@@ -791,64 +662,28 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Cámaras empresariales marcan discrepancia con documento final del Diálogo Social: \"No recoge adecuadamente nuestros aportes\"",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZXdqT01xYXdzZTR3eW9ndEpvWUMzYWc4WHhKTC1iM1U3RllZdlJ5cEctMEF3MEV2WG45cVlwZkFZeUNpN2xCVWNGZTFTcnpFalZORE5YMDg4dFBmanZncF9vV0ZjMDgyRlFJNDZKT0h5RkluQjd3MGFMMk44MWlqVEZBZEFQelVNY0xvYU8xVlBqczk5R2d2LUJYZ0QwNmoteUs1bDVEN2tNdnNnRVpOUFduYTJUV2I1MnhyY01WVU1rWkRVUVRlTHNtS0t6U2JTa0hxdnd3UHpTaGJFUVFqRng2SmdsVURtOTJr0gHwAUFVX3lxTFB1X0p1VF8xcnVrSGYzUmY2eXg0OU9PMUdJcEdPTmJtRXpkNzBCMlVidU5YSXVMN3Qxci0wODJNejVnT1F5X2VsaDA3RTVMeW1PaDlqOWFpWXBaeEVObms0NHhYZE52czluZ2lha2hCYmZDYWdPYlF4VnFhekxPR1JieXVYYU5XTFNmbUlMUnhxX2E0RXYyNVNzRVBhSUdKWmk1aE5EMWVxOUhFVGNLWlFlMDhTRGpiMWp0Tnp1dlhvb0tQVmRNdEhOc21CN0dLUGtaemtNNDEtRy1td2hIaXJHV0hnRlcwS3JabkwzZFJlRQ?oc=5",
-          "description": "Cámaras empresariales marcan discrepancia con documento final del Diálogo Social: \"No recoge adecuadamente nuestros aportes\" &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-29T00:18:00+00:00",
-          "score": 4,
-          "score_reason": "Usa comillas directas; leve énfasis en la insatisfacción empresarial.",
-          "score_pct": 40
+          "title": "Expansión del tiempo de educación y cuidados: qué propone el documento final del Diálogo Social",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWUR0dGdldDJhQVd4T1dwUVBENGQtUlc3M05NRjVyVnM4TTlfS2szSU1qVVlNSnVZSmtiWlEtLVZma2FYRlNMemtrQWpvTDdIdkQtRWtOYk01Mk03NkpCMlJxU21xNVptSkdoQnlzV3pSSENtZ0RMU0t3MnJxWW55YTlrcjNtb0hKUFNCT2c2WnRTZ05aVENwSXpTQ2NnU293ZE5LNDN1OGhIT0h1YmNUTjVSVFhLUlgtcG1ENkNwV0dENHowRWVTWdIBzgFBVV95cUxNSXpTMTVzcFVseXFvcTdxM1BDa0h6STI5N25oNTZBTG1POFlvWnRDMzVjb1NtdW90b1UtMXFQQVBBa1paWUJoaTFLZWZQY2ItN0MyWFRMOTl2cUNWVmhXR2hEd1dhMEg5MmNodm42bkZZTzBxWGpScDFOcFJQbFNZN1d0bUZ2WHFvMFFPTVVTOFRrbGJKSDBLbEZOWXJBU1FycTZnd2hlQ3hvSTlWa19XZHJ1c3FkZjNzdVNWTlhJXy1oRUZSNlhtQ3RIYmYzdw?oc=5",
+          "description": "Expansión del tiempo de educación y cuidados: qué propone el documento final del Diálogo Social &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-30T23:04:00+00:00",
+          "score": 1,
+          "score_reason": "Titular descriptivo y neutro, sin carga emocional ni juicios.",
+          "score_pct": 10
         },
         {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Cámaras empresariales denuncian exclusión de aportes en documento previsional",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0Vxb2ZjSG44em1vQnR0SDAyWl9aUngwYU5LWl94VS1yMjFxWXJXTm9CUU9MbEp1dERHVVJZVTVHd0FNNHV4Wmg4Nno1aDRyZnZlTzhVM0ZiR2ExUFprR1p5Y29iUWFPRWRZUnl4eFRKQTh2TnZDMXNJaElJVlQ0dW9hQzc1Y2d5VGkxbHpyMjEzYjAyQm5Xcnd3a1pMc1RVU0d6Zm80QVBVUC1LM3RBZUR4OWVqRFE?oc=5",
-          "description": "Cámaras empresariales denuncian exclusión de aportes en documento previsional &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-04-29T14:13:15+00:00",
-          "score": 5,
-          "score_reason": "Palabra 'denuncian' implica mayor gravedad que 'marcan discrepancia'.",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "Las cámaras empresariales expresaron disconformidad con el documento final del Diálogo Social, considerando que sus aportes no fueron adecuadamente incluidos. Las organizaciones empresariales sostienen que sus propuestas relacionadas con aspectos previsionales fueron excluidas o insuficientemente reflejadas en el texto definitivo que resultó de las negociaciones tripartitas entre actores laborales, empresariales y del gobierno.",
-        "coincidencias": [
-          "Las cámaras empresariales expresaron desacuerdo con el documento final",
-          "Los aportes empresariales fueron insuficientemente incorporados en el texto",
-          "El tema central es el Diálogo Social y sus resultados"
-        ],
-        "diferencias": [
-          "Subrayado usa 'marcan discrepancia' (más neutral); R Multimedio usa 'denuncian' (más confrontacional)",
-          "Subrayado enfatiza falta de recepción de aportes; R Multimedio especifica exclusión en documento previsional",
-          "R Multimedio acota el tema a cuestiones previsionales; Subrayado mantiene perspectiva más general"
-        ]
-      }
-    },
-    {
-      "id": "story_014",
-      "topic": "Diálogo Social define orientaciones sobre reforma de AFAP",
-      "category": "Economía",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Diálogo Social incluye \"orientaciones a partir de acuerdos y disensos\", y que el Ejecutivo definirá las prioridades",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM1kwOTNZM0c3V2tLdlpRU29KZUlDLWRXV2VycFVxOWhMNXIzVzdiNk54ckE2RXQ2Y3FTYXBGUWdXbjM0TUxxNVdhNFZfZVk3MmpjUktjY2E3aElBRnB3NktxNS1Ob3NSOV9FWndUVXoxZnB0a28xa0xTZW9OV1Q1QlpNV3BYc1RtWFFvaW9mQmdieDlpeVkwRUdaV3ZKV0pENDdJVVNnUEF4aVVwTzBFV3ZmQkhNQ3I0VnFwM1l4a2FLcjNic3k1RmpHUkljMGZ6OVBkalMxbDByakFSQlHSAeMBQVVfeXFMTmdTU3JfSWdMUlZZamFYSnh4LXlJQVIzTjFqSjlfZHNzcEt4UTBsbktxM3QxVG1vcVcxWlhBYTdPc0RPNExmeXV5MENSYjJxcVQ1Z3ZSU3NHZmp6VkVUQ29UUHNsMFFISWFWY0czanBPVnBJSEt5SUVNY3FWd2E2OENqTjU2ZGtFaVNnRUJPMEM5V2pGUVZOSzlOY0VSVVpVdzZIdXJFLUtkdUZiNFhkRmdQTjAwWFA5UmNIRFUxaTVhcDJIR0tQLVRLRVp1dHpvMFRvTHVZN24xXzdwdGkyLU5nUHM?oc=5",
-          "description": "Diálogo Social incluye \"orientaciones a partir de acuerdos y disensos\", y que el Ejecutivo definirá las prioridades &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-29T21:13:00+00:00",
-          "score": 2,
-          "score_reason": "Lenguaje neutro, descriptivo, sin carga valorativa ni énfasis particular.",
-          "score_pct": 20
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Los logros del Diálogo Social",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjdteEhvWjRnQUc1VnNLMXp2dzNKOHhOa0RTa2o5djBLazhnalpjUVFBUlV6VGdNMTB6U0VCODlhcmtNR0ZXU1FVd2liVmFOMzVWV1g4cHNxR0JHS2J0WTM2ak1DX1JnYzBWMEdXeEZNam9XYjJPX0lBVDQyeTVleXc1dGjSAYoBQVVfeXFMTl9jdlJYYXVpakFqYVdPM0JvQmdmMG1Bcl9iSVQzQzRGUTJPc2lXX2piYVpRT0hBN1ZsS1FMeFktQkJwUnZwRjlKbWJqa3pLdHlWWXp0VVdIT3F5NzZXeWRMR0ItT2xPaEVQRDY2cmprRjVfOERXcjh2NERkRnkwNEJnYVNOeG9nTlB3?oc=5",
+          "description": "Los logros del Diálogo Social &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-04-30T10:01:00+00:00",
+          "score": 4,
+          "score_reason": "Palabra 'logros' implica valoración positiva, aunque moderada.",
+          "score_pct": 40
         },
         {
           "source_id": "busqueda",
@@ -861,29 +696,80 @@
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY01DcXlHSWZrVlJwU3J0SjZTdVUzUzRTWDFzS0RXMk00SHhuem9nd2hvbWVTLVJHY2RsNTdYZDBCby1sQW1UZ2I2VlVhLUFKQWNIY0M3c0ZCYWNtUXBNZkdpcU4tb3AxX3NPTlI4YkFEb2dJSXJCT1pBVVlsaFVabmlLUlRLTDFHZEZQanZpTXo2WThjMmMyQURCdmpuTXpuNElRVGVSc2g1RUFYNlpDaGJ1MFQxWC1GOGhNdmJCOUVZRlFkYVVnckh3VFIxMVBK?oc=5",
           "description": "AFAP y Diálogo Social: la consultoría detrás de cambios al “oligopolio regulado” con “opción pública” &nbsp;&nbsp; BÚSQUEDA",
           "pub_date": "2026-04-30T05:00:00+00:00",
-          "score": 5,
-          "score_reason": "Énfasis en 'oligopolio regulado' y rol de consultoría genera perspectiva crítica.",
-          "score_pct": 50
+          "score": 6,
+          "score_reason": "Enfatiza aspectos controvertidos con entrecomillado; sugiere crítica velada.",
+          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "El Diálogo Social ha generado un conjunto de orientaciones basadas en acuerdos y disensos sobre cambios al sistema de AFAP. El Ejecutivo será quien defina las prioridades finales de implementación. Participan actores que discuten modificaciones al modelo actual, incluyendo la posibilidad de una opción pública. Una consultoría externa ha tenido participación en estos cambios al sistema regulado existente.",
+        "resumen": "El Diálogo Social concluyó con un documento que propone la expansión del tiempo de educación y cuidados en Uruguay. Entre las propuestas figuran cambios en el sistema de AFAP, incluyendo la introducción de una opción pública y modificaciones al modelo actual descrito como oligopolio regulado. El documento representa acuerdos alcanzados entre distintos sectores participantes en estas mesas de diálogo.",
         "coincidencias": [
-          "El Diálogo Social ha generado orientaciones sobre reforma de AFAP",
-          "Existe una propuesta de opción pública en el sistema",
-          "El Ejecutivo tiene rol determinante en decisiones finales"
+          "El Diálogo Social produjo un documento final con propuestas concretas.",
+          "Se abordaron temas de educación, cuidados y reforma del sistema de AFAP.",
+          "Hubo participación de múltiples actores en la negociación de estos temas."
         ],
         "diferencias": [
-          "Búsqueda enfatiza la crítica al oligopolio; Subrayado mantiene tono informativo",
-          "Búsqueda destaca el rol de consultoría externa; Subrayado no lo menciona",
-          "Búsqueda sugiere disputa de intereses; Subrayado presenta como consenso incompleto"
+          "Subrayado adopta tono informativo neutro; Caras y Caretas celebra logros; Búsqueda cuestiona la estructura oligopólica.",
+          "Búsqueda introduce el rol de consultorías externas, ausente en otros medios.",
+          "Subrayado y Caras y Caretas destacan consensos; Búsqueda enfatiza tensiones y cambios estructurales."
         ]
       }
     },
     {
-      "id": "story_015",
-      "topic": "Adolescente recibe libertad asistida por amenazas escolar",
-      "category": "Educación",
+      "id": "story_010",
+      "topic": "Acciones destacadas en partidos de Copa Sudamericana y Libertadores",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Libertadores: la gran doble atajada de Muslera que valió más que un gol para Estudiantes",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUzkzc2VKRFZPZjQ4by1pa3dOODczcmNZWENhX182cXRnb01qMG5GUlIyamtjWExNQjJqSFdUSWFMSUVmU1FsekNCSklTbWkwWnJnSnl5bnlzX21HSy1OTjNXdENzdUE5NHNfTWZlLVFMSVR0SzZsdnVBQ19xM3RDYTdWb09xeVNGLW9wZTMydTU4V2tmcGZTNDZxOENiLWFGSVBvSjVUR2FpMTlfMWxqdlVtemFTc0JBLXhPVmtjMW5sZXFGNk1sLTZ0cWpaSGN60gH0AUFVX3lxTFBNaVFNZ1FDMFNBeU5Wa1RmbVZrSkZTckNPUU9FT1lmSjE5dDVKbElsSkZtV1JqMUhHeGtoYTJrdk5sNUs2Zzc5OWZCTjBXb0Y5bUJDTlc0X0Y3azdVOXBVaVRZRDRyQ1pyaGI0aHBIdXBCYmFWRDdBclBxeE5BVXZSR0dwc3oyZ0Uwank4VlV0cEptN3BqNXl2eUwwQllKNkphaDE0WFFEaFdnVGw4ZF84STYzalRqbENieEg0LVhhUFFxeHdrX1J6M2ZpZFZWcmFZcjcxZEk4emZKZlk2V3B3ZXF2TmRHa0xUY2NyNXdMZDVZS0k?oc=5",
+          "description": "Libertadores: la gran doble atajada de Muslera que valió más que un gol para Estudiantes &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-30T11:40:00+00:00",
+          "score": 5,
+          "score_reason": "Expresión 'valió más que un gol' es subjetiva y valorativa",
+          "score_pct": 50
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Mirá el increíble gol que erró Kevin Silva, de Montevideo City Torque, ante Deportivo Riestra por Copa Sudamericana, que ya recorre las redes sociales",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxObDc1dWxmV1lQNGRWOWF0Z0dISjNxTmpfMFFSWkdFZGJnS1Y1ckdGWmpnMExNMFJNU1hwVlRFemxHU0VMUWpVMXZuRWQ0ZV9mSHdkaXA3Sy1iM2xqOEp1bVo3YS1GR1hOM09PX1hxNGk3VmNTd2g0X1d5RjRXdzdsd201clR6bXFIY1BoUW9MaF9seldDYVRyNHdqYmFzdGxHNDdSUngzRmo0SU1sZUo2M3RqV0VvN1Q3OENnSk94enBDdS1PelBDUkFHeTNLV0FkbDdVUWotdHVBWGxKUWRlR2J4b3hYMENVc3F5eVJxbkJsZHQzcm9kM2s2d1RCbU5WbHBRRnZSUmFzVVdtUF9GNWNGLXlKUFI4YU9rdDFRbm9fbTjSAagCQVVfeXFMT1pMbFM1S2o1ODVwYVE1TEVDYmgwcFc4YjdEcE5HTlVUQzhfeExQV0FFdVB3NWhNU2FReW03eWlTUEExeU96OW9GV2laREg2OWhjRFR5SVpBRldDakRsOFloekM3Z3loQ0tzU0tSZHVNSWo0Sk1iY0RuT2R1SWxpdHJLUWhNNjZqS1pLNmVabDZ0azRuNGxsY2d0YXh4SHFBMmRvRlExVnpFRGRkbVhxVWNYVUhueHJrNnF0RDh2MjhpRkN2b0p1bndNVVdSWnltLWJUZURPVk1senFWVnh6OXR6OV90V3FnVEVGYTVSTHBKN05uUUEtUTRlMVhXMTlDa0FadnByR2JjQ1BsbHdhQ0k5bVFjNXZDb1JKOF9OcThZWVVodVFTdzU?oc=5",
+          "description": "Mirá el increíble gol que erró Kevin Silva, de Montevideo City Torque, ante Deportivo Riestra por Copa Sudamericana, que ya recorre las redes sociales &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-04-30T11:52:00+00:00",
+          "score": 6,
+          "score_reason": "Usa 'increíble' y enfatiza viralización, sobredimensionando",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Durante la jornada de copas sudamericanas, se registraron dos acciones relevantes: Kevin Silva de Montevideo City Torque erró una ocasión clara ante Deportivo Riestra en Copa Sudamericana, jugada que se viralizó en redes sociales. En paralelo, el arquero Sergio Muslera realizó una doble atajada decisiva en un partido de Libertadores con Estudiantes, evitando lo que hubiera sido un gol casi seguro.",
+        "coincidencias": [
+          "Ambos cubren acciones defensivas o erradas en competiciones sudamericanas",
+          "Los eventos merecen cobertura por su relevancia en redes sociales y audiencias",
+          "Se trata de momentos individuales destacados de jugadores uruguayos"
+        ],
+        "diferencias": [
+          "El Observador enfatiza el error y la viralización; Portal destaca la acción positiva",
+          "Observador usa lenguaje emotivo ('increíble'); Portal es más analítico",
+          "Distintos partidos y competiciones (Sudamericana vs Libertadores)"
+        ]
+      }
+    },
+    {
+      "id": "story_011",
+      "topic": "Ministra comenta amparo de científico Moratorio",
+      "category": "Política",
       "sources_count": 2,
       "headlines": [
         {
@@ -893,13 +779,64 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Libertad asistida para una adolescente por amenazas en centro educativo de Montevideo",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmNGY2J5TllvQnppSTJqaUhIYWotd2JURmNOeTFwUjNwQi05OUo2VW9oTGFvTl93THJOdzVoWFpqMC1VRjU0emVaWF9kbnE3YmV5NmhMYWI0QzkyZlA4cFZXdzBBcE95cGdZbVdsSExfQTVMMEFyYmVOb0ZhdC1heml2N2NwcTJqemVjeW1jX0pFajFaS01zem1TWnY3Rkphd3h1SVotbEg1ZnRy0gGyAUFVX3lxTE9pelk0X3ViV1cycGVzSjZXdlRaVEtOQmpGdEwwZDljcE95N1hvb0I1RDdxWXA2SkpRazFra1dsOF9jOHd5MTJ5U2p6X3NpQzdlMHNsazRaR1NUcHoxNkxmVlBnWjRscFFXck1VR1pOODVHdWZKdmI0MzdJamFkcVk2aUFoS1BLY0tIY3k3RDIzc2s4RUhtX2E0N2xlODJ5TGlNNHNBLU9qQUhVVEY2elg3VWc?oc=5",
-          "description": "Libertad asistida para una adolescente por amenazas en centro educativo de Montevideo &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-29T23:15:00+00:00",
-          "score": 1,
-          "score_reason": "Titular descriptivo, factual, sin carga emocional ni interpretación.",
-          "score_pct": 10
+          "title": "Lustemberg se refirió a la situación de Gonzalo Moratorio y explicó por qué el científico debió recurrir al amparo",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ2NGQmZhT1Fad1g2MjRDRHlhUHY0aVBKUkJiZURhRm5mR29TUlR4TFN3bUpPbWlEWksxWTFsdU9OdnQzQS1keVZ4SXlTRWpkWkJqaGRSV0ZKcUlxUXA1TVFTUW16YWVIUzlMeXA2V0ppUnItMmNuOHpEX29HR3NRM3hNN2pmR3h1MnJLcWhaV1RRekZRN3V4azQ2ajc2MlBEWXY5ZXpudXBhX2NyUG1XLUJHRWsxcHlaT1V4a2JzYTk3bTktQjg2V0p6bW5kVThhd2E4YmkwbHY1RXPSAeABQVVfeXFMT002ZWZZc0dGcHpHa0d3N1dGcWxvX2steUZUQ2lzejI4MnNZU1U2TWNLcTdZbDR5cmJUVW9CQ3BlaXNscWdvYzJXaTk0SmhJbzNURjJnVFFOMTMzTFoxODM5NmY1bFpnSzlqSjEwTVRCamgyanhrTmVOb3JKMVBwejRqZ1hQcDhtN0dmQ25Xa01YNWRybFlEQlJjSExnekZkYVlqRkVkbThwZGowSG8ya2loalBNQWxad2Z5eXMzLXVSRVhsZjBDT1R0c29mUzU1QWxYQUI1dzVfX200RC1HLXc?oc=5",
+          "description": "Lustemberg se refirió a la situación de Gonzalo Moratorio y explicó por qué el científico debió recurrir al amparo &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-30T17:15:00+00:00",
+          "score": 2,
+          "score_reason": "Más informativo y equilibrado, explica causas sin énfasis.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“No es fácil”: ministra Lustemberg se refirió al amparo presentado por Gonzalo Moratorio",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdmowYjlsR3pCdjFmR0w0TlJsaXJYN1pQNDljTDMyaF9WcHRKY0M0bktKSUFoanNLa0hpS2lqUlZQcFFiRHZ6MkZQZm0yVmI0UU5BdXBicWJ2eWZYb0VlR0dDTzJVM0ctdVlQMERyYW5OSEdtci05VkxFcEdJTjFsTWZ3MTJVb1BpSlJsVHFjbm1QVTJQdWk3OGhvNGh1dmVhNTd0d2w5bmRFSDN3cERzaWs3ZktpdEhCYzhOU3J1TjZ0emw2U1F6ZHZNTlI1WVJw0gH0AUFVX3lxTE5rSzhFeGRMVWtndldybWFsS25jRl9oeVBqR2xDUFpXUGxaWTQ0RDdVd1ZtTk9GT3lIY2pfTGNLWEFrdk5SMGxjWnRjMGJHN2NLY2NSMDhyNEpzU2d3YkZ6MGw5TkRjeVN0TzBDMkV1MzFET1lMMUZnM3UtQUYyM1NERkk0LUZxSm5oeXBvU2wtb0xtQlcxNEZEZEFGMl9md0JXa2t6NlRkbTlOV1pYWjNBUVByWE9GLUY1UWplNHVKVmVuZG5pOFJfczBCVVFZZVc2RHRLT1lBaTNMcTFLbk1OMmdXQmhGWDhMQ1VMMHUyYll3d04?oc=5",
+          "description": "“No es fácil”: ministra Lustemberg se refirió al amparo presentado por Gonzalo Moratorio &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-30T18:44:00+00:00",
+          "score": 3,
+          "score_reason": "Enfatiza dificultad con cita directa, leve carga emocional.",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "La ministra Lustemberg se refirió públicamente al amparo presentado por el científico Gonzalo Moratorio. La autoridad reconoció las dificultades en la situación del investigador y explicó las razones por las que tuvo que recurrir a esta medida legal. El amparo representa una acción judicial para proteger derechos que se consideran vulnerados.",
+        "coincidencias": [
+          "Ministra Lustemberg se pronunció sobre el amparo de Moratorio",
+          "Se reconocen dificultades en la situación del científico",
+          "Se mencionan explicaciones sobre las razones del amparo"
+        ],
+        "diferencias": [
+          "Montevideo Portal destaca la dificultad con frase entrecomillada; Subrayado enfatiza la explicación de causas",
+          "Subrayado usa lenguaje más expositivo y menos emotivo",
+          "Montevideo Portal prioriza la reacción de la ministra; Subrayado prioriza el contexto justificativo"
+        ]
+      }
+    },
+    {
+      "id": "story_012",
+      "topic": "De Arrascaeta se fractura; Mercosur-UE se activa",
+      "category": "Deportes, Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Una lástima que se pierda el Mundial”: Piovi sobre la fractura de Giorgian De Arrascaeta",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV3U0RzhKbmZ1SzVFTV95cThTbXR0ZHZSN1FiN0hDaUJqdjhEWmpZUzZGbnlFdXdDNDdUdlBOWk5Vdms1NHVYNUc5YUw3TldzaUxQUUI2NFI3SUZzd3k4eVNMRGlSal82R0NtZnozd0ZOVkNMYzJBRmU4MGRhNkxoajh4bF81bko5TTNwVlk4ekh1dFllb0EyS2pFZ0g5a19mS2Z6dkp3eEt1WTFPNHROMEgxX3VxZU5pVjd5Z1dXdllYSTQ3QzFmTjVuVi00Y1AwLVHSAfYBQVVfeXFMUEtxS3VDZkFwUGs1WC1wa0F4SmRxc0wxR0ZLVXpMUkxuT1VocTNuT2FHSDRwb3BYLW5ranh1c0NpWlozM0NRb09XQ25Pc21tVHRSQnNBQUo4czVVaTdveTR4QXE1M3NQRDVobkJ5eE9hWFN3QU14M19GQ2ZfT3NXWGYtV0Z1MjZLMzhoa2Y1OGdIU01oSWh6Z3FSN2YwWGhCQXZ5TjhhSDY4ZDV4bGgteFNBV2NzOEs4bEdkX3htNG1zc3IwcXBpcGQwNXREOS1zbWlDandwcGRISndDNEJhcDFOdmppZHpfcnVRZTNiN1c0RktyX2VB?oc=5",
+          "description": "“Una lástima que se pierda el Mundial”: Piovi sobre la fractura de Giorgian De Arrascaeta &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-30T20:40:00+00:00",
+          "score": 3,
+          "score_reason": "Incluye opinión subjetiva ('lástima') en titular informativo.",
+          "score_pct": 30
         },
         {
           "source_id": "busqueda",
@@ -908,35 +845,356 @@
           "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.busqueda.com.uy",
-          "title": "El eslabón perdido de la erradicación de la pobreza infantil en Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdWpKeUcyZEUyQlc1NzR2YXlPNEdaTzJWMzUwOXIyRGtldDd5SHZvX2Nsc1VtMkNjeE9ucmVPOG9vcnVKcUNVRzFzT09LT2hybDdpRUZlTFFmM04xTTcxYXc3R2R0VUp3YzVSOTFKUW1DbGpuSzA1RjROcDdlcjVzYlh1R181bHhob0ZJQVRabVctWUtveHVqRDRlZjhSMEduaVVYMXV2elI4aUlWNzhpc0YyOTQ1cXFUcHc?oc=5",
-          "description": "El eslabón perdido de la erradicación de la pobreza infantil en Uruguay &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-04-30T06:20:00+00:00",
-          "score": 8,
-          "score_reason": "Vincula caso aislado con pobreza infantil, lenguaje interpretativo muy cargado.",
-          "score_pct": 80
+          "title": "Acuerdo Mercosur-UE se activa con incógnitas: Uruguay deberá “convivir” con la “ley de la selva”",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSV8teDdfYy1pSXlRdzd1WnRVcFljODBpQXhOeGx2QjIxbDd6TWRBQlF3aG4zLU9kelRGQVpTUnhEOE1TdlNNSHhEY3hKTElFYTZ0bUJWX0o5Z3FpN2tUT1VEaWtqMHN4UW9lLWdMSDJPOExRMl9PaVd1bEFGSEg2eTJxTkdVX3Z0RlJ2bk10cU9WRVpCcDY1Nk1RYnhOaF9HSzNlNWZ6MHczT09Qc3VDUUQ4UDU2dkhBQ29zT3FreHVFbWJB?oc=5",
+          "description": "Acuerdo Mercosur-UE se activa con incógnitas: Uruguay deberá “convivir” con la “ley de la selva” &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-04-30T05:05:00+00:00",
+          "score": 6,
+          "score_reason": "Usa 'ley de la selva' entre comillas; lenguaje alarmista sobre acuerdo.",
+          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Una adolescente fue condenada a libertad asistida por realizar amenazas en un centro educativo de Montevideo. La medida judicial representa una sanción alternativa a la privación de libertad. El caso refleja problemáticas de convivencia en espacios escolares y posibles contextos de vulnerabilidad social que inciden en la conducta de menores.",
+        "resumen": "Se reportan dos noticias principales: la fractura de Giorgian De Arrascaeta, futbolista uruguayo, lo que afecta su participación en el próximo Mundial; y la activación del acuerdo comercial entre Mercosur y la Unión Europea, que genera incertidumbre sobre las condiciones de convivencia comercial para Uruguay en un escenario de competencia global intensa.",
         "coincidencias": [
-          "Se trata de una adolescente en el sistema de justicia juvenil",
-          "El hecho ocurrió en un centro educativo montevideano",
-          "Existe relación entre conducta delictiva y contexto de vulnerabilidad social"
+          "Ambas noticias son de relevancia nacional contemporánea.",
+          "Los medios abordan temas con cierta carga de preocupación o negatividad.",
+          "Se presentan situaciones de incertidumbre para Uruguay."
         ],
         "diferencias": [
-          "Subrayado se enfoca en el acto delictivo específico; Búsqueda generaliza hacia políticas de erradicación de pobreza",
-          "Subrayado informa el hecho; Búsqueda lo utiliza como argumento para crítica estructural",
-          "Subrayado es directo y objetivo; Búsqueda es interpretativo y propositivo"
+          "Montevideo Portal enfatiza opinión deportiva personal; Búsqueda adopta tono económico-político crítico.",
+          "Portal usa lenguaje emocional sobre pérdida deportiva; Búsqueda alerta sobre vulnerabilidad comercial.",
+          "Portal se centra en impacto individual; Búsqueda en implicancias sistémicas nacionales."
+        ]
+      }
+    },
+    {
+      "id": "story_013",
+      "topic": "INAU revisa adopción de niño por Giuseppe Cipriani",
+      "category": "Sociedad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "El INAU revisa la adopción de un niño por parte de Giuseppe Cipriani, un proceso en el centro de una polémica en Italia",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRWdHeGNRN1Z2ZS10eFhyYmY2M05kTF9pLXZ0N24wVGl2MUFvZ1pmbEFFeUNjZkpBZHlNblMxQ3R0QmFQcVZZdmFGQTdqSGV3WktQaHUxTDZJR2Q5UHNTbF9kR1BheW84TjBYbmt0SGg0d1c2UExvQk5XY2RFbHBVQ0t4XzFRd2loUllsTjgyREh3a3FXWEdUa3hkMmlzeDVkMmFoSkFwZW5NVXpub2ZobHdwcDQ0dHJONlk2b1RVWmxwanZSbGtNNjVKNUF6dTdCSG5JQ0E4YU5rV1BUSUlHck1B?oc=5",
+          "description": "El INAU revisa la adopción de un niño por parte de Giuseppe Cipriani, un proceso en el centro de una polémica en Italia &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-04-30T05:00:00+00:00",
+          "score": 3,
+          "score_reason": "Neutral, contextualiza la polémica sin cargar emocionalmente.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Sin pistas y en silencio: qué se sabe de Colinet, la madre del niño adoptado por Cipriani",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMnVnWnp4eDEwLVpONW1LZEp2c3lhM3RMMmVER015ek1ZMWVmcTluYmhZY2lGbW1icGl2enFjem5lN3NDTGc0SC0tWlhySWhPUEJ2YmdoaUZHMVktVlBoMVA5N3VtSjJZVl9iNFl4TVFXMzFKMHdMejVENm5Uc0lsb0lpWHdLelZFWndjcGs1MndKZlJwRU5ZWWNqREdrTmVhYzh5U2UzczQxcmxvT3NKUV9mSnhmZ19TRWRpRzNmazF1eFY3Z210WWZWQm5Hbm9B0gH0AUFVX3lxTE82cGQ3MkpTdUtqNnZKS25HRzk3WTV0eExCVk9uY3lRMnhfeFljel9HNk1XNzNtaTFBYW9hQl9DMHJtLWFEZHFWTHh5T3d4dVJvelhIajFlRkx3ampkN3E5ci1GTVJCSExrTWJKUkZ6ZEFocDFqV3BUX2lta1J0a3ZDbVlDdjhvX09oaHlGUlBqMUVHNThhdEpQM2QyNWNDMDVNa3BlUjhpMmxGdnF5dWZKa2FtZ0ZHWHNqOXhxWlJOZFhXQ2JYRHg1Vk5XVS1HbHNqZVI5X2lFUU9KZFdNbi1GeFB0RkNCZ2tTZnk5eXZWVnRTR2k?oc=5",
+          "description": "Sin pistas y en silencio: qué se sabe de Colinet, la madre del niño adoptado por Cipriani &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-30T16:36:00+00:00",
+          "score": 6,
+          "score_reason": "Enfatiza misterio y silencio; lenguaje algo dramático para titular.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "El Instituto del Niño y Adolescente del Uruguay (INAU) está revisando el proceso de adopción de un menor realizado por Giuseppe Cipriani, personaje italiano cuya adopción ha generado controversia en Italia. La madre biológica del niño, identificada como Colinet, permanece sin localizarse y sin información pública. El caso ha despertado interrogantes sobre los protocolos seguidos en el proceso adoptivo en Uruguay.",
+        "coincidencias": [
+          "Existe un proceso de adopción realizado por Giuseppe Cipriani",
+          "El INAU está revisando dicho proceso de adopción",
+          "Hay una polémica o cuestionamiento sobre el caso"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza lo desconocido y misterioso; Búsqueda contextualiza la polémica internacional.",
+          "MP busca información sobre la madre biológica; Búsqueda se enfoca en la revisión institucional.",
+          "MP utiliza lenguaje más dramático; Búsqueda mantiene tono informativo más sobrio."
+        ]
+      }
+    },
+    {
+      "id": "story_014",
+      "topic": "Condenan a sexagenario por abuso sexual sin contacto",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Hombre de 66 años condenado por abuso sexual sin contacto corporal contra menor en Artigas",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZDZoV1NuUm5nbXhjRlY1QUVjMmk3RjFXQy02blFDbmx2cURwUk9raF9sQ2RpTms2RmVUSXE1WWV3T2hKMjF0OFUzSzF2TldSRkVtSjlCTXlUSEhWQVpUZVU1RjZrZzBkSzEtd2tRbjVnczQxX1VKay1zSXhOZ1d0YlRmbmNnU3MzTzA2M0NFcUNFeUlpa3dLYzBJUWpINUxyczBxaFVZUDE3M2M0Q01JbkNlSFNWTnNGMXIzelpmQkhFckEzUE04WDNCMlJ6ODZFV0VPUNIB-AFBVV95cUxPV0xLdDZUaFh6cjktNzRKWjZKbVpFY1o1WE1EV1JEWHpTOFVtTXp6aFUwdTc5UVFtRDJhdzc0NU9razJLNG4tc1JoVWNZZU01MzZLX1M0cVh3UG5YQ2RPSEJOV2J4UUs1QXc5UGxvbThkck05R1RoWERyZ1ZlYWdRVHpScTlQZGpma0daMFFsNTVWM282WGpRMkJ5ZERuZ19seE50RXNSWTczNEJ1R3hCMFJ3SUtaejM3YWFLQ0oyRHRXQ3N4c0xxZGkycDJnZGJZQ0ZxZTdhcFhYSFZxSVpXTEh5OE9YbjlTM01HQ2ViNGRDRUt6MEtHUA?oc=5",
+          "description": "Hombre de 66 años condenado por abuso sexual sin contacto corporal contra menor en Artigas &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-01T10:28:00+00:00",
+          "score": 1,
+          "score_reason": "Lenguaje factual, describe el delito sin adjetivos innecesarios.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Un hombre de 66 años fue condenado en Artigas por abusar de una menor: se lo condenó a prisión, pero estará en libertad a prueba",
+          "url": "https://www.teledoce.com/telemundo/policiales/un-hombre-de-66-anos-fue-condenado-en-artigas-por-abusar-de-una-menor-se-lo-condeno-a-prision-pero-estara-en-libertad-a-prueba/",
+          "description": "“Además, deberá fijar residencia, someterse a control oficial, presentarse una vez por semana en la seccional policial correspondiente a su domicilio y realizar servicios comunitarios durante dos horas semanales por el plazo de un mes”, agregaron desde la Policía. La entrada Un hombre de 66 años fue condenado en Artigas por abusar de una menor: se lo condenó a prisión, pero estará en libertad a prueba se publicó primero en Teledoce.com .",
+          "pub_date": "2026-05-01T10:17:31+00:00",
+          "score": 3,
+          "score_reason": "Enfatiza la libertad condicional; incluye detalles de condiciones para matizar severidad.",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Un hombre de 66 años fue condenado en Artigas por cometer abuso sexual sin contacto corporal contra una menor. La sentencia incluye prisión, pero el condenado quedará en libertad a prueba sujeto a condiciones: fijar residencia, someterse a control oficial, presentarse semanalmente en la seccional policial y cumplir servicios comunitarios.",
+        "coincidencias": [
+          "Ambos confirman condena a hombre de 66 años en Artigas",
+          "Ambos mencionan abuso sexual contra menor",
+          "Ambos refieren a sentencia que incluye libertad condicional"
+        ],
+        "diferencias": [
+          "Montevideo Portal destaca el tipo de abuso; Teledoce enfatiza la libertad a prueba.",
+          "Teledoce detalla condiciones específicas de la condena; Montevideo Portal es más sintético.",
+          "Teledoce usa 'abusar' (verbo de acción); Montevideo Portal usa 'abuso' (sustantivo más neutral)."
+        ]
+      }
+    },
+    {
+      "id": "story_015",
+      "topic": "Adopción cuestionada de Minetti bajo investigación",
+      "category": "Sociedad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Familia afirma que convivió con niño adoptado por Minetti y critica al INAU",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYVlLQTVkZlFSWnNRMHU5ZG5rT09fX1l0blBiVHBXQVUzY0UzdnNvOFlJVWl3VHNUd2xzckF3U2xvNnhBWXNiYjdKUmdqdEVCZ0g0SHJpYWFkM19LcGp4ODE4Nlo0bHJGdDFTdVg4RUs1OW1PdkZqYUVPVW9zZk05elhGSTUxM1FUdHJFXy1oTENXemlTUUdIUWVzTkQ5dElVZjhpSXhidC1QcEo4VC1aVkt4YzMyWFBNOXhOT0ZlYmLSAeQBQVVfeXFMTm5NcG5UNjdMS2pXcjVYX0hsaGtMdmlTWGZjZ3NNSUlXN05BQlBGV24yb0JQTG53LWFHNWVxTFB4NFpGdWJIVHl0ZHVHZGVTZUJsaldVRmt5d056ZF83VVYtVWgydjZEWWtNaGdmZUtzam50MC15Y1pkWkxWaC1wOC1fNkppWE5XVG1ibnlJVnVPdTM0ZlFOcUo4RWhob1NwQ0ppaGtVcXJfS3htMFU0bV9ydEhPd0pLbWZ1ckI1cUQwS2JUUlRudmpNQzg3dS1ZSVFpSkFoMnphQW9GVy1fQnNCX2NQ?oc=5",
+          "description": "Familia afirma que convivió con niño adoptado por Minetti y critica al INAU &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-30T14:49:00+00:00",
+          "score": 3,
+          "score_reason": "Informativo con leve énfasis en crítica institucional, lenguaje neutro.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Caso Nicole Minetti: indulto en Italia, adopción bajo sospecha en Uruguay, incendio fatal y desaparición",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHRicDNMUFBsQ0NUS1F1eUdKWldZdU5oMlNKN2pnbnFLc3Ztd2JkY1hJc0FFTC0wRG03VTctclpDWi1hcmF0Z0NlTy0tY3JCc2dmM29TdnRtZU9TTWYwbDNLakkwcDlKOUJpYWlyZUpwVUpNOVZvcDRIcmpvbjZabjFPYlBneGltaHUtYnAyMWQwc1lUeEpybWthVXlIakY1NTVFeUREME1QQUpUcjNnNWFOVjlVNGNkdl9EcEFtLVhVMVFwQWhv0gHMAUFVX3lxTE1wb3d2ZGJVMFlLMS1qaTI5eWRnblBMZENoOFV0MDRROG5QaU5sZVVUaEp0My1uOW1zTUhrT0VFb0d4QjFQWjhEdEI0bVgtcnAteXJmVUw2U2ZUdzdMX0ZXNHpzUnZxb2RRaW9DOGlsdDROaUdYak9KTHYwMTRwemhZVHA0bkk3emY5aWxxN1pvS2g0OUM2dlpJMjQ3SVVQcUpmNVd3cS1rTmpSZFFBX0xudWxSSkZwd21GNGEybTZyS2h1M1ZmYzhaZWg2Ug?oc=5",
+          "description": "Caso Nicole Minetti: indulto en Italia, adopción bajo sospecha en Uruguay, incendio fatal y desaparición &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-29T23:18:00+00:00",
+          "score": 7,
+          "score_reason": "Encadenamiento dramático de hechos, lenguaje sensacionalista, genera alarma.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Se cuestiona la adopción de un niño por parte de Nicole Minetti en Uruguay. Una familia afirma haber convivido con el menor y critica la actuación del INAU. El caso se vincula con antecedentes de Minetti en Italia (indulto) y hechos posteriores como un incendio fatal y una desaparición. Las circunstancias de la adopción están bajo sospecha y se investiga la responsabilidad institucional en el proceso de filiación.",
+        "coincidencias": [
+          "Existe una adopción cuestionada vinculada a Nicole Minetti",
+          "El INAU o su gestión está bajo escrutinio",
+          "Hay antecedentes problemáticos o hechos graves asociados al caso"
+        ],
+        "diferencias": [
+          "Portal se enfoca en la crítica institucional; Subrayado dramatiza conexiones entre hechos",
+          "Portal destaca el testimonio de la familia; Subrayado vincula antecedentes italianos",
+          "Portal cuestiona procedimientos; Subrayado subraya gravedad y misterio del caso"
         ]
       }
     },
     {
       "id": "story_016",
-      "topic": "Acuerdo Mercosur-UE comienza con desacuerdos pendientes",
-      "category": "Internacional",
+      "topic": "Gobierno autoriza cadenas nacionales para actos del 1º de mayo",
+      "category": "Política",
       "sources_count": 2,
       "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Gobierno autorizó cadenas nacionales para el Pit-Cnt y MTSS por el Día de los Trabajadores",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPalkxdHdha0tSa0o4aUg2VGJhbkRYNDBHUEF4cVpmLU9zZm8xTlVpRk1iYlBoNGNTSVFPMWk1aWJuNHFMTHd6TnNFUGt3bzNvVGFEcmFJZkZhQkkybEZZR28yU3N6MGVrQWJ5MzFpc3B6TmpvbDBmWWVsQjBIMFZUMnNGcFQ3UmpwV2xmSGtaWndTVVp0SDlqakhOeGZHY0hyY1ZUSFc5NTljQzhCUlN4WTBhZUdkcEdMdzdJbS1CRzFWTG1zMHpEd2IzWVZOXzE1SHN5YtIB-AFBVV95cUxPUlBLdlNGaUNOalNKbkNZckpkbmd2X2ZZdUY3TTJEaUFoajg5UXBSRnlNWlpIYk9YT2xMS3dacnBOMTRMc2RkaWlHbHAzVHJ3UXByVnFZbldGYlBsSm55WElGQ3ZsaUxBakpSWDRxc2U1elpOYlpQejJUTS02RnJwUVhBNEFCSXZBTXhabEw2NTNUeTlGbnlIMlVCUmpvTUt2a2NsMGFtbWRUTW9sWU9uVWFXQkhPUUNzQWNhTkJWZU1BUnpLWUhGZnZCeHVvdm12eURyTWVGWmFVaUtwM2JnU05iNHVQbWttelpMY19XZUt2dk1JV2ZFcA?oc=5",
+          "description": "Gobierno autorizó cadenas nacionales para el Pit-Cnt y MTSS por el Día de los Trabajadores &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-04-30T11:30:00+00:00",
+          "score": 1,
+          "score_reason": "Neutral, informativo, enumera actores sin carga emocional.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Gobierno autorizó cadenas nacionales para el PIT-CNT y Ministerio de Trabajo",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUlmUllGZmNOMEhjSU1sVWp0dkFjV2Fla2pLWG9TV1RUdll2bURnY2lXbzFzR1RBcXFHZjVKY1o2TFRDdXFDbXJobXE0TWRmd0tRZVlDelRnRlY4Wm12bk9hb2ZfeEdld1VZZkp5V1B1YTY2clRIWGlLanJVOVNxUXFDTUlEUVI0X2tZOVp4eUp3RmNGV0ZaUTR2NXBzbWQta25wRlFsN1BnaGl6TUs3UWJjQklSQQ?oc=5",
+          "description": "Gobierno autorizó cadenas nacionales para el PIT-CNT y Ministerio de Trabajo &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-04-30T17:26:30+00:00",
+          "score": 1,
+          "score_reason": "Neutral, informativo, estructura similar sin matices tendenciosos.",
+          "score_pct": 10
+        }
+      ],
+      "analysis": {
+        "resumen": "El Gobierno autorizó la transmisión de cadenas nacionales para que el PIT-CNT y el Ministerio de Trabajo y Seguridad Social realicen actos por el Día de los Trabajadores. Se trata de una autorización estándar que permite que ambas instituciones difundan sus mensajes a través de los medios de comunicación en una fecha conmemorativa de relevancia social y laboral.",
+        "coincidencias": [
+          "Ambos medios reportan la autorización de cadenas nacionales como hecho central.",
+          "Ambos nombran al PIT-CNT y al Ministerio de Trabajo como destinatarios.",
+          "Ambos usan lenguaje directo y descriptivo sin adjetivos valorativos."
+        ],
+        "diferencias": [
+          "Montevideo Portal especifica MTSS mientras que La R generaliza como Ministerio de Trabajo.",
+          "La R omite la contextualización del Día de los Trabajadores en el titular.",
+          "Montevideo Portal es más preciso con la nomenclatura institucional completa."
+        ]
+      }
+    },
+    {
+      "id": "story_017",
+      "topic": "Protección económica de infancias en diálogo social",
+      "category": "Sociedad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Las propuestas sobre la protección económica de niñas, niños y adolescentes en el Diálogo Social",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnd3cmNsYjFjMlZRdndOVmFFbUMxaGkxQTg3WTZobGxXSVE0NzZUcjY0c0pkTnZ1T3ZjVkxVamNWTVpYZDVRUkdXRTE1Y1ZzRGlNVmdVbnFLUDY4bVptZ0M0YURvTGh5TmViU3Q4NUNrN0c0bmFPOEt5SE1qVnVvTmswV2pJR1J0U3ZPanh4Vy1FY29JbUNuUDhuOVdHRzJwS3RUc2RnNXhDUnVCVWFXZFJ3dkFJa0hrbXBFUUJR0gHDAUFVX3lxTE8wSTZXYTdtalY2WWxzQ0xwbzJ2eURmN1AwV19oLWtjTUw2Nm12cmNHOENwT3J2LWQwVHR2TC1uTGt2R2hzZjJxbWNHVWtYV3B0Y3lDMWpxbWN0VXB0TkNlSnphS2RzOXd3NXpFS3E5ZGpRclotVmhySUo5TTIzemRmQXZEejdrbmJ3UWJFS091czhqb0xJdmJLVzdkV2swN05yT3YzU19za0Y3YmdqdldHbjVYT2ZMZk1PTkNXeVB2S0ZhTQ?oc=5",
+          "description": "Las propuestas sobre la protección económica de niñas, niños y adolescentes en el Diálogo Social &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-04-30T22:22:00+00:00",
+          "score": 1,
+          "score_reason": "Lenguaje neutral y descriptivo, sin carga emocional.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Infancias y adolescencias: \"Necesitamos un modelo más social, con deporte y cultura\"",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa3lmdnJsV2hISVdETmc4UkxJRGRQRThTazEwRVNaMTktOGUwcW1ETUFOTmZBM1V2dzh4VDE5T1VRX0NfTmplbmpPZThpa3ZZd0RaYm9GdTJYOXRfcnhZZVVkTldJNEd6QU1qN1gwQVVWQ3RrZmxnZlVFdmliSE54NXpmclNOdnVPRm8yYjRUZ3kzMVZIc2NzNXVyRi1pWGJSUjJFV3JZWVFhQ3J6dmg0T2dCeG56UTUxTVFsTGVEYW5GTEnSAcgBQVVfeXFMUElvdFBHQmtybE5Makx1WEszeEdBY3Ewb09VLXZUMGdQRS12UmJKNHJRd0QzY3Y0VFNUTTB3UlpjTHpIQ0hYQXZueGUwekt3VHdXQ3BiaXQtbGYtamM5ZEIyZTRGaVJzMjFZMXluQ0g3VHE5RlFoRlB0bGFKbW1GQ0lzMk1GQUtGODQ0LXJfUnJUYlV3Sjl4blZIcnVicWhkZWhSVW1hODIzNW84c1A5cHR6V2FWdl94SGlKUU44OVpmWU5yemdOZ2Y?oc=5",
+          "description": "Infancias y adolescencias: \"Necesitamos un modelo más social, con deporte y cultura\" &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-04-30T17:45:00+00:00",
+          "score": 3,
+          "score_reason": "Incluye comillas y énfasis en 'más social', ligero encuadre valorativo.",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Durante el Diálogo Social, se presentaron propuestas para mejorar la protección económica de niñas, niños y adolescentes en Uruguay. Las discusiones incluyeron la necesidad de fortalecer políticas que combinen aspectos económicos con acceso a deporte y cultura. Se enfatizó la importancia de un modelo más integral que aborde tanto la dimensión financiera como el desarrollo social y recreativo de las infancias.",
+        "coincidencias": [
+          "Ambos abordan el Diálogo Social como contexto de las propuestas",
+          "Ambos refieren a protección de niñas, niños y adolescentes",
+          "Ambos mencionan aspectos más allá de lo puramente económico"
+        ],
+        "diferencias": [
+          "Subrayado se enfoca en 'protección económica' como eje central",
+          "Caras y Caretas amplía el enfoque hacia deporte, cultura y modelo social",
+          "Subrayado es más técnico-administrativo; Caras y Caretas más aspiracional"
+        ]
+      }
+    },
+    {
+      "id": "story_018",
+      "topic": "Evento sobre inteligencia artificial y futuro de las AFAP",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "180",
+          "source_name": "180.com.uy",
+          "source_short": "180",
+          "source_color": "#F57F17",
+          "source_text_color": "#000000",
+          "source_url": "https://www.180.com.uy",
+          "title": "SUMMIT IA HUMAN FUTURE 2026 powered by Itaú Empresas",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTlJyUnk5Sk5uTnVodDg5NFBieHpPWldIeFl1RG5nNnJRWjlmVGxVSVF1RFpyN0U0TDB4eGtKRl9ObEN1OHhKVWVCZVAzWEkzVmcyY3gxdjk0eE1pbDM2Sld4QlBzd3lWdE9YMENNay12VHJqVThCWmF6UnRYZFk0cVNsMXhPa2U5eGpxWl85WnpsZ0VJ?oc=5",
+          "description": "SUMMIT IA HUMAN FUTURE 2026 powered by Itaú Empresas &nbsp;&nbsp; 180.com.uy",
+          "pub_date": "2026-04-30T16:43:39+00:00",
+          "score": 2,
+          "score_reason": "Menciona marca patrocinadora, informativo sin carga emocional.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "El futuro de las AFAP",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56dkJnMjZiVmc2V1lRY1RKRGR6SG1iSE9wQUxPbUxDbndiQ0JldWY5eVBmajFTalBobWhrR2lWZUpZUHBVQWtuSldZUWhrTGtpaHFRd01KbVJiVjNKeG1oMkNsOUhvSzQ2Y2RXZm9oWkpDaF8zVERRLUVSS2w4cUk?oc=5",
+          "description": "El futuro de las AFAP &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-04-30T10:00:00+00:00",
+          "score": 5,
+          "score_reason": "Enfatiza aspecto sensible (futuro AFAP) sin contexto neutralizador.",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "Se realizó un evento denominado Summit IA Human Future 2026 auspiciado por Itaú Empresas en Uruguay. El encuentro abordó temas relacionados con inteligencia artificial y su impacto en el futuro, incluyendo discusiones sobre el sistema de AFAP (fondos de pensión privados). El evento congregó a expertos y referentes del sector para debatir tendencias tecnológicas y sus implicancias en la economía y protección social del país.",
+        "coincidencias": [
+          "Ambos medios cubren el mismo evento sobre IA y pensiones",
+          "Reconocen la relevancia del tema para el futuro económico nacional",
+          "Incluyen participación de actores relevantes del sector empresarial"
+        ],
+        "diferencias": [
+          "180 destaca el evento como tal y su patrocinador corporativo; Búsqueda enfatiza la problemática de las AFAP",
+          "180 tono descriptivo y corporativo; Búsqueda sugiere cuestionamiento sobre viabilidad del sistema",
+          "180 apunta a futuro tecnológico; Búsqueda apunta a incertidumbre sobre pensiones"
+        ]
+      }
+    },
+    {
+      "id": "story_019",
+      "topic": "Acuerdo Mercosur-UE entra en vigor",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Luego de casi tres décadas de negociaciones, este 1º de mayo entró en vigor de forma provisional el acuerdo comercial Mercosur-Unión Europea",
+          "url": "https://www.teledoce.com/telemundo/internacionales/luego-de-casi-tres-decadas-de-negociaciones-este-1o-de-mayo-entro-en-vigor-de-forma-provisional-el-acuerdo-comercial-mercosur-union-europea/",
+          "description": "El acuerdo para crear una de las mayores zonas de libre comercio del mundo fue cerrado en enero, tras más de 25 años de negociaciones. La entrada Luego de casi tres décadas de negociaciones, este 1º de mayo entró en vigor de forma provisional el acuerdo comercial Mercosur-Unión Europea se publicó primero en Teledoce.com .",
+          "pub_date": "2026-05-01T10:29:54+00:00",
+          "score": 1,
+          "score_reason": "Informativo puro, datos verificables, sin carga emocional ni interpretación.",
+          "score_pct": 10
+        },
         {
           "source_id": "busqueda",
           "source_name": "Búsqueda",
@@ -949,189 +1207,72 @@
           "description": "Implementación del acuerdo Mercosur-UE comienza con aspectos sin resolver y optimismo de las autoridades &nbsp;&nbsp; BÚSQUEDA",
           "pub_date": "2026-04-30T05:05:00+00:00",
           "score": 3,
-          "score_reason": "Presentación equilibrada: reconoce problemas pero también optimismo oficial.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "No hay acuerdo en el Mercosur por las cuotas de exportación a Europa y el tratado empieza a regir el viernes",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPek1zTWgtZGp3RFBHRThwZDk0dHNFbzBvYmszSm9ZOGhhMGFQRXhxLXVOdHM5MmFKWmx2c3RqYzh4TDhKRXRCaTd3N25Pb1BNN2tlN1FLUkJlRTFYTG5HOEFFSnBHN3Z0SjdyR21oVUNyQ2x4NXpxd2NadWhxNkpJSmp2TGJOQXpqcGU3RUFLcTVOYlN3bkpDdGtncmVRUWpCUGdDZlJmRzY3ZEtleWNSeEVST1BleEE3dmNZNHJMbmZROXdjNkRTUTBxREPSAdIBQVVfeXFMT2tfUHhBRzNDeU1pVEhVTzg3WlF3MUo5bkhwMVVoN3hrbXFQcEZVX3FiZmhFY2Q0ai1mNVVSWTB3ZmpLRjQyRVZvLW1SQjNhYlFzNXRZMGQ2c3drN3BRbFlVSkQwUkFCdTVtelp6QWtMaDlYMnp3cUM0aEhwaVU4aW1QTS1OYnlPSGVFbGlHWGIyYmg2b0U3X1RJNDhCZzRmSkJYdTRIVHlJNXVzQThQclBJUU84Z2czVDZrcmZzUEJlXzluMXBmTnRpRjhXT3RkTC1R?oc=5",
-          "description": "No hay acuerdo en el Mercosur por las cuotas de exportación a Europa y el tratado empieza a regir el viernes &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-29T14:58:00+00:00",
-          "score": 5,
-          "score_reason": "Enfatiza el problema sin mencionar optimismo de autoridades.",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "El acuerdo comercial entre el Mercosur y la Unión Europea entra en vigencia el viernes, pero los países miembros aún no han llegado a un consenso sobre las cuotas de exportación hacia Europa. A pesar de los desacuerdos internos sobre aspectos específicos del tratado, las autoridades mantienen una postura optimista respecto a la implementación del acuerdo. La negociación de los detalles continúa mientras avanza el proceso de entrada en vigor del convenio.",
-        "coincidencias": [
-          "El acuerdo Mercosur-UE comienza a regir esta semana.",
-          "Existen aspectos sin resolver en las negociaciones.",
-          "Se trata de cuotas y detalles de exportación a Europa."
-        ],
-        "diferencias": [
-          "Subrayado destaca la falta de acuerdo como problema central.",
-          "Búsqueda equilibra el conflicto interno con el optimismo gubernamental.",
-          "Subrayado usa tono más directo; Búsqueda matiza con contexto positivo."
-        ]
-      }
-    },
-    {
-      "id": "story_017",
-      "topic": "Condenan a siete reclusos por incendio mortal en Comcar",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Condenaron a 30 años de cárcel a siete reclusos por incendio de 2024 en Comcar que dejó seis muertos y uno grave",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVk5LOFNwRVNGLWFfUXpSbmJ5dnNzRFJxZ0pMUTZRM2tobHdZcHJaekdwa3N3THozVWY5d0NNcTlSbUxJdFFFOUV5YzBKYlp0YU1ha1dMeVd6cEZNQW9vLWpjZ3VnU0tLRVREakdfNW5zNlY4VHZ1Nkhmb3YxZlVxNlNYeGhrMDloQlRHS2w3dTVnZGJneEIyb3l2Y2NWemVJRExfRzdNaDJBYkV5dnExVDN2dVJaLU5WR1M2VW1DelRlMjhpWWNnd1poaENtQQ?oc=5",
-          "description": "Condenaron a 30 años de cárcel a siete reclusos por incendio de 2024 en Comcar que dejó seis muertos y uno grave &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-29T20:32:00+00:00",
-          "score": 2,
-          "score_reason": "Información clara y directa sin carga emocional innecesaria.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Condenaron a siete reclusos del exComcar por un séxtuple homicidio ocurrido en 2024",
-          "url": "https://www.teledoce.com/telemundo/policiales/condenaron-a-siete-reclusos-del-excomcar-por-un-sextuple-homicidio-ocurrido-en-2024/",
-          "description": "Todo comenzó con un ataque con un corte carcelario entre dos presos en el sector B2 del módulo cuatro del Comcar La entrada Condenaron a siete reclusos del exComcar por un séxtuple homicidio ocurrido en 2024 se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-29T21:58:51+00:00",
-          "score": 3,
-          "score_reason": "Usa término 'séxtuple homicidio' que enfatiza gravedad de forma parcial.",
+          "score_reason": "Equilibrado pero enfatiza incertidumbre y aspectos sin resolver versus optimismo.",
           "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Un tribunal condenó a siete reclusos a 30 años de cárcel por responsabilidad en un incendio ocurrido en 2024 en el penal de Comcar. El siniestro dejó seis personas fallecidas y una gravemente herida. El incidente comenzó con un enfrentamiento entre internos en el sector B2 del módulo cuatro de la institución penitenciaria.",
+        "resumen": "El 1º de mayo entró en vigor de forma provisional el acuerdo comercial entre Mercosur y la Unión Europea, tras casi tres décadas de negociaciones que concluyeron en enero. Se trata de uno de los mayores tratados de libre comercio del mundo. Sin embargo, su implementación comienza con aspectos aún por resolver, aunque las autoridades expresan optimismo respecto a su desarrollo.",
         "coincidencias": [
-          "Siete reclusos fueron condenados por el incendio de 2024.",
-          "El hecho ocurrió en la penitenciaría de Comcar.",
-          "La sentencia fue de 30 años de cárcel."
+          "Ambos confirman la entrada en vigor del acuerdo el 1º de mayo",
+          "Ambos reconocen las largas negociaciones previas al acuerdo",
+          "Ambos mencionan la importancia histórica del tratado comercial"
         ],
         "diferencias": [
-          "Subrayado detalla saldo de víctimas; Teledoce denomina 'séxtuple homicidio'.",
-          "Teledoce menciona el conflicto inicial entre presos; Subrayado no lo explicita.",
-          "Teledoce enfatiza calificación penal; Subrayado mantiene descripción más neutra."
+          "Teledoce destaca logros y magnitud; Búsqueda subraya problemas pendientes",
+          "Teledoce es más directo; Búsqueda balancea optimismo oficial con realidades",
+          "Teledoce enfatiza conclusión de proceso; Búsqueda enfatiza comienzo de implementación compleja"
         ]
       }
     },
     {
-      "id": "story_018",
-      "topic": "Adolescentes detenidos por violencia en liceos",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Detuvieron a dos adolescentes que iban a agredir a otro de su liceo; les incautaron \"objetos punzantes\" y estaban suspendidos por un ataque previo",
-          "url": "https://www.teledoce.com/telemundo/policiales/detuvieron-a-dos-adolescentes-que-iban-a-agredir-a-otro-de-su-liceo-les-incautaron-objetos-punzantes-y-estaban-suspendidos-por-un-ataque-previo/",
-          "description": "La situación se dio en Salto. La entrada Detuvieron a dos adolescentes que iban a agredir a otro de su liceo; les incautaron &quot;objetos punzantes&quot; y estaban suspendidos por un ataque previo se publicó primero en Teledoce.com .",
-          "pub_date": "2026-04-30T09:42:47+00:00",
-          "score": 4,
-          "score_reason": "Informativo con detalles factuales; comillas en 'objetos punzantes' muestra distancia.",
-          "score_pct": 40
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Amenaza armada de un alumno de liceo de Las Piedras: docentes hicieron denuncia policial y ocuparon el edificio",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcjBpTW12X2ZFSFZJRUJVS01WOHdMMFoyTTdjV29wVlRhZnhSNjhWX3huTDJxT0FpMnp6ZDZ2VVp0LXRJX001NGlURG5HSjlZQ3JJWnp6TFZGZmpOZGNGYlFxQnJVYkpydFpqQkoyTDEzLW0tV3pESldsQ2JNeVQzVjVBY0JhcFU4NVp2NVQxdFV3ekNCY2pUUE1vZVBKSW9fdE5mSUZ0Z1VnOVFoT0k0cFUwSHB0OVdvVlBIcUswREV2eng2cjhQcFEzaVVmMTYtQllGUDV30gHbAUFVX3lxTE8xdjBfckJFUnpBTXBUd1ZGNkt6MHV1YldaRERCNW1FVFVqYnVaNG5ObHM2U1BOVUNfM3l6RlRTMTg4ZmdIdzlYVGhydl96QVRuekh2Y2NKemo1UkJzR0pTb3VpZE1nWlNYVGN1SlBCeHNuVGRtX3BXZS1DZlFzWktibHBOa2ZEbElrV1lnUThPTElWVGR4aGxUUFZsTERkTlAyR0xNdEtHS2FQeS03M1h5X3QzOGhlUDNUYjBXd0lwMEVQUjAwN1IyU18yanRweUplRVRRQVZKY2dGcw?oc=5",
-          "description": "Amenaza armada de un alumno de liceo de Las Piedras: docentes hicieron denuncia policial y ocuparon el edificio &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-29T16:02:00+00:00",
-          "score": 6,
-          "score_reason": "Énfasis en 'amenaza armada' y acciones de ocupación generan alarma.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "En dos incidentes separados en liceos uruguayos (Las Piedras y Salto), se registraron situaciones de violencia estudiantil. En Las Piedras, un alumno realizó una amenaza armada que motivó la denuncia policial y ocupación del establecimiento por parte de docentes. En Salto, dos adolescentes fueron detenidos cuando se dirigían a agredir a otro estudiante; portaban objetos punzantes y habían sido previamente suspendidos por un ataque anterior. Ambos casos evidencian problemática de seguridad en instituciones educativas.",
-        "coincidencias": [
-          "Menores de edad involucrados en situaciones de violencia en liceos",
-          "Intervención policial y medidas preventivas/represivas adoptadas",
-          "Antecedentes de violencia en los establecimientos educativos"
-        ],
-        "diferencias": [
-          "Subrayado destaca amenaza armada específica; Teledoce subraya intención de agresión inminente",
-          "Subrayado enfatiza respuesta gremial (ocupación); Teledoce enfatiza antecedentes disciplinarios",
-          "Subrayado carga dramática con 'amenaza armada'; Teledoce usa lenguaje más neutral con comillas"
-        ]
-      }
-    },
-    {
-      "id": "story_019",
-      "topic": "Gobierno presenta plan de jubilación anticipada a los 60",
+      "id": "story_020",
+      "topic": "Gobierno mantiene AFAP; renueva Consejo Fiscal",
       "category": "Política",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "lr21",
-          "source_name": "LR21",
-          "source_short": "LR21",
-          "source_color": "#827717",
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.lr21.com.uy",
-          "title": "Quiénes podrán jubilarse a los 60 de acuerdo al nuevo plan del gobierno",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeFdYSzl3UGdOSmJoYnNkMFRfbGd1OEl4b0RRRGJXN2hwaXROb3dPN0M4ZEZPS0VqQmlPZHBKajdqdUh4MFZ0ak5DeXNOa1pCWEpCcloxSUEwOERJRVBMbE50MWdhUnNrS3IwaU9zV2pWTk84LTVnb0g1NUV5LXRhY3RUZmlLN2pHNHNOQjRiellVRG9XMmlxTElDMjloNGl1VzRHRWdlaWhmRW5Xdk91bUdn?oc=5",
-          "description": "Quiénes podrán jubilarse a los 60 de acuerdo al nuevo plan del gobierno &nbsp;&nbsp; LaRed21",
-          "pub_date": "2026-04-29T12:24:46+00:00",
-          "score": 2,
-          "score_reason": "Formato de pregunta informativo sin carga emocional o valoración.",
-          "score_pct": 20
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Consejo Fiscal Autónomo renueva su integración; se incorporará Silvia Rodríguez Collazo",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWkhUTFlXQ01tbVExX21wYUJZWlRZREYtMWRTQzVVRkctM2RndVpyU08xemw4Q3Q3TlRIcFlHcmQ5VDdHVkEwcjdHa0FEb3doMUQ1NjhNVFJ6R1FEa1JJVzNoeU9iaU11TGI2dVk4X00xaVFocWhTSnRZQnlpUXdXd3pFZC1kNjNKMnJmeFV0c3pmd0pyak9VZG1Ldk1YNDMydWxCcS1SSUFPaVJjc3QxdWhmREhqV2ZUVThtV1RnSGVlRnJpd1ZTNmF3WUc?oc=5",
+          "description": "Consejo Fiscal Autónomo renueva su integración; se incorporará Silvia Rodríguez Collazo &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-04-30T05:00:00+00:00",
+          "score": 1,
+          "score_reason": "Titular puramente informativo, sin carga emocional ni interpretación.",
+          "score_pct": 10
         },
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Gobierno estima que 30% de los trabajadores se podría beneficiar de una jubilación anticipada a los 60 años",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaDBnbHppVHI3OUppVEw5eHl0RWthUG1yQnFOYk5MNWxySFQ2Tk14TnFpdTA5OURRRS1nU2E0dkF2RjJ1LTh1WV9vTmhMQ3VQTzFNUzRQeFJXY1hkVk9fS0VzOGk2c1ExUDZXdkY0bVVsUWM1WkhUQ1BuY3dwLUVWVHpmQzYwUFN3c2VXd3pjdEROZzgxVU8xV2YtdHRpNTlrc2JTYWdoVVZsakRGOGZ5NmxRZ3gzTVVoc0xhZFE2MnkzeGg4ekVnRk1pYmROdm83d2fSAdcBQVVfeXFMUEtGcXZVaVFQSkMtOU9BYU1oMTRMd0VhaUhzN0dMUWhjZVNPMUU4dnB6X3hVeTVZNVdpLUpmOXFXM2tyb01SaE1VaTNJX0d2cnl4alpNVmxCallZRkFGNGkyeThOSDBpNUQ0ZVdHUG9fejhpaHpqSTh2YUNlelJpQ2U1SDVXNjktTUZDdVFxeVdxNTNjWHpvTkZTOHZNd011TXFzVV9JcXFZcG1WSks5NC1mQWpnSUVHUk04ajdTSmQxbmdZMVlhMzdWSENzTXlkSjRlbjI4OFU?oc=5",
-          "description": "Gobierno estima que 30% de los trabajadores se podría beneficiar de una jubilación anticipada a los 60 años &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-04-29T13:29:00+00:00",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Poder Ejecutivo descarta eliminar las AFAP del sistema",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQmQ4eS15YTBPbEJ3ZG5FMzZwR0Vhb3ZGREdFMUxIMGY3RjhhQnRqTF9zYV8xdVNHdklob2JmcGZOVEJ1NnhGc0pWbjc0X0paX1ZJdVU4SFBWNXJyWnNldXFDWHlkSVAwMmxJa01BOERCbkdsSVJ6YndQRlVoRlAwSzRQTlI5NTh4Q19sdDhtWmZUUF93ejFQTw?oc=5",
+          "description": "Poder Ejecutivo descarta eliminar las AFAP del sistema &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-04-30T20:00:41+00:00",
           "score": 3,
-          "score_reason": "Énfasis en 'estima' y 'podría' suaviza con caución la propuesta.",
+          "score_reason": "El verbo 'descartar' enfatiza negación; podría destacar más la decisión positiva.",
           "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "El gobierno uruguayo presentó una propuesta que permitiría a aproximadamente el 30% de los trabajadores acceder a una jubilación anticipada a los 60 años. La medida forma parte de un nuevo plan de reforma del sistema previsional. Según las estimaciones oficiales, esta opción beneficiaría a una porción significativa de la población trabajadora, aunque los detalles específicos sobre quiénes serían los beneficiarios y las condiciones particulares de la medida requieren mayor aclaración.",
+        "resumen": "El Poder Ejecutivo confirmó que no eliminará las AFAP del sistema de jubilación uruguayo. Simultáneamente, se renovó la integración del Consejo Fiscal Autónomo con la incorporación de Silvia Rodríguez Collazo. Estos cambios se enmarcan en decisiones sobre la estructura institucional y de seguridad social del país.",
         "coincidencias": [
-          "Ambos medios reportan sobre un plan de jubilación anticipada a los 60 años",
-          "Los dos mencionan que esta medida beneficiaría a trabajadores específicos",
-          "Ambos reconocen que se trata de una propuesta/plan del gobierno"
+          "Ambos medios cubren decisiones institucionales del Ejecutivo.",
+          "Se trata de temas de gestión administrativa y política económica.",
+          "Ambos informan sobre cambios en estructuras de gobierno o seguridad social."
         ],
         "diferencias": [
-          "Subrayado enfatiza la estimación numérica (30%) en el titular principal",
-          "LR21 prioriza el interrogante sobre quiénes serían los beneficiarios exactos",
-          "Subrayado usa lenguaje potencial ('podría'), LR21 es más directo sobre la implementación"
+          "Búsqueda enfatiza la renovación del Consejo; Grupo R, la postura sobre AFAP.",
+          "Grupo R usa lenguaje de rechazo ('descartar'); Búsqueda es meramente descriptivo.",
+          "Diferentes aspectos de la misma decisión gubernamental priorizados por cada medio."
         ]
       }
     }
