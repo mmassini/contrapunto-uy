@@ -1,11 +1,152 @@
 {
-  "generated_at": "2026-05-07T11:52:32.225617",
+  "generated_at": "2026-05-08T11:23:10.860512",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Actualidad política, económica y deportiva uruguaya",
-      "category": "Otro",
-      "sources_count": 7,
+      "topic": "Incidente entre Valverde y Tchouaméni en Real Madrid",
+      "category": "Deportes",
+      "sources_count": 8,
+      "headlines": [
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Los 50 años de la Feria del Libro de Buenos Aires como símbolo",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQME42bUVCdzB4bVhMNmdEeTVtRGhZRXNIemh0cmdScmZqYUhDdTV6Z29NM1JEcTkzN1A0d0h1T0xOSmVDb1EyWXRoSkQtaHdTdk1CenRLYlZPLVNidVlzQ2w5eXIyRFVVbFR5LW5FQ0tLRzVVTW9MV1ppY3hNVUljbTNBUjFTRTBIcU94SWRqZlZvMHJzNTFrdFRMdjZUZzk3N1NvU2JuVVFXdEk?oc=5",
+          "description": "Los 50 años de la Feria del Libro de Buenos Aires como símbolo &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-05-07T06:10:00+00:00",
+          "score": 0,
+          "score_reason": "No relacionado; cobertura de evento cultural en Argentina.",
+          "score_pct": 0
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Jorge Oxires Otero Sesca",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvaW40WjZKdGlrd1h0dVk3TkQ3RHJSbXFMbzdQYU9RaWhSRTh2TWlfSV9XOE04b0ZpODZ3UDdERmhNU0hSa0VTTW8xSzlaVGZ3RHA5QWE0YlJmUF9uanZCd0pXdU9icGZMd3FaZ0oyeHI?oc=5",
+          "description": "Jorge Oxires Otero Sesca &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-05-07T03:10:27+00:00",
+          "score": 0,
+          "score_reason": "Titular incompleto o erróneo; sin contexto informativo clara.",
+          "score_pct": 0
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Dudas por las AFAP: cierre del Diálogo Social ya generó movimientos en bonos uruguayos; inversores extranjeros vendieron títulos en pesos",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOMlZPQnVUek9TdjczZWwteEpTTTc4Wm9zY3NFYWhWS0FHOEg0TGs5NXZYZlFHWGJqOUFzSDJkeVJrQ3FBYVJ5bThYektmMldNcjdFY19lSkdUOTVjWGNjZTlzQmJfVkRIZm43cDZyLVFZU1RUM29Nc1JuSmdKWVlqeGRsMXBXaEdiRDl3WlRuNU5FZGxaRGNSWGlxWXh3QS02aDRfSkhOZXRpZ2hrRmZMcDNNZkhqTV9lY25rMFVWMy1ubkpIU1JRSXhNVldKZE85a21LQ2ZMc0RyU1RpTDJIbDF1NG5HaWhac2E4NVVCdW8yLW1XRnpqMmhpcGF6OFNiangySlB0a3pnU3BuOTFkdkJwUkw?oc=5",
+          "description": "Dudas por las AFAP: cierre del Diálogo Social ya generó movimientos en bonos uruguayos; inversores extranjeros vendieron títulos en pesos &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-05-07T08:00:00+00:00",
+          "score": 1,
+          "score_reason": "No relacionado con el incidente; noticia económica completamente diferente.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "\"Uruguay canta por Cuba\": El Alemán llamó a que el arte \"tome partido\"",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFg0UUpXQm5CdDNuNEVZOWFXTkhndS11VDd4YzVvYTR1YzhDeEY3bHlkVnV0YzYtNUg3WWlCS0hFeXgwYXJBWkpuN0dWUlRweWF0SHVvM1Bjanc5V0V1Y2tPUzJ1bU1fbEd0ckIwVWJ5NFU1SWIwaVhXdGx4ZzNfaG5henBNVU1UOUxBZlBDWi1OU0N6OHREbl9BTzY3c3FvWmNuc1Nmd012MnVHdy1KYUlpU3lJTF82dm1zc3RYNNIBxAFBVV95cUxQSGdYZ1p3R2hHVGpySWJ5Rmo0THlhVWFkVlpjNFgwS2xsZVRSejVXSENVTFptZlkyU3pWdjFQWnE5RjdFT2VVcGJkbXA1NHAyZEd2am9rQmdta21Gd0hldW5FNVhXVHllcDBGcjM2akQ3TENJaXdTbXlSUzRqSk9fN3JhSHktZUlIakNBXzZHZzVEanNwRERzWEdoZEs0U3BxNGhSNGJqU3RuMlF5b1FCLVhUMGtaSkloX0Y1YTJvblRXWEN3?oc=5",
+          "description": "\"Uruguay canta por Cuba\": El Alemán llamó a que el arte \"tome partido\" &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-05-07T17:54:00+00:00",
+          "score": 1,
+          "score_reason": "No relacionado con el incidente; nota cultural completamente diferente.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "\"Golpeé accidentalmente contra una mesa\": Valverde rompió el silencio tras incidente con Aurélien Tchouaméni",
+          "url": "https://www.teledoce.com/telemundo/deportes/golpee-accidentalmente-contra-una-mesa-valverde-rompio-el-silencio-tras-incidente-con-aurelien-tchouameni/",
+          "description": "“En ningún momento mi compañero me ha pegado y yo tampoco lo he hecho”, escribió el uruguayo, luego de que medios españoles informaran sobre una pelea entre ambos jugadores en el vestuario. La entrada &quot;Golpeé accidentalmente contra una mesa&quot;: Valverde rompió el silencio tras incidente con Aurélien Tchouaméni se publicó primero en Teledoce.com .",
+          "pub_date": "2026-05-07T20:37:42+00:00",
+          "score": 2,
+          "score_reason": "Presenta versión de Valverde, equilibra información con su descargo directo.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Ignacio Ruglio desde Buenos Aires: “para nosotros es una final” | Convocados | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd01MaEp2VGhCZFgtNlFDa3l3V2doRHJqU2J6MHAwYzZaMS1TTUJKTVpsZnJiMzd2dXl4clpDamFMZU5CQVhIR1F5MUlyVjJIamQxWGRPR0NMVnZWYVhpMFd4Skh5WDRUTXdxbm5pYmc3T1ZiUEVsU3VZc2V2ZWV2SGptbzJ3Z3JyMFhZV1RfaFpndU1wT3BiZXhEZGdkemdOT1dnWTVxZ2s?oc=5",
+          "description": "Ignacio Ruglio desde Buenos Aires: “para nosotros es una final” | Convocados | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-05-07T16:26:54+00:00",
+          "score": 2,
+          "score_reason": "Enfoque deportivo neutral, entrevista a figura del fútbol.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Real Madrid: Fede Valverde sufrió traumatismo craneoencefálico y se pierde el clásico",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXFsUWtYSlcta05CSFBxdzBqM0g1dEpaYXJTS3l4LWNaNmdVelpLUGF5WUxSclVGWXNJSkRwMUV5MlE1c1RKM3JRSnp0dWdoeTNNcy1zdWFUb0oyc3V1M05XbUg5eFVmZmpRRktqOGNDWTBlNDB1dVVYeHVVNVFtcUxROV8tWnJHbjNnZzFwS20tbFhyYTlQZGV2Z1VWaDlpckhFLWdPTzNITUxueGlNajNBQlRCSERuY0UtLWJDN05mblZieWdjcXJ0WHbSAfABQVVfeXFMT1ROSDJodDJTVkVsbFlNMmFTRWJHR3lsekR0ZVlTUGhmQ3YwcGFTM1czdVI4dzdyd2ZhcTZoeVFGZGFORXJ6ck1tNVhUc3g4eGc5aVVObjhhMzAtZlZWU1RjbjhqLUZ4SDE2eE5xSkZYeXEtbVVBYjRaSDBVVVhWc2tuTW5Gemd4MTYxTHQ0X3BwOHhmRlVWYVFabDA1UFdxbmZyVWpybXR5aUtvQlJ2VnRqYW83OU5GRGpLMURlSzFSdUFzWmgxUFJuMGcxM1ZpaFduQVZ5NlpuR3VNTTZLME1nci05YWRGWmhQZXluZG1k?oc=5",
+          "description": "Real Madrid: Fede Valverde sufrió traumatismo craneoencefálico y se pierde el clásico &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-07T20:03:00+00:00",
+          "score": 3,
+          "score_reason": "Informativo, reporta hechos sin carga emocional adicional.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Detalles del encontronazo de Valverde y Tchouaméni: el francés fue a buscar al uruguayo y no para darle la mano",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQS1FQOXdaQU5hbW9jSTI5TXpyc1Fqc3VjSkpnLWZVeHJib0J1akloWVk1X1BTbDFBSTNJdzNUQkFXZXdoVzV1OW9VNnYxNVIyUFhNd1Rnb2pUQzBXSHQ4ckN3V1JidG1wT1lsZ0JpbThhRzF1TGd0TW0xWWxyZE52UFhheGVRNklFRk0tRm1GakNTcVRIRExzYmk4NVRaU0p4MVJrNXV4UnpfSFJrQ0RERWFJTHFjcTEzU1VxYkN2WWJkN1RaOHFpWFRnNjI0MVBDaEVtNFd1Q3VBekdVU1ZCTWZRVnVvUQ?oc=5",
+          "description": "Detalles del encontronazo de Valverde y Tchouaméni: el francés fue a buscar al uruguayo y no para darle la mano &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-05-07T18:46:31+00:00",
+          "score": 7,
+          "score_reason": "Lenguaje dramático que sugiere confrontación intencional sin confirmación.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Fede Valverde sufrió un traumatismo craneoencefálico tras un incidente en el vestiario del Real Madrid, aparentemente tras un encuentro con su compañero Aurélien Tchouaméni. Medios españoles reportaron una pelea entre ambos jugadores. Valverde posteriormente aclaró que se golpeó accidentalmente contra una mesa y negó que Tchouaméni lo haya agredido. El uruguayo se perderá el próximo clásico del equipo.",
+        "coincidencias": [
+          "Fede Valverde sufrió un golpe en la cabeza durante incidente en vestiario.",
+          "El incidente ocurrió en el Real Madrid antes de un clásico.",
+          "Valverde se perderá el próximo partido importante por lesión."
+        ],
+        "diferencias": [
+          "El País enfatiza confrontación intencional; Teledoce presenta versión de accidente de Valverde.",
+          "Algunos medios sugieren pelea; otros adoptan explicación de golpe accidental.",
+          "Cobertura muy selectiva: solo tres medios abordan efectivamente el incidente deportivo."
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Orsi defiende visita a portaviones estadounidense",
+      "category": "Política",
+      "sources_count": 4,
       "headlines": [
         {
           "source_id": "espectador",
@@ -14,12 +155,321 @@
           "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.espectador.com",
-          "title": "Eduardo Acevedo: “Maxi Gómez es el tipo más ganador que yo conozco” | Las Voces del Fútbol | Entrevista",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLUxVZFZOZUZDajhGNHVNQlpEUWxESnZ1Ry1rczdwM2pWU3Z3dzNRN2pQRl9uZUNESkRUNWhQTW5xNVdvTElfb0I4clc0eUNZSjdiSEpvS2I2M1VNbzFmcXdXR2JlLXdjSWo2OWxkOVVKRzhGenNOdlNTSjlvV2o0RGlsVGlwLVR5U0ZpXy12U01UX0JKamFVbDBLcGwyYjRENEI1MERvT3Yxd1NLdjcyclMtUkd3a2s?oc=5",
-          "description": "Eduardo Acevedo: “Maxi Gómez es el tipo más ganador que yo conozco” | Las Voces del Fútbol | Entrevista &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-05-06T19:22:43+00:00",
+          "title": "Edgardo Novick desde Buenos Aires: “Aguirre no piensa en irse” | La Mañana del Fútbol | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUXZYX0F4b21oZTF6Wk5tV2Z3dGdVczQxX2VXNDJORnd0RFNCdHBtNDRkenVBdVhQV1hDOHNJNXRoUzhkUWRES21od3dZUlpIMnBCdG15QU4zQWNubm5sTWNFV092aGtZNEVxX29pSmltT3hPOWdJbEFwNVE5bGluVlJmWnR3UW9NQmcwSnNhS1VHREJpSlFyYUNmZmI5Y1hid0NPag?oc=5",
+          "description": "Edgardo Novick desde Buenos Aires: “Aguirre no piensa en irse” | La Mañana del Fútbol | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-05-07T13:42:56+00:00",
+          "score": 2,
+          "score_reason": "Titular completamente neutral, apenas informativo sin carga emocional.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“No hago política exterior representando” al Frente Amplio: Orsi por visitar portaviones",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV3c2eVVteWtmUzVyV3JyaHF2azBBTWxicWx2TVo0SkdYTFJQcjNIc2xtVkpDTjZvQUVKSEdwMUtxdGRaOElLUWJfbGZHSGg4LXBsMkNrcEEwOXF4LW4wN0dkMkVlZlZpLTF2TjYweFAySE9mRF8yM1RYNHJaSFhGcVd3eUVRNEVGbzh4YVVLN0xKT1ZjMVV3Z24zQ28xby1DU3Y0bzV1bmw3Q1h1Tm83TV8yeHZjekg4b3RvZUZ3RUdfc3JaU196MkQ5c0tMTUXSAfMBQVVfeXFMT29SeXdyTk8tNkhRSDJ0RGtxdHBha2RxOEZuMmNSRy1jOXpSZDFXSWVvQUNXb2lBcGZ5UzZKTzJvdFppNWYyNGFvNkZxTmJHWHZXTi1tMXRQbTZIS0Y2Q0RTQUhEMThKSzdBOW1qcWNjOWF1enUzSDk2dzhTbVFDR2pnamVwZVRvdGw3emdTU3dOMDBaOU5JbHBaaUZsdjlVTGhtcHhucDFiNjM4VXduWjZaSVBtZ2tsdFB6NkpvcUNubFVjclpTMkpVR1huOXh5RWk2eWpuQ2s4N0pEaU1ZclFGdUhtTUtOUjE3Z3hfUV9BdE80?oc=5",
+          "description": "“No hago política exterior representando” al Frente Amplio: Orsi por visitar portaviones &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-06T23:58:00+00:00",
+          "score": 3,
+          "score_reason": "Cita directa del presidente, enfoque informativo con leve énfasis.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "“Soy presidente del Uruguay. No hago política exterior representando al Frente Amplio»",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeU1FS1J5ZXJHNENEdzlZU1J0WnV0X1hidldKOGQ1TnFmeGtHcFZxbTUtQWR4c1RCT2ZJU0FzcWtwV0E0Y0pscmsyNlI0bzVJV20wTWtYMVYxLV9wSXI4d2xkLU0xQk9uWVM2OG5DUS1VNWZ1anliOC1aaC1TbEdWZ291enpXYzZ6OUtfNm5zVDhvcW96TTdiTGtfWlZEZGM1cmYtcWIyeU1BSU9TZjZnNW45OU9FMXNucV9ZSWViMA?oc=5",
+          "description": "“Soy presidente del Uruguay. No hago política exterior representando al Frente Amplio» &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-05-07T04:45:50+00:00",
+          "score": 4,
+          "score_reason": "Cita directa pero enfatiza posición presidencial sobre política exterior.",
+          "score_pct": 40
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "\"Tarjeta roja\" en \"Buscadores\": un histórico integrante deja el programa y rompe el silencio",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRG42MUxUMURPMkxobk1tdXkzZFlHRUdxcjZmSFEzbERoYkFEeXRySU5xMVZhaXJBQl9jTTFqdUVVMkN6UkdjdWd4SnFLZjhjWWd2clM0dExMZHRRSThxNE9qY0ZVd0haWHJXUmhhNzgxWjIzaTRlLXlCU2d3S25veHR1X1ZqUHNha0ktLV9RS25pRUZoa01QelNsMEVFZnVKaE9zRmpwVXE3RllyRkFqMm5vNk1rc0lPcXBVVmQtV3p1ZzNGZVlzZlpvdw?oc=5",
+          "description": "\"Tarjeta roja\" en \"Buscadores\": un histórico integrante deja el programa y rompe el silencio &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-05-07T12:05:46+00:00",
+          "score": 6,
+          "score_reason": "Metáfora deportiva sensacionalista para tema político serio.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "El presidente electo Yamandú Orsi visitó un portaviones estadounidense en Buenos Aires. Esto generó críticas del Frente Amplio sobre política exterior. Orsi aclaró que actúa como presidente del Uruguay, no representando al partido. Simultáneamente, se reportó que un integrante histórico del programa televisivo Buscadores dejó el ciclo. También circulan comentarios de Edgardo Novick sobre la continuidad del técnico Aguirre en Nacional.",
+        "coincidencias": [
+          "Orsi visitó un portaviones estadounidense",
+          "Hay discusión sobre política exterior y representación del Frente Amplio",
+          "Orsi aclaró su rol como presidente del Uruguay"
+        ],
+        "diferencias": [
+          "El País dramatiza con lenguaje deportivo, otros medios priorizan declaraciones",
+          "Algunos titulares se enfocaron en críticas políticas, otros en defensa de Orsi",
+          "El Espectador cambió completamente de tema hacia asuntos deportivos"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Peñarol empata con Platense en Copa Libertadores",
+      "category": "Deportes",
+      "sources_count": 4,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Libertadores: Peñarol y Platense están empatando 1-1 en Vicente López",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOU53UnJDYzBSRllpQVFvTThJc3RveXQ2NjJFYWJfVGJ1RGxLdTd0d29OWjdnRzQ4ZXJXTWJCdGNMeFIxcDd2cmxVdm9PYWZnT3E0SlNGenVuR0RseFJjbExNVmlrZGdSV25wVTlnaVlEQ19lR2JtYXQyeWtCUW9DUXNCOXV4NUE0cEJ2R1NZZGc0SktfSlEwang3ZTlHWmc1YXZvZURvNnVsSl9sTm8xMzgyZy1tUDjSAdsBQVVfeXFMUGZ1d2VDV3BKd09LemNyYTVOQUY0RWhIWEtDXzVWd1dLUmNONGtkVUNwSVB2NXhlVUgyblJPYy1qWmNuN2F2Qm4xa1V0TDVrVzVBSHFLbnJMSHk1YVFOU1gyMFNqQWtLLVR4MkMwRG9zcFVyLW1BaVFDS05GdXJFZlhGWEZJUEt6SDY5bWRRTDUtSU1MSFp5bnozNFk5RTNjcFp2bkFmUldmLXFUVzlPbXBaeUVXT2JrQlRkVzZXTzMwUV9pYkRhRUQwSVlEVmJ6Mmd3Yy1BeDhfRFJR?oc=5",
+          "description": "Libertadores: Peñarol y Platense están empatando 1-1 en Vicente López &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-07T19:07:00+00:00",
+          "score": 0,
+          "score_reason": "Relato objetivo del resultado en tiempo presente sin valoraciones.",
+          "score_pct": 0
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "El probable equipo de Peñarol para jugar un decisivo partido de Copa Libertadores frente a Platense",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ3FkSFB4VkozZUt5RzR0VC1zV1B4WHZETmYwRFRQY1djbXlSWFpmUm1fVGhQUTQyT2F0MHZrSWs1RHpHS3NuZ3dJNTJ5MjZfV1B3OXk1ZktrTXlMdHBuSXNYT056UUdUUFZ5bkwtZHRrU0taWDJCeVdGcEwtM1VYY05EeFRGbWkwR3ZOMVo5clNvSWMtOWdKS2hkUktlUk0zZWdDd3cwYmVxWC1hWml1QWJSeWdmc0xNRE0xaXZsWFlBX1YzV0taM1JCUURiVWhRa3lqSS0zMA?oc=5",
+          "description": "El probable equipo de Peñarol para jugar un decisivo partido de Copa Libertadores frente a Platense &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-05-07T15:45:01+00:00",
           "score": 1,
-          "score_reason": "Puro contenido deportivo, cita elogio sin interpretación",
+          "score_reason": "Informativo y neutro, se enfoca en el equipo probable.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "La incómoda situación de Peñarol en la Copa Libertadores y el rompecabezas que debe armar para clasificar entre los 16 mejores",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQWZiRC1nNWd4ekJ6bC1hUVd5UFZoRXZDRGU1WTNUR0hQa1FKT0hkREFfOUNWYm0yVHNWM2JXcVR0Nlg1V0cwQVlMNHpWMFFWSHRzNkpoME1hcTFFcldMZUxPVzVZemJ3YlV5Y3NLd3FIeHEyZmNsRkRIa1V1WmRBSUZVak1TaThMWk1PSmlqNjhsaFFybXV4UkN4bWl1blhtUGFHY1VRdTA2TVhVYi1CRXVVMDVoVnVzR000Wk1tSUYzdVNiYjY0M0kxcHNFbks0M1MzYTdHeXRsLXBBZ0hSNnVnMUFsZzdFTEpPcXRQMmd4amNySk80NHVVSFPSAYICQVVfeXFMTm5VQTJaTUdSZ3B5WHRIYmxuVExNRTRhMDNvQThiQmNfOVBobXo2bGk3akVGNEtkeV9jOEMzSEFTWVFmOHJfazZKYzFZZzdSbUlkNllIcVp4RmR2d1QwZmdlaDhjOWJnWkNrZUdxVUdmUm5KdWtPWmN0SDlFTi1pdTRrQmhqVTVMdllObHoybVRFMDl5RTlWZGM0U19JY2o3R0JPZDc0SEtVcFZRTERQTXdVbGZfMWJoMXZJN1R0U1k3eTdxWHRrZXI4RVBrM3ZSRTFLdXk1VnUxTDAzeko4c0NJNHI0cnVPRVZBbW5EWktKWm9uUlJOb0lpczdqYmpuRi13?oc=5",
+          "description": "La incómoda situación de Peñarol en la Copa Libertadores y el rompecabezas que debe armar para clasificar entre los 16 mejores &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-05-07T16:11:00+00:00",
+          "score": 6,
+          "score_reason": "Usa 'incómoda situación' y 'rompecabezas', generando dramatismo.",
+          "score_pct": 60
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Peñarol empató 1-1 con Platense y comprometió su futuro en la Copa Libertadores | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaE5BdTZnU2YxNlRJQW43cDlvN1JXT3g2ZGdUM3Uyblg5eEhZWGdKUGNKWkZuc2JKQlNWTmhkeFd6aVlHcGdwU2RlTXgydlY4Vy0yRWJfblJuR0NfdU5Pc2djd0x5S0w3QUdTOWpGSlZ5d1R1YjNHNjB1clVTT0xSYW01Y2pwU2FYbURabC1HOUFEYS1EV2xWNTFkcEtMRGtETmFYR2xGU2Nra3RsXzh0WHdlY21kenR6WVFYU1hobEsxOUY4?oc=5",
+          "description": "Peñarol empató 1-1 con Platense y comprometió su futuro en la Copa Libertadores | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-05-08T00:40:24+00:00",
+          "score": 7,
+          "score_reason": "Verbo 'comprometió' carga negativamente el resultado del partido.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Peñarol empató 1-1 con Platense en un partido de Copa Libertadores disputado en Vicente López. El resultado compromete las aspiraciones del equipo uruguayo de clasificar entre los dieciséis mejores de la competición. La situación de Peñarol en el torneo se vuelve delicada tras este empate, lo que requiere un análisis táctico complejo para los próximos encuentros si desea avanzar en la competencia continental.",
+        "coincidencias": [
+          "El partido fue entre Peñarol y Platense en Copa Libertadores.",
+          "El resultado fue un empate 1-1.",
+          "La clasificación de Peñarol está en riesgo tras este resultado."
+        ],
+        "diferencias": [
+          "El País prepara información previa; El Espectador enfatiza consecuencias negativas.",
+          "Montevideo Portal reporta hechos; El Observador dramatiza la situación.",
+          "El Observador y El Espectador adoptan tono alarmista sobre el futuro."
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Nacional perdió 3-0 contra Tolima en Libertadores",
+      "category": "Deportes",
+      "sources_count": 4,
+      "headlines": [
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Así quedó la tabla de posiciones del Grupo B de la Copa Libertadores tras la derrota por goleada de Nacional ante Deportes Tolima",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPT2pnQ1RGd3EzaWhJT21kRVk4V3AxbFV3Sk02U1JjeS1zZHZnOWs1SDZhb0M1QnFlUFpqOUpZMWRmSHJvX3Z1b1VDWllQQU9jZ251OFhHSWRRQ3V3eEVpb0kwZmNQeEJ1VWpCaG5GUXhVWi1fMjBSclM1ZUZsUzNaZ1ZZYl9RQWtzVEluWV9GN1ZaR2NETFdxSl9MODBtVl9KXzVVMVk1cnF3NktqN2xmYkMxXzg4c0IzV25YQk5RaE5xSWRRNThHcVFOVHpmbGMzOElxS2RVS083TTNVV0NQZ2R6d3dOTXVzaUxKbjdsZEpFNzBvcjRQedIB_gFBVV95cUxObGtFS3N6M1R6ZUhFYnRLbERHNjZSMk9zbl9QRzVJV3EtT29XdUxFZ0NvamkwZDFGdENnQ0NKWE83c2hQd3psTFRac3loYktMUERhTm5vSWdVbFFDamhDcTdpeFhLaFROcVJySnhsNDltU2F0UnFqLWVtRURvaXA1R1I4X1ZPelF0RkJoOG5MM0c3d2VXc0NLR2tsODBiYTRIbmdsUTZhZzFwN2FWWjUzcUNpTXAxMUtKWC05WDhITkhuMUNJV29zVkk4dU0ydGd1MlNEaE5RVzJRYVdaeDVaSTI2VWV0TmF0SWl3R0tkMHd6UFhHcEE3VnkxNDV4QQ?oc=5",
+          "description": "Así quedó la tabla de posiciones del Grupo B de la Copa Libertadores tras la derrota por goleada de Nacional ante Deportes Tolima &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-05-07T04:06:00+00:00",
+          "score": 1,
+          "score_reason": "Enfoque meramente informativo sobre la tabla de posiciones.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Nacional cayó 3-0 ante Deportes Tolima por la fecha 4 de la Copa Libertadores | Noticias | Fútbol Internacional",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQajJweVIzOFlmUGdlUkFyMXBZcXNlN2d0Z19PWWtzMEswZWhRYlkxX1htLUU5d3N1TS1iOHBOLWozUGQwNU5Uak9yNVYwR21QdXJzRkVPcXVjZnQyM3BEREV5UGlEeTY3V21nNHdKdC1VUUdxcVFFczRXalNYeVBGbGRPZzlWYl9wM0NUdmtKTFU4YnBBc0ZBQm5NTlM3NExyTlRUZGN2bXVJWWFfc2hUbFgzSk5ab3k5ZTh1Q0RtY0JfRm1vV09mWg?oc=5",
+          "description": "Nacional cayó 3-0 ante Deportes Tolima por la fecha 4 de la Copa Libertadores | Noticias | Fútbol Internacional &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-05-07T04:45:16+00:00",
+          "score": 1,
+          "score_reason": "Estilo neutral, solo especifica resultado, fecha y competencia.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Nacional fue goleado 3-0 por Tolima y quedó último en su grupo de Copa Libertadores",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSHFNbWFBS1NOTVBCZlBMRENEbTI5cm0zd3I1cG56OG15WjFKajNHemhTX2dkV1pPdzRTU21WLXhvNUJPa3RjMVNBMEZrckNwTnpLTDhpWmRkQzMwWFczUkRoNlN0cS02dWliZWllOXNCdG04NUEwS3pfaTNuU3BkVmxCOTVvM2Q1aGltRVZzZzhhM3c2M2ZBdXJiUDI0SWtOZFUwRTJxR0NWUGNOaXRMUdIBtgFBVV95cUxPYmdfY21JRnpFV3RfYkd6b28ydkxrNERSN2E2V0x6Ui1Qa2JsSzhvNHF5Zl9nWmFmbmtkS3hyNVRtODVpVXJzSERKMjU0NHhlWVRUaE1TemFmM2dKQl9iYzdTUy1YMy1JcTF2bzVOckRsTGZlTUtrQ2czaW53dldxX3FNMXBrYkhDbkpHd0Q0QVlib1lmWkFWSTh0SEJ2S0pkZ1B2X2lTVDRyZmpLREVhOU10eGk3dw?oc=5",
+          "description": "Nacional fue goleado 3-0 por Tolima y quedó último en su grupo de Copa Libertadores &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-05-07T11:45:00+00:00",
+          "score": 3,
+          "score_reason": "Adiciona dato de posición última; leve énfasis en contexto.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Libertadores: Nacional dejó muchas dudas y fue goleado 3-0 por Deportes Tolima en Colombia",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDBBR2l5TGpSVHhNVEIwYndaZHJhOUFMamE4dkRySHRya19lcWJNeTc4OXJJQ0ZsYW9RdElhWDNCZk9zaDZjbG1HMS1jR20tRzFxUVlaUzFIRy1rRXAwMERzYUd1elZNLWU2eEE4Y2FqdU1NVUp0REVOZ2ptVGRDekROYXVHYnVSSUl0Wi1yZ0Q2ODM5bHVwVVdfQXZjOEVnbVp4T1VNX2VfQk5WbXlFTGtvNU5relhXclNRcklvVHYya0M1ZGtlYUstYVM1RzhWYWxF?oc=5",
+          "description": "Libertadores: Nacional dejó muchas dudas y fue goleado 3-0 por Deportes Tolima en Colombia &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-07T04:04:00+00:00",
+          "score": 5,
+          "score_reason": "Introduce apreciación subjetiva con 'dejó muchas dudas'.",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "Nacional fue derrotado 3-0 por Deportes Tolima en la fecha 4 del Grupo B de la Copa Libertadores, disputado en Colombia. Con este resultado, el equipo uruguayo quedó en la última posición de su grupo. La derrota fue contundente y sin mayores alternativas del cuadro tricolor, quien no logró competir de manera efectiva ante el rival colombiano.",
+        "coincidencias": [
+          "Nacional fue derrotado 3-0 por Deportes Tolima",
+          "El partido se disputó por la Copa Libertadores",
+          "Nacional quedó en posición complicada en su grupo"
+        ],
+        "diferencias": [
+          "Montevideo Portal añade análisis sobre el desempeño ('dejó dudas')",
+          "Subrayado enfatiza la última posición en el grupo",
+          "El Observador y El Espectador mantienen tono puramente informativo"
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Encuentro entre Franco Escobar y barras de Peñarol",
+      "category": "Deportes",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Marcelo Solomita: la charla de Escobar con un hincha lo observamos, yo lo considero una situación natural",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRnAwNUhnUndmUFk0QnJoQzBUNWFFVmpGd19oU0x4WTNCVnBMQzZ1N1dKcnJSQjVyZXZiV2hGUTVSN2gzUHN2Z0hKZFhyY3lITTZVMEF2TmRON0gtWjVrMllueW1sVWFORm95UF9sNTB2dlI3ckRWdmxqdTNITzR6QWxkYUFnTXJHb1k5c3YzbGNVSmRlR2xfQ1RsWnZMU2d0QXBvejcyNVR0Zkl6MjIySHE1cjVCTnhUY0QwcUNwZkxDdUJQVVcyYVp2cml0LUh1d1BrTFlDTHlmeWtLYWt0dS15OVpUVHFMMVk0?oc=5",
+          "description": "Marcelo Solomita: la charla de Escobar con un hincha lo observamos, yo lo considero una situación natural &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-05-07T20:20:17+00:00",
+          "score": 2,
+          "score_reason": "Información directa; normaliza situación sin carga emocional.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Hablaron muy bien”: Ruglio sobre la charla de la barra de Peñarol con Franco Escobar",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGFFdVU0ZGV1NllUNTNkaExLelFqYThtM2drWk5fdFpDVDlLYUM0eHZMWjFKNzEtRmJSUzhwQ2t3dERDTHpkbnBTWmNGYWk0OE9BQkwxSXBlV0kwNEdMTHdGcURqdlYzT1dPZDh0VnJzX3RFa0E3WG5pcmtBZFNHRTU2WkowaWZhTzVsNG0tU2U3QzE5Ul9UV2lId2RyaGMzU21vTVFIUnhnVnk1WUI4eWRYUXB3S0p1MVJvTlZjcnVFSGV2UlVQYkNZMEPSAfABQVVfeXFMT204amJpRGpuQWpFWjZESFlDbUdlWElaQXc4azVtVW9LWlFoNmpwRll6SHFfeVhUYWtVMldMc1BVdThVT1ExZk83dUFrWm9uVTV0bENpR01JbWloTDV6QjVndTN4THBqaHY5V3VnRlZIbVlEbmpoWTdFVjBYUmFCZUhSTTZ2VUh1cVRlWTYzZ3RzaG1TbHN4UHhtNEdyQkJPMi05aW0wWEZaOXBaSUY2bThUMlZ2NHlBMm5raEJMNUdQSl9sQlhOcFdJTWFMcjdWaGtaRnJ2ZWcxbDFES3YxQmV5RVh0UWJKVm42YVFVU0Mx?oc=5",
+          "description": "“Hablaron muy bien”: Ruglio sobre la charla de la barra de Peñarol con Franco Escobar &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-07T12:46:00+00:00",
+          "score": 3,
+          "score_reason": "Presenta declaración positiva; leve énfasis optimista.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "El exabrupto de Sebastián \"Loco\" Abreu durante una entrevista radial: \"No sé cómo sacar esta p...\"",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZnFKcDhYRmg4TEJwbUhnX0V2NUhObV8yRWx1SnRVNVdOeW1MWHdNTWVrR2R3b2k0a2VidjN3Y2VQQkVsX0FOblNpZUIwQV9zT1pvUkdnemd4Yk9UWmVCVFRsSXhhaHFyWDYxamhzT2VFRXR4QWxrMGMydW1mTVBLWElGNVc3LXdvY1EyMURsOGl2Z3VIYXY3V2tVNVhVSmZNYkF6cFlFaDExX0FORkVabDdUQ290ZnZuelJGell0Wk1kemo4a1UzWGFMTTlYdjA?oc=5",
+          "description": "El exabrupto de Sebastián \"Loco\" Abreu durante una entrevista radial: \"No sé cómo sacar esta p...\" &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-05-07T01:41:27+00:00",
+          "score": 7,
+          "score_reason": "Enfatiza exabrupto y lenguaje fuerte; sensacionalista.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Franco Escobar, jugador de Peñarol, tuvo una conversación con integrantes de la barra del club. El encuentro fue observado por autoridades del club. Mientras algunos dirigentes lo consideran natural y parte del diálogo con los hinchas, Sebastián Abreu realizó comentarios críticos durante una entrevista radial, usando lenguaje fuerte para expresar su preocupación sobre cómo manejar estas situaciones.",
+        "coincidencias": [
+          "Hubo una charla entre Franco Escobar y barras de Peñarol",
+          "Dirigentes del club fueron informados o estuvieron presentes",
+          "El tema generó distintas perspectivas sobre su naturaleza"
+        ],
+        "diferencias": [
+          "El País prioriza críticas fuertes; Portal y Espectador destacan normalidad",
+          "Enfoque sensacionalista vs. informativo sobre el mismo evento",
+          "Tono alarmista contrastado con visión de diálogo natural"
+        ]
+      }
+    },
+    {
+      "id": "story_006",
+      "topic": "Fallecimiento del periodista Alejandro Etchegorry",
+      "category": "Cultura",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Falleció el periodista Alejandro \"Vasco\" Etchegorry, exconductor y coordinador de \"Telemundo\"",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa1lvWWF6SkFJMEMzb1BhcGNtazZmc0doN09QR0FnVEZibHlDVUs0TkxkT1lyMVFjSTZWV1E3a3lCTk5kOXNnVTVEV2FPX1hBeVg3T0ZBSHBnRmR3RVQ5WUtNVUlOWnJqLWJ6Y2xEcjJ5alBRemhvaFZMMF83VU1uZDhPRmFPSTlvTkJTN0pyV1htYS0yMUVZQlp3TVhUc0dsUmpXa3ZZbnBiaS1GS2FscFdKNzlPT2wzX3NseEhiQ3BELXMydHc?oc=5",
+          "description": "Falleció el periodista Alejandro \"Vasco\" Etchegorry, exconductor y coordinador de \"Telemundo\" &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-05-07T21:26:49+00:00",
+          "score": 1,
+          "score_reason": "Lenguaje puramente informativo, datos concretos sin adjetivos.",
           "score_pct": 10
         },
         {
@@ -29,12 +479,63 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Luis Suárez y la selección: “Jamás le diría que no, y menos tan próximo a un Mundial”",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd3dzQlBhOGoxRWFoUWxXMUh4TEpHSUNsUlBqenlmWm5rbEhRYW4zLUxrNXYyRV9LdUUxWDFfZm9oNFFxTkUydEhGbnFNX2hPRXF5TGZERWNDY21aeU16SVpZRllfbVlOZGJXcFBIdnpkU0FacFJiaGRWYzc0SjB4RU85V25oOFRuMXprcGc3MGptbUNINUlaLXdPVF9QeWxxM1U5WlVNZ19zLXdSUlRMZ0tmVUluUHRNeUJvTVBoYXZXWGE0WDl6cWc3QdIB7wFBVV95cUxObjQ3MVB3bVIyLWxpampvWUwxT19IdFBueWlBclJmdGxPR1cwUUFSVjhKN2FOSkZTNkRQWnloX1NBa3Uya1RMM1hCRlBtN3lzSWVCWmZsNEJmTFFWOE55THBWQzN6YktYamREc2FMMUhZTkZJbXdkUGFhc0FQeUdHalBnUDJUXzZMdFdITEotSzBpVW84LWR6NGM2TVJaQl93bloyaV9yVHRhX2lnOUFnYm5MbHZfQm5RMVhRSGN3YWV3UGhzLThvb3Z0WXVRYUtaQUprYWw1WVJyMG9ncTAzY0dqeXVyZWppdzNWd2hKbw?oc=5",
-          "description": "Luis Suárez y la selección: “Jamás le diría que no, y menos tan próximo a un Mundial” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-06T18:10:00+00:00",
+          "title": "Murió el reconocido periodista Alejandro Etchegorry, quien trabajó en varios medios",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQajBHYlZwYWJqU2N6bzdZb3lScnhVaS1Xazd5THczbnlPQ2pzZm8yODJkMTRxb09JNWVlczVnQTF5dGczaWhCSzVtMVlrcnNRNnAzTjdMbGxmajNzOHlZaThhSEl1N1ZfVHNld0YtUUpQeFQwSi1XSTQ0T2NiUmxCRHh5Wmh2c0VXaHdjUmJuSUVCd3o1OEctY2NxOXF5R2VUQTdPZTFPWm5hcERybUZYc3ZheG9QWmlYMGh4ejBuM1plQWk2WDdrY0k3bXjSAfABQVVfeXFMTThFZ0dWM1NWZ2lsa1ZTYUVxQUtxQU1FZ0dHLXhjOEcyeElKZHpqa3p1VkotR3I2UXZGaHdHVEJEQlZHSlAyd3hzTmN1ajlsejJnMnpPb2RDU0ZEd3hYTnRqc2hYY0poc0Rha1dUcF9UeF80R0E0bmM4QlBrcS1rZ2d0aDBoYlhmSlhDOVNTYVVrVjVsQ1ZGa1R4T1d5UG9jZ2M2SWVlSFFCOWp5SXUxTUxHS1FHa1EzN20xNjNUNzByOXBqak9XQjNCd0ZUaTNEcTM1azV2VDFlNDBxaXJ6ZnM3aHZ2Ti00bC01ZTV2UzRW?oc=5",
+          "description": "Murió el reconocido periodista Alejandro Etchegorry, quien trabajó en varios medios &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-07T21:27:00+00:00",
           "score": 2,
-          "score_reason": "Directo, cita declaración sin interpretación editorial",
+          "score_reason": "Usa 'reconocido' para contextualizarlo, pero mantiene tono objetivo.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "A los 69 años murió el periodista Alejandro \"Vasco\" Etchegorry, exconductor y excoordinador general de Telemundo",
+          "url": "https://www.teledoce.com/telemundo/nacionales/a-los-69-anos-murio-el-periodista-alejandro-vasco-etchegorry-exconductor-y-excoordinador-general-de-telemundo/",
+          "description": "El Vasco, como lo conocíamos todos, trabajó 35 años en Teledoce. La entrada A los 69 años murió el periodista Alejandro &quot;Vasco&quot; Etchegorry, exconductor y excoordinador general de Telemundo se publicó primero en Teledoce.com .",
+          "pub_date": "2026-05-07T21:07:37+00:00",
+          "score": 2,
+          "score_reason": "Menciona edad y años de trayectoria; tono informativo sin carga emocional.",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Falleció el periodista Alejandro \"Vasco\" Etchegorry a los 69 años. Fue una figura destacada en el periodismo uruguayo, especialmente conocido por su trabajo en Telemundo donde se desempeñó como conductor y coordinador general durante 35 años. También trabajó en otros medios nacionales. Su muerte representa la pérdida de un profesional experimentado con amplia trayectoria en la televisión y el periodismo del país.",
+        "coincidencias": [
+          "Los tres medios reportan el fallecimiento del periodista Alejandro Etchegorry",
+          "Todos mencionan su trabajo en Telemundo como dato relevante",
+          "Todos utilizan su apodo 'Vasco' como parte de su identificación"
+        ],
+        "diferencias": [
+          "Teledoce especifica la edad (69 años) y destacan 35 años de trayectoria en ese medio",
+          "Montevideo Portal generaliza su carrera ('trabajó en varios medios') sin especificar detalles",
+          "El País y Teledoce detallan cargo específico (coordinador), Portal es más vago"
+        ]
+      }
+    },
+    {
+      "id": "story_007",
+      "topic": "Orsi visitó portaaviones estadounidense con delegación",
+      "category": "Política",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Para Ojeda, visita de Orsi a portaaviones estadounidense fue \"una señal de cooperación\"",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkxpWlBFb1NhZ0lGQ3UwTzVVOGYxRnBSVFZvd1R5VjVxYnlPSlk5RWQxMWttUWlNYVNqX1piZG9ocFlLTWlTd3A1TzM5UGhHSE91ZGVwRGp2a04xOV9id3E5ZjBJbmxCMEtJbkZuN196UFBLbUxzWEZwdnh2V0NDczd0eVRNODJQNGx6NFBEMUFXUmJ2czh2TXU0NjFYa2ROQ29HT1JNREVmMTJsZXBOM0ZBRznSAboBQVVfeXFMUFk1V2xVdUd5eFJqM3V0cjdCYTV1clZhQkdjM0gyNFN0MnpMamdWVnZubTNmQTVlMXpzZHZWbmtyYkF6SUVUZDVMYVQzSV9Hb3FsbGtacTFZRGtOWmZUSXJoTG1qX3d1WUJPeE1hNThzMjNtOGlkVW44ZWVPTHZlakdkYklyTldWbnZicU9BNlN4SWg3bDJhdVZiOTNVb3VwVHc3UkFYZm5SRWZld0JBLVRpOVhmeHp5NHVn?oc=5",
+          "description": "Para Ojeda, visita de Orsi a portaaviones estadounidense fue \"una señal de cooperación\" &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-05-07T00:31:00+00:00",
+          "score": 2,
+          "score_reason": "Reporta perspectiva equilibrada con interpretación de actor político.",
           "score_pct": 20
         },
         {
@@ -44,169 +545,13 @@
           "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.busqueda.com.uy",
-          "title": "Uruguay es “el mejor de la B”, pero “sigue en la B”: el desafío de dar un salto de productividad",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNng1b0dsU1hGOXpQMmRSQkplbFk1NHdpTjZIaVJadUxPR2dwV3B0U1Z5cXVSLWZVMEJsdGNTU3gzTzVjVVhHSlVtcUtJR3dzU2lDNnhWZ215Z1h2eDloS2kya2psQUVxSFRQREdXOE52UmxjWkFpWkcxRjVOMEowNUY4cVFtOWVwODQ0Nld4YnAxZWNPdUJaQmtYUE5vTHZJTWpJczVFWkRxa0VRUnFWc3Z0R0FOUW82Y2VRU1Y4RW0wdw?oc=5",
-          "description": "Uruguay es “el mejor de la B”, pero “sigue en la B”: el desafío de dar un salto de productividad &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-05-07T05:00:00+00:00",
-          "score": 2,
-          "score_reason": "Analítico, propone diagnóstico económico sin sensacionalismo",
-          "score_pct": 20
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "El representante uruguayo que compró el 50% de un club formador de Brasil: \"Puedo traer jugadores de Uruguay\"",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcjdSV0dUSWV3R0xRaEhSX3p4alNzX3hreDRKUENnT3k0em90bHA1bkcyQXdSWkUxY1FvTV9OUE1TQUE5U2VMWnJEQ3l3QV9lVEMxTDU4YXZHUTc0YjJId0lVOXh0b05KZGNzU1h4blc3aWNKdkFEOVdCS2xKV2o5R0M1Ry1LcU1HS2lkc0FHNDZBaFlOU3lKUmcxblRhUmx1Z0w4b0FDZWxHMVl2V09nM2VBZTFobG91WHhMNW9tVWt4bGlqSm5GRUVvd3ZhNkFXY2dXcG85REhVY2ZYbmdr?oc=5",
-          "description": "El representante uruguayo que compró el 50% de un club formador de Brasil: \"Puedo traer jugadores de Uruguay\" &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-05-06T17:34:01+00:00",
+          "title": "Dirigente comunista visitó el portaaviones estadounidense USS Nimitz",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNal9HWkVyUjZjdjdHczVmOTlqN29xS09BdDZ2Rjhia29TUElVaXV6OUM0b0MzSDd2NEZDNlVMWUZoQUpwR1RWMm1neUM5bE5PQnkyM0o4WTU4c3lyd3pISkt4SHpwVmNFNjBCUF9DdXhWSVRiMlBHNU1kaDE4Ni1SWmd5eGtfcFZNTVVoejhxeHZjVTY2LUNfTDVyb3I1b21xaTRCcTJEVkg?oc=5",
+          "description": "Dirigente comunista visitó el portaaviones estadounidense USS Nimitz &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-05-07T05:05:00+00:00",
           "score": 3,
-          "score_reason": "Enfatiza oportunidad comercial de inversión deportiva",
+          "score_reason": "Información factual con leve énfasis en identidad del visitante.",
           "score_pct": 30
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "\"No hago política exterior representando a una fuerza política\": Orsi defendió su visita al portaviones estadounidense",
-          "url": "https://www.teledoce.com/telemundo/nacionales/no-hago-politica-exterior-pensando-en-la-fuerza-politica-orsi-defendio-su-visita-al-portaviones-estadounidense/",
-          "description": "Con respecto a las críticas dentro del Frente Amplio y del Pit-Cnt señaló: \"Lo entiendo, más allá de si lo comparto o no\" La entrada &quot;No hago política exterior representando a una fuerza política&quot;: Orsi defendió su visita al portaviones estadounidense se publicó primero en Teledoce.com .",
-          "pub_date": "2026-05-06T23:24:07+00:00",
-          "score": 3,
-          "score_reason": "Similar a Subrayado, menos énfasis en tono defensivo",
-          "score_pct": 30
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "\"Soy presidente del Uruguay, no hago política exterior representando una fuerza política\", dijo Orsi ante críticas a visita a portaaviones",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPM2Zyc21Ba0hMTGZYTTdKclpOVl8takFrTE00aThWbm93OVVmNlVGQ1BoZi11eE1vRUxjaTZMdnBHcmp2NEVrWnN4RE45a1BweC1ldEpfSlNPLTdEWTZQR0N1eGI3SlRPRkJtck9pVi1oY0NYUTFGeHZ6cWI2Q3JaY0JzdVJVd240TmJWZHBaa3M2Snc2RFR6dlhjNTR2WWNCcXNod2czTjZXR2tuV3dpVEhiZzdCN2I2WWNZbjJjUy1FU2xITU9yT1pZVXRtLUVlTFZHQU50WTFmRktjdjFqT3U1XzY0Um13Z0hhYUVGUGxNUnp1VnfSAfsBQVVfeXFMTjZ6SURlay1FXzF4M0NZdm1nc05TWktwWTdfRGIwOWNSUGZWSkNVS18xVWdUc2ljUzc5bE8wWjZoV0poZF83aC1fTE1zZnEzWURQRjZ4cl9lNHFVY0Z0SzFNR0xkeHBPYXNHYmRVWVJ1X2JTWVJCTGJEN0RtdVJVZXozejVsdGJpZ1BSMVZvdVh4dU1wNlF6SlNwUzE1cVVaVTVzZFFBdFQ3cU5NRFNCMjJYMzZPT3NYZ3VkT2dWdFFCaEllWmgxNlhPMGFQb3F6VzV1ZU0zaV9nOVY2aDNjRHV5ZHNhRHpLWmdTNjY2akhOZEN3bjR5NVIyTkk?oc=5",
-          "description": "\"Soy presidente del Uruguay, no hago política exterior representando una fuerza política\", dijo Orsi ante críticas a visita a portaaviones &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-05-06T23:15:00+00:00",
-          "score": 4,
-          "score_reason": "Amplifica cita defensiva presidencial con contexto político",
-          "score_pct": 40
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Uruguay en zona de alerta",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aUkIxYUZCY1hBNGZ2RnhuWGVScFZwYjRYRXB4M3F0dFFSLU82Y18wM2I4YmhNaXVZVXhPckdsZ2tPdWhKRXpVQlJJcFd0RGdHbURDekRtWWdweGFIM0FLZV9JcXBRQjRjVFZ0Z1ZWQzZEQQ?oc=5",
-          "description": "Uruguay en zona de alerta &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-05-06T05:24:11+00:00",
-          "score": 7,
-          "score_reason": "Lenguaje alarmista vago sin detalles específicos informativos",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "Los medios uruguayos cubrieron diversos temas de actualidad nacional: un representante uruguayo invirtió en un club formador brasileño con potencial de traer jugadores; Luis Suárez manifestó disposición hacia la selección próximo a un Mundial; el presidente Orsi se defendió de críticas por visitar un portaviones estadounidense, argumentando que su política exterior es de Estado; se analizó el desafío productivo de Uruguay; se destacó a Maxi Gómez como ganador en el fútbol; y un medio alertó sobre situación de riesgo nacional.",
-        "coincidencias": [
-          "Hay preocupaciones sobre política exterior y seguridad nacional",
-          "El fútbol y sus protagonistas generan interés mediático",
-          "Se discuten desafíos estructurales del país"
-        ],
-        "diferencias": [
-          "Algunos medios enfatizan aspectos económicos, otros la política exterior presidencial",
-          "Variación en tono: desde informativo neutral hasta alarmista",
-          "Cobertura fragmentada sin agenda común clara entre los medios"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Cosse propone anexo al Palacio Legislativo",
-      "category": "Política",
-      "sources_count": 6,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "En sus manos, ministro",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13SGtVcFViTXotRFZ6LUdTRTJqU1k5TDFFanBhQ3FZUl9iTE11NldlQ0tXbE1HeTV6NDZSQTZ2SXJvRVZCWnV0Q2RFMTZ5dTFGZU4yejlHYTYtUVZfOFcxU0dkOGVnaV9SUEVSYmtOaTc4aU0?oc=5",
-          "description": "En sus manos, ministro &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-05-06T07:31:32+00:00",
-          "score": 1,
-          "score_reason": "Titular vago y neutro, sin información específica ni carga emocional.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Montevideo incorpora guardaparques para proteger los espacios públicos",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTZOS1UyaVNSMUJjcG5EcHR6TnlKMHZuMWhrNnJQWkp1M0NwdkZrbG9SdTVXNVhvOVNJUnNLMVBVb3lfOUlOUDBHMk02WTFBQ1FTLVpTYnBVWUMxemZQbTRyM1UzaFFKTzBiNTB6R1RWaGJ5Yl95eVlkWUxNaUwyQ2pnLXhxUHVmMHpWck54YmljSHdQbWFSeU9JYVdjZ05tZnUwVWtXc0RnNVN3MlE?oc=5",
-          "description": "Montevideo incorpora guardaparques para proteger los espacios públicos &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-05-06T14:45:36+00:00",
-          "score": 1,
-          "score_reason": "Noticia informativa sobre política pública; redacción objetiva y descriptiva.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Nacional: ¿qué dijo Flavio Perchman sobre la posibilidad del chileno Brayan Cortés?",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSFM5R3VaMmZhSEhsUFVWck9fNXRvRHB2eWRubVB2a0hsQm5lOGZzLVZjY0xLcXM4VDhPcFloT0pCdVhvX2NweVFaRHdQYXZ6QXlJX2ZtZ0RfYlJVdE9IV2hRMXk0aTdXWk1rRVNUd2gzUUhGeUxSLVVyb21CZ1I5bEFmNldWWHRsMFFlRTRsdDNLVEl1anlwcDJPaFBSYzVGNVI1QzNxa0U5Y1hYX09jLUExZHd6bHBZblQ5akxYbDNEX3NmYmM4SDd30gHuAUFVX3lxTE5yMFZEVlVQUGI0UV9iMHhiQVl5NUdXMWZmcDBtTGpNS0JhYlVZM1dHajFXT2xXUUNNSDdGcDFkSlg3Vi1KbkJxTlJhcTFpdTVJTVVhcGZyZU1Ga3NnejhwYVZtRG9tVUtCQms3SGVoWTZ5dTdmNkppdW9fLXBuX01UdGpmRy00RkpNSFA2X3hsVklPcnJycE1YYjlpeVFobnBnNUlzQ3JDN0R5VDlEQ1V1cDdKc1J6YVJJMEdNSzZobUtOYThIQ2lmLVJfQmpiX1FWTGFRNTRyNGU5b0tkVHNUUG9TR1JEZy1ldVIwRGc?oc=5",
-          "description": "Nacional: ¿qué dijo Flavio Perchman sobre la posibilidad del chileno Brayan Cortés? &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-06T12:54:00+00:00",
-          "score": 2,
-          "score_reason": "Pregunta informativa sobre otro tema; formato interrogativo, neutral.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "carasycaretas",
-          "source_name": "Caras y Caretas",
-          "source_short": "CC",
-          "source_color": "#4A148C",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.carasycaretas.com.uy",
-          "title": "Cosse responde a críticas por proyecto de anexo al Palacio Legislativo y pide \"discutir sin gritos\"",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajFmaEpabHNxb1RianhRc2g2VUVsYVhicElVdUxzblBVWWZtUzIyWERaWFI1bnVpZ3pQOGdyUjN2RHFLaGp1cTEwRFIxdzZpZWZQQVlzdFk5aG1rSDJQTExKX2ljZXlGOHB2M0FqT29mZXBjb2lDSUctUmQtRFpWM3I1b2dsbTJqUzN5cHdmbFVVbndJX3hZSEJac09NWFhvSlQ0UGk0VEkwLXhiQk5RUUM3c3RCbkxnX3hqdndXME1Zd9IBxwFBVV95cUxQTlVRbERXZDdFdGtnLWFMY1JOTGkydEFWS0x3QVkwb0FIazZ3QjhLUlFYeFlpTkpEcGgtNDVZM1Z6eDBCNUdIRXZmYzZCd25EZGoya0lhSmQwVjVHSFUySWY2bkk4T1loTlNubHlwQ2pxRy1rTGhVREs3RTJNSEtLQlFnZkFhYWY0YnA0Sk1KZnVmTGxuUF9aQUFqbFMwS1NxSmZFNnNIN2NjcndWcHRrMDJEMnhHWkFfdmJ3dElQVUFocDhjam9V?oc=5",
-          "description": "Cosse responde a críticas por proyecto de anexo al Palacio Legislativo y pide \"discutir sin gritos\" &nbsp;&nbsp; Caras y Caretas",
-          "pub_date": "2026-05-06T18:57:00+00:00",
-          "score": 3,
-          "score_reason": "Describe respuesta de Cosse; leve énfasis en su llamado a discutir sin confrontación.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Inician investigación administrativa en Cancillería por denuncia de que entregaron \"fe de vida\" a prófugo uruguayo en Miami",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcGl4Tl9DWlFLV0w4dm4tVjlmWFNKb2dIRTBGQVR3alhRWGtFcGV2c1o5UXh0MFVKRXZ0Z3Z2UjRuZ2w3T1lFUGloNTI1NV9Vd0lINzJKbm9VNzBDZnp5UVRPMXphVzZkOVBVazRmYzZCaUdvb2dyQ3g1TzRkUzZOdU9lbHozb1lUTktxYzNyX08wYjk0WGxyU2JEVHd3TXo3RXRDbGd4UEFwTEM0bVlPOE5jRmJINThkWkt3aHB2QTJubnBkVktqM1huQ2VsZWx4cFVPc21ocEXSAd4BQVVfeXFMTktSY1VSMy10MWEwSGlDc0xlLTZoSlkzMHg4VUhURGRHcmhvRzV3RGdnbE9LU0EyWjZsZXB4dmp3UlBmYXJyWG8yeUtiaWM3MjB6bWZyc01la2RvS3hjbm5ZRzZ2WmhfNVRSaFY0VUZGcjZ2ZGVoVkNDb28tN2VDLUpnT1NuWE5yU3lIVGQ0QlNNeEtzYU11Y2otSUk1TG9wTUR3T01RZlpxQUx2aW5PWkw5SkNnWXozMFJndFNOMTBlTmZsUWJEM3htd3JsSHJSaFZ6eng3Sk1iTVRabk93?oc=5",
-          "description": "Inician investigación administrativa en Cancillería por denuncia de que entregaron \"fe de vida\" a prófugo uruguayo en Miami &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-05-06T20:41:38+00:00",
-          "score": 4,
-          "score_reason": "Lenguaje de denuncia; usa comillas estratégicas pero mantiene tono investigativo.",
-          "score_pct": 40
         },
         {
           "source_id": "observador",
@@ -215,131 +560,35 @@
           "source_color": "#D32F2F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elobservador.com.uy",
-          "title": "\"Parecen vivir en Narnia y no en el Uruguay\": Cosse propuso un nuevo anexo al Palacio Legislativo y generó críticas desde la oposición",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTjR4X1hRLWRkbE1sb3VibDVnQTN4TzBKYU5UdjJTUXVVY3JPeVJCa1RDbHR6TDNtYU54MWhnTURGeGNwWm9FVXNhZkxFdnluNHhDS21YdTNJQmQyTG1lVHVmVEJTWVh0Mll5OGVzYno1OXNsTXktclFudF9PeDcyOEt2MDVyb2ZOSkltMkhWcUUwTkVJeUQ3YjJMRVR2TE5hMzhMUThwMVhPSHdMSzJOVTI0dzQ5MTdvTTR4eUhBc3M5cUlzd3FJNUpqTFMzcVNfYzZ6T1g1NldtN3Y0WWpvZGtsc205WHZWMGVva3VGek4tZ9IB9wFBVV95cUxNQWxROGxwMDRXb2NWaHplN2NtRFN0YTlPdENFYTE1S0dkclVBazZkNkpJMTJiUjNtNThGLXE3S0R0TVdHdDNtaG5ueHp3VjNrcndhX0w0MDNQRHlJUzU3Wm9Ta0JSdDQyZ1haMDBFQTlSLUVzRXVJMURmZmV1Qi05V0laMURXZUx4a1NVVkc0NGNiOGZwY3NlMjk1Uk5zbWdVRDlYSlJnOWk0ZmZSZzM1R2RRLUZzeWZFM1NlSGpEeFpyaWFfenloS3liaUN3WjI0bTJhU2tKY3NzR0xZRmZmTXpaTWtxdkRiRmppenVoLWtEQWdaaW9F?oc=5",
-          "description": "\"Parecen vivir en Narnia y no en el Uruguay\": Cosse propuso un nuevo anexo al Palacio Legislativo y generó críticas desde la oposición &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-05-06T12:54:00+00:00",
-          "score": 8,
-          "score_reason": "Cita irónica negativa; compara gestión con ficción fantástica de forma peyorativa.",
-          "score_pct": 80
-        }
-      ],
-      "analysis": {
-        "resumen": "La ministra de Vivienda, Ordenamiento Territorial y Medio Ambiente, Irene Cosse, presentó un proyecto para construir un nuevo anexo al Palacio Legislativo. La propuesta generó críticas desde la oposición, quienes cuestionaron su viabilidad y oportunidad. Cosse respondió a las críticas pidiendo discutir el tema sin confrontación. Simultáneamente, otros medios cubrieron temas diversos: una investigación administrativa en Cancillería por entrega de documentos a un prófugo, la incorporación de guardaparques en Montevideo, y transferencias en el fútbol nacional.",
-        "coincidencias": [
-          "La propuesta de anexo legislativo generó polémica en la oposición política",
-          "El proyecto fue presentado por la ministra Irene Cosse",
-          "Existe fricción entre la gestión y sectores críticos sobre esta iniciativa"
-        ],
-        "diferencias": [
-          "El Observador adopta tono crítico mordaz; Caras y Caretas reproduce postura de Cosse de forma equilibrada",
-          "Mientras algunos medios priorizan el conflicto político, otros cubren aspectos administrativos distintos",
-          "Varía el énfasis: algunos destacan rechazo opositivo, otros enfatizan respuesta ministerial o evitan el tema"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Actividades y eventos en Montevideo esta semana",
-      "category": "Otro",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Intendencia de Montevideo lanzó programa \"Fondo Por Más 2026\" para financiar hasta 128 proyectos",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaUJVWkl3T2MzdXFwU1U3R1doNE1pM215YmdXMllFTy1YQk1jX0xWTjZJc1lLN08teVZIUXlxYVh6LWNhcER6N1UwSTFCQVJiTDdvLTRkVTB0eEV5S0FkVHVEaDNjTUVXRVhpSmpUcExudlh4SjFTLTh5Sm1xa1IxQWtPUXNDUlJCcVRsZDZjUjVsQ2hCTU9WQXNQeFcxMU51aVozcl92eVJLQklvelI2b3RiV0rSAboBQVVfeXFMTmJ3bFUzQ1g2bHBXak9xX3AyNDk0MDJFLXBSU0NxWTVvLVAweXNJWmE2bldfZVVPYjE1d2hjUFVTQndSb1lyZ0Q5eVhZYTlnZkFGQ1JKZWNrSzlxbk1NaUo1NlNZQ0RDMDMza1BXdUxyWkZDYlFxeGZXYkNxZVVwRk16bmRjNVlLeVM5VFh3aTdFQUpyNVNHOTlWUllHRWRuOHBNLTBMWGhISHJqNTRkMWt3MTZpdFkxaHBR?oc=5",
-          "description": "Intendencia de Montevideo lanzó programa \"Fondo Por Más 2026\" para financiar hasta 128 proyectos &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-05-06T00:01:00+00:00",
-          "score": 1,
-          "score_reason": "Enfoque puramente informativo, datos concretos sin carga emocional",
-          "score_pct": 10
-        },
-        {
-          "source_id": "180",
-          "source_name": "180.com.uy",
-          "source_short": "180",
-          "source_color": "#F57F17",
-          "source_text_color": "#000000",
-          "source_url": "https://www.180.com.uy",
-          "title": "Naterial inaugura un nuevo showroom en Punta Carretas y fortalece su presencia en Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZGdIai01bjcwRXJBV2psazIwU2ZuaEFWV3R4R1AyTkhfWWdRaE1KalBIcF9oTlBPejdsUWtWUTRMZUxaMVUzd2lSMEF4LXJSLURvc3JVOVY2TlQyMlkydUlsTzRGNlpHVThISlIxVXF1bXFlYXdOdURLZ1FKaTE3MzhENzdRSmxEQlR6Zk5sbUdaZGtoN1AyZHZMUTd4eU96UHJoNUUybzVjOWtydHg1N1cxUkRSZnM0OF9id2dCeWJuaF8yQWc?oc=5",
-          "description": "Naterial inaugura un nuevo showroom en Punta Carretas y fortalece su presencia en Uruguay &nbsp;&nbsp; 180.com.uy",
-          "pub_date": "2026-05-06T12:22:47+00:00",
-          "score": 2,
-          "score_reason": "Informativo, aunque 'fortalece presencia' implica leve tono promotor",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Montevideo se prepara para dos noches de reflexión y esperanza con Alejandro Bullón",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQTFpVlNnUjVGYmJldkFtQnlTNGQ5Z0VBVENmY3l2TTd4bklycGdhc1JlXzc4anRJMUFmYWdEbWc5OWVTWFNHaUxhRm8zQXEwUm84bDNOdE12eGZhVWNvUmlReTFLUEtPZ1AwdS1kcUVwczRFdEpVRURFUXBOT2Jwa0dLRHdVNUgzOTliZF9zUkJ5bmFrODk1Sm5vcGpINVRiXy1abm9xaWlNM3hCd2Fkbm5fOFp1NXRlNkZFdk92THVRNERSM0VrVzFVVl82SmM2NUVCc2tlR0FGbFpO?oc=5",
-          "description": "Montevideo se prepara para dos noches de reflexión y esperanza con Alejandro Bullón &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-06T12:00:00+00:00",
+          "title": "Dirigente del Partido Comunista visitó el portaaviones de Estados Unidos en la misma delegación que Orsi",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMV91UkJzM1NaSGdzZ2tnQW1lWElFX0llcFRhdDcxZ0ZwNkZGQ0xNX2JENDdVQWhIZ2o4enZLMjhVSHg5QlZPRDJGMWF3V2R6blgxcVlqc3dGZXhHTUd0UWtzNENZbGRjSDVKNkdkY3JxaERkdldnVUtjeHNaYkRocWZWMFU5aU55Ylc0Y2t5WlgtNjJYQ21qV1pnY0RFSFlkazNDY3BFRGhZZklselotZm9CbzNoWFFWWDBIamZRckhRaWFGTUsyYU85SFNmcDg5ektKaDdvdHYyajZlNmhLWEdn0gHnAUFVX3lxTE55ZGhveWgtYnpZU1Jhckc5YldVWVhRWnpScEkyWEt6QWFHN0lSX0xlT2VaUEpCTTdTZVBkVUpqdWRsc2EtejRXTU1xSXM1eFFvVzg3UEVGWDJhdEVpWVlIWk9GbkFjNUhLNVpHWkdFOHV4clRfM3lKWHhDMkdNaS1MeWRXU2xDSXhFRklNd2toMWdFTlM0WDROeXBmMl8wSFFOSUNHcXh1dDN1ZFdtS2lDb0VzWnRYQ2Q4SnRjMUN0V1c2Y2VWclh5NlF5Tmx2Zi01Q2NlUWpPTGRTcWN6MUptdGFaZFdfVQ?oc=5",
+          "description": "Dirigente del Partido Comunista visitó el portaaviones de Estados Unidos en la misma delegación que Orsi &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-05-07T08:00:00+00:00",
           "score": 6,
-          "score_reason": "Palabras cargadas 'reflexión y esperanza' añaden subjetividad emocional",
+          "score_reason": "Destaca la presencia comunista para generar tensión política.",
           "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Montevideo registra varios eventos simultáneamente: el expositor Alejandro Bullón realizará dos jornadas de reflexión, la Intendencia lanzó un programa de financiamiento para 128 proyectos denominado 'Fondo Por Más 2026', y la empresa Naterial inauguró un nuevo showroom en Punta Carretas. Se trata de iniciativas diversas que abarcan ámbitos religioso, público y comercial.",
+        "resumen": "El candidato presidencial Yamandú Orsi realizó una visita a un portaaviones de la Marina de Estados Unidos (USS Nimitz) como parte de una delegación. En esa misma comitiva participó un dirigente del Partido Comunista. Mientras algunos actores políticos como Ojeda interpretaron la visita como una señal de cooperación internacional, otros medios enfatizaron la presencia simultánea de un comunista en la delegación.",
         "coincidencias": [
-          "Los tres medios cubren eventos ocurriendo en Montevideo",
-          "Todos presentan iniciativas o actividades de alcance público",
-          "Ninguno cuestiona o critica los eventos reporteados"
+          "Orsi realizó una visita a un portaaviones estadounidense.",
+          "Un dirigente comunista participó en la misma delegación.",
+          "La visita involucraba relaciones con Estados Unidos."
         ],
         "diferencias": [
-          "Montevideo Portal prioriza lo emocional-espiritual; Subrayado lo institucional-público; 180 lo comercial-empresarial",
-          "Nivel de neutralidad: Subrayado más objetivo; Montevideo Portal añade carga valorativa",
-          "Audiencia objetivo: religioso, gestión pública y consumo empresarial respectivamente"
+          "El Observador subraya la incongruencia política; Subrayado la interpreta positivamente.",
+          "El Observador carga la noticia negativamente; Búsqueda y Subrayado son más neutrales.",
+          "Subrayado incluye perspectiva de actor político; otros medios omiten interpretaciones."
         ]
       }
     },
     {
-      "id": "story_005",
-      "topic": "Cosse defiende proyecto de reforma legislativa ante críticas",
-      "category": "Política",
+      "id": "story_008",
+      "topic": "Mujer grave tras robo en Pocitos",
+      "category": "Seguridad",
       "sources_count": 3,
       "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Cosse respondió a críticas por anexo al Palacio Legislativo y pidió “discutir sin gritos”",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRWJDUEJGOHc2ZURNZVp6ZmkzNlJzUnNiS19pc21zMXM0TWptQVE5NDE5VkdGQ2pobkhBazB4SGFqcTM5ejY3Sm1mYVVvTGpKcEhSX0FPN1hCZDlBS0RvWFFlOHE5Nk9BZUFidTM3RzZDU0NRUEdYUXRQZlRlY0s0bDhrc3FTdl9qRzRQWWpzR0doUUx5eC1rQ1NJSlBzYmxHZl8zNDRXc2FkdXN6S3ZXVHRxYk5Zb0Z4WDR1bHpwa19YUTRQRUdxWFQ5dGRuRzBacEHSAfYBQVVfeXFMTXM2Mm1QZDRvNDlmdElIbUtFRjFad0ZOd3RtcWlnRTdteGE1ZUlEUHVTUkhxYzlYNURSc0VmMzVVYklMWWc0WVBrNUFFR2pGNDV5eU8yT0J1cXZ6NldnOExrSUhaZ0t3c3Q0cl9vYWE2YU5nM3dpdjdFdExVenMtWlN4MVRGbGNUWllVWTZwZGRMb1dxMkVDYUplbDBzUkhCV25KNERzWFJ3M1FobVJNTE1sc0JtcjNHN3dtZ1ZheFg2YWYyMEtGc1NFRXMxQ0t6LUJuTW42TWRGc3N5cGlTeVpJMVFpZ0pLdThla0FhVkFWVkRwNmdB?oc=5",
-          "description": "Cosse respondió a críticas por anexo al Palacio Legislativo y pidió “discutir sin gritos” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-06T17:11:00+00:00",
-          "score": 2,
-          "score_reason": "Informa hechos sin énfasis. Incluye posición de Cosse de forma equilibrada.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Orsi respaldó a Cosse por proyecto para entorno del Palacio Legislativo y aseguró que se \"sorprendió\" con las críticas",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2hYLTRBN0FUN1dDUG9ZbHMtY3FiblBTTGFfQ1NIbGZWQmJKN3BpYzVKLW5KVUtUejczOXVyMFBFRVRMZjhUdXUwNEZsRUdZVmFBRG9KYVFmZkItRG40czBJSmRhaVFXcDVsajhuUFVwVUpwZ1EyenE2UHdDU2xYVV9HRWNpMk5aX2dfRVl0MFl6M1FLeWxYRnhkZUp6NFhLV3ZSZjc1UHRzSl82Y0ZBNU9mMGpsaEpLYWZLS0RKNXVDMUI2S193dDdGMVB5YzZnbmFYeUhn0gHbAUFVX3lxTE8zckQtQXk3eXZiNjJtS090ZzI3MzE5aHNremllb3RrX2J3b1JSc1ltVHZFVEphMW5mM2RfRXlSRlFZdVB2Vmltd05EZGZ0XzR1Y2RpSnd2VldZWlpDNmE2a1JVMXZ3cU4zYTlLSFlTZlVsekpxTGh2RThlMTJoRGhjNU92X2ozRXk2cDZwNGwzSlpDYi1zMXZ5NV83Qm92bEloZkFTMkJtY1hkRU1OVTVfcDJFZGxValNfdjY3b0g5WHQ3Tm9raUZtSUpRd0FvSWZFa0lsbV83ZkF1Yw?oc=5",
-          "description": "Orsi respaldó a Cosse por proyecto para entorno del Palacio Legislativo y aseguró que se \"sorprendió\" con las críticas &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-05-07T00:19:00+00:00",
-          "score": 3,
-          "score_reason": "Enfatiza respaldo de Orsi. Palabra 'sorprendió' añade matiz interpretativo.",
-          "score_pct": 30
-        },
         {
           "source_id": "teledoce",
           "source_name": "Teledoce",
@@ -347,32 +596,266 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "\"A mí me gustó la idea\": Orsi apoyó iniciativa de Cosse de reformar los alrededores del Palacio Legislativo",
-          "url": "https://www.teledoce.com/telemundo/nacionales/a-mi-me-gusto-la-idea-orsi-apoyo-iniciativa-de-cosse-de-reformar-los-alrededores-del-palacio-legislativo/",
-          "description": "\"Me llamó la atención y me sorprendió que genere tanta reacción\", sostuvo en relación a las críticas opositoras La entrada &quot;A mí me gustó la idea&quot;: Orsi apoyó iniciativa de Cosse de reformar los alrededores del Palacio Legislativo se publicó primero en Teledoce.com .",
-          "pub_date": "2026-05-06T23:33:02+00:00",
-          "score": 4,
-          "score_reason": "Uso de comilla directa favorable. 'Me gustó' humaniza pero inclina perspectiva.",
-          "score_pct": 40
+          "title": "Video: en Brasil una mujer apuñaló a su peluquero por la espalda porque no le gustó cómo le quedó un tratamiento capilar",
+          "url": "https://www.teledoce.com/telemundo/internacionales/video-en-brasil-una-mujer-apunalo-a-su-peluquero-por-la-espalda-porque-no-le-gusto-como-le-quedo-un-tratamiento-capilar/",
+          "description": "El martes 5 de mayo se apersonó en el local a los gritos, se enfrentó al portero y luego apuñaló al peluquero por la espalda. La entrada Video: en Brasil una mujer apuñaló a su peluquero por la espalda porque no le gustó cómo le quedó un tratamiento capilar se publicó primero en Teledoce.com .",
+          "pub_date": "2026-05-07T19:16:35+00:00",
+          "score": 0,
+          "score_reason": "Noticia completamente diferente; corresponde a Brasil, no a Pocitos.",
+          "score_pct": 0
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Mujer fue abordada por un ladrón en Pocitos: forcejeó, se golpeó en la cabeza y está grave",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTU9uRVNZM0tJUmoxVDlLRGlTd0FGNHVBQVBUa1FtcGhDS0dCdlRIZ0NtRmpkYUU4N0U4RHFCUlpXZ2QwbE9vYnJDcTE3ajhMNURrem5vV3NzX3NGVldqSktXNTJ6VF8xZ1JfS2piSmNnODdJUXl3R3VyOFBnQlhMMEY2N1UyNFhZR21JUFNzOUNTelVSd3ZPUDZ1V0ZoMl9ta3pDWVpJZlZIbGlsWDIwRVN2ZkFYclowQ3hxclF1NFhBa2dWb0xsbWRrR2dSN2RBM2fSAfYBQVVfeXFMTnlxb1NSLVpWanJGakdzeEZzNEJMbnlQbHZweFFqMVptUGtRc3ZxYTZwbkZqTUFDb09JZFlrdnhaVHpOZGpVa0lDa3lWRjhiNVAzMWl3TjhSdjVlODhYQ2tUbzNIdlNieVk4WXpLSnhwdUp4YVlYazV3THFFZWtfSlBzQVdnS1E5VXZ2UHI2N0VRZWs4TUZTQmFNT0JHRGcxZ2UwcGE1V0lwTlUwNFB2eG5XY2xZNUUxazNHYzdMVkJVLVkwS1ZLeE9HSkhZYXBrbWoySG9ka1BSRzJkZkJLS1JxajJPT25hSzFONHVrUUg3cUFUTGpn?oc=5",
+          "description": "Mujer fue abordada por un ladrón en Pocitos: forcejeó, se golpeó en la cabeza y está grave &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-07T13:33:00+00:00",
+          "score": 2,
+          "score_reason": "Descripción factual, cronológica, sin carga emocional adicional.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Una mujer está en coma porque un delincuente la quiso rapiñar y provocó que se golpeara en la cabeza en Pocitos",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORkhCS0EzSFBfQW9yQW5pTW9maHNZWlU1THRqRDk1T0E1Snk4WUhQanZUelg1a2I1eW0xX0V0YVRRdFM1VVBXTUt4akdFcW9xcVhIZ29Oa1dYXzRhM2VCMFVDZ29nVGZQMk1TdWxobmVzMjZidWY4YmdFZ3JxTmY5cDVVTmZCTjBjU3VOY2YtMElNMF9lRHBrN3V1RElvanp3eUZIMjFJTzVMZjZyaDlHd0RBaGtCQTFWS1RxTGhQSDU3SW9WYm01T29vRlFWOXZNRWNieGZEY9IB3AFBVV95cUxOQmE3b2tuRmxPUHBDTDNsSFFCNWozN0ZWS1dvSi1lT1k0cklpc1hTU01RRTVLUnQtSGVGaENtZ0NpWlhGZVYxSzhUejVySWFKUGlGQ3QyTUZZbjItb1U3ZmZSemVmWWl2SGFLTjBmSkJjblRTNDJ5VENYNlB1OC00eU5qTzM5MDB6WDRsQ3daNEQ0elRVZHhFaGhoVHhIUjBNcEV5X0gwbEZBQUJoSHNEdmh3WHNVOUFBVWU5Q1BRajdiWjY1aGNPbGhnbHhyY3ZuNEw4UmxtVk5wTE9h?oc=5",
+          "description": "Una mujer está en coma porque un delincuente la quiso rapiñar y provocó que se golpeara en la cabeza en Pocitos &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-05-07T12:13:00+00:00",
+          "score": 6,
+          "score_reason": "Énfasis en 'está en coma' al inicio; atribuye causalidad directa al delincuente.",
+          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "La intendenta Carolina Cosse respondió a críticas sobre su propuesta de reforma del entorno del Palacio Legislativo, pidiendo un debate más sereno. El candidato presidencial Yamandú Orsi respaldó públicamente la iniciativa y se mostró sorprendido por la magnitud de las reacciones opositoras. El tema genera división entre sectores políticos sobre la conveniencia de reformar los alrededores del edificio parlamentario.",
+        "resumen": "Una mujer fue víctima de un robo en Pocitos. Durante el forcejeo con el delincuente, se golpeó la cabeza y sufrió lesiones graves que la dejaron en coma. El incidente ocurrió cuando el ladrón intentaba rapiñarla. La víctima está internada en estado crítico. Las autoridades investigan el hecho.",
         "coincidencias": [
-          "Cosse presentó un proyecto sobre el entorno del Palacio Legislativo",
-          "El proyecto generó críticas desde sectores opositores",
-          "Orsi respaldó públicamente la iniciativa de Cosse"
+          "Ocurrió un robo en Pocitos",
+          "La víctima sufrió un golpe en la cabeza durante el incidente",
+          "La salud de la mujer es grave"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza la respuesta defensiva de Cosse; Subrayado y Teledoce priorizan el apoyo de Orsi",
-          "Teledoce usa lenguaje más cercano y favorable ('me gustó'); Montevideo Portal mantiene distancia informativa",
-          "Subrayado y Teledoce remarcan la sorpresa de Orsi; Montevideo Portal centra el relato en Cosse"
+          "Montevideo Portal describe neutralmente el forcejeo; Subrayado lo presenta como causado directamente por el delincuente",
+          "Subrayado enfatiza 'coma' desde el titular; Montevideo Portal usa 'está grave' sin dramatizar",
+          "Teledoce publica noticia de Brasil sobre caso distinto, sin relación con Pocitos"
         ]
       }
     },
     {
-      "id": "story_006",
-      "topic": "Cambios en estructura del stock animal uruguayo",
+      "id": "story_009",
+      "topic": "CPA Ferrere cuestiona medidas del Diálogo Social",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "CPA Ferrere advierte riesgos por propuestas sobre AFAP, retiro a los 60 años y protección de infancia",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTDJBdUJFZ0tqRFFUdTdvRjItTGg5NnRmY2lSM0V2X3E2djNuc2xTbTJwcXZOWFdXeFdrWmRpNENVSFM5aF9SaWlsdjhxWldTRDlsSEMyQ0hmeHRnUW5sdktxcVJyWkFrYThlVjF3XzZXQ1kySUJucTFLWnNMOUY5N0ZwUWZlTHNsTXJYX2wxRzRJV3VyY19oa3o5ejR6QzhVZG8zLW1GRkV5aFhXYmNxbHY5alVZOUZ4dk5qQU5IQzJmYlMxTW5PTUdaQ1RfRU4zcU04TE0weHMtMHg2NWxCWQ?oc=5",
+          "description": "CPA Ferrere advierte riesgos por propuestas sobre AFAP, retiro a los 60 años y protección de infancia &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-05-07T07:01:27+00:00",
+          "score": 4,
+          "score_reason": "Enumera tres temas específicos, neutral pero con énfasis en 'advierte riesgos'.",
+          "score_pct": 40
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "CPA Ferrere advierte sobre riesgos y costos de las medidas propuestas por Diálogo Social",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNldCcXJXZDZqWm9ZSW1jMG1oaGItVlJYa2ZXeHNESDB0UERmVTQtYXJJUE1rTGphT2RpVnljbTlET0NULTA1R29MdWNfVnhRV1liY2ViTjl3bk5oSHM4NXZwTGU1dkpTYXdxNmN0ZHA5MWdkYW1jdGJUT2ZmbVlMLXhZSnJtdjZMbzNqMGdfVUhDV01IR2hsME8waUV0M2JTR0Fwa1E1MFpnYVZRN3A4Ulh1SdIBuAFBVV95cUxOSGRUNEp6SGdlOFpNTjVzNWJnel9GRWhkWnBTeW8zR2VSTUNNT1QyM0ZYbHBfUFdhbnlHOGhNa3V3MEhvMHlIVGRnd2ZvdndQSkhaa1VMMjU4TzBtaFp2TUFsdjVxV0xVX2tZajRVVXlmdlZHYVZfckI4X2ZTdVJpMjkxUXJWRGtyQmJfZDdYUkNuZzJ4dTV2Z1BUTU1TREV6UEtuNW40YlNtOEh0M2oySEpSRkc4a2tw?oc=5",
+          "description": "CPA Ferrere advierte sobre riesgos y costos de las medidas propuestas por Diálogo Social &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-05-07T13:19:00+00:00",
+          "score": 5,
+          "score_reason": "Enfatiza 'riesgos y costos', refuerza preocupación económica, levemente alarmista.",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "La consultora CPA Ferrere emitió un comunicado advirtiendo sobre los riesgos y costos financieros de las propuestas surgidas del proceso de Diálogo Social. Las medidas cuestionadas incluyen cambios en el sistema de AFAP, la posibilidad de retiro a los 60 años y nuevas regulaciones sobre protección de infancia. La consultora señaló preocupaciones sobre la viabilidad económica de estas iniciativas sin especificar detalles técnicos completos en los titulares.",
+        "coincidencias": [
+          "CPA Ferrere emitió una advertencia sobre propuestas del Diálogo Social",
+          "Se cuestionan los riesgos y costos de las medidas propuestas",
+          "Ambos medios citan la misma fuente sin contraposición de argumentos"
+        ],
+        "diferencias": [
+          "El País desglosa tres temas específicos; Subrayado generaliza en 'medidas propuestas'",
+          "Subrayado enfatiza más el aspecto económico ('costos'); El País distribuye el énfasis",
+          "El País ofrece mayor detalle temático; Subrayado mantiene lectura más sintética"
+        ]
+      }
+    },
+    {
+      "id": "story_010",
+      "topic": "Suspensión de programa y declaraciones sobre competencia",
+      "category": "Cultura",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Diego Aguirre: “parece que estuviéramos eliminados pero no es así” | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSGJQU3VEUHREQ1RSdnVkc0RadURzV2g0QmN3MzZJbnRfekI1aDlKSExDRGR2bkNReTlRR1NHYzllNmNtaHctZTFfVWJ6TFJBQWJLQk9Pc2gyZnRpRFpOcGpVc1JrWGw4U0p1LXZ0VDNZZ01fUVlPN2FJVGpNRWtIV1FFdmp4bFRMMDU3NW9XTEtENnAyaFRlX2E0LWZwaGQ4elZaRTE1Wm5nWEFEdTNB?oc=5",
+          "description": "Diego Aguirre: “parece que estuviéramos eliminados pero no es así” | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-05-08T01:49:30+00:00",
+          "score": 2,
+          "score_reason": "Cita directa neutral, informativa, sin adjetivos cargados",
+          "score_pct": 20
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Por qué Mario Pergolini no salió al aire: el triste motivo que lo obligó a suspender el programa",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaHlTaEVIVW82RTRyRjg5UmhPMkNBbzFQU0dTTWhZeElzSndzTy1YVkJQZ1VROFNDbFJYOWJlLS16dnBOcXFVX3NGR1pwcUhsRmFUbUU0aWpCbUhVWFROQlh4QllBV2tWeVZlaE05c3piYWR0a1JUODdyRDRyRkN3U3VSeGcxWG9PV0lDR1lMYU5NMDhZeFFEczVSZS1CM1JKTTliT2FFM2E0a25MOGtQTVVXbGZqcFZHVmZMWktDZnMxVVVuTjY3RFZ2NVJsZk9RdnpQVnE3OWVsUHBCZFA1Sg?oc=5",
+          "description": "Por qué Mario Pergolini no salió al aire: el triste motivo que lo obligó a suspender el programa &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-05-07T22:52:46+00:00",
+          "score": 6,
+          "score_reason": "Adjetivo 'triste' genera emotividad sin especificar motivo",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Mario Pergolini no salió al aire en su programa debido a un motivo personal de carácter triste que lo obligó a suspender la transmisión. Simultáneamente, el técnico Diego Aguirre brindó declaraciones sobre la situación competitiva de su equipo, expresando que a pesar de las apariencias, la participación en la competencia aún está vigente.",
+        "coincidencias": [
+          "Ambos medios cubren temas de actualidad del espectáculo y deportes uruguayos",
+          "Ambos reflejan situaciones donde lo previsto no ocurrió como se esperaba",
+          "Ambos presentan información de figuras públicas relevantes del país"
+        ],
+        "diferencias": [
+          "El País usa lenguaje emotivo ('triste') mientras El Espectador mantiene tono informativo",
+          "El País enfatiza lo negativo; El Espectador presenta declaraciones que buscan aclarar la situación",
+          "El País ofrece explicación sobre ausencia; El Espectador contextualiza una posición competitiva"
+        ]
+      }
+    },
+    {
+      "id": "story_011",
+      "topic": "Arrepentimiento de Luis Suárez: perspectivas diversas",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Alejandro González desde Buenos Aires: “nos aferramos a la mística de Peñarol” | La Mañana del Fútbol | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSzFTMGJuMFpoWFN4R2pWZ1lnV1JxY1RzbkdwckNDTWxRcU9SOTNvYzRlVkZRdDZTSUZwTjZWN3pyT3hKeEhySWhpSWFpNExSZnowZnhkVUdLamw5ckZLWmVDLWUteDQtcWduUV8xcVBJZkt1LTFCdUpLaTdSejJqNzdESVZvb1VPMjJncXUzRDQwdEczTUFVZ210akIxSm5rZ0tzRno0UXNjaWxlYjlLaHJseldxTzZnRWc?oc=5",
+          "description": "Alejandro González desde Buenos Aires: “nos aferramos a la mística de Peñarol” | La Mañana del Fútbol | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-05-07T13:42:55+00:00",
+          "score": 3,
+          "score_reason": "Formato de entrevista neutral, entrecomillado directo sin carga emocional.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "“Con los 40 años que tiene”: Kesman opinó sobre el arrepentimiento de Luis Suárez y fue contundente",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeTREdDdMZDR2RjhyOFIyOGtoYTlnaC1ZYmtWNW1fUE05QjNiWVJPSDA5Y3BkWGIzaDlGaHYtWk5XT09mc09zSWdyaExNSWNCZEdrVmczanBRdzB5Q0ZKcThJM09oMFpoVW9sc19ISGFyaUxsZlh4dWNHSHJURDQyVUhCSUJTcktvb29NcmRBTWlaNG8zVHM4RHY4aFZOM291UHl2Rm5zYzhSem5EXzJjUUhYbUtHeS0zM1pkTW5QSC11OWRPaHYzT1lVZHdXdFV1RF9tZEZScw?oc=5",
+          "description": "“Con los 40 años que tiene”: Kesman opinó sobre el arrepentimiento de Luis Suárez y fue contundente &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-05-07T19:37:01+00:00",
+          "score": 6,
+          "score_reason": "Adjetivos cargados ('contundente'), entrecomillados parciales, sensacionalismo moderado.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Luis Suárez expresó arrepentimiento sobre algún aspecto de su carrera. El comentarista Kesman opinó de manera contundente sobre esta postura, haciendo referencia a la edad del futbolista. Simultáneamente, Alejandro González, desde Buenos Aires, abordó temas relacionados con Peñarol y su mística institucional. Ambas notas reflejan análisis sobre figuras relevantes del fútbol uruguayo desde perspectivas distintas.",
+        "coincidencias": [
+          "Ambos medios tratan sobre figuras importantes del fútbol uruguayo",
+          "Utilizan entrecomillados para destacar declaraciones de los entrevistados",
+          "Los temas giran en torno a reflexiones sobre instituciones o trayectorias futbolísticas"
+        ],
+        "diferencias": [
+          "El País enfatiza opinión crítica con adjetivos emotivos; El Espectador presenta entrevista descriptiva",
+          "El País enfoca en Suárez individual; El Espectador destaca mística institucional peñolera",
+          "El País busca impacto con juicio de valor; El Espectador presenta perspectiva del entrevistado"
+        ]
+      }
+    },
+    {
+      "id": "story_012",
+      "topic": "SAD Cooper no paga deudas, queda fuera Divisional C",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Cooper no pudo cancelar sus deudas en la AUF y no competirá en la Divisional C",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVU94eXMyNFZSZllBelFQVzBodkZ2aW9yNnNyMThxSlB2NGZOVTVxUjI3LTRJTHdHblF4amlNUmlNTnJBUlFnSHhtRmwxWDlibEFKbU0tSFhISDN1WVZlb1N3cTdQY2l6WDZpaTM4cVBfY3VoQkp4ZG9EZjlOaTJ3SEJmT2VWX0NHU0lxMFR0dzA0SnN2N2RadGtiejFTb1BCNzRBaDdXTjdhY1RxeGdqbU5GQmViQXNmOEtMTUZhT1RUOVF10gHoAUFVX3lxTE9HZTRBVDVJYThZR3MtaEpqLXAxS2R4UDg2Q3hnNU04VEkxcEotTWh3WDlkM3pRSHRZazRNWE52S0lVdEZ5TlhQemZZX2RJOG45Z3FKdW03V1M5RmEwbzBmb2JjclFrM3VEblU4TEFQQmgwXzhBb0d6WS11WE9oNG9PNmxRXy11bEpwNnpTcC1XaVpEUFJVZEl2alZNYlZsUjJKaEp2Y1ROMzlCOG5UcEU3Nk9oRldaSU4wTEdHdm1RS0Nnd2VJT1lCX0FQaWR3cW16TUotdDg4TTJHQWNZZDFPdzhqRGpXWmE?oc=5",
+          "description": "Cooper no pudo cancelar sus deudas en la AUF y no competirá en la Divisional C &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-07T11:40:00+00:00",
+          "score": 2,
+          "score_reason": "Enfoque directo en lo ocurrido, sin añadidos contextuales o emocionales",
+          "score_pct": 20
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "La SAD que no pudo pagar sus deudas y no jugará en la Divisional C, y cuyo inversor está en prisión preventiva por el caso Conexión Ganadera",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQXBwakZzMVpvZnBiRExabjJNam1zTWN3R2ZNU0RVTmZQZUNXRUFfTEFGQ0hnRHFUWVg1SUVsMFZrVXROblRHV2ZJTjZQNUMtSVMtOUtxZWZwSUZ2S1pHUGI5aDNMODlGQ0p0d2JycV9fOXRWVjZrMDExbXlmeTFrWWF1bEE4ekREZHlsWFk1bDE0X0swRy05MmtpemRFVnJwZFhsM3h0Q1M3b1duRzhhMFlzcnp2d05oWHpPN01SZkVpSnk0SFhNanVfT3kxZi1rTXBtenJIX1FSQjIzSU8yNXdweXByQlJUNmlQTTVnMU9rTFF4YUNya2NJclDSAYICQVVfeXFMUEE1ZXNrYkFveW5iSVNrM0JLQUV5T0JyUmNDZ2paMHJ2WksxbVItNHJzaHl5S3dfcjVGZWZnNHpWOWtXMERYaVdnSVRyb3dKYTBDTUdlYml6RE1lb1dQaE1VNExaREdRZlNRUXZqRVdLejlJMG5aaG82c194bl9zNW9IQVFmTGh6d1BVNEdGeDlTcUI1QkVHWW1PZU5zd0ZlcGtnSF8zWWNlYk1uX1k2OWJySWYtNmhRWTdHSmI3T1RIS2U2U2NxY3J4TXhQLU5veExzN180WDg0a0xPZDc4WXN4SlRjbVJkOHNneGVVWU9sQWFtaUpWUnMtUnJLVDZzeTNn?oc=5",
+          "description": "La SAD que no pudo pagar sus deudas y no jugará en la Divisional C, y cuyo inversor está en prisión preventiva por el caso Conexión Ganadera &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-05-07T13:10:00+00:00",
+          "score": 7,
+          "score_reason": "Prioriza antecedentes penales del inversor sobre hechos deportivos principales",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "La Sociedad Anónima Deportiva Cooper no logró cancelar sus deudas ante la AUF y quedó excluida de competir en la Divisional C. El principal inversor de la SAD está siendo procesado en prisión preventiva por su vinculación con el caso Conexión Ganadera. Este hecho marca un fracaso administrativo y financiero para la entidad deportiva.",
+        "coincidencias": [
+          "Cooper no pudo pagar deudas contraídas con la AUF",
+          "La SAD queda excluida de participar en la Divisional C",
+          "Es una situación de fracaso administrativo y financiero"
+        ],
+        "diferencias": [
+          "El Observador destaca la situación legal del inversor; Montevideo Portal se centra en hechos deportivos",
+          "El Observador carga el titular con múltiples problemas; Montevideo Portal simplifica a lo esencial",
+          "El Observador busca contexto negativo adicional; Montevideo Portal mantiene tono informativo puro"
+        ]
+      }
+    },
+    {
+      "id": "story_013",
+      "topic": "Cambios en stock animal uruguayo",
       "category": "Economía",
       "sources_count": 2,
       "headlines": [
@@ -387,9 +870,9 @@
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUENxSUJHVXdQNE5NUXhQOUV4REp1QjFTRjVONUNhN3FsUFdPQmFIZEMxM0o0SWlqaXk0VTMyaTZWSWt3QjNoSHU0WkJKT3NMb1M3U2FBQjJ5ME1aV3Uwb21hdzFhaGc3QTZRQ0Q4LWk4M1M1Rms2NVJJdXh2cV9NOU5OSG84bE42R2YxSkZiaTRsaUtLN1pIZzExVTdmSkEwbXRrMC04NDkySkdhVFZoREZIdDdFOWx5RHVwOFpkd3p0STJsZHNtdWZUdWhrdDI0MFhFUkxwY18tbmxtV2lCYzBJa1B2TG9pLWfSAe8BQVVfeXFMT1BUMTRHY1RwYnVCeFVWRllPeXEtTnZVc0VJT2MwMGJnMl9CeVU2YkFub0hPa0w4OWZud2liR2RMVU5vajUxVzNlZk1rUkJTWjFablZCX0gtMXBFYTYzaG1DcmtMYjVxRGw2TkdHWWNpRFZSUXJ6cWdsc3g5dEZ0VUNzYVJoYjhqSFlOSjMyTGg4T3cydml4el84WlY0M01GRVlGUThTME9adzg2cFI5RXZDWGVWN1hJbV9uNmZ3a3phS0w4X0p0Vk1mdXgzMDZVQmNDYUJYVmt0Tkw3aXJhcEMyY0ZvT1AxYzh4TUNPMlk?oc=5",
           "description": "Más bovinos, menos ovinos y vacas lecheras y más equinos, los nuevos datos oficiales del stock animal uruguayo &nbsp;&nbsp; El Observador",
           "pub_date": "2026-05-07T03:55:58+00:00",
-          "score": 2,
-          "score_reason": "Enunciado factual y directo, sin carga emocional ni interpretación",
-          "score_pct": 20
+          "score": 1,
+          "score_reason": "Descriptivo y factual, enumera cambios sin interpretación.",
+          "score_pct": 10
         },
         {
           "source_id": "busqueda",
@@ -398,84 +881,33 @@
           "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.busqueda.com.uy",
-          "title": "Vehículos, mercado laboral, inflación, exportaciones, déficit fiscal, balanza comercial y salarios en Uruguay en números",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWUtIUXFMNzZCNjExajhpRHBzZ3VvTUNQVVJyeE05XzhObjlFNXVKNDE0RGZLbmsxWkFvdkVPZm9EeEhKSVJDMDNJSkFMbnFaQTFDM21JNklOaEluaTRTRUZmcmlveWV1MWNEZFB3cmF2ckpSbi0tRDBNTzJCQk9rX3NjaXZZODd0QkI0UUd3THZGb3NacXdqc2Z5ZThid0tjVm8wMG9pZXE1NG1hd2p5Y3FFQ1UzS0NjeWMxbEQ4ejNMWHZ2VS1KQVd3Z2xLcEV0Z1N5T1F6T091LXktRWh5RHZ1SFkxZjdfc1Fr?oc=5",
-          "description": "Vehículos, mercado laboral, inflación, exportaciones, déficit fiscal, balanza comercial y salarios en Uruguay en números &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-05-07T05:00:00+00:00",
-          "score": 3,
-          "score_reason": "Amplía enfoque incluyendo múltiples indicadores económicos más amplios",
-          "score_pct": 30
+          "title": "El costo de la crianza en Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTVVCeExmdDByWHZsWGNBRF9wdFJtbHd6V2VhM0FDWG5seXMtQ1FhNDRZelZ6RFVjY3U5RmNfMkpZMVZxbHQwQ092ZHAzSU1hWktPellPcE5pMGJWcE1ReGdDdXlGWEZtZlFER2F2SGdaeHpZUjhUaW9uLW9abDZtQmpUWlo3RERIVzBZ?oc=5",
+          "description": "El costo de la crianza en Uruguay &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-05-07T10:00:00+00:00",
+          "score": 5,
+          "score_reason": "Enfatiza costos, sugiere problemática económica implícita.",
+          "score_pct": 50
         }
       ],
       "analysis": {
-        "resumen": "Se divulgaron nuevos datos oficiales sobre la composición del stock animal en Uruguay. Los números muestran variaciones en las principales categorías ganaderas: aumento de bovinos y equinos, mientras disminuyeron los ovinos y las vacas lecheras. Estos datos reflejan transformaciones en la estructura productiva ganadera del país, sector relevante en la economía nacional.",
+        "resumen": "Uruguay registró cambios en su composición ganadera según datos oficiales recientes. Se observó un aumento en la población de bovinos y equinos, mientras disminuyeron los ovinos y las vacas lecheras. Estos datos reflejan transformaciones en la estructura productiva del sector ganadero nacional, sector fundamental en la economía rural uruguaya.",
         "coincidencias": [
-          "Ambos medios reportan sobre datos oficiales recientemente publicados",
-          "Los dos abordan aspectos económicos y productivos del país",
-          "Presentan información cuantitativa como base de sus reportajes"
+          "Ambos tratan cambios en población ganadera nacional",
+          "Se basan en datos oficiales sobre stock animal",
+          "Abordan sector ganadero como tema económico relevante"
         ],
         "diferencias": [
-          "El Observador enfoca específicamente en cambios del stock animal; Búsqueda lo contextualiza en panorama macroeconómico más amplio",
-          "El Observador mantiene foco sectorial ganadero; Búsqueda dispersa atención entre varios indicadores simultáneamente",
-          "Perspectivas distintas: especialización versus visión integral de indicadores económicos"
+          "El Observador presenta datos desagregados; Búsqueda enfatiza aspecto de costos",
+          "El Observador es neutral; Búsqueda sugiere dificultad económica",
+          "El Observador informa cambios; Búsqueda cuestiona viabilidad financiera"
         ]
       }
     },
     {
-      "id": "story_007",
-      "topic": "Daniel Radío postulado como comisionado parlamentario",
+      "id": "story_014",
+      "topic": "Cosse propone obras para Palacio Legislativo",
       "category": "Política",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Daniel Radío recibe apoyo como comisionado parlamentario, pero las normas exigen un nuevo proceso de designación",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQUlwajdvQUc2c25WU3BEeWV6SDE4NnFId3JUcERLRlpmWHpvN19IREJ5OURQNm82MnZtTHBZdkxuZXZEUDRKSDdKRFA2Tk5FWGRZU3NxcWdwRHk2bnI2NkQ4OEY1LUtad2JtaTJ4OWJGeVFKMEt3dG5pT29iRTh1YnF0NUtqTUhnU0k3ZTZTYkFWeWtKdUFJdjVKbktGYzhzUmItT1NrMF9JMDNVcGhMT1B5TGhfMV8zX3FVZzlmaUVuN3NZNU5TSHgwS1daVHBLbFZ3V19Gd201bjVUV3FoTDVTeG5DN1pXYkRVODJn?oc=5",
-          "description": "Daniel Radío recibe apoyo como comisionado parlamentario, pero las normas exigen un nuevo proceso de designación &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-05-07T04:30:00+00:00",
-          "score": 2,
-          "score_reason": "Equilibra apoyo con requisito normativo pendiente, muy informativo.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Frente Amplio y Partido Nacional impulsan a Daniel Radío como nuevo comisionado parlamentario",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbVhya0pwSXRZNTZ1TG5uYWtkNFhyLTZMOWszbjdodnlKYmV1cFlXZ2NnZ0NacDBsalF1ems1bDJiTkt4N1RVelAteXR3SkswVTUtQjJLaEhnVkJ5TjdKQ1llWUtMYXc5X2doelhoSVYzSUlvWm13bjN1dGhubW95MXpBQ0w4Z0xjRUw2VGs4azZBNHlIcV9FdmtJOVEwZkVkdEFpa2hNdkM3YkhvRjRHYi1qcEh3NFdNOGhZSW50ZkdvYjJraXVxV3NwOU5pMFo2SVRnZWtaTFDSAd4BQVVfeXFMTjF5Rmlva3A0TFFrdnRhNXpQczZuQWxFWERodVE0TkRXcjBES1pnSmx3RXNNak85eV9tUjhxWFBtQXVWQTJ5Y0IzTUFQUzMybENJajNTdEpFUXlxaFdIeUIzTmFPaGtlS1ZzbzlHMXpLVU9mQWZob2dsMzctc2JHSmhzdmVYd3JtbVc2dVdZMjdHTEs0akZrY3B0SVEybVNCckt0SHVzVHZjRTNqMmxtZnR4Vl95Nlp1dUVzSEJLWjRWX0lSeHFMR1pYaF9hWllaZDdfbVZKQW9pdVdhUVR3?oc=5",
-          "description": "Frente Amplio y Partido Nacional impulsan a Daniel Radío como nuevo comisionado parlamentario &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-05-06T15:36:00+00:00",
-          "score": 3,
-          "score_reason": "Énfasis en el apoyo político sin mencionar exigencias normativas.",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Daniel Radío cuenta con apoyo de Frente Amplio y Partido Nacional para ocupar el cargo de comisionado parlamentario. Sin embargo, existe una situación normativa que requiere realizar un nuevo proceso de designación formal. Los dos principales bloques políticos impulsan su candidatura, aunque los procedimientos reglamentarios deben cumplirse adecuadamente.",
-        "coincidencias": [
-          "Daniel Radío es apoyado por Frente Amplio y Partido Nacional",
-          "La candidatura es para el cargo de comisionado parlamentario",
-          "Existe una situación de designación que debe resolverse"
-        ],
-        "diferencias": [
-          "El Observador destaca solo el apoyo político, Búsqueda añade la exigencia normativa",
-          "Búsqueda problematiza el proceso pendiente, El Observador lo omite del titular",
-          "Enfoques: El Observador informativo-positivo; Búsqueda informativo-equilibrado con salvedad"
-        ]
-      }
-    },
-    {
-      "id": "story_008",
-      "topic": "Investigación de restos en vertedero chileno",
-      "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
         {
@@ -485,64 +917,13 @@
           "source_color": "#1B5E20",
           "source_text_color": "#FFFFFF",
           "source_url": "https://ladiaria.com.uy",
-          "title": "Mariana Mota: investigan posible presencia de restos de desaparecidos uruguayos en un antiguo vertedero en Chile",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdnJ0TGJqWlkyRjh2TEVVU2pINzhsb01RMEktV2FVTzI3cFNrSExfZ1NiZEtuUGhwcldRUTc1alppRmktOFJyTVEzWDdtUktWTU9VcnlfTU56dUNuU1lzc251VnhDdEZoZlpnYkZNV0VTc3ZZS1BzaG9oTElYbDNSRGtXa3BRNjZubFFGbXljV19vNzRpYkQtOXdPWTlYTjdGTm9VSzlndFJmeVc5cU1JYW4tTHkxZWs2S0pFMkc0SVV2QjZpN3hVRHhPOGVFUkJKZ21GOG9lZDBaVTdqMkdSQWxkeFV6cThPZFo5M3NHdWVIdmRhRGJVVzQxMUxGOU5rMG0wR2Rn?oc=5",
-          "description": "Mariana Mota: investigan posible presencia de restos de desaparecidos uruguayos en un antiguo vertedero en Chile &nbsp;&nbsp; ladiaria.com.uy",
-          "pub_date": "2026-05-06T16:44:27+00:00",
+          "title": "Cosse propuso obras para el Palacio Legislativo por los 100 años del edificio",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRV9JYXdZaDdJSW1tTjl6bkFxamw0OGhjM0JwLXVpaW5wTXM3dS1uZTdxVW9vQTNJYS04Z3Y1cTJYTGpYVGRoeE94Vk1ucUxjQk1rUHd4Ql9RNnJWNG0xZjhlaGo5VVoxVWVWdTdUU0E2RDhPX2NfaTZYbnlNWm9QbFF1RW5ZVVNYZXR3V3J1dU5zeTgtMm5zekNNYVI3eHdxRlhMZHhrcUNxaThLM0hZUWhPcVk2dlNCQ05YM1lrcG9OWnk5dEHSAdYBQVVfeXFMT3JNU0NyekV6YlBYY1N3UHFrU3BtSXVFenhhYlk1TmpsS0ZPaks2UHRGcEtDSVZHdGNXVEppeVdRQ0c0Rk5haUE1N0pCemp5ZFllbko0anBXVWZhNGd2NjQ0U3JGMWk4cUZMS0dxbW90NU9sdzJwNEE3SnBxcy1tWkJGVzVnc3BVVVliejRmaHBQcHFpRThrT0ExdXRfVThWZ0thTFRySmFNWmh0RnV3TjhXVDNKRWJlVm44ZTdDRk85M2dBdlEtNzJfdE1GclZzYkp4cFBEUQ?oc=5",
+          "description": "Cosse propuso obras para el Palacio Legislativo por los 100 años del edificio &nbsp;&nbsp; ladiaria.com.uy",
+          "pub_date": "2026-05-06T23:38:19+00:00",
           "score": 2,
-          "score_reason": "Lenguaje objetivo, usa 'posible' y 'investigan', sin carga emocional.",
+          "score_reason": "Titular descriptivo, sin carga emocional, enfoque factual.",
           "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "El último video de María de los Ángeles Colinet antes de desaparecer: qué se sabe del caso",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWHk1aXp3NVItaUJYelNIMzNudW1HbWxpd00zY2RieVY1M0FpNmJoVVc0MER6ckVZdHJmWE5CdENMbEU4VzVldUVvcXpUQ3JubTJFUjBhb0ZtcndmOVhURVlxTFhublE4WVkySmNETk92bVZrbWZyLUItc1NBWkdlXzhpQXE1UVQ2V2habXRDMWNuQkc1bTc5WjVvUGVjcWo1dGtzWkJEOUdOQXhwMzRlZ2ZHZmdqM3g2MmRnQTF6c3pjSGpPS3JPY1V6OVZSVVR3YVdF0gH3AUFVX3lxTFBDUk5IU0EzQkNabWdDS3dzaktfNmRDeGdXUnJFcndMR3JpSTBGNXdNdy1DQm1zWUkybG5NZ19ER05NWHBHTmlFN3JZOWtlaEJXNGUwNnlCMGotdVRXNmVETlBsQVh5MDNTVlBMUzdxX0NueHlISnBLUXpFdDNUNjVBU0l2S3A4ZzQySmdBRW5TZXNMUFFkeWY0Y0l3dG84Qk5ZaTkzc2tseVA1dmdlbDBGeEtReDFucEl1VGh5VFBMakw5cE81OEZSRHRPd3lVWkNZYmV3Z2MxOHEzY2RjZnpvSzQyMUFGVlVydWhlUlB6enNhamtPTm8?oc=5",
-          "description": "El último video de María de los Ángeles Colinet antes de desaparecer: qué se sabe del caso &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-06T16:49:00+00:00",
-          "score": 6,
-          "score_reason": "Enfoque sensacionalista en 'último video', genera dramatismo innecesario.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "Se investiga la posible presencia de restos de desaparecidos uruguayos en un antiguo vertedero en Chile. El caso involucra a Mariana Mota y María de los Ángeles Colinet, desaparecidas durante el período dictatorial. Las autoridades realizan pesquisas en el sitio para identificar posibles víctimas de violaciones de derechos humanos cometidas en el pasado.",
-        "coincidencias": [
-          "Ambos tratan desapariciones de uruguayos durante período represivo",
-          "Mencionan investigaciones en curso sobre casos históricos",
-          "Refieren a víctimas específicas identificables"
-        ],
-        "diferencias": [
-          "La Diaria contextualiza la investigación global; Portal se enfoca en detalles dramáticos",
-          "Portal busca viralizar con 'último video'; La Diaria mantiene registro informativo",
-          "Portal personaliza la historia; La Diaria la sitúa en marco investigativo"
-        ]
-      }
-    },
-    {
-      "id": "story_009",
-      "topic": "Bala perdida impacta casa de dramaturga uruguaya",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Una bala perdida impactó contra la casa de una conocida dramaturga: “Bien, pero asustadas”",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNDg5VGFnT2ViS1NQSWkzR2F6QkUzZzRla29hb19mVlBCQWFWUHVjMTJ5R3lqa29saDVyVkYwSDZpVlEzN1duOTVLV1U5aE1aQTV3bjc3WFpBcGlfc2xpOE5tSTRVWGxjZ2E5dDNFemxSSGgzX05GQUFPU25SZC03Y3JzcUlVMmtyTjBsNXlyLWl2NW9qRldkZG13cE1UUEc2akppOUtkNmF1TF9KX3lrTTJJQnFlSWRqQUs4SUFvX3h6el9nX2p1WjdJQWRQeDNEV3fSAfYBQVVfeXFMT21peEVaQlFWQkFnWmZkWGotdUttWG1DazBacF9CWm4yWmprSkhfQi13Q2RMRFFZNUpENUJMYmtmcDNha0NyT1RzTEFrU2FzVEdEYlRTbFk1djFJeGRVOU9LWnRkcFNQU0pxczVadDQ4SDdKT29KNFdzdVJxQzkxVXZFTkxLTVkyVUdfZjc1eEo5d21XYnZWaXpkd2ZqU1ZTMklsekJKbjJhLXVfYkRVTDVPT3MxRTdoR2hFMnZMVC1FaXllcFNCaHdBdFBDS0lFLVZuYkRabU93bG02ajVkTjBmUHo0X1JCMWR0dHk5Vm5GSDJJWWN3?oc=5",
-          "description": "Una bala perdida impactó contra la casa de una conocida dramaturga: “Bien, pero asustadas” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-06T11:25:00+00:00",
-          "score": 3,
-          "score_reason": "Incluye declaración directa para humanizar, ligeramente enfático.",
-          "score_pct": 30
         },
         {
           "source_id": "subrayado",
@@ -551,304 +932,49 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Percovich tras bala perdida: \"Lo que impacta es que vos te sentís muy seguro en tu casa y estas cosas pueden pasar\"",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSlBaQUp3UTl5UXM5MEZXa1A5TkV6WUxXNmZpSmJVbGo2TUZBUHQ3Z1BsWlhqZEhiTjY2NlFKX1RJNjlTYjloRzZCblZWRTBvUnE1TVNDM3FzeDJkMjNsWndtUjVqR1lvN3R2b1YtTWhZdGs3MG1yamVfVW5sdktVbmRaUXo0VWFwb2RiRzN4QXkzTk5oVmFQak5VMGRycWJjaHl2WFVFVkJwOWZwOTJCS0NmakpfRmZROFlwRHJ2aXRKaVlzbUs4ZlIyanRhRW9LelJ0TUVhX3dsZ9IB3wFBVV95cUxObm5DaVFPczNzWkVsWDZhYXNFMDAxM0h6Vzl5Y0czOVlnYTVfVWp3N1BETVoxSXJGbnFfbVpncUUzSzl2SUF1aHdRWFRuLW1famNXOGVLS1plUURNS2V4Q0xzdWY2MlZRdmlJOEhFSzU1Wi05RmQxNzVvTFJRVDBvOFNCU0JBV0lPVkJVSC0zOTlHY3FXTG9qb25TVzZjbG9ySWE5cl9aOHpkaG9nTGxhdjBMV3psVUpkTWpQNGpQZ2JXUXhteEprRk9fWWZoQnJMaTdCNndsVTZHWkp1cjdN?oc=5",
-          "description": "Percovich tras bala perdida: \"Lo que impacta es que vos te sentís muy seguro en tu casa y estas cosas pueden pasar\" &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-05-06T21:47:00+00:00",
+          "title": "\"Corresponde por ley\" que Comisión del Patrimonio emita su opinión sobre obras en el Palacio Legislativo, dijo su director",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZEZlQ0ZPYURSbXhpcXFMcW44bWNsbm4tbE5LNGJCQ25tREZBT19lVkRpWDdDaVNYd3c2Qy04R2N0TlJpaDVZczN4SkZFUkxhWDJjejlSQzAtNXJ4NGFla1ZYcVlNRENBeTVpakRzREhHOFZQTVdhWXNDQ0VGN2tvYlJHMWRWbGRKYURaVDhuYV9OVENta2pSVUJqaG1HM1ZKbzhnWE1nUHE0aHNPUzRGMWRYdjhySTl5MHA0elhGd0tvUzhPbHVDMW5RRkd0WFBZMWtURXFkR1d5SWRu0gHiAUFVX3lxTE0ybzF0MGNKOXVVbG96TXFPVWVxNnpwT2s3OE4xTlFWMzR6YndoUDR6Y0xKaU9LR2lGcEdCYnJ0NVB0eVFJRl9PMFVXMmlfV2dvQTc5NmZwVlROeWNUTkx3RmwyYUEzV2M4N0FkZFRPcUZnRTlaSXVnYU9wR3NmTGR5VmZaYTJSVWNLbVl2cFlENlJPMDVNUU82bXNZY1dvb3YzXzVIbElqN09raDJMaFZPNHpqaFl1ZlVkeXR5VWpJRFlOMVNLTVpLQkxVNC14eUdROFNJbXZVVVVLODExdENlMHc?oc=5",
+          "description": "\"Corresponde por ley\" que Comisión del Patrimonio emita su opinión sobre obras en el Palacio Legislativo, dijo su director &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-05-07T23:07:00+00:00",
           "score": 4,
-          "score_reason": "Destaca aspecto emocional y reflexivo de la víctima sobre seguridad.",
+          "score_reason": "Énfasis en aspecto legal-procesal, destaca requisito normativo.",
           "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "Una bala perdida impactó contra la vivienda de la conocida dramaturga uruguaya Percovich. La dramaturga y su familia se encuentran bien pero asustadas por el incidente. El hecho refleja preocupaciones sobre la seguridad ciudadana en espacios que se consideraban protegidos, como el hogar propio. Percovich expresó su inquietud respecto a la vulnerabilidad que genera este tipo de situaciones inesperadas.",
+        "resumen": "La intendenta de Montevideo, Carolina Cosse, propuso realizar obras de mantenimiento en el Palacio Legislativo con motivo de los 100 años del edificio. Según reportes, el director de la Comisión del Patrimonio señaló que corresponde por ley que su organismo emita opinión sobre estas intervenciones antes de proceder. La propuesta implica trabajos en la infraestructura del histórico edificio.",
         "coincidencias": [
-          "Ambos confirman que fue una bala perdida contra la casa de Percovich",
-          "Los dos incluyen la reacción y estado emocional de la dramaturga",
-          "Ambos medios dan voz directa a la afectada mediante declaraciones"
+          "Cosse presentó una propuesta de obras para el Palacio Legislativo",
+          "Las obras están relacionadas con el centenario del edificio",
+          "Existe un proceso normativo o institucional involucrado"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza el estado físico positivo ('Bien, pero asustadas')",
-          "Subrayado privilegia la reflexión sobre seguridad ciudadana y vulnerabilidad doméstica",
-          "Portal usa tono más ligero; Subrayado subraya aspecto problemático del evento"
-        ]
-      }
-    },
-    {
-      "id": "story_010",
-      "topic": "Juvenil Juan García posible titular en Nacional",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Quién es y cómo juega Juan García, el juvenil que sería titular en Nacional ante Tolima",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUXd4ajctUklROVhFaXpYbHNzRllYb0dFLS13ckc1LUFzWGdQUGRQUEF4TlQzQ0RqZGc2WEdQVnIzOGVkdjBnWjVvczhKejlxM0x4eHhLbjdOMHRCLXB1ZkF2eUdwY1lib2tQZ09Ga2dhMDRMTGZzRnJtQzFjWHJRa1gyY3lzajBPdUNrY0dwY3NLdEFudVQ5M2k4Y2VVYXQ4Q0dHUlRaSUhsMDlDNGZBeTZ4NzNpWVRJYjcwU3ZiYlI2aHVkVjJSaG9KeV9fenfSAfMBQVVfeXFMUEQyejZ5UnNWM1kxcThMcFJLcC1vdVBQNEFIcERmSjZEclZ5V1UtOHNmclZxN01yM0hRYVVTN3FhTkRoUE02dVdka01xUUNyLV92a1dONFhreG1VaXBONTNKSmQ2b1hkSnRraVFHbDhzdjg2SjlUMjlOOVRJYXBQVWFyU1I4NVh1d2xZdmFQMVpNeG94WkpQTlo0NGt2ZWpFaDZMT21JclZuY2Z2djJhZjFLcFU3bDFnbThCYU5tdDJudVZuWWlqMFQ2Z2kwQndYUFVncmNMX3EtTFN5dlJQblAzN3pMYnNGa1h2Z05wMU9wNEV3?oc=5",
-          "description": "Quién es y cómo juega Juan García, el juvenil que sería titular en Nacional ante Tolima &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-06T13:59:00+00:00",
-          "score": 3,
-          "score_reason": "Presenta hecho con leve énfasis en juventud del jugador.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Jorge Oxires Otero Sesca",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvaW40WjZKdGlrd1h0dVk3TkQ3RHJSbXFMbzdQYU9RaWhSRTh2TWlfSV9XOE04b0ZpODZ3UDdERmhNU0hSa0VTTW8xSzlaVGZ3RHA5QWE0YlJmUF9uanZCd0pXdU9icGZMd3FaZ0oyeHI?oc=5",
-          "description": "Jorge Oxires Otero Sesca &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-05-07T03:10:27+00:00",
-          "score": 9,
-          "score_reason": "Titular críptico sin contexto claro, muy poco informativo.",
-          "score_pct": 90
-        }
-      ],
-      "analysis": {
-        "resumen": "Nacional podría alinear al joven jugador Juan García como titular en el próximo partido contra Tolima. Se trata de una decisión del técnico que busca incorporar juventud al equipo. García es un futbolista en desarrollo que tendría la oportunidad de jugar un partido importante de competencia internacional. La noticia refleja la política del club de dar oportunidades a sus futbolistas de las divisiones menores.",
-        "coincidencias": [
-          "Ambos refieren a un futbolista relacionado con Nacional",
-          "La noticia se vincula con próximos compromisos del club",
-          "Se menciona la alineación o participación de jugadores"
-        ],
-        "diferencias": [
-          "Montevideo Portal especifica detalles del jugador y el rival; Grupo R es completamente opaco",
-          "Portal ofrece análisis del desempeño; Grupo R solo menciona un nombre",
-          "Portal informa claramente; Grupo R parece un titular accidental o incompleto"
-        ]
-      }
-    },
-    {
-      "id": "story_011",
-      "topic": "Pareja neerlandesa con hantavirus visitó Uruguay",
-      "category": "Salud",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "MSP realiza investigación epidemiológica tras conocerse que pareja neerlandesa con hantavirus estuvo en Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLUJGZmlmZVRGTm1DRFJ4VU0yS2hCb2U0aHVCOE9LNVFoRWpYVDUxYUtqTXJ4eDd6SUM4ZTIzZEFFWENaa0lxTnVtYU5vMDFtdGdSVll6V1Ytdks4V3U2VVpWZXJKQkVJWkdyTFhyenZSTmQ3R3Q1MGJndmgxNmFhQmlWc09NaGZuQzEwUXE0a1VUcWZvUzF0dG93NEN4eWljcXJqMGxVNWFMUkhXRVMxeURMYVpIYkpUOG1KeGF3c0Y1eDRkWVlGWTNzU0hzZmpFMFE00gHYAUFVX3lxTFBWMUhhZTRSOFZfNUM1cjMyblV6dE5rNkt5R2ZJV0wxWW5KQXlDUnF3aGk2OGMtNHhNTDB5RU5uaGpoX3V6eXQ2aDhQSGF6WHdIWG9ZLUk2d2lzbTFsd2xENWdLQnF2Q0JaZ3JOc2kySTJWUmRrTVRfc3dmbEtSUlZuNmZVT2FLUG9QeC1XanJ3bUk1anFXeFpfNDgwVmhWVU9Hb3BocUhkTDB4VnEzSHo2ZU0zVVFmOS1IR0VLWGxtdlhPd0NjclUwN3h4ZVFkSm9QQ20tcDRRbA?oc=5",
-          "description": "MSP realiza investigación epidemiológica tras conocerse que pareja neerlandesa con hantavirus estuvo en Uruguay &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-05-06T23:06:00+00:00",
-          "score": 2,
-          "score_reason": "Objetivo: reporta acción institucional sin sensacionalismo.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Brote de Hantavirus en crucero: la pareja que murió recorrió Uruguay, Argentina y Chile",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMXUxdEl0Ty05NFA5cHNmUzN2YWNBbDA3MWFqakZudnBoSlZYNFIxUnlCVVFIZHhrQzliSVRmRHlZRG1BSnJoREtZZ084d2FDZUtqaHphWjBwb050dTBqUEYtRXJEbWRkTlNvV1FydWVJSnRVSE1qYlhZMGJNMDRwcndxc3M4LWFWMy1UODN4SkVKT1RPeXVnV3BkT1RZbzBwMDdQMUhBQVZHR25oakJ1NlJSVlhRaEZxMndGZzVNRjUxVlIwVDlqUzd2UkdRQdIB8gFBVV95cUxQMUpNX0RhWk5wNmV1RkozN2Nqam9oS19KZFo0LVEzd2c5UnY3cGFLV05IeXI5ZnEzR0czbGxmUkEzTzhMNlpudjlEcHNqNXN2dHliOElFWl9jd2pkVXpTY3AxMkhfTFNoV2hkZkYtTkZZeHBhUi1mQTJ6VTVHQ1JTVTJuZlF5ZGdzLThGMGpNSnoyNG1iNU5nZFhtcHAtMVViUXVXeDZQakJkVU9Pemp0aFhXTEZOaXNxeW0zZl9PejJUMi1zM2FiVHlsWGQ1Y2hWdWwycko3YkJEYVJzYTh3azI0WmtQMHdQZE5pQTkzbHExUQ?oc=5",
-          "description": "Brote de Hantavirus en crucero: la pareja que murió recorrió Uruguay, Argentina y Chile &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-06T21:23:00+00:00",
-          "score": 5,
-          "score_reason": "Enfatiza muertes y destinos; genera expectativa innecesaria.",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "Una pareja neerlandesa infectada con hantavirus falleció tras realizar un viaje en crucero por Uruguay, Argentina y Chile. Las autoridades sanitarias uruguayas (MSP) iniciaron una investigación epidemiológica para determinar si hubo contagios locales durante su estadía en el país. El hantavirus es una enfermedad viral potencialmente grave transmitida por roedores.",
-        "coincidencias": [
-          "Confirman que la pareja neerlandesa estuvo en Uruguay",
-          "Reconocen que el hantavirus es el problema de salud",
-          "Mencionan investigación epidemiológica de las autoridades"
-        ],
-        "diferencias": [
-          "Montevideo Portal destaca muertes y ruta completa; Subrayado enfatiza respuesta institucional",
-          "Montevideo Portal usa encuadre de 'brote'; Subrayado usa 'investigación epidemiológica'",
-          "Montevideo Portal busca impacto emocional; Subrayado prioriza información oficial"
-        ]
-      }
-    },
-    {
-      "id": "story_012",
-      "topic": "Nacional perdió 3-0 ante Deportes Tolima",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Nacional cayó 3-0 ante Deportes Tolima por la fecha 4 de la Copa Libertadores | Noticias | Fútbol Internacional",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQajJweVIzOFlmUGdlUkFyMXBZcXNlN2d0Z19PWWtzMEswZWhRYlkxX1htLUU5d3N1TS1iOHBOLWozUGQwNU5Uak9yNVYwR21QdXJzRkVPcXVjZnQyM3BEREV5UGlEeTY3V21nNHdKdC1VUUdxcVFFczRXalNYeVBGbGRPZzlWYl9wM0NUdmtKTFU4YnBBc0ZBQm5NTlM3NExyTlRUZGN2bXVJWWFfc2hUbFgzSk5ab3k5ZTh1Q0RtY0JfRm1vV09mWg?oc=5",
-          "description": "Nacional cayó 3-0 ante Deportes Tolima por la fecha 4 de la Copa Libertadores | Noticias | Fútbol Internacional &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-05-07T04:45:16+00:00",
-          "score": 1,
-          "score_reason": "Título puramente informativo sin carga emocional ni interpretaciones.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Libertadores: Nacional dejó muchas dudas y fue goleado 3-0 por Deportes Tolima en Colombia",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDBBR2l5TGpSVHhNVEIwYndaZHJhOUFMamE4dkRySHRya19lcWJNeTc4OXJJQ0ZsYW9RdElhWDNCZk9zaDZjbG1HMS1jR20tRzFxUVlaUzFIRy1rRXAwMERzYUd1elZNLWU2eEE4Y2FqdU1NVUp0REVOZ2ptVGRDekROYXVHYnVSSUl0Wi1yZ0Q2ODM5bHVwVVdfQXZjOEVnbVp4T1VNX2VfQk5WbXlFTGtvNU5relhXclNRcklvVHYya0M1ZGtlYUstYVM1RzhWYWxF?oc=5",
-          "description": "Libertadores: Nacional dejó muchas dudas y fue goleado 3-0 por Deportes Tolima en Colombia &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-07T04:04:00+00:00",
-          "score": 6,
-          "score_reason": "Añade análisis crítico ('dejó muchas dudas') más allá del resultado.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "El equipo Nacional de Uruguay fue derrotado 3-0 por Deportes Tolima de Colombia en la fecha 4 de la Copa Libertadores, jugado en territorio colombiano. El resultado fue contundente para el conjunto uruguayo, que no logró competir de manera efectiva en el encuentro de la principal competición de clubes de América del Sur.",
-        "coincidencias": [
-          "Nacional fue derrotado 3-0 por Deportes Tolima",
-          "El partido se disputó por la Copa Libertadores fecha 4",
-          "El encuentro se jugó en Colombia"
-        ],
-        "diferencias": [
-          "Montevideo Portal incluye juicio crítico sobre la actuación del equipo",
-          "El Espectador mantiene tono estrictamente informativo sin valoraciones",
-          "Portal enfatiza dudas y deficiencias; El Espectador solo reporta resultado"
-        ]
-      }
-    },
-    {
-      "id": "story_013",
-      "topic": "Playoffs de Libertadores: Nacional y Peñarol ganan",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Nacional y Peñarol pusieron sus series de playoffs 1-0 | Noticias | Básquetbol",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEZEc25rdDhHWHYtYWQxNE0xV0NXXzdQQXpHdUhxclJRSGp5SW5vZ0NMQnZ1MXNLcVRjQUJPMkpNc1VDUVpOQkhrVUFJR0Y2VG5iUU5rbEoxekMxV1VFM0tvcDZpM2RYbTY0a2xmVXRybHdWZEFWZl96ZGVDOHZBRzRmNHJsU013VWs0TGI0UWpKb0hKUGdjdWg3dm5LQQ?oc=5",
-          "description": "Nacional y Peñarol pusieron sus series de playoffs 1-0 | Noticias | Básquetbol &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-05-06T13:20:26+00:00",
-          "score": 1,
-          "score_reason": "Título neutral y directo, solo reporta resultados sin adjetivos.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Libertadores: Peñarol tiene este jueves una final anticipada con Platense en Vicente López",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcUdfWmpPMWNjN245OUJhb2UtY3E2VDJ1Q1gzQUE1Y0l6eFI5RkZ0TXdaSE0yWFpzbHFMZ1hVMk84N2lQd3FSZEtKZVFnaTIxQlBkWU9MVzZ1SnFzeW5NaDBBMFdaOVFYV3hqYUJJV3FFQ2p5WlIxUGR5SDZ0ektrNGY2VGljblVaekRTWDVkVEFfdzd5aTBDVkVNSlp2bmlMR1NWZ1hDc3NGOHRHQzZLUUdYTy1RZnp3Nnc5OVVZdUwxNE5za19DX2dTem8wZjF0eThz0gH3AUFVX3lxTE5JVTZKNkNNLXdqU1FnZ0V1ZkluV3NsbGVzUXdTZVpKYkM1ZnB3SU1LSkEwaWE1eUkwdGp0WmljODQ2U2RRWnI2Z1lBWU56NHFaUXdGY2tONDdzVGF2anhzZ0tCaEp0Wm42OVJaNTdGSDZmQVpfRm9na0lBWGpZYXRzaEMtM0Fwb1Z0VnQzX0ZKbXYzUUNBX3pwb3Nza0xoM2ZCVHRSVVpzVkdvdGlvc0hNUk5fNDhrTWotZ25pdVhIeGNSZV9rTGUxcmxYMVRIQ2ZWd1NjN2JaMHUyRWU0NjJSWE13eXVxWnRsQ3R5WktmU05VQlAwaFU?oc=5",
-          "description": "Libertadores: Peñarol tiene este jueves una final anticipada con Platense en Vicente López &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-07T00:15:00+00:00",
-          "score": 6,
-          "score_reason": "Describe el partido como 'final anticipada', lenguaje dramático innecesario.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "En la primera ronda de playoffs de la Copa Libertadores, tanto Nacional como Peñarol lograron victorias para sus respectivas series. Peñarol enfrentó a Platense en Vicente López en un partido decisivo, mientras que Nacional también aseguró una ventaja de 1-0 en su serie. Ambos equipos uruguayos avanzan en la competición continental con resultados positivos en estos encuentros iniciales.",
-        "coincidencias": [
-          "Ambos medios cubren victorias de equipos uruguayos en Libertadores",
-          "Mencionan la serie de playoffs 1-0 a favor de los equipos locales",
-          "Reportan resultados de la primera ronda de playoffs"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza dramatismo con 'final anticipada', El Espectador es factual",
-          "Montevideo Portal destaca solo a Peñarol, El Espectador menciona ambos equipos",
-          "Diferentes niveles de carga emocional en la presentación de la información"
-        ]
-      }
-    },
-    {
-      "id": "story_014",
-      "topic": "Alertas climáticas y vulnerabilidad portuaria en Uruguay",
-      "category": "Otro",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Uruguay bajo alerta: avanza una masa de aire con “tormentas severas, vientos y granizo”",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRDJ6dmtkaWVFTHZTS3dxLVdJVS1KeEpYWHcyUGJtamFHVlljQWJuMDJ1OWd6NVFxUHZUaTR4RW4wWlZIS09zRUhqZ2M1cEpQVXBPZ3hzT2VJTjdlRF9zRlZIMnVXUy00TDJhN2hMcDZYeE54NzA0ejlLamkyNGpnNmVyMHZfYWtJUlRYek93bmJJMnB6U2gyTDVfdG1CWTVITFJZcUVMaW9rNFhUaGN3eFphbGRPMmNfNVV4MnBCaEtpamdVWEZQMDNFUFfSAfABQVVfeXFMT2VCQ1NpdGxfQXUzMVpVMHlkMXptcmZvVkhEWnIxamZjNlVzYmhKcmppNFN6dlA1UmZPV3IyNWdfX1NwdEN0X0JwOGxxLU8teV9TOE11QlRlM3R2Z0tXTFh0N09CSUw1Y1d1cG5QbTAwMWd1TnY4eHFEWHgtQnoweWVLNmhKTE5vN2oxV0NaMFlyeFFJM1BBenpKNGR0MFRpZDBodE9zM2NJenBhOUV1U3hQdzA3THJjT1lQenc0VjdicW9EZDRqanotUmlkcXFpaFNEdDlFcHY5NG9OTXNUR2RibmpySXQzR00yOFVFbkJi?oc=5",
-          "description": "Uruguay bajo alerta: avanza una masa de aire con “tormentas severas, vientos y granizo” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-05T23:55:00+00:00",
-          "score": 5,
-          "score_reason": "Usa palabra 'alerta' y términos alarmistas sin contexto específico.",
-          "score_pct": 50
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Katoen Natie advierte “condiciones de alta fragilidad” en el Puerto de Montevideo por falta de dragado y tren",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVHB2WFVjMVJXT1NWWWV0Vy15QkR5Um1QSnlIeFQtcWlHenVwNW9yRkJGSHc4eGxfOXJyT3FZaHBXY1ZxNDNTNEVqdUNfR19LeGVYbmlpXzJ5dGo0SVgyMXV2RFdXTGc4QjNrbnZ0TzdWNExOeXozcWtfMVBnWjBYdWZVZmc3Qkw2UlVpN3RKSU81RHV1bjJvdWN1X2VNUWFXVG1ObC1lTzZLZl96am80Y2RFU0ctSmsxUFZmcWtuNDdMQ0I2MnUtUDVoT1RRcWlKaWZn?oc=5",
-          "description": "Katoen Natie advierte “condiciones de alta fragilidad” en el Puerto de Montevideo por falta de dragado y tren &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-05-07T05:04:00+00:00",
-          "score": 6,
-          "score_reason": "Entrecomilla 'fragilidad', enfatiza vulnerabilidad; tono crítico implícito.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "Uruguay enfrenta dos situaciones de alerta simultáneas: una masa de aire con tormentas severas, vientos y granizo que avanza sobre el país, y advertencias de la empresa Katoen Natie sobre la fragilidad operativa del Puerto de Montevideo debido a la falta de dragado y conexión ferroviaria. Ambas cuestiones plantean riesgos para la infraestructura y las actividades económicas nacionales.",
-        "coincidencias": [
-          "Ambos reconocen situaciones de riesgo o vulnerabilidad en Uruguay",
-          "Tratan problemas de infraestructura y servicios críticos",
-          "Se publican en contexto de alertas informativas sobre amenazas"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza fenómeno climático natural; Búsqueda, responsabilidad estatal",
-          "Portal usa lenguaje meteorológico; Búsqueda, lenguaje empresarial crítico",
-          "Portal trata amenaza inmediata; Búsqueda, problema estructural y crónico"
+          "La Diaria enfatiza la propuesta de obras; Subrayado enfatiza el procedimiento legal requerido",
+          "La Diaria centra en la acción de Cosse; Subrayado centra en la opinión de la Comisión del Patrimonio",
+          "La Diaria usa encuadre más positivo; Subrayado usa encuadre más procesal-regulatorio"
         ]
       }
     },
     {
       "id": "story_015",
-      "topic": "Visita de Orsi a portaaviones estadounidense",
+      "topic": "Denuncia sobre irregularidades en Agesic sin investigación",
       "category": "Política",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "ladiaria",
+          "source_name": "La Diaria",
+          "source_short": "LD",
+          "source_color": "#1B5E20",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Para Ojeda, visita de Orsi a portaaviones estadounidense fue \"una señal de cooperación\"",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkxpWlBFb1NhZ0lGQ3UwTzVVOGYxRnBSVFZvd1R5VjVxYnlPSlk5RWQxMWttUWlNYVNqX1piZG9ocFlLTWlTd3A1TzM5UGhHSE91ZGVwRGp2a04xOV9id3E5ZjBJbmxCMEtJbkZuN196UFBLbUxzWEZwdnh2V0NDczd0eVRNODJQNGx6NFBEMUFXUmJ2czh2TXU0NjFYa2ROQ29HT1JNREVmMTJsZXBOM0ZBRznSAboBQVVfeXFMUFk1V2xVdUd5eFJqM3V0cjdCYTV1clZhQkdjM0gyNFN0MnpMamdWVnZubTNmQTVlMXpzZHZWbmtyYkF6SUVUZDVMYVQzSV9Hb3FsbGtacTFZRGtOWmZUSXJoTG1qX3d1WUJPeE1hNThzMjNtOGlkVW44ZWVPTHZlakdkYklyTldWbnZicU9BNlN4SWg3bDJhdVZiOTNVb3VwVHc3UkFYZm5SRWZld0JBLVRpOVhmeHp5NHVn?oc=5",
-          "description": "Para Ojeda, visita de Orsi a portaaviones estadounidense fue \"una señal de cooperación\" &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-05-07T00:31:00+00:00",
-          "score": 3,
-          "score_reason": "Presenta perspectiva de Ojeda de forma neutral pero selectiva.",
-          "score_pct": 30
+          "source_url": "https://ladiaria.com.uy",
+          "title": "Presidencia no inició una investigación administrativa tras denuncia de exdirector de Agesic sobre presuntas irregularidades",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYkRjNHFsVFBFZHlpcVY2VnFraXcwVGxZNnRlRHJ4d3VHeVNlSWF5ZV8tUFBUeEIxMjY0T0RWVUdMcG81QnFTb24ybzUzU3dzd1NzdkhRNmtLNXJHRERvOGVqMHU0SEpBUzNBTm4zX2dKX3laSjUxa0hSUzlaUU0zTm9KcnJyWXVxZEl4LUVuZ2V0VUJrbmtxQ1NaX1kwWUdzMktnSEltVV9fRGI5dDd2azlQREtCcEdrUnZDdExrc296Nm9qVTBLWWlVbTFUekU5cU0zX3hpU2xXWU44ZmU3VzVESHlCWUcyZ3ZQYnQzMlN3VmVWM3lRWkp4anA0Q1BTRUVLYtIBlAJBVV95cUxOS0JpQkFpOXlYTWtlMXdPUW9oRUhNUUx2Vm5Mb1laSFg1aFZPWWJwQ0VnTHUycnVOa0xlOFZSbnNYVXIwQ3lFU016ZGhodFJQX200TmVUbkVxWjhlT3JXS1pBeEgyeFFxaW5BWi1OUVk4S1Zlc1BIUTZ2N1BCc1ptQTNIVl9CeTFVN0VEcWh0UnlPZmxQeDlCeUg0Q0w5TldacHJDWjNjMzZMaEI1cVRJcjFKdTg2cjlKMkxBMGRqSDZuaWpoTUZ6VXYzVk9RZ2ZEWWNqdW5GSVMxck9fblRNUGEwdWh5d2RjbUhLMFNMS25mM295SDFXT3pKOEx0Q09qdC1Td2dOaWdwY3RERm52YjdwaXU?oc=5",
+          "description": "Presidencia no inició una investigación administrativa tras denuncia de exdirector de Agesic sobre presuntas irregularidades &nbsp;&nbsp; ladiaria.com.uy",
+          "pub_date": "2026-05-07T18:33:09+00:00",
+          "score": 2,
+          "score_reason": "Lenguaje neutro, enfatiza acción no realizada sin dramatismo.",
+          "score_pct": 20
         },
         {
           "source_id": "busqueda",
@@ -857,33 +983,33 @@
           "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.busqueda.com.uy",
-          "title": "Visita de Orsi al portaaviones tensionó al Frente, mientras Estados Unidos destaca el vínculo “muy bueno y muy fluido” con el gobierno",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZVozcDVFeTRGeGh6ZzVnWHFtUndGN3U0NEs4Z1BVTnU2V0xoN2RoQlZPbDUxODhqSndma3NkaTFmQWZHS3RMWDRvRGhuZ1lVakFTMW1FbllJR3JTaU9mLXVoTDh5aHVmRWdZYjNRaEpYOGNQaDdONVdfTktyOXNZN0hkYWhuRGJYZ3U0SjJvV3dqb1UyWFNHa1RyeUVoQlFLTS1GeTJvNUY5RnNhWG9EREhXQlJBaDFUSTZTbExBUHh3cnRvOHVyOFpvREFHUHd0YURkOGY5U1E5WGxrV1hFUVVjUnJBbGY4R1FyZExFRkc1TlZiZGllMkZTa0ttSU0?oc=5",
-          "description": "Visita de Orsi al portaaviones tensionó al Frente, mientras Estados Unidos destaca el vínculo “muy bueno y muy fluido” con el gobierno &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-05-07T05:10:00+00:00",
-          "score": 6,
-          "score_reason": "Palabra 'tensionó' carga emocionalmente; contraste con elogio estadounidense.",
-          "score_pct": 60
+          "title": "Denuncia de exjerarca de Agesic detalla conflictos de interés en asesores contratados a pedido del director de Presidencia",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU2Z2djUyZ29ubXU3TUdDTUJ0QllnQWREQzlEejFDZXg0WHBtZ3o0RmZfaGVzQmo1MmhfX3N4aTBaY1loak44ZmJMMG5Fdk8tSW03MV9VVEFlSWFZcXFTLVNWaFdMX0FPc19USG9UUHNGVGJ3R0hHZlVtaVNLT1Fzc1V6YzlfV0gzaEFZc25UNklCZTR3V1I4LWRURVZ6Y0JiZWpUbDVGVHB1cHZNdEJlUjZSb0JTTlRKdlhLbWRJSW4tT3BLWlo0VS15SUh5NWhGUi1TbjB0d29jTGJHT3pZUklSZlJob0ox?oc=5",
+          "description": "Denuncia de exjerarca de Agesic detalla conflictos de interés en asesores contratados a pedido del director de Presidencia &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-05-07T07:54:00+00:00",
+          "score": 5,
+          "score_reason": "Destaca conflictos de interés y influencia política, tono más crítico.",
+          "score_pct": 50
         }
       ],
       "analysis": {
-        "resumen": "El candidato presidencial Orsi visitó un portaaviones estadounidense. Ojeda interpretó esto como una señal de cooperación internacional. La visita generó tensiones internas en el Frente Amplio. Estados Unidos valoró positivamente el encuentro y destacó su relación fluida con el gobierno uruguayo actual.",
+        "resumen": "Un exdirector de Agesic presentó una denuncia sobre presuntas irregularidades y conflictos de interés en la contratación de asesores realizados a solicitud del director de Presidencia. Según reportes, la Presidencia no inició una investigación administrativa formal tras recibir la denuncia. El caso involucra cuestiones de transparencia y posibles conflictos de interés en procesos de contratación estatal.",
         "coincidencias": [
-          "Orsi realizó una visita a un portaaviones estadounidense.",
-          "Estados Unidos expresó evaluación positiva sobre sus vínculos con Uruguay.",
-          "La visita tuvo repercusiones políticas internas en el país."
+          "Existe una denuncia de un exjerarca de Agesic",
+          "Involucra presuntas irregularidades en contrataciones",
+          "Hay conexión con funcionarios de Presidencia en el proceso"
         ],
         "diferencias": [
-          "Subrayado enfatiza la cooperación; Búsqueda destaca la tensión interna.",
-          "Subrayado prioriza la visión de Ojeda; Búsqueda da voz a EEUU.",
-          "Subrayado tono más favorable; Búsqueda más crítico o conflictivo."
+          "La Diaria enfatiza la falta de investigación; Búsqueda enfatiza los conflictos de interés",
+          "Búsqueda es más explícito sobre la cadena de mando (director de Presidencia)",
+          "La Diaria adopta tono más informativo; Búsqueda sugiere mayor gravedad"
         ]
       }
     },
     {
       "id": "story_016",
-      "topic": "Dos condenadas distintas en el sistema judicial",
-      "category": "Seguridad",
+      "topic": "Valverde hospitalizado tras incidente con Tchouaméni",
+      "category": "Deportes",
       "sources_count": 2,
       "headlines": [
         {
@@ -893,48 +1019,99 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "Condenan a dos hombres por el atentado contra la fiscal de Corte Mónica Ferrero",
-          "url": "https://www.teledoce.com/telemundo/nacionales/condenan-a-dos-hombres-por-el-atentado-contra-la-fiscal-de-corte-monica-ferrero/",
-          "description": "Uno de los autores recibió 9 años y 6 meses de prisión por disparar y arrojar una granada; otro fue condenado como cómplice por tareas logísticas y quema de un vehículo La entrada Condenan a dos hombres por el atentado contra la fiscal de Corte Mónica Ferrero se publicó primero en Teledoce.com .",
-          "pub_date": "2026-05-06T22:32:17+00:00",
-          "score": 3,
-          "score_reason": "Informativo directo, menciona hechos sin carga emocional extra.",
-          "score_pct": 30
+          "title": "Valverde sufrió un \"traumatismo craneoencefálico\" tras pelea con Tchouaméni en entrenamiento del Real Madrid",
+          "url": "https://www.teledoce.com/telemundo/deportes/real-madrid-abrio-expediente-disciplinario-contra-valverde-y-tchouameni-tras-pelea-en-entrenamiento/",
+          "description": "Deberá permanecer en reposo entre 10 y 14 días, comunicó el Madrid. La entrada Valverde sufrió un &quot;traumatismo craneoencefálico&quot; tras pelea con Tchouaméni en entrenamiento del Real Madrid se publicó primero en Teledoce.com .",
+          "pub_date": "2026-05-07T19:34:58+00:00",
+          "score": 4,
+          "score_reason": "Especifica diagnóstico médico; más informativo que sensacionalista.",
+          "score_pct": 40
         },
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Condenaron a 2 años y 2 meses a mujer que denunció falsamente a su novio por abuso sexual",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGNjcjNxbGNSQmQ5c1J2RnFpYW13MGxkVDJqd2pObDB5cEpmU0dwNXdXOU5BYkI5bE9URTd5WkxwUWhmbFFrYUM2TFRIZ2VIb2FQemtMaWI5cURHQXpVMkx4SDg5M2RkT3lTT2tCWWVYaUYzUXQyLTV0enZGem1WVXBtZVU4WFJEbi1fYl9VYVRmSVlTTXc4RkZ2NEdJSmZLbjZWOURKZ3ZHZEZycHJBWW10RlM3VHJP0gG-AUFVX3lxTFBoYjdWNTV2RThLN0tkZDlrei1EWXV5WEIzQ1BDYS02eUJ6WVNCbVJpYVQyVk04bkVKVnBfRDNJZFhUbEN5Vm41T2pONWdIU3kyMnZ1aFZfYzd5VHNMSGdleEF0aUJmNlV0c1FrQzFndkt5Q0N0SlJmVVB1amQxSDllSGdnZlU2UElrNTdmTGxPcWpMZ3dPME1LZ3l1djlOblBlaTBQM3NHSDYwRGlkQ21Ocm5EcER4blJWcGgwNHc?oc=5",
-          "description": "Condenaron a 2 años y 2 meses a mujer que denunció falsamente a su novio por abuso sexual &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-05-07T00:04:00+00:00",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Valverde terminó en el hospital tras nueva pelea con Tchouaméni, según medios españoles",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLU12LW1iOEtYM3NRSElNbHdTbk1Lck5SZGNlVHZrUGczaHBJM0RwX1pOdDFEODVOcFpNT2RkaXhqLUExa0pWUHBuNXB6OEYxTmJMb3BRVk9raXU1SVhSdnROTjBQeUxhLWU4dWozVVJLam55S25fM2RuS1RsX2k1WnhhZjV1b09aUm9xOGNqclVrZERXcVU0dWYtSEhqcDFtZno3YjhIT004d3o3VkVHc210ZXVnR0E0ZUxHRldnbzNHNlp2VnVCT21vOEFjX0HSAfMBQVVfeXFMT3NrZk1SVWkxaS1XamxpcEJqWWFIUHlLMWs2SE1nZ2ZOaGdVUFlXb1EwdFgySGxUaWdPNE5CSzg0eGE1Wk5kMEk2SEJEdFlpc3Z3R09oRWJmSHF0S2l6UEoxM1hDUjJVMi04R2V1Wk5VSlVCdHVDV2I4MXFZTXc5OXhvZEViOVB6RGJEVTl0UURjM0NfeU03WTdnUE90UFd6VGh6SWRWaE5oWlBDLW8ydWg4UWtZbGtlYjB1QzNVN2QtSHZwMndmVlhycnYxTlpua1cwUTBXd0xMQU1ZMmVJWC01YXcxamhaVHdMUUQwZHVHY2ln?oc=5",
+          "description": "Valverde terminó en el hospital tras nueva pelea con Tchouaméni, según medios españoles &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-07T14:00:00+00:00",
           "score": 6,
-          "score_reason": "Enfatiza 'denunció falsamente' con dramatismo innecesario.",
+          "score_reason": "Usa 'pelea' y resalta hospitalización; tono algo alarmista.",
           "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Se registraron dos sentencias judiciales en Uruguay. Una mujer fue condenada a 2 años y 2 meses por formular una denuncia falsa de abuso sexual contra su novio. En otro caso, dos hombres fueron condenados por el atentado contra la fiscal de Corte Mónica Ferrero: uno recibió 9 años y 6 meses como autor material (disparos y granada) y otro fue condenado como cómplice por tareas logísticas y quema de vehículo.",
+        "resumen": "Durante un entrenamiento del Real Madrid, se produjo un incidente entre los jugadores Valverde y Tchouaméni que resultó en que Valverde fuera hospitalizado. El futbolista sufrió un traumatismo craneoencefálico y deberá permanecer en reposo entre 10 y 14 días según lo comunicado por el club. Los detalles precisos del enfrentamiento provienen de medios españoles.",
         "coincidencias": [
-          "Ambos casos involucran sentencias condenatorias del sistema judicial.",
-          "Se trata de delitos graves con penas significativas.",
-          "Ambas noticias documentan resoluciones judiciales finales."
+          "Valverde requirió atención hospitalaria tras el incidente",
+          "El enfrentamiento ocurrió durante entrenamiento del Real Madrid",
+          "Tchouaméni estuvo involucrado en el hecho"
         ],
         "diferencias": [
-          "Subrayado destaca un caso de denuncia falsa; Teledoce un atentado violento contra funcionaria.",
-          "Subrayado usa lenguaje más emotivo; Teledoce es más neutro y descriptivo.",
-          "Los casos son completamente distintos en naturaleza, gravedad y contexto delictivo."
+          "Montevideo Portal usa 'pelea' mientras Teledoce es más técnico médicamente",
+          "Teledoce especifica diagnóstico y días de reposo; Portal es más genérico",
+          "Teledoce cita comunicado oficial del Madrid; Portal cita medios españoles"
         ]
       }
     },
     {
       "id": "story_017",
-      "topic": "Adeom aprueba convenio con IMM y levanta paro",
+      "topic": "Caída de ingresos y actividad económica en 2025",
       "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Menos emisiones en 2025 afectaron los resultados de las bolsas de Montevideo y Electrónica",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbHFFYWRILWtTQnJFRjQzUkV5bUpsWWMzdTVJc3JTVmdxMWlBYUd6Rm1BbGlWRVVmNEE0TV9jUU9jcGZ6ZlJnRk5WbDQ1TVpUWlpKN19sVkdRbHVrY19VUVFmR3NoSnkxV1l2aG5tVDQ1a0tsNjJSMzNNQ2JJbl8zbzFrcXJGQkcxN1F0Zmt6NkhpdnRvTWN2cEwxeDdjQXBKd1JSam13MXZWcXNsWGdObmtQeEVoOVdXVUZwaGJnU3hwbFVvbFE?oc=5",
+          "description": "Menos emisiones en 2025 afectaron los resultados de las bolsas de Montevideo y Electrónica &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-05-07T05:00:00+00:00",
+          "score": 2,
+          "score_reason": "Establece relación causal neutra entre emisiones y resultados bursátiles.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Temporada 2026: baja el ingreso de dinero y turistas, según datos de Mintur",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeEtIbzZvQnluU3hweV83Y3cwNFpnM0FpUzFtcnptLTNTckFGQl9CdERydmJvS3k4bDdjRFgycjlIVFdXa284Mk0xYjYzTGRYem9tSFBpc1o3aFA0b05LN1V0dElIZ0wxR3Y3ak1lVGxra3pUZ0ZrbFNlM0l4ZS1raTJwMWNiR04xdGlZelN1NjhOSW50MTZvMUgtUF9RZUk5UFlCajJRUFFXd2dHZzRXb3NuUE1lNVBZZExkQmpR0gHiAUFVX3lxTFBQREI4WXVFZzNUTjFob0NmUVVKeS1lbE1WR2V4NmdWckZ6RF83Z2dzWVJuZDB1cHZtVnVGempWMFFwSWQ4MUFKV1FfQ3RuZlVXd0RkS0V4RjdEUnhmel9jdG55dm53RjhMMjU0MWNsYWxmZXdpb2dHYU1FaTktZ1dNdzNhb2x1SF8wQmF4elFKVHphdzN5cGxZeVFDX1RHd1MtQlF2NWhjWFVXYkpDbWVHaVFGQlAxSzlTQXJneTVsSWJRM2dCZEs2LWt4MGNHMkhFMWhzMGJZVDg0bnpqdlZWN1E?oc=5",
+          "description": "Temporada 2026: baja el ingreso de dinero y turistas, según datos de Mintur &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-07T14:51:00+00:00",
+          "score": 3,
+          "score_reason": "Usa 'baja' directamente; leve énfasis sin alarmismo excesivo.",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Durante 2025, Uruguay experimentó una disminución en la actividad económica. El sector turístico registró menores ingresos y flujo de visitantes, según datos del Ministerio de Turismo. Simultáneamente, las bolsas de valores de Montevideo y Electrónica fueron impactadas negativamente por la reducción de emisiones de valores durante el año. Estos indicadores reflejan un contexto económico más débil que afectó tanto al turismo como a los mercados de capitales.",
+        "coincidencias": [
+          "Ambos medios reportan caída de actividad económica en 2025",
+          "Los datos provienen de fuentes oficiales o verificables",
+          "El impacto negativo afectó sectores clave de la economía"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza turismo; Búsqueda enfatiza mercados de capitales",
+          "Portal menciona datos de Mintur; Búsqueda analiza sector financiero específicamente",
+          "Portal usa lenguaje más directo de caída; Búsqueda explica mecanismo causal"
+        ]
+      }
+    },
+    {
+      "id": "story_018",
+      "topic": "Suspenden audiencia de Moisés Martínez",
+      "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
         {
@@ -944,41 +1121,143 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Asamblea de Adeom aprobó el convenio colectivo con la IMM y levanta el paro desde las 11 horas del jueves",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN0t6Z2lLV2V6b3huX0FkS0Y1NmwwSXBxZXNQMmhVVHdlcVkzQUM1ZW81Nm5wS2xEcklMYlVfNmxZbHlEZlhPOExPSlVrTzJjRUQ4b3N5a0ZmdWIyRXNrMWFYbzdwRWFNOG54RVlPcVJoYl9Gc0hyeGFSemtmd1VPVFhTc3hEWDUtQW40TDc2Z1RxSHI0VVFHcDhqb2VmZWNpZXVTMkNneUtHNmgxUVRpLWhVanBDaEI5QUZBVU1VcklRVVVOQ0s1OUZn0gHPAUFVX3lxTE1GcFB1bHFkbUlrY3h0V05MNTVQNkRGMlNtWFd1a0VqVkNuZENEQmkwWUt6WVM5VUpBdHExY3VhcXM1UHVxTkVfdTUxSEhLWHRjV2pkREhSNGpUMTIzcHRJN3FfY2lFOU5jLUt0WkJEYWpOdDBtcEtUOFp3M1ozOUFmS0pZUlpGc0c4d0pDaklGczhlQVhpU2dPeTRMN3dWRFNmbE9TNlRnRzFpckVzYU9XaVg3UGMwdDBZMWFmNHBUeDJlNEt1SXdnYjN2ZUh1dw?oc=5",
-          "description": "Asamblea de Adeom aprobó el convenio colectivo con la IMM y levanta el paro desde las 11 horas del jueves &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-05-06T20:18:00+00:00",
+          "title": "Suspenden la audiencia que pretendía revisar las medidas cautelares de Moisés Martínez, que no tiene el alta médica",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNTBuVDNLTlRQOGJSM0FLZ0NJWUpXc0s3dWZsVUt2VGFXQWlvQU5vZEM2b1Z2YkQ0VFMwVWVlYzBCM2E4Tlh2eUJncC1uOFFwSHhpNnpaa09zYmdLbFdwXzFjT2Fmd09NYjBINllrU2dMUzU0V1BCeEE3dzdWVF9MUjJsMUF1Y2h6TmotOHpZRkd6QkVrQ0puVTV5V09tcFk4cGdrdmlGMDBKRlc1ZTNTekFmRVpqR2czU3NDVllSMGlyLWRsQUk0OU5SR3FORGt6SDVaMFRPXzFaNWRGZlhQaTFDUdIB6AFBVV95cUxNOEhaVFV3cGdyM2Y0VkJhUVV1MU1Db0FPbnZPVUhXV3l5aFhEcWc5SjZlMWZORnNYSldGQVJsWFZDdjdXSG5xS21HeWhENTlDSXkxdm9UcURScHFNdUF6STN0OGd2b0NaWjJXTzhCRDZ3TUtkV3A4c01IR0pzam1aSWFjV21YMk1uNU1yZ25tTUtZUm1qVXRQLXJMUTRqdURUZmJBaFlKWmJWMUxtS0g4emNtZzJjNjlkVmkwLTl2c1BIcm1fcTZCNHF0S2ZRRkw2N3dyRjRDd3hSR091d0dXLXNXTmVSWjFU?oc=5",
+          "description": "Suspenden la audiencia que pretendía revisar las medidas cautelares de Moisés Martínez, que no tiene el alta médica &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-05-07T13:49:00+00:00",
+          "score": 2,
+          "score_reason": "Descripción neutral de hechos sin énfasis particular.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Suspenden audiencia de Moisés Martínez: “Lo importante es la salud mental”, dice defensa",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZnV3Q0lsejdzMm5NWlRYeURNMGhXZi1kS2ItT3Fuc2ZjTUsteVZYbU9Pb3dOdW9zREJVdzlQVnZKTTZ4MzQ2dU9xMkFOSE5LUE1nSjJJQ2E2bDJtVl9EMV9rRmpYQnRaS1VGNEFIdjZxbmpVeWRUYWQwZkRTc09qTWFBSHl2X3R0NE1idlpYOUp0b3NKeHF2a3lxRno4UmxNOEtvRTFWMGVZMF9PUlgtNzd3VzRXV0FlbXJaaE9qaVJFRnByUTNYRlBLcTY0eknSAfMBQVVfeXFMTXdIQ2ZwSF9jUTJjNlgwcXZaT3FGSHZmUmNlTEI3MmJrOVhJb0E2UXlJX3JXY2t2R1hXb3loazJzY3lzZUtKbXVYUG9aRWFOYWJxMnkwOU9ZQWhIMk11d19lU2dHNi0ySl9zRzc1V1I3X0lITmxiNlhtUkdVSXQ0TkdvN3I5elo5R0IydjhLdTh2WHRCVXA2RnluUGp4aGhHdGJtUGt2a3ZUSDRvZUlYS250djY5a2FseHJFcnZ5WmZWN3hnZmt5ZElKY1h3NnpmVFo4Tlc5ZWVLZDJDcnQ5VXVPTkdmMzEtYVBHLWVtS0I5dzZV?oc=5",
+          "description": "Suspenden audiencia de Moisés Martínez: “Lo importante es la salud mental”, dice defensa &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-07T15:31:00+00:00",
+          "score": 3,
+          "score_reason": "Enfatiza argumento de defensa sobre salud mental.",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Se suspendió la audiencia programada para revisar las medidas cautelares del exministro Moisés Martínez. La defensa solicitó la postergación argumentando razones de salud mental del imputado, quien no cuenta con el alta médica. El tribunal accedió a la suspensión. No se informó fecha de reprogramación de la audiencia.",
+        "coincidencias": [
+          "Se suspendió la audiencia sobre medidas cautelares.",
+          "Moisés Martínez no tiene el alta médica.",
+          "Cuestiones de salud fueron determinantes para la suspensión."
+        ],
+        "diferencias": [
+          "Montevideo Portal destaca la perspectiva y argumentación de la defensa.",
+          "Subrayado presenta el hecho de forma más objetiva y descriptiva.",
+          "Montevideo Portal enfatiza salud mental; Subrayado señala falta de alta médica."
+        ]
+      }
+    },
+    {
+      "id": "story_019",
+      "topic": "Incautación de aves por caza ilegal en Montevideo",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Incautan 37 aves autóctonas, “pega pega” y un vehículo a dos montevideanos por caza ilegal",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONmJFbFMtSmVmLU50QWdKUEdsUVFBOFl2NnhRQi1YaWNxc1pza0Fkb1ZpdTBaN2s5VHo5UTZjX1l0RS1YdTdMcW5KTnJ4a3BiZDVqOVRqNHVkRE92Nk9YNDUzVGNCTGxta1lmT3ppdFljMGlXNVdqYjYyeWFrVFBHRVJ0NVFZWDFINkg2ekdRcEJpMFYtVzB4Z3ExblVZTjFNeEJCYXk3MUJ4ZGhBVXJ0TEJBbWtGaW1nOVltMUVfel9IV1BxbXgxeWtYUDJpZG5ldXfSAfYBQVVfeXFMUGFod0h0TGs4cHRQM1VId2NjX18tTm9EY2lJc21iZi1ESEdkajBaU1lkYjV1bDZ4N2FIcWNXcVJ2cmVISDRXZzdWZlUyRVhZOWE3dEI3SGNHTFo0RjMwcWNVQzdBdFVYdFhVNi1rdnJWb3U1OElCVzhmSEtaSzRQSzVPYm5iUzRiMzc2MXFkbXNUSDVmUUVxcmU0Ukg3eTNqOUFkQjYzQ25nM2Uxb3Utb3JqbVJtZG8zMW1NMUpRQ0djalRzZFZJU1hFSGNSUk5hVUtpc1VLdHZHUVZQcWxEWVU2dnJKQmt2ejYta1owd0pLNXl0aVR3?oc=5",
+          "description": "Incautan 37 aves autóctonas, “pega pega” y un vehículo a dos montevideanos por caza ilegal &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-07T14:48:00+00:00",
+          "score": 2,
+          "score_reason": "Información directa, objetiva, sin carga emocional ni interpretación.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "El negocio de la extinción: El tráfico ilegal de aves genera graves problemas a la biodiversidad del país",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR2pWSE5EekNrVENHRUtjb3l4MjdpLTFDVmFOWmhkTEdfcWlGc09RbkFjd25jdHdQQXI5RjlhYzVsZGQ5NFRsUFdvanNXSnBGeElNaUNncFIycXJHdTdjNXVLOUJYSWhJRlBiNXRWTEFEYVBBeTJ2RGlTUXlDZVB1bmRPRTVZdEN1UkFBdlQyQU9uSTBOMmpyTGx1b3p4WjYzdFRFdkQ4TGh0b0FheFcxN25ueVBlcGx4bXhERHk3VGozc2pOdHh3TlRPQmpMOVlGb2tSSXM4ZTBZUUk?oc=5",
+          "description": "El negocio de la extinción: El tráfico ilegal de aves genera graves problemas a la biodiversidad del país &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-05-07T03:57:08+00:00",
+          "score": 7,
+          "score_reason": "Titular alarmista con 'negocio de la extinción', generalizaciones sobre biodiversidad.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Las autoridades incautaron 37 aves autóctonas, una planta de pega pega y un vehículo a dos montevideanos por actividades de caza ilegal. El operativo refleja la continuidad de controles sobre tráfico de fauna silvestre. No se especifican detalles adicionales sobre el procedimiento, lugar exacto o identidad de los imputados.",
+        "coincidencias": [
+          "Se incautaron aves autóctonas a dos montevideanos",
+          "Existía actividad ilegal de caza o tráfico de fauna",
+          "Las autoridades realizaron un operativo de control"
+        ],
+        "diferencias": [
+          "Montevideo Portal relata los hechos; La R analiza impacto ambiental sistémico",
+          "Montevideo Portal se enfoca en el operativo; La R en consecuencias ecológicas",
+          "La R utiliza lenguaje alarmista; Montevideo Portal mantiene tono informativo"
+        ]
+      }
+    },
+    {
+      "id": "story_020",
+      "topic": "Uruguay en eventos internacionales de relevancia",
+      "category": "Cultura",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Uruguay inauguró su pabellón en la Bienal de Venecia con la muestra “Antifrágil”",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZXdKaUVsV3VpUzFGaS1pMzZSOXBwVUZYRHhTMDlFbDltV2tKaFhvTm9hcUZvcC1GLTFLTDEySkZVWjlObGxQSlJIWDIwa0h2em90dEdlSzg4X2tVM1Q4S3ZkeUQ3dGY0OURNRmNWQ3lpSlQ2TjRCS1FPNld4eG15VHpoaFYxQUo5SUluQ0w4RUdrWjVBVHFyTExXOG1sVHZ5MnRZREFLbUZPN3Z4U0pTZkh0OG5Ja1BVa2dwZkROVWtkMDN4OXfSAeoBQVVfeXFMTlRnZEZSemcxZnVZcnhmQjY3eXo2Y0owTXBENWhMenBGSUlRbjlvM3V2U21Ja2F5cXdJSmJGWmpPblJKYmEzLVpSRF9YUlRGOVkwcV9iZ3BELXZmQi1aei1xOFdMSFctV1FRcmhUYzN2RTZGN2ZUYXl1UFRURzVzMDZmN0ZqTHRwaVVTeU9lMlI5Ui0xQkUtcENuUFRmcDhDdFlZS0VBRnRHX0xsbGs0LUpFRWI3OEVkXzRESWFja2ZvcEtfd0hKZXg0bXhYSy1lV21zYkc1RzIyUkY2VkI5dVFCc1g0Q3l5YlF3?oc=5",
+          "description": "Uruguay inauguró su pabellón en la Bienal de Venecia con la muestra “Antifrágil” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-07T20:51:00+00:00",
           "score": 1,
-          "score_reason": "Información clara, precisa, con dato temporal específico.",
+          "score_reason": "Informativo directo, sin carga emocional ni adjetivaciones innecesarias.",
           "score_pct": 10
         },
         {
-          "source_id": "carasycaretas",
-          "source_name": "Caras y Caretas",
-          "source_short": "CC",
-          "source_color": "#4A148C",
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.carasycaretas.com.uy",
-          "title": "Asamblea de Adeom aprobó el nuevo convenio colectivo y se levanta conflicto",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlBCVElMM3A2WFZkYzdLaDVPNldwM2xPM2RSSEQ0U2xSRWdkV2FwZ0NPdFVkZFF6RWx5ZUZ6cVBXZ3kteV9zNmE4c1lRZzhOQU45S0VrZW84cTBTNW1lVkhHM21fSkJSYlAtM1d4ckVwLVZTVU5NN2tPMi1ZUWVnTGdxbllvazRJTERQRUV2VVRnQ2w4cEVfejd4V1hLTDMwYXQwMjVPR2FhMFZpZlZRU1c2WkRYZG0xcklVV3ljUWXSAcYBQVVfeXFMT3A2RzZCWVdMZ3libDlkdWItY2tjcVJ0cEFkbnppeVhTblRVbGZIeHNFMENBLVdETlUyMjhBRGkzVXpVcUFnVWsxMk5iR2ZNZkVfdWRzRzZHQWlVWE5GU3ppTGFaYl9ZTGRFeVNqQlNFTkViVVppRDJzS3JPWHFaVC11OUtzdjNNRGNsQzVSSmtZMTR2Vzk2bEp1bGR2LVFaQkFHWnRvUVFyMWhXRzdWY3Z5cnJWS250b2FncHc5NWgtS05XeWhB?oc=5",
-          "description": "Asamblea de Adeom aprobó el nuevo convenio colectivo y se levanta conflicto &nbsp;&nbsp; Caras y Caretas",
-          "pub_date": "2026-05-06T22:44:00+00:00",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Desde París, Beatriz Argimón coordina reunión de la OCDE en Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2x6YUotd000anR4WVAyMEZVT3dWRDlzRWdiVHlYYk0yTnllVU5TbUxKeEk4VjltSDdoTTctcUZVVnRuZEdRUE1ZYUt0UXVsdHVsTFN1Wk5GRnJ1cHNLNGs0U2RpdnlwRnVHZGREc3czWS1rT1lDQ05vWER6ODBfSUJrUVQ4Ri1WU2sxMV9ua3NKSEVtNDZIRXRMRkQ2ZHdzdWJ3YXREeUJ2UQ?oc=5",
+          "description": "Desde París, Beatriz Argimón coordina reunión de la OCDE en Uruguay &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-05-07T08:26:51+00:00",
           "score": 2,
-          "score_reason": "Neutral, omite hora pero mantiene tono informativo objetivo.",
+          "score_reason": "Neutro pero destaca rol ejecutivo de autoridad con datos de ubicación.",
           "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "La Asamblea de Adeom (sindicato de trabajadores municipales) aprobó un nuevo convenio colectivo negociado con la Intendencia de Montevideo, lo que resultó en el levantamiento del conflicto de paros que mantenían. El cese de medidas de fuerza comenzaría desde las 11 horas del jueves, después de que los trabajadores votaran a favor del acuerdo alcanzado en las negociaciones laborales.",
+        "resumen": "Uruguay participó en dos eventos internacionales destacados: la inauguración de su pabellón en la Bienal de Venecia con la exposición \"Antifrágil\", y una reunión de la OCDE coordinada desde París por la vicepresidenta Beatriz Argimón. Ambas iniciativas representan participación del país en espacios culturales, artísticos y de política internacional.",
         "coincidencias": [
-          "Asamblea de Adeom aprobó el convenio colectivo con la IMM",
-          "Se levanta o resuelve el conflicto de paros",
-          "Se alcanzó acuerdo en negociaciones laborales"
+          "Ambos reconocen participación de Uruguay en eventos internacionales relevantes",
+          "Los dos hechos ocurren simultáneamente y refuerzan presencia uruguaya global",
+          "Sin cuestionamientos ni críticas sobre las iniciativas reportadas"
         ],
         "diferencias": [
-          "Subrayado incluye horario específico (11 horas jueves), mayor precisión informativa",
-          "Subrayado menciona 'IMM' explícitamente, Caras y Caretas usa solo 'conflicto'",
-          "Subrayado es más detallado operativamente, Caras y Caretas más sintético"
+          "Montevideo Portal enfatiza logro cultural-artístico; Búsqueda destaca rol político-administrativo",
+          "Un titular menciona exposición específica; el otro subraya coordinación desde el extranjero",
+          "Perspectivas complementarias: cultural versus político-institucional de mismo período"
         ]
       }
     }
