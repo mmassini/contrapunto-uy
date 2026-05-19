@@ -1,10 +1,466 @@
 {
-  "generated_at": "2026-05-18T13:51:31.599703",
+  "generated_at": "2026-05-19T12:44:05.340002",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Críticas políticas y deportivas en Uruguay",
-      "category": "Otro",
+      "topic": "Inseguridad, política y conflictividad social en Uruguay",
+      "category": "Seguridad",
+      "sources_count": 5,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Sosa: “Mi idea era continuar el legado que dejó Pablo en Central Español” | Los Mismos Locos | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb3dHS2dSallDMmFZbXRzcFlRRFZEUU1SQ2pleEFONXFkWmRraVRIMGQwVnVlT2ZINWFJN0pOdTdtcmk3V3A3NGF5eklTRllFRHh1ckhHaVpCUEhYVlFJNERTYkhjZWRJNTY5ZjhnRDhET1hZZTRITmNKLXNQNEUyMnREamtvc09RaVhFejlWZkN6REQ4NklpQTR1TDlWdmY5c3VWX2FzOEdlSHZfVlhIVDM0a3o3cUZoUFM0?oc=5",
+          "description": "Sosa: “Mi idea era continuar el legado que dejó Pablo en Central Español” | Los Mismos Locos | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-05-19T01:45:34+00:00",
+          "score": 1,
+          "score_reason": "Titular deportivo neutro; cita directa sin carga emocional.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Alejandro Sánchez: “Tenemos que poner el pie en el acelerador”",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZEJNTktzaWRORGZFS2p0bDFtYnNjdWhsb0R4MFA5d2lSLTNnNzhGZWJqMGVpVUd6UzZoM0pvSmlBSVQ0NDlPNlZPdDJoZlJZOUxnNFFMTnNnV25GVE9NNEpaV2FXLW1TUW5yczRZajNrYnliUGZsaVdSZDF3U0U4R1lxV2xBVnZ0Z2FjdG5YZ3VGdEVmOG9TaC1vYWdaLTQ?oc=5",
+          "description": "Alejandro Sánchez: “Tenemos que poner el pie en el acelerador” &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-05-18T04:48:03+00:00",
+          "score": 2,
+          "score_reason": "Cita política directa; tono informativo sin palabras cargadas.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "\"Cosas que nos costaron mucho conseguir\": ladrones desvalijaron su casa y \"se cocinaron\" durante el robo",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS2llMU04NnBpUVhDWklOVHVZSnJfaFRBNmY2Qmw3QmwzbTVZNWFtU0lyV3RHSzRSUjBDN0xacmJLUlhZS0hlOXJ1a3dZaUx6NXpwU0NIWFpuc253Uk1paGxrS3doLV85YTRMWm8wNFc4QlM2M2NINTk5YmlFQm1NYlhRV2tmX044SkpsN1BDS0U4c2hCc1oyRmpzZ2N3eWJTZnNQbjRQV0dhalQwMVU2MnlxV1dVckFub05RMkg4cXplWnJfQldmNnFRTl9PblYwS2ZEdUNTOGtIZjNudF9KaS13?oc=5",
+          "description": "\"Cosas que nos costaron mucho conseguir\": ladrones desvalijaron su casa y \"se cocinaron\" durante el robo &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-05-18T16:51:26+00:00",
+          "score": 4,
+          "score_reason": "Uso de comillas de impacto; destaca lo insólito del robo de manera informativa.",
+          "score_pct": 40
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "El tajo en el alambrado: cómo la situación de calle empezó a agrietar la convivencia en Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbjJJMEJ3dEMxeUdQZGVmNlo2QmxHQThaeThxUUdPaVBPd2VZMDVZdl9KZmdFRS0zRlNxQkNwQW9ILUFubzR2ZTFvSVhrYWl0aDZLbVZmb3dlNVgwS3QwdU42NjJGQjREMDFCWk1OYlV1RkxiZ0hxWVhSWUs3WE05N2Z0cGFmSEphaExCWHJqWnBGVXlacURPS25oSE9yNElNTTRWVjMwRWZQUHU2NURpV2tSY3dlSmZJMWVzcGdDRENOTEdLTjZwQ0kyRElHQdIB0wFBVV95cUxPZXlhcllpNGdWbFIwdVBCZUZWM1hoRW9yQkItemlrOWl2X0dXWTl2QXRrYktyUkRGbkpJR2wtNVhseVVCZ0ljblN1TW5pU2ZoN2NTX1lyazBmN1BVRDByWF9DRm5MR3A5MVNvbkFxWmNPT2sycE5GdnFqZjBrT250TktEYUxZamJ5V1VxSVgtNTd3T2Yza3BhUURpbnpJV0pONUJvZGFfVV8zS0xfNHZjOXdGQmdWV09OWjBPSms5TFBsZ1JSZ19WU1VlUF8teFpYUUFF?oc=5",
+          "description": "El tajo en el alambrado: cómo la situación de calle empezó a agrietar la convivencia en Uruguay &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-05-18T08:00:00+00:00",
+          "score": 5,
+          "score_reason": "Metáfora dramática ('tajo') para describir crisis de calle; lenguaje cargado.",
+          "score_pct": 50
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Aliado de los narcos” y “tonto”: publican datos personales de Carlos Negro y Lacalle Pou",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjZZbXl4S19wcExUWnhubHkxTDVRc3lkWVA5TTBLMDhwNlNlLTZFcG9NTW5wS3Z2b0dHdERYbUk2QkREVFg1b2Focl9ySHJpTTl5ajNQNTNkVXFpTk5KY2lQTGtBc3U5eTBiNVpBdXNXZDNnWFhZdkhQbjIxZ09WZXIzRVRnaElQcF9Fd0dtaHkzaEw3bGY4SEZNZFJVUXhaem9OMnFRWWdZTGdBOEJncXFFUzFsUVFVdllPLTRhYy1zV295NWxQLVhDMmhYS0nSAfMBQVVfeXFMTTA1bE9NUlpCQ1p0ZFVZdlZGN0tJaTM5T3MxVm0yb1VUdGYtb1dSTkt2bzFIdnFQYTlFYVlWRkszTllJWjNJdVdGakVudGE2dzhIaDRTX21GekhtMFVHaWNCSi1NdWhfRFZfZWxvdmw5ZjZHNVdRNHh3dmRvcDdWWXZKaUlwSmVZMzd4YUlPSURaT3I1b0JYZ00ySmxPd1BPUUlVVWdLQWRXU0sydWJhMlN3MjF3SHkyVWpIajFUa3ZVcldNOWR3SXJIMFNGZnpzTGhHYzg2cHN4bmVFdngzeTltcFFBemxhaFdCdVA2RWN2OXNz?oc=5",
+          "description": "“Aliado de los narcos” y “tonto”: publican datos personales de Carlos Negro y Lacalle Pou &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T15:18:00+00:00",
+          "score": 8,
+          "score_reason": "Titulares sensacionalistas con insultos; énfasis en conflicto y difamación pública.",
+          "score_pct": 80
+        }
+      ],
+      "analysis": {
+        "resumen": "Los titulares reflejan preocupaciones sobre inseguridad, robos, situación de calle y conflictividad social en Uruguay. Se registran denuncias contra funcionarios públicos y debate sobre políticas de seguridad. También se menciona actividad política y deportiva, reflejando distintos enfoques mediáticos sobre la agenda nacional actual.",
+        "coincidencias": [
+          "Todos abordan temas de actualidad nacional con énfasis en conflictividad social y política",
+          "Los medios priorizan voces de autoridades y personajes públicos en sus narrativas",
+          "Existe preocupación transversal por seguridad, convivencia y orden público"
+        ],
+        "diferencias": [
+          "Montevideo Portal sensacionaliza con ataques personales; otros medios mantienen distancia informativa",
+          "El Observador enfatiza problema estructural (situación de calle); otros focalizan en hechos puntuales",
+          "El Espectador y Grupo R cubren política y deportes; El País y El Observador priorizan inseguridad"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Cambios en Real Madrid: Mourinho, Valverde y Carvajal",
+      "category": "Deportes",
+      "sources_count": 4,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "gastronomía argentina archivos",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53dFVpYVUzM1Nyb3ozSVVnanVXZ3pBd05TR01Hc2ZnX21ZTV8wZFVZOWljTC03TWRPaWQ2Smw5QWg0dVJlQ2lrV3Y3djVWN1NIWUo5cm0yTE1DdjRSMlBLYWFkM1hUdw?oc=5",
+          "description": "gastronomía argentina archivos &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-05-19T03:48:09+00:00",
+          "score": 1,
+          "score_reason": "No corresponde a la noticia; contenido completamente irrelevante",
+          "score_pct": 10
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Noble: “Me encantaría jugar algún día en el fútbol argentino” | Los Mismos Locos | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdTlRT0JXYjZDSklRWTdCdzM3Tm8wOWlOeGg3Szc4R0x4LXlZWDFYS1lrS1gwZG05VmNLMGF1eHpTVXZVNjZzMnZtQ0NzVmxqZ3R6UHJWdE5pdjJOTHhNbXdWRjQzcGQ2VXdvYnQzTy0xRlZ5bzB6dkFnY2xkeWpYZU9tMU9OQ3FjUE0xWEp6dFdKdHdPTU5uZHVDdnM4YWpTMzZIZ1dMZXdtLWM?oc=5",
+          "description": "Noble: “Me encantaría jugar algún día en el fútbol argentino” | Los Mismos Locos | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-05-19T02:46:25+00:00",
+          "score": 2,
+          "score_reason": "Titular completamente desvinculado del tema principal; meramente informativo",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Real Madrid: Dani Carvajal no sigue y “el brazalete queda en buenas manos” de Valverde",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUDY1UThhWVZuMXNXNEJQWVFGOW9qN3JTWWRCUk13Tlhla0pWcjdDc19wa2k5WWk3d3ZxSmM4LUstdG5GUE5NWlB4WkZfemxzRmY4Y25tc09tZ1pCRU1hdXZ1MEYwWnJFOWFHRkp3V3BkQU5iRy1iVnEtcTdDZGJqenhLX1U3NTFPcUNjODJ3M2p2S0NTci01Nl9vX1I4N20xdUU3Uk9iLWpSTlhOaXN3VXBEZ1ZxV05jTHpyVV9MdnNRcWdya19JVXRvONIB7wFBVV95cUxQN2ZPeXBMN1g3RHRiOUJhYXVhYTBIbkNnaFZ4Z2l4aldkeDVKV1lDVVFBZjhkbmpjaEtWY3oydm9NWWE0VGI5WlYwSF9fZEp0d25jZVRGVUNxb1puaTFoaXMtSEEtWklyYWtGYkFzSm12VUNIUlhVeVN4R2tNaHJDQk9KU1pIUWRLcTFGcWFBMG5PVTRsaFJNWVJ0RFkyOVE3dFIyTFVyeEZzVjdVOWcxbjdRQ3J5WGpFTzc3NUl4eDNSTWtwZHZHc05Hb3UyUHB2ZlRla2Voc0o5QVJvZFM0Z1dURy1VMExxMGlTSjk4UQ?oc=5",
+          "description": "Real Madrid: Dani Carvajal no sigue y “el brazalete queda en buenas manos” de Valverde &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T15:49:00+00:00",
+          "score": 5,
+          "score_reason": "Uso de comillas sugiere interpretación; énfasis en Valverde favorecedor",
+          "score_pct": 50
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "El nuevo Real Madrid de José Mourinho: orden, jerarquía y Federico Valverde como bandera",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLVNMa1o4TnVOUFU5YmlCams0dVVWR0szNjM2V1ZsSFlUTjJNV2V2Ym4wUktOUTlqMFNxRXJWWjRWeFc4QXVZcTVWSU40U041d2gwV05FM0YzRk4yakpRem5lRmd6czNGSlIyc2Q2Z2NHM0dJRC03cVVwRnMzS3RfMVB1c3REZ2lIVHFoNFM1VlJWMUdOVG1zbWUtYzYwVUlGdWNieVhWR2pRWUNsYUVfM0YtZTBLZFJRcktJRW9KaHVKbXZsak1BdTJ5aWJWTWhhTGFwWElfbDFBbUtqUUHSAeMBQVVfeXFMTzl6OEhuMmtZVURaSGtMOGkzenl2SGp3eGhaaUlpQzFxa2Y5Skx2Z0tzdF9iUG1NdE9SLVo0b3BZTkhFdWFoaVc3VWc4Z3Bzc1pUWGEtdVQycEg0eWJhQVJOZWpRZzF1TThvU2lQcXlXWDZLanFwa2tWbVNaMVU4OTM4Smh4NWlXSld2azhzbTJJaUZ4TmJIYzFYWGRyZTlMb1RQR2J1Yk5ON1BFS1VkOHNuckg5NFBwY2gxQnFrV3dOWDBBT0ZtcC01V1Jfa3RvcEdLWkZJY0lna3F0aTFzcjRHNW8?oc=5",
+          "description": "El nuevo Real Madrid de José Mourinho: orden, jerarquía y Federico Valverde como bandera &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-05-18T18:37:00+00:00",
+          "score": 6,
+          "score_reason": "Lenguaje aspiracional ('bandera') con carga emotiva positiva",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "José Mourinho asume como entrenador del Real Madrid con una propuesta basada en orden y jerarquía. Federico Valverde, futbolista uruguayo, emerge como figura central en el proyecto, incluso siendo considerado para asumir el brazalete de capitán ante la salida de Dani Carvajal. Los medios destacan esta apuesta por el jugador nacional como símbolo del nuevo rumbo del club.",
+        "coincidencias": [
+          "Federico Valverde es figura clave en el nuevo proyecto de Mourinho",
+          "Dani Carvajal dejará el Real Madrid",
+          "Se produce un cambio importante en la estructura y liderazgo del equipo"
+        ],
+        "diferencias": [
+          "El Observador enfatiza la filosofía de Mourinho (orden, jerarquía) como contexto general",
+          "Montevideo Portal se enfoca específicamente en Valverde como sucesor de capitanía",
+          "El Espectador y Grupo R abordan temas completamente ajenos a la noticia principal"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Uruguay envía ayuda a Cuba en contexto regional",
+      "category": "Internacional",
+      "sources_count": 4,
+      "headlines": [
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "LLegó a Cuba la ayuda humanitaria enviada por Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFotRDZWS0lFajJJcEo4bHV0WTFpc1k0YTRXdUEtdkpyQ1FleWNzX1dQbEhERHVZazVySXFobWdrRGlyN0RUN2NpOHc2aUdSb1J5aldkRnVzWDZicHNfZ1RWVDlKeVFCUUxUMEdhRGkzRkk5d2h6ZmlWY0VKT2Z1aVkyaG84WnhnYjdFLXdUNjFIY2REaEVRcHNOZnPSAaIBQVVfeXFMT2hya3dYUkN0RU9qMlFOYkRVUm9IdEhkUGlINjVGeHBHRERvM01YRzRLazJacHRJeDZvUFgtX2R1SURjSjdTblhSZEVLQmI1LTY2T09yRlFuc2duYzRrZlNCa3lqMTRkUHFFaGZSR0QxT1QwenpUaFZVeEszaGpaOERxSDJmLXBVZ01EaTl3blE3cmo0TEpoVlZPbUg2eER3cU5n?oc=5",
+          "description": "LLegó a Cuba la ayuda humanitaria enviada por Uruguay &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-05-18T20:05:00+00:00",
+          "score": 1,
+          "score_reason": "Neutral, informativo, sin carga emocional ni énfasis.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Presidente de Cuba expresó su \"más profundo agradecimiento\" a Uruguay y México por \"cargamento de ayuda solidaria\" que llegó a la isla",
+          "url": "https://www.teledoce.com/telemundo/nacionales/presidente-de-cuba-expreso-su-mas-profundo-agradecimiento-a-uruguay-y-mexico-por-cargamento-de-ayuda-solidaria-que-llego-a-la-isla/",
+          "description": "El gobierno uruguayo envió casi 20 toneladas de leche en polvo a Cuba, en el marco de la crisis que atraviesa el país. La entrada Presidente de Cuba expresó su &quot;más profundo agradecimiento&quot; a Uruguay y México por &quot;cargamento de ayuda solidaria&quot; que llegó a la isla se publicó primero en Teledoce.com .",
+          "pub_date": "2026-05-19T12:05:25+00:00",
+          "score": 2,
+          "score_reason": "Informativo, incluye contexto y detalles verificables.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "En medio del conflicto con Uruguay, renunció a Cardama el accionista José García Cuestas",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVGNUQkJBNnViUGJCQWEyYkQ5R2JzcUtlNzMtZG42V00zem8za054OHRQd0hocmw2VzVfX1BlTjB4UHF5TW50ZEgwNGVadmk4MHRLQjlYQ2QyeWlHd0FVUENaVzdBUlZYZkRfTFR1bkwxQXVGbHEzVjJLSmxZdzN4cGtHdkxwQzJLd2EyTWJoRFkzc1ZZZGt5NUxDdlkxYmhhR2pWaHYxVzVuS21zV2RxQjVtcHkyaWs2VkZBUWplMUdaZjlZQVBnbVlISFJSM1Zo0gH0AUFVX3lxTE9zZlB3cUQ0WnVtRHdYdy1NN1FlLUNYOGUxUXY0UkxGSWo3MVN1anVLdlBKS0tkVnhURDV6WEs5N2NVOHVodE9KTVozeDY1TVd4NmwwSElra0IxVjFqVHZwNXFkUVdaR3Q1eUVpV2tpNmlhem0xMjJZMEcwbEhHaTJjNy1XZ2F5MlRCNUNXNXllYnlGNzREN3NaTERxRkh6TDE5Yi1FdnFCRWpQOG9YVXlwNV81ZlJyRmpBRGhtVmQ0VTZZV0JKSGNPQUtsV0NTT2lIekpFREJfR3dlYmtjbDR3c2RsNFQzWEVIOWhVbkg5UkpaU0E?oc=5",
+          "description": "En medio del conflicto con Uruguay, renunció a Cardama el accionista José García Cuestas &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T23:41:00+00:00",
+          "score": 6,
+          "score_reason": "Enfatiza conflicto, descontextualiza renuncia empresarial.",
+          "score_pct": 60
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Cuba advierte de un «baño de sangre» en caso de invasión",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzZDR0EwRUVJYnJmZ2hHbGJsNDlPdDAxVU5nM1VkQjBBeXlSWDRvY196UzBwZ1FLMUg0TE1zd0c1OVk1QVJ6ZnJIQkVZS2k4V013X3FJNWZqXzBXaGZPQ2pKRDBKUzRUZzJnRWRQemFreWw4enV0TkFfb3RHbU1FOUItcGppdm82RzRsdDUwWDJXVWFFNVBtWA?oc=5",
+          "description": "Cuba advierte de un «baño de sangre» en caso de invasión &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-05-18T03:27:20+00:00",
+          "score": 7,
+          "score_reason": "Alarmista, sensacionalista, desconectado de otros hechos.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Uruguay envió aproximadamente 20 toneladas de leche en polvo a Cuba como ayuda humanitaria ante la crisis que atraviesa la isla. El presidente cubano expresó su agradecimiento a Uruguay y México por el envío. Simultáneamente, en el ámbito empresarial, José García Cuestas renunció como accionista de Cardama en medio de conflictos comerciales. Cuba también realizó advertencias sobre posibles invasiones.",
+        "coincidencias": [
+          "Uruguay realizó una acción de solidaridad hacia Cuba.",
+          "Cuba atraviesa una situación crítica que requiere ayuda externa.",
+          "Existen tensiones geopolíticas en la región caribeña."
+        ],
+        "diferencias": [
+          "Algunos medios priorizan la ayuda humanitaria; otros enfatizan conflictos y advertencias.",
+          "Portal enfoca lo empresarial; Teledoce y Caras contextualizan la asistencia.",
+          "Grupo R elige tema de seguridad mientras otros cubren solidaridad bilateral."
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Convocatorias selecciones para Copa del Mundo 2026",
+      "category": "Deportes",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Las listas para la Copa del Mundo | Noticias | Mundial 2026",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbmtZU3liZktUck15WFF6Ukd4bWZETG9FOFJuTk8zVktPX3pUSUV5VzNtRmJEVGNOQWl4MGtIVXMtVXJFRDBqWUduLVVUYTMyUHN0ZFN3bkpHV2JJQ3FlYm9GckJoVnJhWVVUcUhtaUFiS3JxU2dZY284ZEd4cjBhWVhWQQ?oc=5",
+          "description": "Las listas para la Copa del Mundo | Noticias | Mundial 2026 &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-05-18T12:25:01+00:00",
+          "score": 1,
+          "score_reason": "Titular genérico, informativo, sin carga emocional ni énfasis.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Mundial 2026: Barcelona confirmó una fractura que causará baja en la selección de España",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQelhCR1VlMVJiczFUQWFPaFFDMlQxclprYmxINHkwRzQyYWZxT1NsRHY1aU5HcHRKVENKcG5FdkduNXRKazVhV0E5Z0hfOTR5Z0cxVnhLOE1sbGJCUG5DR09ZNnUtQU40bXVramFrTmlIZnR3RjVMbHliaE1zX3QxVUs0UTdOX3Y0NWhzVUhaSzBvRHJNWU01UWhjZ3hjUmtRS25rU3FQSWd4SEtTbHlFYmdvbVFrMDZoM014R3c5UEhwUjB6cEoxd3NDZlpaX3NW0gH0AUFVX3lxTE9ONDFRSVRHdzBaYm16OVo3b2hGNWw4ZHNieVNBNWtJU3YxNk5lazY4YkhoNVBZbzgyOUIzRFpoSC1nbjZxWjN3S041akhiZjZjVnpBcjlFRy1pSnl4WmtLLXRvTlY1bFQ5RHhKUmRqekJTV1RMN2M1VlR2RDc2b3lZWnRSWW5Ia1N1NDkzSkRFMS1zcGRpMUxISFVjT2JLV0tXSDdYR3daamJMaXRPWi14S2kydV9KbTlrTVFMQmt0MFcwWktKck5nbnFUXzBYRGlsLXYzMmNiUHJxSzd6aE8yblpqY1BsWk1EbGdvc1VVN3F1ZjE?oc=5",
+          "description": "Mundial 2026: Barcelona confirmó una fractura que causará baja en la selección de España &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T13:30:00+00:00",
+          "score": 5,
+          "score_reason": "Enfatiza aspecto negativo (fractura, baja) con carga dramática.",
+          "score_pct": 50
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Mundial 2026: el futbolista uruguayo que Carlo Ancelotti citó a la selección de Brasil para la Copa del Mundo",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYjNieGc0bXVnSU1TZlpxMGsyT0ZXMGtXaTBvcUlKRjFVbGV1WEEzaTRJSEFGTGtsT3pTNFdTRFlBV0RCNV8xVmFPX2FCVktybUNsS180dVQzMTJYQzlXSUY2TC1tLUVoVHU1ZEYtc1J2Zm4yLTlWSERGN043NWlZdWN4VmJMZ043U3lZVHl0Z3B1QnhTWmJYREtZQ3NTTzRVWFhlWElTUXFLRVlCcFFLVFIweGE5NExNdS1qZmNEZnBMRjRQQVJHOWVfUmxyNjZjZ0NYWS1MckhEVTgtTWtIUVhhZw?oc=5",
+          "description": "Mundial 2026: el futbolista uruguayo que Carlo Ancelotti citó a la selección de Brasil para la Copa del Mundo &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-05-18T22:13:03+00:00",
+          "score": 6,
+          "score_reason": "Destaca caso particular con énfasis en nacionalidad del jugador.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Se conocieron las convocatorias de distintas selecciones nacionales para la Copa del Mundo 2026. El País destaca la citación de un futbolista uruguayo a la selección brasileña bajo dirección de Carlo Ancelotti. Montevideo Portal informa sobre una fractura confirmada por Barcelona que afectará la disponibilidad de un jugador para España. El Espectador reporta sobre la publicación de las listas de convocados sin énfasis particular. Los anuncios forman parte del proceso de preparación de equipos para el torneo mundial.",
+        "coincidencias": [
+          "Todas reportan convocatorias para Copa del Mundo 2026",
+          "Todas mencionan decisiones de selecciones nacionales sobre sus planteles",
+          "Todas cubren noticias relacionadas con preparativos mundialistas"
+        ],
+        "diferencias": [
+          "El País personaliza en jugador específico uruguayo; otros generalizan",
+          "Montevideo Portal enfatiza aspecto negativo (lesión); otros neutrales",
+          "El Espectador usa lenguaje estrictamente informativo; El País enfatiza nacionalidad"
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Shakira gana juicio fiscal en España, recupera millones",
+      "category": "Internacional",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Shakira ganó una batalla judicial en España y deberán devolverle más de 55 millones de euros",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaElod2dWM0xZTGpCY1oydUZ3eVpqcGxiblowbHdOR2NMMlNXZE4yeUZEMDI4UEpNN2p3RkxhQzNYWjhVN1hxa1BCT01WSzc1RXN3dUlIVXF1Mm4zcDY0T2djMVIzNjE2OHgwM1NFR1ZyV2FSNlpjc3VRLURFeEVCU0ZqMHRKMS1tYVptWU9TdUpSdUx5eENiNHd2ckt6cUZZS2Y0V2VaS2RzRXhjd29vXzZLdWp5aG1uLTJtQWNR0gHDAUFVX3lxTE55OUpiM0ltZy1xXzh0dW12TDdzM3MxQmY4WnFFaTJES1R1Z2hSLVJvVTdmMnZyYjAwSlFPZWtjVWl4M2RqbDdwUFB2RGxQdEdRRFBaWjJOR3Y0eUxmTG5OeGFDalNhSXp6Yy0zRkpzM3RoWXpYSU43SUtqMGRvSDBzcGZteS1qYnZueDZGM09yQnFCazRXMldTQVVpeFpPckJUbUpXMEwxTlhPX1hBbE8zZnJUVlVHT0R3a2g5OVIxd21aNA?oc=5",
+          "description": "Shakira ganó una batalla judicial en España y deberán devolverle más de 55 millones de euros &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-05-18T11:40:00+00:00",
+          "score": 2,
+          "score_reason": "Lenguaje factual y equilibrado, describe el resultado judicial.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Shakira le ganó un juicio al fisco español y recibirá más de 55 millones de euros",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWFqQzlzSk1UQjRVSmpqZzRLZVp0WGNoVE9pVDRaM3lzM1BEdFE2QzIwOEtudER0V3VoZGV5WDJCaDBuX0UwUVFSc1d5RWQ2T210aXNBZ21MRTJwM3EzdlRJYzBqLUtmUF9keG1vYW1rV25hYnZWRExnOTZ0R3VQUDhJMGRiaC1HamdnYmIySDJlYVlKS3ZJeWFpMFpxY2tyRGJ3SWVZMWZXN1dZWVAyNWVWSnhrZFF1ZHhnOVpB?oc=5",
+          "description": "Shakira le ganó un juicio al fisco español y recibirá más de 55 millones de euros &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-05-18T10:55:00+00:00",
+          "score": 2,
+          "score_reason": "Presentación neutra y directa de los hechos sin carga emocional.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "La justicia falla a favor de Shakira y ordena devolverle más de 60 millones de euros",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSFRhZ0wtcGVia3ZhcklTRnZrMk1scXgzaG80dlpvV0w2VDM3dzk4NXJvbGN5MU9XNGNmbF9JLU82R3h2Yk9WU1ZmRXJWcVBZUm9SVXV3WHFzR2ctX3lnTDQtNEhDbkFQZ0VTVVF6eW5PU0Vubi12WG5rOXhEZkhaTnNLR1hsbG5GNFFnazBKUWNMNnRFREZjQmcyN1NZaXV0SGZnb3F6aUJKckVHcXpxMjlXRkRuM1QwV1VXQ2J6VE0waUN6dDhtVjNKMEZGejTSAfMBQVVfeXFMT3VaUEV5czRYT3Y1Wm01V2Y0SDBKRTkxZlo1ZC1HdGhiaEF4bEtnelBjM0diWFJJdWtSUkN3QzJvelRocXpYQkxLcHMxRk1LaVUtUU56NVVObGJBazRwSUtmaTZWUFY3NHFnaEpXYmpVQ081ZzBCRjBNTHlDMjZTcVV6U3BMQTlEQmFVOTVNaWRobEpuMkRzajQ1WXRMa1N0X2ZENDhlQUY4aFJOenREMlNOZTRkNFhCYU45RFkyVlVaYThYYm1ncHM2VXBFRm56VEV5VktSc0VMeVM4c2ZoTUdOU0FibndZb1c4OTNlRXlydVBn?oc=5",
+          "description": "La justicia falla a favor de Shakira y ordena devolverle más de 60 millones de euros &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T10:55:00+00:00",
+          "score": 3,
+          "score_reason": "Uso de 'falla a favor' añade leve dramatismo innecesario.",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Shakira obtuvo una sentencia judicial favorable en España en un litigio contra la administración tributaria. La justicia ordenó devolver más de 55 millones de euros a la artista. Se trata de una resolución judicial que resuelve una disputa fiscal entre la cantante y el fisco español. Los detalles específicos del caso no se detallan en los titulares, pero corresponde a un asunto de tributación internacional.",
+        "coincidencias": [
+          "Shakira ganó el litigio contra la administración fiscal española.",
+          "La sentencia ordena la devolución de más de 55 millones de euros.",
+          "Se trata de una resolución judicial definitiva o relevante."
+        ],
+        "diferencias": [
+          "Montevideo Portal usa 'falla' mientras otros prefieren 'ganó', con matices lingüísticos distintos.",
+          "Variación en la cifra exacta mencionada: 60 millones vs. 55 millones de euros.",
+          "Subrayado destaca 'batalla judicial' sugiriendo más dramatismo que sus competidores."
+        ]
+      }
+    },
+    {
+      "id": "story_006",
+      "topic": "Desaprobación de Orsi alcanza 46% según encuesta",
+      "category": "Política",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Nueva encuesta confirma baja en la aprobación de la gestión de Yamandú Orsi; 46% desaprueba",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUzAtemFVRENyTnVZLVh6alFjNFMwbWl6akE3Z0lqbUlBUjUxOGc1UzFiekY1WkdWNVhYT3lsNWN6SHFKdGtHLUZSR2w3RUVqcjlTUzExenJULTNTLXplWHluZU1mdmxJQzlHYk1lbVFLV2d5THFuR0FBVTRyNFprNExUMlpMdUJsZF9PWE9zT3RPdEI0bS1BQjlKM3hzZ0ExcmoxR0w2QW90QUpHZ19GbzlJajl1MjgwcjB6VFE5dHhHNTlpcEFoRtIBzgFBVV95cUxOSS0zWldRRTd4NXhIT1NSX3FxSzVNSG9zSjRsMlN3YWFzTUt4T2R1ZDM1QkhiNWRvckpJUlpSQU9TZ2dsdl9fcHV2aDRxckNHMlFTVzFjU2R2Vk5PVS1uMV95b1FlRlBHMG83NVd0MjJ4X2tBZnp6MFhyTElhRXA5Y2F3R1lVdHFIVVVOd1hhTkFGeFdyT2o0NjNFeUdPUTNqaUd6VVRYWjVEQXVwTmNzbW5jRWtibko0Y3FyUjJXelA3UzhISG5kXy1WQko1QQ?oc=5",
+          "description": "Nueva encuesta confirma baja en la aprobación de la gestión de Yamandú Orsi; 46% desaprueba &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-05-18T23:10:00+00:00",
+          "score": 4,
+          "score_reason": "Tono neutral con leve énfasis en caída de aprobación.",
+          "score_pct": 40
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Aprobación de Orsi cae 8% y está en el nivel más bajo desde su asunción, según Factum",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWTR6WHpWdjlfX1d6NjZwQjU5SnNIbUJjQlV5Yy1PcEtRQ1dBWWZYbTZhMmlqUFJjRVptV2xEc21mSlFmQW45WkhzNjZmQmdqWWdDMnFYSGMzb1VZam1obDhfNTBXTTlLazV4a3RlZlVHZm9HUU1KcWNZRk1RWi1ERktnc25KMXVVcW0ybFFhRGM1RzlsRktBREFPY05xRVNLVjI2MFNxX2UxT0dXeExGdzln?oc=5",
+          "description": "Aprobación de Orsi cae 8% y está en el nivel más bajo desde su asunción, según Factum &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-05-18T22:21:00+00:00",
+          "score": 5,
+          "score_reason": "Destaca \"nivel más bajo\" generando cierta dramatización.",
+          "score_pct": 50
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Aumento sistemático”: nueva encuesta señala 46% de desaprobación a gestión de Orsi",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcXI5VTdValQ2eDlGRk1HR292RlVLTW5kZVBNMFVaLThrWFpRblhCSDJwb3VhMW5fSHpuSjhINEI0azdCMnhod0cySjhoYldISENLTTVFUGh0QlNWZFJ5Yjl3eS0yX0poNkVJRThaejYycnRsNTBpRkI0dnEza0NlVXhtZDBpeF9adG5CR05nc2JJWXF3bzhqVVBjbkxuVXhQaGZCTDZOOHI3VVVIOHQ0Qm5WemZ2cXNRb194SElxenNXcmwwZm1lVg?oc=5",
+          "description": "“Aumento sistemático”: nueva encuesta señala 46% de desaprobación a gestión de Orsi &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T23:09:00+00:00",
+          "score": 6,
+          "score_reason": "Usa \"sistemático\" para enfatizar tendencia negativa continua.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Una nueva encuesta de Factum revela que la desaprobación de la gestión del presidente Yamandú Orsi llegó al 46%, mientras que su aprobación cayó 8 puntos porcentuales, ubicándose en el nivel más bajo desde su asunción. Los tres medios reportan los mismos datos de la encuestadora, pero con énfasis y framings diferentes respecto a la interpretación de estos números.",
+        "coincidencias": [
+          "Los tres medios reportan la cifra de 46% de desaprobación",
+          "Todos mencionan datos de la encuestadora Factum",
+          "Todos señalan caída o baja en aprobación presidencial"
+        ],
+        "diferencias": [
+          "Montevideo Portal acentúa el patrón sistemático; Búsqueda destaca el mínimo histórico",
+          "Caras y Caretas utiliza lenguaje más equilibrado; Búsqueda es más alarmista",
+          "Montevideo Portal enfatiza tendencia; Búsqueda enfatiza magnitud del descenso"
+        ]
+      }
+    },
+    {
+      "id": "story_007",
+      "topic": "Lesiones en selección uruguaya previo al Mundial",
+      "category": "Deportes",
       "sources_count": 2,
       "headlines": [
         {
@@ -14,13 +470,13 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "“Al que va primero lo critican todos”: Agazzi respondió críticas al MPP y recordó a Mujica",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbUZ4dksyeXVvZTVlS2JJdjBjcVQ2TF9sUDY0Um8xVWZQS0RFdGRtRkZubjA0Yk9LV1VLUVhId1NlalJHWGdkbkNPdXBSUElLSkhEVFFZRGhuWVpTdnZpQ2RzVEFBZ0FmcUtkU2FFTlEwVm94MnV5UmFKckVDc0lMX0JzaVpVNDZUZnoydkZpTEhlUFJKeVdyVEhISjdEV09GRUdWV3ItVEhOOGxGT0VMVmN4NGxnY01MYmxUZUNiLXB1alU3dVk1Q29WUkR0SjVaQUcw0gH3AUFVX3lxTE9mS0NvZjVocTFIajNZU0UyN000OGFQWmJlZFAzeW54LW53aVJMODhaMVBLaUVUMzBCMFotNDFkVFFrUS11a1B4VzZTRG5CM3pNeXlvTjFHMEZlSEpVS1ZXb2lNbFM1YktESmIwUDhhV3l6NXZreElMTWYwU1FlT0FaTDZWWW5ZTFNtcXNTUlkwOGxJaWhGU29OVUx5a01HQU83TFM5VXZvOWVWaEJTaDJpTl9iRHhsSDYtRElLemNyNnY5UVJITW5WeU9EcEJ6cGtmWENGMWFNSkVvWG1kLUtqYlM0dm9UTWVhaTNiYUhfNTV1MzhkVDg?oc=5",
-          "description": "“Al que va primero lo critican todos”: Agazzi respondió críticas al MPP y recordó a Mujica &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-17T17:00:00+00:00",
-          "score": 5,
-          "score_reason": "Entrecomillado sugiere defensiva; ancla en comparación histórica cuestionable.",
-          "score_pct": 50
+          "title": "Mundial: Viña sufrió un desgarro a un mes del debut de Uruguay y preocupa en la selección",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVjBkeFYzM1ctdTA5RktCenJMNEltZGNNbC1JNE91SEJWd2xKcmRhNE1NUjljV2Z0dUxaWEV4dktWX05IRm1LSkNPRGVmSF8wUm00aDJtYlZjejFPaFZuSVBIS2kxOWJibkEybnVNRHhtWXMxWE1jQ0VJQ0E5MzJHckVYUGVsbGRLOWl0LWF0MFBRcERsemJ1bzBWLUgxVXVQWV9sQVBsZEVFai1WM0FwaXRWcGVfTGVfR3Bxb09vY0E1UWVCVmZnbWEyVjJ2c19iLUHSAfYBQVVfeXFMTndkZDdNMGtHU2N6M3Nndmt0RTFkQUFJLTFXTzFwb2RUYUZxLTRadTctVjdWQlM5bDBCNE40bS1wSjFGdWgzM19RMEhHZGVadnhmbXFhVHNadWpfdG1vNFVxSFM3QzY5RFFleDQtQWlEUkxSNTZiZnZBcndsZVVDV3FWQU52c1ByenZPYzZpM0pOdndpWU5zVHFPazBFU0ZfdDlZMVFXanJWcU43c0JEdFdRZE1CVEZidFk3Zk1HY1FVZXFOVUpNbjZMdTMxRnhlVFpXQ1Z6VlNMRl9uVTZYNjNodjUxaHlvQjR6d01RUThuWDFSOWdB?oc=5",
+          "description": "Mundial: Viña sufrió un desgarro a un mes del debut de Uruguay y preocupa en la selección &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T23:20:00+00:00",
+          "score": 4,
+          "score_reason": "Informativo con énfasis en preocupación legítima pero sin sensacionalismo.",
+          "score_pct": 40
         },
         {
           "source_id": "elpais",
@@ -32,131 +488,29 @@
           "title": "¿Luis Suárez tendría que haber sido reservado para el Mundial? La contundente respuesta de cuatro periodistas",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSkRJYkhWY2NjdS1vU1pYTE11Vi1wZkNfMDNfWWlMUzBCenROSHpHOVAyZ1R1WmY0cC0zcnF3TjBpZWdVNXluZXZrZVJTenJQNDVnSVQzMXhzelZBemc5SzgzQTlpZUUybFNMWDlNTFNobkxDOTJZWloxaTVXSVQyLXRXMzctVVo2OU9ZaUhXcnZYaEtFUk00cjIxel96OHRPNmZidFRCTl80YjItSmJZWDc1b0tFNE9CWHAtS29vTUI4SFA1Z29HNmhCclZhSEVqcjFDTUZDS0cyNmJvbnc?oc=5",
           "description": "¿Luis Suárez tendría que haber sido reservado para el Mundial? La contundente respuesta de cuatro periodistas &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-05-18T00:04:39+00:00",
-          "score": 6,
-          "score_reason": "Palabra 'contundente' carga emocionalmente; plantea pregunta provocadora.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "Se presentan dos noticias uruguayas distintas: una sobre debate periodístico respecto a si Luis Suárez debería haberse reservado para el Mundial, y otra sobre la respuesta del ministro Agazzi a críticas hacia el MPP, donde menciona antecedentes con Mujica. Ambas reflejan tensiones actuales en Uruguay en temas deportivos y políticos, con diferentes actores dando respuestas a cuestionamientos públicos.",
-        "coincidencias": [
-          "Ambos titulares presentan respuestas o defensas a críticas previas",
-          "Los dos reflejan tensiones en ámbitos importantes: deportes y política",
-          "Ambos utilizan recursos retóricos para captar atención del lector"
-        ],
-        "diferencias": [
-          "El País enfatiza debate periodístico; Portal enfatiza respuesta política defensiva",
-          "El País trata tema deportivo; Portal trata tema político-partidario",
-          "El País presenta pregunta abierta; Portal presenta cita entre comillas como ancla"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Salchiencuentro Uruguay y conflictividad en Ciudad Vieja",
-      "category": "Sociedad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Salchiencuentro Uruguay: La cuarta edición de un evento cultural y social",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXFRN0g0MTRfREY5YWlxNXpDQndaNktPcE10ODRHWEdCNHlsYVplcGNmYzhLdXU5YndlbkhvZ25ZdS1nMnM5RGdIVGNuRjMxYl9kUkhWbnhuNk9GenN3S3RFS0NUaHlCX0hGUkQyWjgtZFQxYmRSUkJXZllrMU9ydWxFTVlreE1mM0tzVzFzZDh3aTR4U2d5aVpCNHJTNkJqaldGVC1zT3pULWNhVmpMVA?oc=5",
-          "description": "Salchiencuentro Uruguay: La cuarta edición de un evento cultural y social &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-05-17T04:21:18+00:00",
-          "score": 2,
-          "score_reason": "Descriptivo y neutral. Informa evento sin carga emocional o valuación.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Ciudad Vieja: el millonario proyecto de revitalización y la noche que vecinos y comerciantes ya no soportan",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcWxpb0RNYmtTZ2VZSWRydU1ka3NQa3pZYWZkdk1aNndlZHh3Tnh1dnVJSEtpa05HRDVUV1BlTWNVT2NjSWRxckNmMURaTXRycXdsSURya1loWkVBZ3RudXV4aDE5SHo4bXRqQ0EzVWg2UW9zbUN2NDNUQWNxeEFyTVo4UjNrTjFHM21NVHZ2RURhX0RrX1hnOExhTjVRMGNGeU84SzBLdzFkZ0ZlMGNGQlhMLTUzckRZYzgxWWxGRDVkOGZWVXd5RmhVQ3QxZlBNR3BNVXJXSVA?oc=5",
-          "description": "Ciudad Vieja: el millonario proyecto de revitalización y la noche que vecinos y comerciantes ya no soportan &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-05-17T07:16:39+00:00",
+          "pub_date": "2026-05-18T03:24:04+00:00",
           "score": 7,
-          "score_reason": "Usa palabras cargadas: 'ya no soportan'. Énfasis en conflicto negativo.",
+          "score_reason": "Presenta debate especulativo con adjetivo 'contundente' innecesario.",
           "score_pct": 70
         }
       ],
       "analysis": {
-        "resumen": "Se realizó la cuarta edición del Salchiencuentro Uruguay, un evento cultural y social en Ciudad Vieja. Mientras algunos medios destacan la revitalización del barrio mediante este proyecto, otros enfatizan las molestias generadas en vecinos y comerciantes locales, particularmente durante la noche. El evento presenta perspectivas contrapuestas respecto a su impacto en la zona.",
+        "resumen": "A un mes del debut de Uruguay en el Mundial, dos jugadores clave de la selección enfrentan problemas físicos. Luis Suárez genera debate sobre si debería haber sido reservado para la competencia, mientras que Giorgian de Arrascaeta sufrió un desgarre que preocupa al cuerpo técnico. Estos inconvenientes llegan en un momento crítico de la preparación del equipo.",
         "coincidencias": [
-          "Ambos reconocen que el Salchiencuentro es un evento que ocurre en Ciudad Vieja",
-          "Ambos lo asocian con actividad en la zona antigua de la ciudad",
-          "Ambos mencionan que es una iniciativa recurrente (cuarta edición)"
+          "Existen problemas físicos en jugadores clave de la selección",
+          "La proximidad del Mundial genera preocupación sobre disponibilidad de jugadores",
+          "Se trata de un tema relevante para la preparación de Uruguay"
         ],
         "diferencias": [
-          "El País prioriza el malestar de residentes; La R destaca el carácter cultural-social del evento",
-          "El País usa lenguaje problemático; La R adopta tono informativo sin juicios",
-          "El País implica fracaso del proyecto; La R simplemente lo documenta como acontecimiento"
+          "El País enfatiza debate editorial sobre decisiones pasadas; Montevideo Portal reporta hechos actuales",
+          "El País usa lenguaje provocador interrogativo; Montevideo Portal es más directo y factual",
+          "El País cuestiona decisiones técnicas; Montevideo Portal documenta el impacto en la selección"
         ]
       }
     },
     {
-      "id": "story_003",
-      "topic": "Resultados de la fecha del Intermedio uruguayo",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Mirá cómo quedaron las tablas del Intermedio, Anual y Descenso tras victorias de Racing, Peñarol y Nacional",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV192OGRyaHZ0bjJWLVo4cjEzZUhCUnh6VENWVlQ0RF9aMkg4LWdjaW1PRXJzTjd1QVFKSUprYjQtT0MtOW1UeWYzb3hHSHE2eHA4bnRjSzBrNDhvNlZuTDlKd3lVaWYtSkVsVGM3Z0lLUjNxSVR6Q0VOaXlkY0ZDMC1QVFJLaXdkd2owWTBfRHV2TkEwazRSNzFNZXlWYmZ5QWwwVW9wTzA2NFpOZEJJUV9zeHVaQ2xNOWloUXowLWZlb2psUjNDaXpwd3FJeTFETUJaMGxkVk9DbVNnb2Vz?oc=5",
-          "description": "Mirá cómo quedaron las tablas del Intermedio, Anual y Descenso tras victorias de Racing, Peñarol y Nacional &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-05-17T20:43:13+00:00",
-          "score": 2,
-          "score_reason": "Neutral, informativo, enfoque en actualización de tablas.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Intermedio: Central Español derrotó 2-1 a Defensor Sporting de atrás en el Palermo",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYmJRS0g3b0NVeXdudktNYWtqV2ZUa3R2US1ZZFJmdjUwLU1VOUlQSXc4ZjVzUHNBVjZPbTJhcmlqaXlKY3lBTjhERlgxVDVMcGRVdjh1aTMzTjJBOFJ6dzVEamtQQzFLdDBseGRwUEt4VHM3bXVNRTRYMWtBZTJoYjU1dEVscTRIS3ZiZlpEd0xiZ0F6REZWVTRlbDRuWFNHMVZrdG9Lc3hlQWRBVUg2OWJTa09UeGNQSWMxYWRQSHNVSXhMOEpDTQ?oc=5",
-          "description": "Intermedio: Central Español derrotó 2-1 a Defensor Sporting de atrás en el Palermo &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-17T14:56:00+00:00",
-          "score": 3,
-          "score_reason": "Énfasis dramático en remontada con 'de atrás', levemente cargado.",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Se jugó una fecha del torneo Intermedio de fútbol uruguayo con varios resultados destacados. Racing, Peñarol y Nacional lograron victorias que impactaron en las posiciones de las tablas de Intermedio, Anual y Descenso. Simultáneamente, Central Español derrotó 2-1 a Defensor Sporting en el estadio del Palermo, remontando el marcador para conseguir la victoria en condición de visitante.",
-        "coincidencias": [
-          "Ambos reportan resultados de la jornada del torneo Intermedio.",
-          "Ambos confirman victorias de equipos en la fecha disputada.",
-          "Ambos cubren únicamente hechos sin opinión editorial explícita."
-        ],
-        "diferencias": [
-          "El País prioriza impacto en tablas; Montevideo Portal destaca una victoria específica.",
-          "El País menciona Racing, Peñarol y Nacional; Montevideo Portal se enfoca en Central Español.",
-          "El País usa tono meramente informativo; Montevideo Portal subraya dramatismo de la remontada."
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Dos eventos distintos en medios uruguayos",
+      "id": "story_008",
+      "topic": "Batalla de las Piedras y cántico de hinchas del Inter Miami",
       "category": "Otro",
       "sources_count": 2,
       "headlines": [
@@ -172,7 +526,7 @@
           "description": "“La Batalla de las Piedras fue un enfrentamiento civil entre camaradas y excompañeros de armas” &nbsp;&nbsp; EL PAÍS Uruguay",
           "pub_date": "2026-05-18T07:30:26+00:00",
           "score": 3,
-          "score_reason": "Énfasis en 'civil' y 'camaradas' suaviza la batalla histórica.",
+          "score_reason": "Enfatiza aspecto emotivo 'camaradas y excompañeros' innecesariamente.",
           "score_pct": 30
         },
         {
@@ -186,30 +540,97 @@
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQktxSFlSVnJoSHYtQlhndlFNZ1M5M0w5dHlkX3lsMUdGMFdiYkdfSTFaam1aTVF3anRsRWhYc1NFT0hkLWRyd3ZUOXhHOC1ZSzBqSlRWZUdxZHFJekFoTFlOQXJaZnlJWDZqZkxXcEpZSVQ2ejR0YTJ1NDQ0N2gxWTFXQVlYelZHVEFkQmJIamVzZ0ttcmV3YS1QWjdHcks5WVdCMS1zQk1uaFRjS1loaEdfYkR5VFM3cjQxeVhuZnpVWW1wTUZV0gHrAUFVX3lxTE1VQUNqUWhkZXRvLWY1UlR4cTVHT0dhcUQtR0pEMy1ZNXZCRnJaazN5QUxZTVZUU1FId3lFTFFLa1RfWjNYcHVFbjdCdWk1clNLbnoyRjBURmtYanYyR3pHeFVXVjFMU0tiZ0tObFpSSnhZTk9sVTFhdHpkd3JWMnVzTzcwZmNrbHp4MDRPVENTS3EwLVRkam9ZZ2Z1aDY1NjFHNjlpdl93cEs3Q245MWVZNDhUQWhYQWE2b2VFOVFXRU9uNDUtS212ZFZXMkVLaHFqVHdOWHhWQ21RaWdvZEFKXzRhUk9MZVExMjQ?oc=5",
           "description": "“Jugadores...”: el cántico viral de los hinchas del Inter Miami que molestó a Messi &nbsp;&nbsp; Montevideo Portal",
           "pub_date": "2026-05-18T10:24:00+00:00",
-          "score": 6,
-          "score_reason": "Palabra 'molestó' carga emocionalmente; enfatiza reacción negativa.",
-          "score_pct": 60
+          "score": 5,
+          "score_reason": "Palabra 'molestó' implica subjetividad; sensacionalismo con 'viral'.",
+          "score_pct": 50
         }
       ],
       "analysis": {
-        "resumen": "Se presentan dos noticias completamente diferentes: una histórica sobre la Batalla de las Piedras caracterizada como enfrentamiento civil entre compatriotas, y otra deportiva sobre un cántico de hinchas del Inter Miami que habría molestado a Messi. No existe conexión entre ambas noticias ni información suficiente para elaborar un resumen conjunto coherente de un mismo evento.",
+        "resumen": "Se presentan dos noticias desconexas: El País reporta sobre la Batalla de las Piedras, conflicto histórico uruguayo entre combatientes que habían compartido experiencias militares previas. Montevideo Portal cubre un episodio reciente donde hinchas del Inter Miami entonaron un cántico que generó molestia en Lionel Messi durante un partido. Ambas son informaciones factualmente documentadas de ámbitos completamente diferentes.",
         "coincidencias": [
-          "Ambos medios son uruguayos de circulación nacional",
-          "Utilizan comillas para destacar información central o declaraciones"
+          "Ambos medios reportan hechos verificables y documentados",
+          "Ninguno utiliza lenguaje abiertamente agresivo o calumnioso",
+          "Presentan información que puede consultarse en fuentes históricas o de video respectivamente"
         ],
         "diferencias": [
-          "El País trata tema histórico-político; Montevideo Portal cubre deporte internacional",
-          "Distintos eventos noticiosos sin relación temática entre sí",
-          "Tonos diferentes: descriptivo vs. sensacionalista"
+          "El País aborda tema histórico; Montevideo Portal cubre noticia deportiva contemporánea",
+          "El País describe contexto relacional; Portal enfatiza reacción emocional de una persona",
+          "Diferencia temporal: uno es historia nacional, otro es acontecimiento reciente"
         ]
       }
     },
     {
-      "id": "story_005",
-      "topic": "Griezmann se despide del Atlético Madrid",
+      "id": "story_009",
+      "topic": "Cabo Verde confirmó convocados para Mundial 2026",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "El País (Uruguay) - mayo 19, 2026",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPRVNNZ3VJbm5SU1ladDk3THUyV09ncV9vRWw5akF4b3ZaZzF0Yy1lbGk0dEppMU55b2lLLVp1amxnTXZMNzJVZDRhbTVYV2tOUW9RbFZRbw?oc=5",
+          "description": "El País (Uruguay) - mayo 19, 2026 &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-05-18T18:19:00+00:00",
+          "score": 1,
+          "score_reason": "Solo data y medio, sin contenido informativo específico.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Mundial 2026: Cabo Verde, rival de Uruguay, confirmó sus convocados. ¿Dónde juegan?",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0ZoZjRiQktIWDQtSVQtMld2NEgwV2J4TlFTSlNIakJib3hUdUlwdjJkN2hOY1NGY0RvQm91MTFfVkM3TmVKeTlQZnA4LVh5THVrWERHbW9CS2pzRXZpSk5Hc1lMdkFpdWhFdGNOY2F4Qjdib1R4cmhidXRkQTdUaHdIUVZTcjRJMzdvYTBrUnlVVURqLVVEWjR3aUtCM1ByblNYNHFvT0tuUlVkeC05bUhaa2p0N0U2S016SDhFUmRPOWh5SUHSAeoBQVVfeXFMUDQ1d2Y2ZkoxYjNIZ1RubC1Ed0UwNzZ4MmZZOFhYLTRITXRzV01PZWFoM2g1a2s4d0hUUTJTZ2I0QjZfUTBvR1I4SDAwSnlfaDdxMEdRdFRJcHFwN3ptWHdjNlBNZkZRUE56VVMyTl84bDN3dDZXQVR3OENRdlFmYTkxQy04MjJqaUJjeWhmR0dCUUpiWXJCXzM3VTN1aGU1RWF1bldrRll2SWEzQnZXQmNlRy1IZkc0cDk2VmM0bk9yS0EzUkNPcS1lS2tZVmJlSzdlclZKUHdaemllYTkzVU9NYUFoMjRWYWxB?oc=5",
+          "description": "Mundial 2026: Cabo Verde, rival de Uruguay, confirmó sus convocados. ¿Dónde juegan? &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T12:53:00+00:00",
+          "score": 2,
+          "score_reason": "Informativo directo, añade contexto con pregunta sobre equipos.",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Cabo Verde, seleccionado que enfrentará a Uruguay en la fase de grupos del Mundial 2026, confirmó oficialmente su lista de convocados para la competencia. La noticia se enmarca en los preparativos de ambas selecciones para el torneo internacional que se disputará en próximas fechas.",
+        "coincidencias": [
+          "Cabo Verde es rival de Uruguay en el Mundial 2026",
+          "La selección de Cabo Verde confirmó su nómina de jugadores",
+          "La información se refiere a preparativos para la competencia mundial"
+        ],
+        "diferencias": [
+          "El País no presenta contenido en el titular, solo metadatos",
+          "Montevideo Portal complementa con pregunta sobre dónde juegan los convocados",
+          "Solo Montevideo Portal ofrece información sustantiva en el titular"
+        ]
+      }
+    },
+    {
+      "id": "story_010",
+      "topic": "Situación del Intermedio: posiciones y próximas fechas",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Intermedio: posiciones a falta de un partido de la primera fecha y detalles de la segunda",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRjlGX29pd29RZmxjMjFCSlBCb25WSEFhdVhQY2RMUnhaY0xITklmc0EyWWFnbkdvSmR2NnFueGRTWDF6OUNZX2loeXR3UFRTdkhWVUNYak90VXlJbURxZC0wb2lwM2d2SFpjb1N2UXlzR1VuOTF5ZF9VQ3JGVmZRZUREOGpNeHJJNHdTMXNFUWNQY2Z1VzlXNXpEejNiV1R1R1VTN193WW04RUdrTHNvWWVocmVfQWRkeFJqWjdEdzU2V3FTQ3FxWDQ4QTR6SDQ2Z0HSAfYBQVVfeXFMTnA5QVRwVW5sQnpSS05kYzcxTmtWcERRNm9pZGRFaEphOVQ0S1Z4Y252MGU2VHVVaFMyLUNzNDhxR0NzYkoxSmd1NTlicnllSTRrSEh2OUtxVjQxMk9RSTJibTFwdDRUbjJ3YWdKbEt5TnpETzRNZ05EMm5vR2JVOUROZ2Y3TlYzeUlhMEJzb182dE1Tb1lYaDdEMmJkVW9EWjV2QmQwaTIza3gwa1Q0WlNkWTQtVTBvTTBwYVJoRmtyRVF3Z053Q2pUaGdCZ01Xa3hKOGpaZFJPcV9wbU1TdFhVNzl3RWVyck92RmRvNzZFeURlTDNB?oc=5",
+          "description": "Intermedio: posiciones a falta de un partido de la primera fecha y detalles de la segunda &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T14:46:00+00:00",
+          "score": 1,
+          "score_reason": "Informativo directo, factual, enumera datos sin emoción.",
+          "score_pct": 10
+        },
         {
           "source_id": "espectador",
           "source_name": "El Espectador",
@@ -217,48 +638,33 @@
           "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.espectador.com",
-          "title": "Albion y Wanderers igualaron sin goles en el Parque Rodó | Noticias | Futbol Uruguayo",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaGswZ0VEM01vMmllaWlZVzd3VGdHYnd2NnRRMnZIbkFhNDJseXNvSlN5Y2p6WEdlT2JkQ3BsUF90SWZ2andoQXR5LTZXUEVJUE90SFNVbXJtb1VCbWhzQUpPSHRUUTJjWC1oZ0NHR2NVSjJfd001UGJTZDNpcWpnQ2NmSUVIOWJ2Z0dtOFZwTjdzS3Yta1FTSUxLQ1diY0E3a3ZBTW9B?oc=5",
-          "description": "Albion y Wanderers igualaron sin goles en el Parque Rodó | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-05-17T23:15:30+00:00",
-          "score": 1,
-          "score_reason": "Titular puramente informativo sin adjetivos valorativos ni carga emocional.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Atlético de Madrid: emotiva despedida de Griezmann, quien se disculpó por un viejo “error”",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZG5Ucm5ScDVYdVE0TXVQUWlvQkI4dUl1amRSOWhjWjVDelNMVjlqek95T242RWNyeEhYWFQ5QnN3cFFwS0IyWHJONWZvSDZBeVNQN3BkTTRXeDM5Y25nbllZMC1UbklNUVJWRGRlbTJKSk9UYmtUanZxUnY2OU45RWxzcXRqMkJ6MmtaTUxMWGFTdHNFSlVMNzQ4NmpOaDdDVzMzMjVKdEkzRmJabURJSnlVcmNfbUdaQmxvNWEyLXg2WW1BUWx2Y1I1LWIxeUJS0gH0AUFVX3lxTE5YcEN6OUtOeVN2eEJGTFh3WG5BU3c1VUkyX3VBWmJpSU55UERDci1IR3JTSVRQTV82TG1YMFY1UEZkcGJJRnZjcVN2d1ptTVl1SlNOVzZLUXNMTlZiRHpQdm1Va0VHZ0x4Zmdfcnl6T2llWURkSnZUUmlCdG5UenhjSW5TS1dGeER1eUZ3SWF3VWdoYkVwR1kzMnk3ZGlDZDluMWRwWkRjSXZBT2F6LUJqQkZ5empzd0ZTbzM0R3AtQjBvTTFrYUZTNWZyVndUYVg5Z1NGZWlqeUZMdkVZaGM3REg1c0d0MDVoM2NKcnI5bk0xVnk?oc=5",
-          "description": "Atlético de Madrid: emotiva despedida de Griezmann, quien se disculpó por un viejo “error” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-17T20:44:00+00:00",
-          "score": 6,
-          "score_reason": "Palabra «emotiva» carga emocionalmente; «disculpó» enfatiza drama innecesariamente.",
-          "score_pct": 60
+          "title": "¿Cómo sigue el Intermedio? | Vamos que Vamos | Entrevistas",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtcVN5R3JONGtvdDRtZ3dSVVdVN2hkY3pGcmszMVVxeHMtZWxYQ1VYMWpObUFBaG1HTnY3VWg1RHpKLXo5V3ZKSzdGRHJkSzdMQ0tvdFZOMzNlcUV6cDBseFh0MlBycm15SlI2dDFkV0xGYkV2Z3RiemU2WndrQQ?oc=5",
+          "description": "¿Cómo sigue el Intermedio? | Vamos que Vamos | Entrevistas &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-05-19T00:12:09+00:00",
+          "score": 2,
+          "score_reason": "Interrogativo pero neutral, plantea pregunta directa sobre estado del torneo.",
+          "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "Antoine Griezmann realizó su despedida del Atlético de Madrid tras su salida del club. En la ocasión, el futbolista francés se disculpó públicamente por un antiguo «error» cometido durante su etapa con los colchoneros. El evento tuvo carácter emotivo, marcando el final de una importante etapa en la carrera del delantero en la institución madrileña.",
+        "resumen": "Se reporta sobre la tabla de posiciones del Intermedio del fútbol uruguayo, con un partido pendiente de la primera fecha. Los medios informan sobre cómo continúa la competencia y adelantan detalles de la segunda fecha. Se trata de una cobertura informativa estándar del torneo en curso, sin incidentes o noticias extraordinarias que destacar.",
         "coincidencias": [
-          "Ambos medios informan sobre eventos deportivos de relevancia",
-          "Se refieren a hechos comprobables sin especulación",
-          "Cubren la actualidad futbolística de forma directa"
+          "Ambos medios cubren el estado actual del Intermedio",
+          "Ambos hacen referencia al desarrollo progresivo del torneo",
+          "Ambos adoptan un tono informativo sin sensacionalismo"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza lo emocional; El Espectador mantiene neutralidad informativa",
-          "Portal destaca la disculpa como elemento central; Espectador prioriza hechos deportivos",
-          "Portal usa lenguaje subjetivo; Espectador utiliza términos factivos y descriptivos"
+          "Montevideo Portal ofrece datos concretos (posiciones, partido pendiente)",
+          "El Espectador formula pregunta abierta sugiriendo análisis o debate",
+          "Portal enfatiza hechos; Espectador invita reflexión editorial"
         ]
       }
     },
     {
-      "id": "story_006",
-      "topic": "Cruz Azul clasificó a final del Clausura mexicano",
-      "category": "Deportes",
+      "id": "story_011",
+      "topic": "Femicidio, homicidio y suicidio en Los Cerrillos",
+      "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
         {
@@ -268,64 +674,13 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "México: Cruz Azul, con Gabriel Fernández y Ebere, clasificó a la final del Clausura",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOWVNdTRfZVRfcmJZelNrTm1BdDBmTkZCanJlXzJranZlRV9OZW1nYVh2VWYtMWpRT2xHMUhIYzl4dnRjRGRqbi04R1NOZ1c0UHloSFZ5NDZNc2NCdkJzdV9qdUlLWDZtNjVMM1FoY244aFNycUJEZmhRbmdDTVVNMm0zYW14RVlma3VacUtaanY1d2FhNW5hR2NoS2F5RkxWMnNFNEVZU0lDWDV6ekM4MVdTVERTU3RBVWItRFB6RUZNcXQ2azFr0gHrAUFVX3lxTFA3T2JYMXc3VW01ZWhmYUlNbUpGUDdSMUxxZE82ajBBaDBKU1NodE9UY24yNDRLbmNBSmhqTVgyeUJ5aXFmZE9lTzBYQ0xUVFd6Q0NFeEh3bXRrNk5JTUVKeDlqMXFWMERtZF9lVUtNdGRHanNVSVRPbFdha3ZLSXRzeEFLR0phSTFwc0FKaGpuMlBIdkJMU2VSV1daUWVsbG52LUFMX3RReVFHX2t0am5FNG1zenRiWWUwaDNrZHdNMWVaeTJnNzBYVldRQ25pRExzZlNsOXBLWjJOTGY0UmdVMk1ickZ3RHNiZjg?oc=5",
-          "description": "México: Cruz Azul, con Gabriel Fernández y Ebere, clasificó a la final del Clausura &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-17T10:39:00+00:00",
-          "score": 1,
-          "score_reason": "Titular informativo, directo, sin carga emocional ni énfasis particulares",
-          "score_pct": 10
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Renace Venezuela",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56eUJBWDlQcnJmcGhfYmREOTVnZE9oTERiSE41NjdGblJ0SjJ0N2M0N2hycVNYZlhhNTItMWtlOFE5aURqOFVyT1dlaV9GSGJFdVpQMWpDUTIxcE1Wc1B1NDZJRENwZw?oc=5",
-          "description": "Renace Venezuela &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-05-17T04:50:25+00:00",
-          "score": 8,
-          "score_reason": "Lenguaje cargado y genérico, no informa el hecho específico, usa palabra emotiva",
-          "score_pct": 80
-        }
-      ],
-      "analysis": {
-        "resumen": "Cruz Azul se clasificó a la final del torneo Clausura de México con actuaciones destacadas de Gabriel Fernández y Ebere. La noticia fue cubierta por medios uruguayos, probablemente por la presencia de jugadores o conexiones nacionales en el equipo. Se trata de un hecho deportivo relevante en la liga mexicana que generó cobertura en prensa regional.",
-        "coincidencias": [
-          "Ambos medios cubren un evento deportivo internacional relevante",
-          "Se presume participación de jugadores de interés para Uruguay",
-          "Los dos son medios nacionales uruguayos informando sobre México"
-        ],
-        "diferencias": [
-          "Montevideo Portal es específico y detallado; La R es vago y emotivo",
-          "Un titular informa el resultado; el otro sugiere regeneración nacional ajena",
-          "Montevideo Portal menciona nombres de jugadores; La R no proporciona información concreta"
-        ]
-      }
-    },
-    {
-      "id": "story_007",
-      "topic": "IM evalúa proyecto contra inundaciones en Aguada",
-      "category": "Política",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "IM evalúa proyecto de US$ 40 millones para eliminar inundaciones en la zona de AFE",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmZ5clpkTGhYNzg3S01ERkVkYUhVX1otYkZEakp1MXl2R3Vrb01EMjdmbHVCeUN5ODVwMk1ST0VTRWtKblFGb0JwRGdHakhqdEJVM08zZnA2bFY4ZVUtRzU1TE9BRlE1MTR0cS1jNjFwbHdBVndmT0djVHFRcjNnSWttVWRoZEVNTlNLOGk4cGtwUDF2bnZGVTh6a2ozb0pWTUF6dXhDczlGX1I1UUI3Zmx0Mm1WbUl6MDhXVTF3clVlMW5jdDU0ZtIB7AFBVV95cUxQbFVFSTRTSWI0eEVQa053S1ZaeFZJT2dMLU03YmpHUEpDbVFCdXhISVRBbGRRdktCNk9xYU1UZHlGLVNIZlJ2ZWN6Yzk3cFlGcjhhQjlTWmMzTUNIczV4ZVhpU0xyUjJwc0tYVF9JOFc4OXRjeGRJUTRXRVBoWFBaM3NGMEVxOGJiRHhBZTNxSVZvRXdVTDRrZWRLa01KVzRsOXNjdXJIak9QOW1FaTNXUmlQS2ZJcnpGQ3J1WWZZeUpRYUJyUjBNVERRaVBTbWY0Wkpyc1c0TGplVkpycmRIS3pyM2MyYmdoYzlFag?oc=5",
-          "description": "IM evalúa proyecto de US$ 40 millones para eliminar inundaciones en la zona de AFE &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-17T15:56:00+00:00",
-          "score": 1,
-          "score_reason": "Lenguaje directo y factual sin adjetivos cargados.",
-          "score_pct": 10
+          "title": "Femicidio en Los Cerrillos: el objetivo del asesino y el pedido sobre la salud del policía",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeWlNZ3pabDJPSlc5eGJvdjdyQ3VySmd2R1J3LXNiOWtybERwR193enlvTkx2Nm5MdDg2MTJEYkRIbkx2NEZmTnVPTV9KZm9EX28yT3FHb3RyMHJGT2gxOXcxVko4RmN0MWZvbm5kbWc5dG1KTTdkNTlsbVpmdzM0TnY5TS03SzFGQ24tWkFpSnBzaTlhUXVMY0pOZlp0U0l4UVRTYjBWRG9KOUpkTTJxd2pmbXUwb1JkOTdQMXJmQUMzRWNYWWZaeUJhSkRJalk4aHFz0gH3AUFVX3lxTE9mMEE0WHAyOU9MVHZ0cFc1OWF4OWZ4cDZkUTdUQmxELUN0bEs3U3VRWmdlNkJCX1FpemhIcm5XSC1xdkhaS1pVSkRWOGxTbDRkZm1pRnlDRUJpNVI2MkJSdFBSZG5uY0pudWpaejRnelJhVzZoNlBlQURzSFRkLW9EbjFvS3hleDhOZUEzZ2FQOV8waXhNSEQ0VzVBWE85cW51YVBWQldTMG1wdlFtdnZYTUFTbG1lVjFFaFVuVzBnTWVCMkxYSGNmT3Rka2tHSFFlUlVFcXVvdlE1VW5fNXQzaWRsaEhpbXFLNXRuSU1GMkhKLVNveWM?oc=5",
+          "description": "Femicidio en Los Cerrillos: el objetivo del asesino y el pedido sobre la salud del policía &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T19:59:00+00:00",
+          "score": 3,
+          "score_reason": "Informativo pero enfatiza figura del 'asesino' y salud policial.",
+          "score_pct": 30
         },
         {
           "source_id": "subrayado",
@@ -334,32 +689,287 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Bergara dijo que tiene un \"proyecto primario\" para evitar inundaciones en Aguada: inversión sería de hasta USD 40 millones",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR3FFUmYwZHBpUjVCWlNEWjZxSHFWNkRmYWtiQXVNVG40NVpSQ0pfbHhxdTB0R1R6VG9Ba0hWTVpVMHV5VUV2cVF4MkRjTTdPTkhDYURFNW9FYkVXVmd6OFhNeXpXVVNwcVktb0RfSmRaaEFpdDU0S2txS1VqU0YzSFE0S0lIaEZ2SE5sQnQ2M25lVndPN1NBZGY3RDQ1UjZzVFpBRHZPVkZidXdZOC01S2MwRFZFS2NSYXRvQ3NwZF9SWnFZWjBfNTFVMXdmNXdUZWlObWl30gHbAUFVX3lxTE0yU1pvdWtMNUw0bUJlZ0NuRkw5NmJ0VktQV05PTUhkdWFkLVNEcHp1YU95eXVfNDl2dWJSMjkwODlTTm1aU042blBESVJubm0yT1IxNFBhdVZDUV93SXFFYnlmYVpXS1dyYjZjQm5hLXR5dFA4SFRrT0N4Y21UdmYwbHFqQWtWOENiRWVxblJjSG8xNzBmazV1Um5jajJLdFpickkwZVBaeFZVQmxvRmZPbDdGdXdpZ1VULU9XMERIUDdlcFU5V1d3REJVTjJ2X0lrS0N0QXNzdTVxcw?oc=5",
-          "description": "Bergara dijo que tiene un \"proyecto primario\" para evitar inundaciones en Aguada: inversión sería de hasta USD 40 millones &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-05-17T14:24:00+00:00",
-          "score": 3,
-          "score_reason": "Énfasis en lo \"primario\" del proyecto genera cierta relativización.",
-          "score_pct": 30
+          "title": "Femicidio, homicidio y suicidio: \"quedan tres familias destrozadas\", afirma sindicato policial y reclama \"atención continua\" en salud mental",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOLXZOblFYVnFiVzRMOTVhSU51dnM0RTk3dEdmQ3VfVG9TMk44TTZiNzREUVF6WEZlbWt1X1I4R1dWQ0Y4cE5zZU4td0hsdFRxVWxYTlZ5MHNrMEJqZG80N3pZYklBR3ZZbWRUcTFCcmxRZk14ZzJmSlVhdTBhbmVTb3hpSzZZODB0a01nanAtYksxck1MYzNuS20wczBpLUxHT2h2X2hLU2N2VV9OdVFRUktwSUhFNFoxLVRsMVdLRTZRSWpPbWVmbXBRS1NLZjcwVldKdkdpUGIwZ3FvSlpmN005Mms5LWYxY2tzSXNiRXNmLW9Vc1p2Zzh5LVXSAYICQVVfeXFMTlYzWVFjclBTTGZ5S2h3MEhzLXZEODg0NHhqMU1JckdsZUtMZFZsYnNHQnQ2NDRxWW81ZTlkb3hnVTMyTkRlRHVvMGNmSkMzMXVoaGl5NWM5VmlLZU1yajJGS2JieExBVC02ejRhWVZjbXhaLWlJWkxXQ05yTlprUTVqZHh1RHhiZlJIWkFBMndhaTlWZTVVRWRINlBsSTZNWHBBMnZZcTBHQzVUQmVEeG1QMmNYYWFDT2FYYjNBdFlIMV9ObHR3RXJTb1FzSHhTdlRFS2trWXNseDBUYmhpRGZCUGlmcXc1VTFDU1dRZGpkM0hweXdDMGx2WnZZQjV0NWxB?oc=5",
+          "description": "Femicidio, homicidio y suicidio: \"quedan tres familias destrozadas\", afirma sindicato policial y reclama \"atención continua\" en salud mental &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-05-19T10:13:47+00:00",
+          "score": 6,
+          "score_reason": "Lenguaje emotivo ('familias destrozadas'), incluye demanda sindical como noticia.",
+          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "La Intendencia Municipal evalúa un proyecto para resolver problemas de inundaciones en la zona de AFE-Aguada con una inversión de aproximadamente US$ 40 millones. El intendente Bergara presentó lo que describió como un proyecto en fase primaria para abordar este problema infraestructural que afecta a la zona. Se trata de una iniciativa en etapa de análisis y evaluación por parte de las autoridades municipales.",
+        "resumen": "En Los Cerrillos se registró un femicidio, un homicidio y un suicidio, dejando tres familias afectadas. Un policía estaría involucrado en los hechos. El sindicato policial demanda atención continua en salud mental para los efectivos. Las autoridades investigan los detalles y móviles de los crímenes, mientras se cuestiona la disponibilidad de recursos de contención psicológica para la policía.",
         "coincidencias": [
-          "La IM está evaluando un proyecto de inversión contra inundaciones.",
-          "El proyecto se enfoca en la zona de AFE-Aguada.",
-          "La inversión alcanza aproximadamente US$ 40 millones."
+          "Ocurrió un femicidio en la zona de Los Cerrillos",
+          "Murieron tres personas en total en los hechos",
+          "Hay preocupación por la salud mental de efectivos policiales"
         ],
         "diferencias": [
-          "Montevideo Portal presenta como evaluación en curso; Subrayado enfatiza el carácter \"primario\" del proyecto.",
-          "Subrayado destaca explícitamente a Bergara como persona; Montevideo Portal no personaliza.",
-          "Subrayado usa comillas en \"proyecto primario\", sugiriendo cuestionamiento sobre su madurez."
+          "Montevideo Portal enfatiza al autor; Subrayado enfatiza impacto en familias",
+          "Subrayado incluye reclamo sindical como parte central; Portal lo menciona secundariamente",
+          "Subrayado usa lenguaje más emotivo; Montevideo Portal es más descriptivo"
         ]
       }
     },
     {
-      "id": "story_008",
-      "topic": "Xabi Alonso nuevo entrenador del Chelsea",
+      "id": "story_012",
+      "topic": "Marset: postergan audiencia y analizan acuerdo culpabilidad",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Caso Marset: abogado y equipo fiscal analizan postergación de audiencia y acuerdo de culpabilidad",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNjRiYmNnQllPMk15d29ERjh4XzFsUEJBREZ5OEFzemN3UEZTNURGdHFEaDVUQThWaDJzZUJGUWh4WmFBOEZ2Rmczczk0TzY4b2pRMUZGNHVWbWg4SGZsNHZVeUFKRk15cUdSd1dxa1Z6UDFuZHJMSDZWWllPNnhmeWNoYmZhWl8zeGpwWDVPWXdiVlp3WWttenZMWnFXZ2hyb3U5UDl6bEp3WE9EZmNxRUpZd3E3akhKQ183T2U4SkxXa0R4ZDhj0gHMAUFVX3lxTFBXNHJqMnVYSTF1ZWt3ek50WGtvM0V6WGkxZExjc0dSbm9EWUVGSmE4aUVVbFVwd1hZZURPTE1IZTNiZU9sRGlGaUUxMC1fYlhEQm5XNDNiTUlpZnRQMlEyekVvYmd1N3RYODlLdExoaWo2aHpiMmJlWTRpRlBmRnJUUHJ1SThNTVZlT1ZxSW1zZU8yYVRKR0ZIU1hOTmNjc0ZtRVVFZV80aEIwNjNrZlVWNkNOQTE5dzg1WXZ1bG0zNXA5Tl8yRkEwM3FCdQ?oc=5",
+          "description": "Caso Marset: abogado y equipo fiscal analizan postergación de audiencia y acuerdo de culpabilidad &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-05-19T00:36:00+00:00",
+          "score": 2,
+          "score_reason": "Presenta hechos sin adjetivos; describe acciones de actores legales objetivamente.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Caso Marset: prorrogan audiencia y narco uruguayo podría llegar a acuerdo de culpabilidad",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc1ZZb2F2X1B5dm90U0tVRWNrcGhqX3NCV0lTcjZMQ0ltSXFGdnFlNGVEeUkzNlZBZUJSVkVBM3prSVNOU1ZValpMajZrNGVta0JPR2tJeEhMMy1hVW5LMjc3NVNxVlFFb1IxMlJZc05YcWc0MzhKay1rR00yZ0k0aUNTTVRFX0tpVUJDdnpwYWZfajJkU3VBMlZ1WW1mY2Q2Tjd6dFJGNTh2ekl1MHZzZ0tCZF8zVkRkSjVfdkJUY2QzVzA3UUR0WEZRZXhHcFludXfSAfYBQVVfeXFMTnFIdDBjc2pqc3FlR2UxNW0tLTRiZW9DVEYwZmxkdW91cVhCVEN1d1ROblNscDJPdmNDZ0VHOV9VQU1XMUI3cjlyemtOWjJIMGpHT0R5VzZmSkFEQW52U0VrOU5mOFc3UmxZUW1NMzZLTEhpM1FNd0ptQmtqNEZBQnV4ZWMwSE14ZThwbTRIcUJkb3NnNjJzNFFBTzRlbjU4YWEzeVhQVFBRQjVJdzFkOEtlSm5UeFNfYnVWS1k5a2ZLVkFIREIzRUNUWVZELWJnNzJ1QWpHaUVkenV2cFlxMjA5RDZHcm9ac1hBWWlJVjNPSzRsRnhn?oc=5",
+          "description": "Caso Marset: prorrogan audiencia y narco uruguayo podría llegar a acuerdo de culpabilidad &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T20:27:00+00:00",
+          "score": 6,
+          "score_reason": "Usa 'narco uruguayo', término descalificador que enfatiza identidad criminal.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "En el caso del narcotraficante uruguayo Marset, se prorrogó la audiencia judicial prevista. Durante este tiempo, su abogado defensor y el equipo fiscal están analizando la posibilidad de llegar a un acuerdo de culpabilidad, lo que evitaría un juicio tradicional. Los detalles específicos del acuerdo y los términos exactos aún están en negociación entre las partes involucradas en el proceso judicial.",
+        "coincidencias": [
+          "Ambos medios confirman la prórroga de la audiencia judicial",
+          "Ambos mencionan que se analiza un posible acuerdo de culpabilidad",
+          "Ambos identifican que participan abogado y fiscales en negociaciones"
+        ],
+        "diferencias": [
+          "Montevideo Portal etiqueta a Marset como 'narco'; Subrayado solo lo identifica por nombre",
+          "Portal sugiere mayor certeza del acuerdo ('podría llegar'); Subrayado es más cauto ('analizan')",
+          "Portal enfatiza la identidad delictiva; Subrayado enfatiza el proceso legal en curso"
+        ]
+      }
+    },
+    {
+      "id": "story_013",
+      "topic": "MEF estudia cambios en impuestos clave",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Jerarca del MEF anunció que estudiarán modificaciones en IVA, renta personal y corporativa",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUVvaUoycDRWNnZPdmN1LXpPRHNCaGI2NlVCeUU5YlprNzhsN2ZnTE4yM18zdml0VkpFWjZIZGFFNGZ5Q0UxcDZIQnowU3pzTlpnY3Z2VkpzVzNob0VFTjlpbmdqVXNEdjZBQTNUMlkwSDl2VU9ycjh4amJwcVl5YWM3VmFxRG1HUVhzNUxyV0swZ3dzcDczRHBRaEFTdHhtckdJNkxBcjNYMU9abmszcEE5OVo4QUxlWXhHYmgyZFFhRDh6QVZKdW51YTdsSjVlTlpF0gH3AUFVX3lxTE1RcG4tQlpTUUQwVW4zREdHdVZpbVdLa19hc3oyZDdZa0Q1cTdBR2ZHLXhMZXZJYVUwM0NXbE5MNkxYVUtCV0JleHdkMUJNMWpDaXg1QXF6blg2TGRNc1Nva1NSYm90enZOaHBScnRycm9iU1hSdFVQX2cyLWNaNHY0WXZ6V2VKdjdqdXpVMFRHX1NjTEJSQWw5Q0RJazk4S0N1aFZpc0wyb3pFaU5haVNRLTZYZU4wN1R5VU80WFotVkZQNWJLZlhPcEtXQ3FqOTYtQ2R0dC1pcjB2SjhQYjA5QnFadVN4WHlNRmRTSkhvT0w3NmVvWE0?oc=5",
+          "description": "Jerarca del MEF anunció que estudiarán modificaciones en IVA, renta personal y corporativa &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T18:29:00+00:00",
+          "score": 2,
+          "score_reason": "Lenguaje neutro, verbos informativos, sin énfasis particular.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Jerarca del MEF dijo que estudian viabilidad de cambios en el IVA, IRPF y en el IRAE",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON2VGVHlSQmZ1OEFTSWZJOU5ldmppa3JvQ2FjMTl5cl82Ulg2WXpFNmIzeUZWcGpyWDA1VncxYUZhWk5ONEhBSEY2YnZSdTRBYy04RkUyNmowMU5wZUl2Y252Rm12dkM3OTZhQWJta2tNcE51WGJnR3J4WHdfMmM2WGsycS1vX3hwMW5vNHdheGYtSGFNWk1LLU5XWVZWTGYtWTFsQnFSdk1Ca040anVIMGFR0gG3AUFVX3lxTE5GWjlEOF9KRmJRbVNUeXlybVg2eG1PeWV5eHhZVTI3dUFGNHFIeHJIRlZaa3lTYUlvc3UtSy0xcTREcWV1aUdqV3hxUDZyNlRqdEN2UG50MW5sVllnaFVQZm5lbGxLWWFubEVabXpLZ1lTdXlLYlY0UjRCaTF3WGhjYVFyd3Z5TlhYclhzUy1ha21PRGp6dUZOSm1NNHkwXzFWc1BYc2V6SDRyVENvUkJvYmN0Yi1nbw?oc=5",
+          "description": "Jerarca del MEF dijo que estudian viabilidad de cambios en el IVA, IRPF y en el IRAE &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-05-18T16:32:00+00:00",
+          "score": 2,
+          "score_reason": "Redacción objetiva, aclara que estudian viabilidad, sin carga emocional.",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Un jerarca del Ministerio de Economía y Finanzas anunció que el organismo está evaluando posibles modificaciones en tres tributos principales: el IVA, el IRPF (Impuesto a la Renta de Personas Físicas) y el IRAE (Impuesto a la Renta de Actividades Económicas). Se trata de una fase de análisis de viabilidad, sin confirmar cambios concretos ni fechas de implementación.",
+        "coincidencias": [
+          "Ambos medios informan sobre el anuncio de un jerarca del MEF",
+          "Ambos mencionan las tres figuras impositivas: IVA, IRPF e IRAE",
+          "Ambos usan lenguaje cautela respecto a cambios (estudian, viabilidad)"
+        ],
+        "diferencias": [
+          "Montevideo Portal usa 'modificaciones' mientras Subrayado especifica 'viabilidad de cambios'",
+          "Subrayado diferencia explícitamente IRPF e IRAE; Portal agrupa como 'renta personal y corporativa'",
+          "Subrayado enfatiza más la etapa exploratoria con 'viabilidad'"
+        ]
+      }
+    },
+    {
+      "id": "story_014",
+      "topic": "INAU cierra centro de Capurro cuestionado",
+      "category": "Sociedad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "El INAU cerrará el cuestionado centro de breve estadía en Capurro",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc3U3TnVNQlB6X0dtWTB2N1daYnVuMnFaLWFkcWJ3ZWJrWW5admR5VWxfeWtwcjZ6VzN2Z0hKWWxJZ24wZVNQTFhwcDJzVTg3aXZvbzJ4dC1ubmhIYVFyWG5HUHROTVl0VlcxWWljYU1aQzRzS010RHlCQWJVY0UyNUVCcjhKSzRrRF9CT3Q5WW1tVzJrWTJnTC1VLXR5NHlzRXcta2dKMA?oc=5",
+          "description": "El INAU cerrará el cuestionado centro de breve estadía en Capurro &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-05-18T17:06:17+00:00",
+          "score": 3,
+          "score_reason": "Usa \"cuestionado\" de forma neutra, sin especificar quién cuestiona.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "INAU cierra centro en Capurro cuestionado por la Inddhh por “vulneración de derechos”",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObXZFNTV3OXoyd2xkMU9kUmoyWE5UbDdBdDVGMmpJU0dVNF92MFREbGNtNnl2YUdVWnczR2N4cVUyWmhuT0VxZy1ZY3FJTGYwSmtQOXlsTkVCUHM3UTlKWWpfeHpzQlhPM1oydmtPbDlsTC1RMHRoTUZtR2c3aWRnd1NmdHdBNWVjbUQ3bEwxYlhlUV9WSDVxZGktUFpLVk5BZ2pVNXlCUW83NGNVS3Zab3NkYlJzOFBKbkd4bHFUV3RaMlJ4dVBTckZqTGvSAfABQVVfeXFMTm1Bc1Q5Ymw2U25ERHZiVXoyRWZldFRqWDR0RjdNWDUzSF91dndlSnVXbFJEa0ZVMUJucG14dklDN3NaN05Zb2pVNEY5aWgtRHpuQVEzM1pwMDJ5SFZCSk8tdWl5RG11NnkxUTUtNVFZNkZaLUpLbzNnMV9oRDIyLXRSdV95bUIza0xhbmxHZThfREN1cWZrQmhSN2VQSnBQY09tMUhITndhYlNyQ2FDTUowcjd6T1FFTS1qN1ZSU251SXJiSk0td1JZYlh3UEx4aEdGUHdDcXROV2w5QndGQzltNnRhYjhNbUIzU0dzbWNi?oc=5",
+          "description": "INAU cierra centro en Capurro cuestionado por la Inddhh por “vulneración de derechos” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T14:26:00+00:00",
+          "score": 4,
+          "score_reason": "Incluye entre comillas la acusación específica, equilibrando información.",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "El Instituto del Niño y Adolescente del Uruguay (INAU) decidió cerrar un centro de breve estadía ubicado en el barrio de Capurro. Esta decisión se produce después de que la Institución Nacional de Derechos Humanos y Defensoría (Inddhh) cuestionara el funcionamiento del centro por presuntas vulneraciones de derechos. El cierre representa una respuesta institucional a las críticas formuladas por el organismo de control de derechos humanos respecto a las condiciones y prácticas en el establecimiento.",
+        "coincidencias": [
+          "INAU cierra un centro ubicado en Capurro.",
+          "El centro fue cuestionado por vulneraciones de derechos.",
+          "La decisión de cierre es una respuesta a críticas previas."
+        ],
+        "diferencias": [
+          "Montevideo Portal especifica que la Inddhh fue quien cuestionó; Grupo R omite esta precisión.",
+          "Montevideo Portal usa más términos técnicos; Grupo R mantiene redacción más simple.",
+          "Montevideo Portal es más explícito en causas; Grupo R se enfoca en el resultado."
+        ]
+      }
+    },
+    {
+      "id": "story_015",
+      "topic": "Perro muere salvando a su dueño en incendio",
+      "category": "Sociedad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Un perro salvó a su dueño durante el incendio de su casa en Melo y murió",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMWc3NFF5Z2J1QTRwUHlPN2pXd3JBZFBRNXVwZG1yTFRiYjA5VHZJN3VoTXkwWjZ5aFl1UWtmdnRaclRJZjZRQjlkU21ZNFZXX0pjRUVCUUducWF4Z2VvZG43YXVOVm1xYkF0bmxsUUZvVmtaNVV5V2d1R2tFZEp3TVlCQkZmdm5HVnZISXlMNHp1QdIBlwFBVV95cUxNb1RwQVJoTEFjem5oR0JqUzNxaTU1d0JXS1JWYmRsYXFKZkZVWkxLWVVPTW1JY1p0ZXFVRDh0S1FncndMMlNkMFRBZzZFZWlRbEFtT29uTHF4cmp2V3dXMFFiSXNzWFp2YkdPbFBUMktTSFdzZmRvcDM1X0JfeGkxbnBmU2dmVlcyMjRWd3VMVUFldkpZSFNj?oc=5",
+          "description": "Un perro salvó a su dueño durante el incendio de su casa en Melo y murió &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-05-18T12:25:00+00:00",
+          "score": 3,
+          "score_reason": "Describe hechos con leve énfasis, lenguaje más directo y menos emotivo.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Melo: perro salvó a su dueño de un incendio y murió atrapado entre las llamas",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUlVocWFybEY3MlowSXlaMEpLdVV5MUZ4cG5sdjRjbmVuc3hrSk5NdndFLVFqeW9iTkExSXkwd19ma2V2QUxKeTZvVzVTR1FZMzFCS2pONEx2VGgwX1U3elBGSnVuVEdmWTdZZVlPUzJwRUxuTkNPeDF2RlAxZTR1ZjdHN0NLeEtnc0o5VWZMWThob0RKaXJSQm55UldJdERuOHRGcTN1eXp0TXQ5MkZ1d3JPMjBSTGl6Z3Nmc0w1VHhOUdIB5gFBVV95cUxPOFVVeVVrX2VxMUQ3eXFSUzFTNi1uMnU0bVpaUWtuRUkwQ3ZBamQ1RHM5T0l2T24xQjZxLW03dmthOElZbTRBOVoyQ3FSWHJFRFFTQzA3OE5wdWlvU0hUaFhPNk1xOWZzSXFkYnFKMkNIYURGbHo2WjkzR1p3MExRczJxck5KN0UwUGVydWFpSlU1ZWlNSFhyeTZCc2d6SzJLZmdmMjdCUFota2ZybXJlM2V4b1FiY1NtdGlwNkw5Q3FLNGhCaXZHdjM5YWVrT25iYzhGLVR2SFBjVE9yT2tNQ3JSeGttUQ?oc=5",
+          "description": "Melo: perro salvó a su dueño de un incendio y murió atrapado entre las llamas &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T13:35:00+00:00",
+          "score": 5,
+          "score_reason": "Énfasis en heroísmo del perro y muerte trágica, carga emocional moderada.",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "Un incendio afectó una vivienda en Melo. Durante el siniestro, un perro alertó a su dueño permitiéndole escapar. El animal quedó atrapado entre las llamas y falleció. Los hechos ocurrieron en la ciudad de Melo, departamento de Cerro Largo. No hay reportes de víctimas humanas. El incidente destaca el rol protector de las mascotas en situaciones de emergencia.",
+        "coincidencias": [
+          "Ocurrió un incendio en una vivienda de Melo",
+          "Un perro alertó o salvó a su dueño del fuego",
+          "El perro murió durante o por causa del incendio"
+        ],
+        "diferencias": [
+          "Montevideo Portal acentúa 'salvó' y 'murió atrapado', dramatizando más",
+          "Subrayado utiliza estructura más neutra sin enfatizar la tragedia",
+          "Montevideo Portal destaca heroísmo; Subrayado simplemente reporta los hechos"
+        ]
+      }
+    },
+    {
+      "id": "story_016",
+      "topic": "Uruguay reconocido por ayuda a Cuba y China",
+      "category": "Internacional",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "China distingue a diplomático uruguayo con una inédita medalla oficial",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcWVVZkxtMGpzQWRqeWNsQU1IU0gtT2VHUFVXYlhFMHFWSXRWODJIRUhqQTVPYjRSLTFtbkk1bWpDTXVTOFc4b0swYndYbG4xWUY2QUt1WjljNTJNQlNlRmFNdW5xbEpheDVWZkFEX21RNDFvbWZqSlJCejRTUDZTMmFWb3JPbDM4NGZ6WVVWVmZ1ZGFSeXhxcVdOVHl1cnlkYjJMMGliZE9vSjBPLVJRTFlTQdIBuAFBVV95cUxPSlk1dUg3RldKLWh0bFdRNVZ1U1pIdE9oVFlnUTJWNENEcGZWWmpWZWZFeVBRek5LWWJkOHNDWEJwclNJNzhCNXpINXozMUF6UjVwaF9OTXc1Z0xGT2NhM1lZdFNQM2ZDRXV5WnJhMHhWQ19xc09NMk9iazFfcFRCWUZNeDFVVGEyYUY0MnMtQ1J4VUN3ZnNvVksyNHV6RjhnOVBIRms3RDRqSlJiSUIxVFNvS0Vka1Yy?oc=5",
+          "description": "China distingue a diplomático uruguayo con una inédita medalla oficial &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-05-18T14:52:00+00:00",
+          "score": 3,
+          "score_reason": "Enfoque informativo en el reconocimiento, con adjetivos descriptivos moderados",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Díaz-Canel agradeció a Uruguay por llegada de ayuda solidaria: “Nos une un enorme cariño”",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY29vSUhza1hYMjlibng5X0JjVm1jaDA3NWxITGtIcE5CcHZsMVAxcnl6RHQ5b0FKMVZOa0RNcEI3d2k0ZUhlUmNXUkp0OWt4ZmMtWFdJanRmU1RyVUVZNVlPS2ppd1pmV1l2ZllIbExaWWhidGtHdWd0U21mZ0QydFVBRUdCMU9kd1NnMFU4cDd3SjRlMS1zbUJkX0wxU0NpUFZGRkxNMkdCYTBiR2p2Mm5fcHBHTXV5Y0NISHhial9jb0tnaldWNDhwNklHeHhzbFHSAfYBQVVfeXFMUFdOZ1BOR1BmR0tmTXFjangwaXM0Y3pxb1l4UERsT3p4djc1bjRRcmdyV0NvOFR3RWpCRW9qTnoxYmpqR0V2dHpHVHBudkFPRV9rd2ZoSzRXXzN3eEc5bWJJQVJWbWVLenVNMWEyZ05pYmVVdURCT1BBby1hbEtMVjRKR1JoMHNhY3JpQkVtQ2tkUXZ6eTdjbXdpSUczUUhTWlE0TlpaMTZXalVTMUI3S1ljZlpFaWNMc2U0bWdMMWg3YTM5RWpqblhRdEV5ZlNoaXNmcktIM2I3SWRUZFJGa1NyS3NhRGRWcGFjd2pidDVaWVFpa0hB?oc=5",
+          "description": "Díaz-Canel agradeció a Uruguay por llegada de ayuda solidaria: “Nos une un enorme cariño” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-19T12:09:00+00:00",
+          "score": 6,
+          "score_reason": "Destaca declaración emotiva con cita directa cargada de sentimentalismo",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Uruguay realizó envíos de ayuda solidaria a Cuba, que fueron agradecidos por Díaz-Canel destacando la relación bilateral. Simultáneamente, un diplomático uruguayo recibió una distinción de China, una medalla oficial inédita. Ambos eventos reflejan la inserción internacional de Uruguay y sus relaciones con países de diferente orientación política.",
+        "coincidencias": [
+          "Uruguay mantiene relaciones diplomáticas activas con potencias extrarregionales",
+          "Acciones uruguayas reciben reconocimiento público internacional",
+          "Se documenta actividad diplomática en dos frentes geográficos distintos"
+        ],
+        "diferencias": [
+          "MP enfatiza la dimensión emotiva/relacional; CyC destaca logros institucionales objetivos",
+          "MP centra en Cuba y declaraciones personales; CyC en China y méritos diplomáticos",
+          "MP usa lenguaje afectivo; CyC mantiene tono más factual y protocolario"
+        ]
+      }
+    },
+    {
+      "id": "story_017",
+      "topic": "Lazo se pronuncia sobre arbitraje de Cardama",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
@@ -370,167 +980,152 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Inglaterra: Chelsea anunció al español Xabi Alonso como nuevo director técnico",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaHhQTTNmRS1BOWRqdHVZbWVNRElSczJuazlUbDRTYjFhY25GVWpWYzY4Yll0WloxcnBMcURfbUpITGRJVmlTU3lCQnAyWndpX0VkNlZNVnpDQkQzU3UwVWdLZTBiWjlqWDRaQzEzOUw5Mk45Y2w0Vk44SWw4S1daUjJVRmJVZzBGbjVoNkFSYWZLUlF5QWppemhjN2xoY25NSXFVYW5jalFJMFpYRUQ2dWJWNVFDak9EZE1mRWJDZ0dTVGfSAecBQVVfeXFMTU1HSEtfMXFVT0s0VnEzNFBUQjNlbEt6cUNCUnVRTHpQd2NKLUVQblJ2eFFCRzlYLVU0SjJvN2hZOEgyVHU5VXhaMV96aF9fWHlmWmVnNC1vV2tVSHVoc1o5NEd1N2gwUGpZMTdIcWV3bVdZNG8yQjlkRG5jYVdDNy0yS0tITll2RzI1al83QlBNVjFocV9wd3Vhck05Mzlkcko0bWxYak5FbzZ3NXNCT1kwRFFleUVHRzl0V3BNVVNFc2pVMThRWlJUb2ljV29GeEhaLWh4U2VCell6aEpRZkl2ZTZZOVpZ?oc=5",
-          "description": "Inglaterra: Chelsea anunció al español Xabi Alonso como nuevo director técnico &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-05-17T10:11:00+00:00",
-          "score": 1,
-          "score_reason": "Lenguaje completamente neutral, usa 'anunció' sin carga emocional.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "El español Xabi Alonso será el nuevo entrenador de Chelsea | Noticias | Fútbol Internacional",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeEo5VlRXcGQ5dHpRa0I5OGEwTEd5eUdmNVpkS0xFcV9uNGRwRWVhdUpkbDFhR3Q1U2xJemdHNnVJWmJCSExRVVZEQ3AxcDFJbnpSU2FhS0JKSktsaHNvZUYxbHZNSVBzRjhfVG1EMnVYQUdYelA5bnZFMndqc21nZmljeXBwNXcwalNOTEFUR1VFc1hPXzNCQnREZENibkpIb0tuLTFuSTdCMGhaVUw0?oc=5",
-          "description": "El español Xabi Alonso será el nuevo entrenador de Chelsea | Noticias | Fútbol Internacional &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-05-17T12:48:02+00:00",
-          "score": 1,
-          "score_reason": "Estructura informativa pura, presenta hecho sin énfasis ni interpretación.",
-          "score_pct": 10
-        }
-      ],
-      "analysis": {
-        "resumen": "El entrenador español Xabi Alonso fue designado como nuevo director técnico del club inglés Chelsea. Se trata de un cambio en la dirección técnica del equipo londinense, uno de los más importantes de la Premier League. Alonso, experimentado técnico con trayectoria en equipos de élite, asume el cargo en lo que representa un movimiento significativo en el mercado de entrenadores del fútbol europeo.",
-        "coincidencias": [
-          "Ambos identifican a Xabi Alonso como entrenador español",
-          "Los dos confirman el destino como Chelsea",
-          "Ambos presentan el hecho como anuncio oficial completado"
-        ],
-        "diferencias": [
-          "Montevideo Portal usa 'director técnico' mientras El Espectador usa 'entrenador'",
-          "El Espectador agrega contexto clasificatorio ('Noticias | Fútbol Internacional')",
-          "Montevideo Portal enfatiza el anuncio del club, El Espectador enfatiza el nombramiento"
-        ]
-      }
-    },
-    {
-      "id": "story_009",
-      "topic": "Programación televisiva del 17 de mayo de 2026",
-      "category": "Cultura",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Programa completo del 17/5/2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQk9ycGl4N1NNdWFpWDUtM3IxbVRjOGlOWFBlMDlKMFRLZEMwdWc4VDFtM0hyUUZ4ZGp5OGh3OGZkTVpscXFkVENveUI1WTF3VFIycmdOWjNkS1pscVhTbXREU0loVGZoNzVCVlBXQjdDUXNuM1hlODlqSG9NMzRBNlk2ZlYzUkxmbDVMQmdR?oc=5",
-          "description": "Programa completo del 17/5/2026 &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-05-18T01:15:00+00:00",
-          "score": 1,
-          "score_reason": "Título neutro e informativo sin carga editorial.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "carasycaretas",
-          "source_name": "Caras y Caretas",
-          "source_short": "CC",
-          "source_color": "#4A148C",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.carasycaretas.com.uy",
-          "title": "Legítima Defensa 2da. Dosis - 17 de Mayo 2026",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXhQdXQteExxN2dWOW96TGJMUUtrU2ZBN1laN3NrZlVfWm9lRW9valM0ZjAxX09SMmo2cDQ2VE9WS2lOZFpSbHlGYm9RNWh3STFPMW0tMllhYUtYS21IZUt4eUNvSGVDLU1LRmdrV0tjbGt6YlpmU1N6TlV6aEVSSjR2T1ZnVHQ3OEloOGhhd2xveGdsTHRqamVROE9Mcnc?oc=5",
-          "description": "Legítima Defensa 2da. Dosis - 17 de Mayo 2026 &nbsp;&nbsp; Caras y Caretas",
-          "pub_date": "2026-05-18T01:40:00+00:00",
-          "score": 3,
-          "score_reason": "Título específico con énfasis en programa particular y fecha.",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Tanto Caras y Caretas como El Espectador publican la programación para el 17 de mayo de 2026. Caras y Caretas destaca el programa 'Legítima Defensa' en su segunda emisión, mientras que El Espectador presenta el programa completo del día en la sección deportes. Ambos medios informan sobre la oferta televisiva disponible para esa fecha, sin mayores detalles adicionales en los titulares presentados.",
-        "coincidencias": [
-          "Ambos publican información sobre programación para 17 de mayo 2026.",
-          "Los medios son secciones de contenido televisivo/programación.",
-          "No hay conflicto ni controversia en las noticias presentadas."
-        ],
-        "diferencias": [
-          "Caras y Caretas destaca un programa específico; El Espectador ofrece programación completa.",
-          "El Espectador lo clasifica en deportes; Caras y Caretas enfatiza un programa de entretenimiento.",
-          "Niveles diferentes de especificidad en el enfoque informativo."
-        ]
-      }
-    },
-    {
-      "id": "story_010",
-      "topic": "Programación de medios para fin de semana",
-      "category": "Otro",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Programa completo del 16/5/2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTNzcTZzUVhqYXdXZ19QV2V6dVpqbmlIc3ZJaGxLLXpmc1d5YmZhbzFRSExOdTRJT3c4VE5uLUFOMWd0dW1MdnUwOHRmRUYwaVFPUk53Snd5SjBQQUVvSEpxTVJORGxRUUVXa0VuQm9aTGt5OU5kNUJRYi1DOUZvWVU2aWNENl9ya1pkU1VR?oc=5",
-          "description": "Programa completo del 16/5/2026 &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-05-17T02:01:20+00:00",
-          "score": 1,
-          "score_reason": "Puramente informativo, enuncia contenido sin énfasis particular.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "carasycaretas",
-          "source_name": "Caras y Caretas",
-          "source_short": "CC",
-          "source_color": "#4A148C",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.carasycaretas.com.uy",
-          "title": "Legítima Defensa - Viernes 15 de Mayo 2026",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbHo4VllmOGg4TlRlc1ltUkpydkJmZGpuSjFsRFNmSDY0SFFuTjc2UGN0T05vMDlYcnc3ZU51SVJUVnpESWliWU1FbzQ2MW9jdXhTWE02S1N2c3U2dFlyaVlYSWdDLWZZZEI0cU5iM0hyMUJOSUtfeVcyNUFVQ0cyQzVZTTg5angxd3FJRE5jdnRGRDBUajdMNFVjY3U?oc=5",
-          "description": "Legítima Defensa - Viernes 15 de Mayo 2026 &nbsp;&nbsp; Caras y Caretas",
-          "pub_date": "2026-05-17T21:06:00+00:00",
+          "title": "“Lo que hace Cardama no debería preocuparnos”: Lazo respondió a críticas por arbitraje",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNE1RQUVhWDBhay0xRDF2SjJIUkZtb0VmbWdhQXpWSFhlU1hRSHhIRGVzcHJOWkhMMGtIV21sNU9fVWhfa0xid2U0eUJ5T3pLajA5Q3h6RTQ5NGRZSG9zdFU1Q3Y3bEdlMFJpc0dZLV96NXRJN1ZrenJ6c282LTljUUVTX1V2YWJEc2NrU1poZmFPRGZnZUNkT2c4T2hnNnA0Qjlyd0c2dUEyMjdMWkhQQkVxeHNEMEtnU3dVUVRMeF9rMlNOVG52SXhkSHVKQdIB8gFBVV95cUxOc0lyeGNZNEVWNWNZZXVOb19RZ1JJM1BZdE5XcVotd09DU0FCQ09PYjdNaVItUmdvTWRWZ1ZJMS1mdDJzRjZ6NHl6TTJsb05BSzc0WEZfVU15NWI0NHh2WDRqNERBU0c2YXBEcEtvN3dVM00yckFuaDVOUEdIQkxnTFhhUkVrNUpQejlKb3hRdFhTQmxSRHRhek9hSzdwRV9OUW5PUDFzUjRGZXNlcGFUdFZGSVcxdDRrNDA0bFctdkRwb3U3Ui1rbUxCLTRwd1pBV2NYSFFvbTE4eXBQNG0zZnRHWFJRTVJFeU1DTU1JM0xhZw?oc=5",
+          "description": "“Lo que hace Cardama no debería preocuparnos”: Lazo respondió a críticas por arbitraje &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T22:28:00+00:00",
           "score": 2,
-          "score_reason": "Título descriptivo, menciona programa y fecha sin carga.",
+          "score_reason": "Cita directa sin adiciones; enfoque informativo principal.",
           "score_pct": 20
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "\"Lo que hace Cardama no debería preocuparnos\", dijo Lazo sobre arbitraje y reclamó apoyo del sistema político al Estado",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdHJST3JHbkItUjBlN2Q3S0l5bWJGX1o4VXZQdEhublhMR0Zaa0RNVnNRekNWLTMwNjRYbUJrUkx1ZTJxTG95X1dJeDhBTFg1cFpaVkdfT0RodjBtZTZEM0NyeEVwX01oV0RXaTFFUjhkejVmVWRiTExUN2JINnE5WllTVVlTZU1rckticzB0YzZ0OEhiSk1zTTVCcGRJdmF0ZllVMER6dTViNjlUNUd5ZXJHZnNkNW9yOFdKNTM4YzJIc0lXLVlGd3c4UHYyT210MHcweTI4U050SFNGQmtsYWh30gHnAUFVX3lxTE5pQkJWXzc5NVF5VHhKVmVFcmoxZVdfbnA5Q2RvU0ludlRxLXV3T3RyUDZnNVRneGYyRUNodGlDX2NwbnpxWmpmVWVDMEQ3SWdxa1d0eWRycC1WZGtROUJLZGdZY2UzTFFUOElyTW5sUENTM29nMTJLeTI4OTZzdTc5TTVEa19HR2tXdHUyaS1jalFnajdydVJoVzQzUmNScjM3NXVIbHJpMlBrdTZXNEtDR0RXTGtLWEczREFFdlkwdXhLUEMzS3NVNVFKMlhVTElCVURma2o0RV90WEZ5VnI3bGJFVHB6VQ?oc=5",
+          "description": "\"Lo que hace Cardama no debería preocuparnos\", dijo Lazo sobre arbitraje y reclamó apoyo del sistema político al Estado &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-05-18T19:36:00+00:00",
+          "score": 4,
+          "score_reason": "Agrega contexto político; amplía alcance con reclamo adicional.",
+          "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "Los medios uruguayos publican sus grillas de programación para el fin de semana del 15 y 16 de mayo de 2026. Caras y Caretas anuncia su programa 'Legítima Defensa' para el viernes, mientras que El Espectador detalla su programación deportiva para el sábado. Se trata de información estándar sobre contenidos televisivos y radiales que los medios difunden regularmente.",
+        "resumen": "El presidente Lazo respondió a críticas respecto al desempeño arbitral de Cardama, manifestando que sus acciones no deberían ser motivo de preocupación. Según los reportes, Lazo también aprovechó para reclamar el apoyo del sistema político al Estado. La declaración surge en el contexto de debate público sobre decisiones arbitrales controvertidas.",
         "coincidencias": [
-          "Ambos medios comunican su programación para el fin de semana.",
-          "Utilizan fechas específicas en sus títulos para claridad informativa.",
-          "Se trata de contenido de programación regular y rutinaria."
+          "Ambos reproducen la misma declaración de Lazo sobre Cardama",
+          "Ambos utilizan la cita textual como elemento central del titular",
+          "Ambos refieren a respuestas a críticas sobre arbitraje"
         ],
         "diferencias": [
-          "Caras y Caretas destaca un programa específico (Legítima Defensa) versus El Espectador menciona programa completo.",
-          "El Espectador enfatiza contenido deportivo mientras Caras y Caretas no especifica género.",
-          "Caras y Caretas usa día de semana, El Espectador utiliza solo fecha numérica."
+          "Subrayado incorpora la demanda política de apoyo estatal; Portal omite este aspecto",
+          "Portal mantiene enfoque deportivo puro; Subrayado añade dimensión política",
+          "Subrayado amplía el contexto de la declaración; Portal es más acotado"
         ]
       }
     },
     {
-      "id": "story_011",
-      "topic": "Shakira gana juicio fiscal en España y recupera dinero",
-      "category": "Internacional",
+      "id": "story_018",
+      "topic": "Danielo Núñez se desvincula de Cerro Largo",
+      "category": "Deportes",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Justicia española ordenó a Hacienda que devuelva a Shakira más de 55 millones de euros tras anular una sanción correspondiente a 2011",
-          "url": "https://www.teledoce.com/telemundo/internacionales/justicia-espanola-ordeno-a-hacienda-que-devuelva-a-shakira-mas-de-55-millones-de-euros-tras-anular-una-sancion-correspondiente-a-2011/",
-          "description": "La cantante ha tenido varios enfrentamientos con Hacienda en España y otros casos fiscales en los que se vio implicada se resolvieron en 2024. La entrada Justicia española ordenó a Hacienda que devuelva a Shakira más de 55 millones de euros tras anular una sanción correspondiente a 2011 se publicó primero en Teledoce.com .",
-          "pub_date": "2026-05-18T10:15:18+00:00",
-          "score": 1,
-          "score_reason": "Lenguaje neutral, hechos objetivos sin énfasis emocional.",
-          "score_pct": 10
+          "source_url": "https://www.espectador.com",
+          "title": "Danielo Núñez pidió licencia en Cerro Largo: llegamos a la conclusión que lo mejor era parar",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVDVLVzNQbGM2RWVCYXZ0YWYxSTA2Y1pEMTBvSG9adk9NYkJoT0VfOHFnNHpJSjlaZS1nZkJkbUs0SkFja2tpNDc2N194OExvYjhVWkJOcXlUSERkSXhKS05aanZfUFVIUXRNTGZ5em1od3l5R2tGOXUzcVVzLTU0VEZoY3ZwekdRc3ZKUHFxWmxnanFOZmxzNi02dWRDWVlLcWRiRWczTGJzd0JUY0YwLVFQMmx4RjY1Wm1xMy10X0lKMFBSbDlZaDR0ZWFVTG8?oc=5",
+          "description": "Danielo Núñez pidió licencia en Cerro Largo: llegamos a la conclusión que lo mejor era parar &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-05-19T12:13:19+00:00",
+          "score": 4,
+          "score_reason": "Presenta decisión conjunta, da voz a ambas partes de forma equilibrada.",
+          "score_pct": 40
         },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Será desvinculado esta semana”: Legnani confirmó cese de Núñez tras visita a portaviones",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc1lEZnlFZUI4YVRDX2ZfZlBBRWpUUU42T0QxLWczbnBSaUhWV01IY1J1ak1yelpvUzBHeFA3MUJpVmlqeHVDU0FRd0tjTmFGcmNCemZfdDVrTjd6S2daSTYtU0xxVnE1TGNEQnB6Zm5EQUprY0ZPSC1DM1hiLUI1SmJjeGtkZU0yNzNyVUpIbktydk4wamRzVWZ5eXBrN0w2VTJIZDZVSnFZSkhDdjMwU1k4ODV5R0szMC05MXpMcHQzazhiX0JXVVJkYVpoRkRZZUHSAfYBQVVfeXFMT1J4dkZibkRrcWw3c1htTGp2M1ZTNGVkRFdTQ2NIcEd0WHRDSUk5ZWlxZTdFZlVPM1BGT1RGV3lTTlJ5M0t0b2NKRTdrUFo3MjdpN1NYVlNVTWtLZDFfWnJHS1VMQ0h2QTNfZ1VwMTMtVHRVQm9oSUV4dzg0VU9JazZlNS1qb0E5ZkZYSnp3TENKVkd0U2JiUkp6RWV0aXhZVmVEdFdOUVEzNWwwQkt3bF9sYS14QzUtU1ZMc0Y1cFhjU0hkd1NjMjRLcjlxTDlHbkY4VURCcWN2WFpRaTFCQUxPc3RnZXl6ZVlJal9DRkpPM0pxS0hR?oc=5",
+          "description": "“Será desvinculado esta semana”: Legnani confirmó cese de Núñez tras visita a portaviones &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T22:54:00+00:00",
+          "score": 6,
+          "score_reason": "Enfatiza despido unilateral, omite versión de Núñez sobre licencia.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Danielo Núñez dejará su cargo en Cerro Largo esta semana. Según Legnani, será desvinculado tras una visita a un portaviones. Por su parte, Núñez explicó que pidió licencia porque llegaron a la conclusión de que lo mejor era parar. Se trata de una salida que combina tanto una decisión de la dirigencia como una solicitud del técnico.",
+        "coincidencias": [
+          "Danielo Núñez se desvincula de Cerro Largo esta semana",
+          "La salida es confirmada por dirigencia del club",
+          "Hay una ruptura de la relación entre técnico y club"
+        ],
+        "diferencias": [
+          "MP enfatiza despido decidido por club; El Espectador presenta como solicitud del entrenador",
+          "MP menciona portaviones sin contexto; El Espectador no lo menciona",
+          "Tono de MP es más crítico; El Espectador es más neutral en la descripción"
+        ]
+      }
+    },
+    {
+      "id": "story_019",
+      "topic": "Robo y vandalismo en Cementerio del Norte",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Roban placas de bronce y rompen 84 nichos en el Cementerio del Norte",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzAwNEZCWllwanFGeWN2MjJNNEVzREFFZTRCUkdyeVBTNGttcU5jZEt0QTg0SjRnSHRnbUh0eTlENElja29HWkVkY3hnb3hjOEVMdlZCZU9YZEFxakhSclgyMXpUTFRFOHFYTm11UDB3YUxpMmFhcktDRVd5bnp6SjRaYUdXSmsyN0c1anp0OEtFdjlBQTJEY2htWjVWdkNuZFdiYTlLLTJXQ0ZvNmp1UUljY2t2QU3SAdsBQVVfeXFMT2p2cDQyMV9zamZJa1FPU0JXbGhMYzM1UXFRd216YlFhRDNBU24yc3M4c2l6MnV1MVRlVkdJcVhRZzFDN1BGY3Y1UzdSRXgycUZoMUl3bThLNl9faDdpVTB6WVpEU3Y5ZW4taVU0TlNwX2hMNENiX3BsQjYyd1FHSXNfQ2JRWGdLU21YZ29kQi11RlZGRjlQcUlRU0k5bDZMNUZfVk5sOTBfRnBRSkJ5WWk5ZTlFbFBhcGZWNkZLV05QdWdOem5mdlhHN0FhaFRkRlRIakF1ZG9WUWFZ?oc=5",
+          "description": "Roban placas de bronce y rompen 84 nichos en el Cementerio del Norte &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T15:32:00+00:00",
+          "score": 2,
+          "score_reason": "Lenguaje factual y directo, sin adjetivos cargados ni énfasis emocional.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Delincuentes rompieron 78 nichos en el Cementerio del Norte y robaron placas de bronce",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ21KMER3dldIQkY5QjVwcTV0UlpUblNKTjZDTW0wd3hqVjNxSF9FejEwNHl6R3h0ck16ekE4ZlhDMnNPSnRZa19NbUd2NTRmVjE3MG5tY0VYQzR3OTFTTXhWR040TXhoVURHSTY1X2FNNXRsVzhDVFNpeV9yZm8xVUxwSUFlT1Frd2tXc0RQT3d1VEhCN0dDQVBhSExMeTBNMjhJbFZHV1VVSW4zYVFTd3ZDRXc1UUNFblHSAb8BQVVfeXFMUGVZWXJKaHdXRGczdzIzZEhrM2c2NTI5amotcDFrT21lU3o1bGFmUkg5cWEwSUZMckVLdzV1QkwyMF9JaENrN2dmZTlOM0pPcmd2R1pQa0l2TmtOVGN5bFBFaUYtOWJyd24xcnZtUVp0RE55SWV0X3dDMEJTYTFmdDQ0d3NaVFFWdy1KWFIwamp4Zk1zM2ZCWFRuSmRiVWVDVjBEdFVqV2wxUW5uZTJMZG9teGpwb0JWNF9FSmhOdGc?oc=5",
+          "description": "Delincuentes rompieron 78 nichos en el Cementerio del Norte y robaron placas de bronce &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-05-18T12:50:00+00:00",
+          "score": 4,
+          "score_reason": "Usa 'delincuentes' y 'rompieron' con tono más descriptivo-valorativo que neutral.",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "Se produjo un incidente delictivo en el Cementerio del Norte de Montevideo donde desconocidos robaron placas de bronce y causaron daños significativos en nichos. Según los reportes, fueron afectados entre 78 y 84 nichos que resultaron rotos durante el hecho. El robo de las placas de bronce, probablemente por su valor material, y la destrucción de estructuras funerarias constituyen un acto vandálico grave que afecta a las familias de los difuntos.",
+        "coincidencias": [
+          "Robo de placas de bronce en el Cementerio del Norte",
+          "Destrucción de nichos como parte del incidente",
+          "Acciones criminales identificadas como hechos confirmados"
+        ],
+        "diferencias": [
+          "Subrayado enfatiza la acción destructiva con 'delincuentes', mientras Montevideo Portal mantiene tono más neutral",
+          "Discrepancia en cantidad de nichos: Montevideo Portal reporta 84, Subrayado reporta 78",
+          "Subrayado invierte el orden del titular priorizando los daños; Montevideo Portal coloca el robo primero"
+        ]
+      }
+    },
+    {
+      "id": "story_020",
+      "topic": "Tiroteo en mezquita de San Diego deja cinco muertos",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
         {
           "source_id": "busqueda",
           "source_name": "Búsqueda",
@@ -538,26 +1133,41 @@
           "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.busqueda.com.uy",
-          "title": "Shakira le ganó un juicio al fisco español y recibirá más de 55 millones de euros",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWFqQzlzSk1UQjRVSmpqZzRLZVp0WGNoVE9pVDRaM3lzM1BEdFE2QzIwOEtudER0V3VoZGV5WDJCaDBuX0UwUVFSc1d5RWQ2T210aXNBZ21MRTJwM3EzdlRJYzBqLUtmUF9keG1vYW1rV25hYnZWRExnOTZ0R3VQUDhJMGRiaC1HamdnYmIySDJlYVlKS3ZJeWFpMFpxY2tyRGJ3SWVZMWZXN1dZWVAyNWVWSnhrZFF1ZHhnOVpB?oc=5",
-          "description": "Shakira le ganó un juicio al fisco español y recibirá más de 55 millones de euros &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-05-18T10:55:00+00:00",
-          "score": 4,
-          "score_reason": "Usa 'le ganó' que personaliza el conflicto, leve dramatización.",
-          "score_pct": 40
+          "title": "Al menos cinco muertos tras un ataque a tiros en una mezquita de San Diego",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSlNNc3J1dDQxejloWWt2S1RmellTdGQ0YWlGNktmNUhRU0cxMHRvd0NFOGt3TGJYSUhpcWFFNl8zYzJmT2xBbldKajNReE9zTEV1QTMtZGFRQUh4empVZ3paM0U0ZDQxc1dUMkp0ZllUQURaQ0FvaHFGRmFqLS0xbmVIOF9vZlZabXYtTUphQWlqU0o2d3NpRXdyQjlDUVNLbm1WUXNKREQwdnJiaEdUN2lsWXlrMVg2Z0QzMXFPZFBGcTA?oc=5",
+          "description": "Al menos cinco muertos tras un ataque a tiros en una mezquita de San Diego &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-05-18T23:05:00+00:00",
+          "score": 2,
+          "score_reason": "Información directa y precisa, sin interpretaciones ni énfasis adicionales.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Tiroteo en mezquita dejó cinco muertos en EE. UU.: investigan posible crimen de odio",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUDNPV1pmRmNKRF9raUkxMmFSc1d2MEJIRWl3LUlrbEpJTEtIZ2dwMWV1d29sRmZsRDV6WDFRbUU3blVjaWVzRG9NSWlITGY5WC1OWGs5aUtlV05BczFfRmFuRXBieGdGMWFJdlpONm5WNDVfVWV5ajVRTElXODhrT0RqaEZBekpBUktsZTdDUXI0T29zbGkzR1JMQzV2ZWZEX1NaYURZY19aVmRYaGNCMFFqcEwxZTBvTEdCZjBKRkFYUFU4X2JkQlVB0gHuAUFVX3lxTE9DLTBfRktzY25XcFU2eklUUzhFa3BjQTNoOGlJdlgxN20xSXZKWFI4R2lieFpqYjJzelZMa3pyS1RkOWpmSUVkbVkxNnBnVzdHZEVidlEzY0x0TG4tMm5EcnZYWDlUamFySVFEVWMxcVZHaTktenBmeEhOWkt3RzFrTm5SQnlOdExjSzAzQlZ2cXJTVXBudWZ6elBma0szZmlxRzl5TFBwbVdJbl80SUh0MzI4cGRjSzNxdlNsSDRTNGdVWWwyOUdCdW9ydzRzMEs3dTVaXzk5ZmF2MDR2ZGdocktTcDFCNjRHd2Mzc1E?oc=5",
+          "description": "Tiroteo en mezquita dejó cinco muertos en EE. UU.: investigan posible crimen de odio &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-05-18T23:30:00+00:00",
+          "score": 3,
+          "score_reason": "Incluye investigación de crimen de odio, contextualiza móvil aparente.",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Un tribunal español anuló una sanción fiscal impuesta a Shakira en 2011 y ordenó a Hacienda devolver más de 55 millones de euros. La cantante había enfrentado varios conflictos con la administración tributaria española, pero resolvió favorablemente este caso en 2024. Se trata de una victoria legal para la artista en sus disputas fiscales con el fisco español.",
+        "resumen": "Se registró un ataque armado en una mezquita ubicada en San Diego, Estados Unidos, que resultó en la muerte de cinco personas. Las autoridades investigan el incidente como un posible crimen de odio. Aunque los detalles específicos del perpetrador y las circunstancias exactas no se mencionan en los titulares, ambos medios coinciden en la gravedad del suceso y la cantidad de víctimas fatales.",
         "coincidencias": [
-          "La justicia española anuló la sanción fiscal a Shakira.",
-          "Hacienda debe devolver más de 55 millones de euros.",
-          "La resolución se produjo en 2024 tras litigio previo."
+          "Ocurrió un tiroteo en una mezquita estadounidense",
+          "El saldo fue de cinco personas muertas",
+          "La ubicación específica fue San Diego"
         ],
         "diferencias": [
-          "Teledoce enfatiza la orden judicial; Búsqueda destaca la 'victoria' de Shakira.",
-          "Teledoce menciona múltiples enfrentamientos; Búsqueda se enfoca solo en este caso.",
-          "Teledoce usa tono institucional; Búsqueda usa lenguaje más coloquial y dramático."
+          "Montevideo Portal menciona investigación como crimen de odio; Búsqueda no lo especifica",
+          "Montevideo Portal usa 'tiroteo' inicial; Búsqueda dice 'ataque a tiros'",
+          "Montevideo Portal enfatiza móvil potencial del crimen en el titular"
         ]
       }
     }
