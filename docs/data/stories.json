@@ -1,557 +1,26 @@
 {
-  "generated_at": "2026-06-04T12:49:19.687426",
+  "generated_at": "2026-06-05T12:43:38.221101",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Controversia por camioneta de Orsi en campaña presidencial",
+      "topic": "Controversia sobre camioneta de Orsi y economía",
       "category": "Política",
       "sources_count": 6,
       "headlines": [
         {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "La voz de las redes: Se mantiene el debate con críticas tras la donación de la camioneta de Orsi a la ANEP",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNlFCRjNWbGpnMFBFMFc2RGoxZDk1T2VkOFVNenRteDVLSG85N2hSWGRsWTFjc2RsTVJGRjc3bUd4alJhMVNhcXluT3I5bHBPT0ZMNVpvZ29TNEFNQTVDVzFRLThvOXZHVFREZ0pyRGplS0F4aThrdHdmV2VDb0RXS0U0WDBlMXQ3OVYxb0NLRENYRWIxVW85eTVjdE1mOXVLeWNidnYxanFqVmlqa0Fnam5iSVo4OGRaNGFOTjFJdWFpTnNfbUdMbnc0Z0xnbldVRFpCTHZLQlNDQXU2?oc=5",
-          "description": "La voz de las redes: Se mantiene el debate con críticas tras la donación de la camioneta de Orsi a la ANEP &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-06-04T04:35:24+00:00",
-          "score": 2,
-          "score_reason": "Describe debate en redes; tono descriptivo sin interpretación editorial propia.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Manejo de la polémica por la camioneta de Orsi aumenta preocupación de dirigentes del FA por comunicación de Presidencia",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOb0pJRlJteUVhSlBmcXp2OUZYUHp6cFNNQ1BtMnlWTlhtNU5QU00tU0tKTGE5Zm1mVHZWN2UtNDZjZUNlZGRhUFRYcEtPUzItdHFLWkpXcjhUX0FVdzJ5Sk1JOUJxUWQtV0QyZEs0dFJPRktVZXh2M0E1ejhJOHVMTFpBQWFSUkdrdWR4djlGeFBkdVFHT0dmR21jWnRZcFRRV0tyNk9FVkhhTzVrMmtrRkFTWmRwMG5jRldSTTdYRF9zaGlhajZIZFkzTzNFTEJXYVhrZ1phU1g2TzlnaUNHMmczcnpLTDhva2NMOFA5Nkw1Snhqd0Utbml1TQ?oc=5",
-          "description": "Manejo de la polémica por la camioneta de Orsi aumenta preocupación de dirigentes del FA por comunicación de Presidencia &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-04T07:02:33+00:00",
-          "score": 3,
-          "score_reason": "Enfoque en preocupación interna; lenguaje informativo sin carga emocional excesiva.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Javier García dice que \"se está afectando la credibilidad de Presidencia\" y pide publicación de documentos de la camioneta de Orsi",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbTVYam10V1IxZUdSNnBrSGkwb3FxWnhQeEY3RzlVS0tHX3prREtzd2VjeVV1aXRqdGVvWHFLNEtLLUc4Wi1IcDZDb0NKV3BTYmt3emtYTEFhRzJEalhTOUs3RzBzTGVOaFJCYzhjRTJ2RlRSNzVSRThnUkNSMnlUZ0dMeVhhUzVjeWRGQXJlR1dwd3Y5SmJ6S0JibmlCR05QQldRbTRoNGFWWDM0aVVkYlNmMVBJUEdUTHp6LUIyemtTTjNsQm54ZVhOdjZTYk5tRTgzd3R3RlZOVlZrVzJpY3kwbUQwcGRSQ1HSAe8BQVVfeXFMTTRnT3VLc3pSN3kzWldLdm5UVUtFQlg3NEtMY3RHR2lRdGk3a0NSUThrY2dMVkxDZDdra0VHekdaM09vOWFoZThyMkQ1c3RHR01VTVRDQXZNTHhWZE9VVFY4YlpEZ0hkMW5sdW95UGJiem9CODN1ZFBEMXpQNVNrYlNhR2pqbldBcDROTmNLQnN1eTF3S3B4dXZwTUFyM2t1dkRRR2xUQTRVQWc5OTdGZk5OUTktQjlDTGlxX3ZLOWFVaXlteWFGeTdIZHBCT2NQdUFwQ3hKNk55a0ZrX2lISjVza1hjM0pjLTdyYTN2ZVU?oc=5",
-          "description": "Javier García dice que \"se está afectando la credibilidad de Presidencia\" y pide publicación de documentos de la camioneta de Orsi &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-03T11:57:00+00:00",
-          "score": 4,
-          "score_reason": "Recoge declaración oficial; tono informativo con leve énfasis en credibilidad cuestionada.",
-          "score_pct": 40
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Explicaciones de Presidencia motivan nuevas interrogantes en el manejo de la campaña de Orsi",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2QyUDd1dVdiNHhpb1FGTE1zZGc2SFBmcm1XaVpJMTBJb1lkSWwwbmdxTFlVX0stT3RicURkbzlLam5FU00xYmRNQkd2elNSMXlvRnRSMV91YUtDUWVNaC1xYVRGTmJRN3l2WlVuMmI3Zm8zbTkwbU91Ml9fMHFTUGJ1WTVTaDNPOXZlSFpVWDM1WXlKMlRuMnJqYmM4TjhfR0UwOXdnNVpiS21wVWRUYnRxUXpqNjRRb2FoQlRpOUwzazVQ?oc=5",
-          "description": "Explicaciones de Presidencia motivan nuevas interrogantes en el manejo de la campaña de Orsi &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-04T05:10:00+00:00",
-          "score": 4,
-          "score_reason": "Reporta explicaciones generan interrogantes; neutral en construcción narrativa.",
-          "score_pct": 40
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Buquet sobre Orsi y el episodio del auto: “Dilapidó lo que le quedaba de capital político”",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV29kRFV3dmdFRDhUVjB5TERfTjloQXlaNExFa3RHdnN4YUIxQ0t2WkFWTXgtQ3J4ZlcwLWtBZU52R2pzaVdsbXJxVVhndDRkekxCVnBvWHVZUUh5dHdaNjFubTUxVWhsdGxYVmgxaUFoRV9ZejdJLS1oMHNqLVd0NDc2UGJTU0N1Z2haaXBpS3c5SVRZSWdzLWhXcHBSamtoMVBkejc0ZDhLSklxVUpDZ1lIMVBNcnFhbUJ5UFNaM3IyME05dThYOWJhc3k5c0JDY3NZ0gH3AUFVX3lxTE11TUJ0R3lJZGt0RXpBMWJEVHBzaEN3MmFHeFlZM0lfV0QyUmxMMnBTRzNEVVBoV081NVJRaDg0XzNudGpWNzRuZkpJTENFOG85OGphVWRtb1BYOGpoRGp1NUgwSjVFdnpRQ3ZDbXo0d0lDUTVHYzlLRXljR0JIaFMtaWQzd29wQVlXZ3pTSUEwZk1IdXdUNFZiSWNVcllWXzlEUDdfMzBTZENtZVdzOXhiQ1MwLTJYTmJwWlhiazRNQjJMM0tmVmVXMy1scHhwNHJyN0FuRjFXZGdPalczTDZBbGE1XzlYTmlWUENnMzhWQW1mbm14NVU?oc=5",
-          "description": "Buquet sobre Orsi y el episodio del auto: “Dilapidó lo que le quedaba de capital político” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-03T15:26:00+00:00",
-          "score": 6,
-          "score_reason": "Cita fuerte ('dilapidó capital político') sin contexto; enfatiza daño reputacional.",
-          "score_pct": 60
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Orsi choca su camioneta de alta gama contra el credo del MPP",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGNCd2FRNThqblFyUmYtZG1HeExXc1hVVXpScWQ4clBiTUN1UmtwZXdBamkyTGNDWG9zbDlEX05oNktOZDg4cnpibERXdFNsSFNDX3drY2VZRHhlUjZwMlU1ZTRCOHRlakRkX0NHbVJFNTFBZjlsdHdvY0E1QTYzSHhXT25lMWozM19RemRRbEZWamZId3JNa0VmOV9pN1RUdGszX2cwX3dmUdIBrwFBVV95cUxOd3A4eF9heHA2dHJ5SXNZUnltNWp0bm1XYU9fSkZocjdiSkdNUHFZYTR6S21MREtxSlpKdWZtdTJCZWlNQ284NlVBd04yV2ZtOUw4MlFUSzNOWmI5MWs3WkFhdXcxZGlJSnRxUzR6TkdfN1lzY3ExNDZWR0RGVTUxQ25uRjBHcS1qTzFTR25XRjEzWG93d290REFOeXhrbTZfd0RtQVYybl8xeDJzUzk0?oc=5",
-          "description": "Orsi choca su camioneta de alta gama contra el credo del MPP &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-03T08:00:00+00:00",
-          "score": 7,
-          "score_reason": "Usa 'choca' y 'credo' con carga dramática; establece contraposición ideológica explícita.",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "Durante la campaña presidencial, surgió una polémica en torno a una camioneta de alta gama utilizada por el candidato Orsi. La situación generó críticas internas en el Frente Amplio y cuestionamientos sobre el manejo de la comunicación por parte de la Presidencia. Posteriormente, la camioneta fue donada a la ANEP. El episodio motivó debates sobre coherencia política, credibilidad institucional y gestión de crisis comunicacionales, con distintos dirigentes políticos expresando preocupación sobre el impacto en la campaña y en la imagen de la administración.",
-        "coincidencias": [
-          "Todos reconocen una polémica o controversia en torno a la camioneta de Orsi.",
-          "Todos mencionan impacto en credibilidad, imagen o comunicación política.",
-          "Todos documentan reacciones críticas o preocupación de dirigentes políticos."
-        ],
-        "diferencias": [
-          "El Observador enfatiza conflicto ideológico (Orsi vs. MPP); otros medios se centran en gestión comunicacional.",
-          "Montevideo Portal subraya daño político personal a Orsi; medios más neutrales hablan de preocupación institucional.",
-          "Grupo R Multimedio reporta debate público en redes; otros se enfocaron en declaraciones de figuras políticas."
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Orsi donará camioneta a ANEP tras polémica",
-      "category": "Política",
-      "sources_count": 5,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Las transferencias de Orsi para pagar la Hyundai y qué pasó con la rifa de vehículo donado",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSzFVRVdLWXdDdWlGbkR2MldIejU0VXIwVHVKLWkzU3FVOWxJbEthdm9LVjd3Y0pCbzdZV29hREozU3N2QmwyZHAwWDdxRmRzcDRxV3RDMEM5SVh2eHk2clZhcHAwaDJVbDAtb3JzbHFzQTlJaE1kdllfbzVEdkFwb1JhemlDc0xiY0pQbk1sLU1ETXBvLVYxQ0o5SEhjNXJCaE04Uk1RelBUQWNQRjgxRS1CdDZuR0VuLWdjNnN6YUdrc1ZYekFlRnlxV0ZUM3ZEc2FnYdIB-AFBVV95cUxNQVRKbzk0WDE5NDZNYURMYTlkSUQtY2k0TG9Cd2dPWjV0Wkg4cjhFYnlOZGE5V0lGOWVaWXRKM3Nxd3ZidzZMWjJqbkxRTFZwZi11SFJ0UEtNdTVaWnBaX1l3NW00UWhzbkkwdzB6YkZyZTBiMk5vc0ZteG5kZlRqZWlDc2k1Z3poOEx0YVNJSkNPUHZpUGFvdDVKN0V2MnNIQmdlbU1EQU5ndmpnY3ZQUVhUQ2pnZzY0cHNmQUdPS1lBb3ZacDVRTGtDV0VTOGt3dHhzRXNTaU8wdFZuVTBlVUFDMk1ja3kweVM5Wnd0LV93cUZwS3lVQg?oc=5",
-          "description": "Las transferencias de Orsi para pagar la Hyundai y qué pasó con la rifa de vehículo donado &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-03T12:37:00+00:00",
-          "score": 3,
-          "score_reason": "Descriptivo, busca aclarar el flujo de dinero sin sesgo.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Presidente de ANEP acordó con Orsi donación de su camioneta: dijo que es segura para niños y que asume costos de mantenimiento",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM2cxVHRxQmZzUmpkNFlzd1NqX090ZXI3REFwZUhkc204azhMRWJyM2pweXNqdnVYRkdHOGNkU3B4MHE1X1FCZjdKY2VoR2RuYzZxeGRETkpJM0NJcU84dE5qd0NiS0dYOUY2Y1BSWFpCSWRkLUVJTE1NN2ZDa2RpZlI5bW9ZeGhtNktsOGJtQ05HTENsazZPcHoxRjgwRWtVS2k5ZjhQOFFxUUhtWnFCcUJlRU9QYnJ0QVhiamZXU1R5b2MtNEpXN2V0NkduOXFRdnJsWV9nSWtTVXRfYnfSAeMBQVVfeXFMTzFpQTVpZnZwcmNwQkdMb2Z4TTV3WHJVcjFxSmJfZkVPYlFCODBuNkotNWVJN21TX3RDZlhNNFAyUTlfMlpZMkdLUDJPM3hrRDlEOElPVHBGVzkwdmdzU202T0hwSHFMZTI2bXhET3d2VUhLZGphOXBCNUlSU0N1bmItM1FRbGJJZjJFc016ZHNfNU9ZTGFnZE5tR2JZVDFsR1BwbDRNb3djVkpCRE9HQzVmQWNqYzZreW9oaWdBb1ZZMUxYVThXQlNCVWp6UmZPOXlhMms2RUMtc1JGcG9FR19iUU0?oc=5",
-          "description": "Presidente de ANEP acordó con Orsi donación de su camioneta: dijo que es segura para niños y que asume costos de mantenimiento &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-03T14:05:00+00:00",
-          "score": 4,
-          "score_reason": "Enfatiza acuerdo y seguridad, con leve tono positivo.",
-          "score_pct": 40
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Orsi afirma que volcó al FA superávit de la campaña y que eso incluyó el costo del vehículo donado que usó para comprar su camioneta",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZXBCNklfMmVtVDBnSkNyVWFveXFNM2tzbWozYXgxczZlUzZ4VXpVUkRFYW9mb3BvTU11QjB4MXB5T2dBSXFoMG90OVNVNGl2ZlhCcy1jRFNIdWRsT0prM09fTTV5Y2x1dVZmSzVlNDJLVmk0SUFHR0ZSVkVZNVl0c3FvUWs1Z0tsUWxXMFE3djhJdktNSXBjbEtYeU4yUUZRZFp0OExuRHZCN19PYU9fd3p1VDE3elFpY0JPbUlSZUNxRVdwUEwxOF93TUQ1S3ZRWGJmek44TmptUXJJWHE3QXgtYjhyeWk3NDYwRm4yZ01sTERha25zb0dTSEs0Z1k?oc=5",
-          "description": "Orsi afirma que volcó al FA superávit de la campaña y que eso incluyó el costo del vehículo donado que usó para comprar su camioneta &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-03T09:00:00+00:00",
-          "score": 4,
-          "score_reason": "Relata explicación de Orsi sobre superávit de forma neutral.",
-          "score_pct": 40
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Orsi, que donará camioneta a la ANEP, reconoce que abonó US$ 25.000 menos y dice que pagó al FA por Renault",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQlg2M2VHTXVzc2g4aHdrNnZQR0NBMjFhNTJLb01IbDNQbG0tTDZaaFNBcDB1Wl9xRDJMVkdHekt2aWowalpnRGl4Y3RtRnFQVUszRnAtMTV0Y2ZiMG9mcDVTeWNWZGduM3ZlcGpreXpETmJyM1RxMW53V3JRWGVEZ1g3YVB2bFAwWDBsYWtMQ3d4U284OS1OaUQ3cGs2dGctUkFIbHhZODBkeXdKS2FjWlZvdFhfX1FFQ3BTcThRUDZCaElLQ2RSNGd4RXA2dkQyaEprNUVIQm9QNnlLZHJuSnI4bGY5dw?oc=5",
-          "description": "Orsi, que donará camioneta a la ANEP, reconoce que abonó US$ 25.000 menos y dice que pagó al FA por Renault &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-03T07:09:10+00:00",
-          "score": 5,
-          "score_reason": "Énfasis en reconocimiento de pago menor, tono de revelación.",
-          "score_pct": 50
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Robert Silva: \"Vamos a ver si el gobierno aclara lo que hay que aclarar\"",
-          "url": "https://www.teledoce.com/nota/robert-silva-vamos-a-ver-si-el-gobierno-aclara-lo-que-hay-que-aclarar/",
-          "description": "El presidente de la República, Yamandú Orsi, anunció que finalmente donará su camioneta Hyundai Santa Fe a la ANEP, luego de que la compra del vehículo estuviera en el centro de la polémica durante las últimas semanas. La entrada Robert Silva: &quot;Vamos a ver si el gobierno aclara lo que hay que aclarar&quot; se publicó primero en Teledoce.com .",
-          "pub_date": "2026-06-04T12:15:22+00:00",
-          "score": 6,
-          "score_reason": "Cita crítica de Silva, sugiere falta de claridad del gobierno.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "El presidente Yamandú Orsi anunció que donará su camioneta Hyundai Santa Fe a la ANEP, resolviendo una polémica sobre su compra. Orsi reconoció haber pagado US$ 25.000 menos del valor inicial y explicó que volcó al FA un superávit de campaña que incluía el costo del vehículo donado que utilizó para adquirir su camioneta. El presidente de ANEP aceptó la donación y asumirá los costos de mantenimiento.",
-        "coincidencias": [
-          "Orsi finalmente donará la camioneta Hyundai a la ANEP",
-          "Existe una polémica previa sobre la compra del vehículo",
-          "Se discute el flujo de dinero y pagos asociados"
-        ],
-        "diferencias": [
-          "El País enfatiza el déficit pagado; Búsqueda prioriza la explicación del superávit",
-          "Teledoce presenta crítica política opositora; otros medios son más informativos",
-          "Subrayado destaca detalles de la ANEP; Portal y Búsqueda el aspecto financiero"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Crisis de aprobación y controversias en gobierno Orsi",
-      "category": "Política",
-      "sources_count": 5,
-      "headlines": [
-        {
           "source_id": "espectador",
           "source_name": "El Espectador",
           "source_short": "ESP",
           "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.espectador.com",
-          "title": "De Ambrosio: “Le tengo tremenda fe a Uruguay para el Mundial” | Los Mismos Locos | Entrevista",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFZYbjdGcktQcEVHTnp4TVJSd21Hc1F0MHQxdXpBZTFrY0dGdmk3LThhSjNfYUZFVDJpZXc4QVdIUmg3U3NsTDlRMDhiVF9SX2Fydm5CUEw5d1lmNUJtc1VtbzllZmJRVE1pMWJfNjlESlUwMjR0aGFLcGN0ci1YNUdTY3pDVEtha1RZTmlpVmFNZ0NGTkJudUJsSl8wSFB0MDJjc2dhbXlIY2Ztcmc?oc=5",
-          "description": "De Ambrosio: “Le tengo tremenda fe a Uruguay para el Mundial” | Los Mismos Locos | Entrevista &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-06-04T00:59:15+00:00",
+          "title": "Alfredo Jaureguiverry: “Cerro hoy está al día” | Las Voces del Fútbol | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeExNeWt5d1BRd0tvWHVrSTFzWXdXWmJZYVZ0Ujk5MzFJdEJmamJPODBMTWo1bDhhWWxBZ1BfUHdYMXE1dkxhdUM2aDFZWnlkckFFX2MtTTBkemp4UzdKWFB0MWpHYk9FSk5MbEpvRE9kUUhmUl9iVi1kVGpLX1JMNE9iS3BDOUtvVDQ4Tk9YZVhEeERPd1dLak9mTQ?oc=5",
+          "description": "Alfredo Jaureguiverry: “Cerro hoy está al día” | Las Voces del Fútbol | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-06-04T20:06:12+00:00",
           "score": 0,
-          "score_reason": "Cobertura deportiva neutral, sin agenda política o social implícita.",
+          "score_reason": "Noticia deportiva neutra, completamente ajena al tema.",
           "score_pct": 0
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Inflación, desempleo, déficit fiscal, salarios, actividad económica y costo de la construcción en Uruguay en números",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZVUyZ0xxbjFaMUstTjRkX3lTOVdyS0IySXo2dngyM0xyX2VOMHZHTElRZHc1Y3NZZUpXeXozTzVrMHhhWVhlNkV6UHBNTkZXczBjQjAxWWdZM2RleGRXTnRxc0NuRXk5bWNKRC1tLVRVTzZ4UjZTQnh5THJ4dXlGRHJfd2pBZmFjT0t3cEVUQy1URDJuZmpMSi1hdk1teEtWUDNUUG91cHhxLTBmaXRYR0daOU42dnptOHFiYThISVlqT1JjSTJqVWtZenBrZS1WVkZnQ3N2QjBJUlBORzdGekhvbw?oc=5",
-          "description": "Inflación, desempleo, déficit fiscal, salarios, actividad económica y costo de la construcción en Uruguay en números &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-04T05:00:00+00:00",
-          "score": 1,
-          "score_reason": "Puramente factual y numérico, sin interpretación ni valoración.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Otro uruguayo logró acceder a la eutanasia: quién era Pablo Cánepa y cómo fue su historia",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcVJ2QW1qNEM0TzJJakVNcVhqN0Rsb0l0bXd5ZjRQd1c1d21GRjUyWnhacUZBeGZiM3FaWnhFRzduRVd5M21COHQtdXF6NThMM3V2UjRPWktBNGItUi1HU2psZGpWSnp3ZVNRakVtMzVlYWx2dEJPcVV2NGIwQVBXaXJxNTBOaXliWEtia0EtS1ktXzJZdjlQMUdNYnpJN21PQ3RvcWVBSUNOcDJVTkV4NG9UR1k1aEdCanR5N3JETlA1cTlES19objUtYXU5WGk0ZWfSAfYBQVVfeXFMTmtwRzJuTnFNbjhEY2RYVzFHcnB4UmFldnBBYmxpRE5KX1pFdnBZaGtmLTFMUUJXSUZXb1ZZcUFIbGI1OUhFZWowUFVvaGI0Z2hscXFQRmhucVBSNWRGc0t3bUktTlhnaVhpRmRod3gtdU9qV0hveEphR1E0YlltcHRMOXJOdDBTSVNmSEpyLV9YYzZmQlJrVHJhYTNQb2JIQmNOR0pJLVhua2xkbDM4SHZlenQ5VkJxZzBHanZULWJZZ1V2UEdIbFFjLTJvUlE1MWx1RXJHVTB5eTRIR0I2MWFheGdRV2RWMkF3TVdxcTAxaThsbzFR?oc=5",
-          "description": "Otro uruguayo logró acceder a la eutanasia: quién era Pablo Cánepa y cómo fue su historia &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-03T11:28:00+00:00",
-          "score": 2,
-          "score_reason": "Informativo y descriptivo, presenta hecho sin carga emocional adicional.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Cae la aprobación de Yamandú Orsi: 48% de los uruguayos desaprueba la gestión del presidente, según Opción",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUWY1Q0JRclM3amt6cUk1QjkzTkdacUNscVRFUlFKdFNyYzJIZS1VN3lpS0V6bjBCaDRmYjB6TjM3V19XakotUEJtRkV0SWxTZ000R3B5a2VGQS1UczY1T2tHZTkwVTVJaGZlRHB5YTVHRHhpVUJoaklLY3BiRUw4aFQ3eVlOQ2hURmZPOUR1eWV4aGhZamNRRnR3OEtfS252ZE5iNjg5QUxielIyMHpxWW1zcnA0a3R3dy00MjYtS0l3VTJEdzZheU10eU5JVHBxc2dMYllqYVZsS1J5RWZaM2x3b3c?oc=5",
-          "description": "Cae la aprobación de Yamandú Orsi: 48% de los uruguayos desaprueba la gestión del presidente, según Opción &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-03T21:02:29+00:00",
-          "score": 5,
-          "score_reason": "Titular alarmista enfatiza caída; destaca cifra negativa prominentemente.",
-          "score_pct": 50
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "\"Jamás en la legislación uruguaya podría haberse realizado\": especialista señaló irregularidades en la rifa del auto sorteado por Orsi",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQU3FVZzZTa25wXzVkWE5tWm5YOXBXNUJtNUZFSzh6dk44elF5VGppT0l2QWQxOXRuTnYwa1pOd1VVeHJaZVNEMG1XeXNGLXJaQlRCSGdiTXE5d29DWnNIbG1MczhOWjNWUzRBRmZyVE5SZ19MSVUwT2JmM2c0Z01iYTM3R3A1RjFpMlBoN1oyNklhQjgyS0FNczNQbExSWEYzSG1QaHhlbTdpUEdsV2dDWTFwY1BqMDZwa2lqVEQ0TjRVV3ppZk9KUFlaS3p1aG90c1NFa2pKVXJkS0VORTY2RlBxSDJIUFgyZ0g4ZXBRalFqczF1S0ZrNWFUdk5IVUhD0gGGAkFVX3lxTFB0Q0FyeVZwS2xvNWRYd0xrdVZjbzVoTVoxRG5ZTDVxN2NQTGlmWWZiVVVFcUZQcDhYZXBDRFpwOWdnUmpnZWVnWWxWaUpnbE9Wb21YcGVmVzV6OEQxaUF4YVNtcHlRckVOSXFRWnd1Si1QbHhXb19MQ0Y5Y0kxbGszZEI3T1hKaXM2TW9pb0pTVGI4MG5Wd0NROWdIMExISGVNQ0dGb1h1aXUxbUIxQ3g2TDI5Rkp1cmtGUjFWaVRfVDkwYlRBcTl3ZzZBS3FmMWRRcFQwU3dyX2lxNGFPM1p4NWtkanhJU0c5cHNIbkNOZk9OOGdlX1RiMGpPMDFkYms5cHZzU2c?oc=5",
-          "description": "\"Jamás en la legislación uruguaya podría haberse realizado\": especialista señaló irregularidades en la rifa del auto sorteado por Orsi &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-03T14:53:00+00:00",
-          "score": 7,
-          "score_reason": "Lenguaje sensacionalista con comillas y énfasis en lo 'jamás realizado'.",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "Durante el gobierno de Yamandú Orsi se registran múltiples problemáticas simultáneas: una caída significativa en su aprobación presidencial que alcanza 48% de desaprobación según encuestas, cuestionamientos legales sobre irregularidades en una rifa de automóvil realizada por la administración, y debates sobre políticas sociales como la eutanasia. Además, persisten desafíos económicos estructurales con inflación, desempleo y déficit fiscal. En paralelo, continúa la agenda deportiva nacional con comentarios sobre expectativas para competiciones internacionales.",
-        "coincidencias": [
-          "Todos reconocen una crisis o problemas en la gestión actual",
-          "Los medios cubren simultáneamente temas económicos, políticos y sociales complejos",
-          "Existe cobertura variada sin silenciar aspectos críticos del gobierno"
-        ],
-        "diferencias": [
-          "El Observador dramatiza cuestiones legales mientras Búsqueda las contextualiza numéricamente",
-          "El País y El Observador enfatizan crítica política; Montevideo Portal y Búsqueda adoptan tono neutro",
-          "El Espectador desvincula la agenda informativa de controversias políticas mediante cobertura deportiva"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Crisis en Peñarol: cuestionamientos a Diego Aguirre",
-      "category": "Deportes",
-      "sources_count": 5,
-      "headlines": [
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Pablo Adrian Canepa Silva",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00ckVZbEZzWGVKVG0yRUs1ZWwzY2U0TDNFeUpTcGM4eGNoOTNWSUh4SmtYbklYZjFIa2pUWm95TU0ySGZVS1JXUTgwbHM1Rzdlb1dDckNOVWZUVnoyNjhMQVptOEIyNmZlRkp0ZUo0bkpsZw?oc=5",
-          "description": "Pablo Adrian Canepa Silva &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-06-03T03:15:57+00:00",
-          "score": 0,
-          "score_reason": "Titular genérico sin información clara ni carga emocional detectable.",
-          "score_pct": 0
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Zeballos: el rap uruguayo en un lugar en donde nunca estuvo",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV29UOXZNbTFIdUlOOHFSLXp3ZGtNRnhueXdjdGMwVThxZmlMZzlQMU5sNEd3QWhlQWwyV2lPQ1pnSm1OTHV4WnNJaW9NYUpVZWRHMUdoZjcwaGYweTJMTkhWX0hWZXF2VV9JZllkZ19IOGp4TUpFQkh3UEhZUFdIRFRucmI3cEctdkZGRkx2ci1weS1DN2NJdXNCamIwUEVTX0E?oc=5",
-          "description": "Zeballos: el rap uruguayo en un lugar en donde nunca estuvo &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-03T21:00:00+00:00",
-          "score": 1,
-          "score_reason": "Completamente desvinculado; cubre tema cultural sin relación aparente.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Ignacio Ruglio: el plan de Peñarol, cuándo hablará con el plantel y cómo lo vio a Diego Aguirre tras la derrota",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYkJzT3ZiUkk2dTVNMFlYVkZIbGpPeHMyeW0tOFhwbVNsRG15OXlhYzJWSW1tQkFLa21UcTA3VzFGVUFJWVJMTGhyUzQ4WFNYWDk5cENDdkN6eEVtSmJYelVoVEFGdG5JZkhKX0lmMVNXN3ZtR21zVnFoZFotMDE3b2NKb3JoZW5nZmJheFBUeFpjd21EUGNxVF83anNrTWdvaU14TG40NmN4MEZYTTMxeE1KMmMzTjJzQUE2anZ3MXgtb0RFSFFQR0pzQ29HZk93WkRsTVhoX1pmM2tRdEtZYV8yM1U?oc=5",
-          "description": "Ignacio Ruglio: el plan de Peñarol, cuándo hablará con el plantel y cómo lo vio a Diego Aguirre tras la derrota &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-03T06:05:26+00:00",
-          "score": 2,
-          "score_reason": "Enfoque informativo neutro sobre el plan de Ruglio y próximas acciones.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Ignacio Alonso: “hasta anoche de Arrascaeta no estaba descartado” | La Mañana del Fútbol | Entrevista",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMzF2aHRPUzZrcmc1SFhTX05NVVEzamNVRTZTa2VFRUJYczMyOXpaRnYyZGVfVm8zbnktUEEyZnpJZ3Z6cmhSYzg0RVJtZUZxU3ZudzJvX1JlTUU2Z1o1eTJILUZ6ZnpCdXdLamlKOGxCZ0VPV1M4VUJKY3UyeFRFOVJTSm9jdFpCV0RsU0hyb2Q3aEVSTVpJSDRlOXFuMnZxVklONWg4bmI?oc=5",
-          "description": "Ignacio Alonso: “hasta anoche de Arrascaeta no estaba descartado” | La Mañana del Fútbol | Entrevista &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-06-03T12:52:40+00:00",
-          "score": 3,
-          "score_reason": "Informativo con énfasis en ausencia de descarte sobre un jugador.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Evaristo González: “Se cuestionó la situación de Diego Aguirre” y duras críticas a Ruglio",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSlFkdmw0cTRobHZBc0RTTzkyNjVBbmpCYVBrY0FlNVhFUWtPdTc3SnN1WkZxdmdweldqWHcwYTFGTHVqUHZYTWpNaUMyUE1ic1l5TlNDQ3g5alh6STE0dW54VHo5OUhQd2p2ZGo1SkVRaEw4eUpGNDM2by1Ea0hVeW53WGJBODlmV0lJRlRmTDhRbEI0WUU3Q0paYmtVc1pxbkxiM3h3TVdDajctaXd4eEtTd2F4Q2ZDSkhVWk1SUTNsajJ2MndQbXVFcXBlS3Q40gH0AUFVX3lxTE9lRXlnXzRNQTY4RVhKZnU2MUhIVTY0N3owcGFjeXMzTl80anJsRDMzdEVSd1lSaWp6UEs1LUdLczktd2xPTHB2Z1E3TTJzUXlFeFQ2YVFpMXBaM0tnRWJzQ1VrUjZvZnE2MFRsNDlOVlJZWW9IUVlNNUV2QjBOVnN1a0JUWmJsQVZCdVdoRnRoQzJfanpubTNVTk1ZcHpQaXBmZlc2RG1qSUt0Z1ZRVEtpQy0xejRtY29rZzRteEp6MDBYVXdiTzFJXzlwRjJrdmlYNzlBR00xeThSMGM5UmJvNGJIQXFiY3dYZXF6VnJQemNrRzc?oc=5",
-          "description": "Evaristo González: “Se cuestionó la situación de Diego Aguirre” y duras críticas a Ruglio &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-03T17:52:00+00:00",
-          "score": 6,
-          "score_reason": "Destaca conflictos internos y críticas duras; lenguaje que subraya tensión.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "Peñarol atraviesa una crisis tras una derrota. El presidente Ignacio Ruglio planea reunirse con el plantel para analizar la situación. Hay cuestionamientos sobre la continuidad del entrenador Diego Aguirre. Evaristo González, dirigente del club, realizó críticas hacia Ruglio por la forma de manejar la situación. Se menciona también a De Arrascaeta en relación con decisiones recientes del equipo.",
-        "coincidencias": [
-          "Existe cuestionamiento sobre la continuidad de Diego Aguirre como entrenador.",
-          "Ignacio Ruglio tiene un rol central en las decisiones del club.",
-          "Hay conflictos o tensiones internas en la dirigencia de Peñarol."
-        ],
-        "diferencias": [
-          "El País enfatiza la gestión y plan futuro de Ruglio; Montevideo Portal subraya conflictos internos.",
-          "Algunos medios focalizan en jugadores específicos (De Arrascaeta); otros en decisiones técnicas.",
-          "Nivel de crítica: El País es descriptivo mientras Montevideo Portal es confrontacional."
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "Pablo Cánepa recibió eutanasia en Uruguay",
-      "category": "Salud",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Recibió la eutanasia Pablo Cánepa, uno de los impulsores de la ley: “Se fue rodeado de familia y amigos”",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWTJMOHBwTWZBTDFVODJqdTdpOF92RnNiUVNuRDgwcVFBRUkwNTJkVE95QWd3a0x6dS1hdGE3RHNFTWcxOVBsa2lyQk9wX3g3TDNXb3RYX3M0UGo2d2ZjNGVpSUUyMllvV3VaaV9ZZVh1bUdkOVd3R3pnWG9VRzhZOHhRVGtfTVlmNlZQeG14ZDhpQUtrZ0ljRDBDYzJqa0wxOE9Qdzk0d0JoN3J4NVZYaTMtNENhU0QxWUhkNzRKVTVTc3BfTWdUVFlleXZxS3J5dDdoM0ZaOHVwSUgw?oc=5",
-          "description": "Recibió la eutanasia Pablo Cánepa, uno de los impulsores de la ley: “Se fue rodeado de familia y amigos” &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-03T14:59:03+00:00",
-          "score": 2,
-          "score_reason": "Informativo, usa cita directa, menciona contexto sin carga emocional.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Julio María Sanguinetti: “Uruguay es desmesurado para su escasa demografía”",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTzMxY3VLeEhzNnlLcVNQUlhMeEV6SGxuZGo1R2xxTFJERzBaa3B6YS1UdzAwSkdCal9XT0hjSjVlNzBnVzFCcVZWclVhMDFmbXJhYndibkpFZkI2Nl8xc1hSUUYzN3hnbDVkSWpVTXJCdnhBcVNPck5PaHk5SVlnVkdPdWMzTjJOTkNzVFRGVlJUVlQ1TmhjTlRhQTdIWkhYbzgtem9VQlJvM3ZOLUwwVFBwUk5Ydw?oc=5",
-          "description": "Julio María Sanguinetti: “Uruguay es desmesurado para su escasa demografía” &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-04T07:59:24+00:00",
-          "score": 3,
-          "score_reason": "Desvía foco a declaración política; énfasis particular sin relación directa.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "La historia de Pablo Cánepa en la voz de su hermana: “Atrapado en una vida que no es suya”",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa1dCN0VjSmdVa0RnZEZDM1NWMlR3aDBXVXpFbEJIV1RrVXRETXIyeHVsclVpRnlFRGdvX3U1ZXZ1NjU4U2J5MDJOVTZ4Y0IybmJ2WWN6SGdJSWNXckhGRFAwQzUwYVBqMnEwUWttbkFERjNtZEhOc2Nfc0VqMTlwajZlSmVDdm9pXy1qY0J0QjloX2RkTXktZjFNQWV5UUMxZklvbTN5TDVZRjNua2hodnhYLWcwVFdmTTlBdkFZbVRCWEw4VkdCdWE0SWlQRERWeUFz0gH3AUFVX3lxTE1sTUxtMkFEVGNUdHBzWEJ0UURrbXV4X0JYc1Znb1FwM2QxWW1rblg3azRTZE1BQmU3Z001ZzIzSHBXZW5QSnV1dXIxWk5TMDhlUDUza1ZjQlRBSVhHai1UVk1pcTlDeGxkVE5Fd05HbDBfUE5UaklHWWpuZXMyR1VVUHFGVGdDVnZlOWFUZWJCd3VWRjRGTGI2NGdTcTNNbC1CekJKNGRHR2xuLVhUeXRUaEdaSkVjSVdUX25HeldsQ1lIcUk0N0VGa0xVNTZHMzNYUWQ1cUQ4UFZEVG5mYXplVm40c1dIMzdfa0NNR0JnX2NKWHZ1Yk0?oc=5",
-          "description": "La historia de Pablo Cánepa en la voz de su hermana: “Atrapado en una vida que no es suya” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-03T13:05:00+00:00",
-          "score": 6,
-          "score_reason": "Cita subjetiva de hermana genera empatía; 'atrapado' tiene carga dramática.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "Pablo Cánepa, uno de los principales impulsores de la ley de muerte médicamente asistida en Uruguay, ejerció ese derecho. Según reportes, falleció rodeado de familia y amigos. Su caso genera repercusiones públicas, con figuras políticas como Julio María Sanguinetti haciendo declaraciones sobre temas demográficos del país en relación al evento.",
-        "coincidencias": [
-          "Pablo Cánepa era impulsor reconocido de la ley de eutanasia.",
-          "El evento generó repercusiones públicas y declaraciones de figuras políticas.",
-          "Se confirma que Cánepa ejerció el derecho a la muerte asistida."
-        ],
-        "diferencias": [
-          "El País enfatiza circunstancias serenas; Portal destaca sufrimiento previo del paciente.",
-          "Búsqueda desvía atención hacia crítica demográfica de Sanguinetti, desconectada del hecho.",
-          "Portal humaniza con voz familiar; El País mantiene distancia informativa; Búsqueda politiza."
-        ]
-      }
-    },
-    {
-      "id": "story_006",
-      "topic": "Peñarol venció a Aguada 99-82 en primera final",
-      "category": "Deportes",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Peñarol y Aguada juegan este miércoles la primera final de básquetbol en el Antel Arena: así será el operativo",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEhpVlQ3RGloTVlIbFFSeVhPZHBPN1BRVU5mWmdUN05sbWROTWxITE5PbWxQWXJqbUwwTF80U0JWeks4QXo2Z0w0eEFNNlZyS0cxR0E4OXJaSG1abEVaVS1sNUJPdmZtU0R5Z2dqSkVBWTRXd2pNbXBhNjg5YjNMLVNLTG90cjV2eTlhQXpnRGhSYkpBdmZpUnFFYTBBS3J1MzVmSE5TMXZEWDFHdUZ6c0ItaVFmYWVLZnA4cHAxV1pJZ095UWVQTDNyUmU3RWpSZ3lxeTdIaGbSAd4BQVVfeXFMTXk4cTVKLVNvaGxDeTRoNEd1anBGVExfX0FJaGNnZEJOOUpzZzgzdUxBT0EzclNHbVZ2Nll0bzN5YnoyN3g2X2E0Y2lXX0FURHFuZXQ0S1pZYy1IOGVtX2xpODNINTYtTXMxMktDekJLQWxWcnR4cWRPS1VldTNhRkJsanE4WXo5d2tTVnQtT1MxVE1mUi1tU05FYnBsbkFTQnhYYW5DZUQ0TkVxWnVSUWFoWGdkdjF1Z0dEWVYzR0tvdUxuRkZBVEVIMGE1SXpIZWhidEF1bERiRTU2SGln?oc=5",
-          "description": "Peñarol y Aguada juegan este miércoles la primera final de básquetbol en el Antel Arena: así será el operativo &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-03T18:08:00+00:00",
-          "score": 1,
-          "score_reason": "Titular exclusivamente informativo; se enfoca en operativo logístico del evento.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "LUB: Peñarol dominó y derrotó a Aguada 99-82 en la primera final en el Antel Arena",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0VpUVhnRlhDSE1vb3RVRTh6d0FCeThWUnFZYm1WbEVJa051V3UyV1JtLTZubDBuSkxrbEh6WmphZmNkcE9XdkpDRzJobFJ1bm5CVkVQdEtfQXJ0OGpXYThBbFNKRTVHeHVZTnRBOFZweDdMbTEyWE9nVmNkRHM2R0tZSThfY29KUnJ5RHdtTG5HdnBLd25neXFBZ0IzZ2ZPVkNFdHlnZ2lBYm5DN2pVc3BFdlQ1dGszMnBMLXdzOVpaOWY4R2ZzatIB7AFBVV95cUxNbnNtdE1tXzNYSTI2dzBmWWMyYXVQTkptU2ZJdEIzVEdwZ2Y0NWozM2ZSS3Z2VjRIb3BleFNPYXA1cTdKWnR5WU5HZWdfejhQbm1OSTZMVmE5NnE0a2pTbkFuazcwa0lSaThjTWdCTzVleXYyekhPU3RzX1JXR2NLMmhjRGp5OERETTdPcFh5VXJmZFdNRWVIcnFpWVNFc3IyUk40TnNWZHdIa3ZjX21oaGt4Z2tNZ3d1Q2hCa1BIY3lhV0Z5SlV4V1I0WWlCeEZnaTNWb0I2QjhJUFdfT2lBMWpHZENpUlBpd1ZJTQ?oc=5",
-          "description": "LUB: Peñarol dominó y derrotó a Aguada 99-82 en la primera final en el Antel Arena &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-04T02:16:00+00:00",
-          "score": 2,
-          "score_reason": "Incluye 'dominó' pero principalmente informativo; pocas palabras valorativas.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Peñarol 99-82 Aguada: el Carbonero ganó con contundencia la primera final, con Hogan como figura",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOTh0OGJXOEtJcWtHSjNPUnE3ei1mWC1UbnBJbG1YRGlrZHBvbnNZaWZfZm1rY3lsaXpyaDZ4RjR3SThNbGM1SmFKcDhLVlMycW00WEU1S2VicndHVUpmU3R2WlZPYXgyRUM3NXc2SEQ4MndhU0VVZGlkQURHanF1Rm5XVWlHNVAydjhMTWE3dFZMOE1YelRaYzBIa0VZZ28wVk1ja0E3Q1lSdXdwX3JCbXRNd0lmbGtQY083VHFCdHJybDBQX1RzVlVYcXpiaEVRWG84RTVDdXd4NW8?oc=5",
-          "description": "Peñarol 99-82 Aguada: el Carbonero ganó con contundencia la primera final, con Hogan como figura &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-04T04:10:37+00:00",
-          "score": 4,
-          "score_reason": "Usa 'contundencia' y destaca figura; levemente enfatiza superioridad.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Peñarol derrotó a Aguada 99-82 en la primera final de la Liga Uruguaya de Básquetbol, disputada en el Antel Arena. El equipo Carbonero se impuso con claridad ante su rival, mostrando un dominio durante el encuentro. Hogan fue destacado como figura del partido ganador. Se trata del primer juego de la serie de playoffs por el campeonato nacional.",
-        "coincidencias": [
-          "Se disputó en el Antel Arena entre Peñarol y Aguada",
-          "Peñarol ganó 99-82 en la primera final",
-          "Fue la primera confrontación de la serie de playoffs"
-        ],
-        "diferencias": [
-          "El País enfatiza la contundencia y destaca a Hogan; Montevideo Portal usa 'dominó'; Subrayado se enfoca en detalles logísticos del evento.",
-          "El País y Montevideo Portal noticializan el resultado; Subrayado adelanta información previa al partido.",
-          "El País agrega elemento de protagonismo individual; Montevideo Portal mantiene enfoque colectivo; Subrayado prioriza aspectos organizacionales."
-        ]
-      }
-    },
-    {
-      "id": "story_007",
-      "topic": "Situación económica y aspiraciones deportivas uruguayas",
-      "category": "Otro",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "La cláusula penal",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsbjhBQmItci1JT0ZGVDREc29UenBEMER2UFR6ZFVTb0oySXFFSXk5YjdGN0ZrblE1VXhTNmZPckFORVNuSnlUSGRYNk0ySVpFVDRZcHZtSzRJckxnSlBlQkJnbURJMlJNN2t5YjdsOWg?oc=5",
-          "description": "La cláusula penal &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-04T08:19:22+00:00",
-          "score": 2,
-          "score_reason": "Titular muy escueto, neutro, sin carga emocional evidente.",
-          "score_pct": 20
         },
         {
           "source_id": "busqueda",
@@ -564,207 +33,9 @@
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdjRoRWdtWnFtcDJvT1pYUWxFRnV2U3JYTUtxMXlXUmY1RTdrX3hDMkNSM0lCWm9KWF9JS2l2MWVjMmpfZUtQYUxxRC1pQ2pjN21UWUVqam55TDNCLVFQc2MtVWp2dnU1OENUQThsMzFydkRiRi1pMUkzYlhEWE9tQ0xVUEhUWHV3QTBtNkhGQU12dVdidm1RRVI4Ty04MDF2UUlIOFh2bTBBaEJ4TUg3d2ozR2phWDA0bno1eUsxM1BSMFd4d3JUX1Y3MzF3WjU2a2tvMjhrMVF5eGdp?oc=5",
           "description": "Déficit, 30 años de superávit y déficit; el ciclo de vida económico de los uruguayos y la tensión demográfica &nbsp;&nbsp; BÚSQUEDA",
           "pub_date": "2026-06-04T05:02:00+00:00",
-          "score": 3,
-          "score_reason": "Analítico y descriptivo, con énfasis en datos económicos históricos.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Si gano un título con Uruguay ya puedo morir en paz”: Fede Valverde y el sueño celeste",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZFJTb2YtQS1QblBFaFBZcGVTMmVHdEVuenphczlydFplNzFnTXlTOVV2X0xmUnJDTHpHd2xnUzJ5RnNNWXpOaTg4YUhENG9CRjJKVFdfSThBTVFFOWw2NHM4QU93OHR1WnpNai1MMUNkUFJLdlFLeE1LWDJRZi0xU3R2UjhSUHNEMGdJMkZlTWtwT2FXOHlTRmZ1SkZ2RENvV3hIdU5maTBRNkg5bVlRN1hoY09TZVBMUVNnMzJRMUJxaTVjdzFlbGJseUpkeTDSAfMBQVVfeXFMTkVacURSa1N0RGNHSUlfNm9GNkRGVG1oMHh2d1JqV2ZFajY3LUQ3YXNHTkxmLWlFUUx0NGRBNk15RUVxVjB4RkhlaEh3ZG5GU2E0YU9BYXB0UkVuWV9yM09aTHRHNnZzOGEyQVhTZktjSlczVjB2UjNlTW1tTktnLWI4RUdUaUJqcTQyUzUxTVpsSFJ4Z1lRWFFrNVR3UTRKclRzYXNuY1hXb2NYNmVGU3NsS2pSaklWQlp0Q1JROER2U3ZjREF2SWJDUl9JYS1IVlB3cVAwcUlSWW9qRjZPdkpTTEpEV2JMaTA0dkRhTVN6bFRZ?oc=5",
-          "description": "“Si gano un título con Uruguay ya puedo morir en paz”: Fede Valverde y el sueño celeste &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-03T23:18:00+00:00",
-          "score": 6,
-          "score_reason": "Cita emocional y sensacionalista, enfatiza aspiraciones personales dramáticas.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "Los titulares reflejan diferentes preocupaciones del Uruguay actual. El País destaca cuestiones legales o contractuales sin especificar detalles. Montevideo Portal enfatiza declaraciones de Fede Valverde sobre sus aspiraciones con la selección nacional. Búsqueda analiza la situación macroeconómica del país, señalando ciclos de superávit y déficit fiscal junto a desafíos demográficos. Cada medio prioriza aspectos distintos de la realidad nacional contemporánea.",
-        "coincidencias": [
-          "Los tres medios abordan temas relevantes de la actualidad uruguaya",
-          "Ninguno utiliza un lenguaje claramente sensacionalista o de alarma extrema",
-          "Todos reflejan distintas dimensiones de la realidad nacional"
-        ],
-        "diferencias": [
-          "El País prioriza aspectos legales/contractuales; Montevideo Portal enfatiza lo deportivo y emocional; Búsqueda analiza economía macroeconómica",
-          "Montevideo Portal usa citas directas y emocionales; Búsqueda emplea enfoque técnico; El País es minimalista",
-          "Valverde es protagonista en Montevideo Portal; ausente en los otros dos titulares que ignoran lo deportivo"
-        ]
-      }
-    },
-    {
-      "id": "story_008",
-      "topic": "Tres noticias distintas en medios uruguayos",
-      "category": "Otro",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Vuelve la Copa AUF Uruguay: fecha de inicio, formato, equipos participantes y premio",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbHdyYkNyN2kwQnhueHJ4MGJ3THNpZEFYWTltUF9sRlVoUm1BM0xNLUZOZE5HbE1BUmhVMk9nQjc5UjhwWXZMUWNfZjRrNUtXNE5EMlpMT2UyZ3RBNHZOc0s1U2VmY1NjT2dzMmtNX2JjeXBEb2ctYU5sSVpzTk1VZFJBTDdfOFU5Wnk0bG5peDQzNFg0N25aUHdtOHZyNHVnQ1FyQWdxbWhNeWFfMFBlT1U0aDZENWY2MzhrdFBkbjd6akx5Y0RnStIB7AFBVV95cUxPZXJ5U0RyQnVhRHdyM09vaVBHZ00wOUZHR3BWY2JOSTA4R2h0Q3BWcTNrM0NUYzd0MDVDb2JGbkZTQkE4QW9KS3VBZ0E2THM0SmxSTzNYWlFoY3ZGRGlWSDI3UU5jc1Q0UGk2bkJ6VFJ6NnFHc1FPYU03NXlWVnBUWXU4OEp6ZXE2NlNKV0NFcXFGWUI0akhGS2hINXdWbk96NHhGLWtMdjZiZ21mQ2l5QVJySFlmMVBsVS1VSU0wN1JlUGxzNlI2SlRpYnh6X2U2ZDJXMmhTNEswcWVWSDRETzJvWEg3VE1GUFZnag?oc=5",
-          "description": "Vuelve la Copa AUF Uruguay: fecha de inicio, formato, equipos participantes y premio &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-03T20:36:00+00:00",
           "score": 1,
-          "score_reason": "Informativo y directo, incluye detalles concretos sin carga emocional.",
+          "score_reason": "Análisis económico objetivo, desconectado de la polémica política.",
           "score_pct": 10
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Tarta vasca, la tendencia global que llegó a Montevideo",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYWVDbXR1X3BaWTNPN0JFSVQwSjdnY2xCYV9kUlFTS1lMMDNVWWl5bUdfWURPTWNMamJmUS11UUVLSjJkMWRMNUNMTHMzcjZJajFUSGJSb3dTRmw4R0xaRXdjWnJfYkNNMl82a1BIZ2xQVG5aSWowRVdNSV9kTE5vSVlTV3YwemNCV1NOQmZ4cFJsMnJKS1hNbFZaV2ZhWGJFbHhn?oc=5",
-          "description": "Tarta vasca, la tendencia global que llegó a Montevideo &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-03T21:21:00+00:00",
-          "score": 3,
-          "score_reason": "Tono ligero pero enfatiza 'tendencia global' con cierto sensacionalismo.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Cuiden al Presidente",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HRGZSQlZXQlZ2UEJXcVVPVFRLMnUzZzVDUWZkUC1mRC1vTl9GUFBBdTlWZVp1YVhsdkswTTlhU0M4el9TbzZlUjd6SEZjam43dndFOXcycEJ0dExoaVRZd2NqUVlaUDUyUVgtNXN3ZlNDQQ?oc=5",
-          "description": "Cuiden al Presidente &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-03T08:21:49+00:00",
-          "score": 7,
-          "score_reason": "Título vago y potencialmente alarmista sin contexto específico.",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "Los medios uruguayos cubren temas variados sin conexión aparente: El País publica una nota sobre el Presidente sin detalles específicos; Montevideo Portal informa sobre el retorno de la Copa AUF Uruguay con detalles de formato y premios; Búsqueda reporta sobre la tendencia culinaria de la tarta vasca llegando a Montevideo. Se trata de tres noticias independientes de diferentes áreas.",
-        "coincidencias": [
-          "No hay coincidencias verificables entre las tres noticias presentadas",
-          "Todos los medios mantienen un tono de cobertura establecido para sus secciones",
-          "Ninguno de los titulares reporta hechos de urgencia inmediata"
-        ],
-        "diferencias": [
-          "El País usa un titular opaco vs Montevideo Portal con información específica",
-          "Búsqueda enfatiza tendencia global mientras Portal se enfoca en detalles deportivos",
-          "Tonos completamente distintos: político, deportivo y cultural sin relación"
-        ]
-      }
-    },
-    {
-      "id": "story_009",
-      "topic": "Inversión brasileña y política monetaria uruguaya",
-      "category": "Economía",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Sujeto omitido",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5VnptNkNKMW5DdzZPT01ldkVuUlBFMTk0c1lma1E1Q080dE5MQWp4WU9ld0JfQjExaC1sN2lXMGMzR2VDSU9oWk8wZnV4ZXZpVmZUak1mTWRWcm1JeVg2MEpQR2U2RXZNVkU0Wg?oc=5",
-          "description": "Sujeto omitido &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-03T07:32:00+00:00",
-          "score": 1,
-          "score_reason": "Completamente neutral, sin verbo ni opinión; solo estructura sintáctica.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Con negocios en hotelería, banca, industria y campos, es “el momento” de la inversión brasileña en Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQjg0TXppaTRPeHd1c1lUdUpqSTQyNUhkNUY2bVpPMlE4LVR1ekw0SWtOclE0M2szaFlWRDExaGlJMk01cDdjb2VPczNReEduaXdxQUZDWnhVRGU2TkhSTnFsMGtQbDl3eHBtWUg5cTNBWlZSRDN5QmpZRzdVbThVUkEtY1VxMVFZVWplMTl5ZWNQTFhMMEs4ZURMc0txSkRWLUhfbXpJekduamhlV3ZnRlNVdm5IMUpyenFybUlybW55TUd0WF9GV3k3RUVQalhrY05sSw?oc=5",
-          "description": "Con negocios en hotelería, banca, industria y campos, es “el momento” de la inversión brasileña en Uruguay &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-04T05:04:00+00:00",
-          "score": 2,
-          "score_reason": "Descriptivo e informativo; solo comillas en 'momento' de oportunidad.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Proyecto absurdo” que “debe ser descartado”: De Haedo contra el BCU por aviso sobre dólar",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ2o0bjlYb0lvSjJmLWVPWTVKTDdMVndVWjZ1LUxscjNfSjBUa0phUTVycDVKcHl5Q3lvMDB0azRWcHVYek1tbVhuQ21jNHJZb3Fma1pNRmUtQWJaSzE5YlVrbUw5cDlrWWk5X0FmaHRMOXRkX1ZNVjBhNy1SeVA0R0RuRzFuVUVMVEt0Y2RHcUl0Wm5ZRjlSbHl2eHA5dTloa19NaDB5b2IzQzJaZzlWX3NVaXFkQzhSVEJFT2FlVG1VWnRPdkVDMVBwczNhbkhG0gH0AUFVX3lxTE1hQTBXVDZUZkgwQ2t3N2s5X0pQSDFqZkJWX0oyR1pjb2J2d25mbTVwWDFKbS1vSnJSVm1XdE9hZEhFblA0bUJiLWU0X3pYdHpGeWdNSUU5SWNmbl9nbHBRcklyR3RJWVA2LW4tc09qNTU2eHRPYk9Bc0ZVUkttRklZMVdVZVdoQ0hTOGtoZnh6WEI1N0c5c21JdmEwemt1NzdtZTBET00xRl94cWY5blpyTkprUmdVWkE0SXRfd3IwRHEzY3pjQ1ZnVUphbHl1dk5rYTh1M0cxODFMUEE1Nmo1QXo1R0FJSUZ3U1JJNU93bUY3a3k?oc=5",
-          "description": "“Proyecto absurdo” que “debe ser descartado”: De Haedo contra el BCU por aviso sobre dólar &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-04T00:40:00+00:00",
-          "score": 7,
-          "score_reason": "Palabras cargadas: 'absurdo', comillas enfáticas, destaca crítica política.",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "Se debaten dos temas económicos conexos: la llegada de inversión brasileña a diversos sectores uruguayos (hotelería, banca, industria, campos) y una controversia sobre comunicación del Banco Central Uruguay respecto al dólar. El político De Haedo critica una iniciativa del BCU calificándola de absurda, mientras se destaca el contexto favorable para inversión extranjera en el país.",
-        "coincidencias": [
-          "Existe inversión brasileña en Uruguay en múltiples sectores económicos",
-          "Hay un debate público sobre política o comunicación del BCU",
-          "El tema involucra decisiones económicas de importancia nacional"
-        ],
-        "diferencias": [
-          "Búsqueda enfatiza oportunidad y contexto favorable; Portal y El País priorizan controversia política",
-          "Portal amplifica la crítica política de De Haedo con lenguaje cargado",
-          "El País omite contexto; Portal y Búsqueda ofrecen detalles sobre los temas en disputa"
-        ]
-      }
-    },
-    {
-      "id": "story_010",
-      "topic": "Tarjetas de modelaje infantil repartidas en escuelas",
-      "category": "Seguridad",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Preocupación de familias por personas mayores que ofrecen supuestas oportunidades en modelaje infantil",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQXzE4U3JaX0lDczJ4SWpYWW9TZjBVaDBmaFNWTXRGSXNoTGVSWk1aazdsTHltYnBGTnBEMkMwV2g1ZDd1THJmalVCVkdoR2lkdUVnZFRXeW5ibFN5UWZ2RnhTRlJXYVRZSGVPRTNneXdobzU0R09lMHo1cXBJVV85dVFuNnlTNmRDRXhwN1ZDckNzRHFmYl8xZ29vZHlIcXdNdkd0VjY3cWZrR2tnRm9wNFNTWjk2bDU1Q2V0dndDMFZGYmxFZHoycnlB0gHPAUFVX3lxTFBRYlA0SmV5R1B2bXhUR3dpemk5b2IwQ3lGRVFFRjZ4WnhzbUN1amR0UWwwaDFKZG01elk3MUZXSm9qTzhacEd4aVFJYXo1Zm5Cc1FSUGYwSnVfdjVqdFFfdjVONUlQWHRTc3FnTzkwRFAyV2Nma2JvRXV1bVo2MktpVjdQamZtYmt6VUxjQkVGeUhETC1DeHROUGdOUVJxMjZ4c3ZtNTdJVENTV2hBSlJzcXdzM1ZKMG8zeVAtOWJCSWFhRzlLUzdET2R2VXF3dw?oc=5",
-          "description": "Preocupación de familias por personas mayores que ofrecen supuestas oportunidades en modelaje infantil &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-03T22:58:00+00:00",
-          "score": 4,
-          "score_reason": "Menciona 'supuestas' oportunidades; tono informativo con leve escepticismo.",
-          "score_pct": 40
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Familias en alerta por tarjetas de \"modelaje infantil\" repartidas a niñas afuera de escuelas de Montevideo",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeE9MTWc4OFNZTEZlelU1VVp6Q0VWSlFid2NYSVVNUU00UDdEU1VYa0JIU0NnaGF3MV9LTUQ3X0wwd3N0bnpOZnQ5U2tKZUtjZU11eGMyVjJIYmJHX1FMWHVvd2RvbUZWcVdMd2xPemlNM3VHWFBDYlBMeDFDODlGS2oxVi1IbzRXakUxa08tQUNyT0VlbldYNklGdUlOOUFmVjBXaE82OEt4eFdJUnptRkhBWktlV2c5N0N1aE5ZOWFLNHFrZDdRMVMxLWxfeWduVGfSAdcBQVVfeXFMTXpfb0ZOaDdIbzdhcHZIVUlzQVRSX1k4MUxqcmhhb0VFWUxuRkg5Vmx4dVBZSV9ZMm15X1c1V05mSkRqWlVPQlBnMjRSLUlsQUxNX2hEbUFUZENiOWJhMjg1b3RLcmhkYU5SMUlZTEVCVjNRN3dkSm04MTVDT2dZUFhwRFplaHc1M05nWlNiNmlYM19LNDVUVk16Ni1vR2Jsdk1xemVDeTRRR2lSUWxTOUNkWVBNWEgyN3FxT2V6VlVQTzN4OVZSb0dqd2YtUVloUExld1JaOGs?oc=5",
-          "description": "Familias en alerta por tarjetas de \"modelaje infantil\" repartidas a niñas afuera de escuelas de Montevideo &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-03T13:00:00+00:00",
-          "score": 6,
-          "score_reason": "Uso de comillas sugiere desconfianza; 'alerta' carga emocional moderada.",
-          "score_pct": 60
         },
         {
           "source_id": "grupor",
@@ -773,334 +44,43 @@
           "source_color": "#6A1B9A",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.grupormultimedio.com",
-          "title": "Adultxs por los derechos de la infancia: Un acompañamiento colectivo en contra del abuso infantil",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3FGcExxampoMmxPNXNsZ1M0YldXT3FPbzNmNHlIcUhhLVlfVUJRU1Y5ZzEzdHp3TzFkaUhPbmJoOGZ5UUR3ZjhfSTVVSm5MQzUzQUYzakV5bzdHRFZRb3lkeEtDenFSLVRYWXRTUm53eUFtTjlDTXpTV0RSaWswbm1Pbkg5UV82ZURzcnBQY3BsdE12d2xZZzBua3lDNkVqeEtFRWlMeTZXeVBTU3QyQjYzXzFmeklsemVVWHBVWVhMYTg0TFBQNUVGdG14Q3Zq?oc=5",
-          "description": "Adultxs por los derechos de la infancia: Un acompañamiento colectivo en contra del abuso infantil &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-06-04T04:25:10+00:00",
-          "score": 8,
-          "score_reason": "Lenguaje activista; vincula directamente con abuso infantil sin evidencia comprobada aún.",
-          "score_pct": 80
-        }
-      ],
-      "analysis": {
-        "resumen": "Personas adultas distribuyeron tarjetas ofreciendo oportunidades de modelaje infantil a niñas afuera de escuelas en Montevideo. Las familias expresaron preocupación por estas prácticas, consideradas sospechosas dada la edad de las menores y el contexto de reclutamiento. Las autoridades educativas y de seguridad fueron alertadas sobre la situación.",
-        "coincidencias": [
-          "Adultos distribuyeron tarjetas de modelaje a menores en escuelas",
-          "Las familias expresaron preocupación o alerta ante la situación",
-          "Se cuestionó la legitimidad de estas ofertas de modelaje"
-        ],
-        "diferencias": [
-          "El Observador enfatiza la alerta de familias; Subrayado destaca la preocupación; La R vincula directamente con abuso",
-          "La R utiliza lenguaje activista y de campaña; El Observador y Subrayado mantienen tono más noticiosa",
-          "El Observador y Subrayado reportean el hecho; La R lo enmarca como denuncia de derechos"
-        ]
-      }
-    },
-    {
-      "id": "story_011",
-      "topic": "Orsi dona camioneta tras polémica de financiamiento",
-      "category": "Política",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Orsi dijo que decidió donar la camioneta para \"aventar cualquier tipo de especulación posterior\"",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLW1zT0Z5cy1QVmF6ck5ESEJSYmFLak1FZTBWeVlxWnVjYW42SWNibDF3MFJCSUltVWt2Q2dFNExFQlU3SEUxZGNzRkNEWmUxNExQOEdaQzI5RU81Y2RNTng1dnN0R0IxQ2RJaVNHM0lQeHRhT3BISUI4YjUxeXk4eV9vaEt6c2FsckdEQVNjcTlIaUx5MnozSVdoUDFvQTNkS0pzSmpzR2lpbnlXRkRDU3FYMkFYaU9fSjBYY294WUFYUdIBxwFBVV95cUxOdm96cW16UVZsLTZNNmxsbE55SWhWX1Q3Zk80Nkp0c2hKZHJEd2VmWkJIWHpCTmlLeXZSdF9zRFVBOGZVREZmNXd2Um1nN2tNVGNlcF9SQmhkNmZmNEVUTmtDQ2d2NDZnM2ZCdnUyaG02WGJVZjdHelY5UnVUUS1JZWdtSmJCM1JHRC04ZFlRYmstYVRRcWhhajRaSjhnVVNONlVhcUxFdmJhYjRzaGZEN1NUQ0s1UWY1MkZGaDNZaVhJWmNhOWRB?oc=5",
-          "description": "Orsi dijo que decidió donar la camioneta para \"aventar cualquier tipo de especulación posterior\" &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-03T13:28:00+00:00",
-          "score": 2,
-          "score_reason": "Reporta declaración directa sin carga interpretativa adicional.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "A una semana de instalada la polémica por su camioneta, Orsi explicó los pormenores de la compra y del manejo financiero de su campaña en busca de cerrar el tema",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3ejNYT2dOeTVrOU0wVGFsdUpPYUVxU0R5MkFWVHNoeXhaRFJzdjAzbVhBd0p1YWRxZnMxLUVGNEtDcEdCck5NdHZDV2xTZWpUS1dlVjM2MzPSAV5BVV95cUxOam9wNV96WVNPemFJbXdFTWlzT1hJY1dPM2FJSGs2WU9OTUxfZzZvQm5qRElGRFZjT0hnbm1TWHY1ZUJOU3NLQlJoaElkSWlIMy1oYVJHOTd1V2c5Y0FR?oc=5",
-          "description": "A una semana de instalada la polémica por su camioneta, Orsi explicó los pormenores de la compra y del manejo financiero de su campaña en busca de cerrar el tema &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-03T08:00:00+00:00",
-          "score": 3,
-          "score_reason": "Lenguaje neutro con leve énfasis en 'cerrar el tema'.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Oficialismo busca cerrar controversia por la camioneta de Orsi y líderes opositores cuidan la “institucionalidad”",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRDZMTElBZmhTZFlZU1BFdGpUVXp1dk81MHhuR2F0Z0RwckVLbUpPeUZGSGhWWEl0SXZwYnVsTXQ0bVBzOXg4WVJRcnJ3VWhPMjkzYW1FbnRmYkFzNHRQR2dKNHZQNGc1NTk4VHotQkRXNUJTYlROVDZULWdQTUc3Rm1DVnI3VE1oeE9kY09LZWVrUkNTSFdMcGU4c00xcWxDVmJhN2hFMzVSdkxaZE9sanVlWEN6WEtYMW5XaVNTX1pKX1RhUlVwOFBZVGxGOElCOTBwenp1TW1aZ3AwRERac19ZNEJnakZy?oc=5",
-          "description": "Oficialismo busca cerrar controversia por la camioneta de Orsi y líderes opositores cuidan la “institucionalidad” &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-04T07:04:00+00:00",
-          "score": 5,
-          "score_reason": "Comparación entre actitudes oficialismo-oposición introduce perspectiva parcial.",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "El candidato Orsi enfrentó una controversia sobre la compra de una camioneta utilizada en su campaña electoral. Una semana después de instalado el debate público, Orsi explicó los detalles de la operación financiera y decidió donar el vehículo para cerrar la polémica. El oficialismo buscó zanjar la controversia mientras líderes opositores mantuvieron una postura prudente respecto a la institucionalidad del tema.",
-        "coincidencias": [
-          "Orsi explicó o aclaró los detalles de la compra del vehículo",
-          "Hubo una polémica o controversia previa sobre la camioneta",
-          "Se buscaba resolver o cerrar el tema mediante esta acción"
-        ],
-        "diferencias": [
-          "El Observador enfatiza el manejo financiero de la campaña; Búsqueda enfatiza la respuesta política entre oficialismo y oposición",
-          "Subrayado cita textualmente la motivación de donar; El Observador resume genéricamente 'cerrar el tema'",
-          "Búsqueda introduce dimensión institucional y comparación de actitudes; otros medios se enfocan en hechos concretos"
-        ]
-      }
-    },
-    {
-      "id": "story_012",
-      "topic": "Cae aprobación de gobierno Orsi según encuesta",
-      "category": "Política",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Evaluación de gobierno: fuerte caída de imagen y saldo negativo de 28 puntos",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSzktUTRzcFY1Z1FydGd2OEYxZWN5QVl5RTdudDJtVjNTNWg2WXg0VHlJYUxHeEh0cUZMeTY0ejE5eHB6dnc4VER4dG5IYmNRbEhyLTJuMlhhVVpKY0tFMjZtcTdKUko4dEh2Q3Z0dmM2ZDFlYUVVc181Y3dxVFQ0bVU2TUhlWnJ6QWVGTURtSHE4UmMzZVl0bGVXVVNlYktxRVRjTkNCQjQyb2Nmci1ZVXV2eGQ?oc=5",
-          "description": "Evaluación de gobierno: fuerte caída de imagen y saldo negativo de 28 puntos &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-06-04T05:05:11+00:00",
-          "score": 5,
-          "score_reason": "Términos como 'fuerte caída' aportan dramatismo, aunque datos son objetivos.",
-          "score_pct": 50
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Crece la desaprobación de Orsi: casi la mitad tiene una visión negativa, según Opción",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRnRleXJjWFl6YVUxczBrU1p0ZGF0VWpfaUlndFFYQlRzN243V2EtNkNvSmNTMzRFcDJ1S2dPeDFValhKcWZmdkpfZEVVMEtRd2g2cUtDbmdMX1UwSVc1dnd4OWlieXJnbHlLeWRoWEZ6bFB3Y01xRTMySW5JXzA4NWNna0RMLTNYUnlpcGF4NFg3NWFVSUJ2d2JxUTlGcnVjMnRPS2YyWUhtQVBJWDZpUEl5WFpiS3hUdHdqY0FDNmo3NDlwcGFvZTZOUQ?oc=5",
-          "description": "Crece la desaprobación de Orsi: casi la mitad tiene una visión negativa, según Opción &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-03T21:40:00+00:00",
-          "score": 6,
-          "score_reason": "Usa 'crece la desaprobación' con énfasis alarmista innecesario.",
-          "score_pct": 60
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Opción Consultores: “El nivel de apoyo” de la administración Orsi “es el más bajo” que registró un gobierno del Frente Amplio",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMmJIR2F6bktEOXJlMDV6MHFFWUdoOVA3SU5BRzVlU21YVGMzaUZYNXBkcVJ6VU4xSGI0ZjVnemRPSERlODdSdE5LcGoxLUVaZUV3dmZQMWtSaFdqeFp2OC12MEVKUnpwN0Z6d1NzdldHN1ZQYkx0YlE4eUhudXh0akJkQmdnUjctR0thTUlQeXdMWnh3aFFLSGtnYlZ0QzhuN1J5RTloLXdfSmRjdHNRVG4zeVVQc3RrQUphOFRqOVlIZDlNODFCek9UbmN5dEgyS1RGMnpETjY5a0NTbGJMenp5VEZJdWJ6a1hZeDZYMDZJdw?oc=5",
-          "description": "Opción Consultores: “El nivel de apoyo” de la administración Orsi “es el más bajo” que registró un gobierno del Frente Amplio &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-03T21:00:00+00:00",
-          "score": 7,
-          "score_reason": "Comillas que resaltan 'más bajo', comparación con toda la historia del FA.",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "Según datos de Opción Consultores, la administración Orsi registra una caída significativa en su nivel de aprobación. La desaprobación alcanza casi el 50% de la población, con un saldo negativo de 28 puntos. Los números representarían el nivel de apoyo más bajo que ha tenido un gobierno del Frente Amplio en el período que mide la consultora. La noticia marca una tendencia descendente en la evaluación ciudadana de la gestión actual.",
-        "coincidencias": [
-          "Los tres medios reportan datos de Opción Consultores sobre la misma encuesta",
-          "Todos coinciden que la aprobación de Orsi ha disminuido significativamente",
-          "Todos destacan que el nivel actual de apoyo es históricamente bajo para el FA"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza la desaprobación (50%), Búsqueda comparación histórica FA, Grupo R destaca el saldo negativo (-28 puntos)",
-          "Búsqueda amplifica con contexto histórico; Portal y Grupo R se centran en magnitud actual",
-          "Tono: Portal más sensacionalista, Búsqueda más contextual, Grupo R más técnico-financiero"
-        ]
-      }
-    },
-    {
-      "id": "story_013",
-      "topic": "Selección uruguaya presenta uniformes para el Mundial",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "\"Lujo de verdad\": Gabriela Hearst y la AUF presentaron los trajes que lucirá la selección uruguaya en el Mundial",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS3YwUUZqMzZsRmlPd215dmxsZXpSZW9uMkR3SWZWUnlfalJ0aWxBWnpOVTZpOE1xNnRzSEQ5S2d0SUhieGN3ZDdSZkVEeUFONnpCY0oxa1FTeGtCdGhYek1rSWhKMURDVHdCWTRKZ0Vsel9wYXBnRVRUU0gyWGN2NHY2ejAzTm1ISjZwcWJQaW5odTFBdDFnQXNFQ2Y2c2hVLVVLaktnVWlkbG5VSnZ4R1NTTUdpNHRHR1dOXzMzUnNfWVBKMk1KSEdkNDY1dEFqSzV5T2xLQm0zUQ?oc=5",
-          "description": "\"Lujo de verdad\": Gabriela Hearst y la AUF presentaron los trajes que lucirá la selección uruguaya en el Mundial &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-03T04:05:23+00:00",
-          "score": 2,
-          "score_reason": "Titular informativo con cita directa, énfasis en diseñador prestigioso.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "¿Mufa o cabulero?: el video del embajador de Japón con rutinas uruguayas para el Mundial",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ3p5NVhLNHVETW02NDh5ZjZzZXVBUTY5Slc4YXhMQ2dFMlJacjFpV21zX0xJbjYzVnNXLVhGRVlaWEEyd2t3RUV6MDA1clVhdERVYlFTRnQxSlVXc2pmUWJHT3ZRczI0Tzd6MF93TE5QRl9aU0RuTE9LZXN3d0dVTE03dWhQRVhJVHFfQ3FNa0JFckRyLXBoN3I0ei1vaGFCX3hLdElhYkFrNkdCdEJQUGF3NU9CMzVSc2NYaWVVdlR5bExGcTNNejBhdGRBRHRa0gH0AUFVX3lxTE91RFMzVGJaNG9Hd2xsdENwdnFXQzhFeTRiV0xLTzVuVVI3cS1RSVFibXdPU1pHWVhyX25kMUFGclZpelhQNkttckF0Qzd3YWdPeHc1UHhBTHI2U1g3SXVGem9WclE4bUxYdGUtc1JVWTVxZElCZXM1U2xpS0RsWVd5RnhIaEpwRTVCcEpsY2l2OHJ4WnVXcmdJNlF2dDQ3LU1qaGgzTUt6VDVBbThVaUxrMHhjZU0xMm10aG14Ull4VTZCeW5xb3BJd0VkN0JFNkRrZ0FudlFxX2liazFqUG1KRFlTa0FXZjRUWVRfVkxuWVF5R00?oc=5",
-          "description": "¿Mufa o cabulero?: el video del embajador de Japón con rutinas uruguayas para el Mundial &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-03T21:11:00+00:00",
-          "score": 5,
-          "score_reason": "Plantea duda sobre supersticiones, lenguaje coloquial que busca generar intriga.",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "La Asociación Uruguaya de Fútbol presentó los trajes que usará la selección nacional en el próximo Mundial, diseñados por la reconocida diseñadora Gabriela Hearst. El embajador de Japón realizó un video promocional incorporando rutinas y costumbres uruguayas. La noticia destaca tanto el aspecto de diseño de lujo como actividades culturales de preparación para el torneo internacional.",
-        "coincidencias": [
-          "Gabriela Hearst está involucrada en el diseño de los uniformes",
-          "Se trata de preparativos de la selección para el Mundial",
-          "Hay participación de actores internacionales en la promoción"
-        ],
-        "diferencias": [
-          "El País enfatiza el lujo y prestigio del diseño; Portal cuestiona aspectos supersticiosos",
-          "El País destaca la colaboración AUF-diseñadora; Portal subraya actividades culturales del embajador",
-          "El País adopta tono celebratorio; Portal usa ironía con términos locales (mufa, cabulero)"
-        ]
-      }
-    },
-    {
-      "id": "story_014",
-      "topic": "Falleció actriz Julieta Denevi a los 48 años",
-      "category": "Cultura",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Murió Julieta Denevi a los 48 años, actriz de \"Plop!\" e hija de Jorge Denevi y Mary Da Cuña",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZDZ4YzJ1Uk9Vak90SkwzZ2w2LXBfazVGdkF3cTRlX0ZDcHh4UjcyNzFSMGlyRHdRMmR2MHk5TFhHVFRIdkNIbTVkS1c3eEhwdWlzNkxXalAwd3BORXZ5Z0ktV3hNSEEyRHVuMTF2NjZtYTNZY0R2OTdvV1BZSmRDcFN5SGttMVEzVWNGbDQyU3RjMGhGZ3YzOHktZEJ2RWE0V0V0Ulk5bEgyMXFQdUppcGpWb29TY0dXVUtuTU9XSUgtaDdWWXZfMjNqTQ?oc=5",
-          "description": "Murió Julieta Denevi a los 48 años, actriz de \"Plop!\" e hija de Jorge Denevi y Mary Da Cuña &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-03T19:14:27+00:00",
+          "title": "El desempleo en Uruguay bajó al 7,5% durante abril",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaEJnMGVtZnA3UUYzQnM3SHNhT2tNWk9sVlU2blh0bWtnRE94dmppLWNoREJPcVRLWklEZG84NUN6d2dMMVROb2NTVEtsNFVpTmdGYm12dVFOaU1vTzNmam12TlRoRVBrcVFDMjlQWGFjYWNnZ2dmVFNQeS1hajhfSkNIZEtBclp1b3VsT1BCa2M?oc=5",
+          "description": "El desempleo en Uruguay bajó al 7,5% durante abril &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-06-04T20:42:05+00:00",
           "score": 1,
-          "score_reason": "Factual, incluye edad, profesión, obra y filiación familiar.",
+          "score_reason": "Dato económico neutro, presentado sin interpretación cargada.",
           "score_pct": 10
         },
         {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Falleció Julieta Denevi, actriz de “Plop!” y conocida figura de la televisión uruguaya",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRU9wUllNWDRTc0dlRnVHaFJlSWgwd1k1NnVGeUtVbTFMMndWN0VZanQ0QVJjd0pOWDF5YXR2VTBCXy1kN1UxVFI0d1FMV3hoSVFSM0JKQ3NTaVBOeHZmU2UxemVneFkzcEFvN09vNXZJQl9KTnR6Sk1VYndpM3Z4bHNfRlRUekNjX2l5OXhYdFNjczVLYzd5a2lWWjQtZHVka3Vza2FvS0toWmRRRV94WkJ3ZXNWdnB4YkI1blVVU3lTOFA0ZkxMVDRaSk9RZ9IB8gFBVV95cUxOX20yYURCQ2dLS2lGcW1BYlpLaUt5ZG4tMjZGVWNnVlFQUlctTHBwRzcwSUlId3N5bUFGNXhNM1VQd0xXWmtSbmdDeWt6LWNnUk9WaW9XVG9DdS16YTctX1ZLenJrZFRQZXdlMlZVdTVmT29aYnhRVktPUkNPVVFfLVIteFBhMGdjMHRSSWNXMVVPNl9pSVFZbDItRlFFa2I0bkp3UXZMWmQ4VmdWSnNPV2kxZ0RQT0RJbi04cllybElEWWota1VxWjlFUl9qRXF6d3J2TEJLUklyZGMwRlhoN2tTY1hMTF9jU2FDeXd5cnFiQQ?oc=5",
-          "description": "Falleció Julieta Denevi, actriz de “Plop!” y conocida figura de la televisión uruguaya &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-03T21:24:00+00:00",
-          "score": 2,
-          "score_reason": "Informativo, énfasis leve en trayectoria televisiva, sin detalles genealógicos.",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "Julieta Denevi, actriz uruguaya de 48 años conocida por su participación en el programa infantil 'Plop!', falleció. Era hija de Jorge Denevi y Mary Da Cuña. Denevi fue una figura reconocida de la televisión nacional durante su carrera en el medio audiovisual uruguayo.",
-        "coincidencias": [
-          "Ambos medios consignan el fallecimiento de Julieta Denevi.",
-          "Ambos destacan su rol en el programa 'Plop!' como identificador principal.",
-          "Ambos reconocen su relevancia en la televisión uruguaya."
-        ],
-        "diferencias": [
-          "El País proporciona edad exacta y ascendencia familiar; Portal omite estos datos.",
-          "Portal enfatiza su trayectoria televisiva general; El País es más específico con genealogía.",
-          "El País usa tono más factual-genealógico; Portal usa tono más de reconocimiento profesional."
-        ]
-      }
-    },
-    {
-      "id": "story_015",
-      "topic": "Proyecto de ley sobre regulación de grafitis en Uruguay",
-      "category": "Política",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“El que rompe paga” y penas más duras: proyecto de ley por grafitis sin autorización",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWtEWm1iQzZvTC1UUG1xTlFzYXVVTHNGaHE0NUpuQks5M3B3YzVMSW5NOVJidXJNdDBIVW5PT1J3TkRMZlZlZVVpSWJIalZDUGJvQWlVWUJoYUpvd2dHZm0xZnF5bzB6dm5wYVJsLWIzVmJmMXQtU2RzSlVFU25SaU9iX3lUeU9vUGl0VmlBQXJXWXdidzV5bEgyT1JWM1FSRzg2bUxITEE2M1BBdU9vb3g1Z01JRktiTnA5OXZYeTZCRU45UmF3RzZn0gHuAUFVX3lxTE55WGszcW5ZN3JBY2o3ajB0RXJXelQ1WWUxN0JLUEZSN2ZabmFBdW1MdEVaWk5SMVY4MTNfUmdINUdoT0YycVB2QklnQmFGTEZZRTJmS1Nhb2Z1a2tEbkRkMVh2YjRocGFYZXBtRXF6QWtPMXNzV3IyZHNuV19WUWgyLTJiZ2ZJVm1tcEhlUURqTktRV3E0UjRYcURSOWU1Ml9ERWNkMThObEp3ZFFGcEpsZGFLV3p3Rno0Q25qOGxBNmY1LUN1SWFCNWI4SHFKNExQMVRHRVA3T0xZLWtZNnNlWERVbE5Gb2MwNWY0Mmc?oc=5",
-          "description": "“El que rompe paga” y penas más duras: proyecto de ley por grafitis sin autorización &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-03T16:39:00+00:00",
-          "score": 3,
-          "score_reason": "Expone postura legal sin carga emocional; estructura informativa objetiva.",
-          "score_pct": 30
-        },
-        {
           "source_id": "elpais",
           "source_name": "El País",
           "source_short": "EP",
           "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elpais.com.uy",
-          "title": "La culpa no es del grafiti",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jTEtGRFBTR0E0cjhBenhVVFRqbGJ2elJWbWhCT2dtOTZFMGNva3cxMWd0UzVtaV9iT3FVYWJaQm03TDBHbXh3Q1g2Q3daSmdWRGE5aFFBbk9KVGNfLWw3ay1MVGtfT3lnZnJmdTZnbEs0M3FKLUp6VWZB?oc=5",
-          "description": "La culpa no es del grafiti &nbsp;&nbsp; EL PAÍS Uruguay",
+          "title": "La cláusula penal",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsbjhBQmItci1JT0ZGVDREc29UenBEMER2UFR6ZFVTb0oySXFFSXk5YjdGN0ZrblE1VXhTNmZPckFORVNuSnlUSGRYNk0ySVpFVDRZcHZtSzRJckxnSlBlQkJnbURJMlJNN2t5YjdsOWg?oc=5",
+          "description": "La cláusula penal &nbsp;&nbsp; EL PAÍS Uruguay",
           "pub_date": "2026-06-04T08:19:22+00:00",
-          "score": 6,
-          "score_reason": "Usa negación para cuestionar culpabilidad; lenguaje defensivo y ambiguo.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "Se debate en Uruguay un proyecto de ley que busca endurecer las penas por grafitis sin autorización, implementando el principio de \"el que rompe paga\". La iniciativa contempla sanciones más severas para quienes realicen pintadas no autorizadas en espacios públicos y privados. El tema genera discusión sobre el equilibrio entre la represión de actos vandálicos y la expresión artística urbana, con posiciones encontradas sobre la responsabilidad y los alcances de la regulación.",
-        "coincidencias": [
-          "Existe un proyecto de ley vinculado a grafitis en Uruguay",
-          "El tema incluye consecuencias legales y penas para infractores",
-          "Se debate la regulación de pintadas sin autorización previa"
-        ],
-        "diferencias": [
-          "El País cuestiona la responsabilidad del grafiti; Portal la asume como hecho",
-          "El País adopta tono crítico; Portal es meramente expositivo del proyecto",
-          "El País sugiere debate moral; Portal enfatiza aspecto legal y sancionador"
-        ]
-      }
-    },
-    {
-      "id": "story_016",
-      "topic": "Lesión de De Arrascaeta y Rendición de Cuentas 2026",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
+          "score": 2,
+          "score_reason": "Titular minimalista, solo menciona el hecho sin carga emocional.",
+          "score_pct": 20
+        },
         {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Rendición de Cuentas 2026: la prueba de los supuestos",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3E3SHk4M0Vkd0xjNHJWTEE1eWpvTE5Rb1VFSl81QlBOU0NMTlFMSUdYVXk5Mnh1U3E0UlBqRVRkVFpDcFFsRXNCU09WMHpiSUtNUlVUTUtXZG40VGR6Mk5ZWGJDVzdoQTF1NDBfVkRxcGIzU2lBS3dmWm13QjBNODNCNDNHcGNDMHlKc3NQWXRTZFNwR2hHMnlNRV9aQQ?oc=5",
-          "description": "Rendición de Cuentas 2026: la prueba de los supuestos &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-03T07:05:28+00:00",
-          "score": 3,
-          "score_reason": "Usa 'supuestos' con leve escepticismo sobre proyecciones presupuestarias.",
-          "score_pct": 30
+          "source_url": "https://www.teledoce.com",
+          "title": "Nicolás Olivera sobre la polémica de la camioneta de Orsi: \"Es extraño como a veces los uruguayos nos trenzamos semanas y meses y dejamos de ver otra cosa\"",
+          "url": "https://www.teledoce.com/programas/desayunos-informales/primera-manana/nicolas-olivera-sobre-la-polemica-de-la-camioneta-de-orsi-es-extrano-como-a-veces-los-uruguayos-nos-trenzamos-semanas-y-meses-y-dejamos-de-ver-otra-cosa/",
+          "description": "\"La ética de los gobernantes es el reflejo de la sociedad que tenemos, de quienes nos gobiernan\", expresó el intendente de Paysandú. Además, destacó que el tema \"haya salido del periodismo\", le parece \"sumamente valioso\". La entrada Nicolás Olivera sobre la polémica de la camioneta de Orsi: &quot;Es extraño como a veces los uruguayos nos trenzamos semanas y meses y dejamos de ver otra cosa&quot; se publicó primero en Teledoce.com .",
+          "pub_date": "2026-06-05T12:39:28+00:00",
+          "score": 4,
+          "score_reason": "Presenta la polémica con perspectiva reflexiva, sin alarmismo marcado.",
+          "score_pct": 40
         },
         {
           "source_id": "montevideoportal",
@@ -1109,35 +89,191 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: se confirmó el desgarro de De Arrascaeta y Bielsa debe tomar una decisión",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdTNlSThfcF9vVkRuU2s4eG5WWng5VEJVYWZjeDFTaU52RmFkNWlzZVlKNzkxS3g3cTVUeVp5RFJWUVVyeTJEamlHRWJmeHFBTGVEQmZfbHJfZ3Vab3FDVG5sOG8zdUtQUlNVQ204eG5pVGNyc192cE1fX1J1eGdiWHpqRk1sRE1Uak5tWGZMYmhMa1BWMGVNNU1QSUZSVDc5U0k2cE5rVkM3bUtVMlBMeF8yUnhWMmtBM2RRU1dXaUN5UUVFZFhNMlEtaE1vbmfSAfMBQVVfeXFMUFJlQ3I0cnVXemdoam56V09UOXJ1MFF1TGQ1M3lOck1jV1pWRTQzdEhfclo3Q2tiZXU1dkhzYXptMmdOTVhNbDF1M0pkeV9DcjdDYkd3d1VLRGQweThvMjRuZm1wM3NVX3k0VWxEZkVsMnpmTjBEb3A4LTFtUVVwa3BFVGJUclpfU01NeExOckpwbHVudE44WF9GLW5WS2hkZVI5cXBKVjhiSGQxLU5WM2VnbS1jQTJUTnNxbmFCZkE4b1ZkbXpmUkZMbmRTM0NOcHFMbFFva2ZLWkQ2aVQzU0xObEpoQzl3bW05aEpHTzRXSzFJ?oc=5",
-          "description": "Mundial 2026: se confirmó el desgarro de De Arrascaeta y Bielsa debe tomar una decisión &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-03T12:34:00+00:00",
-          "score": 4,
-          "score_reason": "Enfatiza certeza de lesión y urgencia de decisión técnica.",
-          "score_pct": 40
+          "title": "“Cuidado con meterse con el presidente”: Pereira destacó “fuerte prestigio social” de Orsi",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTJpbldWdUdydllrTU9aZnNhRnZSYmE1N2F3T3p6MjltZENSOVE4RzJCVEJWdE93alhZeWJPbkN5aU5FRGd2OTNKcXEtbWZjYTRVOTQtZml6T2NnSHR1eGduOW9vVllzYWNQTnRGWTgzWlptdFhPLUVDOTVQc2p6Q0J1eGx5cmxxSTZrMEZ2QUNaOFFSTkR2a2xDQ1V6OG00cnlXSXllTVl2S0FLTjVGX3FScmV6NWdRMDhSUVlNMkl6SGF4VjVHUVVrRjRzaTgw0gH0AUFVX3lxTE80NUZLMHJ2RzZxZktRb3ZMMVQ2aW9IZHFvNEpUZHN3czRqeUlBR0VNTzZvNl9vVDFOWFJaTEd3NDVwNmNEajduQkRzcm9mbG0wZGptQ3I2SnBlS0dDYnk2NDlqdjB6RE5yWGcxNlhDMGFiZzdHbmhrczJkVFBIYWZBVDZycU9CTXY0UW5zVzhFNldqaXRQd2xyYi1xa0c5dXVBV25Ycl9EUEdIdHgyQ1lobTNmdWE4eGswWG1WRk14NVVrb2lBd1AwemFLVVdzS3NNTnpXMDVEbFFCU2R3LUZvR3ZqSHNuMzA0RmlhYVk3dmdmWjU?oc=5",
+          "description": "“Cuidado con meterse con el presidente”: Pereira destacó “fuerte prestigio social” de Orsi &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-04T22:50:00+00:00",
+          "score": 6,
+          "score_reason": "Usa comillas sensacionalistas y enfatiza defensa del presidente.",
+          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Se confirmó la lesión (desgarro) del futbolista De Arrascaeta, quien forma parte de la selección uruguaya de cara al Mundial 2026. Este hecho genera incertidumbre sobre su participación en los próximos compromisos y obliga al entrenador Bielsa a evaluar alternativas. Simultáneamente, se discuten los supuestos presupuestarios para la Rendición de Cuentas 2026, documento gubernamental que incluye proyecciones económicas y asignaciones de recursos.",
+        "resumen": "Se desató una polémica sobre una cláusula penal vinculada a una camioneta del presidente Orsi. Mientras algunos políticos como Pereira destacaron su prestigio social, otros cuestionaron aspectos éticos. Paralelamente, se registraron noticias económicas positivas con desempleo al 7,5% en abril y debates sobre déficit fiscal. Los medios mostraron divergencias en el enfoque, desde perspectivas críticas hasta llamados a relativizar la controversia.",
         "coincidencias": [
-          "Ambos tratan información de 2026 como punto central",
-          "Reconocen la importancia de decisiones futuras en base a hechos presentes",
-          "Cubren temas institucionales y deportivos del país"
+          "Existe una controversia sobre una cláusula penal y una camioneta del presidente Orsi",
+          "Hay cuestionamientos sobre ética y transparencia en la administración",
+          "La noticia generó debate público en medios y política"
         ],
         "diferencias": [
-          "El País enfoca en aspectos presupuestarios-económicos; Portal en deportivos",
-          "Portal especifica la lesión confirmada; El País cuestiona supuestos económicos",
-          "Diferentes públicos objetivo: economía vs. afición futbolística"
+          "Algunos medios enfatizaron la defensa política de Orsi (Montevideo Portal) mientras otros relativizaban la polémica (Teledoce)",
+          "Diferencia entre medios que priorizaron la controversia política versus quienes enfocaron en economía (Búsqueda, Grupo R)",
+          "Nivel de sensacionalismo: desde titulares minimalistas (El País) hasta entrecomillados dramáticos (Montevideo Portal)"
         ]
       }
     },
     {
-      "id": "story_017",
-      "topic": "Polémica por compra de camioneta para presidente electo",
-      "category": "Política",
-      "sources_count": 2,
+      "id": "story_002",
+      "topic": "Estados Unidos propone aranceles a Uruguay",
+      "category": "Internacional",
+      "sources_count": 6,
       "headlines": [
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Inflación, desempleo, déficit fiscal, salarios, actividad económica y costo de la construcción en Uruguay en números",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZVUyZ0xxbjFaMUstTjRkX3lTOVdyS0IySXo2dngyM0xyX2VOMHZHTElRZHc1Y3NZZUpXeXozTzVrMHhhWVhlNkV6UHBNTkZXczBjQjAxWWdZM2RleGRXTnRxc0NuRXk5bWNKRC1tLVRVTzZ4UjZTQnh5THJ4dXlGRHJfd2pBZmFjT0t3cEVUQy1URDJuZmpMSi1hdk1teEtWUDNUUG91cHhxLTBmaXRYR0daOU42dnptOHFiYThISVlqT1JjSTJqVWtZenBrZS1WVkZnQ3N2QjBJUlBORzdGekhvbw?oc=5",
+          "description": "Inflación, desempleo, déficit fiscal, salarios, actividad económica y costo de la construcción en Uruguay en números &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-06-04T05:00:00+00:00",
+          "score": 0,
+          "score_reason": "Completamente desvinculado del tema; datos económicos generales nacionales.",
+          "score_pct": 0
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Dos de cada tres uruguayos declara estar bastante o muy preocupado por la inflación",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVFYUlAzQ1hBRnJNYUNYb29sM3VSUXlLSkMzZFRaaWtyLWNxMmdDZU1LQzRMVUpjdFF2TUJ4REpIMHNleFQwd1JDU3RRb2I3ZlE0eVZsbVNXT09wNEJ3aXA2M3hmbDBjcnYwbVA0V0VYOGNmcHFueHlrZjA3Q05vWndVT2J5MDZYcWJrbWxIdTJCM1NZemp5ZW82MllWWFdyNmRIaVBhUFVST2tUczBxdHBnY3YwY19HVXdyZzhaSQ?oc=5",
+          "description": "Dos de cada tres uruguayos declara estar bastante o muy preocupado por la inflación &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-06-05T06:20:42+00:00",
+          "score": 0,
+          "score_reason": "Sin relación con noticia; sondeo sobre preocupaciones inflacionarias generales.",
+          "score_pct": 0
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Estados Unidos propuso aranceles a 60 países, entre ellos Uruguay, por “trabajo forzoso”",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbFlGeno4VVdjeDIyb3pteEZ5NE8wWVlDTncyX1ljMFhTUnNtMndNU0MxRmFIYS1XeXF4WE9pckduNm1oNGxZdDV4VmhvU0YxbUVaeXZRMXJmcDB6MXl3NnQzd0pEcDY0bmVZYTkyNXhTQnpZRVhweWYtWHJ0M1BTVjZRbEQyUHdmYzJzVmFNbDcwZDFEMFNZQVRTRTFFMnpsSGFDVms0VnJzbTB4elRzbFZDY05HMzUtY2d1c0M3QTcxOVBJWHh1NkJ0OWh4UdIB8gFBVV95cUxOS0dMalBQMHhFV1JzQ2oydDBMdWN3a3ZyWFBkOEQ5T1hWZFFya0ZNOXJMcXUzV1hQMDlOSTF0ZGNhM0VSZDFsS2dGVlFVZTJKTjBBeG13MzdPTkFsTEpTQXhrV21tOGJaMjNhVlFsWXlnRjJIdVByOFNhVFN5cENNRTdrZWUyV002dUxMME8zZEZVbDVVdmxGZjV3VHk5R1p6MVYyd0JZNlBxeWlKWHhGeWFFaDJnNGdSdGFPVi1aOThrUFF2ckYzQkNoX0g3MU1LYmRfWWNMVmVCajZkTGFvNEhfRkRRVzNGR2FucjVFUWxuZw?oc=5",
+          "description": "Estados Unidos propuso aranceles a 60 países, entre ellos Uruguay, por “trabajo forzoso” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-04T20:22:00+00:00",
+          "score": 2,
+          "score_reason": "Informativo directo; presenta datos sin énfasis emocional adicional.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "EE.UU. propone nuevos aranceles a 60 países, incluido Uruguay, por importación de bienes procedentes de trabajo forzoso",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOGdfb25adElCYWI4VnNMWU5SbDdzQWVzRngxdldzUDJ6Qm1HLUkySHJ4R3BiNUhRdXdRbUo0ck9WZ08wTHBpZ05wd19ucXUzWlZVLXFNT1ZjblVPMks0X2oxZkFJU3dLMzlFRlVNMDc1cVdSVWdLZ3FtZ055S1ZZd2hjb25ETmtlbHo0eE9aYjZERENqRVFRdmlEWkV0QXd3WjZXZlhoTlpETnI5anFMZklZV2VqS0lpSTZ6bGhkczNncFRSaWpfNldveXR3dHdqOXMwN0JkeXjSAd4BQVVfeXFMTXllcHV3Y1ZEdWhlMVZkR3FldHNYQnMxQmF4Z0VQaGJ6SzZCVDJ1ZHRsekdWWEM4Zkx6Nkhaa2x2SGdfeTJJa0JCU2U5aTNOS09PSFVLQXp0RVNpaHg2OFVNZUhDdG5rLXVlVmhHREd6cVptbENDN1M2bGNFdDVITnZvYVVteEZQU3FFMlRmVm1GYnZMU1hNZXU2Mlpqay1OajNqOE1XTnZjaGxqSHA5WmhzSEp6SVFLd1RENEphWlBPM0E1YjFFX3dyMlJrVmlNMF9tRDJ2SktiOW0yTC1n?oc=5",
+          "description": "EE.UU. propone nuevos aranceles a 60 países, incluido Uruguay, por importación de bienes procedentes de trabajo forzoso &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-04T19:42:00+00:00",
+          "score": 2,
+          "score_reason": "Neutral y descriptivo; explica razón de aranceles sin valoraciones.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "¿Libre comercio en retroceso?",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14NldjbXJLWWlwZi1DMkZXRUU4LURkNHExamc0S2RXN3ExRVVJdWttWWpSeFBhQkJUT2gzNEJ6dzExUnN0UEQtQ1dvWnctN0VSUkFlRU5NWF9uSGJqUWotcjU0R0dfbmlIV0NudlZZRnNCeHFGRVd1Qk1mcjFXQQ?oc=5",
+          "description": "¿Libre comercio en retroceso? &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-05T07:30:18+00:00",
+          "score": 3,
+          "score_reason": "Pregunta retórica sugiere preocupación; encuadre interpretativo leve.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "EEUU aplicará aranceles de hasta 12,5% a los productos uruguayos",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQWlCdndweGFRclBRTlNmeEJremstbWZYaGhaV3h4TUY0UkYxbkJCZ0dpQ0x1bW1tNzlYLV94cW1LZzJtc0xQR1RFQmsydDFpcEpkMk5IMEV3NUtVQ0pPWEt4Szd2UlJWZmpaaDYyR2ZKeFNTSkx4S3p4MkRDcmc2Q29aT0dFZXd4TFM3UHZwbklRSzJ5eWFvS0hHZm9hOF9TU1HSAacBQVVfeXFMTWRSenlLdmtXV0NSeDBkb0xiZHB1a09sVWVlSTQyM2RMeWRtMWhIYzM0NWFQcEt1anMyTDRQSVpmSWpxRThPUDZhR2poRkJHUEI4SjVCR3MzcUxla0hWUlBUYlhmRjNVN1hnQUZ6b2VkeWM4TGNIcjBpdmFHQkhiNmctVDRPRlBuRU5reGR4NGJ6Y1JCQ3lYZ3FuczdMZUVHMWZRTjdfZ28?oc=5",
+          "description": "EEUU aplicará aranceles de hasta 12,5% a los productos uruguayos &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-06-04T20:31:00+00:00",
+          "score": 5,
+          "score_reason": "Afirmación categórica de aplicación; énfasis en impacto negativo directo.",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "Estados Unidos propuso aplicar aranceles a 60 países, incluyendo Uruguay, como medida contra importaciones de bienes producidos con trabajo forzoso. Los aranceles alcanzarían hasta 12,5% en productos uruguayos. La medida se enmarca en políticas comerciales más restrictivas de la administración estadounidense. Uruguay se vería afectado en sus exportaciones, particularmente en sectores como textiles y alimentos.",
+        "coincidencias": [
+          "Estados Unidos propone aranceles a múltiples países incluyendo Uruguay",
+          "La medida afecta importaciones relacionadas con trabajo forzoso",
+          "Uruguay está entre los 60 países alcanzados por la medida"
+        ],
+        "diferencias": [
+          "Algunos medios enfatizan motivo (trabajo forzoso) mientras otros destacan porcentaje específico de aranceles",
+          "El País cuestiona el modelo de libre comercio; otros solo reportan la acción estadounidense",
+          "Caras y Caretas afirma aplicación definitiva; otros hablan de propuesta o medida pendiente"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Polémica por compra de camioneta para Orsi",
+      "category": "Política",
+      "sources_count": 6,
+      "headlines": [
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "El intendente Olivera llamó a políticos a no \"monopolizar\" debate público con \"el tema de una camioneta\" y abordar temas más \"importantes\"",
+          "url": "https://www.teledoce.com/telemundo/nacionales/el-intendente-olivera-llamo-a-politicos-a-no-monopolizar-debate-publico-con-el-tema-de-una-camioneta-y-abordar-temas-mas-importantes/",
+          "description": "Con esto, Olivera consideró que de los temas que realmente debería hablarse y en los que los políticos deberían estar ocupados tienen que ver con que “Uruguay es un país caro para producir, es un país caro para vivir, es un país donde falta trabajo en muchos lugares, donde el tema de la salud mental es un flagelo”. La entrada El intendente Olivera llamó a políticos a no &quot;monopolizar&quot; debate público con &quot;el tema de una camioneta&quot; y abordar temas más &quot;importantes&quot; se ",
+          "pub_date": "2026-06-05T10:59:02+00:00",
+          "score": 3,
+          "score_reason": "Reproduce posición de Olivera sin carga adicional propia.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Manejo de la polémica por la camioneta de Orsi aumenta preocupación de dirigentes del FA por comunicación de Presidencia",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOb0pJRlJteUVhSlBmcXp2OUZYUHp6cFNNQ1BtMnlWTlhtNU5QU00tU0tKTGE5Zm1mVHZWN2UtNDZjZUNlZGRhUFRYcEtPUzItdHFLWkpXcjhUX0FVdzJ5Sk1JOUJxUWQtV0QyZEs0dFJPRktVZXh2M0E1ejhJOHVMTFpBQWFSUkdrdWR4djlGeFBkdVFHT0dmR21jWnRZcFRRV0tyNk9FVkhhTzVrMmtrRkFTWmRwMG5jRldSTTdYRF9zaGlhajZIZFkzTzNFTEJXYVhrZ1phU1g2TzlnaUNHMmczcnpLTDhva2NMOFA5Nkw1Snhqd0Utbml1TQ?oc=5",
+          "description": "Manejo de la polémica por la camioneta de Orsi aumenta preocupación de dirigentes del FA por comunicación de Presidencia &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-04T07:02:33+00:00",
+          "score": 5,
+          "score_reason": "Enfatiza preocupación interna del FA, framing crítico moderado.",
+          "score_pct": 50
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Explicaciones de Presidencia motivan nuevas interrogantes en el manejo de la campaña de Orsi",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2QyUDd1dVdiNHhpb1FGTE1zZGc2SFBmcm1XaVpJMTBJb1lkSWwwbmdxTFlVX0stT3RicURkbzlLam5FU00xYmRNQkd2elNSMXlvRnRSMV91YUtDUWVNaC1xYVRGTmJRN3l2WlVuMmI3Zm8zbTkwbU91Ml9fMHFTUGJ1WTVTaDNPOXZlSFpVWDM1WXlKMlRuMnJqYmM4TjhfR0UwOXdnNVpiS21wVWRUYnRxUXpqNjRRb2FoQlRpOUwzazVQ?oc=5",
+          "description": "Explicaciones de Presidencia motivan nuevas interrogantes en el manejo de la campaña de Orsi &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-06-04T05:10:00+00:00",
+          "score": 5,
+          "score_reason": "Palabra 'motivan' sugiere relación causal problemática.",
+          "score_pct": 50
+        },
         {
           "source_id": "observador",
           "source_name": "El Observador",
@@ -1150,60 +286,207 @@
           "description": "La nueva camioneta comprada por Presidencia para Orsi y los datos que aún no cierran: las otras claves que se abren tras la polémica por la Hyundai Santa Fe &nbsp;&nbsp; El Observador",
           "pub_date": "2026-06-04T08:00:00+00:00",
           "score": 6,
-          "score_reason": "Usa 'polémica', enfatiza datos que no cierran e insinúa múltiples irregularidades.",
+          "score_reason": "Uso de 'datos que aún no cierran' genera suspenso alarmista.",
           "score_pct": 60
         },
         {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "La Hyundai y la república",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQS03YURyY3BsNHFBbENHa2lUYmM2bnZHeE53U0pKLXhPU2tQNXpEcDVqczRaQ3hnZDYzLXZOcUV6am5wVGFMMTdEcWhqci13VTRveFZvY3lMd04wOHF3MmNYYjR5N1V6YnhLdjJpTTZHTy1zSlZWSkhkQzBvVnZyM3lJdm50YTBY?oc=5",
-          "description": "La Hyundai y la república &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-04T06:10:00+00:00",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Por encima del presidente no hay nadie”: Lazo sobre polémica por camioneta de Orsi",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXJIUVpwLXJ5MjhMQ3U0Z3JIOGhGV3ZHZkZvWWkxMnlvaDJRTGJsZkprdUZEM25XR0M0NkJoNUpVcjZzWFk0Ti0xd1pQTndlcDVxTHJnR0lMQW1BYjBJdzZtQlVpSFB6NElDcTlzdjZXb0FNRm1sS0t2aTBLdW8tbnBpQnhORFhkWlBraVR0LWxNemdnSVRpQlEtTklnYTZSOEVQeGYyZEtXcUpGUkxseTlmajlzTXd0OGZ6bHptbXpLVHJlbm9iandR0gHuAUFVX3lxTE16dzd5N2FwOFpPNmdreVptX0NJQnh5bkZGYVBrbElGT05rWVplSDJYdTBHMTFzLUQxWFNocjB5Wm9keEk4cThyYWNaSFFBZ2ViTTc4bndYUHh4NVZDcWNselY5MDF1TGNGd2YyY3dyTmpoLU4yekd5N0ZwNlFQWTNYVDRzM0liV0diRExRZ19OaWlXQlJSdG11TnpsWFRHUmlmT1p1c1RNMDgzX00zNXY4YTFiT3lHbHVfQUJKU09KbGl2WmdzSUFuMllBMEYyT0N5Tm9YaTVqUk1fbmt1NmxnTmIzZ1AyX1FTaEZYY1E?oc=5",
+          "description": "“Por encima del presidente no hay nadie”: Lazo sobre polémica por camioneta de Orsi &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-04T21:32:00+00:00",
           "score": 7,
-          "score_reason": "Titular metafórico que carga moralmente, sugiere compromiso de principios republicanos.",
+          "score_reason": "Titular con frase de Lazo sugiere abuso de poder presidencial.",
+          "score_pct": 70
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Jutep priorizará denuncias contra Orsi por la compra de su camioneta",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1BacTdsTV83dzFZd09iMHB3ZXVhQjBLUEQ1cER2R2FESnZYemNjSG00bFJuaTlYOHByaUV4OURVTHVDaTdGazZVaDZSSHJTbGxKZ19LZmlsQy1ZZHNKeGJKOXhGR2ZZQTZObjVMSEw1YkkwN2hXYnVuRU0zNzRpblhrYlZBZkFoSHZMUVV1WFRNRGZ0UWNrVFhQd2tlS2JsMFkwZGQ3NDNOTXc?oc=5",
+          "description": "Jutep priorizará denuncias contra Orsi por la compra de su camioneta &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-06-04T04:25:50+00:00",
+          "score": 7,
+          "score_reason": "Énfasis en priorización de denuncias implica gravedad.",
           "score_pct": 70
         }
       ],
       "analysis": {
-        "resumen": "El gobierno compró una camioneta Hyundai Santa Fe para uso del presidente electo Orsi. La compra generó polémica y cuestionamientos sobre los procedimientos y datos asociados. El Observador destaca inconsistencias en los datos y otras irregularidades que surgieron tras la controversia, mientras que Búsqueda utiliza un enfoque más metafórico sobre las implicancias para la república.",
+        "resumen": "Presidencia compró una camioneta Hyundai Santa Fe para el candidato presidencial Orsi, generando controversia. La decisión y las explicaciones del gobierno motivan cuestionamientos entre dirigentes del Frente Amplio sobre la comunicación y manejo de la campaña. Organismos como Jutep analizan posibles irregularidades. Mientras algunos políticos critican que el tema acapara el debate público, persisten interrogantes sobre los datos y procedimientos involucrados.",
         "coincidencias": [
-          "Ambos medios reconocen que hubo una compra de camioneta Hyundai Santa Fe",
-          "Los dos señalan la existencia de una polémica o controversia pública",
-          "Ambos implican que hay aspectos cuestionables o irregularidades en el asunto"
+          "Existe una polémica confirmada sobre la compra de la camioneta.",
+          "Hay cuestionamientos y explicaciones insatisfechas desde Presidencia.",
+          "El tema genera debate político y posibles investigaciones."
         ],
         "diferencias": [
-          "El Observador adopta enfoque investigativo enfatizando datos inconsistentes; Búsqueda usa tono filosófico sobre afectación institucional",
-          "El Observador menciona explícitamente al vehículo y presidente; Búsqueda evita nombres, generalizando",
-          "El Observador busca respuestas técnicas; Búsqueda cuestiona valores democráticos y republicanos"
+          "Algunos medios enfatizan fallas comunicacionales (El País, Búsqueda) versus otros enfatizando irregularidades (El Observador, Grupo R).",
+          "Teledoce y otros cuestiona si el tema merece tanta atención mediática versus medios que profundizan en los detalles.",
+          "Portal y Grupo R usan tonos más acusatorios mientras Teledoce busca relativizar su importancia."
         ]
       }
     },
     {
-      "id": "story_018",
-      "topic": "BCU exigirá advertencias sobre depósitos en dólares",
-      "category": "Economía",
-      "sources_count": 2,
+      "id": "story_004",
+      "topic": "Uruguay prepara su participación en Mundial 2026",
+      "category": "Deportes",
+      "sources_count": 4,
       "headlines": [
         {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "BCU obligará a los bancos a advertir a los depositantes sobre los riesgos de ahorrar en dólares",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU1J1dGdQY3BfZFpQNGVUU3U4RHdPSjlPaEdZeGpUUV9HRXdld2E4MGJ1TVN5WS1laHRSZE9yYWFydy01eElKdUtQUjlJZ19VaHZnSDFac3RERm9nVjhCVXVJbmhQNEhMM3paWmlCMW1EU2xaa2dsNEtWNmljUkZ5dTdTREpfSS1JXzV1LUQxbjhqX2dZTTZQeUNNQkpJclF4ZC1sbll5UUtNc0hIYmp2b2x4T0Q4WlQ3LVJQeXFFbllrSVI4ZUJYVWM2c0x6Vmd3dmsyRw?oc=5",
-          "description": "BCU obligará a los bancos a advertir a los depositantes sobre los riesgos de ahorrar en dólares &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-03T08:00:00+00:00",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "El País (Uruguay) - junio 05, 2026",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPRVNNZ3VJbm5SU1ladDk3THUyV09ncV9vRWw5akF4b3ZaZzF0Yy1lbGk0dEppMU55b2lLLVp1amxnTXZMNzJVZDRhbTVYV2tOUW9RbFZRbw?oc=5",
+          "description": "El País (Uruguay) - junio 05, 2026 &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-05T06:52:49+00:00",
+          "score": 1,
+          "score_reason": "Solo fecha y logotipo, sin contenido evaluable.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Mundial 2026: los premios que ganó Uruguay, los que puede obtener y el reparto posterior",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ0lsSTJKc2ZLWHJmaWhkNGhSV1g3RnN1WTM0bUc1dlpxSGQ5enlaVGw3MzFCQUVBQ3NZNW1HN1hwVTVLdmRaWTJfbEs0eS1VQVlwM3gyQk9lRTUybE5KUXZRRno0ZDVManhTeUdmV1hzSzNDRERQZndfYjkxX1FOVXUyek5Wd3NLQWlwcjl2UHhLd0w2R3JXdERMOWl1Q3I4Yjk4Ykl5SU5DVUNYUkp5SUpKWHljUDhBVmk5eHBSRzh2dkZpVXNvUHVTWkJMRU3SAfMBQVVfeXFMTzJNemNHVkpWUFJ1ZDh3SjNyZ0lseVV4cmpwM1lVTDkxZkZEbjBWWHZuVkxlbVFVS0c4MjNCZE1VaTRwOFg5VVVaLVlPeDd2WTdHWG5xQTVBVmhnRUI3NmpDa0hJcDcyNEpDNXphRGpEWU53cDF0MURvcXBta2VMQ2N1ZTJ3UU5Ha1BJQnMycERxOTZZd3NvZ1g5Rmw2bDhtNkNDM3h1NTNxeFp2ejdZVWRZbHRGNVVwY09waTZoaFpmWXRmV1ZEYV9KTWZndllDMVNFX0tWeXZaWHlVeFJsOE9BTkpvZlFja1pOV0tTemFNUHpz?oc=5",
+          "description": "Mundial 2026: los premios que ganó Uruguay, los que puede obtener y el reparto posterior &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-04T20:39:00+00:00",
+          "score": 2,
+          "score_reason": "Informativo y descriptivo, enumera hechos sin carga emocional.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "180",
+          "source_name": "180.com.uy",
+          "source_short": "180",
+          "source_color": "#F57F17",
+          "source_text_color": "#000000",
+          "source_url": "https://www.180.com.uy",
+          "title": "Pilsen presenta su edición especial para los uruguayos que se preparan para todo en este Mundial",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR0cyRXMtRTR3LXhkQnJfZVhWSFhpUTYwOUZ0REMybElhUEtnSks0REJnX3J3WGZQOG9TdVY3SEoxTV85RmlEclI1TXVyejdsUlVyaGI3bmk3a1ZRbHBKME1zSC1qNHQtb2RnSjlnSVYyUFNVWmwtalJBSF9fcHRoZU54T2FGbWk5cFFPQ2FHcGY0a2ZqQnhXeU9qVkpzYTI0RGZXcGc2REItZ3FPcHUzQWVibEI5eW9MMzQ4Y3ZTVVRLTlhsa3pQczBhY2ZpRUE?oc=5",
+          "description": "Pilsen presenta su edición especial para los uruguayos que se preparan para todo en este Mundial &nbsp;&nbsp; 180.com.uy",
+          "pub_date": "2026-06-04T13:14:01+00:00",
           "score": 4,
-          "score_reason": "Lenguaje directo pero con énfasis en 'obligará' y 'riesgos'.",
+          "score_reason": "Énfasis en preparación y optimismo, pero es noticia comercial.",
           "score_pct": 40
         },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "De Ambrosio: “Le tengo tremenda fe a Uruguay para el Mundial” | Los Mismos Locos | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFZYbjdGcktQcEVHTnp4TVJSd21Hc1F0MHQxdXpBZTFrY0dGdmk3LThhSjNfYUZFVDJpZXc4QVdIUmg3U3NsTDlRMDhiVF9SX2Fydm5CUEw5d1lmNUJtc1VtbzllZmJRVE1pMWJfNjlESlUwMjR0aGFLcGN0ci1YNUdTY3pDVEtha1RZTmlpVmFNZ0NGTkJudUJsSl8wSFB0MDJjc2dhbXlIY2Ztcmc?oc=5",
+          "description": "De Ambrosio: “Le tengo tremenda fe a Uruguay para el Mundial” | Los Mismos Locos | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-06-04T00:59:15+00:00",
+          "score": 5,
+          "score_reason": "Expresión emotiva personal que amplifica optimismo sin análisis equilibrado.",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "Uruguay se prepara para el Mundial 2026 con expectativas positivas. Los medios cubren diversos aspectos de la preparación: desde los premios ya obtenidos y posibles objetivos en el torneo, hasta iniciativas comerciales relacionadas con la competencia y declaraciones de confianza de personalidades vinculadas al fútbol. La cobertura refleja el entusiasmo general del país ante la próxima participación en el campeonato mundial.",
+        "coincidencias": [
+          "Todos abordan el Mundial 2026 como tema central relevante.",
+          "Existe expectativa positiva sobre la participación uruguaya.",
+          "Se menciona la preparación o disposición del país para el torneo."
+        ],
+        "diferencias": [
+          "Montevideo Portal es informativo sobre premios, mientras El Espectador enfatiza aspectos emocionales.",
+          "180.com.uy enfoca en marketing comercial; otros medios en aspectos deportivos.",
+          "El Espectador recurre a declaraciones personales; otros usan datos o hechos."
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Allanamiento en Art Tower: incautación y narcotráfico",
+      "category": "Seguridad",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Arte uruguayo por el mundo",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xY0cxUDZsTFJnaUwweHRtNHR5SFBKUUhoTkV4dUpQUVJLMXM4X1pkQUhDQVJoNzUtTzV6THM5WFVudnhrSlN4RW4wLW5LT0R0?oc=5",
+          "description": "Arte uruguayo por el mundo &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-06-05T05:40:29+00:00",
+          "score": 3,
+          "score_reason": "Enfoque artístico neutral, minimiza dimensión delictiva de la noticia",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Allanamiento en Art Tower: quién es “conocido” narco al que le incautaron US$ 3 millones",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbGZIaUVpY2F2c0Ezd3pIUjJTWGphWS1icF9QRU5xN19fYm1Cb2JDaENNVUxkeGpucU9mcUJ5R3pqalhudnEyT3ZIdEUxa01IczlJTzFQTUowUUMySVlORjJkZG8yRVdCWU1qZnR1RXlzcTVObmRESkdqa2FFOU1SaTA1X2dPY1NUWVBjcXN6eHhyVTZpaGVLclpIMW1LLXo2RjFfVGc4ajJLZlozY00wTW96TDRlVmh2S1NZZ1hrRFVsbDZGTkp0OUZXMDXSAfABQVVfeXFMTVJiRElrLW0yYlhRVlhBY3pBTlVGLXZSR3g0RnFmNlVldFRkSW5QaFpWV1hEZzhCeXdISVZrUU5TXzN2R3A3X0o4NnA3SDY5MW5LUUQ1amc2RXJtZ1pzMGphN2Z2UGJHTzhOdUlKOXdUMHV1ZWRFRmttMzdhZU4tWmFldW95ZUw3Z0JDbkJwdGlUOHZlcnRTa0FJSHQtOFN3Um9qUk5CWmJ6YmVVcXBiN0F0Yy1xTEV2ak5uQmR2eTJpbWhjcDh1SDFKVnpZYU5INDhXVC1pZWIyRm9VMVZ6bnFlb2RHN0hPV2RMYmVqY01O?oc=5",
+          "description": "Allanamiento en Art Tower: quién es “conocido” narco al que le incautaron US$ 3 millones &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-04T14:57:00+00:00",
+          "score": 6,
+          "score_reason": "Sensacionalista con montos y términos que generan alarma social",
+          "score_pct": 60
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "La culpa no es del grafiti",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jTEtGRFBTR0E0cjhBenhVVFRqbGJ2elJWbWhCT2dtOTZFMGNva3cxMWd0UzVtaV9iT3FVYWJaQm03TDBHbXh3Q1g2Q3daSmdWRGE5aFFBbk9KVGNfLWw3ay1MVGtfT3lnZnJmdTZnbEs0M3FKLUp6VWZB?oc=5",
+          "description": "La culpa no es del grafiti &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-04T08:19:22+00:00",
+          "score": 8,
+          "score_reason": "Titular ambiguo y provocador que desresponsabiliza sin contexto claro",
+          "score_pct": 80
+        }
+      ],
+      "analysis": {
+        "resumen": "Las autoridades realizaron un allanamiento en Art Tower donde incautaron aproximadamente US$ 3 millones vinculados a actividades de narcotráfico. Se identificó a una persona conocida en ese ámbito delictivo. El operativo se llevó a cabo en una torre que también funciona como espacio artístico, generando distintos enfoques sobre el evento según cada medio.",
+        "coincidencias": [
+          "Ocurrió un allanamiento en Art Tower relacionado con narcotráfico",
+          "Se incautaron fondos significativos durante la operación",
+          "Está involucrada una persona con antecedentes en ese delito"
+        ],
+        "diferencias": [
+          "El País cuestiona responsabilidades sin esclarecer; Portal enfatiza lo delictivo; La R destaca lo artístico",
+          "Portal usa cifras y lenguaje alarmista; El País es críptico; La R evita detalles del narcotráfico",
+          "Cada medio prioriza ángulos distintos: cuestión moral, criminal o cultural respectivamente"
+        ]
+      }
+    },
+    {
+      "id": "story_006",
+      "topic": "Declaraciones políticas y deportivas en Uruguay",
+      "category": "Otro",
+      "sources_count": 3,
+      "headlines": [
         {
           "source_id": "busqueda",
           "source_name": "Búsqueda",
@@ -1211,48 +494,93 @@
           "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.busqueda.com.uy",
-          "title": "“Consentimiento”: desde agosto el Banco Central exigirá notificar los “riesgos” de depositar en dólares",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWU1LRjFPWlpMcWduOFZOOG1QYlhjaHpXWmcxcFRGSC1Fd3NwWGpVSW1Eb2NtMEF2MW9tWmFnRWZMSWNwYmFQcXA2UUlETzNDenZLaGVZY1BFc2ZoZVpDUkNhakJUREJoT2FJOWlYcjhWZEZKS3F1b2k3eEpCeHAzVE81TjEyc0k2b1N6NzkwX1QxRVBrdUZnUVBKU3N2OTZkTnFZV3B6TDRzOENBV1lEc0luVEV4TnhIRnFoWVI3dnR4SHNNTms5MmJXSC0?oc=5",
-          "description": "“Consentimiento”: desde agosto el Banco Central exigirá notificar los “riesgos” de depositar en dólares &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-03T14:05:00+00:00",
-          "score": 6,
-          "score_reason": "Comillas en 'Consentimiento' y 'riesgos' sugieren cuestionamiento irónico.",
-          "score_pct": 60
+          "title": "Julio María Sanguinetti: “Uruguay es desmesurado para su escasa demografía”",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTzMxY3VLeEhzNnlLcVNQUlhMeEV6SGxuZGo1R2xxTFJERzBaa3B6YS1UdzAwSkdCal9XT0hjSjVlNzBnVzFCcVZWclVhMDFmbXJhYndibkpFZkI2Nl8xc1hSUUYzN3hnbDVkSWpVTXJCdnhBcVNPck5PaHk5SVlnVkdPdWMzTjJOTkNzVFRGVlJUVlQ1TmhjTlRhQTdIWkhYbzgtem9VQlJvM3ZOLUwwVFBwUk5Ydw?oc=5",
+          "description": "Julio María Sanguinetti: “Uruguay es desmesurado para su escasa demografía” &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-06-04T07:59:24+00:00",
+          "score": 2,
+          "score_reason": "Cita directa, neutralidad temática, sin interpretación editorial.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Ramón Arias y el cruce con Nacional por Copa Sudamericana: “no tiene nada de especial” | Convocados | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHppek9Fdy16aG9pUk9pd3pzQlNPRWhvc25HTHI1dlR3bDlyM1d4TE15d05IMWFrZllzc09zZWRrdkcwMEVmdGxlZHVzektxbExtazFsdWtZM2FxcldjdHJYUWN0TkJzT2JMZEVLaXFfRmRRQzhfcm9sQ2hncDRRUWhSOHZwdExhdkNtRWx3WnZGVDM4V0dyNE4xQktPY0lrVFBkSUZqTmNSaFZGWEZsYnR0dlBTNVFBRnd1ajJBWjZHRTNUN2lN?oc=5",
+          "description": "Ramón Arias y el cruce con Nacional por Copa Sudamericana: “no tiene nada de especial” | Convocados | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-06-04T16:15:06+00:00",
+          "score": 3,
+          "score_reason": "Directo y descriptivo, leve énfasis en lo anodino del evento.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Vos te callás",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JbVhQelR6cWgtSmhSTzVKWXl0cS1jLUtkMFdDWkZDUDFyS2hWdjBkRnRjRTRHU3EydkhfVnAtWUoxTGR4UDByWjExODhHM21EWFRDZVd1SFRiU200RjNxNzNiN1FtclRE?oc=5",
+          "description": "Vos te callás &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-05T07:30:18+00:00",
+          "score": 9,
+          "score_reason": "Titular incompleto y provocador, sin contexto informativo.",
+          "score_pct": 90
         }
       ],
       "analysis": {
-        "resumen": "El Banco Central del Uruguay implementará desde agosto una medida que obliga a los bancos a notificar a los depositantes sobre los riesgos asociados a mantener ahorros en dólares. Esta regulación busca garantizar que los clientes tomen decisiones informadas respecto a la moneda en que depositan sus fondos, considerando factores como la volatilidad cambiaria y otros riesgos financieros inherentes a operaciones en divisas.",
+        "resumen": "Se registraron declaraciones públicas de figuras relevantes: una intervención de tono confrontacional, comentarios de Sanguinetti sobre la dimensión estatal uruguaya, y declaraciones del técnico Arias respecto a un enfrentamiento deportivo próximo. Los medios cubrieron estos temas con enfoques y énfasis diferentes según su línea editorial.",
         "coincidencias": [
-          "El BCU implementará una medida regulatoria sobre depósitos en dólares.",
-          "Los bancos deberán informar a clientes sobre riesgos asociados.",
-          "La medida entrará en vigencia en agosto."
+          "Los tres medios cubren declaraciones públicas de figuras uruguayas relevantes.",
+          "Todos presentan información sobre temas actuales sin omitir hechos centrales.",
+          "Ninguno oculta las fuentes o personajes involucrados en las declaraciones."
         ],
         "diferencias": [
-          "El Observador usa tono neutro; Búsqueda cuestiona la medida con comillas.",
-          "Observador enfatiza la obligación regulatoria; Búsqueda enfatiza el concepto de 'consentimiento'.",
-          "Búsqueda adopta una perspectiva más escéptica sobre la caracterización de 'riesgos'."
+          "El País apunta a la confrontación sin contexto, mientras Búsqueda y El Espectador informan contenidos específicos.",
+          "Búsqueda se enfoca en economía/administración; El Espectador en deportes.",
+          "El País usa formato fragmentario; los otros dos presentan titulares completos y informativos."
         ]
       }
     },
     {
-      "id": "story_019",
-      "topic": "Cierra Coleme, cooperativa láctea más antigua",
-      "category": "Economía",
-      "sources_count": 2,
+      "id": "story_007",
+      "topic": "Actividades culturales y educativas en Montevideo",
+      "category": "Cultura",
+      "sources_count": 3,
       "headlines": [
         {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Cierra Coleme, la cooperativa láctea más antigua de Uruguay: tenía 94 años de historia",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb1hGRFozaEN6b09NUktRY2hScDA0ejRfOWgxR2RDVWVkVk4zOHBQNVJaZ1FwS2RuQ1g0ajhDOFMzNnlYVFRoamdOVU1OdWpoMmFXRXRuc3AxLVQ3Vm5vdEtNWWVmM1lockl4UmxFRFlmdlBvWXJRakNtVGc1N0pjR2NGN1JVbTJLRk9JaVFxNzI0d1VvV3NMUlhFaWFwUVh1QjJTNFE3OW9hX2xSNkVwYl8walYtcG1mSjJxeW5VeHlYQdIBxwFBVV95cUxQNi1MemtobmNpY0RWNk5KYzUtcVZyWU5xd3VjbklmUUJnamo1VHRCY3paN05zaTgwUGFPbjU5YThBMnUxVGlsS1psbWNIYjJaSThNYWpjM2lmbVFubVFFN3MwUUtpdElURUVwSkJ5M0lkVzRvTGQzQ1Z4eHRIcnJLaF9mOUFyUnNmd043X253WXRnNTV0enJJUkx4UVJrdjB3UXY1cWhVaXYySVhpdFFMcDlWeklsQ2tvUElhbEFhTEUyMHFTY2NN?oc=5",
-          "description": "Cierra Coleme, la cooperativa láctea más antigua de Uruguay: tenía 94 años de historia &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-03T12:44:00+00:00",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Feria del Libro Infantil y Juvenil en la Intendencia de Montevideo",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaXNDbDNWOGN1dTMzRGZDR1BCR2ZwSUdKa2VxMjc4a1o0TXI2WXNybVlFTS1kNWVDQW5BYXVLNlFxcTJYSU1CLWdsZWE2M1U0ODJqQWdVRVBTNy1wNjM0dlh1MmlyYTFyVmtJUXdxX1hBT1pnLUxWTW9zQ2MwRGpheGQwOWdiQ29xZlBqSGdkZ3ZuUlFGQmJuX2d0cmNzMFVtM1pxeElBbzd0Vy0xMk5zZw?oc=5",
+          "description": "Feria del Libro Infantil y Juvenil en la Intendencia de Montevideo &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-06-04T03:50:00+00:00",
+          "score": 1,
+          "score_reason": "Totalmente neutral, descriptivo y sin carga emocional aparente.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "cuidado de la infancia archivos",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kQzNVSHUzaUUxeGMwR0dZWmlRNXl5SWxqckg1ZDM5TkJPVjFfMDZ2ZC1YSFdpYTlRaDNaZ3R4ZGFFMk1UcjZaODFVR3JaMkhBcFNzbVZuVFhfTUJOWG5wRVpOeHJMRHc?oc=5",
+          "description": "cuidado de la infancia archivos &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-06-04T20:03:30+00:00",
           "score": 2,
-          "score_reason": "Informativo y directo, destaca antigüedad sin carga emocional.",
+          "score_reason": "Catalogación temática simple, neutro pero impreciso en contexto.",
           "score_pct": 20
         },
         {
@@ -1262,32 +590,236 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "No va más: tras un prolongado declive, cierra la cooperativa láctea más antigua del país",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQczJBRTcwdGpRM29CRmtjRkN0NDItR2Q5TmRwSWxaNEVfZDZGRFE1ZnIxb2lfUE4tM1Q4blA4SDVFcDdrX3JUdXc5OEIxY1hpZGlqYkpyc3h5d3VuNkJpdVlqNml5T3lYbmdhVDRRRnc1Q0U2cHFZbExEeXEwQzd2dzRkQmRYTEUxbENKMmtibUpVLUVucUZENmJfWU1JMGJoWm94Um1vdm0yVmVfZkNyeEFJeE55aEtoa0VaNUVkbFBpcUhjY19DelU1T3VHdGvSAfMBQVVfeXFMUEZDWW9IZkxGZEV5SzJfSTNjWWxFMmtTZmZCSHVqNHpWS01XQ1BkczAzZDMtMm1BNHE1S0Z6R3VtZXpHcWRQaGZnc2s0MnZJN2dUQ3VfamNVVXgyM3NSZlJWZkh5THdiZUU2N2hscUgyS1pOU2JMTmlKdW1pYUVJTW12djBSSC1RZi14b3BRZFJBTUpsazJWUHR4b2hGRVExcU1QOFVsMjg5dWg3SkdTZzltWk9Ca29HUDBac2NkbTZNZFlDQmU4cWFKMnBVWDIwRUpsYUNUUkZybkhrcXo2N3ZtTUR1SkpJRFVEVVlCcllKV0FN?oc=5",
-          "description": "No va más: tras un prolongado declive, cierra la cooperativa láctea más antigua del país &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-03T11:11:00+00:00",
-          "score": 4,
-          "score_reason": "Agrega 'No va más' coloquial y enfatiza declive prolongado.",
-          "score_pct": 40
+          "title": "DIVORCIO EN MONTEVIDEO · Cinestrenos",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RM3owbkd1c1RQUUNURks1NGdVZ0NRSkJrQUFLVXQxQjFQcU9hOFg5TXpkTWZZUXh1X3NSekhZUGdMbFVaekMxSEN2MUZvR3ZabmdGQmE3am8tNW1QZXNVY0VBZjBnR2Q3N2pfYg?oc=5",
+          "description": "DIVORCIO EN MONTEVIDEO · Cinestrenos &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-04T09:41:17+00:00",
+          "score": 3,
+          "score_reason": "Titular informativo con leve énfasis temático en película.",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Coleme, la cooperativa lechera más antigua de Uruguay con 94 años de trayectoria, ha cesado sus operaciones. La institución enfrentaba dificultades económicas y estructurales que se acumularon durante años, llevando finalmente al cierre de la empresa. Este acontecimiento marca el fin de una larga historia en el sector lácteo uruguayo, que había sido un referente en la industria cooperativista nacional.",
+        "resumen": "Se registran eventos culturales y educativos en Montevideo durante el período analizado. Montevideo Portal destaca un estrenos cinematográfico relacionado con temática de separaciones. Búsqueda reporta sobre una Feria del Libro Infantil y Juvenil en la Intendencia de Montevideo. Grupo R Multimedio cubre contenidos relacionados con políticas de cuidado de la infancia. Los tres medios abordan aspectos vinculados a la cultura, la educación y temas familiares en la capital uruguaya.",
         "coincidencias": [
-          "Coleme era la cooperativa láctea más antigua del país.",
-          "La cooperativa ha cerrado sus operaciones definitivamente.",
-          "Se trata de una institución con décadas de trayectoria."
+          "Todos abordan actividades o contenidos culturales y educativos en Montevideo",
+          "Los tres medios tocan temáticas relacionadas con infancia y familias",
+          "Ninguno utiliza lenguaje sensacionalista o alarmista en sus titulares"
         ],
         "diferencias": [
-          "El Observador es neutral; Montevideo Portal usa lenguaje coloquial.",
-          "El Observador solo menciona años; Montevideo Portal explícita 'declive prolongado'.",
-          "Portal enfatiza proceso lento; Observador presenta como hecho consumado."
+          "Montevideo Portal enfatiza cine y narrativa de conflicto familiar",
+          "Búsqueda se enfoca en evento masivo público e institucional",
+          "Grupo R Multimedio prioriza la dimensión política de políticas de cuidado infantil"
         ]
       }
     },
     {
-      "id": "story_020",
-      "topic": "Movilización de mujeres contra violencias en Montevideo",
+      "id": "story_008",
+      "topic": "Situación de una camioneta en contexto uruguayo",
+      "category": "Otro",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "La camioneta gordiana",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tRmhCZ2xkdERjTk50MDJwd1hibkZXeGswa1N5OUl6VWxMQURXcjZvcF9uc19xQjd5WWdFeTV0TV83cndHZWh0b3hsQkxzcDlVWWV3TTZZdjhCNkE2X3pUcTJ2NF9hVVRkNUJGUlR4b2VrQ0pPRUE?oc=5",
+          "description": "La camioneta gordiana &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-04T08:19:22+00:00",
+          "score": 6,
+          "score_reason": "Usa referencia clásica metafórica; poco informativo del hecho real.",
+          "score_pct": 60
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "dibujo",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YSFN6TWFORGFDNFhmVDBublB4MVZfZkNRSmhkblJraFpYSXE4NHVKUHB0czRfanVvMExlSmJSS1RaWTVXZG9ibXNmUUlMcXlWNmc?oc=5",
+          "description": "dibujo &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-06-04T20:03:30+00:00",
+          "score": 8,
+          "score_reason": "Titular completamente opaco; no comunica información periodística verificable.",
+          "score_pct": 80
+        }
+      ],
+      "analysis": {
+        "resumen": "No es posible elaborar un resumen objetivo de los hechos. Los titulares proporcionados son insuficientes: 'La camioneta gordiana' carece de descripción clara, mientras que 'dibujo' no proporciona información sobre qué sucedió. Ambos medios presentan títulos sin contenido sustantivo que permita comprender la noticia específica, su contexto o relevancia periodística.",
+        "coincidencias": [
+          "Ambos medios mencionan una camioneta como elemento central.",
+          "Ninguno de los dos titulares proporciona datos concretos verificables.",
+          "No hay hechos compartidos identificables con la información disponible."
+        ],
+        "diferencias": [
+          "El País intenta un encuadre narrativo/literario; La R presenta solo una palabra.",
+          "El País sugiere complejidad o dilema; La R no comunica contenido alguno.",
+          "Imposible establecer diferencias de enfoque: falta información sustancial en ambos casos."
+        ]
+      }
+    },
+    {
+      "id": "story_009",
+      "topic": "Estadounidense apuñalado en Centro de Montevideo",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Un ciudadano estadounidense fue apuñalado en el Centro de Montevideo y está grave: hay un detenido",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVnNCYm5vQ09HSk4zMXplVWhZX1pLM1E2U2E5UnF6elNlZzlQLWhuLXJlZGU0ZVItbTJCc2JwSlBqLWV5LWlTTURxVHlHdjRmaWx3WTUwVUlWTGhoM0I3MVJocUVnb0t0X09ZcWIyQWY2T0NIN3ByX0d3V1FmUm5naVZ5SE1jaEpFUVgzdnVMQ0Jxb1ZlTy15S1pzUDhZOHVFM1IyTlNXXzRYQjVPUlB2dWhRNlVjRTd0MmRsdnlNUENIclVhY2tWcXRxcVdWOVVqRzdxRS1qY0nSAd4BQVVfeXFMT2s5aW13OUVMQXl3T1p4MmhQbExfSHltUnFDVzVZWUJUV1BONWpGVFh2UmRydllMWTBReFJNenE1dk9fVEhILXBYUHR4d1pmUTNDZ0NxeE93QnZ4M29CZWVHbnRMcTdma2JmQUl4T2dUUGdNMUVuVVVNemw3aDNkVWhQUFJVS3BhQ1I1cnhFdzFjUmZvT3otVldGZ3FZblpod1FrUGZYdVZkYlQ5dEFzUW95Y3A4c3JUV1UwRWNRbHQ0TFRqSXF5ejF0eU1fa0I1SWladm41YWJ6Mm1Wczln?oc=5",
+          "description": "Un ciudadano estadounidense fue apuñalado en el Centro de Montevideo y está grave: hay un detenido &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-04T15:54:00+00:00",
+          "score": 2,
+          "score_reason": "Lenguaje objetivo y neutral, datos concretos sin carga emocional",
+          "score_pct": 20
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Un estadounidense fue apuñalado en el Centro y se encuentra grave: un sospechoso está detenido",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZm9fanJNUFNJZHlHcWR6cmxBdlVGd1VOYkJIUzM1QWlFMHc5RFN6ZkpuZ1kzNFg2R1ZKLXVLd3RzQkIydGdzRTVGN1ZUX3JMMnBOUENFakczOGpiXzJOM3JLVmF2NWVSSWdOeWRnMFhqZ3ZLdFAtUmVJTVhJZUJfRUJwanZwMkkxUHpBRU1fSGNBbngyWVlkTXJwaTh1N3dUdm1yekdnU1lNRFJEMVl5WWgxZnd3UTNvajJpQllmS0N4am1wcFRJ0gHMAUFVX3lxTE5fVXFoNnFXZXFUaE1CR3J6Y3oxSHhmajA3cGNXZjZqODl3ek9BMXhFQUdKaHNmdmkwczh1ZWExM0ktRTdEU3IxU1FXVXhVQ1BvVFh1U0c2SlFsU19EM3FkYmJDamwwcDhDLVF3dThnVjBYdzlFSk9JS3VUanM0cXY1WXY4OW5uRUtmeGRuRUVUN2Z4Nk9iZnhKb1lQcmowRXZfUWt5OUZaRld0bi03OFJkX1JRT2FLdGoxNU1GNG1IX3UxTFNoRjM5dmlKVw?oc=5",
+          "description": "Un estadounidense fue apuñalado en el Centro y se encuentra grave: un sospechoso está detenido &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-04T14:37:00+00:00",
+          "score": 2,
+          "score_reason": "Redacción informativa equilibrada, utiliza 'sospechoso' en lugar de asumir culpabilidad",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Un ciudadano estadounidense fue víctima de un apuñalamiento en la zona céntrica de Montevideo y se encuentra en estado grave. Una persona fue detenida como sospechosa del hecho. Las autoridades investigan lo ocurrido. No se especifican mayores detalles sobre las circunstancias del incidente ni sobre la identidad de los involucrados.",
+        "coincidencias": [
+          "Ambos medios informan sobre un apuñalamiento de un ciudadano estadounidense",
+          "Los dos destacan que la víctima se encuentra en estado grave",
+          "Ambos mencionan que hay una persona detenida relacionada al hecho"
+        ],
+        "diferencias": [
+          "El Observador especifica 'Centro de Montevideo' mientras Subrayado simplemente dice 'Centro'",
+          "El Observador usa 'detenido' mientras Subrayado prefiere 'sospechoso está detenido', siendo más preciso legalmente",
+          "El Observador antepone 'ciudadano estadounidense' mientras Subrayado solo dice 'estadounidense'"
+        ]
+      }
+    },
+    {
+      "id": "story_010",
+      "topic": "Inteligencia artificial llega a Uruguay",
+      "category": "Cultura",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Enciso participará este viernes en Buenos Aires en foro sobre inteligencia artificial que reunirá a gobiernos, expertos y líderes tecnológicos",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSXczY0RxSGZCa2lFLXM0UHNVV3UtdG1jM3AwdzJFQ3FfX2NGOG5MMkJieFVmdklnS0JIUzZjTW1jeW5VWVhweEtkalpmSVprNzY1Y19nYm9WVkJBSjFBZDNCUG5MZHpkenhrdy1ydWsxemxQaFEyLUlWYmpvUHlBS0NzZXl2WG9LMHVjZ0JYMF9CUzRTUUFlaHF4ZEs0d3UxclRrQ2dZY0JuVDlwbHR6cmNweGFuOWE0SmlMX0tEbGIwc2lvMC1hbmFlSUs4VHIzcVNvTWJCY1VJakhnWmloUnM2UHFXdHVpaEkwZ1BuQ0xKemtIcE5jS213WnZOZXNwakhtdzJVRGnSAY4CQVVfeXFMTWJkNkhHSjMxTlhKNEl1U2ZadVBIVGtHVkdXUXo4NGF0QnlCZndRQWpmYk4yaXQyRWFnWllxWHk1OVItR19Sdm41MHd1MjBFdFEzZ2NMOWVJMDhjb2Myb1lKbWdBeHh6cWQ1UGZ6bXA0SEdaLThkRWMxUC1xWFQyWExvQVcyMkt4UmlGZ0ZkVnlQSUxSem1Gd1JIVmxZQXdNeEVVVHp0Y2xRVGZkN0lnM29WTDhjUDNkRV9WRmR0MmZ2bW01cVRwTTZxUmloVEN1VmNELWh6OTVLX0Mtb09ZMDBFeDVidHBLZHZ0dFdyNFh2Mm9RV0l3OVA1bTNwUkQ5blZtMzFvOVNYaUFEYmx3?oc=5",
+          "description": "Enciso participará este viernes en Buenos Aires en foro sobre inteligencia artificial que reunirá a gobiernos, expertos y líderes tecnológicos &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-04T22:51:52+00:00",
+          "score": 1,
+          "score_reason": "Descripción factual sin carga emocional, detalles concretos.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Los festivales de cine hecho con inteligencia artificial llegaron a Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdzhJU1pYcE1raW40Uy1qeFdET011dk5YRFl3RVBwbHlLZGFzbVZ4VGw0aHNsa3dMcFVJVzBsaEk4Z0s5Q3B3ZllBWUJwU0hla2Vqa09PWmdUY24xN3FPWFZwQkp6QUhjaVQtLUU3SGNHNE1EbkdpRFpqMXA4X2xmYVgwNlEyb25LcjE4aWI1S0d1ZGFUczF2SkExWW95Sm1LcDNYR1JydFQ0bFVFZXpRNXRXalFsNFBz?oc=5",
+          "description": "Los festivales de cine hecho con inteligencia artificial llegaron a Uruguay &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-06-04T04:10:00+00:00",
+          "score": 3,
+          "score_reason": "Enfatiza aspecto cultural-novedoso con 'llegaron', leve tono de evento destacado.",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Uruguay participa en iniciativas vinculadas a inteligencia artificial. Por un lado, una autoridad participará en un foro internacional sobre IA en Buenos Aires reuniendo gobiernos, expertos y líderes tecnológicos. Por otro, festivales de cine realizados con inteligencia artificial han llegado al país. Ambos hechos reflejan la penetración creciente de estas tecnologías en distintos ámbitos, desde la gobernanza hasta la producción cultural.",
+        "coincidencias": [
+          "La inteligencia artificial es protagonista en ambas noticias",
+          "Uruguay participa activamente en espacios relacionados con IA",
+          "Se trata de iniciativas recientes o en desarrollo"
+        ],
+        "diferencias": [
+          "El Observador enfatiza lo institucional-diplomático; Búsqueda enfatiza lo cultural-artístico",
+          "El Observador cita participación oficial; Búsqueda presenta fenómeno llegando al país",
+          "Encuadres distintos: gobernanza vs. producción audiovisual"
+        ]
+      }
+    },
+    {
+      "id": "story_011",
+      "topic": "Controversia sobre denuncias contra Orsi y institucionalidad",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Oficialismo busca cerrar controversia por la camioneta de Orsi y líderes opositores cuidan la “institucionalidad”",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRDZMTElBZmhTZFlZU1BFdGpUVXp1dk81MHhuR2F0Z0RwckVLbUpPeUZGSGhWWEl0SXZwYnVsTXQ0bVBzOXg4WVJRcnJ3VWhPMjkzYW1FbnRmYkFzNHRQR2dKNHZQNGc1NTk4VHotQkRXNUJTYlROVDZULWdQTUc3Rm1DVnI3VE1oeE9kY09LZWVrUkNTSFdMcGU4c00xcWxDVmJhN2hFMzVSdkxaZE9sanVlWEN6WEtYMW5XaVNTX1pKX1RhUlVwOFBZVGxGOElCOTBwenp1TW1aZ3AwRERac19ZNEJnakZy?oc=5",
+          "description": "Oficialismo busca cerrar controversia por la camioneta de Orsi y líderes opositores cuidan la “institucionalidad” &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-06-04T07:04:00+00:00",
+          "score": 5,
+          "score_reason": "Presenta posiciones encontradas sin carga emocional evidente.",
+          "score_pct": 50
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Oposición asegura que Junta de Transparencia y Ética Pública \"no da garantías\" para estudiar denuncias contra Orsi: \"Es muy preocupante\"",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcE5jR1N5TDVDRHVubFFSZXFZVTBFTFpVYVd0NWE3TWUwM3N4WExISmFmcWpXek05aWo3Mi1zRUU5QzZDcmdXNk5nZHZwektLdGNSbHN0cm1McGJhQ3VpeDRnWHRCR1F4YWNkY1lVQlM1cmJVUVc4Y3lhMDVBeHpoTE1QZ2hhZXVmdG5LN1d1NDJ1X3J6ZzNwRWJPcnRGYkpVMm5DUFUzY1hoeHpKcVVpdDN0VmZCWVN3OW5DRjFxWEJ0MmU5bGNHa3EzQ0F5eWpTUmlYbk82QUV6QzFyU09Va3NJdWZqNVBKblpfMUtIWS1XOS05WFo5X29tcUR4eEcweXVF0gGIAkFVX3lxTE0tdnJBNlYtT2hGQVFBc2toRUhZTWk3VDRSZTdEQWRNZ0F2WTJKdHNuTjVnQ1dSS2xpN0x5SmthVHpFbzF2Nm9PTl8wXzdiTnRtQW5lMXRMaUVmWTlhSHhhcmw2Z0FlWFlBaTN1cV9Td0paaXZZQ3JBQ2pjLXB3aDJwNHYyX201NGlIdzRGVThmUE5TcTNEdW1DNjQxUV9ZZnFkSnJfdjkwS2xiZnFCN20wSFRZbTdJNlNMZXItMGRyLWhyZ3pXWXRUN1ItN2tiQjlLVnRfaExuRzdBWWw1UFZKbW1BM09hY2loQ25aWFpJWWxXb0V4Z2pEMElUWFp5TEJwZE82UHFiVA?oc=5",
+          "description": "Oposición asegura que Junta de Transparencia y Ética Pública \"no da garantías\" para estudiar denuncias contra Orsi: \"Es muy preocupante\" &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-04T21:19:00+00:00",
+          "score": 6,
+          "score_reason": "Usa comillas de fuente pero amplifica con 'muy preocupante'.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Surgió una controversia en torno a denuncias contra el candidato/funcionario Orsi, particularmente sobre una camioneta. La oposición cuestiona la capacidad de la Junta de Transparencia y Ética Pública para investigar imparcialmente estas denuncias, argumentando que no ofrece garantías suficientes. El oficialismo busca cerrar el tema enfatizando el respeto por las instituciones, mientras que líderes opositores también apelan a la institucionalidad como marco para resolver la controversia.",
+        "coincidencias": [
+          "Existe una controversia relacionada con denuncias contra Orsi",
+          "La institucionalidad y los órganos de control son centrales al debate",
+          "Hay posiciones diferenciadas entre oficialismo y oposición"
+        ],
+        "diferencias": [
+          "El Observador enfatiza las dudas de la oposición sobre garantías; Búsqueda equilibra la intención del oficialismo de cerrar el tema",
+          "El Observador destaca la preocupación emocional; Búsqueda resalta la estrategia política de ambos bandos",
+          "El Observador cita críticas; Búsqueda describe acciones y cálculos tácticos"
+        ]
+      }
+    },
+    {
+      "id": "story_012",
+      "topic": "Movilización y muerte en contexto de violencia",
       "category": "Sociedad",
       "sources_count": 2,
       "headlines": [
@@ -1302,8 +834,110 @@
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWkZrMWdUVjlLRXZDUkRLZ253UDRtN3NkalljLVlqSDRXVVl2cE5uZjBUczdDVFJVRDM5azNLM1pLQjJrTm12VkUzdW5XVjFhSkJ4Q2hzZHB6QWVzaEQ3eHRFc2pOWEZfUkJuaWJMU3VVZWNKRVZheXRWNHRxcnlsazdJSFZ2dkNpNE1qVWE3NkFQVXpPMDRRZndQNUpCVjVWbXNyYjRKRjllSzRuTXltLVczNVJ0ampIRE9Yeko5MGNTYjhvSC1CWTdQdExncDFLUmkzZVllMA?oc=5",
           "description": "Ni Una Menos: decenas de mujeres se movilizaron en Montevideo contra todas las violencias &nbsp;&nbsp; ladiaria.com.uy",
           "pub_date": "2026-06-04T00:58:27+00:00",
+          "score": 3,
+          "score_reason": "Titular informativo con leve énfasis en movilización social.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Nunca perdió la sonrisa”: los emotivos mensajes por la muerte de Julieta Denevi",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVTRpc3RFOGVZTzBBNzJYdWI0Z0E1ZWlxMVhwdVlScjAyU2N4b2RLdEhLa011UUdaZmFiS1JaMVZyYmswMGFzMkFfVjc4TVg5dzgwRW9rVnRMRFdDSjdoX1gyWXF4dXc2ZjdVX0JidzNGNTJ3UmVjNHJ2d3dPVWhST1BrUGFEWmUxWmJ5bnQtYTdNV2NEOGVfRUwxcGpsZUpTblRHMzhzTkU3R0RDWEZfN2VjNkdpdWwxN2ZVNi1wM3NKQ0FjMk5NWNIB7AFBVV95cUxORTQwcFJaLVlHZFhsVy1Wa1QyMEJfS1l5eHdtZ1dqLVpVd0hrMGFCU2doblpSVHVGWE1Ga0VyLXpQeTVwWXNrVVktakpRVGZ1LUJzUXJEMG1vS29TdTA4YkV5OGU4YzhxVnhjbHFzeC1QOElOSjN6aE1qWTdrZnFiVkhDdWpKM1RlaTZNLVlVb3Bjd2wzSGRqYWlMb2JySGNyWjJQNlBFM1RIR0t6bWFxTmFzaGdid2k2YmRIT3hVNWFrOGJLTnRNS3FUNzJha2p3TXpBbzFua0VON1pfYnp3THZNMnhLUUlISW5Xdg?oc=5",
+          "description": "“Nunca perdió la sonrisa”: los emotivos mensajes por la muerte de Julieta Denevi &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-04T17:20:00+00:00",
+          "score": 7,
+          "score_reason": "Lenguaje emotivo y sensacionalista con citas entrecomilladas.",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Se registró una movilización de mujeres en Montevideo contra la violencia de género, organizada por Ni Una Menos. La noticia se vincula con la muerte de Julieta Denevi, caso que generó repercusiones públicas y emotivos mensajes de familiares y allegados. Los medios cubren el mismo acontecimiento desde ángulos distintos: uno enfatizando la protesta colectiva y otro focalizando en el impacto personal del fallecimiento.",
+        "coincidencias": [
+          "Ambos medios cubren un acontecimiento relacionado con violencia contra mujeres",
+          "Los dos refieren a la persona fallecida y sus consecuencias públicas",
+          "Ambos registran movilización o reacciones en la sociedad uruguaya"
+        ],
+        "diferencias": [
+          "La Diaria prioriza la acción colectiva y política; Portal enfatiza lo personal y emocional",
+          "La Diaria usa lenguaje neutral; Portal utiliza expresiones emotivas y testimoniales",
+          "La Diaria presenta la protesta como evento; Portal centra en el duelo individual"
+        ]
+      }
+    },
+    {
+      "id": "story_013",
+      "topic": "Orsi viajará al Mundial; IA predice desempeño Celeste",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Yamandú Orsi confirmó que viajará al Mundial para acompañar a la selección uruguaya",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdmFybDBEV2ZEenE4dGswNUdxNXBpMUdXZEUyWDBLRFMyNmxxYXJFVVd2bmdyQ3N5SXU0Y1pNZEVZSy1hbmF3UHROLS1mVm5SSUNlQ0hkU2ZQd3Z2WEdPMS1ST0VSNVE3YVFGUW14VkZuWm9ibk5DZHI2ajFvazZBR1VGb2t6RDMtRTZmLVBZZW82SHpXeWRzVnNZcTR5WE9Qc25HT1FvOHRMQW5JNThNLVJKNEFBQlppN2xDTWxQbnZKQ05GYW9sbXRjb9IB7wFBVV95cUxQdFc0ZXIzdElwMF9sR1RzNVVtWFgxMGNYR1F3aHhSdTFZMl9rR084N3JVQ0RMa3ZCSnpSSmdkSURTOHhOUVBzZkRHdlNzNHF3UDd2MGFRR1FXM2ZsZWdLMEs5TmRBamxVRGM0Y3BlLUZuemltX2ZEeW9jcmVQUXZTa29sTHNqX1Y2RTRSU09WUm9BNFFZWEdzZDQxWU1MRHZxTU41RjJ6SlpkM0RSdW1ENk5JZ1dNNXdQM19QdVdiaHdfXzhEdGt1blgxLXNrZWx2c0hzOWJYS2cyVlB0U0hLYUFOenRWdjlEOG5iWTJJNA?oc=5",
+          "description": "Yamandú Orsi confirmó que viajará al Mundial para acompañar a la selección uruguaya &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-04T22:58:00+00:00",
+          "score": 1,
+          "score_reason": "Informativo directo, sin carga emocional ni énfasis particular.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "¿Cómo le irá a la Celeste en el Mundial? Empresa uruguaya de tecnología se lo preguntó a la inteligencia artificial",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObHJJdEMtNklYeEI0RVgybURORi1UbzduaW5YaEtDVHBiUlpYMDBvT0YyTkY1MkY3WmpRNlk4cVBsTm5ORnIybXYzMGZIS1pWc2FGM1pMa1oyZE9ZZ0s0T1J5Z21oWEVrVC13bG1lZ0FoOXNCVVFISGlYZXAwb1ZHVmNZOHZUWVp1RUtxNDdQeXRuczRSY2w5RzdqWDJST2wxcVQwbjY3SjNZaWdiT2xEX3dKNDhYSWhtazNDOG9jOUw2cUx6RmVWcWt0aV80ZzhadllUeEJtVHTSAd4BQVVfeXFMT0F6UVRXSDR1bWY1RlIxT0NZTjU1MEs5RXJ1OWIwNm9TandDTWVHSW9HdTZxYkliTGZUZFFHR1VwSnMxdHdFYmxGaUxpNnFVTzBPWUwyWlkzS1lFUUxfcXExTmw4MGdiQ0x2dVhoTnVkVnNPQ09qTjNlMmRjalhYWlRTYUY0Y1duNEY3aThFTkJmTzdFT0ZmSmZGZ0FaX25KVXNzYkJWdVN1RldBLXhWOF9kbk1INUhVWjVvQ2ttcURkMDJfSUNKQXVSRlpja2luR1Y4OF9zeGFIT2x6N0R3?oc=5",
+          "description": "¿Cómo le irá a la Celeste en el Mundial? Empresa uruguaya de tecnología se lo preguntó a la inteligencia artificial &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-04T18:16:00+00:00",
+          "score": 4,
+          "score_reason": "Formato interrogativo genera curiosidad; enfatiza novedad tecnológica sobre noticia política.",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "Yamandú Orsi confirmó su asistencia al próximo Mundial para acompañar a la selección uruguaya. Simultáneamente, una empresa tecnológica uruguaya utilizó inteligencia artificial para realizar predicciones sobre el desempeño de la Celeste en la competencia. Ambas noticias reflejan el interés nacional en torno al torneo internacional.",
+        "coincidencias": [
+          "Existe interés mediático en el Mundial y la selección uruguaya",
+          "Se destacan aspectos novedosos relacionados con la competencia",
+          "Ambas noticias vinculan autoridades o actores uruguayos con el torneo"
+        ],
+        "diferencias": [
+          "Montevideo Portal prioriza la confirmación de Orsi; Subrayado enfatiza la predicción tecnológica",
+          "Uno presenta información política institucional; otro privilegia innovación tecnológica",
+          "Enfoques distintos: declaración versus expectativa/pronóstico del rendimiento deportivo"
+        ]
+      }
+    },
+    {
+      "id": "story_014",
+      "topic": "Conferencia de prensa de Peñarol previo a partido",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Nicolás Lodeiro y Agustín Rogel en conferencia de prensa: “el grupo está muy unido” | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTHdvWVkxcTljRmVaaGxLS29kNFhjZFpZVXl0S2JJY0J4dVBVVHlGd2xJajlrbDZtR3VZbGNta2NfTTRlZFZxNTZVaTBMU1BQS0RBQ1VJdG5NX2hRSFJNV3lya25EUG5hczZrU1F3X1dhOTJaOHZ1RFVkVGNlYnJyc0VKZS1BRUZEZ3NNQ3BHVTJhY2tWREZWRWRWdVBlTmVRdl8wSGJoS2JRQXZ1OGRfUnZBSzBuM3k3UWgyT2QyYmczZkxmR0E?oc=5",
+          "description": "Nicolás Lodeiro y Agustín Rogel en conferencia de prensa: “el grupo está muy unido” | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-06-04T14:40:03+00:00",
           "score": 2,
-          "score_reason": "Titular informativo, centrado en el evento principal sin sensacionalismos",
+          "score_reason": "Enfoque neutro, informativo, sin carga emocional ni sensacionalismo.",
           "score_pct": 20
         },
         {
@@ -1313,26 +947,330 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "“Gorda no es lo único que soy”: Evelyn Botto reveló su peso y cruzó a los haters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ0tEQ1pjemtwTXFaOGtpVWljZXZsWTl3andHYlRpMGlCQUMwS2dmRkxLazFXZjZVOXFHSHZjLVlzWm1UNGdBU3Vra0dzdWs0WGhBUzRRQVZuM2pJMHBidEhrWU4ySHV0RGpUQlpRamNrT1h0Z2w5RmpXaVgtOWlhX2o5d1NCa2hnc0xsc1AwcWJDVi1EWjhXcjJOZGFpNWE3RHYzRlNRTEkybzBmMFZqNHZIdXItbE9hUU43MGMyR21XUW8wMjdhONIB7AFBVV95cUxQczRIS0lpTExmYWU1akVlbGQ0Ui1waHRtczdnRGdkcWZqYzVNOEtiNTFBLWx5WHg5bWhLNGNkcEEyVXZWUFRTSk9BYjRrS2g5MENIcm5YQi1mTjh3ZzdhSnVscFp0QTF1UHFjc3ZZWGJYOTNxTjN0RVJPZndybnQ2QmRDQjYxNXA0VmhjR18tWklUUjdjZUVnZGJCd2lqZXp6NmdrVXhaTGlOZWN4YmhOeTNRNzQzUHlIeWJzMmJ1OVh6d2ZMYm90Z3FJcTd5SzN0UC1Vd1RMTGx6NFk0eXg0Qng3S04wWnZ5T3B1Zg?oc=5",
-          "description": "“Gorda no es lo único que soy”: Evelyn Botto reveló su peso y cruzó a los haters &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-03T20:06:00+00:00",
+          "title": "Peñarol: Ronaldo Conceição recordó el clima “complicado” en 2017 y “la mafia” de Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeTE3U2tmVjl0QVdOTGhpdEgwdW02UTFncHVhdE5ZNTdOVXZ0T2NzZVRFU2ZRR3htN3NKdkVlNTNybjl1bWxsTXNKUTRVYXVqTE1sT19aWXAyUk5PZ0NVWWNUYWdpdjUwLUNxQW5GNU9jS3BLd2M4ZEM2b1dQbEc2S1E4SGl1ak9zTzlNZFJORDlIMldNQUtldWktZDk2OEd3bDlfMWJMOGppeEFjSi1qYmRPNEhjdTJubzgwcjRZSHQtR1ZiZEJRa05HSdIB7wFBVV95cUxQMlFJQ2NHN3F5OW9XbE5aanI3eVBDSkN5UlhkYngzVGZuUWZ0TFpwemVpQVNMc2hYVnNmd05OWmRCem5RMVZGMVZUQ0VYZk1OZU1DX3hGVFRCZVRGLUZkcEY0dDNLVVJZYVlzbGo0YU8zNm9iRWN2a2ZFZ2J1Yk1RbUtMNnItUVVNX05rUmw0ZDBYVFhMZ2ZUMGNicmZ2TzhjWFdsdWdONXNsM2FPaV9hSGExYmhKc1FDalZMb1NrODFxQWlPWUJTclUxNzZ0TFNtdDNxY3NaRDdHbjluYk0zaldPUFdVMzZGUjk0cDhIYw?oc=5",
+          "description": "Peñarol: Ronaldo Conceição recordó el clima “complicado” en 2017 y “la mafia” de Uruguay &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-04T13:23:00+00:00",
           "score": 7,
-          "score_reason": "Sensacionalista, enfatiza lo personal sobre lo político, usa comillas dramáticas",
+          "score_reason": "Destaca declaraciones polémicas con lenguaje cargado y palabras entrecomilladas.",
           "score_pct": 70
         }
       ],
       "analysis": {
-        "resumen": "Se realizó una manifestación de mujeres en Montevideo bajo la convocatoria de Ni Una Menos, enfocada en la lucha contra todas las formas de violencia. Durante el acto, la activista Evelyn Botto abordó públicamente críticas sobre su apariencia física, reafirmando su identidad más allá de comentarios sobre su cuerpo. La movilización reunió a decenas de participantes en torno a reclamos por derechos y seguridad de las mujeres.",
+        "resumen": "Peñarol realizó una conferencia de prensa donde participaron jugadores como Nicolás Lodeiro y Agustín Rogel. El técnico Ronaldo Conceição se refirió al contexto actual del equipo y rememoró situaciones conflictivas del pasado, específicamente alusiones al año 2017. Los jugadores enfatizaron la unidad del grupo ante los desafíos presentes.",
         "coincidencias": [
-          "Ambos confirman que hubo movilización de mujeres en Montevideo",
-          "Ambos mencionan a Evelyn Botto como figura relevante del evento",
-          "Ambos reconocen que el evento ocurrió y tuvo participación"
+          "Peñarol realizó una conferencia de prensa con sus jugadores.",
+          "Participaron Nicolás Lodeiro y Agustín Rogel como voceros del equipo.",
+          "Se abordaron temas sobre la situación actual del club."
         ],
         "diferencias": [
-          "La Diaria prioriza el propósito político (lucha contra violencias), Portal enfatiza lo personal/anecdótico",
-          "La Diaria mantiene marco colectivo, Portal individualiza el relato en una persona",
-          "La Diaria usa lenguaje institucional, Portal apunta al drama y la confrontación"
+          "Montevideo Portal privilegia conflictos y declaraciones controvertidas del pasado.",
+          "El Espectador enfatiza la unidad grupal y mensaje positivo actual.",
+          "Tonos opuestos: alarmista versus institucional y constructivo."
+        ]
+      }
+    },
+    {
+      "id": "story_015",
+      "topic": "Suspensión de entrenamientos infantiles en Canelones",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "El reclamo de los clubes de baby fútbol por entrenamientos de la selección en Canelones",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNlg3Y2N3WWxveXp3OTNWMkdhVmlZc2FJSkowbjVoR2xJQXhVQWpVb0NGRVMxVGxBemQ4RmpjUS1renA2MVZUbFhGUWhWYmxYVWllS1c1ZjBWNENtbm0wWWVzalpLcE52S2xfdEh2Z21wWjRrLTF2d3RwR2d3enJCaGp6T1dNTFJHOHZNbS15UlRtYnJCU0JNM2NtbXFOWHFRTTVxTmNNM0RhVWNKWkF4WXM5SWEwdnpBc1phUUVFeFRSYTR1WGFidndBRHg2ZV950gH0AUFVX3lxTFBNOF9MNlBfNGlSek5KMTZBY01NNzRia1JtTzVTR3JkWXR3QVNtVkR1YlBNR0s0RERGUEJXLWpsQWxpZXUxalR1WWttVkZkbFRLUkdTS202UGxXMTdmX01NM240Zjk1YnhPaU1NaW4tVF9CemlGNjgtbVFSNzJYWWNXRFNkZ1E1WjhwY0xuUkJtd2FoMGk3cXZ1YmZDcGRQT2VCSzhqN05wUlJ0RzFiNnppWWgzNS1ibGRjWjh4Z3doQWVYVEJMcG9PeE9LYUtaeThKSUdsQWtRanpBVmRNNlZyOVB2RTBqY1pkN1Z5bTdNQTdNVmg?oc=5",
+          "description": "El reclamo de los clubes de baby fútbol por entrenamientos de la selección en Canelones &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-04T14:40:00+00:00",
+          "score": 4,
+          "score_reason": "Enfatiza reclamo sin mencionar causa específica (balaceras).",
+          "score_pct": 40
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Balaceras en Las Acacias obligaron a suspender una práctica de fútbol infantil de AUFI Peñarol",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMm8wdDgtcGlUWGJMV0VmTXdzeDJWWDdad3k3V05GYmJBTy1hTWdCSEZfMXMzM2IxdHlzbXRURkxaRV8wWkV0dEhWd0lxbXhndmNXRDN6TlRpa0F3R2J1V08xM2ZzaURDb2w1UE5oOXhKMEpmX0NzQkZzbDdFeUlEeHowVGZQTThLMGVGNzRkRWhyU3JDQzQ3NHBQOG1Xa3lHQmJkOG1RVExOclRBc1puV0w1ZElCOG9lalpuWUN30gHDAUFVX3lxTFBoRThNbDRYR2xwT3lZdFBvb2paSEFBaWt0cTFKS1pzV3VKREJPX045NHNjcHE4dE11UTM5eTBwLXJCRm9SNDdhSjcweVBCRWpibC1yeE12dVpCTEw4RUZFUGhqM3NEWVFjdWQ1NDN0YnY4Wmp6TjdRTnJKNFVPNzRXdlJoVHBpdEI0Z0MtdHVCbWpGV3ZTUWt2M3RYN3JySTUzNTNjdmlhaXljVWhOaDZDdl9JSDhXODFvaHZUQklFdHBUWQ?oc=5",
+          "description": "Balaceras en Las Acacias obligaron a suspender una práctica de fútbol infantil de AUFI Peñarol &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-04T13:43:00+00:00",
+          "score": 6,
+          "score_reason": "Destaca balaceras como elemento dramático; lenguaje más urgente y alarmista.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Una práctica de fútbol infantil de AUFI Peñarol en la zona de Las Acacias, Canelones, fue suspendida debido a balaceras registradas en el área. Los clubes de baby fútbol de la zona realizaron reclamos por la situación de inseguridad que impide el desarrollo normal de entrenamientos. El incidente refleja preocupaciones de instituciones deportivas locales respecto a las condiciones de seguridad para actividades infantiles.",
+        "coincidencias": [
+          "Ocurrió en zona de Canelones, específicamente Las Acacias.",
+          "Afectó práctica de fútbol infantil de AUFI Peñarol.",
+          "Estuvo relacionado con inseguridad que obligó suspensión."
+        ],
+        "diferencias": [
+          "Montevideo Portal prioriza el reclamo de clubes; Subrayado prioriza el evento de balaceras.",
+          "Subrayado es más directo sobre causa de suspensión; Portal la oculta en descripción.",
+          "Tono de Subrayado más urgente; Montevideo Portal más institucional y abstracto."
+        ]
+      }
+    },
+    {
+      "id": "story_016",
+      "topic": "Peñarol vence a Aguada en primera final de básquetbol",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Peñarol está 1-0 en las finales | Noticias | Básquetbol",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzQTJFVDhSMWRWX056T29mZWlaaloxVlJwQlgzR1dzMEJ3MUN2dFJ6N0pZOGMwMjIxeVdjNS14d0IzWVlNRUV3ekhjcTA0eThPM2ZiclRXWFBWbXY0OGkyendRRnNPUThSLTAxcE5sNUI2LUZLcUo3QnFRb29Xams?oc=5",
+          "description": "Peñarol está 1-0 en las finales | Noticias | Básquetbol &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-06-04T13:47:39+00:00",
+          "score": 1,
+          "score_reason": "Extremadamente neutral, solo consigna marcador parcial sin análisis.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "LUB: Peñarol dominó y derrotó a Aguada 99-82 en la primera final en el Antel Arena",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0VpUVhnRlhDSE1vb3RVRTh6d0FCeThWUnFZYm1WbEVJa051V3UyV1JtLTZubDBuSkxrbEh6WmphZmNkcE9XdkpDRzJobFJ1bm5CVkVQdEtfQXJ0OGpXYThBbFNKRTVHeHVZTnRBOFZweDdMbTEyWE9nVmNkRHM2R0tZSThfY29KUnJ5RHdtTG5HdnBLd25neXFBZ0IzZ2ZPVkNFdHlnZ2lBYm5DN2pVc3BFdlQ1dGszMnBMLXdzOVpaOWY4R2ZzatIB7AFBVV95cUxNbnNtdE1tXzNYSTI2dzBmWWMyYXVQTkptU2ZJdEIzVEdwZ2Y0NWozM2ZSS3Z2VjRIb3BleFNPYXA1cTdKWnR5WU5HZWdfejhQbm1OSTZMVmE5NnE0a2pTbkFuazcwa0lSaThjTWdCTzVleXYyekhPU3RzX1JXR2NLMmhjRGp5OERETTdPcFh5VXJmZFdNRWVIcnFpWVNFc3IyUk40TnNWZHdIa3ZjX21oaGt4Z2tNZ3d1Q2hCa1BIY3lhV0Z5SlV4V1I0WWlCeEZnaTNWb0I2QjhJUFdfT2lBMWpHZENpUlBpd1ZJTQ?oc=5",
+          "description": "LUB: Peñarol dominó y derrotó a Aguada 99-82 en la primera final en el Antel Arena &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-04T02:16:00+00:00",
+          "score": 2,
+          "score_reason": "Describe hechos objetivos: resultado, diferencia, lugar, equipo ganador.",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Peñarol se impuso a Aguada 99-82 en el primer partido de la final de la Liga Uruguaya de Básquetbol, disputado en el Antel Arena. El equipo carbonero dominó el encuentro de manera clara, logrando una ventaja de 17 puntos que resultó determinante. Con esta victoria, Peñarol toma ventaja 1-0 en la serie de finales que definirá al campeón de esta temporada.",
+        "coincidencias": [
+          "Peñarol fue el equipo ganador del primer partido",
+          "Se trata de la primera final en el Antel Arena",
+          "Peñarol lidera la serie 1-0"
+        ],
+        "diferencias": [
+          "Montevideo Portal destaca el dominio de Peñarol; El Espectador es más minimalista",
+          "Montevideo Portal especifica el marcador exacto; El Espectador solo menciona ventaja",
+          "Montevideo Portal ofrece más contexto del partido; El Espectador es sumamente conciso"
+        ]
+      }
+    },
+    {
+      "id": "story_017",
+      "topic": "Selección uruguaya y economía laboral nacional",
+      "category": "Otro",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Selección uruguaya se despedirá del público con prácticas abiertas: dónde y cómo asistir",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM3liY1hZVk9wdnN6VXd3enRwS2ZmbHRHTE05WnNGN01vR0EzWENnX3c2S20tbEc3bmRhcWl6TElqUHZLd3VkNlpFQXVuZHNhU0I5NVhOSE8wd1V3ZkRELWl2N2ZJUFZzYURwRkFuVk9mNUtpN2RLcWg5cnhvajZjd1p5YzFWMXpmSmdSUVlwSmhHR2ozbzhFVzUyRGJSbkdGOXFtZ0xEcGlDWERGZVg1VTlwVmRPbVcwQU1NUW1CNVhIOEdPQlZTOEw1X1hoX3ph0gH0AUFVX3lxTE1Iay0yMWlUWWxwUmpkVlJZaUhnWmZ5R3dVTmN4Ty01djlhS2R2UDlxTnBkZ0lxTGFFd0Rva2ZYR05Za1BBWXZPeU13dzRqd2VrZ3RnTG1VZ2JEcmxIUk04bjE3eGFOc1Q5ZzFCRG9UZjlFVVc0ay0xZ3dHQ1pWTEtmZm0yc0d3alZzVXZ3YkNWUmVXU1M3TllZUFlnNks5d2FaTUFmNXJMdy1zdHVuZnMxaXByZUpHWW52bW5Gc296ejJGWndhOWxoc3dNTmZqR2E2bFRaLThPVmFjTlphTlFGQ194ZEswNndxT1RnZjJCSkt5Skc?oc=5",
+          "description": "Selección uruguaya se despedirá del público con prácticas abiertas: dónde y cómo asistir &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-04T14:13:00+00:00",
+          "score": 1,
+          "score_reason": "Informativo puro, sin carga emocional ni énfasis tendencioso.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "La tasa patronal en Uruguay es de las más bajas en la región y el mundo, señala el BPS",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdnotZ1BBejlwU2xKQWNKZEp1SDV2TWpmbnpuLVVIUnBmaXgzYVZBVUVYWWR3RzVXU1BaNjVJR2ZfZklZX2F5TE9QeWlaUUo2dW82di04WkJXek9GR0lBcFlNUWRQUjk4aTh5SXhxYkgwOE8xbExfWjRNZVE4NF9VMkZzUDlBZ2Y0YkNSYWVjZXJzcDd4YXV4b2xsWWRfM0pLZTV1TDVTWnZ6Tlh3aEt1OVI4RWFwN05KY0tuU3lKbw?oc=5",
+          "description": "La tasa patronal en Uruguay es de las más bajas en la región y el mundo, señala el BPS &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-06-04T05:04:00+00:00",
+          "score": 2,
+          "score_reason": "Hechos objetivos del BPS, mínima interpretación, tono neutral.",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Se presentan dos noticias sin relación aparente. Una sobre la Selección uruguaya de fútbol que realizará prácticas abiertas al público como despedida, informando sobre lugar y modalidad de asistencia. La otra refiere a un análisis del BPS sobre tasas patronales en Uruguay, señalando que se encuentran entre las más bajas comparativamente en la región y a nivel global.",
+        "coincidencias": [
+          "No hay coincidencias aplicables: se trata de dos noticias completamente distintas."
+        ],
+        "diferencias": [
+          "Montevideo Portal cubre deportes locales; Búsqueda aborda economía y política laboral.",
+          "El primer medio se enfoca en entretenimiento público; el segundo en análisis estructural.",
+          "Diferencia de géneros: uno informativo de agenda, otro de análisis comparativo."
+        ]
+      }
+    },
+    {
+      "id": "story_018",
+      "topic": "Moratorio expresa determinación y gratitud por apoyo",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Gonzalo Moratorio sobre el apoyo de la gente: \"Nunca esperé una muestra de afecto tan significativa\"",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTDRYUTc5NWhMaUJ5WWdQd3JUQ1I4SFpPNGppYTZZckVNT2FoXzhRbWcybmdTMzI2ZnZfYTZYMFFlNXZJWlE0dkcwNHRfS1N3VWpDN25NTEE1OVJGOXdjOE9JSDNwVGczdG5Tcmg4TzJjZlZvVnFRcXQxNG9FOEdwR3RPTjExV3ktWXhBaHNrRzlFbVNyNGFHQnBTU01Zbkdvdm5NR3R0Yzl2TVlsSlZleUE5SmxuQjRnbkNxWHFQZWHSAcYBQVVfeXFMTmh1TU83WGZ6SDZjVVp2d3N0a3QySWJCMHQ4R2daT0tWeTI4WDlkNGYyUWh6UWZ4dnptdlBWUXMyRUVvSkU1bUJ2MzdscG1MVlhWQWlTUS05SFhTODFQdGF1bDR4ckJKa21LY01xT3VKd2hkM1F5R1BZV0xZY1gzWDNiOERUUW5ZUHlhbnlMZDhvQlJmQWRFTlhlZllkTXl2NU03UTJadXBNOU9Id1hrUWNNMDlKSFZCM2JmLVN1ckRJRDNhUklB?oc=5",
+          "description": "Gonzalo Moratorio sobre el apoyo de la gente: \"Nunca esperé una muestra de afecto tan significativa\" &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-04T22:25:00+00:00",
+          "score": 4,
+          "score_reason": "Enfatiza aspecto emocional positivo; leve carga afectiva sin sesgo claro.",
+          "score_pct": 40
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Moratorio: “Sé perfectamente contra qué estoy peleando, no lo vivo desde la ingenuidad”",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ0lBN2NOcm1RekhxYWdScHVJWHZaRzlNQmoxenE0cHhIX0lIYlZweVhsTEVkUXowSnZnN2pyWmRoLWtoaURFRFpMeTMwcmpUQUh3NDlXcmg3VENGT3lqTnFsVjZkYzB6UWttdDZsSFNla045NFlZRTlqeUZBR1dEV1dULTNGeGU4eFFiUkdEYzJrSzhfSEJqaGlHUDFTV2RQM1FPNVU5aHRFbnFFdnhoaGdzeHNxbUcwblRoWEV2YWpEWkhKZG9aRU4tZVVsUdIB8gFBVV95cUxNWW9tXzMzVEVsa3d6SEQ0VXNEWEZuaXc2bjhmSUpDcGlWVHQ1MkFqYWpGcndJR3ZHQm1tc0JyRW1DMWlFS0hfVWZQUWN2Szl2bUNBNk1rNXBpWjJGUlNvbmprdGRqU2ltUklXZVgxUUJ3Vk5KMUt0bUJ3bWZHQnZpeFRmQVd0YkVOUjVsd2VEQzJUeDBGaEpJd1NZakNrVi1wekNsVmx0UGhxN2lILUY4WEpEbW4zT0U0MXNMVlJyX0M5bUhGQXFkOXAycGlhN3B6WTdLbFQtMzNTd1dGenk4VXA5ZjRpTWNmby1iZkRtMlg3Zw?oc=5",
+          "description": "Moratorio: “Sé perfectamente contra qué estoy peleando, no lo vivo desde la ingenuidad” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-04T21:30:00+00:00",
+          "score": 5,
+          "score_reason": "Destaca decisión y convicción; incluye defensa implícita de Moratorio.",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "Gonzalo Moratorio, figura política uruguaya, se refirió públicamente a su posicionamiento y a la respuesta que ha recibido de la ciudadanía. En sus declaraciones, enfatizó su convicción sobre los objetivos que persigue, rechazando actuar desde la ingenuidad. Simultáneamente, expresó sorpresa positiva ante la magnitud del apoyo y demostración de afecto que ha experimentado de parte del público. Estas manifestaciones reflejan tanto su seguridad respecto a su línea de acción como su gratitud hacia quienes lo respaldan.",
+        "coincidencias": [
+          "Ambos medios reportan declaraciones directas de Moratorio.",
+          "Presentan aspectos complementarios del mismo acto o conferencia.",
+          "Utilizan comillas directas de la fuente sin editorializar."
+        ],
+        "diferencias": [
+          "Montevideo Portal subraya fortaleza y claridad ideológica; Subrayado destaca sorpresa y gratitud emocional.",
+          "Portal enfatiza el 'contra qué lucha'; Subrayado enfatiza el 'apoyo recibido'.",
+          "Portal tiene tono más combativo; Subrayado tiene tono más afectuoso y positivo."
+        ]
+      }
+    },
+    {
+      "id": "story_019",
+      "topic": "IMM obtiene fondos extrapresupuestales de organismos multilaterales",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "IMM logró luz verde de la Junta Departamental y accederá a fondos extrapresupuestales para limpieza, saneamiento, veredas y calles",
+          "url": "https://www.teledoce.com/telemundo/nacionales/imm-logro-luz-verde-de-la-junta-departamental-y-accedera-a-fondos-extrapresupuestales-para-limpieza-saneamiento-veredas-y-calles/",
+          "description": "En concreto, a través del financiamiento de organismos multilaterales se obtendrán USD50 millones para mejoras en el sistema de recolección de basura y USD130 para apuntalar y ampliar obras sanitarias de la capital. La entrada IMM logró luz verde de la Junta Departamental y accederá a fondos extrapresupuestales para limpieza, saneamiento, veredas y calles se publicó primero en Teledoce.com .",
+          "pub_date": "2026-06-05T09:43:46+00:00",
+          "score": 2,
+          "score_reason": "Titula la aprobación como logro sin carga negativa ni énfasis en recortes.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Junta vota fideicomiso extrapresupuestal: aumentó monto para saneamiento y se redujo el de veredas, calles y limpieza",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR3NheEhOY3MxSmxuU3phLU5YU1F3RlFCYUdpOGZQWFNLSDNIMGIxN0FTVEk2UnFnekxMaVkzb255emRFcFBrTkduUWZ0WlFfZDdXdUV1YjQyRXRobTVjLXY5ZXR1WmtsQ244Uy0tTzd1TWwzUFVCLXZkanpHRm5ORTRBRXdmeloxcjlTLWI4ekZocXhkbUZtTXJYdUxraHg0U0J4aGxBeERVZ1dPQ2toWmFIY1JYeHRuQkVIUks5eWx2UjViRVh0dzRMNzBFWjVnNXBBQThtVG5DVWxsWHfSAeMBQVVfeXFMT1N1bUVqd2QyUlVZbkZLbl92VnlhcklvbjBiWHRoN3dEU0txUmpDN1Mxa0wxaGtoTEFVMHdDNEprOWlnUDk3OUkxbjRkNXlGdkc5QzA4LU1fU0wxLU9HNTZ6VG9lSXZ1SkJGeG5pU0RtNkRCMmlKUHhERUxGOGtoVDhfZGdzeTY3T1JkSXdCa1Mwb0dwZ2R4M1V1NzlnVEZSdkVjOEVsTmZDWnNlWjk3NzlSSDVYMjlxRzlidTZvclJUZHdRMnlrVnNPM0xHVFdQUWRJRGlYVVdnNmY2aEFBVlZzQUU?oc=5",
+          "description": "Junta vota fideicomiso extrapresupuestal: aumentó monto para saneamiento y se redujo el de veredas, calles y limpieza &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-04T21:14:00+00:00",
+          "score": 4,
+          "score_reason": "Enfatiza redistribuciones presupuestales con lenguaje neutral pero selectivo.",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "La Junta Departamental de Montevideo aprobó un fideicomiso extrapresupuestal que permite a la Intendencia Municipal acceder a USD 180 millones en financiamiento de organismos multilaterales. Los recursos se destinan a mejorar sistemas de recolección de basura (USD 50 millones) y obras sanitarias (USD 130 millones). La votación implicó redistribuciones presupuestales: aumentó la asignación para saneamiento y se redujeron fondos destinados a veredas, calles y limpieza.",
+        "coincidencias": [
+          "La Junta Departamental aprobó un fideicomiso extrapresupuestal",
+          "Los fondos provienen de organismos multilaterales internacionales",
+          "Se destinan recursos a limpieza, saneamiento, veredas y calles"
+        ],
+        "diferencias": [
+          "Subrayado destaca las redistribuciones internas y reducciones; Teledoce enfatiza el logro de obtención de fondos",
+          "Teledoce especifica montos de USD 50 y USD 130 millones; Subrayado no detalla cifras",
+          "Subrayado usa tono neutral-crítico; Teledoce usa tono positivo con palabra 'logró'"
+        ]
+      }
+    },
+    {
+      "id": "story_020",
+      "topic": "Regulación de cultivo de cannabis en Uruguay",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "La industria farmacéutica, dinámica pero de escaso desarrollo, espera dar el salto con la reguladora",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVkt1VUp4b2NuOHdVcTFFTjRtZmpjWnFNdVVZOExSM0F5b3dWNE9zY3d3S0d4U2JsTEpiMDFIS1lFMnlIZUUxcnd4YTAtdVNMZVR6a2taQnI5RDVKUXYyUjFMZzJrZ0R0S2tpbTVuZU5kZlc2Q3NiOVpKN2VTZVEyWUNHY3VzaFkzMkY2c3lfRVBOQzJHaTBHejhILWU0bEcyRFVzN3pqZGw1aHFHM1F3cDJlN1ZoNHJtb1cwbEMwLTdFaTlFbmxvR1haandkQWZqb3RwVkQ5cw?oc=5",
+          "description": "La industria farmacéutica, dinámica pero de escaso desarrollo, espera dar el salto con la reguladora &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-06-04T04:30:00+00:00",
+          "score": 3,
+          "score_reason": "Descriptivo; enfatiza potencial sin carga emocional significativa.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Estrategia de Drogas: cultivadores afirman que el gobierno \"se la jugó\"",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUpBV0NmLXRtQjAtMU9EdGRfQUJKRXFMdWRGbXo1Yl9jUlEwUkUwa3VVeklzTDRSemQyeHJrb2xfVkJkN1V0RjVwaVVJNkNoOHc2YXM4ZERzNUFUaDFZRlZ6d1VjR2ZNLUtnbGtqMmpFRHk0MGk5bkdRNmVLMFNhM1dHNVZRWkdHaG1xMFM3Qm1xQ0NfTFFSQ1VNdHpINGJBd2daTW5SUnlHYXVzRmhhdnUwUFjSAboBQVVfeXFMTlJycElibnJaUDdFYkg1SlVQNUdIWDJ4eXNZU1E3Y1Q0WjNsdFJuX3YzeWoxaTFUV3R1ZE9KeXNLUHVfeHpUVFFCaENtbWxUQ2xSclV2V3F1RVFUa0NLM0RxbXp0cVdVazlaX0tzbExxWlV5R2dZamhlTUlWUkV0cExxOU93ZXZGN244LU1ZMGJGb3hibjlBWXM4bGw1dUY0QVIxMjM0bVpnQ0x5MzJlSUo3S050YWVGd0VR?oc=5",
+          "description": "Estrategia de Drogas: cultivadores afirman que el gobierno \"se la jugó\" &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-06-04T17:03:00+00:00",
+          "score": 6,
+          "score_reason": "Usa expresión coloquial que sugiere riesgo; tono de apuesta arriesgada.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "El gobierno uruguayo implementó una estrategia de regulación para el cultivo de cannabis. Los cultivadores evalúan los resultados de esta política, mientras que la industria farmacéutica ve oportunidades de desarrollo con la nueva reguladora. La medida busca formalizar un sector que operaba en la informalidad, generando expectativas tanto en productores como en empresas del ramo farmacéutico interesadas en participar.",
+        "coincidencias": [
+          "Existe una estrategia gubernamental de regulación del cultivo de cannabis.",
+          "El sector tiene expectativas sobre el resultado de esta política.",
+          "Se abren oportunidades económicas en torno a la regulación."
+        ],
+        "diferencias": [
+          "Caras y Caretas enfatiza el riesgo de la estrategia desde la perspectiva de cultivadores.",
+          "Búsqueda enfatiza el potencial de desarrollo y dinamismo de la industria farmacéutica.",
+          "Caras y Caretas usa lenguaje coloquial; Búsqueda adopta tono más corporativo y economicista."
         ]
       }
     }
