@@ -171,7 +171,7 @@ SOURCES = {
 LOOKBACK_HOURS = 36
 
 # Max story groups to analyze with Claude (controls API cost)
-MAX_STORIES_PER_RUN = 20
+MAX_STORIES_PER_RUN = 12
 
 # Clustering similarity threshold (0-1). Higher = stricter grouping.
 CLUSTER_THRESHOLD = 0.70
