@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-07T21:49:39.685456",
+  "generated_at": "2026-06-07T22:00:54.385705",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Actualidad deportiva de selecciones uruguayas",
+      "topic": "Actividad deportiva de selecciones uruguayas previo a competencias",
       "category": "Deportes",
       "sources_count": 3,
       "headlines": [
@@ -19,7 +19,7 @@
           "description": "Rugby seven: Uruguay cerró último sin victorias en Bordeaux y descendió a segunda división &nbsp;&nbsp; Montevideo Portal",
           "pub_date": "2026-06-07T11:18:00+00:00",
           "score": 1,
-          "score_reason": "Neutral, expone hechos concretos sobre resultado del rugby",
+          "score_reason": "Objetivo, presenta hechos concretos del resultado deportivo sin carga",
           "score_pct": 10
         },
         {
@@ -34,7 +34,7 @@
           "description": "Uruguay escaló en el Ranking FIFA pese a no jugar amistosos antes del Mundial 2026: la razón y en qué puesto está &nbsp;&nbsp; EL PAÍS Uruguay",
           "pub_date": "2026-06-06T21:51:06+00:00",
           "score": 2,
-          "score_reason": "Informativo, explica causas del ascenso en ranking FIFA",
+          "score_reason": "Informativo, explica la situación del ranking sin sensacionalismo",
           "score_pct": 20
         },
         {
@@ -49,27 +49,27 @@
           "description": "Última parada antes del Mundial: la selección uruguaya hizo su segunda despedida en Canelones &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-06-06T13:40:00+00:00",
           "score": 2,
-          "score_reason": "Descriptivo del evento de despedida en Canelones",
+          "score_reason": "Descriptivo y neutral sobre el evento de despedida",
           "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "La selección uruguaya de fútbol ascendió posiciones en el Ranking FIFA sin disputar partidos amistosos previos al Mundial 2026, mientras la selección realizó una segunda despedida de sus hinchas en Canelones antes de viajar al torneo. Paralelamente, la selección uruguaya de rugby seven finalizó sin victorias en el torneo de Bordeaux y descendió a la segunda división del circuito mundial. Los tres medios informaron sobre situaciones diferentes de las selecciones nacionales en sus respectivas disciplinas deportivas.",
+        "resumen": "La selección uruguaya de fútbol ascendió posiciones en el Ranking FIFA sin disputar partidos amistosos, mientras se prepara para el Mundial 2026. El equipo realizó una despedida en Canelones antes de viajar a la competencia. Por otro lado, la selección uruguaya de rugby seven finalizó en el último lugar sin lograr victorias en el torneo de Bordeaux, lo que resultó en su descenso a la segunda división de la Serie Mundial.",
         "coincidencias": [
-          "Los tres medios cubren noticias deportivas de selecciones uruguayas",
-          "Todos informan sobre acontecimientos previos a competencias internacionales",
-          "Ninguno presenta editorializaciones o posturas políticas"
+          "Informan sobre actividades de selecciones uruguayas",
+          "Mencionan competencias internacionales próximas o recientes",
+          "Reportan situaciones deportivas relevantes para Uruguay"
         ],
         "diferencias": [
-          "El País enfoca en el ranking FIFA y situación pre-Mundial de fútbol",
-          "Montevideo Portal destaca el descenso del rugby seven uruguayo",
-          "Subrayado cubre el evento de despedida de la selección en Canelones"
+          "El País se enfoca en el ranking FIFA de fútbol",
+          "Montevideo Portal cubre el descenso del rugby seven",
+          "Subrayado reporta el evento de despedida de la selección de fútbol"
         ]
       }
     },
     {
       "id": "story_002",
-      "topic": "Orsi reconsiderando su viaje al Mundial",
+      "topic": "Orsi evalúa no asistir al Mundial de fútbol",
       "category": "Política",
       "sources_count": 3,
       "headlines": [
@@ -84,9 +84,9 @@
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZW0yOHNUWTJpVDd5TDBiNHhzMWNzMF8wOXhHVVAtSVhrbU5ZYWZEanhXSmVQV1dvN2hneHhuWHQ4dXQ0SUZ4S1FRY1RabXMwSGJITHVfbHMtcHpxaU5qMnJ3MGpkU0pCRmtuZGRockRHTEtvcW5xRHYtQXdaLWVydDdNOVNqbWN3UXhPN3IxcTQ1VUJ2dWJJdjNSS3lIc2ZfSnNyUkpiLWpPS1hadndVblk1UlNldjVjOUVrcVd3MGtZQ2RBZFJFMUloelJkcmFMdnpr0gH3AUFVX3lxTE5JMkJ3MjB1VVdHYU1USmYtNEo4YlREeUtZbE9sTnRtcFpESlJPUzdyV1VTUE1KM1FmUWVhWWhVeGZuVG1EdUJESTNCY1RLVWJJdkVuSEZnZlhfbEhpMm1Kd1k1WXNkM3p6VktkUlNfZ0hGY0lNck1oWUNNR2Z1QnZxSmp5SkF2ZGREazc3MmpwZ3VGU296VGt2OWpkMHhMaWlPajhpWi1PUTNkNTJQcXpneVVOMVZ6bmJKNUVWaUNUUFZvdW5oS0ZpNGx0dWtxcDVSTFpQNGdKUEJjNEMtdW5SdDBEMVJ1Mllnb1pSdEJiYnQ3WmdSNk0?oc=5",
           "description": "“Les dije a los jugadores que me guardo para la final”: Orsi no irá al Mundial salvo gesta &nbsp;&nbsp; Montevideo Portal",
           "pub_date": "2026-06-06T18:55:00+00:00",
-          "score": 2,
-          "score_reason": "Cita directa, informativo, con leve tono editorial en selección",
-          "score_pct": 20
+          "score": 3,
+          "score_reason": "Usa cita directa con leve tono humorístico pero informativo",
+          "score_pct": 30
         },
         {
           "source_id": "subrayado",
@@ -100,7 +100,7 @@
           "description": "\"Hoy me levanté reconsiderando\": Orsi dijo que se está \"cuestionando\" si viaja o no a ver a Uruguay al Mundial &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-06-06T18:08:00+00:00",
           "score": 4,
-          "score_reason": "Enfatiza indecisión mediante comillas, moderadamente sugestivo",
+          "score_reason": "Destaca indecisión mediante citas que sugieren vacilación continua",
           "score_pct": 40
         },
         {
@@ -115,27 +115,27 @@
           "description": "\"Estoy más para no ir\": los \"dolores de cabeza\" a resolver que alejan a Yamandú Orsi del Mundial &nbsp;&nbsp; EL PAÍS Uruguay",
           "pub_date": "2026-06-06T14:50:38+00:00",
           "score": 5,
-          "score_reason": "Uso de 'dolores de cabeza' añade dramatismo innecesario",
+          "score_reason": "Énfasis en aspectos negativos con término \"dolores de cabeza\"",
           "score_pct": 50
         }
       ],
       "analysis": {
-        "resumen": "El presidente electo Yamandú Orsi manifestó que está reconsiderando su posibilidad de viajar a Estados Unidos para presenciar partidos de Uruguay en el Mundial. Orsi habría comentado a jugadores de la selección que se guarda para una eventual final, indicando que está más inclinado a no asistir en la fase inicial del torneo. El mandatario electo argumentó que enfrenta diversos asuntos pendientes de resolver antes de asumir la presidencia. No obstante, dejó abierta la posibilidad de viajar si Uruguay alcanza instancias finales. La decisión refleja el balance entre sus responsabilidades institucionales próximas y su conocido interés por el fútbol.",
+        "resumen": "El presidente electo Yamandú Orsi manifestó que está reconsiderando su asistencia al Mundial de fútbol. Orsi declaró que tiene \"dolores de cabeza\" por resolver en la transición de gobierno y que inicialmente estaba más inclinado a no viajar. Según expresó en declaraciones públicas, le comentó a jugadores de la selección uruguaya que se reservaría para una eventual final. Sin embargo, reconoció que el mismo día se levantó cuestionándose la decisión. La posibilidad de que Uruguay llegue a instancias finales del torneo podría modificar su postura sobre el viaje.",
         "coincidencias": [
-          "Orsi está reconsiderando su asistencia al Mundial",
-          "Existe la posibilidad de que viaje si Uruguay llega lejos",
-          "Orsi ha manifestado tener asuntos pendientes por resolver"
+          "Orsi está reconsiderando su viaje al Mundial",
+          "El presidente electo tiene tareas de transición pendientes",
+          "Existe posibilidad de asistir si Uruguay llega a final"
         ],
         "diferencias": [
-          "El País enfatiza los problemas a resolver que lo alejan del viaje",
-          "Montevideo Portal destaca la frase sobre guardarse para la final",
-          "Subrayado resalta la indecisión y el cuestionamiento del presidente electo"
+          "El País enfatiza los problemas que lo alejan del viaje",
+          "Montevideo Portal destaca el tono humorístico y deportivo del mensaje",
+          "Subrayado resalta la indecisión y cambios de opinión del presidente electo"
         ]
       }
     },
     {
       "id": "story_003",
-      "topic": "Empate 1-1 entre Central Español y Racing",
+      "topic": "Primera fecha Liga de Ascenso de básquet",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
@@ -146,14 +146,49 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Intermedio: Central Español y Racing están empatando sin goles en el Parque Palermo",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0JNUmlLcV9CUlRCZkJES3FvUnpIWFJMRnFNYTJoU290SjcyVTZXWWFIOGU3TG5YdnBGdWFHdmFPVHFMZUQxWkpORy16UEhMakU4N3dTVXRxdV84V0ZCa2FIVzE5RFd3ay1JWmdEdFUybm12eE83RDBQbURiRE1xOUIyTEFvdHNPSzRjQVNRejN4anJmTUp1TUtZYkRXRWhkcmJRdl9xQUpXaWZaQWVQQll2Q2RsVlJOcGYwWjN6blRGY253ZWRMbkdB?oc=5",
-          "description": "Intermedio: Central Español y Racing están empatando sin goles en el Parque Palermo &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-06T13:00:00+00:00",
-          "score": 0,
-          "score_reason": "Información neutral del resultado parcial al entretiempo del partido",
-          "score_pct": 0
+          "title": "Básquet: Tabaré, Albatros y Olivol Mundial ganaron por la primera fecha de Liga de Ascenso",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObjNpS2xXeXlPMlRyOXFBdWJLbDBWNGx1WHNTczgxMm53OWxITllNcEdGVWdINlA0dEZURjJQWHgxN2ZZTzRKdDNXZXhndFc3V1RTYXd6SFJSOXFUSnZUZ0w0blBydjBRSnlESnNXT3QtUjd1dkpSbTdSRElxZTdGRnNaS1dhd3l4WjRmUmdfYWNRWHFjU3ZFZjhIN09NQ3RQcTVjalYycDVkUWpzU1hHNEhPbFJnZGhsQ2dMMWVCeHNOYUxZWWRRa2VaMEl5c0twU3c?oc=5",
+          "description": "Básquet: Tabaré, Albatros y Olivol Mundial ganaron por la primera fecha de Liga de Ascenso &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-06T11:45:00+00:00",
+          "score": 1,
+          "score_reason": "Titular informativo y neutral que presenta los hechos objetivamente",
+          "score_pct": 10
         },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Tabaré, Albatros y Olivol Mundial ganaron por la primera fecha de Liga de Ascenso | Noticias | Básquetbol",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3NyOW9XUWNlRHBCOVRYa3lHU1htV3EwbGFFdEp3RG5NcUVZTGkzZWF2cXpuREN1OTRXNVNkNnBuNlQ4NHJyYTM2SlJnbl9hZUYwVkxNekE5M0JoejMtRHN1Z0ZndEt5c3Q0QlBZX2hyY2ZENUtSMFUzdnRsWERVOWNBcWY0akx4Q2RRdmx4ay1ZZkZzSkRpclJfQ1NINjVlbGplVXNKZ3hEdExkOUxUR0NpMC1EeFNBV284Sm9iNFY?oc=5",
+          "description": "Tabaré, Albatros y Olivol Mundial ganaron por la primera fecha de Liga de Ascenso | Noticias | Básquetbol &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-06-06T12:49:00+00:00",
+          "score": 1,
+          "score_reason": "Información objetiva sin valoraciones ni carga emocional adicional",
+          "score_pct": 10
+        }
+      ],
+      "analysis": {
+        "resumen": "En la primera fecha de la Liga de Ascenso de básquetbol uruguayo, tres equipos obtuvieron victorias. Tabaré, Albatros y Olivol Mundial se impusieron en sus respectivos encuentros inaugurales del torneo. La Liga de Ascenso constituye la segunda categoría del básquetbol nacional, cuyo objetivo es promover equipos a la Liga Uruguaya de Básquetbol (LUB). Los resultados marcan el inicio de la competencia que definirá qué equipos tendrán posibilidades de ascender de categoría al finalizar el certamen.",
+        "coincidencias": [
+          "Tabaré, Albatros y Olivol Mundial ganaron sus partidos",
+          "Se trata de la primera fecha de la Liga de Ascenso",
+          "Información básica sin análisis ni interpretación"
+        ],
+        "diferencias": [
+          "Montevideo Portal presenta el titular sin etiquetas adicionales",
+          "El Espectador agrega categorización específica (Noticias | Básquetbol)"
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Central Español empató con Racing en el Palermo",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
         {
           "source_id": "espectador",
           "source_name": "El Espectador",
@@ -165,29 +200,44 @@
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWtjeWdPRDBoUnBNTzJ1amE2UTFXc3FIM043aVpiVVJJekp3RGVGemVPSVVzMktaNGszY3VZWURLbTJRcndDLVN2V2ZTNThFQ3puMkJUeFVadHdKajA2VUFfWjV3SDhTRm5TSFlWX252TWlQUnlkZTg4Nk5WVklrN3h2c0tSRkV5enNCVzVGSW4ycVRNbVNici1kaWRzUFU?oc=5",
           "description": "Central Español empató 1-1 con Racing en el Palermo | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
           "pub_date": "2026-06-06T17:25:44+00:00",
-          "score": 0,
-          "score_reason": "Reporta objetivamente el resultado final sin valoraciones ni sesgos",
-          "score_pct": 0
+          "score": 1,
+          "score_reason": "Titular puramente descriptivo del resultado sin valoraciones adicionales",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Intermedio: Central Español, con un jugador menos, empató 1-1 con Racing en el Palermo",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTmZpSWwxb0x3NnBjb3ZMWEhnRXpnbTh3d25MeFR6YTVFUWY2UUZ3ckdTRTl6YXJIdl8wV2ZfYTZ0cWRwbXlpcU8yNVo2Zm5KR2NWOHJnUXhJUlRRRHFyZnlRTTZTcGJSd0JIc2k0MjNKZXJvbnJqU2NmX09Kbk1ZTmhZX0NibnlIWldrZWJDNDV1b1l2SVdNd3kzdVhNZWs3VjZhcURhcWI3MWtSWlBfWWZmYnNHMTVtS01xQktrOTM1MU5ZR3Zuc1hjYw?oc=5",
+          "description": "Intermedio: Central Español, con un jugador menos, empató 1-1 con Racing en el Palermo &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-06T15:00:00+00:00",
+          "score": 2,
+          "score_reason": "Agrega contexto relevante sobre la inferioridad numérica del equipo",
+          "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "Central Español y Racing empataron 1-1 en un partido disputado en el Parque Palermo. El encuentro correspondiente al fútbol uruguayo finalizó con ese resultado. Montevideo Portal había informado durante el entretiempo que el marcador estaba 0-0, mientras que El Espectador reportó el resultado final del cotejo. El partido se desarrolló en la cancha de Central Español ubicada en el barrio Palermo de Montevideo. Ambos equipos sumaron un punto en la tabla de posiciones del campeonato uruguayo.",
+        "resumen": "Central Español y Racing empataron 1-1 en partido disputado en el estadio Palermo. El encuentro correspondió al torneo de fútbol uruguayo. Central Español jugó parte del partido con un jugador menos por expulsión. El resultado permite a ambos equipos sumar un punto en la tabla de posiciones del campeonato.",
         "coincidencias": [
-          "Ambos medios informan sobre el mismo partido en Parque Palermo",
-          "Los dos mencionan a Central Español y Racing como protagonistas",
-          "Coinciden en la ubicación del encuentro deportivo"
+          "El resultado final fue empate 1-1",
+          "El partido se disputó en el estadio Palermo",
+          "Los equipos enfrentados fueron Central Español y Racing"
         ],
         "diferencias": [
-          "Montevideo Portal informa el resultado al entretiempo (0-0), El Espectador el final (1-1)",
-          "Diferente momento temporal de la cobertura del mismo evento deportivo",
-          "El Espectador brinda el resultado definitivo, Montevideo Portal solo parcial"
+          "Montevideo Portal destaca que Central Español jugó con un jugador menos",
+          "El Espectador presenta solo el resultado sin mencionar la expulsión",
+          "Montevideo Portal utiliza la etiqueta 'Intermedio' indicando el momento de la publicación"
         ]
       }
     },
     {
-      "id": "story_004",
-      "topic": "Incendio con dos heridos graves rescatados por Bomberos",
-      "category": "Seguridad",
+      "id": "story_005",
+      "topic": "Incendio en vivienda deja dos personas graves",
+      "category": "Sociedad",
       "sources_count": 2,
       "headlines": [
         {
@@ -202,7 +252,7 @@
           "description": "Bomberos rescataron a dos personas que sufrieron múltiples quemaduras de entidad en incendio de vivienda &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-06-07T16:28:00+00:00",
           "score": 2,
-          "score_reason": "Descriptivo y técnico, usa terminología especializada sin dramatismo",
+          "score_reason": "Describe hechos objetivos sin dramatización excesiva ni lenguaje cargado",
           "score_pct": 20
         },
         {
@@ -217,21 +267,21 @@
           "description": "Una mujer de 53 años y un hombre de 24 fueron rescatados por Bomberos y trasladados a un centro de salud La entrada Dos personas sufrieron graves quemaduras tras un incendio que destruyó una vivienda se publicó primero en Teledoce.com .",
           "pub_date": "2026-06-07T17:06:02+00:00",
           "score": 3,
-          "score_reason": "Enfatiza la destrucción de la vivienda, añade contexto emocional leve",
+          "score_reason": "Enfatiza que vivienda fue destruida, añade dramatismo moderado",
           "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Bomberos rescataron a dos personas que resultaron con quemaduras graves tras un incendio en una vivienda. Los afectados son una mujer de 53 años y un hombre de 24 años. Ambos fueron trasladados a un centro de salud para recibir atención médica. El siniestro destruyó la vivienda. Las autoridades bomberas realizaron las tareas de rescate y extinción del fuego. No se informaron más detalles sobre las causas del incendio ni sobre el estado de salud actual de las víctimas.",
+        "resumen": "Dos personas resultaron con quemaduras de consideración tras un incendio registrado en una vivienda. Bomberos rescató a los afectados, identificados como una mujer de 53 años y un hombre de 24 años. Ambos fueron trasladados a un centro asistencial para recibir atención médica. El siniestro destruyó la vivienda donde se produjo el incidente. Las autoridades bomberiles intervinieron en el rescate de las víctimas del fuego.",
         "coincidencias": [
-          "Dos personas resultaron con quemaduras en el incendio",
-          "Bomberos realizaron el rescate de las víctimas",
-          "Los heridos fueron trasladados a centro de salud"
+          "Dos personas resultaron con quemaduras tras un incendio",
+          "Bomberos rescató a los afectados del siniestro",
+          "Las víctimas fueron trasladadas a centro asistencial"
         ],
         "diferencias": [
-          "Subrayado usa terminología técnica ('quemaduras de entidad'), Teledoce dice 'graves quemaduras'",
-          "Teledoce especifica edades (53 y 24 años) y género de las víctimas",
-          "Teledoce destaca que la vivienda fue destruida en el titular"
+          "Teledoce identifica edades (53 y 24 años), Subrayado no",
+          "Teledoce destaca destrucción de vivienda en titular, Subrayado no",
+          "Subrayado enfatiza múltiples quemaduras de entidad en titular"
         ]
       }
     }
