@@ -13,13 +13,13 @@ from config import MAX_STORIES_PER_RUN
 logger = logging.getLogger(__name__)
 
 ANALYSIS_PROMPT = """\
-Sos un periodista uruguayo experimentado e imparcial. Te muestro titulares de distintos medios uruguayos sobre la misma noticia.
+Sos un editor periodístico uruguayo con amplio conocimiento de la política, economía y sociedad uruguaya actual. Te muestro titulares de distintos medios uruguayos sobre la misma noticia.
 
 MEDIOS Y TITULARES:
 {headlines}
 
 Tu tarea:
-1. Escribí un RESUMEN OBJETIVO de lo que pasó (máximo 150 palabras, en español rioplatense, sin tomar partido).
+1. Escribí una VERSIÓN OBJETIVA DE LOS HECHOS (máximo 150 palabras, en español rioplatense). Solo hechos verificables, sin adjetivos, sin tomar partido, como si fuera el despacho de una agencia de noticias. Usá los cargos y nombres correctos de las personas mencionadas (ej: si es el Presidente de la República, decí "el Presidente").
 2. Para cada titular, asigná un SCORE DE TENDENCIOSIDAD del 0 al 10:
    - 0–2: Neutral, informativo, sin carga emocional
    - 3–4: Leve encuadre o énfasis particular
@@ -94,7 +94,7 @@ def analyze_cluster(cluster: List[Dict], client: anthropic.Anthropic) -> Optiona
     """Send a cluster to Claude and return structured analysis."""
     try:
         response = client.messages.create(
-            model="claude-haiku-4-5",
+            model="claude-sonnet-4-5",
             max_tokens=1200,
             messages=[{"role": "user", "content": _build_prompt(cluster)}],
         )

@@ -47,18 +47,25 @@
     <article class="story-card" id="{{ story.id }}">
 
       <h2 class="story-topic">{{ story.topic }}</h2>
-      <p class="story-resumen">{{ story.analysis.resumen }}</p>
 
-      <!-- Headlines -->
+      <!-- Versión objetiva -->
+      <div class="objective-box">
+        <span class="objective-label sans">Versión objetiva</span>
+        <p class="story-resumen">{{ story.analysis.resumen }}</p>
+      </div>
+
+      <!-- Headlines con score de sesgo -->
       <div class="headlines-list">
+        <div class="headlines-header sans">
+          <span>Titular</span>
+          <span class="bias-legend">Sesgo <span class="bias-scale">0→10</span></span>
+        </div>
         {% for h in story.headlines %}
         <a class="headline-row" href="{{ h.url }}" target="_blank" rel="noopener noreferrer">
           <span class="source-chip sans" style="background:{{ h.source_color }};color:{{ h.source_text_color }};">{{ h.source_short }}</span>
           <span class="headline-text">{{ h.title }}</span>
           <span class="headline-right">
-            <span class="bias-bar" title="{{ h.score }}/10 — {{ h.score_reason }}">
-              <span class="bias-fill" style="width:{{ h.score_pct }}%;"></span>
-            </span>
+            <span class="bias-score bias-score-{{ h.score }}" title="{{ h.score_reason }}">{{ h.score }}</span>
             <span class="headline-time sans">{{ h.pub_date|timeago }}</span>
             <span class="ext-icon">↗</span>
           </span>
@@ -71,14 +78,18 @@
       <div class="story-insights sans">
         {% if story.analysis.coincidencias %}
         <div class="insight-block">
-          <span class="insight-label agree">Coinciden</span>
-          <span class="insight-items">{{ story.analysis.coincidencias | join(' · ') }}</span>
+          <span class="insight-label agree">Todos coinciden en</span>
+          <ul class="insight-list">
+            {% for c in story.analysis.coincidencias %}<li>{{ c }}</li>{% endfor %}
+          </ul>
         </div>
         {% endif %}
         {% if story.analysis.diferencias %}
         <div class="insight-block">
-          <span class="insight-label differ">Difieren</span>
-          <span class="insight-items">{{ story.analysis.diferencias | join(' · ') }}</span>
+          <span class="insight-label differ">Difieren en</span>
+          <ul class="insight-list">
+            {% for d in story.analysis.diferencias %}<li>{{ d }}</li>{% endfor %}
+          </ul>
         </div>
         {% endif %}
       </div>
