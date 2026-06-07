@@ -3,166 +3,108 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contrapunto UY — La misma noticia, distintas voces</title>
-  <meta name="description" content="Compará los titulares de los principales medios uruguayos sobre la misma noticia. Análisis objetivo con IA.">
+  <title>Contrapunto UY — Digest diario de Uruguay</title>
+  <meta name="description" content="El digest diario de Uruguay. Noticias de los principales medios comparadas y analizadas con IA.">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="{{ base_url }}/">
-
-  <!-- OpenGraph -->
   <meta property="og:title" content="Contrapunto UY">
-  <meta property="og:description" content="La misma noticia, distintas voces. Medios uruguayos comparados.">
+  <meta property="og:description" content="El digest diario de Uruguay. Noticias comparadas con análisis de sesgo.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ base_url }}/">
-
   <link rel="stylesheet" href="assets/css/style.css">
-  <link rel="sitemap" type="application/xml" href="sitemap.xml">
 </head>
 <body>
 
 <header id="site-header">
   <div class="header-inner">
-    <div class="header-top">
-      <h1 class="site-title serif">Contra<span>punto</span> UY</h1>
-      <p class="site-tagline">La misma noticia, distintas voces</p>
+    <div class="header-brand">
+      <span class="brand-name">Contrapunto<span class="brand-accent">UY</span></span>
+      <span class="brand-sep">·</span>
+      <span class="brand-date sans">{{ last_update_date }}</span>
     </div>
-    <div class="header-meta sans">
-      <span>Actualizado el {{ last_update_date }} a las {{ last_update_time }}</span>
-      <div class="header-stats">
-        <span><strong>{{ total_stories }}</strong> noticias comparadas</span>
-        <span><strong>{{ total_sources }}</strong> medios</span>
-      </div>
-    </div>
+    <p class="brand-tagline sans">Digest diario · {{ total_stories }} noticias · {{ total_sources }} medios</p>
   </div>
 </header>
 
-<!-- Ad slot: top banner -->
-<div class="ad-slot ad-slot-banner" data-slot="top-banner">
-  PUBLICIDAD
-</div>
-
 <main>
-  <div class="section-rule">
-    <div class="section-rule-line"></div>
-    <h2 class="section-rule-title serif">Hoy en los medios</h2>
-    <div class="section-rule-line"></div>
-  </div>
-
   {% if stories %}
-  <div class="stories-grid" id="stories-grid">
-    {% for story in stories %}
+
+  {# Group stories by category #}
+  {% set categories = [] %}
+  {% for story in stories %}
+    {% if story.category not in categories %}
+      {% set _ = categories.append(story.category) %}
+    {% endif %}
+  {% endfor %}
+
+  {% for cat in categories %}
+  <section class="category-section">
+    <div class="category-header">
+      <span class="category-label sans">{{ cat }}</span>
+    </div>
+
+    {% for story in stories if story.category == cat %}
     <article class="story-card" id="{{ story.id }}">
 
-      <div class="story-header">
-        <span class="story-category sans">{{ story.category }}</span>
-        <h2 class="story-topic serif">{{ story.topic }}</h2>
-        <p class="story-meta sans">{{ story.sources_count }} medios</p>
-      </div>
+      <h2 class="story-topic">{{ story.topic }}</h2>
+      <p class="story-resumen">{{ story.analysis.resumen }}</p>
 
       <!-- Headlines -->
-      <div class="headlines-section">
-        <p class="headlines-label sans">Titulares</p>
+      <div class="headlines-list">
         {% for h in story.headlines %}
-        <a class="headline-row"
-           href="{{ h.url }}"
-           target="_blank"
-           rel="noopener noreferrer"
-           title="{{ h.source_name }}: {{ h.title }}">
-          <span class="source-label">
-            <span class="source-dot" style="background:{{ h.source_color }};"></span>
-            <span class="source-name-text sans">{{ h.source_name }}</span>
-          </span>
+        <a class="headline-row" href="{{ h.url }}" target="_blank" rel="noopener noreferrer">
+          <span class="source-chip sans" style="background:{{ h.source_color }};color:{{ h.source_text_color }};">{{ h.source_short }}</span>
           <span class="headline-text">{{ h.title }}</span>
-          <span class="headline-time sans">{{ h.pub_date|timeago }}</span>
-          <span class="headline-link-icon">↗</span>
+          <span class="headline-right">
+            <span class="bias-bar" title="{{ h.score }}/10 — {{ h.score_reason }}">
+              <span class="bias-fill" style="width:{{ h.score_pct }}%;"></span>
+            </span>
+            <span class="headline-time sans">{{ h.pub_date|timeago }}</span>
+            <span class="ext-icon">↗</span>
+          </span>
         </a>
         {% endfor %}
       </div>
 
-      <!-- Spectrometer -->
-      <div class="spectrometer-section">
-        <p class="spectro-heading sans">Nivel de tendenciosidad</p>
-        <div class="spectro-wrapper">
-          <span class="spectro-label left sans">◀ Neutral</span>
-          <div class="spectro-track">
-            <div class="spectro-gradient"></div>
-            {% for pct in [10,20,30,40,50,60,70,80,90] %}
-            <div class="spectro-tick" style="left:{{ pct }}%"></div>
-            {% endfor %}
-            {% for h in story.headlines %}
-            <div class="spectro-dot"
-                 style="left:{{ h.score_pct }}%;background:{{ h.source_color }};"
-                 data-tooltip="{{ h.source_short }}: {{ h.score }}/10 — {{ h.score_reason|truncate_chars(50) }}">
-            </div>
-            {% endfor %}
-          </div>
-          <span class="spectro-label right sans">Tendencioso ▶</span>
+      <!-- Coincidencias y diferencias -->
+      {% if story.analysis.coincidencias or story.analysis.diferencias %}
+      <div class="story-insights sans">
+        {% if story.analysis.coincidencias %}
+        <div class="insight-block">
+          <span class="insight-label agree">Coinciden</span>
+          <span class="insight-items">{{ story.analysis.coincidencias | join(' · ') }}</span>
         </div>
-      </div>
-
-      <!-- Analysis accordion -->
-      <div class="analysis-section">
-        <button class="accordion-trigger sans" aria-expanded="false">
-          <span>
-            <span class="label-closed">▼ Ver análisis de Contrapunto UY</span>
-            <span class="label-open">▲ Cerrar análisis</span>
-          </span>
-          <span class="accordion-arrow">▾</span>
-        </button>
-        <div class="accordion-body">
-          <div class="analysis-logo serif">✦ Análisis objetivo</div>
-          <p class="analysis-resumen">{{ story.analysis.resumen }}</p>
-          {% if story.analysis.coincidencias or story.analysis.diferencias %}
-          <div class="analysis-points sans">
-            {% if story.analysis.coincidencias %}
-            <h4>Todos coinciden en</h4>
-            <ul>
-              {% for c in story.analysis.coincidencias %}<li>{{ c }}</li>{% endfor %}
-            </ul>
-            {% endif %}
-            {% if story.analysis.diferencias %}
-            <h4>Diferencias de enfoque</h4>
-            <ul>
-              {% for d in story.analysis.diferencias %}<li>{{ d }}</li>{% endfor %}
-            </ul>
-            {% endif %}
-          </div>
-          {% endif %}
-          <p class="analysis-disclaimer">
-            Análisis generado automáticamente con IA. No reemplaza la lectura de las notas originales.
-          </p>
+        {% endif %}
+        {% if story.analysis.diferencias %}
+        <div class="insight-block">
+          <span class="insight-label differ">Difieren</span>
+          <span class="insight-items">{{ story.analysis.diferencias | join(' · ') }}</span>
         </div>
+        {% endif %}
       </div>
+      {% endif %}
 
     </article>
     {% endfor %}
-  </div>
+  </section>
+  {% endfor %}
 
   {% else %}
   <div class="empty-state">
-    <h2 class="serif">Sin noticias comparadas hoy</h2>
-    <p class="muted sans">Volvé mañana a las 7am para ver las novedades.</p>
+    <p class="sans">Sin noticias comparadas hoy. Volvé mañana a las 7am.</p>
   </div>
   {% endif %}
-
-  <!-- Ad slot: mid-page -->
-  <div class="ad-slot" style="margin-top:3rem;" data-slot="mid-page">PUBLICIDAD</div>
-
 </main>
 
 <footer id="site-footer">
-  <div class="footer-inner">
-    <div>
-      <div class="footer-brand serif">Contra<span>punto</span> UY</div>
-      <div style="margin-top:0.25rem;">Actualizado todos los días a las 7:00 am · © {{ year }}</div>
-    </div>
-    <div class="footer-links">
-      <a href="sitemap.xml">Sitemap</a>
+  <div class="footer-inner sans">
+    <span>Actualizado el {{ last_update_date }} a las {{ last_update_time }} · © {{ year }}</span>
+    <span class="footer-links">
       <a href="data/stories.json">JSON</a>
-    </div>
+      <a href="sitemap.xml">Sitemap</a>
+    </span>
   </div>
 </footer>
-
-<button id="scroll-top" aria-label="Volver arriba">↑</button>
 
 <script src="assets/js/main.js"></script>
 </body>

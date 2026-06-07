@@ -31,11 +31,13 @@ Tu tarea:
 5. 2 o 3 diferencias de ENFOQUE principales entre los medios.
 6. El TEMA PRINCIPAL en máximo 8 palabras (para usar como título).
 7. La CATEGORÍA: Política, Economía, Sociedad, Deportes, Internacional, Cultura, Seguridad, Salud, Educación, u Otro.
+8. Si la noticia ES RELEVANTE PARA URUGUAY (true/false). Una noticia es relevante si ocurre en Uruguay, involucra a personas o instituciones uruguayas, o tiene impacto directo en Uruguay. Noticias sobre eventos exclusivamente internacionales sin relación con Uruguay deben marcarse false.
 
 Respondé ÚNICAMENTE con JSON válido, sin texto adicional ni markdown:
 {{
   "tema": "...",
   "categoria": "...",
+  "relevante_uruguay": true,
   "resumen": "...",
   "titulares": [
     {{"fuente": "Nombre del medio", "score": 0, "razon": "..."}}
@@ -92,7 +94,7 @@ def analyze_cluster(cluster: List[Dict], client: anthropic.Anthropic) -> Optiona
     """Send a cluster to Claude and return structured analysis."""
     try:
         response = client.messages.create(
-            model="claude-haiku-4-5-20251001",
+            model="claude-haiku-4-5",
             max_tokens=1200,
             messages=[{"role": "user", "content": _build_prompt(cluster)}],
         )
@@ -147,6 +149,10 @@ def analyze_all_clusters(clusters: List[List[Dict]], api_key: str) -> List[Dict]
         # Sort: neutral first (ascending score)
         headlines.sort(key=lambda h: h["score"])
 
+        if not analysis.get("relevante_uruguay", True):
+            logger.info(f"  → Skipped (not Uruguay-relevant): {analysis.get('tema', '')[:60]}")
+            continue
+
         stories.append({
             "id": f"story_{i+1:03d}",
             "topic": analysis.get("tema", cluster[0]["title"][:70]),
@@ -159,6 +165,10 @@ def analyze_all_clusters(clusters: List[List[Dict]], api_key: str) -> List[Dict]
                 "diferencias": analysis.get("diferencias", []),
             },
         })
+
+    # Re-number IDs sequentially after filtering
+    for idx, story in enumerate(stories):
+        story["id"] = f"story_{idx+1:03d}"
 
     logger.info(f"Stories ready: {len(stories)}")
     return stories

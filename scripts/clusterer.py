@@ -60,9 +60,10 @@ def cluster_articles(articles: List[Dict]) -> List[List[Dict]]:
             if assigned[j]:
                 continue
 
-            # Single-linkage: join if similar to any existing cluster member
-            max_sim = max(sim_matrix[k][j] for k in cluster_indices)
-            if max_sim < CLUSTER_THRESHOLD:
+            # Average-linkage: join only if average similarity to all cluster members exceeds threshold.
+            # More conservative than single-linkage — prevents unrelated articles from chaining in.
+            avg_sim = sum(sim_matrix[k][j] for k in cluster_indices) / len(cluster_indices)
+            if avg_sim < CLUSTER_THRESHOLD:
                 continue
 
             # Only add if it comes from a different source
