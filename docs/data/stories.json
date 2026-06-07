@@ -1,26 +1,56 @@
 {
-  "generated_at": "2026-06-06T11:31:11.405445",
+  "generated_at": "2026-06-07T11:52:41.650249",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Múltiples noticias de relevancia nacional variada",
-      "category": "Otro",
-      "sources_count": 6,
+      "topic": "Selección uruguaya rumbo al Mundial 2026",
+      "category": "Deportes",
+      "sources_count": 5,
       "headlines": [
         {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "kinzbio",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIazNHazFEemdWVzIzSDV2LTItQkNGQWh3MzN0dFE1VmJZZ1NsZF9FWVlnNk9mUVBpU245bWthVHllek1kbUE2YTFNNTVXUU9WUzBz?oc=5",
-          "description": "kinzbio &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-06-05T15:41:49+00:00",
-          "score": 0,
-          "score_reason": "Titular incomprensible; sin contenido evaluable.",
-          "score_pct": 0
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Uruguay escaló en el Ranking FIFA pese a no jugar amistosos antes del Mundial 2026: la razón y en qué puesto está",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOXlOOG5TTmdwTmJCME43Tmpmc2dFY0VEYXlWcGxNUGRCNHYzN01TNGpxYnZ4OUcwZU9OTG5GamlpTnNydUZyRmRxSU9xaGlDRWNfTzhBWFNxUFIyM3JLb2h1NngxU04za1ZhNElIWHRSV3hMVmUtSUFWQzV3bGMzUVhGM0FGd2FEN2JzZHJWcU1TTFlFcXUyWmVkOTcyZUNuQlk2ZGVBV1ZjU2VOVmQzVk4zS19udnZWTjVSV1FzT3pBRWdxUnpzYUpYYXI2dFMzY2NjRnE5MFlrN01EOWNLZDEwOGp3dw?oc=5",
+          "description": "Uruguay escaló en el Ranking FIFA pese a no jugar amistosos antes del Mundial 2026: la razón y en qué puesto está &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-06T21:51:06+00:00",
+          "score": 1,
+          "score_reason": "Informativo, datos objetivos sin carga emocional",
+          "score_pct": 10
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Nacional con un hombre menos superó 2-1 a Juventud | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOVBxNHBjc0NmeTdTcVJkRU5RVUxOaEduTEdXdnZFTG1EOUNNcnhvS2d3YjRHZHRibXptN0ZxZUhaMXRZZC1XSzl6dVRsUWVycUpuX3padWpseF9NSEQ4SjdxMkdTTE5INGVKNktCdWw4NHRpZ3ItZElxSUxQNXloWWhPMHFrdGZjZ1RRME93WFRrSkl4c0JaRnJsSU1QQQ?oc=5",
+          "description": "Nacional con un hombre menos superó 2-1 a Juventud | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-06-07T00:07:53+00:00",
+          "score": 1,
+          "score_reason": "Factual, datos concretos del partido sin adornos",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "La selección uruguaya sumó un nuevo miembro a la delegación rumbo al Mundial: ¿quién es?",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZjdJNjdRTHAyQ2hwMF9ucnROb3huMXE2blgyWWRIckJKRnV5SVFpRHF4cGc5SUtoY1JHeWpWMWFEaXBCdjUxN2V3UWQ1MUJVRnV3bUdlZUtDcVlLNVpRX1VCRkhPMDZ0bWFfOXJtYUhQbFpnSzNKMTR6WTBab1JnX1BMWlZocFlBTlAxbzZVU3k5M3M3OV90UFZ4bmJjSVdnT0cycDItd2NxaXBjZjFYQWpNa0syVWNWWUxRcE0xMlY2OXU1bXlOY0V1d2ZQVTRf0gH0AUFVX3lxTE9KNnVIVmdCbnhGVnh5MzhpNmVDVFl0dU1LajRpdUZWQVV0SkUxUGpJcGpCY0NKVk1zcE56anpPd1pZaXFTYjFidUhYb3EyZ3RBeHlVQzlnRjIySGFMRU5KdGlmYXV6UXFxT2ZNRXp0dVpRTWU2UkdqTFVjd1c1M0g3dFUwVy02WUJSd1Vla3ZUVFZUcm5ybk9XWkhES0JScHJVVG85NXg4UFgtR2Iya3B0MHM1TV9wS1JSLWtFSC1JenB2b21wcmZHRkRLRjNxUHlUSHlSbVRuXzFDWGFOcnVzajcyUHRaR0w0dVc2MUtqbXZtbE0?oc=5",
+          "description": "La selección uruguaya sumó un nuevo miembro a la delegación rumbo al Mundial: ¿quién es? &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-06T21:41:00+00:00",
+          "score": 2,
+          "score_reason": "Interrogativa curiosa pero sin sesgo, genera interés neutral",
+          "score_pct": 20
         },
         {
           "source_id": "subrayado",
@@ -29,13 +59,211 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "\"Cuenten con Uruguay, nos gusta asumir este rol de construir puentes\", dijo Orsi en el foro Mercosur – Unión Europea",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcFNJSnllQ2Q2YVNkam05cFBJaE5XYzVXU3BWS3FlY2JSTDkzQUJkNEZrbFhoNnh3NG1Za0VZaVBDLWhwN1RLdncyN2lBZlNCMUZTbl9ld0V5MmdpblM4QTlJM1l4cjliSkVvMHRocUV3SXcxdXJ0YWhpZzExN2NOeklzWFNDSC15aHFnWE5adk00U2NIa1QtVTBjQXVSUjlEYmRBQXE2MXoxU3ZmbjYzajBVLVN2SmlRVWNzTDVZdTBDbTcwTHI1aWNnVEJQU01DdFJiRdIB2gFBVV95cUxNOTNxeGZZWGJHamd3dDJVaG5iZ2RPX0ROZzN3UUg4YlRwTFl6dmZNQV84TG9LVEJHbUNWZlhiOVl0aW1mTVVUS0lOUFVFWDZOV1BzZnEybm12WjBOaEczVmk0VXRFSU9TUUpZWFdPUjNHTUhSQzZ3dXIwYllLRDlTdU5GRGVFY1hhRnZlWHlCWThMdkZPb2ljRWEyNHRPa0h2VzdRWmRRWDFXUGNSaVZuX0NWcjUydjA0bkxwVjZkVnl3SXdETFkwOTdNUGQ5aUdvYThFVzdDbEI4QQ?oc=5",
-          "description": "\"Cuenten con Uruguay, nos gusta asumir este rol de construir puentes\", dijo Orsi en el foro Mercosur – Unión Europea &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-05T17:04:00+00:00",
+          "title": "Última parada antes del Mundial: la selección uruguaya hizo su segunda despedida en Canelones",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaDlrNjZTb0xnRjVkdDJaNmQ4QzZybkZLTFctQnZxNHdvWGlHZVJNWlM0dXpWWXBrS3RNdl81bVdrako4ZUdRTWw5T2tleFJJRWJveWtKUm8zYmxFZlBxcEg4TWYzMFdaYUhEZEp3VG5NQnY4V2ZheVRQNUdJZ0pqckxxLXhyb1U0bDRLUGowMzd0NHhYQ0xtUzZnb0VyQjZ0MnZQMHRPWjhnTnJRbHd5LXhpdGRIcmNNN0M2bDNES2RYRW92RUHSAcsBQVVfeXFMTmJTMDJDaU44QlNySlhrZW01Sk93YnVhY0NfM1NHd1RxTWZqSFhJc1c0eDd1dkkwVHhfTjIxR2VtYnZtLXl4MjlQY2xjQlA3OWRZamxrU1ZOTXVEOFhydUlDMnAyTjd6UEJ4S2VrOFBhUmo5Y1J2WDdFNDlhdDA5SGtRdTl6QlVnRDRzSmJlSDc5Ui1UaTRGcDJveFBwQ2szSmNfeG12a3VFSWpzSHQxOUxmN3UtRFhRWDN5RXBpVVVrU2hZWHJaT2oyNXc?oc=5",
+          "description": "Última parada antes del Mundial: la selección uruguaya hizo su segunda despedida en Canelones &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-06T13:40:00+00:00",
+          "score": 2,
+          "score_reason": "Descriptivo con énfasis en lo ceremonial, tono neutral",
+          "score_pct": 20
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "\"Estoy más para no ir y quedarme acá\": Yamandú Orsi evalúa si finalmente acudir a la Copa del Mundo",
+          "url": "https://www.teledoce.com/telemundo/nacionales/estoy-mas-para-no-ir-y-quedarme-aca-yamandu-orsi-evalua-si-finalmente-acudir-a-la-copa-del-mundo/",
+          "description": "La Rendición de Cuentas es un tema central en cualquier gobierno, tenemos la ley de Competitividad que es fundamental que pueda salir. Si yo no estoy en Uruguay cuando estas cosas se tratan, no se, me estoy entrando a cuestionar\", aseguró este sábado en Pasión Deportiva (Carve Deportiva) La entrada &quot;Estoy más para no ir y quedarme acá&quot;: Yamandú Orsi evalúa si finalmente acudir a la Copa del Mundo se publicó primero en Teledoce.com .",
+          "pub_date": "2026-06-06T16:52:55+00:00",
+          "score": 6,
+          "score_reason": "Cita entrecomillada sensacionalista, exagera la incertidumbre",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "La selección uruguaya de fútbol se prepara para el Mundial 2026. Uruguay mejoró en el ranking FIFA sin jugar amistosos previos. El equipo realizó una segunda despedida en Canelones antes de viajar. Se sumó un nuevo integrante a la delegación. El presidente Yamandú Orsi evalúa su asistencia al torneo debido a compromisos legislativos como la Rendición de Cuentas y la ley de Competitividad. En el fútbol local, Nacional venció 2-1 a Juventud jugando con un hombre menos.",
+        "coincidencias": [
+          "Uruguay se prepara para disputar el Mundial 2026",
+          "La selección realiza actividades previas antes de partir",
+          "Hay cobertura del fútbol profesional uruguayo en paralelo"
+        ],
+        "diferencias": [
+          "El País enfatiza ranking FIFA, Montevideo Portal en detalles logísticos",
+          "Teledoce politiza con Orsi, resto enfocado en deportes",
+          "Subrayado cubre evento ceremonial, El Espectador cubre fútbol doméstico"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Resultados deportivos y oportunidades económicas nacionales",
+      "category": "Deportes",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Experiencias Clipex: demanda en la carne, chances para Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZlFRWGZUY0tUNVo5VUdERVB5VkdraWJXaEtnb29jRjBmenNYOHlCbGJFT28xbVFCak55UjUzTU9Zdm1sS0E4YUxjQzA0bWg3eGNjYWhpdTVJUWlvc0x2UmJhWkZ5cmJ3eGZWeW91VTRJdlRDaGIzbGtXTHB0anRBSUlqT3U0dHRHLUNtSWVzN1ppM2ZQYUdiVFItTkFtU2RWc1E?oc=5",
+          "description": "Experiencias Clipex: demanda en la carne, chances para Uruguay &nbsp;&nbsp; Rurales | El País",
+          "pub_date": "2026-06-07T07:15:07+00:00",
           "score": 1,
-          "score_reason": "Cita directa del funcionario; presenta declaración sin interpretación.",
+          "score_reason": "Informativo, neutral, enfocado en datos económicos sin carga emocional.",
           "score_pct": 10
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Central Español empató 1-1 con Racing en el Palermo | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWtjeWdPRDBoUnBNTzJ1amE2UTFXc3FIM043aVpiVVJJekp3RGVGemVPSVVzMktaNGszY3VZWURLbTJRcndDLVN2V2ZTNThFQ3puMkJUeFVadHdKajA2VUFfWjV3SDhTRm5TSFlWX252TWlQUnlkZTg4Nk5WVklrN3h2c0tSRkV5enNCVzVGSW4ycVRNbVNici1kaWRzUFU?oc=5",
+          "description": "Central Español empató 1-1 con Racing en el Palermo | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-06-06T17:25:44+00:00",
+          "score": 1,
+          "score_reason": "Meramente informativo, presenta resultado sin interpretación o énfasis.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Intermedio: Nacional lo remontó con diez y venció 2-1 a Juventud de Las Piedras en el GPC",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWUM1R0ZVb1QtRDdlQi1TMXJRUWowYWFRWkFuVUMzSFB0X3VKVGdoOVRJOTZaQXFPdWJwaWRwMkxnYjdUSFY5dlRBU1pjRjQybEdqR05ZaGVNZ0F6dVRyY2xqNGFHTkNTeWNaQVg1Wm96eEozaV83bEZBelpRQjBRbGZPa3F5VkdMUjZFZ3N0bHUtZFlEMXlyUGNBNnpFRTV0eE9mOHdQUWE2dHZnTldYd2lodnF6OGFuS0ZteGs2ckNSQ21ydktNVXdRVlNaVDg3ZWc?oc=5",
+          "description": "Intermedio: Nacional lo remontó con diez y venció 2-1 a Juventud de Las Piedras en el GPC &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-06T23:35:00+00:00",
+          "score": 2,
+          "score_reason": "Neutro con énfasis en la remontada, pero descriptivo de hechos deportivos.",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Se reportan tres eventos distintos en Uruguay: Nacional remontó con diez jugadores y venció 2-1 a Juventud de Las Piedras en el Campeonato Paranaense de Clubes, mientras Central Español empató 1-1 con Racing en el Palermo. Simultáneamente, se destacan oportunidades comerciales para el sector ganadero uruguayo en el mercado internacional de carne, particularmente a través de experiencias Clipex que posicionan competitivamente a Uruguay en demanda externa.",
+        "coincidencias": [
+          "Los tres medios reportan hechos concretos verificables sin especulación",
+          "Ninguno utiliza lenguaje sensacionalista o emotivo en sus titulares",
+          "Todos mantienen estructuras informativas simples y directas"
+        ],
+        "diferencias": [
+          "El País enfatiza oportunidades económicas mientras los otros priorizan resultados deportivos",
+          "Montevideo Portal destaca la remontada numérica de Nacional, generando dramatismo narrativo",
+          "El Espectador presenta empate sin jerarquización, mientras otros subrayan victoria o ventaja"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Visita del Papa León a España y momentos deportivos",
+      "category": "Internacional",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Roberto Celestino Leonardi Garcia",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1eWFDVVE0VlgwNkJ5eWhacjRWaGhfUjZwUjlsRnNtNTBCbG5MdTh3R216WG1XcW84M3VMLUgydDl4aVJBNFlsRWdsXzEtZXltWFBpTkdkMUduQjdycDBLdF91YzBKbndQVGR2WmNxLVZnX0ZJM29rOG9MUTI?oc=5",
+          "description": "Roberto Celestino Leonardi Garcia &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-06-07T03:15:55+00:00",
+          "score": 1,
+          "score_reason": "Titular puramente nominativo, completamente neutro e informativo",
+          "score_pct": 10
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Rodrigo Nuñez en El Despegue",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZakZnbktOcDN5dkJ5QXdZNGFmRzVmY1ZvZUQ4Nm56b2dPbEtKVFAwUWdOdmJheUVldzd3UjNyUkZVcjh4RVVXci01VHlaRlpEdXRUcXF3bG9tRTB5QTdmdmFoaml5aGl0aWh6YzNJai1vbTR3X2FCU3ZOOUZlRk0?oc=5",
+          "description": "Rodrigo Nuñez en El Despegue &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-06-06T12:59:25+00:00",
+          "score": 2,
+          "score_reason": "Titular minimalista y neutral, solo nombre y programa sin carga editorial",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Peñarol y Real Madrid: los momentos futboleros que vivió el papa León de visita en España",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeFdYWld0alpLSWp0TFQ1RXlRbWJLTGRHcTVZRWVqS2ZNUnNudWtaZHNFLWlOVkJ6RkhWYVM3UlgwWG8zRTVySmVjSFRHX2JsaVZ5YXdFcW9udVVkcHhKVnFPb0dERGhtUGtlTGpsbTNRc08yVkZ5YWtxUXBTYmU5OXYzQWdmc25Za0owWmJuU3NLTm1ESHpyZy1KWmRaZnlZUXoyNWlGR3lRd0VQcHo3V1dtdWEtbEo5ZU56RTBiWW00SDhWZkdJcFVVQkpQdFk3d0HSAfYBQVVfeXFMTmtIX2gxalZzelVaUWJ5aHpZZW1KN1Btcm1rWk5FendBWUlGXy00bzJHcW02ZzdkQ3ZSc3lYTHdwdmFJcFlTMF91VW5jUTlWNWozMnNlUWtPQmswbVIxa0lFWWF3SU11bTFOQkQ5MHFsYmRrc1BaRElmbElqcDYyakdBWU9ydDR3cDdmU1NjZGk1dEx5bTdZcExtaXJnYnhRcUhISjI4WWV3d2QzMTd0QkhvdUdZWlJJU2pDZkg5akYybk4wb0I2b291VkkwWmMzWUlzYWFia1RhZFBlTW1yRFRaSEJxWTJvWmFtU09VTmVvZ1VKc0h3?oc=5",
+          "description": "Peñarol y Real Madrid: los momentos futboleros que vivió el papa León de visita en España &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-06T17:43:00+00:00",
+          "score": 6,
+          "score_reason": "Titular descriptivo pero enfatiza lo anecdótico futbolero sobre lo sustancial",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "El Papa León realizó una visita a España durante la cual participó en o presenció momentos relacionados con el fútbol, incluyendo referencias a Peñarol y Real Madrid. La visita incluyó encuentros deportivos o momentos futboleros significativos. Se menciona a Rodrigo Núñez en conexión con un programa llamado 'El Despegue', mientras que Roberto Celestino Leonardi García aparece asociado a la cobertura del evento. Los detalles específicos del viaje papal y su relación exacta con estos personajes y equipos permanecen poco claros en los titulares proporcionados.",
+        "coincidencias": [
+          "Todos mencionan conexión con eventos o personajes relacionados a la visita papal",
+          "Los tres medios cubren el mismo acontecimiento de forma simultánea",
+          "Existe conexión implícita o explícita con el fútbol uruguayo-español"
+        ],
+        "diferencias": [
+          "Montevideo Portal humaniza con anécdota deportiva; otros evitan narrativa emotiva",
+          "Énfasis diferente: uno en momentos futboleros, otros en personajes específicos",
+          "Nivel de dramatización: Portal usa lenguaje vivencial, otros son descriptivos"
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Selección uruguaya y actualidad deportiva nacional",
+      "category": "Deportes",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Wanderers empató 0-0 ante Danubio en el Viera | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2tSXzR4NmFpTnJ4aFN4NGdWNnBEaHlXbWV4SGJjbEpWZ3pKLW5mcUFCQkMwYTAzYVhVQTFLZFp6NWxTZ2d2THhTMm9maENpbzRNVmhWOUJrSnA2a0NKZVc3YnZVanFTbXBUbG1jOTlLRi1qWFkyRDZCSG85R3h3RW1FbG96Qks3ZU83aWExeVJTdF9xWFFz?oc=5",
+          "description": "Wanderers empató 0-0 ante Danubio en el Viera | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-06-06T12:59:25+00:00",
+          "score": 1,
+          "score_reason": "Estrictamente factual, resultado deportivo, sin interpretación ni énfasis.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Nos da energía”: la selección uruguaya se despidió del público con evento en Canelones",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcGNTUHhmenRZUlhDZGNWTVFmd0dfc280YkFCeXY2ZTF4ZnZLM0hfSEp2LTEwZjZZMTY5bWM1a3pfWTdLM3d4VnNFbTc0Mm5MbEwwRDh2NGxvUncxb1cxUXBnMlk0MHpyY21DMENpTHFKZUk5WkxhYTZzZU1xNEJVY1VDVGt3VTVtOW9kUFc2RFBXUmRUMEpkWDRESDNpN3N3NVhnWU9hN3ZuYmNKSUl2dW9hTF9xd1lBbVg0ZkU1MThtQjB4TzR1Sk90NGpndkHSAfMBQVVfeXFMTldkb0lPdl9LZkgxdjRsNUlHeGJidHE3dHNISUZWM1FzQy03WWRDVlA0UlpVeDlaSFp3Rmc1ZklNZVF6TGl6YWxrdnNPUERkWHJaRnBNTHY1ZmdZTkI5TWJDVnVWQnRTeE1QVndrT1UtSUxsMWpuajNWZHhyOW1CZzE3d2VObkZNZ2Zjcm5saGhKQ3J6aFN0N1JGQUE5bW5wM1J5aVFYdWQ0ejkzRWIyNkxUeFljQm1FM25BVTdYQkgwcTFEZm8xNUNzc2pPSVFpZUEta2gzWm1NYU0zWjljandoV2s1dVVDUEkwY2dIcmoteHRv?oc=5",
+          "description": "“Nos da energía”: la selección uruguaya se despidió del público con evento en Canelones &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-06T14:56:00+00:00",
+          "score": 2,
+          "score_reason": "Informativo directo, incluye cita textual del discurso, sin carga emocional.",
+          "score_pct": 20
         },
         {
           "source_id": "teledoce",
@@ -48,10 +276,31 @@
           "url": "https://www.teledoce.com/programas/verdaderos-culpables/mira-el-programa-completo-de-verdaderos-culpables-del-viernes-5-de-junio/",
           "description": "Una noche de viernes para quedarse pegado a la pantalla de La Tele y disfrutar el mejor humor uruguayo. Julio Rollos recibió a Juan Carlos Scelza y todos aplaudieron a Willy. La entrada Mirá el programa completo de Verdaderos Culpables del viernes 5 de junio se publicó primero en Teledoce.com .",
           "pub_date": "2026-06-06T03:30:11+00:00",
-          "score": 1,
-          "score_reason": "Meramente promocional; informa contenido de programa entretenimiento.",
-          "score_pct": 10
-        },
+          "score": 3,
+          "score_reason": "Descriptivo con énfasis en entretenimiento, 'mejor humor' es leve subjetividad.",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "La información presenta tres noticias deportivas independientes: un evento de despedida de la selección uruguaya con el público en Canelones, un programa de humor televisivo con temática deportiva, y un resultado de fútbol local entre Wanderers y Danubio. No hay un hecho noticioso único que conecte estos titulares; cada medio cubre eventos distintos de la agenda deportiva y de entretenimiento del país.",
+        "coincidencias": [
+          "Los tres titulares corresponden a eventos deportivos o relacionados con deporte.",
+          "Todos presentan información sin alarmismo ni dramatización de los hechos.",
+          "Ninguno cuestiona o critica autoridades o instituciones deportivas."
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza aspecto emotivo (energía del público), mientras El Espectador es puramente factual.",
+          "Teledoce mezcla entretenimiento televisivo con deporte, los otros son noticias deportivas.",
+          "Los medios cubren eventos completamente distintos sin relación directa entre sí."
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Arabia goleó a Puerto Rico en amistoso suspendido",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
         {
           "source_id": "montevideoportal",
           "source_name": "Montevideo Portal",
@@ -59,12 +308,12 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "El vínculo del Indio Solari y Uruguay: de shows en el Palacio Peñarol a tocar en un bar",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYXBXZDVyRkptdk1xM3BWaXJGUC05YllXaVRKUHRNM284Mm96MnZBYW9ldFJab0RPRk9NOUZKWHhLVzMtVFdmU241S3czVVVnTWVQd2Q1U1JGT1R5alZRN1hTelh3STl1bE5OOHhxNVJFZGJSNnNDMFB1ZkFLUHM0eGxPVndYbUhING9UYThLdHhkRWpheDhKY3ZVUHVBZ2xoOTZWUUpXdzZ6UUFBWll3UXU3d1pqVmVTSFdHTnd6aFh6SXRiRy1NdjA1SHgyYjBKYS11cNIB-AFBVV95cUxPdVAtS2pxeE5PTGR6aU94UU1ZbHFsaFdxYXdPQkpCX2QzN2VPVnliSHVCYUFuNzlscXFYZWFMVWFVX3hMeWN3TllkV1hwckNtZF9KbXNhM0FFTnBjcU5ORVpieHp0NmdSYi1BZXBuYjRUZ3dKbjRvS00wSkdSd1BvQTN1XzF1SWRpUzhCN0YxaHp3MWtpRzcyU0VWMVdfSG5hWU1ZNU16MFMxWk9fcEItOXZIY19nSDFuSTI1V190NlJFaERNczR2V29YYklsdWVrUTFfT3ZwR2RucHNTenBXNmZUc2JSNm00MmJwTm9CQklPWTJ1TjV3dA?oc=5",
-          "description": "El vínculo del Indio Solari y Uruguay: de shows en el Palacio Peñarol a tocar en un bar &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-05T14:04:00+00:00",
+          "title": "Arabia, primer rival de Uruguay, goleó en partido amistoso que estuvo dos horas suspendido",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYzBDXzBNVmQ1UHpuaTNWWFRuQk1WaTBvTGdqeXFoYjJRUS1QUEh5bllTLU9XTG5WS1dEaXh1TjgzNGpnam1kdGpkNFZES1B6UC1xUXV2VVp0OWVITE1TaFQ0SEk3TXNzb0Y3UG1TREVMTlJZNjU5TmNlQXVBY1ppai1nQUhsUVliQjk2d3JvZlE2a2ljbVAwd2JEMEdhSFhrMUN4a3BJTzRsbU9CRTNGSnZlWkkzeGdCc0c3SV80S1hMX2JETDByMDJPTmFXVk5TMUE?oc=5",
+          "description": "Arabia, primer rival de Uruguay, goleó en partido amistoso que estuvo dos horas suspendido &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-06T13:20:00+00:00",
           "score": 2,
-          "score_reason": "Descriptivo e informativo; recorre trayectoria artística objetivamente.",
+          "score_reason": "Titular informativo directo sin carga emocional; hechos principales claros.",
           "score_pct": 20
         },
         {
@@ -74,48 +323,85 @@
           "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elpais.com.uy",
-          "title": "De titubeos y principios",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwQVlvM1BGYUdmRmVMa09KOEs0U2l5S3cyazROaVJKR3U3bGVBU1JKVE1pQ1JHS05XbWFSbDJlbUlIZl9BMEdTSi1QaUMyU0lTZWFXTTBqeU5hZ3BBSlQ5cHNIVnNmZTh5WW5zWFlFQzRLRndPYW44QnZn?oc=5",
-          "description": "De titubeos y principios &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-05T07:30:18+00:00",
-          "score": 6,
-          "score_reason": "Titular metafórico cargado; 'titubeos' connota debilidad política.",
-          "score_pct": 60
-        },
-        {
-          "source_id": "carasycaretas",
-          "source_name": "Caras y Caretas",
-          "source_short": "CC",
-          "source_color": "#4A148C",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.carasycaretas.com.uy",
-          "title": "Daniela Cabral, de Punta a una nueva imputación",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFdWY0RtTU9DNDhmTlFzTDlVWU9YWG9laWpIRmgyM19OdTVEMFFSam5fUHNMZE42b1JaUkVmQ1BKZFhHOXRqSDlzbTlucmdmVDZxV25OSVZIZkJDU2xYdmhXRmk3d2paYzY2S3RPQWozRE1Welk1eWFZQUJlaUdzOEs4MjBtLUUwNG5nV2xVd2ZKc1830gGaAUFVX3lxTE5JRU4yTU02cVNSR1ZteDRBZFd2aC16WXIwTU9vNjhxM0VWVkRxRmRpYmo3NnRzRm5GdkJGbTlEajhNcW1TSE1sUV9XT3lCTGJ0cXBESUpMTkNnWE5GdEdjTk1DWHlzX3ZidDRHMXpBeGVzeHVEYng0MUVYUGxCOG1URGFCQUx5TGkzc3NBU1hDemt2amV3UFhya3c?oc=5",
-          "description": "Daniela Cabral, de Punta a una nueva imputación &nbsp;&nbsp; Caras y Caretas",
-          "pub_date": "2026-06-05T20:05:00+00:00",
-          "score": 7,
-          "score_reason": "Lenguaje sensacionalista; 'nueva imputación' suena acusatorio y dramático.",
-          "score_pct": 70
+          "title": "Sacar apuntes, no solo del rival: Arabia venció a Puerto Rico en amistoso que se suspendió dos horas por el clima",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbE90blFwQktyN2doWkFzVExJTl9xdmQ4S1M5d2JfTXN6TmdfYzl5ZUhBc2xrUTZvb0czUWtvZF9VeElrVmdNYThTNUN5aHBDUFRUVWswTHo2LTNsTGFWaVcyVDlIUzhXbWNXM1BGQzVCQ0ZleTJBMXlWRndUTlNKM2RlZi1XZ19NR1c3Snd1TV9lVktVc2ZtcjlRQmFiMWpDNXFqY243d1piVlE4bDNPZkFta1k4ZHBuSjlMeGN4cWI5ZjAyQ250cmh1aEdWNS01aXVQV1FLYmdnX0VmWVlNVzN6NTRCX0k4?oc=5",
+          "description": "Sacar apuntes, no solo del rival: Arabia venció a Puerto Rico en amistoso que se suspendió dos horas por el clima &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-06T03:47:26+00:00",
+          "score": 3,
+          "score_reason": "Título creativo con metáfora sobre apuntes; énfasis leve en lección táctica.",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "La información disponible presenta titulares desconectados de diferentes áreas: cuestiones políticas sobre posicionamiento internacional del país, un reportaje histórico sobre un artista rock, una imputación legal a una figura pública, contenido de entretenimiento televisivo y un titular ilegible. No es posible identificar una noticia única que unifique estos reportes, sugiriendo se trata de portadas de distintas fechas o secciones.",
+        "resumen": "Arabia Saudita venció a Puerto Rico en un partido amistoso de fútbol. El encuentro, que será relevante para Uruguay ya que Arabia es su primer rival próximo, sufrió una suspensión de dos horas debido a condiciones climáticas adversas. A pesar de la interrupción, Arabia logró una victoria contundente, con lo que mostró su nivel competitivo de cara a los próximos compromisos.",
         "coincidencias": [
-          "Todos cubren temas locales de interés público general.",
-          "Ningún medio comparte la misma noticia principal."
+          "Arabia venció a Puerto Rico en un partido amistoso",
+          "El partido fue suspendido por dos horas por clima adverso",
+          "Arabia es el próximo rival de Uruguay en competición"
         ],
         "diferencias": [
-          "El País enfatiza aspectos políticos cuestionadores; Subrayado usa citas directas diplomáticas.",
-          "Caras y Caretas toma tono acusatorio sobre Cabral; otros medios informativos neutrales.",
-          "Montevideo Portal y Teledoce abordan cultura/entretenimiento; Subrayado política exterior."
+          "El País añade una metáfora sobre apuntes tácticos; Montevideo Portal es más factual",
+          "El País enfatiza la lección deportiva para Uruguay; Montevideo Portal simplemente reporta goleada",
+          "El País usa lenguaje más interpretativo; Montevideo Portal se mantiene descriptivo"
         ]
       }
     },
     {
-      "id": "story_002",
-      "topic": "Muerte del Indio Solari, líder de Los Redonditos",
-      "category": "Cultura",
-      "sources_count": 5,
+      "id": "story_006",
+      "topic": "Nacional empata 1-1 con Juventud de Las Piedras",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "El País (Uruguay) - junio 07, 2026",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPRVNNZ3VJbm5SU1ladDk3THUyV09ncV9vRWw5akF4b3ZaZzF0Yy1lbGk0dEppMU55b2lLLVp1amxnTXZMNzJVZDRhbTVYV2tOUW9RbFZRbw?oc=5",
+          "description": "El País (Uruguay) - junio 07, 2026 &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-07T06:59:21+00:00",
+          "score": 0,
+          "score_reason": "Titular sin contenido específico, solo fecha de publicación.",
+          "score_pct": 0
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Intermedio: Nacional está empatando 1-1 con Juventud de Las Piedras en el GPC",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeHFRYVdKOUFXMVA1QnVPNWRUY2hrVnU3b0NNME9WVzdUTHVGclpfNUYyUXVRTHlQUW9GM2FKM0JiWFVOZDFQVVRWRUdZbk9mS3ItUE9sZkc1cXJURFdlSW4xaXZ6b3dqTnJxOHgxVmJ4VmJrMGdNUFY5WW5rMDRLeVRjeXJ0OHBJZTBjYmpJVFdIekFoNmg2dXJEZTIxTDEza3JXcTJHU21OSVZsV1B0eVBVOF8wTHZjek1fV2JXdXZPdw?oc=5",
+          "description": "Intermedio: Nacional está empatando 1-1 con Juventud de Las Piedras en el GPC &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-06T19:45:00+00:00",
+          "score": 1,
+          "score_reason": "Información clara, directa y sin sesgo sobre el resultado del partido.",
+          "score_pct": 10
+        }
+      ],
+      "analysis": {
+        "resumen": "En un partido correspondiente al Grupo de Promoción y Clasificación, el Club Nacional de Football empató 1-1 contra Juventud de Las Piedras. El encuentro se desarrolló en su fase intermedia, dejando a ambos equipos con un punto en la tabla. Este resultado mantiene viva la competencia en la clasificación del torneo uruguayo.",
+        "coincidencias": [
+          "Ambos medios reportan sobre un partido de Nacional",
+          "Se menciona el enfrentamiento contra Juventud de Las Piedras",
+          "El resultado final fue un empate 1-1"
+        ],
+        "diferencias": [
+          "El País no proporciona detalles de la noticia en su titular",
+          "Montevideo Portal especifica que es en la fase intermedia del GPC",
+          "Solo Montevideo Portal comunica el resultado y contexto deportivo"
+        ]
+      }
+    },
+    {
+      "id": "story_007",
+      "topic": "Operativos policiales tras tiroteos en Montevideo",
+      "category": "Seguridad",
+      "sources_count": 2,
       "headlines": [
         {
           "source_id": "observador",
@@ -124,12 +410,12 @@
           "source_color": "#D32F2F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elobservador.com.uy",
-          "title": "De qué murió el Indio Solari y qué dice el parte oficial que notificó su fallecimiento",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk1Gb05kdkJaekRuUS1ydDk2dGlmb3NYU1llbmJieWdDU1FKOEttdlpvRXA3bWdtaGo0NWc5a3FiV2NhRDFlWVlwLS14ZlZCc1NzMmNXUzZwdkdUbEk5WnFVc0VncXJTLWVCSTNYbWl6Z0VBLUprUGNSTm5oSkpkRjkzb1lsQy03SktPS3Q3MTlQSFV2Qk1CNVRoZnJKLW1hMW1yV2Q2NVRZRUpxN3Fzbk51TDduYUtwQ3phQUFpWGpIVFM4YnJPSElRTURvaFZOMElQRGxFVmpCZ05QdEdHRzVvQUvSAeoBQVVfeXFMUEJWNk9ZWmhibjhUZGFqY0huTGtsb3haVVB3UWlqdXdPQkkxT1NwaGNrSDNwQTU2NkpFbXltb2RDLVQ5cVViUUxBNlJCTHQwNGNJNGF2R3E3Z20yVUtrM0VYV183bFl0WDJTMHBVQ1JubnZ3M0FnYkVwX2pHajhnLUNkSlpTVlpEOGg3c0dJZGxsSFNfS1ZZcXIwbDQxNHdMaVNaZmtIQlRTRXBNZlYtZ1c0VmNEdWt6ZENKVzNjRWxuamRaZE5yLWhxOVZhRmdWb3ZRSDJBSDB5Y25iSW9tbUFjYXA4WDVidVpB?oc=5",
-          "description": "De qué murió el Indio Solari y qué dice el parte oficial que notificó su fallecimiento &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-05T13:10:00+00:00",
+          "title": "Operativos en barrios Marconi y Las Acacias tras tiroteos: Negro dijo se mantendrán hasta que \"la tranquilidad vuelva a la zona\"",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPU1p0YlAyOEZmWE1jTm5ycU5mOGhldHVxMVM2RWNDSzRRTFhEdFo5MEE3NjdBdzVmRW5SOTdPcDdDNENBbEczdUhXLUV6amp1N2psM2ZZbFMwRjZIWE53cExjNzFVZ3Y0U3lTdzcxaTFRS1dHMVhZcFZHRzFJY1dOcDZzZV8xcDhacUhfZUt1OW95Q2pKRXZhXzBYcGFTTjg1MVQ3WDhoakJEblZvQzN2dUFOSjB6Nlg0MlRTODFHSW1SNXloOUdlY2JHUWtwbXBSeldjWDI4U0UwYVcyQjRqc0ptaHMxQ1YtNDM2aWJHT03SAfYBQVVfeXFMT25lM1FReDJpZFhkS2NZUS10bXVyNnc1SkNvWlZyV0hkZjhvZ1ZHSWlhdGR5d25MNnlSVVhuZGFGcHBkdENKbE5GdFlLMl9IT3AtMzEyQlQ1TFV1ak0zUnpsRGNkWG1YOElCS2FZaS1ZMUV2SXVORHZLMldFTU1DZnlTOEQ4by0yZ0F1WHZwdnhOUV94SHRKb2h4SDFHQWpjYV9NMVRseXdDS3FCYm8yRXlObUo5aklfS2JmclhNb1RLVDg2ZnVDWTJQaDl4NXYtcE9zU1pkdzBTdWRTUFZGdWl6a0tWQ2p6X1VyNHBvdFdHd2p6YVVR?oc=5",
+          "description": "Operativos en barrios Marconi y Las Acacias tras tiroteos: Negro dijo se mantendrán hasta que \"la tranquilidad vuelva a la zona\" &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-06T00:22:00+00:00",
           "score": 2,
-          "score_reason": "Enfoque informativo directo; prioriza causa de muerte y datos oficiales.",
+          "score_reason": "Factual, cita directa del ministro, describe hechos sin carga emocional.",
           "score_pct": 20
         },
         {
@@ -139,14 +425,35 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "De qué murió el Indio Solari y particularidades sobre su vida más allá de la música",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU0xOMnc5VXphRl90a1FjS0lNSTBuME9XNnJIM2JzY19xbHJTTnd3dm9yN1ZxSURhVzgzOTB2UEVaM3lTMFd3bkNKQXRGUnF2RFV3MDBua3JMU1BPWENNUm5QNmJjTW5zUlhLbVlka19uX0pMVElFQ2tSaFRZVDJXdFBOZjVCeHhSbk5oanJsWFJwLTFVZDlUN3A3ZEFaeWZkNW9hVUZHby1va1VWbGtkbF9pbFVWX3U4NTl2cldLNnJ0YWdqcjNWVnNLY3BMV1Bs0gH0AUFVX3lxTE5sbHZ2bUxkRERRYWVFNUd5cjNadmZQMEV3Tlo4TGx3SExmSU01cDRISTR4R3dqVlFIdVhvcC1MZ0cyVkJYVjE2QUVtTGFtQzRSRzZaRG5kM0UxM0l0VnJUYjhQbXdFRHpCb2lMV1NQRWFXUVVsejZ3M3pEWnlEYlJaZ2tXdlI0bzMtZzQwSTJXcTdfU1lqOWdFVktBaXEyTUk5V0VPdkdDa1RaWk5JWXJNb1VFR29DYUtqU3F6ZnNDcjFTbm9UbUdVUENMbkRkTmlBQXpYMDVuS3o5RUU1QVVPVzJ3YmRpX0dPbU5KbGIxYk1JWl8?oc=5",
-          "description": "De qué murió el Indio Solari y particularidades sobre su vida más allá de la música &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-05T16:59:00+00:00",
-          "score": 2,
-          "score_reason": "Informativo y equilibrado; promete datos sobre muerte y contexto vital.",
-          "score_pct": 20
-        },
+          "title": "Balaceras “dejan muy claro el descontrol”: Interior desplegó operativo por tiroteos",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd2JDYmhtLWM0b1Q5b1M2dGJVTXB2Q1k4bGRVNC1GQlFIQjhkMzVPTjRLNHF5RkNWLTFEWUhlcl9GVjJkdGdlb2ZYdDE5dXJqXy1HbkxSVkJ3Y29velJtSDgwX1hzSVpfanctRkhwN0daOHp5OE15aGpMYV9LN2VjdTZFQnhHMEZfRXZlb25nVjZ3bFA5OGFReERqcGhwTGVQZy1wRW8zYS1OVlVuVjZBTy1tRmtIVHhSMEw2WVVnalh5Z2diV0tTM9IB7AFBVV95cUxQQUJMTlFXc2JySU0zNzhPdTVneFdURXlqOVdlT0NjMjZGNUtweVkxWUJ0MWVWaThLelZQOWxqU0lUZGRXNkRaeENYYlpLMzk5dnl3MTV2SldXZDctd0U3Vm1PektQSU5id0RPUnhEendnbnhza2FFZXdrOW55dzl2ZXFwZ1I2VkpRU1I1Wi0wdzFBQmJQMnRLbDMwMlBuQURBQlBFczJXREVQZ3B1UXQ4Mk5CMTFRdjJkQ2xmNThuQXhpd3hmOURjazNXU1huRzJuVVFXcXF5TEZseXh2a0pGcnl4YnFyYTVoTFhadA?oc=5",
+          "description": "Balaceras “dejan muy claro el descontrol”: Interior desplegó operativo por tiroteos &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-06T16:29:00+00:00",
+          "score": 6,
+          "score_reason": "Usa 'descontrol' entrecomillado pero enfatiza aspecto crítico de la situación.",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Las autoridades del Ministerio del Interior desplegaron operativos en los barrios Marconi y Las Acacias de Montevideo tras registrarse tiroteos en la zona. El ministro Negro anunció que las operaciones se mantendrán hasta restaurar la tranquilidad en el área. Los operativos responden a incidentes de violencia armada que afectaron la seguridad de esos barrios.",
+        "coincidencias": [
+          "Hubo tiroteos en barrios Marconi y Las Acacias",
+          "El Ministerio del Interior desplegó operativos policiales",
+          "La respuesta estatal buscaba restaurar la tranquilidad en las zonas"
+        ],
+        "diferencias": [
+          "El Observador enfatiza la duración del operativo; Montevideo Portal enfatiza el descontrol subyacente",
+          "El Observador usa tono descriptivo; Montevideo Portal usa lenguaje más crítico",
+          "El Observador destaca la declaración del ministro; Montevideo Portal destaca la gravedad del problema"
+        ]
+      }
+    },
+    {
+      "id": "story_008",
+      "topic": "Orsi se cuestiona asistencia a Mundial de Uruguay",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
         {
           "source_id": "subrayado",
           "source_name": "Subrayado",
@@ -154,64 +461,49 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Murió el Indio Solari, legendario líder de Los Redonditos de Ricota",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRTZLZ2NLUzU0emxDanl3M1JwUE1MNUhrRUJtRVk4a0pYNEp4MG5yN05hbGZsalIxd1RpTUlxaWQ1ZlFGbTJBVERtZGJZR0NtQzAwcmVZRHpIZ1NHOEdCdjRIdXZxT1VkTFVyQUROckNRdmRJSkZWcTF4V0JHMGZVYmQ2S1F6TU5FY1N6cGpNaHY4M1VEUWdxUE5KZHVFcDDSAaQBQVVfeXFMTzNyUzA0NFV3ZVhiQVBYbGxTZ2FEY1FscEp5YjVSRy1BdFphYkp5cUJuTWhwVlhFMWdJTDA5RzVJVnFtNGl2WWhRQ29yc2ZERjhnODRTS0hlNDB6YWNHS0RWNWtrem44ZmY0VjRyelZRNTgwN3JHLWtBTlRHS0NlYUx2SnRoZnlDSjZoSXBMRjlsWktNdDc0ZjZoaHo1UGdnZ0ZHZDM?oc=5",
-          "description": "Murió el Indio Solari, legendario líder de Los Redonditos de Ricota &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-05T12:44:00+00:00",
-          "score": 3,
-          "score_reason": "Directo y simple; adjetivo legendario añade leve carga evaluativa.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "ladiaria",
-          "source_name": "La Diaria",
-          "source_short": "LD",
-          "source_color": "#1B5E20",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://ladiaria.com.uy",
-          "title": "Murió el Indio Solari, poeta de masas y cabeza de la expresión rockera más popular de la región",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlRzOXdkZlk5NTU5YTZ2cHZxTVBucTE0M1VyZkFwMVBmNE1uQWVmYWE1Wm9OUW1oXzdYOGJoczdNN09WeHlKajZHVVcxV2l4OEhwTTRiczhOY3MtOXZYSFlGcC03alNtTWF3Z19pWjBxRTdoYXJWaExXb2hNQXhFTE44eU11a1h2aVg3djVEdnRpQVM3YTRLT2dTcTdyZFhKZzNObTJCRVQ2WkxrS09LVWF1d2FzSm5SM01oaEtHVHNmQWhNMTAxVUZ0aXlsbHNBX1JoZ1BOcnNQYjg?oc=5",
-          "description": "Murió el Indio Solari, poeta de masas y cabeza de la expresión rockera más popular de la región &nbsp;&nbsp; ladiaria.com.uy",
-          "pub_date": "2026-06-05T13:20:55+00:00",
+          "title": "\"Hoy me levanté reconsiderando\": Orsi dijo que se está \"cuestionando\" si viaja o no a ver a Uruguay al Mundial",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc25vZFhheUlueFhnXzlvN0hpNmY0bXc5Y3ZHSm9GMnUxQ0VWMXlEZkV0YWFxclNYRTBxTUc5U1U5eEYtbllVREU3UXVOUi1uX3VHeExlNlFUbnNpdld5eXUyU21BMWpmd3d0c0ZkU1pHVDZGM19XZ1o1aVozeGNZVXBwVDE4QnBRcjNNM0xMdU1WVFhTYU1oR205MGh2NkpUUWFTSGZUWmhkWVZDbGlwdk1xenQxb2dPbldUZjF5VFU5RThTS2lGN2hxYXg3V2ZkOEF4U29R0gHbAUFVX3lxTFByMWl5NDVCd19oWWRuVFBPVUVoS1NQS21BT0o0c2pwdGtGamNoSlhaYlhUME5pZl9kY2kzd3NDNnRmZ0ViRVp5a2VVTjR3WXNYX1pjN21qZ2VkTDE0OVo4NDBGVmxCcXp4SUljVFMxTWlLdEJVWk1YRUNTQUJuYXROTy1qUHpBRXloNHg2eEpmUFY0N3c4dTJDcVpwZkpuQXdESDZnRWZmRkpRdmdKMlBvR3l6VEJja3hWRmxLSmhHZUJZQV9qY05wY0ZLRzdZaWhNb3hQVF82SHp0dw?oc=5",
+          "description": "\"Hoy me levanté reconsiderando\": Orsi dijo que se está \"cuestionando\" si viaja o no a ver a Uruguay al Mundial &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-06T18:08:00+00:00",
           "score": 4,
-          "score_reason": "Descriptivo pero con adjetivos valorativos: poeta, expresión popular regional.",
+          "score_reason": "Cita textual equilibrada, 'cuestionando' refleja duda genuina de Orsi.",
           "score_pct": 40
         },
         {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "“Cuando no había nada, tenía a Patricio Rey”: la muerte del Indio Solari (y un refugio más allá de la vida)",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb01Dd29JaVg1VllSNHIzN2s1UUZfNkVWckVFNnhJbmNZWlAyVDRpQnRvNTRWWlJ0STYtVnFOVjROdmlLelBkX2QtY285YmNiSUJWeXBmTnBhU2Y3VmdlOEEycTA1eVdQQWd2T2ROZi1TQ2wta1NvNmJjYmU3bHUzMWh5QmlTRFBTRF9raG9zbVZKM0JlNW4wX3F1eWlwa1BwTTdrZFY4dksxUGY1U05MTFZ2SDNOUHh2MS0yc2ozUHZObTgwWU9naG5iLWRpelBtLWUtSllPeWU?oc=5",
-          "description": "“Cuando no había nada, tenía a Patricio Rey”: la muerte del Indio Solari (y un refugio más allá de la vida) &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-05T18:25:51+00:00",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Les dije a los jugadores que me guardo para la final”: Orsi no irá al Mundial salvo gesta",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZW0yOHNUWTJpVDd5TDBiNHhzMWNzMF8wOXhHVVAtSVhrbU5ZYWZEanhXSmVQV1dvN2hneHhuWHQ4dXQ0SUZ4S1FRY1RabXMwSGJITHVfbHMtcHpxaU5qMnJ3MGpkU0pCRmtuZGRockRHTEtvcW5xRHYtQXdaLWVydDdNOVNqbWN3UXhPN3IxcTQ1VUJ2dWJJdjNSS3lIc2ZfSnNyUkpiLWpPS1hadndVblk1UlNldjVjOUVrcVd3MGtZQ2RBZFJFMUloelJkcmFMdnpr0gH3AUFVX3lxTE5JMkJ3MjB1VVdHYU1USmYtNEo4YlREeUtZbE9sTnRtcFpESlJPUzdyV1VTUE1KM1FmUWVhWWhVeGZuVG1EdUJESTNCY1RLVWJJdkVuSEZnZlhfbEhpMm1Kd1k1WXNkM3p6VktkUlNfZ0hGY0lNck1oWUNNR2Z1QnZxSmp5SkF2ZGREazc3MmpwZ3VGU296VGt2OWpkMHhMaWlPajhpWi1PUTNkNTJQcXpneVVOMVZ6bmJKNUVWaUNUUFZvdW5oS0ZpNGx0dWtxcDVSTFpQNGdKUEJjNEMtdW5SdDBEMVJ1Mllnb1pSdEJiYnQ3WmdSNk0?oc=5",
+          "description": "“Les dije a los jugadores que me guardo para la final”: Orsi no irá al Mundial salvo gesta &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-06T18:55:00+00:00",
           "score": 7,
-          "score_reason": "Lenguaje poético y emotivo; cita personal cargada de significado emocional.",
+          "score_reason": "Cita selectiva dramática, 'gesta' sensacionaliza posibilidad deportiva.",
           "score_pct": 70
         }
       ],
       "analysis": {
-        "resumen": "Falleció el Indio Solari, cantante y poeta argentino, fundador y líder de Los Redonditos de Ricota, una de las bandas de rock más influyentes de América Latina. Los medios uruguayos cubrieron la noticia destacando su importancia cultural y su legado en la música regional. Se conocieron detalles sobre las causas de su muerte y se enfatizó su rol como figura icónica del rock latinoamericano.",
+        "resumen": "El candidato presidencial Yamandú Orsi expresó dudas sobre su asistencia al Mundial de fútbol en caso de que Uruguay no logre una hazaña deportiva. En declaraciones públicas, Orsi mencionó que se está replanteando su viaje, indicando que preferiría estar presente si el equipo alcanza la final. Sus comentarios reflejan incertidumbre respecto a cómo organizar su agenda de campaña electoral con los compromisos de seguir al equipo nacional.",
         "coincidencias": [
-          "Todos confirman la muerte del Indio Solari como noticia central",
-          "Todos reconocen su rol como líder de Los Redonditos de Ricota",
-          "Todos lo posicionan como figura cultural relevante de la región"
+          "Orsi expresó dudas sobre asistir al Mundial de Uruguay.",
+          "El político está reconsiderando su participación en el evento.",
+          "Sus declaraciones fueron hechas públicamente a los medios."
         ],
         "diferencias": [
-          "El País enfatiza dimensión emocional y existencial versus enfoque informativo de El Observador",
-          "La Diaria resalta identidad poética y masividad versus Subrayado que es más neutral",
-          "Algunos medios priorizan causas de muerte mientras otros destacan legado cultural"
+          "Montevideo Portal enfatiza la negativa condicional con tono dramático.",
+          "Subrayado resalta el proceso de reflexión y cuestionamiento en curso.",
+          "Portal usa lenguaje más absoluto; Subrayado muestra mayor incertidumbre real."
         ]
       }
     },
     {
-      "id": "story_003",
-      "topic": "Femicidio de Avril en Ciudad del Plata",
-      "category": "Seguridad",
-      "sources_count": 4,
+      "id": "story_009",
+      "topic": "Elecciones presidenciales en Perú: Sánchez vs Fujimori",
+      "category": "Internacional",
+      "sources_count": 2,
       "headlines": [
         {
           "source_id": "montevideoportal",
@@ -220,12 +512,12 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "El femicida de Avril fue declarado inimputable: cumplirá prisión preventiva en Vilardebó",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYUhTcHYxLWF2Uk1icWFpZmVENlc0YzEwd1c1ZmFJRFloWWJ5MnFfX1B1WlgxNHVHdm0zMTl3SDhZZzNFZzVuMlZsUkotT05jOTZ3VnhYLUtPeEZJSVlLN2NlczZ3ZWhUZmIxNEZfaksybjd1MXVaS3FrY2pVNjVSTVhNTzdxQkVBNFdseTE5aWIwVWV5bWlrcHBaM3U3NDdjaW5TS1dhRWhBX3U4SUNpd2hjSmFESWQ4bTkxUVJjcVdza19EM0hUeFN0a0hZVUZu0gH0AUFVX3lxTE5ZZkRScTVYVWlJd1I1TG5sYlpKMTNZd3RfUGZ0V25uM3BPWUtoNmo0b1RKUVJnRDZ2WUhGLU9RNEl6b2Q1cE96WFhlcjNVeHo4Z2IxYXBEMlR6NFlNUl9NRllLNHlDSzBVMlZkUmFoQ3RWMzdrbTNLTk9NR0lfa1Jwa0xnQ2Vjajc5R001cGRQUlV6RnNzR0Y0ZDl5MVotSVpRSlVIcTIzazBiX0hiQm9HRlhLQy1LTEtNcnBBWmN3WW04dHo0SG1ZSVZsRGV4WFpWZnlXYkxnc05EZ1NLbVBTQnRuVHhrLWFzY2tnQjA5QUViOE4?oc=5",
-          "description": "El femicida de Avril fue declarado inimputable: cumplirá prisión preventiva en Vilardebó &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-05T20:16:00+00:00",
+          "title": "Elecciones en Perú: Sánchez y Fujimori frente a frente para decidir al presidente",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcnIxRVZmQmI1U2tKaXdQazl3M3B5ZnN1QVBaSG5JSHpxVThPeVRoeURfQVh6QUo0RUpNZFR2eUxKemlrY0xXTy1KTGFKWFdRVUpnX1dzN2w2QTBZLUVQMTE3SmFWb1pSZnhmYzBFa1BfbW92ZXZMeWRlQzZVTHNKenZoOThHczhDeEVFMnQySDllOFFyU2I5dHFCSUplelQ0X3hDMmRSeC1BRGdVdl84YTAyVG9ZXzRaSjNsdnZ4VGZVQ1JCZ0Nv0gHrAUFVX3lxTE1MTThKbUVfdFRQRS1EdVFCY1ZRNXo3LXl2Tk5KN0p4Q0NwYnFpVTdRNGJjRmtMLWZCa05USGRkZDZGZ1FJeHlTSGJLT01YeWRrbG9ab0pUTl9jbFFJc01NcEdwVUhiWHBFeDVjb1pwMk02RmtiRm9LWHI1WGNLOTRmR1RiY2I2RDJSWUlaWGVYTmVYWi1wSUFOSUhpdjdYZTdPdEYzMVY5aC02aFZDd0pFRUJMZHMzMGdnNkJneXZuS2V3YVM3ZVhhTDZFc2V5Sy1HRkh4SXJHS1ROaV9xNTVmQU9pdVhUZDM1VHc?oc=5",
+          "description": "Elecciones en Perú: Sánchez y Fujimori frente a frente para decidir al presidente &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-06T23:52:00+00:00",
           "score": 2,
-          "score_reason": "Informativo directo, presenta hechos sin lenguaje cargado.",
+          "score_reason": "Título descriptivo y neutro, presenta los hechos sin carga emocional.",
           "score_pct": 20
         },
         {
@@ -235,480 +527,48 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "Femicidio de Avril: joven de 19 años asesinada en Ciudad del Plata",
-          "url": "https://www.teledoce.com/programas/esta-boca-es-mia/femicidio-de-avril-joven-de-19-anos-asesinada-en-ciudad-del-plata/",
-          "description": "Nos contactamos con la doctora en Ciencias Sociales, Teresa Herrera, para hablar sobre la falta de presupuesto para implementar la Ley de Violencia Basada en Género. La entrada Femicidio de Avril: joven de 19 años asesinada en Ciudad del Plata se publicó primero en Teledoce.com .",
-          "pub_date": "2026-06-05T19:21:58+00:00",
-          "score": 3,
-          "score_reason": "Básico, incorpora contexto de política pública sin exceso.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "El doloroso relato del principal testigo del femicidio de Avril en Ciudad del Plata y el comunicado del liceo",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQUVsTnZOYTB3M2lNODhYRnB4OHZBWVpoQW94MnZieU5Dd1ZCNFVEUmhlQnF2VGNxampoMm94cnZjeHNBdjNfR29hSVdfaHNHNEVjdmlVWmtvTElENWJjZlN5SFVBbmw4c1VqR3Rsb2ZZanpqZVB4VEdTanFIYnFDRTVSMF9RaVk3Zk1Rb2MyVzdXZDZUNTZQcHFuWl9kd21DTHdaZ3Y0Rm5hbHR5ZFhKS0dNNHpjbWZBT0swR3ExbTdwS1NVVkY5bHBTVUJxR1drRDZuYld0X0o5TVRPRkI0cVdfalMyU0g1bHJkQ254TQ?oc=5",
-          "description": "El doloroso relato del principal testigo del femicidio de Avril en Ciudad del Plata y el comunicado del liceo &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-05T12:14:54+00:00",
-          "score": 5,
-          "score_reason": "Énfasis en lo 'doloroso', carga emocional moderada presente.",
-          "score_pct": 50
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Femicida de Avril fue internado en el Vilardebó por una esquizofrenia que nunca fue tratada",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPME51SUdNUEFKNU1MUVNVMWU1Q3VyeWlrVW5qeXdsUkZSQXJ1dDE2OFNxZGx2Uy0zVnhfVTQ4MHpkTEIwczVWTm5ydFdzeXozVWN6VmlnbW5qMnFIV1NjMTViTHJBRHlIdFREWDVScVBhLV9vVmZuMmlldm56OU14c2x3VFJSQ1NBd3VpS1RoSzllRXdZZTFsVks3ZlNHemI1MzFPQ3QwX1ZDNnNuYmtnU2F0TTJSb3VtTVc00gHAAUFVX3lxTE5ubTZDSjBfNzdXV2RBbTY4X084dmNfbkc4RXN5N2lzT0pMejI5WE1iVU9LcXdMUkM3SWZXbktPeU56TTduYnZSLWdLb3d4U0hxekk5c2JOdl84amxsNVNPTjVZZ2VWcERNemtnS0dwN0RwZFZoSzRMNmJleWx5eXhNbTlTVkFNMXl3UGpwQUFZNl9BQWdFUjBvclRoRDlXMkkwb0lkTUZ1b04ybDJzVVc3emlKbTFTREprWnc2bE5nLQ?oc=5",
-          "description": "Femicida de Avril fue internado en el Vilardebó por una esquizofrenia que nunca fue tratada &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-05T21:43:00+00:00",
+          "title": "Candidato opositor a Fujimori en Perú fue enviado a juicio dos días antes de las elecciones",
+          "url": "https://www.teledoce.com/telemundo/internacionales/candidato-opositor-a-fujimori-en-peru-fue-enviado-a-juicio-dos-dias-antes-de-las-elecciones/",
+          "description": "Según la fiscalía, hay inconsistencias en los informes financieros del partido de Sánchez, Juntos por el Perú, en las campañas para los comicios regionales y municipales en los que participaron entre 2018 y 2020. La entrada Candidato opositor a Fujimori en Perú fue enviado a juicio dos días antes de las elecciones se publicó primero en Teledoce.com .",
+          "pub_date": "2026-06-06T17:31:26+00:00",
           "score": 6,
-          "score_reason": "Enfatiza enfermedad mental, potencial sesgo causal moderado.",
+          "score_reason": "Énfasis en el envío a juicio días antes de elecciones subraya timing cuestionable.",
           "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Una joven de 19 años llamada Avril fue asesinada en Ciudad del Plata. El agresor fue declarado inimputable por esquizofrenia sin tratamiento previo y cumplirá prisión preventiva en el hospital psiquiátrico Vilardebó. Se relevó el testimonio de un testigo presencial y surgieron cuestionamientos sobre la implementación de políticas de prevención de violencia de género.",
+        "resumen": "En Perú se realizaron elecciones presidenciales con dos candidatos principales: Sánchez y Fujimori disputándose la presidencia. Días antes de los comicios, Sánchez fue enviado a juicio por la fiscalía, que cuestionó inconsistencias en los informes financieros de su partido Juntos por el Perú, especialmente en campañas regionales y municipales anteriores. El proceso judicial generó controversia en el contexto electoral.",
         "coincidencias": [
-          "La víctima es Avril, joven de 19 años en Ciudad del Plata.",
-          "El agresor fue internado en Vilardebó tras decisión judicial.",
-          "Existe conexión con esquizofrenia u otros problemas de salud mental."
+          "Se trata de elecciones presidenciales en Perú",
+          "Sánchez y Fujimori son los principales candidatos",
+          "Hay problemas legales o financieros involucrando a Sánchez"
         ],
         "diferencias": [
-          "El País prioriza el relato emocional del testigo; Montevideo Portal es factual-legal.",
-          "Subrayado enfatiza la esquizofrenia como causa; Teledoce alude a fallas en políticas públicas.",
-          "Teledoce vincula con Ley de Violencia Basada en Género; otros evitan ese encuadre."
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Pablo Cánepa accede a muerte digna en Uruguay",
-      "category": "Salud",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial: selección uruguaya comenzó su despedida con emotiva actividad con niños en Pando",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ25ERFQ0UjB4WXotcmM5dWJKeWtWRDJIR0hpbHFhYmZ2UEZCQ3U4cUEyVDV3QmFyNjRsX0FTTUs0SkY0by10SjFXRFhtMk55MGJKLTVOTGM4bGdOQmttRDNhb2FjZkhMdHd6d0N5M0pSZzdac2V4NXdvUXNmNThjbUhDdXh5RnFKV0p0TDJiU2FJZUZvYTEtaV9Xd3RXcG11WlpzMVJEbkRBeGZhY25FVXlJQlEtcXNQWlAwWDBmTUpQMUh6YjRYRm55V2xjMkRWN0HSAfYBQVVfeXFMTk4yX0hKWWlCLTZTT29jZVNVYS1ZQnNIZFo3UlJVaXRsdDZZWFFMZGtTRlZ1WnRYNG5vYXFUS3BuUU84Mi00UTJQOGFVdmZyX0hXRFRxQlhaOXJ2YzJKM2otemEtZ0RQbkk0MWJqSjh1LWpTQVVQaVJSU21QYUN5MDF6THBrZnZTalNWeWlubFk3c1dneVQyblU4RkQwSUYtSHdza2JxUGZZd1NxbHk0OVhXYmp2VTE5WWtoS2JjcDMxb1R5ZElwUjZ0SU5TQlN6MWpGelhjN1V0MDdBS3BaM1V2cWRjZVNaSFNGTzN2VzhBSHB0Snd3?oc=5",
-          "description": "Mundial: selección uruguaya comenzó su despedida con emotiva actividad con niños en Pando &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-05T14:19:00+00:00",
-          "score": 2,
-          "score_reason": "Informativo, neutro. Solo presenta actividad sin carga emocional.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "carasycaretas",
-          "source_name": "Caras y Caretas",
-          "source_short": "CC",
-          "source_color": "#4A148C",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.carasycaretas.com.uy",
-          "title": "Pablo Cánepa, impulsor de la eutanasia en Uruguay, accedió a la muerte digna tras años de lucha",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTjBOZnN1a3lCM3d0U0NJWTZqSWlPNWN2ckJHTzFweHROZGpKR3dvVEUzVFE1NjFMdDdPdjlabFJsY1VaR3BFeE4tcElSb0ZnLURKbi0xcWxLcmxhTVFBNHBXOEN1ZmItd1RGTFoxRGxEWTVhZ091U2pUaDNoSlVvTVg3Umwzb2J2LWZnWEdOc3B0UnJuN2VUMl9sekM0Vk9WM0QzNTA5bGxRMnd6dWxGRWwwVjZYdGFVUTh0WTdqcUVCLVFz0gHKAUFVX3lxTE5pX1dsTm5qTllLUzdDNTl3d3lLMk9GMFFRUVhlY09US3E1dm1ocVBzSnZrZDdKWmgwdkNKQW5oWnBYclFZUVJkV1B0M2lSQVkwQThKMUNRQUJIcXR5MmdTVmdzeXU3ME1kZ05xRXEzQ2UxNU9yejdOSWVuNHRadzZoY19JS2V2RDMxZGVydkUyeUxJMG9vN3VtSjNGenNrMTY0NFVkWUw3Tk9vOVZKQ1QwLXl4Q1JIQm03NW1Gc09tTlZfMkdzaVZnU3c?oc=5",
-          "description": "Pablo Cánepa, impulsor de la eutanasia en Uruguay, accedió a la muerte digna tras años de lucha &nbsp;&nbsp; Caras y Caretas",
-          "pub_date": "2026-06-05T13:44:00+00:00",
-          "score": 4,
-          "score_reason": "Describe hechos con énfasis en 'lucha' y 'dignidad', ligeramente valorativo.",
-          "score_pct": 40
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Vos te callás",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JbVhQelR6cWgtSmhSTzVKWXl0cS1jLUtkMFdDWkZDUDFyS2hWdjBkRnRjRTRHU3EydkhfVnAtWUoxTGR4UDByWjExODhHM21EWFRDZVd1SFRiU200RjNxNzNiN1FtclRE?oc=5",
-          "description": "Vos te callás &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-05T07:30:18+00:00",
-          "score": 9,
-          "score_reason": "Titular críptico, sin información. Sensacionalista y confuso.",
-          "score_pct": 90
-        }
-      ],
-      "analysis": {
-        "resumen": "Pablo Cánepa, activista que impulsó la ley de eutanasia en Uruguay durante años, falleció accediendo a la muerte digna. Su deceso representa el cierre de una larga lucha personal y legislativa por los derechos de las personas con enfermedades terminales. El evento marca un hito simbólico en la historia de esta normativa en el país.",
-        "coincidencias": [
-          "Todos mencionan directa o indirectamente a Pablo Cánepa como figura central",
-          "Se vincula su muerte con la ley de eutanasia en Uruguay",
-          "Se reconoce su rol de impulsor o activista en esta cuestión"
-        ],
-        "diferencias": [
-          "El País omite información; Montevideo habla de otra actividad; Caras enfatiza la muerte dignamente alcanzada",
-          "Caras y Caretas valora positivamente ('muerte digna'); Montevideo Portal es neutro; El País es incomprensible",
-          "El encuadre va desde lo personal (Cánepa) hasta actividades desconectadas (Montevideo), mostrando selección editorial muy distinta"
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "Encuentro entre Bielsa y Orsi sobre Mundial",
-      "category": "Deportes",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Orsi sobre Uruguay en el Mundial: \"Nos va a ir mejor de lo que pensamos\"",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa1BKOUNwUk13WnJWbmlpSXJTU0FyVjA2cVhTX1ZRcTBYQlA1ZTloN3dvT05ScjJoZGpRSDVmb0xpWERhT0lfOUhYeWExSjMwQmcyWk5XY2syejZqOG9iRnVYb2lHZVdjRHkyU0ZUM2tjaUd4alFZdXNhZXVGcThBT2ZDcmZjMEpoWk9HaFZUOGRaSFoxeHlMMNIBngFBVV95cUxOd2NBelFmYlJHZC1vWTJUdUw2U2pxRVVGdlhoV1hldHJielpJTFdHSDctVmdVNjJsM3pfbnFmYXM2SF9jUV9oMTY2Z3BibUs3SENURHNXQ1NUUy1sYXJSQlRjTFZXLWtrRDRTRU5nR2xQSWVmdjBjaU5UM2tmeTZXbWdyMXcwMm43M0lIWG9Wc3lkYWpfSUhCZEZ4SDdJQQ?oc=5",
-          "description": "Orsi sobre Uruguay en el Mundial: \"Nos va a ir mejor de lo que pensamos\" &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-05T12:26:00+00:00",
-          "score": 2,
-          "score_reason": "Foco directo en declaración de Orsi, sin carga emocional.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Mucha suerte en esa lucha”: los entretelones de la charla entre Bielsa y Orsi",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb0VjY3JkaTJHNXowSXZ4RnBwOUxvbno5LXc1NnAzYzFyVXdac0J1N3NMVlFWUkUzWU9OZFBMY2k3S2lHejlwZGJaSDVsNllPSV82YU1CTG1KRGV0dDkxNVhsTzRYVjFuNlBhdkJEUWZieHNyZG5laDN5QmNsWVpZNzV3eWFoalphVkk3cWM4cUk0NEpWdjQ0NW1HTldWVnQ2OTNMWkR0SHNza1hnQ1hvMHFpemx5aU1SV3BsMEJCUk9ISU3SAecBQVVfeXFMTW9CSU0zVVZrdGhhazFWMFZTczQ5N3dad3d1d0pnQ3RKTGkweEdrYlo3N2xocUxrY0JKOGtOX2ZpQ2R2SHRzUzBLemVxd3o2eElYc2N1aHMtY3NPOS1LbEpOM1JvTHFGY21qMWRjalMtaElYNEZBdTNUb1lKVlJpQkZXYUpfd0lFREVQa3VEMWM5dkh3bjhQbGhQMW9CZ3otWUQ4SEFlMEdGbGRhYUlkNHhOUExmd0FfRmN1WFh6VHRMMU1DQjF1c3JmbTZzWlpUdndveXlBYjhDeHlhSGFWSWdiWUtxa0tz?oc=5",
-          "description": "“Mucha suerte en esa lucha”: los entretelones de la charla entre Bielsa y Orsi &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-05T20:35:00+00:00",
-          "score": 3,
-          "score_reason": "Presenta los 'entretelones' con neutral curiosidad periodística.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Juan Carlos Scelza hizo una llamativa comparación entre la polémica camioneta de Orsi y la selección de Bielsa",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ1JKOURsXzFUcUNGTVRCMDRkSGt6NERKMzNxc3pVRUJrS09jQTFhWVlyX1ZLQ2thNGw4TEJSeWZjNkhGMlN3TnhGbFNmS0dLX3l2UkZnMjFzNkNnQ1djLTgyc1JsVkd6RG5UeU5TeFVTSU5LRmJLd0M1bEp1c2R0ckVQTkhwX3BTbmNSWHozZzNNUm91cXVySFZTb1ByNUdlNWVWOWZfV19Dd2s1Q3Jza2xWYy1GQVQyOGpEcGQ3ZWxYNHlNeTl3aHp3NjJ5QzNzb2UzdVlYcjZUSGRrX0JOejJtZDA0N0tGSkE?oc=5",
-          "description": "Juan Carlos Scelza hizo una llamativa comparación entre la polémica camioneta de Orsi y la selección de Bielsa &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-06T01:25:47+00:00",
-          "score": 6,
-          "score_reason": "Usa 'llamativa' y enfatiza la comparación controvertida.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "El candidato presidencial Yamandú Orsi se reunió con el técnico de la selección uruguaya Marcelo Bielsa. Durante el encuentro conversaron sobre las perspectivas del equipo en el próximo Mundial. Juan Carlos Scelza, periodista, comparó la situación de la polémica camioneta de Orsi con el trabajo de Bielsa. Orsi expresó optimismo respecto al desempeño de Uruguay en la competencia internacional.",
-        "coincidencias": [
-          "Hubo un encuentro entre Bielsa y Orsi",
-          "Se conversó sobre el desempeño de Uruguay en el Mundial",
-          "Orsi mostró optimismo sobre las perspectivas del equipo"
-        ],
-        "diferencias": [
-          "El País enfatiza la polémica y la comparación de Scelza; Subrayado ignora eso",
-          "Montevideo Portal se enfoca en los detalles privados del encuentro",
-          "Subrayado prioriza la declaración optimista de Orsi sobre contextos políticos"
-        ]
-      }
-    },
-    {
-      "id": "story_006",
-      "topic": "Montevideo mejora posición en ranking turístico internacional",
-      "category": "Economía",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "ladiaria",
-          "source_name": "La Diaria",
-          "source_short": "LD",
-          "source_color": "#1B5E20",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://ladiaria.com.uy",
-          "title": "La Intendencia de Montevideo logró la aprobación de cuatro fideicomisos: uno por unanimidad y tres con cuatro votos opositores",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNN1pkOHZfSkFzWk9TSDc4ek0tVXRjSW40WHJXRUVuNUZpLWt6ZTFoTDZ4R1A3Q2RqOEpPcFRIV2NhbzlfRGIzSU41d3N4eWlrX3JjWmZPaVFpZlREakRISHpZRzhrQngyRUZpY3Bhc1J6THBwVGFXZEsxazcwcndnVC1QdVpVS0p4UXoxcTZXMHpqWFg2R1RCR1g3RjZobE54MmlRYXRwelpVbzBoS0kwb190Q01razRJeWNNWUc4bFdKZmc4NlZNVEhwbm1xb3A0XzZxY1BudWtzcEFqWEZVcW5qUTB3cU16eHdrc1RRV0JBY21UWmx6UnJJWldvbUtEb3RPd3N3?oc=5",
-          "description": "La Intendencia de Montevideo logró la aprobación de cuatro fideicomisos: uno por unanimidad y tres con cuatro votos opositores &nbsp;&nbsp; ladiaria.com.uy",
-          "pub_date": "2026-06-05T02:01:09+00:00",
-          "score": 2,
-          "score_reason": "Enfoque procesal neutro, detalla votos sin valoración.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Montevideo subió 35 lugares en el ranking mundial de turismo de congresos: en qué consiste",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM0EyeHc0NVVZcjFiOEhuOU5UQ0E1Y0MyYmllQ3Q1ZTJJTnRtb1BLSFFnTmFqaTlSWGRjZlVHS2ZZOFVITjFWVVBYTUltdHlNcUVKbjFQNFVYaWozdkVjekltbmlRYmdrN1BfQUZTQXlqbUtmbWNkUmhUUDVUeGJmNVZZaFhDV2o1Y0lmSHdQTEI2Ym14cS1pNDdHTldGQmFLVjBWcFZxUEpNVXdEYWZtcXhqYWxXRzVxV2ZDb0poUjE4YzVpd1dSQk9tTnI0NEw4UlNF0gH3AUFVX3lxTE40VHBFUHV5SC0wclJHbGhaa3VDcW1hWnlnWmdDMEtsbWk5YnY5dGlmVHZJQzB3NGN2NFR1NWlmTmk3eldGNUtpdkwzSkU4Z0VITWwtSmoyQV9MTG42eGRNU1RSTFpDcXJtMkgwM0xyT2tvYjUzc1hGYXFKeUhQNENwUDhMUWJUWWI0OTVWdF9LZEFHV3RmTDVQX0w2QWtLWmNnZ21QUkRIUEpoZXgxNDVPdEdwV3lONmV3UlN6YTdtS21HSndicHk5ZjMzUGx2SjRaUl96X01XSXVJOTA3cmZhcGl2aDJaZ0pRbFEzcS00d1JTTm83ZXM?oc=5",
-          "description": "Montevideo subió 35 lugares en el ranking mundial de turismo de congresos: en qué consiste &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-05T15:01:00+00:00",
-          "score": 3,
-          "score_reason": "Destaca logro positivo, omite conflictividad política presente.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Montevideo avanzó 35 puestos en el ranking de congresos internacionales",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRjk3VTBVVmhZNWhSUDQwam5icXQwTFhRZ1lIVkcteldmSnBFRzk2YU90MDY0UEZGTVZaUURUSDAwRGhvaVNhbzJvOExGR1ViOWlUQ0w3ZUVLQmN6OUlmZlQzdFFpUzJoOW04b2QyN2JnTTNRckpKSTBjTk1ZZGpoN2JOeGxoNFBNZWdVM1RBV19uZEhoNm5obFJZaFVaZzdUOXAzcmRxaHEzNGtQd0pj?oc=5",
-          "description": "Montevideo avanzó 35 puestos en el ranking de congresos internacionales &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-06-05T20:00:20+00:00",
-          "score": 3,
-          "score_reason": "Verbo positivo 'avanzó', énfasis en resultado sin contexto.",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "La Intendencia de Montevideo logró la aprobación de cuatro fideicomisos destinados al turismo de congresos internacionales. Uno fue aprobado por unanimidad y tres contaron con cuatro votos opositores. Como resultado, Montevideo ascendió 35 posiciones en el ranking mundial de turismo de congresos, mejorando significativamente su competitividad internacional en este sector.",
-        "coincidencias": [
-          "Los cuatro fideicomisos fueron aprobados por la Intendencia.",
-          "Montevideo subió 35 puestos en ranking de congresos internacionales.",
-          "La medida vincula turismo de congresos con desarrollo económico."
-        ],
-        "diferencias": [
-          "La Diaria enfatiza proceso político y oposición; portales celebran resultado sin mencionar conflicto.",
-          "Medios comerciales usan lenguaje positivo ('avanzó', 'subió') versus La Diaria que es más descriptivo.",
-          "La Diaria contextualiza aprobación como parcial; otros medios ignoran la división legislativa."
-        ]
-      }
-    },
-    {
-      "id": "story_007",
-      "topic": "Ministro de Economía en Francia habla de comercio",
-      "category": "Economía",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "¿Libre comercio en retroceso?",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14NldjbXJLWWlwZi1DMkZXRUU4LURkNHExamc0S2RXN3ExRVVJdWttWWpSeFBhQkJUT2gzNEJ6dzExUnN0UEQtQ1dvWnctN0VSUkFlRU5NWF9uSGJqUWotcjU0R0dfbmlIV0NudlZZRnNCeHFGRVd1Qk1mcjFXQQ?oc=5",
-          "description": "¿Libre comercio en retroceso? &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-05T07:30:18+00:00",
-          "score": 5,
-          "score_reason": "Pregunta retórica sugiere preocupación sin contexto claro.",
-          "score_pct": 50
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Ministro de Economía contó en Francia cuál es el gran secreto del fútbol uruguayo",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODk4cktCTDRCaVk4SnVpeGdfa3cxUlBVVnNaOWpZbzR4RXV3MlNxX0NFeF95TmN4d3Q5dUhYRl9IZm5acnBvTEowYThnVlpsTkdxZ29CeVFDZUd1SEx5Wnlja09rdWgzdTRNNzVvQVZYalVieWs2OE1mYk9lMmRjOTNaNlZSaV9OMEcyMEpBYkZFcmhVUklrNUxtSjhyV2EzTEtfdVFGZmF4UTlicGFaU2lidHlNcVVyWlVEMWk3SUtQeldZbTFQNtIB7AFBVV95cUxOZWxOMTQ3d1RRbTM4UjB0akJoclAzRnUxb2Z5MlptOGtjdlF4YW9wZXJuQXVrWFdyWEtTZW4tMDlCLXNQQzFpR3h0VGZRbGV4UlJwdkdFYm8tYVJpNzZJZl81b2ZROEg3RE1uaTZxUExhTTVzUktib0V2REhjakdSZG5LWGVGV3k3eV9KVk8zN1NmSTJka1pPWUNEMGlxRS04dldoRm5Dd2gtSWZHRzVXSUFQSE5OczVMbDRfQlRBSUZUcnhwczhZX1NoUGVHQkFiUWtVTE1uVTg3MUljYU9EdWtlUE53eC1XUjBBNg?oc=5",
-          "description": "Ministro de Economía contó en Francia cuál es el gran secreto del fútbol uruguayo &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-05T21:56:00+00:00",
-          "score": 7,
-          "score_reason": "Enfatiza anécdota deportiva sobre tema económico central de la visita.",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "El Ministro de Economía uruguayo participó en un evento en Francia donde abordó temas de comercio internacional y realizó comentarios sobre el fútbol uruguayo. La noticia refleja la presencia diplomática del país en espacios económicos internacionales y las perspectivas del gobierno respecto al libre comercio global.",
-        "coincidencias": [
-          "El Ministro de Economía estuvo en Francia representando a Uruguay",
-          "Se abordaron temas de comercio internacional en el evento",
-          "La noticia vincula economía con elementos de identidad nacional"
-        ],
-        "diferencias": [
-          "El País prioriza el debate sobre libre comercio; Montevideo Portal destaca anécdota futbolística",
-          "El País adopta tono interrogativo y de preocupación; Montevideo Portal usa tono más informal y curiosidad",
-          "El País enfatiza política comercial; Montevideo Portal humaniza la noticia con aspecto cultural"
-        ]
-      }
-    },
-    {
-      "id": "story_008",
-      "topic": "Impacto económico del Mundial 2026 en clubes uruguayos",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Nacional: los tres futbolistas que no continuarán de cara al próximo semestre",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaUZsOVNIVC1peTlNcGxRa0VkSzNVczFpZy1Eay1yMHRYY1hodklNWUluNFNJbERtTUExcXdHUzdxRWVUS0Vvc0U1enBSLUxNUTdRWHRidFFDZkNHbHJtU1ZIT1hIeDVIc1NscGltdlpVOG5mYTYwRDRoVVpNVk5nc2tWV3Q1WXVVeHQydTZoYTBUdWl6RzJRVllrSmNpTXNGcDFEVUxBd3pQeHNReC1obFZ3ZUFZVXcxS25VTkxkeV9GQdIB5gFBVV95cUxQOXNrQXNha2NqZHBsTnpEVkhWNVlyR1hBX00tVEVxR1paazJIeENjdU9TMENaaGN1b3EyQmIwRHRtYjRhUl9Sb1lFbWxXUE1QdEFZZ1hkN2psOEtqdzFDRklOanJvbHA2ZWJGNGU0eV83em5tcUZMSGNLb3kzc1FWZjkwMzNtdGFQWTlUWnNTVDI4X1JLTVN3Tzl6amt4QWJYYlZ2UEpBS1ZiT1hVaTV5M0REd1Q4LXM0WFlsX0dSRWZ0YUwtUTNBaFl1a3pHQjEzMlc2UENDcnV0cXJnR1BqUmRLcmRvZw?oc=5",
-          "description": "Nacional: los tres futbolistas que no continuarán de cara al próximo semestre &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-05T23:20:00+00:00",
-          "score": 2,
-          "score_reason": "Neutral y factual, solo anuncia cambios sin carga emocional.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "De la AUF al mundo: los ingresos inesperados de FIFA que reciben Liverpool, Boston River, River Plate y Montevideo City Torque gracias a la selección uruguaya por el Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQMC1IeGNMQXF6UDF6ZU1KR0dGRVkwenF5TVFIeWpycUlaMzMtSXQzNU13N1h3cS1DaVhJLXdnU0tzOWJTRHNrWDdwV0U1QWQ5bHhqdmg2SE9hQnVoY2JGeGNoOFpiNGlaX1hnT0xrcmpKOWNRYzAxRmt4M2txblJ0OXhuOUh3WUlxTUJRYzJLdlUwWmRTbVZ1a0JGMnFFNVhQUEhDZTBjU3BiaFdPQmJvT1J2WVE0UVJQdDA3N091dllHLW0ydHREaDlyR09oLXhLRmF6NHVZZlBvdHhDSDNNWUdTbWNpTUNFNWQwcnRxa3V6OUJIbVVMQVNNdWE1WjktYzFiMUxIRWE1Vjl2cDR4RWxkZktrQ3dtMUN3UFBjdHBJNUppNjZ2VHhYMkREQWdYVjJTbHJrenJ2RFnSAcACQVVfeXFMT2wyMF9iV0VoRFBUaGdzemp3UmZwQzRvSF83Qm1jUG1PcmR5anJ1OFlfd2dsRkFRNFhnUVhFUDI5dXh1OGE0NkNjVFdFUWQyMkRpWUtUSVJRemY1OW5fMU9Ja29LMEVJbGdYWEJFdjJmanlrUjlvUnFRUlBGZG9ySERlN1BIYjRwaEdIZERoYmh1dkI2cDU5RHBiTzVxSHdSX01mX3lDVWdQNGNkd2FTc19TdXdqcWZSS3gxSWZZaTNnU24tSmIwdkxrdHhIQlA1UGZkZHNrSlJmM3lnbFJKVnA4UHFtLTNodVI5OW5qS1JHeFg3Q2h2YXlGSFRXVWJQVkNtcDIxb2xhcHFBN3VrREVRNlhRUnpvUXkzMF84dFItUDRra09fLWVUNFI5Ty1UcUU5NklLRndJUWJnQk9tckg?oc=5",
-          "description": "De la AUF al mundo: los ingresos inesperados de FIFA que reciben Liverpool, Boston River, River Plate y Montevideo City Torque gracias a la selección uruguaya por el Mundial 2026 &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-05T22:37:00+00:00",
-          "score": 4,
-          "score_reason": "Énfasis positivo en 'ingresos inesperados' con adjetivo emotivo.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "La selección uruguaya participa en el Mundial 2026, lo que genera ingresos económicos para la AUF y algunos clubes del país. El Observador destaca los beneficios financieros que recibirán Liverpool, Boston River, River Plate y Montevideo City Torque mediante fondos de FIFA. Paralelamente, Nacional enfrenta cambios en su plantel con la salida de tres futbolistas para el próximo semestre. Ambas noticias reflejan movimientos en el fútbol uruguayo vinculados al torneo internacional.",
-        "coincidencias": [
-          "Ambos tratan el impacto del Mundial 2026 en el fútbol uruguayo",
-          "Las noticias involucran a clubes y jugadores del país",
-          "Se refieren a movimientos y cambios dentro de instituciones deportivas"
-        ],
-        "diferencias": [
-          "El Observador enfatiza beneficios económicos; Portal se enfoca en salidas de jugadores",
-          "El Observador usa lenguaje positivo ('inesperados'); Portal es meramente informativo",
-          "El Observador menciona varios clubes; Portal se centra únicamente en Nacional"
-        ]
-      }
-    },
-    {
-      "id": "story_009",
-      "topic": "Inversión privada en bodega urbana montevideana",
-      "category": "Economía",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Hermanos uruguayos invirtieron cerca de US$ 1 millón para recuperar una antigua casona de Cordón y convertirla en la primera bodega urbana del país",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMHdqc3ZLQ0QzbGtpQkVRTDl4SGNaVXJyZ05HaHNNRjBWTEMzYWdqaDJBaGhCaFh5ZWRJU0dJRHV6MWliZkVUOEcxWVRvN05XLWNIbWxXaGQwdDMyVUVhSWY2dHJpeXhTTjJ4MFlGTXZGaEI1TlVwLUhQdlpjT0FXSXVXM2hSdzZCMi02VTQ1OG96NGViUW9va2NETjZhSzctRzhEVXpJazVEUFVtT1BCRXVVX01lOW5KZWRwTFZWZ2d2WDdWcEJBenZqTHgxSWVxTFJSbnlXV3FYVXJFbFBOR0VUZmI5UlNzQ0RIdmJaRHhXNENXaEh5S2ZqLWVSU1I5c1NZNk1R0gGLAkFVX3lxTE50NTF5THZ3SmVUVHdPRXBKRFNUZ3dfMEM1cVJwZTQ4TTUzckVRVXM1X1dNRmlLdzE4eDhTVG52eERKaGdFd3ZUUEFBX2szRVZQMVZpcndOX3U4N2dEamVhUnp0LUwxWkZqamFrZTBqU0xQN2V6VUhkZW10aGg3Tmx3VmhBbkRqQ240YUdOLWtVRV8tUjZac0dpUHVlZlJvRXhlZE5SbmoyT29XX1Bid3l3ZFpVZTlfZzRJclpVQl81OHdBcEFBRl9KTElydkR5ekZXVXd5Q216blRBNVBNVjloSS1tWGI4SXJuWVdobnU1Z1g1YmwzeUw3bUswUUhZTHNxdVh4dEdzd21tWQ?oc=5",
-          "description": "Hermanos uruguayos invirtieron cerca de US$ 1 millón para recuperar una antigua casona de Cordón y convertirla en la primera bodega urbana del país &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-05T08:00:00+00:00",
-          "score": 2,
-          "score_reason": "Titular informativo con datos concretos, sin carga emocional evidente.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Junta de Montevideo aprobó fondos millonarios para obras y saneamiento",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWGhlV1JQSEhoY2w1Z0RMUm5uRzhpMzZ5LTJhcGRURG9SUlM2aHVmOUgyX1NLZGVUVWdVbmpsUmRiZUZlVUJoYm5kT1B5T2pXVWxydk1CYy1Nd0dMREF0dlAxX2pibnNxUUpCX1d5VVVqZDdyV2poMFlMVmxXWDVSS1dIR2VrNG1iNkZwV2JCVmx6SUZaRGNEMGRma3JyVTR3aGhQaFhsMFdRa2IxWVE?oc=5",
-          "description": "Junta de Montevideo aprobó fondos millonarios para obras y saneamiento &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-06-05T15:49:48+00:00",
-          "score": 6,
-          "score_reason": "Énfasis en 'fondos millonarios' suena alarmista; oculta el origen privado de la inversión.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "Dos hermanos uruguayos invirtieron aproximadamente un millón de dólares en la restauración de una casona histórica ubicada en el barrio Cordón de Montevideo. El proyecto transformará el inmueble en la primera bodega urbana del país, combinando preservación patrimonial con emprendimiento comercial. La iniciativa representa una apuesta por la revitalización de espacios antiguos en la capital.",
-        "coincidencias": [
-          "Se trata de una inversión de aproximadamente un millón de dólares.",
-          "La iniciativa involucra a inversores uruguayos locales.",
-          "El proyecto se desarrolla en Montevideo, específicamente en Cordón."
-        ],
-        "diferencias": [
-          "El Observador destaca el aspecto empresarial privado; Grupo R enfatiza fondos públicos.",
-          "El Observador menciona la primera bodega urbana del país; Grupo R omite este dato relevante.",
-          "El Observador contextualiza como recuperación patrimonial; Grupo R framing de gasto público."
+          "Montevideo Portal se enfoca en la contienda electoral; Teledoce prioriza el proceso judicial",
+          "Teledoce destaca el timing del juicio previo a elecciones, sugiriendo presión política",
+          "Montevideo Portal presenta equilibrio simétrico entre candidatos; Teledoce cuestiona a Sánchez"
         ]
       }
     },
     {
       "id": "story_010",
-      "topic": "Sesión tensa en comisión sobre Jutep y Moratorio",
-      "category": "Política",
+      "topic": "Pablo González destaca internacionalmente tras carrera",
+      "category": "Deportes",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Difícil de explicar”: entre música y carnaval, fue la jornada solidaria por Moratorio",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRHE0UWwwbFRKdFUxelFzekk0c0ZYQU5kZW9qUHhYLWp6VzRTbjlvVUk5dXFTaWlGbVdRMkptYW5JbjNQTTRaQ1hlbWo2dG5OZ3JPT0xuOFV0SkJBS2EyZno5T1FJVjBjalVCZkUyVU1TX0I3RTlVbnJHU2tXVjBqQ3VPWDR6ajFNN1liaWRObEd3cVluRGRENkoycWlvN0pYblBWdHVMVEgwb1lDVS1XWmlTSkRZeWk5WFROWkplSW44NzB4b0p5OTRfdEzSAfABQVVfeXFMT1FvbWw3X0dlSDdCUGF4MzZmN0hWYnl1SjJJaVNhX1BQZ1FZN3dDVkNOdEZ5ZHBRZ20zZG5GVlpoelVnaGF0WVkxR2lFOFBxb0hfR3Rkb1ZvZGFxUXZpaUMyQXRvei1MN2lxVEw3SjFwLXRXbTk5Wk5LcGl6MUEyVEFRdFo1aGItZERndFhQLWJHM0JuQjBfMjFGdGd3QU9JSV9zam1NVGZKakVxMGdNZGlaa2dEXzVjQU5SaUNPLWc3T0pHWWJ6Y0VIUXB4TnFObUtmT2poQWx6WmUxdzFDQ29oNHc3WHh4S0F1RURKeWc3?oc=5",
-          "description": "“Difícil de explicar”: entre música y carnaval, fue la jornada solidaria por Moratorio &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-05T16:52:00+00:00",
-          "score": 4,
-          "score_reason": "Tono más leve, enfatiza aspecto cultural, pero frase 'difícil de explicar' es algo ambigua.",
-          "score_pct": 40
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "\"Junta de Opacidad y Falta de Ética Pública\" y \"falta de respeto grave\": tensa sesión en comisión de Diputados con cruces sobre la Jutep",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQajhKVzRQSVVMRFBYZ25rNlJkYTA5ZWp3VjZTVkRZcHcydDliaWcydjhuZWVCQkppT09lNVlmUTJzLUowV29PdUctcVc1VFJ5bENZQXQwYWdNb1VmVEFzV2VidlRTZTR4LTRmbmlhMVRpQl9xVVB1TVl1dHBOaHJJOUlURk4tU0ZZR3hVYzhoSnAxU2xXNkFlc1FlcS1ycTlJdi0tX1RWOE9lTW92Y3JMWnRYOEpLelJjaXRZVWdYN0NYT0tmOWhPLWlxdThpSGtkd0xmYWp2UVFDbFhzNHc5VzZtVDl2a1MxZXhYStIB8gFBVV95cUxORnJqb2RLMHBtU2xFRlRqY0daV3FLWW1xUlM4OWlUTmNreEpaTW8tdlFaa0JKYTBxcVpoc1N0Znd5VEI1eXZwTUVkSW50WllrRlVQWkNsNGVuQWwxWGNDbnF1aHdpaTFjbnlZZ3RQVGNhMUFtZ05IWGo4a3p1bzFuaXczaXJIdkhkeTVkMnVqS1FWU08tNjcxVGxmeWZ4aFZkUUVtOS0zVHN2cUN4Y21yX1dUb0hvRG5uRUNZS3pMM18yVGF2TkFKMGY3SFNhWENGN1k4b245eXE4QTh4MmtvbldfNFpqaDNjVkstaVlQdWhHQQ?oc=5",
-          "description": "\"Junta de Opacidad y Falta de Ética Pública\" y \"falta de respeto grave\": tensa sesión en comisión de Diputados con cruces sobre la Jutep &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-06T00:10:00+00:00",
-          "score": 7,
-          "score_reason": "Lenguaje muy cargado: 'opacidad', 'falta de ética', 'tensa', 'grave'.",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "Se realizó una sesión de comisión de Diputados sobre la Jutep con un ambiente tenso y cruces entre legisladores. El encuentro incluyó una jornada solidaria relacionada con Moratorio, que combinó actividades culturales como música y carnaval. Hubo intercambios acalorados sobre cuestiones de transparencia y ética pública, generando un clima de confrontación durante los debates parlamentarios.",
-        "coincidencias": [
-          "Ambos cubren una sesión de comisión parlamentaria sobre Jutep",
-          "Hubo tensión o aspectos controvertidos en el evento",
-          "Se menciona un componente o jornada solidaria relacionada con Moratorio"
-        ],
-        "diferencias": [
-          "El Observador enfatiza conflictividad y cuestiones éticas; Montevideo Portal suaviza el tono",
-          "El Observador destaca cruces y acusaciones; Montevideo Portal resalta aspectos lúdico-culturales",
-          "Encuadres opuestos: uno dramatiza, otro minimiza la gravedad del evento"
-        ]
-      }
-    },
-    {
-      "id": "story_011",
-      "topic": "Militar uruguayo recibe distinción de la ONU",
-      "category": "Internacional",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Militar uruguayo recibirá la máxima distinción al valor de la ONU por rescatar heridos bajo fuego en Congo",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNUhGR3hwWkYxT2NjNEtVeU55cFJsQUUySTlqNnNoN2NtSG0yTFRFZ1VpdjdyeHoxdzI4ODNzVDdObExNRkhlZHFwYkRBTG5BX1l4eEVxS3RZOXJKZ2F5aTd3dTNDeFA3ZTBEVWViOVJqcnZXckpWT1lidmZfY0RkdTN4U0d6cGlwLXVEMi1Ka0ctRFRQWEtMUmVidEZEZEE3dkdaaHZCNG9oLXlUQ3BaTnBsY1Jqay1OcEFzWjRUSFZkSDdfa1VWSXZ2eE50UG9ESUFObEx0S3fSAd4BQVVfeXFMTlByMWI3bXA4VmpiM2tVcnJrS0tQZHZsX01HMjQ2VEx3SHJJenZMamE2TXk4aUJSNzFJQU93bTJ1bVlIY0E2VEY1cVVYbFpidDV0MFRTMHJTcDFKQVVMcktoLVZuelM3MDNkcDhNNTUtSVduelRHUVFqQ0N0TVlESE9vVTBvRGFuOGl3aURVam9USXk2LVhTUWJmakRVS2g4eHQwRmhmY1pvX2prWHV1eGNHNnFfVkN6THhmN2xQVXBGUEt2RVhEemVvN1JPdmczdThlU2tCYkVyR1JVazFB?oc=5",
-          "description": "Militar uruguayo recibirá la máxima distinción al valor de la ONU por rescatar heridos bajo fuego en Congo &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-05T11:20:00+00:00",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Alba Bautista",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NckFwaTRKdi1VLU1kV2lNLWJ0cjdxYUU3dDc2V1Vqamo1UU5yTHo2Ylp3TDQxaU9YMkkwNXFMZmozUFZMNzlNU082bG1qWFJvV2J0NUpKc0ZTLVRJNFNOMUZn?oc=5",
+          "description": "Alba Bautista &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-06-07T03:20:46+00:00",
           "score": 2,
-          "score_reason": "Informativo directo, resalta hechos sin carga emocional adicional.",
+          "score_reason": "Titular minimalista, solo nombra persona sin carga emocional.",
           "score_pct": 20
         },
         {
@@ -718,35 +578,101 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Opinión | El mantenimiento de la paz de la ONU funciona cuando el mundo invierte en él",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNk5MQm9nR3htNlhpUFB4ZkplZFQ2RWtjdFNOMVl2a084UG9JX0h6djUteUYwN19GT3plV0tUdGU4UTJCQlRRZ0JUQ1hseGxyQnczcXdLQUQ0bUtUR2cyY1VFM21GMXh2TmdycTdmaDM4VGJPcW1pR1piTU0xUW01Q0RRVzJidGtjNmJtaDNPaXhOYk1uRDRvY0tkNkVQZjFmcm5ka2VmQzRONW5nTGlaSkc1NXJ2WVV5NElSd0dKN1czMjBpc0RXOHRmaEtENkxCR1HSAfYBQVVfeXFMUHV4anBDZjZpaGZSYnVDdXZwSkl1R0pMa3RHRDJKMkNFOEhHamtxM1BjYjNtZm1BOHpwWnBkemVCa2NLanFNdFZPLTJzQ0pkQjZjZFpmeE9IQmx4UGhSUkFOYWItbHI1RGJEWWFTMThwWjZHRHZRREFHQWVZVEViLUlxUnRDZW1TRzExdUh4YWM0Q0wwUFlDbkRIazhrSzV6MVR6QW5GSVJNMFVMVDY2amE1eUJOTE9nYXBuNmpMMWV3VFpTdTZHRDdpaGhncDFYckhoOXhCUl9od0pFY2FFZF96ZTRYamxuUnVPYV9vMXBlRG0wd3FB?oc=5",
-          "description": "Opinión | El mantenimiento de la paz de la ONU funciona cuando el mundo invierte en él &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-05T16:03:00+00:00",
-          "score": 6,
-          "score_reason": "Enfoque opinión que generaliza sobre funcionamiento ONU, sesgo hacia valoración política.",
-          "score_pct": 60
+          "title": "Pablo González, de dejar el fútbol para cortar el pelo a brillar del otro lado del mundo",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPejlaeEYtT1dxYUNMcFZEdmlxSEJqZTVuaTJQOGdtSEJPT3dOaVFXUjllamtmWHhvTUlUNnp2VDc0ekpmYk5IamswdkhMSFoxdHh4ckl0REFycThjSThjQklfMERLRzcwLXpTWlJXTGxOV3JLc3NwSWNrSHB3VThYUHlsWXRkNWxBN01MckdTOFVfd0lUQ3M4Y3gzRHlXX3FXTEJIUGhNUmNTWERtNzVYUjFJeGF3dGd1OTdIQnFPSUcxSDFBY01kcUp5SXhMbWNf0gH0AUFVX3lxTE1WSTBvd1JOaFNoTHZ2Ymk4WDBTTXd1V1VVX3A1T3RWd09NdXhJUVItYTE3RWdPWGdycmw0MUxaVjlqVzNTd2dkLVJ4OU4ybHRVN3djVGIySnFyZ3lmaV9CbWkta0haSy1rNHlQOERyZkM0SzJLYnJ2aVhJUUpMSWEtSVVNTGY0YjdiTXZKbzVBNWNEYWU3UEdsYm1JMjdGTjRlcmdpZWpmNXBVR2VhOHpuY2hfNzlJdF83T3ljM0hKM1RZMmU3YTN1aWVYMUJZNGVYaVFkbEVod3lDSDNCZUZuN2N0dlo5bGJWd1RJMHBxSUNmSjU?oc=5",
+          "description": "Pablo González, de dejar el fútbol para cortar el pelo a brillar del otro lado del mundo &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-06T11:00:00+00:00",
+          "score": 7,
+          "score_reason": "Narrativa dramática con contraste exagerado: 'dejar-brillar'.",
+          "score_pct": 70
         }
       ],
       "analysis": {
-        "resumen": "Un militar uruguayo fue galardonado con la máxima distinción al valor de Naciones Unidas por su participación en una operación de rescate de heridos bajo fuego en Congo. La acción se enmarca dentro de las operaciones de mantenimiento de paz que desarrolla Uruguay en el territorio africano. Este reconocimiento destaca el compromiso del país con las misiones internacionales de protección civil.",
+        "resumen": "Pablo González, futbolista uruguayo que dejó la profesión para trabajar como barbero, ha logrado reconocimiento internacional. Su trayectoria contrasta con su cambio de carrera, generando interés mediático sobre su desempeño actual en el extranjero. La noticia destaca su evolución personal y profesional más allá del fútbol.",
         "coincidencias": [
-          "Un militar uruguayo recibió reconocimiento de la ONU",
-          "La acción ocurrió en Congo durante operaciones de paz",
-          "Implica rescate de heridos bajo circunstancias peligrosas"
+          "Se refieren a la misma persona: Pablo González",
+          "Mencionan su trayectoria profesional cambiante",
+          "Destacan su relevancia internacional o actual"
         ],
         "diferencias": [
-          "El Observador centra en logro individual; Portal amplía a sistema internacional",
-          "El Observador es noticia factual; Portal es opinión con propósito argumentativo",
-          "El Observador personaliza en el militar; Portal busca reflexión sobre inversión en paz"
+          "Montevideo Portal enfatiza la historia personal dramática; La R solo presenta el nombre",
+          "Un titular es narrativo y emocional; otro es neutro e informativo",
+          "El encuadre de Montevideo Portal busca impacto; el de La R es meramente identificador"
+        ]
+      }
+    },
+    {
+      "id": "story_011",
+      "topic": "Mujer hallada inconsciente con heridas en rostro",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Encontraron a una mujer inconsciente y con sangre en la cara en barrio Colón; está en CTI",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcXVrOVVqMDBvX3RPV2tsLTVrRzItZmtqckxpVFJ5cU9PNGJWdU9nSE9nTnFjQWxUVXB1TkpybzFZSllsY2lpVzJNQTFpNFFPTkdXLXh2SkNNbFlOMUpTLWdyN0lyYlpEYzJ2cVlPX19kMmg5OHREV0lqTmg4bk9oTjIzekJ0cjFyZjViZVg4VmlmMk9NVGJ0cDBHa0dVdEdhLWNreURjaVpMcnVCS0c3b1RhcE1mUUktdnhSUk9vaXhGS1BfY3AzUEZIRFZvOGVEX2fSAfYBQVVfeXFMTVAwWmtRSDg3MmVVSlRVTk9tR2dnRHVvZE9IX3V4alc5VmJ3WGJxVWVQOWZKbTRLVlVPV3RSNGpvbndTeUIxUTZfWHhZcDBlOENiQnlXdTZiVGVjLUtfWGdLLXdQaHBCZ0FDQjdXNW5MNGdSVXpMRzZpRnprZFprLXRRQmhXRFc0NmNDeGRtRVdpNVpSOXZLRWNfWGJXSWRHOHMwUjlidHR3MEhtVS1NbGJkR3A4clBIN2RDaHRpTGZ2SW5GaW1RakZqbjExMHZ3UXQ2TGNzNlItY0Q2Q0o0UkNIa1M2VzRETlFIVk12Q1pKU3FEalBn?oc=5",
+          "description": "Encontraron a una mujer inconsciente y con sangre en la cara en barrio Colón; está en CTI &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-06T20:26:00+00:00",
+          "score": 3,
+          "score_reason": "Describe hechos con leve énfasis en estado visible de la víctima.",
+          "score_pct": 30
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Investigan ataque a una mujer que fue hallada inconsciente en Nuevo Lecocq",
+          "url": "https://www.teledoce.com/telemundo/policiales/investigan-ataque-a-una-mujer-que-fue-hallada-inconsciente-en-nuevo-lecocq/",
+          "description": "La víctima presentaba abundante sangrado en el rostro y permanece internada en CTI; la Policía busca determinar las circunstancias del hecho La entrada Investigan ataque a una mujer que fue hallada inconsciente en Nuevo Lecocq se publicó primero en Teledoce.com .",
+          "pub_date": "2026-06-06T17:22:42+00:00",
+          "score": 4,
+          "score_reason": "Plantea hipótesis de 'ataque' sin confirmar; carga interpretativa moderada.",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "Una mujer fue encontrada inconsciente con sangrado abundante en el rostro en la zona de barrio Colón/Nuevo Lecocq de Montevideo. La víctima fue internada en la Unidad de Cuidados Intensivos (CTI) del sistema de salud. Las autoridades policiales investigan las circunstancias del hallazgo para determinar si se trata de un ataque u otro tipo de incidente. No se especifican detalles adicionales sobre la identidad de la víctima ni el estado de avance de la investigación.",
+        "coincidencias": [
+          "Mujer hallada inconsciente en zona Colón/Nuevo Lecocq",
+          "Presentaba sangrado abundante en el rostro",
+          "Internada en CTI; se investiga lo ocurrido"
+        ],
+        "diferencias": [
+          "Teledoce presupone 'ataque' mientras Montevideo Portal describe sin conclusiones",
+          "Teledoce enfatiza búsqueda de circunstancias; Montevideo Portal solo informa estado",
+          "Énfasis diferente en carácter presuntamente delictivo del hecho"
         ]
       }
     },
     {
       "id": "story_012",
-      "topic": "Declaraciones sobre selección uruguaya y Mundial",
+      "topic": "Agenda deportiva del sábado 6 de junio",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Agenda deportiva del sábado 6 de junio: fútbol, rugby, ciclismo, tenis y mucho más",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHVaRTEtdktuSnVfM3VRRkFOTTlOeTkwaTZWU1V0dFUxQ0kzTVNoYmo0LUM4UDktUTdQRGc2WHhxSUlSZGh6ZUdieXV0Z0RZZHZQSlIzT1I1YTNROG9tcjBUd3RQS29Ua1p3T1NqSXpGdDBBeDViUGVsaHRLanJyblpwOXBrcHBMcDdwaEptMEI4eVk1dDhLNmJfWjF4OWVQdTF0dWRZY0RQdlF1Q2RWamNfQThmVTk3Qzl5Y29UR3RmaGhO0gHoAUFVX3lxTE91SjhSU1QyRU1pUnhHZ1N0Wlo0VlRjd3BvMGtjT0R1Wkc2UFJrdGlxbkJVZ1ZSQ25yVEo3X09XZmU1YlhvVTB4X2hOQXpublJQUkQ1Y3V3c0xIS05BczFmcHFpSmxvNXlaN1RGUXpJSi1XRkhYZkFwLWI0NjFaVmM0clBzRVFId1o5empLZTB0RElGbFVZd1lzaXA5MFoxTzU4NjhnQkltX1pVOUYwZkxlRVk3U05ua3VMamlfV3JhSGRwOVpVUmVWT1ZQR0ZfTmlTbUdTZHdxMkxxR21aQm90bURRTjVnSi0?oc=5",
+          "description": "Agenda deportiva del sábado 6 de junio: fútbol, rugby, ciclismo, tenis y mucho más &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-06T03:10:00+00:00",
+          "score": 1,
+          "score_reason": "Titular informativo, enumera deportes sin carga emocional.",
+          "score_pct": 10
+        },
         {
           "source_id": "espectador",
           "source_name": "El Espectador",
@@ -754,116 +680,86 @@
           "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.espectador.com",
-          "title": "Álvaro Gutiérrez: “para mí Nahitan tenía que estar en la Selección pero yo no soy el técnico”",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPakZBLWdtU1BoZWgtV0NFNEl3QVlmUzlIdThENlgyUjFMMnNoaVNwTnkwWjVPVmlyeXB2d0ZnSGJObk9DVG1xRDZKSFgxYWJvWUpMOVh0Z2VLQTBwMWxEclkySThNcHpoVjMtdnlLOWg3ZGtvbVBXVlM0MDJwUmg2MmkwbGIwZVB1eHJkOFJxbHpEc2tKeEdFQnRkVk1MaHIzRGRJWk1ZWlhQV2JWV3FVc3d3Sml4eVBvNHBUMVk3YXBXUFRoaFNtcmRyNzVRV0pGR3AxeWxyV0dxSHM3?oc=5",
-          "description": "Álvaro Gutiérrez: “para mí Nahitan tenía que estar en la Selección pero yo no soy el técnico” &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-06-05T20:40:23+00:00",
-          "score": 3,
-          "score_reason": "Presenta cita directa sin adjetivos; énfasis leve en desacuerdo tácticamente expresado.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Guzmán Rodríguez se la jugó y anticipó: “Eliminaremos a Argentina en el Mundial”",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdl9LVlZnR2hRT25uSXIxWEhSWERoeGVKNHg2RTRvV2R2N2R6VEFnUmRNSnZkN083ekRxNzFUY2pmcDdzVzZKcmxRc2J3US1EZDRGcG1QNDYzN2w2cEdGSHVXSHFOdWtzdWdGYmNxSHZVZDFkdjNicTNDLXMtVWNoekMzX2NtVXNNRGpXSkN0NksycVFhUDBIVy1yYk9WX3Q1Y1dOM1ZFaWM2ckd4WWNFdENXNVZ3bW9CXzExUzBsVUJFZ19qdGc?oc=5",
-          "description": "Guzmán Rodríguez se la jugó y anticipó: “Eliminaremos a Argentina en el Mundial” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-05T20:13:00+00:00",
-          "score": 8,
-          "score_reason": "Usa lenguaje sensacionalista con 'se la jugó' y anticipa confrontación dramática.",
-          "score_pct": 80
+          "title": "Programa completo del 06/06/2026",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaGJQc093UkNVUU9ybzJHVW9sLTFYVVF5c2FPOUZNejZDSG1VRnQxQnBaY3daUUU2ZVczWlk3b3FXTWJGanFLUDRzdEJTXzhlZ1FONnBJTFBvZmcyUkUtRzNsQTgyeFp6RFVuUUZTZHlLeTh4QTV1RnBLN01kVzBDWUg1Q3hyUG0wOERB?oc=5",
+          "description": "Programa completo del 06/06/2026 &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-06-06T12:42:51+00:00",
+          "score": 1,
+          "score_reason": "Descripción neutral y genérica, solo señala fecha y alcance.",
+          "score_pct": 10
         }
       ],
       "analysis": {
-        "resumen": "Guzmán Rodríguez, exfutbolista o personalidad del fútbol uruguayo, realizó declaraciones sobre posibles enfrentamientos en un Mundial contra Argentina. Simultáneamente, Álvaro Gutiérrez, técnico de la selección, fue consultado sobre la ausencia de Nahitan Nández en la convocatoria. Gutiérrez manifestó que consideraba que Nández debería estar presente, pero aclaró que no es él quien toma las decisiones de selección. Ambas declaraciones generaron comentarios sobre decisiones y perspectivas respecto al equipo nacional.",
+        "resumen": "Ambos medios anuncian la cobertura de la programación deportiva del sábado 6 de junio de 2026. Se incluyen distintas disciplinas como fútbol, rugby, ciclismo y tenis. Los titulares presentan información sobre los eventos programados para esa jornada sin detalles específicos de partidos o competiciones particulares.",
         "coincidencias": [
-          "Ambos relatan declaraciones de figuras vinculadas a la selección uruguaya",
-          "Se tratan temas de decisiones y composición del equipo nacional",
-          "Las declaraciones generan expectativa sobre próximos desafíos futbolísticos"
+          "Ambos anuncian la agenda deportiva del sábado 6 de junio",
+          "Los dos medios cubren múltiples disciplinas deportivas",
+          "Presentan información sin enfoque sensacionalista"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza promesa ofensiva; El Espectador cuestiona decisión técnica",
-          "Portal usa tono aventurero; Espectador mantiene distancia informativa equilibrada",
-          "Portal anticipa confrontación futura; Espectador documenta evaluación actual de convocados"
+          "Montevideo Portal especifica deportes (fútbol, rugby, ciclismo, tenis) mientras El Espectador no los menciona",
+          "Montevideo Portal suma 'mucho más' sugiriendo mayor variedad de eventos",
+          "El Espectador usa término 'Programa completo' mientras Portal dice 'Agenda deportiva'"
         ]
       }
     },
     {
       "id": "story_013",
-      "topic": "Punta Ballena ingresa al Sistema de Áreas Protegidas",
-      "category": "Política",
+      "topic": "Homicidio de joven en zona metropolitana",
+      "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Comisión de Maldonado aprobó el ingreso de Punta Ballena al Sistema de Áreas Protegidas",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQS13NFFBNmk1bmJSeV9xZkNibUIyeU85STlDdzhoWXRGVURzX2xzU2YzSjlnSGprOEtQNVpNMzExMi04NHFqVXlYc3ZVNEVnMGVmVFI4alV6T2FZUmY5OFZSdWxfanZVSG10Vm5KQm9hQThKWDFDRGtKRmhPbl81YUpSNWI3dkFLQnZWZU5pWWRva1ZLemJMRVBkTWRubTB3dlVnbkR4bGhYcElrdG9NM0xpOFNOVmUtdGdDZ2E4eGJHS0p5RjBxeWo5d3ZPdVZy0gH0AUFVX3lxTFB5RUNxZTg2VUEtNm5tU09FSHNtdDhZQ3BLQ3RhcF9KQjZqVGpvM2RnWWQ1b1R3MFVyLU9CVjU2ZlR3a0V3Nmxwd1h5a3M3VkowZHk3aXh4Ym5YTHlPWV9ucHVHb1psaENFS0JnWFpiMklTaDJoRUx6MWtTN0RRTDF0RTluT0tVVEtfZExKTTdvb1JCZUo3dHhQdk5BcTV0SWlVUmpqaEI0QlVPZDVqYkgxOEJaQi1CTUZEWERhaVRjOHJ1RGd1aEYtWUdXV0t0Q0JnT3dZLU5TRU1UV3FCSlU5T0ZEcy1zaDl5em5WTjNLdTRiR3M?oc=5",
-          "description": "Comisión de Maldonado aprobó el ingreso de Punta Ballena al Sistema de Áreas Protegidas &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-05T00:02:00+00:00",
-          "score": 1,
-          "score_reason": "Lenguaje directo, factual, solo informa el hecho ocurrido.",
-          "score_pct": 10
+          "source_url": "https://www.teledoce.com",
+          "title": "Un hombre de 27 años fue asesinado en el barrio Nueva España",
+          "url": "https://www.teledoce.com/telemundo/policiales/hombre-de-27-anos-fue-asesinado-en-el-barrio-nueva-espana/",
+          "description": "En el lugar se encontraron más de 16 casquillos de bala La entrada Un hombre de 27 años fue asesinado en el barrio Nueva España se publicó primero en Teledoce.com .",
+          "pub_date": "2026-06-06T19:23:34+00:00",
+          "score": 2,
+          "score_reason": "Información factual directa sin carga emocional o sensacionalismo.",
+          "score_pct": 20
         },
         {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Comisión aprobó ingreso de Punta Ballena a las áreas protegidas",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaG5MMVoxNENCa3FjYjlFbkpKMUhCSm9KbElucFZ6Q1BCZGxlSmRLV1V6S19GYkdfLVFmeTJncl9OemcwdTd3dFVlelVBaXNYNlVFWWZseUFPbVBmb25yUU9rX09BTkMzemd5NXgxSnh0czlvUHoySVJVMkdEUDhIeDZZcUZpVVRhZE94WE5LMzE5dEtiTV96eG8zM3VCUE1XQkc5Rw?oc=5",
-          "description": "Comisión aprobó ingreso de Punta Ballena a las áreas protegidas &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-06-05T19:17:21+00:00",
-          "score": 1,
-          "score_reason": "Redacción simple y neutral, sin adjetivos ni énfasis particulares.",
-          "score_pct": 10
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Segundo homicidio del día en Punta de Rieles: atacaron a tiros a un joven de 27 años",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPalhVT0JBTDFMSzVLTks1WHFsXzNlRzRVYXBzVlNwQTJhNUJXWjF6S0NOcVA5cGNvS3RnUWd2d1NnMUZGZVVMaUU4R1VueTBrUnNpT1VOZWl6RnQ3MGRTMkFoMHQtbXhTNmgwcnJtMk1XUVZKck5Nb0FKWmo3SDdWa1NWVjB1Ry01dVpPZ1FrdHE3VE5Tb3pzenBrZHpneXdIaWdJRGZzM1lrckl10gGyAUFVX3lxTFB1NUxNVzRMTGFtWDFWZXRsR0JiS0ZJWkI3RVJtTWxLOGJ5dHRvVVZvNXdJM1lOeXJJMDFsdy1SaDVEX1FwOHFhV1Nka3d2RTE2dGtkYjhfaXAxeG0wOWM1Ujdrdk5rTldKdjc5a0VCQVZLTi11MHR6NVBnVllHY3ZfRGVPRXlIcG1CQmpoWDl6akNCaE1zOGxvRFVhTkl3S2FIR0hxWXJQN1VUOEpNZFktNlE?oc=5",
+          "description": "Segundo homicidio del día en Punta de Rieles: atacaron a tiros a un joven de 27 años &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-06T19:56:00+00:00",
+          "score": 6,
+          "score_reason": "Énfasis en contexto de múltiples crímenes, genera alarma.",
+          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Una comisión departamental de Maldonado aprobó la incorporación de Punta Ballena al Sistema de Áreas Protegidas de Uruguay. La decisión fue tomada por el organismo responsable de evaluar y autorizar la inclusión de nuevos espacios en esta categoría de protección ambiental. Se trata de una medida que busca resguardar la zona bajo regulaciones específicas para su conservación.",
+        "resumen": "Un hombre de 27 años fue asesinado a tiros en la zona metropolitana de Montevideo. Según los reportes, se encontraron más de 16 casquillos de bala en el lugar del hecho. El incidente ocurre en un contexto de violencia que registra múltiples homicidios en el día. Las autoridades investigan las circunstancias del crimen.",
         "coincidencias": [
-          "Ambos confirman que una comisión aprobó la medida",
-          "Ambos mencionan a Punta Ballena como zona incorporada",
-          "Ambos refieren al Sistema de Áreas Protegidas como destino"
+          "Víctima masculina de 27 años fallecida",
+          "Asesinato por arma de fuego en zona metropolitana",
+          "Hallazgo de evidencia balística en la escena"
         ],
         "diferencias": [
-          "Montevideo Portal especifica que la comisión es de Maldonado",
-          "Grupo R omite la procedencia geográfica de la comisión",
-          "Variación mínima en estructura sintáctica sin cambios de significado"
+          "Subrayado destaca el carácter de segundo homicidio del día; Teledoce omite contexto temporal",
+          "Subrayado usa 'Punta de Rieles'; Teledoce identifica 'barrio Nueva España' (posible discrepancia geográfica)",
+          "Subrayado enfatiza frecuencia delictiva; Teledoce reporta hallazgo específico de casquillos"
         ]
       }
     },
     {
       "id": "story_014",
-      "topic": "Estados Unidos propone aranceles; Uruguay sin confirmación",
-      "category": "Economía",
+      "topic": "Delincuente condenado a prisión preventiva tras libertad",
+      "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Lubetkin aseguró que \"no recibimos una comunicación oficial\" de EE.UU. por posible suba de aranceles",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUZKZEtxTjk4cHNOUFZDb3ZMTkttbFVlb2hJVEJ0TGFPWi04aXBwc3NXQWx2SjBMcE1FRWZqZHZJajhtd0NzVnlUcnBhZjdpNVhzQ3VtUUpfZU5aQThpSnlrbGFENk1OVlU3Umtkc01GTmx2WGxTWkVHRFJXci04N2xUQ2xLWFJtVFBtcTZ5X2RxOHhtNWd1RElQZXhGVlJkZW16V1VrT1lUdUhjdXNHV2stQVU0NjZxSFNLd21mZ09nd9IBxwFBVV95cUxPRXBDRWJEdVZiX3k5UEpxb3dYN0t3VDFLdEpxTDFfdi0yb1Nsd2RxLWxVWDFDZUpTaXBNbmhjWHlEb3Q3aTY0cVkyNjg5ekFILWtMVmNObGRyM3FHQkNwZTNiRUE3Y2ZuYkp2Y3plNnFVV0t2a2gwcjI4cVdESU9SalB1bjVYLUtvUklDRDFCS2h3WU81dW8zQ1FVQl90di04ckJNSXVlT3lQVTFHbTE2dkJya2pxQjJHa0Z4a0h3cWota0NZT0pz?oc=5",
-          "description": "Lubetkin aseguró que \"no recibimos una comunicación oficial\" de EE.UU. por posible suba de aranceles &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-05T19:33:00+00:00",
-          "score": 2,
-          "score_reason": "Enfoque factual en la falta de comunicación oficial, sin carga emocional.",
-          "score_pct": 20
-        },
         {
           "source_id": "teledoce",
           "source_name": "Teledoce",
@@ -871,32 +767,47 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "\"Tenemos que saber si eso efectivamente va a acontecer\": Lubetkin dijo que no se ha confirmado nuevo arancel de 12,5% de EEUU",
-          "url": "https://www.teledoce.com/telemundo/nacionales/tenemos-que-saber-si-eso-efectivamente-va-a-acontecer-lubetkin-dijo-que-no-se-ha-confirmado-nuevo-arancel-de-125-de-eeuu/",
-          "description": "El Representante Comercial de Estados Unidos (USTR) propuso el martes nuevos aranceles a 60 economías, entre ellas China, la Unión Europea (UE), México o Ecuador, por considerar que no combatir suficientemente la importación de bienes procedentes del trabajo forzado La entrada &quot;Tenemos que saber si eso efectivamente va a acontecer&quot;: Lubetkin dijo que no se ha confirmado nuevo arancel de 12,5% de EEUU se publicó primero en Teledoce.com .",
-          "pub_date": "2026-06-05T19:01:14+00:00",
+          "title": "Imputaron al motochorro que había quedado en libertad por error administrativo de Fiscalía",
+          "url": "https://www.teledoce.com/telemundo/policiales/imputaron-al-motochorro-que-habia-quedado-en-libertad-por-error-administrativo-de-fiscalia/",
+          "description": "Estará 180 días en prisión preventiva mientras dura la investigación La entrada Imputaron al motochorro que había quedado en libertad por error administrativo de Fiscalía se publicó primero en Teledoce.com .",
+          "pub_date": "2026-06-06T20:03:41+00:00",
           "score": 3,
-          "score_reason": "Añade incertidumbre con 'tenemos que saber si eso efectivamente va a acontecer'.",
+          "score_reason": "Lenguaje informativo, destaca el error administrativo como dato central.",
           "score_pct": 30
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Siete meses de libertad a prueba para delincuentes que fueron detenidos cuando cometían un robo piraña",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdDU2MXVBWFZvM2dMNFdqNWg3NlJQcUF5TXdxWFBZWXJtR0F2dTRmMGFHdWpTU3FWR01qOUhMNVhFT2hEbGozNlp3a0VVeDB3Ymh5LW5QRWU3Slg1S2VwdUl6R21jMG1UVUtiNDB2UjJ3UnJKdjktSk9DLVNNa3IzRjRTbTlzd01sU1VxZWZKZVNYNkx4ZE5oVXQ4QTVxUVRodHB0cTVwa1ljdnk5SlJKaC0xMEpHVWtLTlJaYmV4bmN3cFRLYTNZNURR0gHPAUFVX3lxTE5VR3Z4S3ZyLV9hVjhoZzFpN3p6clhDeDlEOFExR1IxejdSNEtJaTF0bXFmM2NHTmRkUHE0WFZNYjF4d19abEhscl9tTVRrS053Z0ZGY2o3b2pha25WRnhvSE14bTk1RWNFcDlJd1ZUZ3BLeGNzYkM3cHk3Z3dhc2d4ZHFVMEJrVTd2bXgyOGtvUl94MG9BZnVZMFkyelh0dHFRVFU0aXhSQjAwYTJYZWFhOGR4QTFQaU9GRVhaczFKSHlFWjNSbkc0OHduUXlDdw?oc=5",
+          "description": "Siete meses de libertad a prueba para delincuentes que fueron detenidos cuando cometían un robo piraña &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-06T16:28:00+00:00",
+          "score": 7,
+          "score_reason": "Uso de término 'delincuentes' y énfasis sensacionalista en la sentencia inicial.",
+          "score_pct": 70
         }
       ],
       "analysis": {
-        "resumen": "Estados Unidos propuso nuevos aranceles a 60 economías, posiblemente incluyendo Uruguay con un 12,5%. El ministro Lubetkin informó que no ha recibido comunicación oficial del gobierno estadounidense confirmando esta medida. Uruguay está en espera de clarificaciones sobre si efectivamente se aplicarán estos aranceles y en qué condiciones.",
+        "resumen": "Un sujeto detenido durante un robo piraña fue condenado a siete meses de libertad a prueba, pero posteriormente quedó en libertad por un error administrativo de la Fiscalía. Tras ser nuevamente aprehendido, fue imputado y ordenada su prisión preventiva por 180 días mientras continúa la investigación del caso.",
         "coincidencias": [
-          "No hay confirmación oficial de Estados Unidos sobre los aranceles a Uruguay",
-          "Lubetkin es la fuente principal de información sobre la situación",
-          "Existe incertidumbre sobre la aplicación efectiva de nuevos aranceles"
+          "Un delincuente fue detenido cometiendo un robo piraña",
+          "Recibió una sentencia inicial de libertad a prueba",
+          "Posteriormente fue procesado con prisión preventiva de 180 días"
         ],
         "diferencias": [
-          "Subrayado enfatiza la ausencia de comunicación; Teledoce enfatiza la necesidad de confirmación",
-          "Teledoce menciona el porcentaje específico (12,5%); Subrayado omite este detalle",
-          "Teledoce contextualiza con otras economías afectadas; Subrayado mantiene foco en Uruguay"
+          "Subrayado enfatiza la condena inicial; Teledoce destaca el error de Fiscalía",
+          "Subrayado usa lenguaje más sensacionalista; Teledoce es más neutral",
+          "Subrayado generaliza a 'delincuentes'; Teledoce individualiza el caso"
         ]
       }
     },
     {
       "id": "story_015",
-      "topic": "Condenan a líder narco de Maldonado a prisión",
+      "topic": "Motochorro recapturado tras robo en Punta Carretas",
       "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
@@ -907,13 +818,13 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "Líder de banda narco capturado en Maldonado irá a prisión",
-          "url": "https://www.teledoce.com/programas/esta-boca-es-mia/lider-de-banda-narco-capturado-en-maldonado-ira-a-prision/",
-          "description": "Tras acuerdo abreviado cumplirá condena de tres años y 10 meses. La entrada Líder de banda narco capturado en Maldonado irá a prisión se publicó primero en Teledoce.com .",
-          "pub_date": "2026-06-05T18:34:47+00:00",
-          "score": 2,
-          "score_reason": "Información factual sin énfasis adicional, lenguaje neutral.",
-          "score_pct": 20
+          "title": "Recapturaron al motochorro que había quedado en libertad por error administrativo de Fiscalía",
+          "url": "https://www.teledoce.com/telemundo/policiales/recapturaron-al-motochorro-que-habia-quedado-en-libertad-por-error-administrativo-de-fiscalia/",
+          "description": "El hombre fue recapturado en las últimas horas en Malvín Norte. La entrada Recapturaron al motochorro que había quedado en libertad por error administrativo de Fiscalía se publicó primero en Teledoce.com .",
+          "pub_date": "2026-06-06T17:14:33+00:00",
+          "score": 4,
+          "score_reason": "Informativo con leve crítica institucional implícita al destacar error.",
+          "score_pct": 40
         },
         {
           "source_id": "subrayado",
@@ -922,33 +833,33 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Líder narco de Maldonado fue condenado a casi cuatro años de prisión; Operación Jacobo tuvo 10 condenados",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYkpCTS04bEJseWhhOU80TFR1RFhKMHhhcXZveFFMX2xXWDVPWUxCME9YVy0tZ01vNHYyZEczSXhEQzVPS3BIMXFxRWo3elp3RjJ6MFZYQmVKZk9WRUlqXzhZZGJRN2tYTjJXd2N0TlcyazFyTklRWGQ3SXdMWW9HSHdfaVhQdml0X3JUYi1GQ2g5VTVTYkhPVjFrRUcxQ2gtb05SdXVCYmthT3dhanN6M2FRRlFnZlVLQnp6VlZFeFNadGJCaFhVQUpkUkxzUWvSAdQBQVVfeXFMTjFIYWhYbXhpUUtRbjJVRkZyQTItTkxNYnZFc3NJQ3JGTm5RWE5WVWVzLUs3Wk1aN1Rka1BYOFJrbndlSVE5TUxpcU5YbUZoRlNGWEdpZnB1QU5EQS1GQTBVZS11bDNqWU0yY0JlMm9BTHRFSVhhd2pFSmIzVUVWZlpMNUQ2QlRxUXByQmdnbEpyelB2MkRqc0tLQ3hUUnNQcWVCMG01NHhjSVkyY29yYnlIZnZzVVdONDRJUHByR05WZDhXcDkwazBkUndQemRJWVRGZ1E?oc=5",
-          "description": "Líder narco de Maldonado fue condenado a casi cuatro años de prisión; Operación Jacobo tuvo 10 condenados &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-05T14:35:00+00:00",
-          "score": 3,
-          "score_reason": "Enfatiza magnitud de operativo al mencionar 10 condenados.",
-          "score_pct": 30
+          "title": "Por la vereda, en moto y con uniforme de delivery, delincuente arrebató un celular en Punta Carretas: quedó filmado",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdndzc0RLb3piT0R4dDVtalRENHBTZWJIdzRrc045T1FCOU5uNGt6S2ZEVWIwUjdFSUxUZFpzUFJFUGJJRTYwdDViUml0a0c0V3RSaFBlNWxhMXE1SFZMTTE1SGZBcTl2NlBzSTBWLUpIT3NiY3lsSEJLV01Qd29FMXROYUVFXzk4d0hTQ1dxWUF4U1V3Wm5vSTdQWVlhS1dscWgtY0NYMFJZaDdMQi1TMHVmRzdld1hhZTBuejBSenVVbmV0cUlIaXktb2o0bzV3Q2tB0gHYAUFVX3lxTE9rREdGcHRDUG1OdGFrdS1QS2t5TjA1akphaVJFenp6VjQxNG5tR25HdG9MQmZyZ3p6a1Q1WWxzRC1SZHBibmc4U3g3Nnh3MXUyYmgzV2U0VC1GN1hEMUYwdWRqLXUxLV9acUNVY1pYc3NHSFlLampnT1dIcE9OVWFWWUxOTkZ5b203aXdkTVJ1X21DcERaR3lkWUlUUFUwZk0yMU56OU5sdnpTT2pHZmtrcG1TSEtTZFFHV3R1RkVDd0xSU1BWMlBuNDNYU0F3WmVfS0tNRWthdg?oc=5",
+          "description": "Por la vereda, en moto y con uniforme de delivery, delincuente arrebató un celular en Punta Carretas: quedó filmado &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-06T20:49:00+00:00",
+          "score": 5,
+          "score_reason": "Énfasis en detalles visuales; tono alarmista con énumeración dramática.",
+          "score_pct": 50
         }
       ],
       "analysis": {
-        "resumen": "Un líder de banda narco capturado en Maldonado fue condenado a prisión mediante acuerdo abreviado. La pena es de tres años y diez meses. Esta condena forma parte de la Operación Jacobo, que resultó en un total de diez condenas. La sentencia se llevó a cabo en el marco de procedimientos judicales contra organizaciones dedicadas al tráfico de drogas en la zona.",
+        "resumen": "Un delincuente robó un celular mediante arrebato en Punta Carretas, desplazándose en moto y usando uniforme de delivery. El hecho quedó registrado en cámaras de vigilancia. Posteriormente, el mismo individuo fue recapturado en Malvín Norte después de haber sido puesto en libertad por un error administrativo de la Fiscalía.",
         "coincidencias": [
-          "Líder narco fue capturado en Maldonado",
-          "Cumplirá condena de aproximadamente tres años y diez meses",
-          "Se trata de una condena por tráfico de drogas"
+          "Ambos medios confirman que se trata del mismo delincuente.",
+          "Ambos refieren el robo en Punta Carretas y la posterior recaptura.",
+          "Se menciona en ambos casos el uso de moto como medio de desplazamiento."
         ],
         "diferencias": [
-          "Subrayado contextualiza con Operación Jacobo y sus 10 condenados; Teledoce se enfoca solo en el líder",
-          "Subrayado usa 'casi cuatro años'; Teledoce especifica 'tres años y diez meses'",
-          "Subrayado enfatiza dimensión de operativo; Teledoce mantiene enfoque individual"
+          "Subrayado enfatiza los detalles visuales del delito (uniforme, vereda, moto); Teledoce enfatiza el error administrativo de Fiscalía.",
+          "Subrayado prioriza la descripción del evento delictivo; Teledoce prioriza la cuestión de la gestión institucional fallida.",
+          "Subrayado usa lenguaje más descriptivo y visual; Teledoce usa lenguaje más directo y centrado en hechos procesales."
         ]
       }
     },
     {
       "id": "story_016",
-      "topic": "Junta Departamental aprobó fideicomisos para obras",
-      "category": "Política",
+      "topic": "Velatorio del Indio Solari en Avellaneda",
+      "category": "Cultura",
       "sources_count": 2,
       "headlines": [
         {
@@ -958,13 +869,13 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "Junta Departamental aprobó fideicomisos extrapresupuestales",
-          "url": "https://www.teledoce.com/programas/esta-boca-es-mia/junta-departamental-aprobo-fideicomisos-extrapresupuestales/",
-          "description": "Los fondos serán destinados a saneamiento, limpieza, veredas y calles. Recibimos a Gonzalo Žuvela Ferrou, edil del Frente Amplio. La entrada Junta Departamental aprobó fideicomisos extrapresupuestales se publicó primero en Teledoce.com .",
-          "pub_date": "2026-06-05T18:31:00+00:00",
-          "score": 1,
-          "score_reason": "Título neutro, informativo, sin carga emocional ni énfasis particular.",
-          "score_pct": 10
+          "title": "Velorio del \"Indio\" Solari será este domingo en Avellaneda; se esperan miles de personas que lleguen desde distintos puntos",
+          "url": "https://www.teledoce.com/telemundo/cultura-y-espectaculos/velorio-del-indio-solari-sera-este-domingo-en-avellaneda-se-esperan-miles-de-personas-que-lleguen-desde-distintos-puntos/",
+          "description": "La familia del artista realizó previamente una ceremonia privada La entrada Velorio del &quot;Indio&quot; Solari será este domingo en Avellaneda; se esperan miles de personas que lleguen desde distintos puntos se publicó primero en Teledoce.com .",
+          "pub_date": "2026-06-06T18:51:34+00:00",
+          "score": 2,
+          "score_reason": "Neutral, informativo; solo constata hechos sin adjetivos cargados.",
+          "score_pct": 20
         },
         {
           "source_id": "subrayado",
@@ -973,77 +884,26 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "\"Es gratificante\": Bergara destacó aprobación de fideicomiso para saneamiento, veredas, calles y limpieza",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYUJfbjkzank1SlYtZUxJY0JoZFJsZ1FZQ1MwN05YZXQ2UXZHMTdkS0h0V2pxT1JRbThoY3NJX2FqZkp5TUVteVJPV0NiU3VOT2RpeTNnOWZUTUQwZlRfLTRyVW8wMXEzalluS2FRNnp2NEVKUDRRWUxfY2I2TmtZaG5wZ0NHc2lsZm52NFpHLWlxbFVISzRBckhDV0JTMHRfRUNFa2Y1SlJoSVNESEdyZzZIeTRHZzdNRnJjNjRfUXktMTN6ZWdGS0tn0gHPAUFVX3lxTE1aQmV0ZXJMNlA5R1kyWW42VjEyeDA0Wk1hSy1hcDdQNE9kbzJaUEEyYTBtZlBYczlvYUtvV19SaGYyQ0ZMZC1wbDQzUTBJNTJvYVRRdHB5V3ZNMWNqRjl4MVE5emxYbjd3S1Q3dDVwRl9OVDNReElfaTlSQ2lyc0NBeTFrX0dJRmZTTllwRHVCeXZyMXF4MEdtY0xTUFRGMG93djdVT0pqZm1scVhXc2VkNkRpVEhEdXRhX2MtcFNJNU96X0p2VHpqYjZGY3p5NA?oc=5",
-          "description": "\"Es gratificante\": Bergara destacó aprobación de fideicomiso para saneamiento, veredas, calles y limpieza &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-05T17:51:00+00:00",
+          "title": "Velatorio del Indio Solari será el domingo en Avellaneda; miles se volcaron a las calles para despedir a la leyenda del rock",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLXlOYUc3WkFSN1ZBNGE3RkU5VXBUck5Lc0JudTBuSWpaZU9tbDZ3NXR1UjZqYk5VYlFJbEdtZ3Yza0hGdTdBSEVDYXo0Yk1VNHE2OEd0TGhCQ3NfaEYyRlNIcXYtZ0dwaTl1Qml6MUhXMlh5cjd6bWRnSGtiRmVtdDUxbFBaREQ4NXdLQ3ZIZ3QyaHNXT2NaU1JDYkpGR2I2aTV2ejIwSGFueVBhdjhRVThpNWczOVFQN2xwYkFueE9nWE96TWxFM2FhZ3lLVXBNVm5TZVhueHdKN0FsbURsTEhvVdIB6AFBVV95cUxObVRQUjdfTnV4Yk5PNlJMR3h5ZWdiV2NkT2dGLTctOE12WWtiOGlPRFdoM2VsVERLY0pZSmxHbkIzenlKNk5KTTdmYzhGV3hma0VHeFg1ekxYTi1sTEpxdElEaGJBSlhjMEpRS2JodUNybVIxV3A5X0VjazlFa1hkcDZzamFFcEtIdDJkTHBrQ0MxYmtRNmxETzNMMkFpZ1R6U01XZjJrN09kcmtLb2N1Vmw1cW45c0FLLXNCN3R6OHBydWlLMGV0NHdMYWE0UDJVdkw0NDZYNGp2d2V1MFJIaXRCV1RHV3FO?oc=5",
+          "description": "Velatorio del Indio Solari será el domingo en Avellaneda; miles se volcaron a las calles para despedir a la leyenda del rock &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-06T12:42:00+00:00",
           "score": 6,
-          "score_reason": "Prioriza declaración emocional de funcionario sobre hechos objetivos.",
+          "score_reason": "Usa 'leyenda' y 'se volcaron'; lenguaje emotivo y laudatorio.",
           "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "La Junta Departamental de Montevideo aprobó fideicomisos extrapresupuestales destinados a financiar obras de saneamiento, limpieza, veredas y calles. El intendente Bergara valoró positivamente la aprobación de esta herramienta de gestión financiera. Los fondos permitirán ejecutar proyectos de infraestructura sin afectar el presupuesto ordinario del departamento.",
+        "resumen": "El Indio Solari, legendario músico argentino, tendrá su velatorio el domingo en Avellaneda. Se espera la concurrencia de miles de personas de distintos puntos para despedir al artista. Previamente, la familia realizó una ceremonia privada. El evento genera una importante movilización de seguidores que desean rendirle homenaje al reconocido rockero.",
         "coincidencias": [
-          "Ambos medios informan sobre aprobación de fideicomisos extrapresupuestales.",
-          "Coinciden en que los fondos se destinan a saneamiento, limpieza, veredas y calles.",
-          "Ambos cubren la misma sesión de la Junta Departamental."
+          "El velatorio será el domingo en Avellaneda",
+          "Se esperan miles de personas asistentes",
+          "Viene de Argentina, evento de relevancia cultural"
         ],
         "diferencias": [
-          "Subrayado enfatiza la opinión positiva del intendente; Teledoce mantiene distancia neutral.",
-          "Subrayado usa comilla directa emotiva; Teledoce presenta solo hechos.",
-          "Subrayado da protagonismo a Bergara; Teledoce incluye perspectiva opositora (Žuvela)."
-        ]
-      }
-    },
-    {
-      "id": "story_017",
-      "topic": "Fiscalía investiga múltiples balaceras en Montevideo",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Fiscalía investiga balaceras en varias zonas de Montevideo: las últimas en Marconi, Las Acacias y Capra",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb3dwdUc0NVNTZUJZWU9HaGRaZ0JCUlUyZUpSc0hQTFN1NWVoVHF6XzIzNHpxNHVWSFpWalBlTXVDd1J5SXlOVTJRUjNrZmYydVVFWkQzZmt6ZUNkX3llSVhiRUhUcXRkd1NMRXNfMmYtUTRBaUIxamlESHJONTEtS18tTElwaVJfY2FicExmVUl5UmR1MHdVSmJVVkVpQ2kwbU9yOWdLZVBUTnNGdDVlR3VMUElSTnBIVWoyR2k0QWNwM0Rnb1JWdDRB0gHPAUFVX3lxTE82bU1wVGc1UVRnMDR5RjZZVFlQNnEwOHM3cDdleXNXYl85WG0wUkNISTI3a3dza1pseGNfd3A4SjI3eFBwUmtheEhKcjNrS3BPN1dYVmpHa2RfdjNEV3J3clViY29KQ3pqVGFaUEhSZ3hYSVkzWElQclZBUFByR3dUdVgzcThvUVdlR1VER2RqaUlSWVowbEh6WlU2UUQ1eVVvdDNnd2xmMTExMUZjR3E5QlRHN21fZ3praHBLdEZsZVZ4amNQY01nUDY5TnFQSQ?oc=5",
-          "description": "Fiscalía investiga balaceras en varias zonas de Montevideo: las últimas en Marconi, Las Acacias y Capra &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-05T19:15:52+00:00",
-          "score": 1,
-          "score_reason": "Listado factual de zonas, sin adjetivos ni énfasis alarmista.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Fiscalía investiga balaceras registradas en distintos puntos de Montevideo con apoyo del sistema ShotSpotter",
-          "url": "https://www.teledoce.com/nota/fiscalia-investiga-balaceras-registradas-en-distintos-puntos-de-montevideo-con-apoyo-del-sistema-shotspotter/",
-          "description": "Las actuaciones ya derivaron en allanamientos, detenciones e incautaciones de armas de fuego. La entrada Fiscalía investiga balaceras registradas en distintos puntos de Montevideo con apoyo del sistema ShotSpotter se publicó primero en Teledoce.com .",
-          "pub_date": "2026-06-05T19:22:12+00:00",
-          "score": 2,
-          "score_reason": "Informativo, añade detalle técnico sobre ShotSpotter sin sensacionalismo.",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "La Fiscalía uruguaya investiga varias balaceras ocurridas en distintas zonas de Montevideo, incluyendo Marconi, Las Acacias y Capra. Las actuaciones derivaron en allanamientos, detenciones e incautaciones de armas. Para la investigación se utilizó el sistema ShotSpotter, que detecta disparos automáticamente. No se especifican víctimas ni circunstancias precisas de los hechos.",
-        "coincidencias": [
-          "Fiscalía investiga balaceras en múltiples puntos de Montevideo",
-          "Se realizaron allanamientos, detenciones e incautaciones de armas",
-          "Los hechos ocurrieron en distintas zonas de la capital"
-        ],
-        "diferencias": [
-          "Subrayado enumera zonas específicas; Teledoce enfatiza la herramienta tecnológica ShotSpotter",
-          "Teledoce resalta las consecuencias operativas (allanamientos, detenciones); Subrayado solo menciona ubicaciones",
-          "Teledoce da contexto metodológico; Subrayado presenta información más austera y directa"
+          "Subrayado enfatiza el carácter legendario; Teledoce es más factual",
+          "Subrayado destaca que 'miles se volcaron'; Teledoce solo dice que se esperan",
+          "Subrayado carga emocionalmente; Teledoce mantiene tono informativo objetivo"
         ]
       }
     }
