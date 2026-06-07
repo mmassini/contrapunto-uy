@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-06-07T21:38:46.154005",
+  "generated_at": "2026-06-07T21:49:39.685456",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Selección uruguaya: ranking FIFA y rugby seven",
+      "topic": "Actualidad deportiva de selecciones uruguayas",
       "category": "Deportes",
       "sources_count": 3,
       "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Rugby seven: Uruguay cerró último sin victorias en Bordeaux y descendió a segunda división",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcXpRODQ5VDI3aVo5cE45N1RXREZVSVVQM0lzT0kwbGVUTm5nQ0tkNHhkVjVHTkVELWFFRnZBT0pxeGtkbG5ZUnlHT1I5ZWJ6NTA4R1FJSGVqYTdCd0NJbmZmd2gzNHhfY0VzRDVaYTRVdXliaGJueTlLVWctVkppZ0RjVk9SOXloNjNlOEw3ZHlRdDR3MkNkTUlXaDRROG1VNWZrb1Z2SnNNZldYTTZHVm9WMjZ0Q0UwRXpmenFHSl9YOGs4Qk5DNWJ0NkVWRnFYQk1V0gH3AUFVX3lxTE9mN3E4ZkJ6VzRFaTJhZ2FzS25wQy1WeFcwVUROZi1vRHdjMnY2VGZqd2ppelFOYTJjXzBuZXNYc09OUXZ3TVZYMzFOX2ROeGhuUFl5UGZoTUhzR01FTHl6Q0RoVk5ZcW5Oc2E4WEpLTnRCam5jRnJmWE1NWGhLUjJ1ODB0YVlYUHhRRHR5ZzBGS0NVVFZsalRvbGxPTlhtWmlmRTU1QXRNWjVNb3NTOS1KNF9OOXNvWV9tQ25fNEFhV1FhSkVtMkRSWWpNbm5pRXhmR2NfdFQtVC1TLTA4RnhjMEpFLTViV0xnUEhHSkVpQ2VYSlJtdDQ?oc=5",
+          "description": "Rugby seven: Uruguay cerró último sin victorias en Bordeaux y descendió a segunda división &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-07T11:18:00+00:00",
+          "score": 1,
+          "score_reason": "Neutral, expone hechos concretos sobre resultado del rugby",
+          "score_pct": 10
+        },
         {
           "source_id": "elpais",
           "source_name": "El País",
@@ -19,7 +34,7 @@
           "description": "Uruguay escaló en el Ranking FIFA pese a no jugar amistosos antes del Mundial 2026: la razón y en qué puesto está &nbsp;&nbsp; EL PAÍS Uruguay",
           "pub_date": "2026-06-06T21:51:06+00:00",
           "score": 2,
-          "score_reason": "Informativo, presenta hecho con contexto explicativo claro.",
+          "score_reason": "Informativo, explica causas del ascenso en ranking FIFA",
           "score_pct": 20
         },
         {
@@ -34,9 +49,30 @@
           "description": "Última parada antes del Mundial: la selección uruguaya hizo su segunda despedida en Canelones &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-06-06T13:40:00+00:00",
           "score": 2,
-          "score_reason": "Descripción factual de evento; 'última parada' es contexto Mundial.",
+          "score_reason": "Descriptivo del evento de despedida en Canelones",
           "score_pct": 20
-        },
+        }
+      ],
+      "analysis": {
+        "resumen": "La selección uruguaya de fútbol ascendió posiciones en el Ranking FIFA sin disputar partidos amistosos previos al Mundial 2026, mientras la selección realizó una segunda despedida de sus hinchas en Canelones antes de viajar al torneo. Paralelamente, la selección uruguaya de rugby seven finalizó sin victorias en el torneo de Bordeaux y descendió a la segunda división del circuito mundial. Los tres medios informaron sobre situaciones diferentes de las selecciones nacionales en sus respectivas disciplinas deportivas.",
+        "coincidencias": [
+          "Los tres medios cubren noticias deportivas de selecciones uruguayas",
+          "Todos informan sobre acontecimientos previos a competencias internacionales",
+          "Ninguno presenta editorializaciones o posturas políticas"
+        ],
+        "diferencias": [
+          "El País enfoca en el ranking FIFA y situación pre-Mundial de fútbol",
+          "Montevideo Portal destaca el descenso del rugby seven uruguayo",
+          "Subrayado cubre el evento de despedida de la selección en Canelones"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Orsi reconsiderando su viaje al Mundial",
+      "category": "Política",
+      "sources_count": 3,
+      "headlines": [
         {
           "source_id": "montevideoportal",
           "source_name": "Montevideo Portal",
@@ -44,35 +80,14 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Rugby seven: Uruguay cerró último sin victorias en Bordeaux y descendió a segunda división",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcXpRODQ5VDI3aVo5cE45N1RXREZVSVVQM0lzT0kwbGVUTm5nQ0tkNHhkVjVHTkVELWFFRnZBT0pxeGtkbG5ZUnlHT1I5ZWJ6NTA4R1FJSGVqYTdCd0NJbmZmd2gzNHhfY0VzRDVaYTRVdXliaGJueTlLVWctVkppZ0RjVk9SOXloNjNlOEw3ZHlRdDR3MkNkTUlXaDRROG1VNWZrb1Z2SnNNZldYTTZHVm9WMjZ0Q0UwRXpmenFHSl9YOGs4Qk5DNWJ0NkVWRnFYQk1V0gH3AUFVX3lxTE9mN3E4ZkJ6VzRFaTJhZ2FzS25wQy1WeFcwVUROZi1vRHdjMnY2VGZqd2ppelFOYTJjXzBuZXNYc09OUXZ3TVZYMzFOX2ROeGhuUFl5UGZoTUhzR01FTHl6Q0RoVk5ZcW5Oc2E4WEpLTnRCam5jRnJmWE1NWGhLUjJ1ODB0YVlYUHhRRHR5ZzBGS0NVVFZsalRvbGxPTlhtWmlmRTU1QXRNWjVNb3NTOS1KNF9OOXNvWV9tQ25fNEFhV1FhSkVtMkRSWWpNbm5pRXhmR2NfdFQtVC1TLTA4RnhjMEpFLTViV0xnUEhHSkVpQ2VYSlJtdDQ?oc=5",
-          "description": "Rugby seven: Uruguay cerró último sin victorias en Bordeaux y descendió a segunda división &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-07T11:18:00+00:00",
-          "score": 3,
-          "score_reason": "Lenguaje directo; énfasis en lo negativo sin carga excesiva.",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Uruguay experimentó movimientos contradictorios en el deporte nacional. La selección de fútbol escaló posiciones en el ranking FIFA sin jugar amistosos previos al Mundial 2026, producto de recálculos de la clasificatoria. Simultáneamente, el equipo de rugby seven descendió a segunda división tras cerrar último sin victorias en el torneo de Bordeaux. La selección de fútbol realizó su segunda despedida en Canelones antes de la competencia mundial.",
-        "coincidencias": [
-          "Todos cubren actividades de selecciones uruguayas cercanas al Mundial.",
-          "Todos mencionan hitos o cambios de posición/desempeño de equipos.",
-          "Todos refieren eventos ocurridos en territorio o contexto uruguayo."
-        ],
-        "diferencias": [
-          "El País destaca avance en ranking; Montevideo Portal enfatiza descenso deportivo.",
-          "Subrayado enfoca acto ceremonial; otros priorizan resultados competitivos.",
-          "Tono de El País es más neutral; Montevideo Portal usa lenguaje más contundente."
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Orsi evalúa asistencia al Mundial de Uruguay",
-      "category": "Política",
-      "sources_count": 3,
-      "headlines": [
+          "title": "“Les dije a los jugadores que me guardo para la final”: Orsi no irá al Mundial salvo gesta",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZW0yOHNUWTJpVDd5TDBiNHhzMWNzMF8wOXhHVVAtSVhrbU5ZYWZEanhXSmVQV1dvN2hneHhuWHQ4dXQ0SUZ4S1FRY1RabXMwSGJITHVfbHMtcHpxaU5qMnJ3MGpkU0pCRmtuZGRockRHTEtvcW5xRHYtQXdaLWVydDdNOVNqbWN3UXhPN3IxcTQ1VUJ2dWJJdjNSS3lIc2ZfSnNyUkpiLWpPS1hadndVblk1UlNldjVjOUVrcVd3MGtZQ2RBZFJFMUloelJkcmFMdnpr0gH3AUFVX3lxTE5JMkJ3MjB1VVdHYU1USmYtNEo4YlREeUtZbE9sTnRtcFpESlJPUzdyV1VTUE1KM1FmUWVhWWhVeGZuVG1EdUJESTNCY1RLVWJJdkVuSEZnZlhfbEhpMm1Kd1k1WXNkM3p6VktkUlNfZ0hGY0lNck1oWUNNR2Z1QnZxSmp5SkF2ZGREazc3MmpwZ3VGU296VGt2OWpkMHhMaWlPajhpWi1PUTNkNTJQcXpneVVOMVZ6bmJKNUVWaUNUUFZvdW5oS0ZpNGx0dWtxcDVSTFpQNGdKUEJjNEMtdW5SdDBEMVJ1Mllnb1pSdEJiYnQ3WmdSNk0?oc=5",
+          "description": "“Les dije a los jugadores que me guardo para la final”: Orsi no irá al Mundial salvo gesta &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-06T18:55:00+00:00",
+          "score": 2,
+          "score_reason": "Cita directa, informativo, con leve tono editorial en selección",
+          "score_pct": 20
+        },
         {
           "source_id": "subrayado",
           "source_name": "Subrayado",
@@ -85,23 +100,8 @@
           "description": "\"Hoy me levanté reconsiderando\": Orsi dijo que se está \"cuestionando\" si viaja o no a ver a Uruguay al Mundial &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-06-06T18:08:00+00:00",
           "score": 4,
-          "score_reason": "Destaca «reconsiderando» y «cuestionando» reflejando genuina incertidumbre del personaje.",
+          "score_reason": "Enfatiza indecisión mediante comillas, moderadamente sugestivo",
           "score_pct": 40
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Les dije a los jugadores que me guardo para la final”: Orsi no irá al Mundial salvo gesta",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZW0yOHNUWTJpVDd5TDBiNHhzMWNzMF8wOXhHVVAtSVhrbU5ZYWZEanhXSmVQV1dvN2hneHhuWHQ4dXQ0SUZ4S1FRY1RabXMwSGJITHVfbHMtcHpxaU5qMnJ3MGpkU0pCRmtuZGRockRHTEtvcW5xRHYtQXdaLWVydDdNOVNqbWN3UXhPN3IxcTQ1VUJ2dWJJdjNSS3lIc2ZfSnNyUkpiLWpPS1hadndVblk1UlNldjVjOUVrcVd3MGtZQ2RBZFJFMUloelJkcmFMdnpr0gH3AUFVX3lxTE5JMkJ3MjB1VVdHYU1USmYtNEo4YlREeUtZbE9sTnRtcFpESlJPUzdyV1VTUE1KM1FmUWVhWWhVeGZuVG1EdUJESTNCY1RLVWJJdkVuSEZnZlhfbEhpMm1Kd1k1WXNkM3p6VktkUlNfZ0hGY0lNck1oWUNNR2Z1QnZxSmp5SkF2ZGREazc3MmpwZ3VGU296VGt2OWpkMHhMaWlPajhpWi1PUTNkNTJQcXpneVVOMVZ6bmJKNUVWaUNUUFZvdW5oS0ZpNGx0dWtxcDVSTFpQNGdKUEJjNEMtdW5SdDBEMVJ1Mllnb1pSdEJiYnQ3WmdSNk0?oc=5",
-          "description": "“Les dije a los jugadores que me guardo para la final”: Orsi no irá al Mundial salvo gesta &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-06T18:55:00+00:00",
-          "score": 5,
-          "score_reason": "Enfatiza condición («salvo gesta») generando dramatismo sobre asistencia.",
-          "score_pct": 50
         },
         {
           "source_id": "elpais",
@@ -114,28 +114,28 @@
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSi16SXJ4Mm0zUk5mNURLbjVSUEh2a1BPcFhkYWd5N3BxcjR1N29VcjdlTzRTZkU1eGdiSkJueVVOU1ZQdndMQ0NUZ0VZeHRkcVczMkExZXlKQWVrNUY0ZU5UXzhUYTNHY3NYZThqRkdYVzJVeVl1OFhBbF9FNk9QMWpIZDlPTVlWZ2FmcDVwV1B3M09xd010Rk1NRHNLRGwyRlFlSVlQa3VJSDhOZHMxeEppQklCVUYxZG5qeGd0b191akdPRzhoLXY2bTBrUQ?oc=5",
           "description": "\"Estoy más para no ir\": los \"dolores de cabeza\" a resolver que alejan a Yamandú Orsi del Mundial &nbsp;&nbsp; EL PAÍS Uruguay",
           "pub_date": "2026-06-06T14:50:38+00:00",
-          "score": 6,
-          "score_reason": "Usa metáfora negativa «dolores de cabeza» para dramatizar indecisión.",
-          "score_pct": 60
+          "score": 5,
+          "score_reason": "Uso de 'dolores de cabeza' añade dramatismo innecesario",
+          "score_pct": 50
         }
       ],
       "analysis": {
-        "resumen": "Yamandú Orsi, candidato político uruguayo, manifestó dudas sobre su asistencia al Mundial de Qatar. En declaraciones a jugadores de la selección, indicó que preferiría guardarse para la final del torneo. Orsi expresó estar reconsiderando su participación debido a diversos compromisos y «dolores de cabeza» a resolver. Sus comentarios generaron repercusión mediática con diferentes énfasis según el medio.",
+        "resumen": "El presidente electo Yamandú Orsi manifestó que está reconsiderando su posibilidad de viajar a Estados Unidos para presenciar partidos de Uruguay en el Mundial. Orsi habría comentado a jugadores de la selección que se guarda para una eventual final, indicando que está más inclinado a no asistir en la fase inicial del torneo. El mandatario electo argumentó que enfrenta diversos asuntos pendientes de resolver antes de asumir la presidencia. No obstante, dejó abierta la posibilidad de viajar si Uruguay alcanza instancias finales. La decisión refleja el balance entre sus responsabilidades institucionales próximas y su conocido interés por el fútbol.",
         "coincidencias": [
-          "Orsi manifestó dudas sobre su asistencia al Mundial",
-          "Expresó argumentos relacionados con compromisos previos o prioridades alternativas",
-          "Sus declaraciones fueron dirigidas o referidas a jugadores de la selección"
+          "Orsi está reconsiderando su asistencia al Mundial",
+          "Existe la posibilidad de que viaje si Uruguay llega lejos",
+          "Orsi ha manifestado tener asuntos pendientes por resolver"
         ],
         "diferencias": [
-          "El País enfatiza problemas a resolver; Subrayado enfatiza el cuestionamiento personal",
-          "Montevideo Portal subraya condición de «gesta»; otros evitan dramatismo similar",
-          "Subrayado presenta incertidumbre como proceso mental; otros como decisión casi tomada"
+          "El País enfatiza los problemas a resolver que lo alejan del viaje",
+          "Montevideo Portal destaca la frase sobre guardarse para la final",
+          "Subrayado resalta la indecisión y el cuestionamiento del presidente electo"
         ]
       }
     },
     {
       "id": "story_003",
-      "topic": "Central Español y Racing empataron sin goles",
+      "topic": "Empate 1-1 entre Central Español y Racing",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
@@ -150,9 +150,9 @@
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0JNUmlLcV9CUlRCZkJES3FvUnpIWFJMRnFNYTJoU290SjcyVTZXWWFIOGU3TG5YdnBGdWFHdmFPVHFMZUQxWkpORy16UEhMakU4N3dTVXRxdV84V0ZCa2FIVzE5RFd3ay1JWmdEdFUybm12eE83RDBQbURiRE1xOUIyTEFvdHNPSzRjQVNRejN4anJmTUp1TUtZYkRXRWhkcmJRdl9xQUpXaWZaQWVQQll2Q2RsVlJOcGYwWjN6blRGY253ZWRMbkdB?oc=5",
           "description": "Intermedio: Central Español y Racing están empatando sin goles en el Parque Palermo &nbsp;&nbsp; Montevideo Portal",
           "pub_date": "2026-06-06T13:00:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo y neutral, solo reporta situación al intermedio.",
-          "score_pct": 10
+          "score": 0,
+          "score_reason": "Información neutral del resultado parcial al entretiempo del partido",
+          "score_pct": 0
         },
         {
           "source_id": "espectador",
@@ -165,28 +165,28 @@
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWtjeWdPRDBoUnBNTzJ1amE2UTFXc3FIM043aVpiVVJJekp3RGVGemVPSVVzMktaNGszY3VZWURLbTJRcndDLVN2V2ZTNThFQ3puMkJUeFVadHdKajA2VUFfWjV3SDhTRm5TSFlWX252TWlQUnlkZTg4Nk5WVklrN3h2c0tSRkV5enNCVzVGSW4ycVRNbVNici1kaWRzUFU?oc=5",
           "description": "Central Español empató 1-1 con Racing en el Palermo | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
           "pub_date": "2026-06-06T17:25:44+00:00",
-          "score": 2,
-          "score_reason": "Neutral, informa resultado final sin carga emocional o énfasis particular.",
-          "score_pct": 20
+          "score": 0,
+          "score_reason": "Reporta objetivamente el resultado final sin valoraciones ni sesgos",
+          "score_pct": 0
         }
       ],
       "analysis": {
-        "resumen": "Central Español y Racing disputaron un partido en el estadio Parque Palermo. Montevideo Portal reportó que al intermedio estaban igualados sin goles. El Espectador informó que el partido terminó 1-1. Se trata de un encuentro entre dos equipos de fútbol uruguayos en una competencia local, jugado en cancha de Racing ubicada en Montevideo.",
+        "resumen": "Central Español y Racing empataron 1-1 en un partido disputado en el Parque Palermo. El encuentro correspondiente al fútbol uruguayo finalizó con ese resultado. Montevideo Portal había informado durante el entretiempo que el marcador estaba 0-0, mientras que El Espectador reportó el resultado final del cotejo. El partido se desarrolló en la cancha de Central Español ubicada en el barrio Palermo de Montevideo. Ambos equipos sumaron un punto en la tabla de posiciones del campeonato uruguayo.",
         "coincidencias": [
-          "Ambos medios cubren el mismo partido entre Central Español y Racing",
-          "Ambos identifican correctamente la cancha: Parque Palermo",
-          "Ambos son medios uruguayos informando sobre fútbol local"
+          "Ambos medios informan sobre el mismo partido en Parque Palermo",
+          "Los dos mencionan a Central Español y Racing como protagonistas",
+          "Coinciden en la ubicación del encuentro deportivo"
         ],
         "diferencias": [
-          "Montevideo Portal reporta estado al intermedio; El Espectador da resultado final",
-          "Diferencia temporal: uno es cobertura en vivo, otro es resultado definitivo",
-          "El Espectador especifica marcador 1-1; Portal solo menciona 0-0 al intermedio"
+          "Montevideo Portal informa el resultado al entretiempo (0-0), El Espectador el final (1-1)",
+          "Diferente momento temporal de la cobertura del mismo evento deportivo",
+          "El Espectador brinda el resultado definitivo, Montevideo Portal solo parcial"
         ]
       }
     },
     {
       "id": "story_004",
-      "topic": "Incendio destruye vivienda, dos personas rescatadas",
+      "topic": "Incendio con dos heridos graves rescatados por Bomberos",
       "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
@@ -202,7 +202,7 @@
           "description": "Bomberos rescataron a dos personas que sufrieron múltiples quemaduras de entidad en incendio de vivienda &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-06-07T16:28:00+00:00",
           "score": 2,
-          "score_reason": "Lenguaje técnico, describe hechos sin énfasis emocional.",
+          "score_reason": "Descriptivo y técnico, usa terminología especializada sin dramatismo",
           "score_pct": 20
         },
         {
@@ -217,21 +217,21 @@
           "description": "Una mujer de 53 años y un hombre de 24 fueron rescatados por Bomberos y trasladados a un centro de salud La entrada Dos personas sufrieron graves quemaduras tras un incendio que destruyó una vivienda se publicó primero en Teledoce.com .",
           "pub_date": "2026-06-07T17:06:02+00:00",
           "score": 3,
-          "score_reason": "Uso de 'graves' añade carga, pero mantiene tono informativo general.",
+          "score_reason": "Enfatiza la destrucción de la vivienda, añade contexto emocional leve",
           "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Un incendio destruyó una vivienda en Uruguay, dejando dos personas con graves quemaduras. Una mujer de 53 años y un hombre de 24 fueron rescatados por Bomberos y trasladados a un centro de salud para recibir atención médica. El siniestro consumió la vivienda completamente. Las autoridades respondieron rápidamente al llamado de emergencia.",
+        "resumen": "Bomberos rescataron a dos personas que resultaron con quemaduras graves tras un incendio en una vivienda. Los afectados son una mujer de 53 años y un hombre de 24 años. Ambos fueron trasladados a un centro de salud para recibir atención médica. El siniestro destruyó la vivienda. Las autoridades bomberas realizaron las tareas de rescate y extinción del fuego. No se informaron más detalles sobre las causas del incendio ni sobre el estado de salud actual de las víctimas.",
         "coincidencias": [
-          "Dos personas sufrieron quemaduras en un incendio de vivienda",
-          "Bomberos realizaron rescate y traslado a centro de salud",
-          "Ocurrió en Uruguay e involucra a instituciones locales"
+          "Dos personas resultaron con quemaduras en el incendio",
+          "Bomberos realizaron el rescate de las víctimas",
+          "Los heridos fueron trasladados a centro de salud"
         ],
         "diferencias": [
-          "Subrayado enfatiza la acción de rescate de Bomberos; Teledoce enfatiza la gravedad de las lesiones",
-          "Subrayado usa 'múltiples quemaduras de entidad'; Teledoce simplifica a 'graves quemaduras'",
-          "Teledoce incluye edad de víctimas; Subrayado no proporciona datos personales"
+          "Subrayado usa terminología técnica ('quemaduras de entidad'), Teledoce dice 'graves quemaduras'",
+          "Teledoce especifica edades (53 y 24 años) y género de las víctimas",
+          "Teledoce destaca que la vivienda fue destruida en el titular"
         ]
       }
     }
