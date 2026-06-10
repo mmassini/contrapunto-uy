@@ -1,215 +1,11 @@
 {
-  "generated_at": "2026-06-09T12:42:16.065380",
+  "generated_at": "2026-06-10T13:01:23.608267",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Turista uruguayo muere ahogado en Brasil",
-      "category": "Sociedad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Identifican al turista uruguayo que se ahogó en una playa de Arraial do Cabo, en Brasil",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM3IyTXVIdFo4YkJlLWl6QU1Zak90STZLX0JlOVFydlJRc19hdEJ2S004RzRhcVRhVHJBaFotZUxlTTNBdWhLV2QwUTdRc2g1ZWlWLWJHbE9fMnVKRmVrM3JVWTdZTFNqQkNnUjgwdktEWW4wdWY1Z3Vyb0o2S3ZBeXZ6dXRZbTg0eGZ1WnVxLVRNQjQtV04xT2wwU1FZRjN1QUlXZWt2c3JoZmVRR2U4eUE2RTF0RmZ4aVVlM1FMNlpXVGJMZ0F5OXJCd1BfYXpPR1U2Ti1SZw?oc=5",
-          "description": "Identifican al turista uruguayo que se ahogó en una playa de Arraial do Cabo, en Brasil &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-08T16:14:50+00:00",
-          "score": 1,
-          "score_reason": "Objetivo, informativo, se centra en la identificación de la víctima",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Tristeza: un turista uruguayo se ahogó en una playa de Río de Janeiro",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONkZCbVZNYWU3dGJfM3hFM2JEcEFSVUYyTlh1SjdIVE9rcVJFbnZjb1p3U0luLU4xOXJzRkVrUmFDdUQxWkY3WmQyUFFjVF9qWlpYeTYzc1RiQmpZVlpEZkNXeVRxdFNCa0JkY2tVV1ItdlFYMzBSWHB3SXdhM01rcFJWZmJyMVNxZzJEcWtnZXlOQ3JIQS1OMjFFNkdsQ2cxLWZRUkNReDl6cEpXWmFJYzVNZXctWWPSAdsBQVVfeXFMT0FLazVrYkNFbFBRN2xXS2dCV0xfWGdSQmc4cDFBajgwNjZFRFZ5UVBGRjZhcVBidXhlXzVSaFN0WElZNF9MUnVKX0lTeFpoSEFwZ1VJX2hISUFaTkJnTzVwdlZvVUhVSVJ3WkJpblpueXVpdWxfdjV3bld2bXc4dUJmQTBoSmtVZkV5NHg5b3gxZktIQldFeWEyTlhvX0hUYVBsS1RxekMyRHkwd1ROODJ3NXRYdlZFNUw1ckZPSy1wNjZRV0RRM0ZEU2YxMG5WYnl6TFVxNzh3N2hN?oc=5",
-          "description": "Tristeza: un turista uruguayo se ahogó en una playa de Río de Janeiro &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-08T11:45:00+00:00",
-          "score": 5,
-          "score_reason": "Incluye carga emocional con 'Tristeza' y error geográfico considerable",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "Un turista uruguayo murió ahogado en una playa de Arraial do Cabo, en el estado de Río de Janeiro, Brasil. El hecho ocurrió en una playa de esa localidad costera brasileña. Las autoridades locales identificaron posteriormente a la víctima como ciudadano uruguayo. El incidente se suma a otros casos de turistas que sufren accidentes en playas brasileñas durante la temporada de verano. Los medios uruguayos reportaron el hecho basándose en información de fuentes locales. No se han difundido mayores detalles sobre las circunstancias exactas del ahogamiento ni la identidad completa de la víctima.",
-        "coincidencias": [
-          "Reportan la muerte de un turista uruguayo en Brasil",
-          "El fallecimiento ocurrió por ahogamiento en una playa",
-          "La víctima fue identificada como ciudadano uruguayo"
-        ],
-        "diferencias": [
-          "El País especifica correctamente Arraial do Cabo, Montevideo Portal indica erróneamente Río de Janeiro",
-          "Montevideo Portal añade valoración emocional 'Tristeza' en el titular",
-          "El País enfatiza la identificación, Montevideo Portal el hecho del ahogamiento"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Bielsa convoca 12 juveniles para Mundial",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial: los 12 juveniles convocados por Bielsa para viajar como sparrings con Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObFVhZ0xoaF82clhIRjBGODk1WmFMRkpTNFBCUUR0c21ZdTFfOHFuLU1kQXdzMVpLNXFJajViRFF5Vkt6blN3N3VOYlFJRTdYUVRJamVGMHZiMDFuc0JMXzVQX0pqaWRKN0ptbU44b3ZQeFJLX2JFcDhEdVM5RjV0N2YybC0xOEJiRmwwQlZCajVVdFN2ZE1sZjM3QmVxenVTc3YtOWd3OE43WWVqaTBBNWVZMllyN0g5WUdMY2VUODlsT1JDYmdBWGdRM0lVd9IB8gFBVV95cUxPb0RoMi14OWJkQmtHbkdNQlIwaWFEZTRoQ2VTbWl4eC01SmZFOFRfWFJPTTZnYzBZWmdzUEhuSWM1R1JhUkpWbVF3MndWMW02aWM4cUU5ZE9yczFXOUNvSm1hNkxreUJFYTJCU1daM1c2SWh2R1JBOGFUMkdEVVluYjVrOEJGQkFpVXJqS2g2b092am5TUHdzVmY5YWdWSkY5ZHpwZ2pyUS03WVFKSVU0UVZJTllYdGkyQTJsQm9pYU9lUkdBckVfemNUZGVITGxRbmh5VnJ6MWFONlRpcHhiWVp4WVM5SzNWcDJjNG1JRU5TUQ?oc=5",
-          "description": "Mundial: los 12 juveniles convocados por Bielsa para viajar como sparrings con Uruguay &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-08T22:35:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo directo, sin carga emocional ni énfasis particular",
-          "score_pct": 10
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Los 12 juveniles que irán con Uruguay al Mundial: uno de Nacional y Peñarol es de los clubes que más aportó",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNXJVRFdhT0FFanViSHp5T0F5YWNBalhEWnlQQVFMVWlJdDhlYVhmQlBfLUlrYmY1UG9pQkRCTm1XRDRKbjhMN05aTFNtYnlCdkRUYUJyNDN5RUZYUkR6czk1bGlqVXA2eDlDNVQybmI0eS1KZTI5eXFLQ2oydnB5YVRsbzVia1BVeDlyUU1EWUwxcDdCYUpPTU5pd1BQSVlNR2FJZkNLSVJKU3JJRnEyRHNiVF9Gak91NVJKR3YwclZiUkNXU0ZndjR5SFYzWTFGUWVzTC1xcVFZMW0wd0hsbA?oc=5",
-          "description": "Los 12 juveniles que irán con Uruguay al Mundial: uno de Nacional y Peñarol es de los clubes que más aportó &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-08T23:09:21+00:00",
-          "score": 4,
-          "score_reason": "Enfatiza el aporte de clubes específicos, genera expectativa innecesaria",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "El entrenador de la selección uruguaya de fútbol, Marcelo Bielsa, convocó a 12 futbolistas juveniles para viajar al Mundial como sparrings del plantel principal. Entre los convocados hay un jugador de Nacional. Peñarol figura como uno de los clubes que más jugadores aportó a esta nómina juvenil. Estos futbolistas acompañarán a la selección mayor durante la competición para entrenar con el equipo titular y servir de apoyo en las prácticas. La convocatoria incluye jugadores de distintos clubes del fútbol uruguayo que cumplirán funciones de entrenamiento junto a los seleccionados principales durante el certamen mundialista.",
-        "coincidencias": [
-          "Son 12 juveniles convocados para el Mundial",
-          "Viajarán con la selección uruguaya",
-          "La convocatoria fue realizada por Bielsa"
-        ],
-        "diferencias": [
-          "El País destaca la procedencia de clubes, especialmente Nacional y Peñarol",
-          "Montevideo Portal enfatiza la función como sparrings sin destacar clubes",
-          "El País usa enfoque más nacionalista, Montevideo Portal es más funcional"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Araujo viaja a España por lesión antes del Mundial",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "\"Esto no es matemática, pero voy a dar todo de mí para estar disponible lo antes posible\", dijo Ronald Araujo sobre su lesión y el Mundial con Uruguay",
-          "url": "https://www.teledoce.com/telemundo/deportes/seleccion/esto-no-es-matematica-pero-voy-a-dar-todo-de-mi-para-estar-disponible-lo-antes-posible-dijo-ronald-araujo-sobre-su-lesion-y-el-mundial-con-uruguay/",
-          "description": "En rueda de prensa en el Aeropuerto de Carrasco, el jugador del Barcelona explicó que fue a España a tratarse la lesión surgida en los últimos días porque allí tiene a su “gente de confianza” y porque se le presentó la posibilidad de hacer una terapia que “solo existe en Madrid”.",
-          "pub_date": "2026-06-09T11:33:33+00:00",
-          "score": 1,
-          "score_reason": "Reproduce declaración textual del jugador, estilo puramente informativo.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: Ronald Araujo a España a tratar una lesión, y en duda para el debut",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPckRqT3N2d1BIbG5EaVdLSWNqbVZlb0xxUUV2TC1EU3ZvQ0VXYXl1OTdUbWRlZDhJRDhYZ3dscDhXd2IzbXQ4S09QV2QweFFLZkN5MTZXWS1qTEN5dXVEOFJEQjNpVUFXUUxQSkZwd2hPeEo2Umh5eTkza3U0SUV1SUJBYUYyWjJwcW41TDhsakpuTFptQ2Z6VW5BUmNZQ1B2cElUYVRGSlFqRFd6OHgxcVFxdTVsbFdwaTlhRFNjLWw3eVhIeUHSAeoBQVVfeXFMT0haZjFUT0h0dDd6enAydXRBQ2R4cFpFRmo2R1VoQ2N3T2ZoazNaelBsVDludC1XXzRDYmlleFVLZnhwdERzdG9TVk5LYU9mdnpqcXRIOVNXc091WTRQT0k5NVVuZmZlazlhLTI4UUJ2MmZGd2swWW01Z3Fxd1l4YWtFMkJ2X2FvbDl1ZEt4UThCSjZpNDI1Q0Vyb0p1cXBYb3NpNGRIM1JESXdhR1R6b0diTHItLVNnLUVNSmJvN0RqZEV2a2RvQnhWSjFhendnWDJ4VzdVZTN5XzlTSXVxZmR4aDl0b2VINmR3?oc=5",
-          "description": "Mundial 2026: Ronald Araujo a España a tratar una lesión, y en duda para el debut &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-08T03:49:00+00:00",
-          "score": 2,
-          "score_reason": "Informativo y directo, sin adjetivos valorativos ni dramatización.",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "El defensor uruguayo Ronald Araujo viajó a España para tratar una lesión surgida en los últimos días. El jugador del Barcelona declaró en el Aeropuerto de Carrasco que decidió ir a territorio español porque allí tiene a su equipo médico de confianza. Araujo manifestó que no puede dar certezas matemáticas sobre su recuperación, pero que hará todo lo posible para estar disponible lo antes posible. Su participación en el debut de Uruguay en el Mundial 2026 quedó en duda. El futbolista expresó su compromiso con la selección uruguaya mientras enfrenta este contratiempo físico previo a la competencia.",
-        "coincidencias": [
-          "Ronald Araujo viajó a España para tratar una lesión",
-          "Su disponibilidad para el Mundial con Uruguay está comprometida",
-          "El jugador brindó declaraciones en el Aeropuerto de Carrasco"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza la duda sobre el debut en el Mundial",
-          "Teledoce destaca las declaraciones textuales del jugador sobre su compromiso",
-          "Teledoce explica el motivo del viaje a España (equipo médico de confianza)"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Selección uruguaya: defensa y debate sobre estrellas",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: las dudas en la defensa uruguaya y la inactividad de posibles titulares",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTVEwN2Vab2EtaWg4RnBwb24yX0VlYjA3WWdtMndlSF9EejZwM0E2MUlZRHNGUmt0Zzh3anltVUFUUEh5QWQ4Z2lBWThKcXFrRlZGQ0tDVWdJVS1yWmRHQUd4MXk1dmNqbkUyZnpZX24zTWpKYWhELTBsSGlPUTVzUGlfemI2ZTJpYjhsQXRIc29hUXlpb2c1NkdYYllQa0tKVmJoa2ZpZ08wdGYzaTczczlBNlppSVhMR2FkVmxxbUJZNDZfdFFyaV9na3PSAfABQVVfeXFMTkVlT1JXTUdJckNMWHNIbFRVVy1IZG02d2NLb3h1RG00T2hIdGRxQXd6TkF2WFZjdFMtQXF0VGNaeEJpLWJfU2ktaFljU3pZdDdJelJNanlXSEEyaENDY2FrdjdmUVRHWmx4VjRJczNxbk1vMTA2dHdMeDAwZzBURXVXWUdIQVRfNFl2OERIN0ZPUVp0SXUySmJuNmU2OGoyZ0lXVGNmeEJSSzhyQkxYZ181X0ZDQXZKbDNlNU14VDJ1R3JxMjlBMEc3MXpVcWdUaGVDSEdSYTU1T3RRYkpHSlhCZ2wtOXh5cjdMQjFUWl9k?oc=5",
-          "description": "Mundial 2026: las dudas en la defensa uruguaya y la inactividad de posibles titulares &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-08T13:50:00+00:00",
-          "score": 2,
-          "score_reason": "Informativo, presenta situación táctica sin carga valorativa evidente",
-          "score_pct": 20
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Diego Lugano: “no entiendo por qué se discuten las estrellas de Uruguay” | Convocados | Entrevista",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYnZkUEZEd2ZUMXRxeWY0a3JMamQyMl9Ob3BNZ003dkd2STY5Z0lVQ19XdEJXSGVLLVVjTW9fa0tMVnkxLWNYTjJpeWU1WXJqTVZOazgtWE9HWFc5UEdNRU5jVkpsZ21PSzBaRHB3VU5MQVRqdWx2REF4SEdvZ2pmbVhmbmUtU0laODZJTUVEdG0zb2RzaWF6aTN1WGVzd0p3Y245ZlkyZUwwRldvWG1tM1p4QVY?oc=5",
-          "description": "Diego Lugano: “no entiendo por qué se discuten las estrellas de Uruguay” | Convocados | Entrevista &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-06-08T16:51:56+00:00",
-          "score": 3,
-          "score_reason": "Incluye cita textual pero enfoca en controversia particular existente",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "A pocos meses del inicio de las Eliminatorias rumbo al Mundial 2026, la selección uruguaya enfrenta interrogantes en la línea defensiva debido a la falta de actividad de algunos jugadores que podrían ser titulares. En este contexto, el exfutbolista y excapitán Diego Lugano expresó en una entrevista su incomprensión respecto al debate que se generó en torno a las estrellas que Uruguay exhibe en su escudo, vinculado a los campeonatos mundiales obtenidos por la celeste. Lugano defendió el palmarés histórico de Uruguay y cuestionó que se ponga en discusión el simbolismo de los títulos mundiales conseguidos.",
-        "coincidencias": [
-          "Ambos abordan temas vinculados a la selección uruguaya de fútbol",
-          "Refieren a situaciones previas al Mundial 2026",
-          "Tratan aspectos que generan interrogantes o debate público"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfoca en aspectos tácticos y deportivos actuales de la selección",
-          "El Espectador centra en declaraciones de Lugano sobre debate histórico-simbólico",
-          "Uno aborda preocupaciones del presente futbolístico, otro controversias sobre el pasado"
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "Orsi cancela viaje al Mundial",
-      "category": "Política",
-      "sources_count": 2,
+      "topic": "Brecha de precios Uruguay-Argentina en mínimos históricos",
+      "category": "Economía",
+      "sources_count": 3,
       "headlines": [
         {
           "source_id": "subrayado",
@@ -218,41 +14,209 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Orsi canceló el pedido que había hecho al Parlamento para ausentarse del país para viajar al Mundial",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYU5NUEtvSUdtVXdyQm9EdlFVRGRoa1drOC1uNUNBbUVKZHJROGpwLW1tRVlLOThvS2VPMmtDV25BSXNfM25TOERxOW9ya2l2WG11VmVxME42V2RXenl4RVJCM3JVYWQxbnZOem1OY25WdUdMM3hObzV1U1lidFdMU0c3b1Z4TkZnZ3dMbWxiQW5kNzVDSjNLb0x2eWwtQ2ZkckZUM3dxOWRiMVJkdERlUVdndkFaOFQycnp0NllOS2drdlA4andF?oc=5",
-          "description": "Orsi canceló el pedido que había hecho al Parlamento para ausentarse del país para viajar al Mundial &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-08T18:01:00+00:00",
+          "title": "Diferencia de precios con Argentina se sitúa entre los valores más bajos y se mantiene en 15% en mayo",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQi1KdjRDUUFURXlxd0E5VmJIUHpOS2Y0b19sQ1BmRlFKZnptOUFHNWM3V0pfVno0bDA5ZGQwb1FFMW9vLTFnYXZXSVYtWFp3dVBUU2QwdThaMS03NzAyRmZyU0hQeWd3UFJ4a19VTEZjN2lsOU83MHJWcDg1RmRMWlFzMW5jcnpuMFAtXy00a0lCeE9mT1ZkZUlIQnY0OG9RN1NoLTZqZHhGaURCTjdiQThiTTk1aG81WDBB0gHAAUFVX3lxTE9sMldXaU50RFFfdS1aZkZlcVdWaDlVUmpxU21SYzI2dkg5OVlERGRXd1JCMzU3OGhSVmhHaGV5OGwydTg0eHN2M2taX0hNSTA4bVlMMkJSU29Uc2ROQzhOeE9kVjZSMVdIZEo3V1p6Z01LQm1FTHdEM1pxSHdCWjM0WXdxWU4zRWQybFRQYURCQXBHM19MMVE5RkNVdUxRejdhc3pmM183U0ZwaXcybDY5UUJTUkdlT3pxbS00XzJnWQ?oc=5",
+          "description": "Diferencia de precios con Argentina se sitúa entre los valores más bajos y se mantiene en 15% en mayo &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-10T00:12:00+00:00",
           "score": 1,
-          "score_reason": "Informativo, preciso y completo sobre el trámite parlamentario",
+          "score_reason": "Muy neutral, presenta datos concretos sin adjetivación ni encuadre",
           "score_pct": 10
         },
         {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Orsi confirma que no irá al Mundial",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qQjNWUTVjWEREd0lhSlNERXRVdU5pQl9QMFNJcXVseFBmT19nUTNZLVk5R1FxVThtRlFrNWRlcVV2TkVsMVg0RkNWOWNZWU43?oc=5",
-          "description": "Orsi confirma que no irá al Mundial &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-06-09T04:29:49+00:00",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Argentina se encarece y la brecha de precios con Uruguay se mantiene en mínimos de la última década",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWmxMalBxcTFzeHFWMU5UTTJuaGxSUUxxSkZteFpNSW5GeVV5T3BZSE80VmF5d191RjVEU0NYMEtKZUZ4WjV0Tmx5SjhfcVNIaDkzVmU3X1R1b0o1cm1rNnlVVlF6WG1FSzZfTjU3ZnJGRWVCbVQ2S2dVaktvWGg5ZE1LSnNCX1o4M2hnOVBHd2lzTl8wNHE0Q1N0ZFItRV8xWWdUcy00cWpLUTliMU1Gb0lXaGVBUUstQWRUTkdjVktwRDNOOTQwa0xBOTVJOUpRWUo5RTlOcm4wV1E?oc=5",
+          "description": "Argentina se encarece y la brecha de precios con Uruguay se mantiene en mínimos de la última década &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-10T08:45:16+00:00",
           "score": 2,
-          "score_reason": "Directo y objetivo, aunque omite el detalle parlamentario",
+          "score_reason": "Informativo y descriptivo, sin carga emocional ni sesgo evidente",
+          "score_pct": 20
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Se planchó la diferencia de precios con Argentina: cuáles productos son más baratos del lado uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVERzX2VqbjZJb2I1eEJnNzFNcGtRbmxaRVB6MFlPa1Y0aEUxbGpFMW9kejY5Zy1SRTV1aXhxQlVGeWo0Y1E4TFJ3Rl9iVUVYM2toLWswbWdpdGlHMXM3aEh5OTJ0RWpzUnFOWFRrLWRwYndNQ1c3eFR3a2NMZl9RN09ZcTlyWEFDNkxuVWVueF9ZM3hsbWhhNm4xdVh1ZkVsNTQxY0tiNTNESF9vQzlGUTI0MW0yUGNrRG9fRjcxTWF3RGpTUDhQUXpybnd6UDJHNXd0aVk2SGJYcnBJQ0hnbVpXaHBiMnBQUEE?oc=5",
+          "description": "Se planchó la diferencia de precios con Argentina: cuáles productos son más baratos del lado uruguayo &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-10T08:00:00+00:00",
+          "score": 3,
+          "score_reason": "Uso coloquial de 'se planchó' aporta leve informalidad periodística",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "La diferencia de precios entre Uruguay y Argentina se mantiene en 15% durante mayo de 2025, situándose en los valores más bajos de la última década. El encarecimiento de la economía argentina ha reducido significativamente la brecha histórica que existía entre ambos países. Según los datos relevados, algunos productos ya resultan más económicos del lado uruguayo de la frontera. Esta convergencia de precios representa un cambio sustancial respecto a la tendencia histórica, cuando las compras en Argentina resultaban considerablemente más baratas para los uruguayos. El fenómeno se vincula con las políticas económicas implementadas en Argentina y la evolución del tipo de cambio en ambos países.",
+        "coincidencias": [
+          "La brecha de precios entre Uruguay y Argentina está en mínimos históricos",
+          "La diferencia actual se sitúa alrededor del 15%",
+          "Argentina experimenta un proceso de encarecimiento de su economía"
+        ],
+        "diferencias": [
+          "El Observador enfatiza qué productos específicos son más baratos en Uruguay",
+          "El País destaca el contexto temporal de la última década",
+          "Subrayado se concentra en el dato estadístico del 15% en mayo"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Nacional gestiona refuerzos y Caruso analiza clásico",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Los dos futbolistas argentinos por los que Nacional empezó gestiones y los dos uruguayos por los que consultó",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObmpIREpESThMT0VkQ0hEbkhQWGgwbUV1TlI0Q2F5R2JBVUI4T01UcGY0Y2FsZFlhdHhnWUtQVkFaNWhfZkZxclFEV2o0OENzUjZYd21ocG0xTW0yVDhzNnNCNVNyY3I2M0dhQ3V4T2lmc1AwNmVQdkZSQWJJTk10N3VGYkdNMU9Ub0hxOHdaVFI3SzE4dUJ4VTR3QlJ1TFNGalpaaGM2b3hxb2NDa0pBR1ExWnBGeERETWdINFdDZk5UbE1HT215ZzRTMnlFOFg2aVFSdjNpWlZpQXdackRNWXgtQ1M?oc=5",
+          "description": "Los dos futbolistas argentinos por los que Nacional empezó gestiones y los dos uruguayos por los que consultó &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-09T14:19:57+00:00",
+          "score": 1,
+          "score_reason": "Informativo y descriptivo sobre gestiones de Nacional sin adjetivos",
+          "score_pct": 10
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Ricardo Caruso Lombardi: Uruguay y Argentina dependen mucho de cómo llegan los jugadores",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSHZDV1NIcGFPSVJUUzUxdmZMNW9VRk12ZzRudENCYkU1UHZyNlo1dktJMUdDcjV2R21DR2lUMERMUnJZRUdJMWQtNE9wSzRWNmdjZ2ZjTXppbWJxb0ZteXYyWkN2Wlc0d3hMb3dfbVc1SlUxd1ppTF9kMDdQQlBsRS1EVURlUmZWUjBvazJtR3h2NGgyTGJJWkZlR1NBNXQyVUpqbFdyRWI0NTQxaU91TVdmaEFnRkZvUV93eWNocWM0Q250V2tsUmJlZmtvY050Sy1VTTh3?oc=5",
+          "description": "Ricardo Caruso Lombardi: Uruguay y Argentina dependen mucho de cómo llegan los jugadores &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-06-09T19:43:35+00:00",
+          "score": 2,
+          "score_reason": "Reproduce declaración textual del técnico sin carga valorativa adicional",
           "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "El presidente de la República, Yamandú Orsi, canceló la solicitud de autorización que había presentado ante el Parlamento para ausentarse del país. La solicitud tenía como objetivo viajar al Mundial. Orsi confirmó que no asistirá al evento deportivo. La decisión implica que el mandatario permanecerá en Uruguay y no requerirá la venia parlamentaria que había solicitado previamente para poder ausentarse del territorio nacional durante el período que duraría su participación en el campeonato mundial.",
+        "resumen": "El Club Nacional de Football inició gestiones para contratar a dos futbolistas argentinos y realizó consultas por dos jugadores uruguayos, según información de prensa. Por otra parte, el técnico Ricardo Caruso Lombardi realizó declaraciones sobre el próximo clásico uruguayo entre Nacional y Peñarol, señalando que tanto Uruguay como Argentina dependen del estado físico y anímico con el que llegan sus jugadores a los partidos importantes. Las declaraciones se produjeron en el marco de la preparación para el encuentro.",
         "coincidencias": [
-          "Orsi no viajará al Mundial",
-          "La decisión fue confirmada por el presidente",
-          "Había un pedido previo relacionado con el viaje"
+          "Ambos tratan temas relacionados con el fútbol uruguayo",
+          "Refieren a Nacional y contexto del fútbol local",
+          "Abordan aspectos del fútbol profesional de la región"
         ],
         "diferencias": [
-          "Subrayado enfatiza el trámite parlamentario y la cancelación formal",
-          "Grupo R enfoca en la confirmación personal de Orsi",
-          "Subrayado menciona específicamente la solicitud de ausentarse del país"
+          "El País enfoca en refuerzos y mercado de pases de Nacional",
+          "El Espectador destaca análisis técnico del clásico uruguayo",
+          "Uno aborda gestiones administrativas, otro declaraciones de entrenador"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "España llega invicta ante Uruguay en Mundial 2026",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "El País (Uruguay) - junio 10, 2026",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPRVNNZ3VJbm5SU1ladDk3THUyV09ncV9vRWw5akF4b3ZaZzF0Yy1lbGk0dEppMU55b2lLLVp1amxnTXZMNzJVZDRhbTVYV2tOUW9RbFZRbw?oc=5",
+          "description": "El País (Uruguay) - junio 10, 2026 &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-10T07:10:51+00:00",
+          "score": 0,
+          "score_reason": "Titular no disponible, solo fecha del medio",
+          "score_pct": 0
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Mundial 2026: el tremendo invicto con el que llega España, tercer rival de Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnNJYlZFUjNIZEpDb1JqZjhhdW9FbTFHd1AwYzFKdF84RWVyN3ptUzIzaHlKemJQWHR4ZVJIa3JGT3hMcFRndlhwMHJucmJpTDc1MFY0WE8yOVY5a2VqZXhGT1pZd1cwbVM0YTJnZzVvS3lqdkxTZW14LTd3M0d0N0VDZVBYU05ZdGYzYWNUZmF2U1lrbjZtNWF1bVVOUE9DcmU3WV9OcXZaY09GNnYwdmNudzRmRTY2UmFBMzViOHpuQ19DTnRj0gHrAUFVX3lxTE8tYldORUhsam1NaEpZMEo0NDFWZ0dDbnZQNF91ZGVxNXcxaXhUdjFQWmc4Tlo4SVVPVktLVkRNVGJhYkVuRzZySHZMMTIxdjFhUFFxYTM1c0FjNGV4VUhKUUNtM1FFZko1aDNCYS1lOHZTdHdQZkl5Y25FdlJidVk5ekI4ZHFkekZpUmdmTEM3anFzUEh4VTFNbkMwQmR4N2xhRWtFVDAta0FmRFdkSHpHV3FJNi1wd0ctZ3JrLWs1b1o5MWtpeHNBc0Y3c0h4LTkyYnh6SkNUQUVvOGJZdzdRU3VIM1l1b3dmYUE?oc=5",
+          "description": "Mundial 2026: el tremendo invicto con el que llega España, tercer rival de Uruguay &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-09T14:25:00+00:00",
+          "score": 4,
+          "score_reason": "Uso de 'tremendo invicto' añade énfasis y dramatismo moderado",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "Uruguay enfrentará a España en su tercer partido de la fase de grupos del Mundial 2026. La selección española llega al encuentro con un extenso invicto en partidos oficiales. El partido corresponde a la Copa Mundial de Fútbol que se disputa en 2026. España es uno de los rivales de Uruguay en su grupo del torneo. Ambas selecciones se encuentran en la fase de grupos de la competición.",
+        "coincidencias": [
+          "Ambos refieren al Mundial 2026",
+          "España es rival de Uruguay en el torneo",
+          "Se menciona la racha invicta de España"
+        ],
+        "diferencias": [
+          "Montevideo Portal destaca enfáticamente el invicto español con adjetivación",
+          "El País no presenta titular completo para comparar enfoque",
+          "Montevideo Portal especifica que España es el tercer rival de Uruguay"
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Paro general parcial del PIT-CNT",
+      "category": "Sociedad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "ladiaria",
+          "source_name": "La Diaria",
+          "source_short": "LD",
+          "source_color": "#1B5E20",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://ladiaria.com.uy",
+          "title": "El PIT-CNT hará un paro general parcial este miércoles",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkRRWnVtdjdLeFl3MmFBRGlGNURoM1VMNm9GbGtxbHpMU0REd2NWWi1uOWlTWWZjT1Etbkh1eTBLTUVVa29NRmk2RlhnbkxSMEtfMnItY3N5NnZwQTJ4Vi1zYVROdFFRa0lSSDVvazNPZUhmc3pIZWhRTC1zRWh2OW9ZeDNWRzlNVUo1aTRYaTlqVHJVWmFiQU4xenR1NlJHa1F3RDdGd9IBtwFBVV95cUxOWlFDTWJOYlNNdW52MzJ2ZkNTdktDQXUwcUNBVG9PTnhpU3RhYUZBRmF2dEVUdnNvaDlBSDRpZXlmRGx2R3VDN3pRU3ZUVVByeVlfd2VZNWFCS04yLV9RUWoxQy1WaU1JaXd4YUZvdDJKUjV0VFBKNGdOVE8waDNVMUZ4QlZEOWhNZVl1bFNUN0luQWdMZm1EZHZMdERJU2gzd2laYjRPQ1N4MWFEU1A3Szh4MkVOUFU?oc=5",
+          "description": "El PIT-CNT hará un paro general parcial este miércoles &nbsp;&nbsp; ladiaria.com.uy",
+          "pub_date": "2026-06-09T17:03:41+00:00",
+          "score": 1,
+          "score_reason": "Titular informativo y descriptivo sin carga valorativa ni adjetivos.",
+          "score_pct": 10
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "El paro general parcial decretado para hoy por el PIT-CNT",
+          "url": "https://www.teledoce.com/programas/desayunos-informales/primera-manana/el-paro-general-parcial-decretado-para-hoy-por-el-pit-cnt/",
+          "description": "A partir de las 9 de la mañana comienza el paro general parcial convocado por el PIT-CNT, con una movilización en el Cerro que partirá desde la calle Santín Carlos Rossi hasta el cruce de Carlos María Ramírez y Egipto. La central sindical plantea como preocupaciones el empleo, la seguridad social y el salario, y [&#8230;]",
+          "pub_date": "2026-06-10T12:42:43+00:00",
+          "score": 1,
+          "score_reason": "Presenta hechos objetivos con detalles de horario y recorrido.",
+          "score_pct": 10
+        }
+      ],
+      "analysis": {
+        "resumen": "El PIT-CNT convocó un paro general parcial para el miércoles. La medida de protesta comenzó a las 9 de la mañana. En el marco del paro, se realizó una movilización en el barrio Cerro de Montevideo, que partió desde la calle Santín Carlos Rossi hasta el cruce de Carlos María Ramírez. El paro fue decretado por la central sindical única del país, que agrupa a diferentes gremios y sindicatos uruguayos. La medida implica una paralización parcial de actividades laborales durante el día.",
+        "coincidencias": [
+          "Todos informan sobre el paro general parcial convocado por el PIT-CNT",
+          "Todos ubican temporalmente el evento en el mismo día (miércoles)",
+          "Todos presentan la información de manera factual sin valoraciones explícitas"
+        ],
+        "diferencias": [
+          "La Diaria usa tiempo futuro mientras Teledoce lo presenta como evento en curso",
+          "Teledoce incluye detalles específicos de horario y recorrido de movilización",
+          "Teledoce menciona la movilización en el Cerro, La Diaria no especifica actividades"
         ]
       }
     }
