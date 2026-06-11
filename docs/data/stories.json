@@ -1,9 +1,141 @@
 {
-  "generated_at": "2026-06-10T13:01:23.608267",
+  "generated_at": "2026-06-11T14:04:51.484402",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Brecha de precios Uruguay-Argentina en mínimos históricos",
+      "topic": "Bielsa brindó entrevista breve en México",
+      "category": "Deportes",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Marcelo Bielsa volvió a hablar mano a mano con la prensa, pero con respuestas muy escuetas",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYVZWbVByVjI5dTVKVGtoYnFhZkFIbHRaUDFNRW1KdXhnVGNOUUhSdHZOaUd4VzFpR1JUZjhyUzZaZHYwWDYzeUt6MG5HQnVCWkRuUlMyLXFqTmlmNU1fODRxZXhnT3hWVV9wc1RmdVA4ZWNHQkVxbExoNzRiWVRSR3lLNENjeWdaQUw0blVPU0hPUkJkQ1hMUndwNVFZS0RFYnM1OHRnZjBHN3lfeFpMZS02d0dZaE0wc2s3MENnd2lLV0M5cEF5ZXdRWkx1SnlyT0Vz?oc=5",
+          "description": "Marcelo Bielsa volvió a hablar mano a mano con la prensa, pero con respuestas muy escuetas &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-10T15:26:00+00:00",
+          "score": 3,
+          "score_reason": "Más descriptivo, aunque marca contraste entre hablar y respuestas escuetas",
+          "score_pct": 30
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Marcelo Bielsa rompió su tradición con la prensa: qué dijo sobre el 11 del debut de Uruguay en el Mundial 2026",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbHpnZ2ZWQ3hEMzk0YWdLb2o1b3hqYi13dmZraExWMS1jVVlQUEh2QXB3cENOVjR6ZjhHVE5Mam1ZNWpNQnRYdUFVNzJ0ZjB0cV9WMU9OLVk2UXRXNkpSdmFyWnI1VUxpNHVMMnFCVlE4QXpPcUNSNGQzeTg2VGhMTEdnWGRld0RteEszS1hoM2d5cElDeUVFU09pYkJ1NjV3UnVfeU05WWt6YmZ2N1psOGJkd1REUGdlVHA4TW5PSkdpN1BzV19GRXRLOUhJenp4NXd5WVJ4TS1FeUZhOFBaZWQtaEhMUQ?oc=5",
+          "description": "Marcelo Bielsa rompió su tradición con la prensa: qué dijo sobre el 11 del debut de Uruguay en el Mundial 2026 &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-10T15:44:00+00:00",
+          "score": 5,
+          "score_reason": "Usa 'rompió su tradición' sugiriendo un quiebre significativo",
+          "score_pct": 50
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "La increíble entrevista que brindó Marcelo Bielsa al llegar a México con la selección uruguaya: respondió a cinco preguntas con 26 palabras y en 38 segundos",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNQzhQX2k4SDdkaTRvcDJvQ1FoQXZmZ1VoRGVIZElnWnc4dU00dWhBYUI3b08tMmNrLVJ5eGV2X0VwWUhBQjJ3SnJ0cWFQd0NFZVZpbmpHRVM0QllueVpFcXJXYjRKeVV3eHFlcjJCaWhaWk5CdzAwQ0J1MndVN2RpZDJ3RGczNXJab0RicTJhWTFaV2ZwT1gtVDhhQlp4VjA1aXdQVnVYdWZRdEhYdEpoTS11WkcyakdYRTVJZGlIbkR4NkpSSEZ0ZkJva1dEMUtrVkR3dXlFdmNRTHpTMFdKWW94cENiQ3VDX0ZySXM2Nk1PSjlpS3NKcGhOQXJ3MlM1MGd3QTNmRThYMzJDRjI1NDRxckpmX203MkV0cDVOQdIBpAJBVV95cUxQY0dsSHZNRUJUb0g1NjJBVmYtcFFhbG1hM2Y2UjFZdHE5bXp5SWNlenZEWDFOMGMtWkZXNTFHUjRUMGliUFZXYTFSWkIySHVncWZVVkl0LWdMa19ZREkyclJla2pESzA4X3ZOZ3c4MEtRbHcyX3BRU0F1SGFIZjhuZWp2Vi04dHhmRWV2T3NKakpkQmlPdFJRRzVHSjBqcjBxc3ZuN1Fpamx1WDRiZGszcjhzYUhHYTNyanN4Q1ptU1BWUGVESmZUaFN4bk1yM1JmTmt2U2FWdG0wUGFDZm9OalNCWUtya3d3b2sydGN2ak9fdm8tVDluSWJXRmlRakYxLU9uNDlWUjc1aUJqWkI1dE5uXzVuWWZZQlNUVjA3eWRCZURJ?oc=5",
+          "description": "La increíble entrevista que brindó Marcelo Bielsa al llegar a México con la selección uruguaya: respondió a cinco preguntas con 26 palabras y en 38 segundos &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-10T16:05:00+00:00",
+          "score": 6,
+          "score_reason": "Califica como 'increíble', término valorativo y sensacionalista hacia lo anecdótico",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "El director técnico de la selección uruguaya de fútbol, Marcelo Bielsa, atendió a la prensa al arribar a México con la delegación celeste. El entrenador argentino respondió cinco preguntas de los periodistas en aproximadamente 38 segundos, utilizando apenas 26 palabras en total. Las respuestas fueron extremadamente escuetas y breves. Bielsa habló sobre el equipo que utilizará en el debut de Uruguay en las eliminatorias rumbo al Mundial 2026. Esta intervención ante los medios resultó inusual por su brevedad, considerando que el técnico había mantenido distancia con entrevistas individuales en los últimos tiempos. La selección uruguaya se encuentra en territorio mexicano preparando su participación en la próxima fecha de las eliminatorias mundialistas.",
+        "coincidencias": [
+          "Bielsa atendió a la prensa en México",
+          "Las respuestas fueron muy breves o escuetas",
+          "La entrevista fue con medios individuales o mano a mano"
+        ],
+        "diferencias": [
+          "El País enfatiza el quiebre de tradición y el contenido sobre el equipo titular",
+          "El Observador se centra en datos cuantitativos (26 palabras, 38 segundos, 5 preguntas)",
+          "Montevideo Portal presenta el hecho de manera más neutral, sin dramatizar"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Selección uruguaya llega a México para el Mundial",
+      "category": "Deportes",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "ladiaria",
+          "source_name": "La Diaria",
+          "source_short": "LD",
+          "source_color": "#1B5E20",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://ladiaria.com.uy",
+          "title": "Uruguay viajó a México para el Mundial: tres jugadores dieron declaraciones y saludaron a los hinchas presentes",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmZFdDlmeTZPTldlM2p3U2hQR1pEaXJjMlcwZklPejl2ckFTQWEzbG4wLXpKbTA1cHpQVTVPbkVfVzdQZWJGOHhPb3Zka2RxS2o3TnZRY1c5cWIyZ2xuc1BMMDhjYkRVSmVBMl9JYmdYRXlwRDNTdXpWalF2eUFneXFJSHpBbXIzOUR2TWxIWDLSAaABQVVfeXFMTUJ6TzdfUUV2a0xBUjJyb3NEXzJpcm5hZlBRSThoZzBpaUdZMHFsTVBMMXNOcERpS2trbExpWW1qRHdRVTJMQm1NU05pNHlqQnBQZ3drVmx4VWJxNGlqdF84SThPdnl0ekkzUlRrb3BRWUFUOFJial9CeFZlWW1hZ253R1lkZ1d1aEJ3UzJXckN3VlVlbjlLb0U4MDA2Qkw2Yw?oc=5",
+          "description": "Uruguay viajó a México para el Mundial: tres jugadores dieron declaraciones y saludaron a los hinchas presentes &nbsp;&nbsp; ladiaria.com.uy",
+          "pub_date": "2026-06-10T02:24:50+00:00",
+          "score": 1,
+          "score_reason": "Descriptivo y factual, enumera hechos sin adjetivos valorativos",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Campeón del mundo con España puso a Uruguay entre “los grandes candidatos” al Mundial",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcDF4YkN4OFJzNndzNUxhSko0RGtGcVJLc0hTZUQ1TlJwclFkbHVkREFGem9lejVFX2FoczVDLVQ5QTgzOUVqLWE3LURNLXRHQ1FZaTBReV9DT0RMZnpGdkl0eDFWUTFkMmh5c1Q5Z0tLd0pNWkM1MFZhQnlWaGdlcGhNWFBOaTREUkc4eTRNS0JoVkwtLU4xNmc4dldXYUV3NS1lc3YxQVU5SUxqYTd3WlcwbDRjbTBvN0t5VEdHRklNZVctUTl6WTFNVQ?oc=5",
+          "description": "Campeón del mundo con España puso a Uruguay entre “los grandes candidatos” al Mundial &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-10T18:35:00+00:00",
+          "score": 3,
+          "score_reason": "Enfoque en declaraciones externas que favorecen a Uruguay positivamente",
+          "score_pct": 30
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "“Histórica bienvenida”: así recibieron a la selección de Uruguay las autoridades de Quintana Roo por el Mundial",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNc0VnY0pLbWFkWno1T1FYaXQtM1NmSGRHR0ttWDBYYnM0VUNhaVpYZFdJOFp3eDBjQm9FQm1HZHF3Q1BWQkRsaWlPR2ZqVk9HQy1BSnJ3VkVPc1BlVk00ZVhZVGpMSWk1NjdHblVlV25ZMXFjX2dqbWxxQTRtSEx2dDFsendiTmhrVEl5eVoyNkQxSnJpanhpTEtRdGNMYktILUl6QjlpZHVYOU12aGx5bkxUX0xpQ3MtQWZfZEx3ZkdqSDA4UUFYLUs1ZVVZRG5vTl9lbmx2SjlzNzQ2ODdYSHVXTWs?oc=5",
+          "description": "“Histórica bienvenida”: así recibieron a la selección de Uruguay las autoridades de Quintana Roo por el Mundial &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-10T23:24:33+00:00",
+          "score": 4,
+          "score_reason": "Uso de 'histórica' agrega carga emocional y valoración subjetiva",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "La selección uruguaya de fútbol arribó a México para disputar el próximo Mundial. El plantel fue recibido por autoridades de Quintana Roo en su llegada al país. Tres jugadores del equipo brindaron declaraciones a la prensa y saludaron a los hinchas uruguayos presentes en el aeropuerto. Por otro lado, un exjugador campeón del mundo con España se refirió a Uruguay en declaraciones públicas, ubicando al equipo celeste entre los candidatos al título del torneo. La delegación uruguaya se instalará en territorio mexicano para realizar su preparación previa al inicio de la competencia mundialista.",
+        "coincidencias": [
+          "La selección uruguaya viajó a México",
+          "El viaje se relaciona con la participación en el Mundial",
+          "Hubo algún tipo de recepción o evento público"
+        ],
+        "diferencias": [
+          "El País enfatiza la recepción oficial y la califica como 'histórica'",
+          "La Diaria se centra en declaraciones de jugadores y presencia de hinchas",
+          "Montevideo Portal prioriza opiniones de terceros sobre chances uruguayas en el torneo"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Gobierno presenta proyecto de competitividad y costo de vida",
       "category": "Economía",
       "sources_count": 3,
       "headlines": [
@@ -14,14 +146,217 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Diferencia de precios con Argentina se sitúa entre los valores más bajos y se mantiene en 15% en mayo",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQi1KdjRDUUFURXlxd0E5VmJIUHpOS2Y0b19sQ1BmRlFKZnptOUFHNWM3V0pfVno0bDA5ZGQwb1FFMW9vLTFnYXZXSVYtWFp3dVBUU2QwdThaMS03NzAyRmZyU0hQeWd3UFJ4a19VTEZjN2lsOU83MHJWcDg1RmRMWlFzMW5jcnpuMFAtXy00a0lCeE9mT1ZkZUlIQnY0OG9RN1NoLTZqZHhGaURCTjdiQThiTTk1aG81WDBB0gHAAUFVX3lxTE9sMldXaU50RFFfdS1aZkZlcVdWaDlVUmpxU21SYzI2dkg5OVlERGRXd1JCMzU3OGhSVmhHaGV5OGwydTg0eHN2M2taX0hNSTA4bVlMMkJSU29Uc2ROQzhOeE9kVjZSMVdIZEo3V1p6Z01LQm1FTHdEM1pxSHdCWjM0WXdxWU4zRWQybFRQYURCQXBHM19MMVE5RkNVdUxRejdhc3pmM183U0ZwaXcybDY5UUJTUkdlT3pxbS00XzJnWQ?oc=5",
-          "description": "Diferencia de precios con Argentina se sitúa entre los valores más bajos y se mantiene en 15% en mayo &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-10T00:12:00+00:00",
+          "title": "Gobierno presenta \"proyecto de ley de competitividad y reducción del costo de vida\"",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjZybi1fSWFIeHRHb0k3RVlCOWczSVVfRU5lTjU0cldFZEtUaEpPWDZPbUpfQVFjVWVSTlItaTA1SURiM3ZmMU9wMEg0Q0FKVFZLVU9OTFpUSzlOMVhtdWt3ZFo2TEFYY3QyWmxMam83b2JwNzNTcHNoNFdOck91Z3JXbU8zcWM5TTVmeGhwSlRHVHpsQVpNOWNUUzhzbkhEOFVpSWZocUpsTDYtMWZz0gG0AUFVX3lxTE9fU2ZxeVZOaDhORVVybU10WjFmaXB6cWJNcjFlZXlZbmJKeFFBOHZ2SmZ3ZmU0eGNQR3BxNkJlMUx6M1hRT0pqUlBqcElOdnJyOExqNDR4VzhWVThKRjFGazk4Q0gtTmxzUENCejRVeGNDRk5STlVrNjA3NWl2WDJOalZSS3ZYU1JuMjJrZHNXeFhvMGVNUWpxSERpb1NzbGlFYXlXekk2amtVTFNvQzlhT25hUg?oc=5",
+          "description": "Gobierno presenta \"proyecto de ley de competitividad y reducción del costo de vida\" &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-10T15:21:00+00:00",
           "score": 1,
-          "score_reason": "Muy neutral, presenta datos concretos sin adjetivación ni encuadre",
+          "score_reason": "Título estrictamente informativo con nombre oficial del proyecto",
           "score_pct": 10
         },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Proyecto de competitividad y reducción de costo de vida",
+          "url": "https://www.teledoce.com/programas/desayunos-informales/primera-manana/proyecto-de-competitividad-y-reduccion-de-costo-de-vida/",
+          "description": "El Poder Ejecutivo enviará al Parlamento la semana que viene un proyecto de ley de “Competitividad y Reducción del costo de vida” compuesto por 240 artículos orientados a generar “más empleo, más inversión, reducción de precios y menos burocracia”.",
+          "pub_date": "2026-06-11T12:39:49+00:00",
+          "score": 1,
+          "score_reason": "Presentación objetiva sin calificativos ni opiniones agregadas",
+          "score_pct": 10
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Gobierno presentó proyecto de competitividad y baja del costo de vida: \"modesta pero importante reforma del Estado\", dijo Oddone",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTWViN19KVmVEMWI4Z180WGhsZ2daOGsxLXNSdnhsUDFYaXVsdlhLZnVEcy1wRHNyTVBEeWxrbmVsdWl5a202SEE5WlNaVG5VdmhRQjBJN2JXbnVqZG9GcDJBRUlTWVc5WlhQOXZxa004R2JPZkRFNDE3NE5tWEJfT2x3aVJRU1BkOHhELUVJeXA2RHBsYzNWSEJyb0dKOUtCUzgyQmdHZ3BLQzFmLVJxRjU4eWphbkRrWGx4eDdGY1c4RC04eUJSVTJNQmlHM2pfX1FRZm1ud3BiWkF5WFhzNnNjSkxIWGNxbGZybmE2SWl4VEd2QjFjTU1MX2M?oc=5",
+          "description": "Gobierno presentó proyecto de competitividad y baja del costo de vida: \"modesta pero importante reforma del Estado\", dijo Oddone &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-10T17:21:30+00:00",
+          "score": 2,
+          "score_reason": "Incluye declaración textual oficial, enfoque descriptivo y neutral",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "El Poder Ejecutivo presentó un proyecto de ley de Competitividad y Reducción del Costo de Vida que será enviado al Parlamento la próxima semana. El proyecto consta de 240 artículos orientados a generar empleo e inversión. El ministro de Economía y Finanzas, Gabriel Oddone, calificó la iniciativa como una \"modesta pero importante reforma del Estado\". La propuesta busca mejorar la competitividad del país y reducir el costo de vida de los uruguayos mediante diversos mecanismos legislativos que serán debatidos en el Poder Legislativo.",
+        "coincidencias": [
+          "El gobierno presentó un proyecto de ley sobre competitividad",
+          "El proyecto aborda la reducción del costo de vida",
+          "La iniciativa será enviada al Parlamento para su tratamiento"
+        ],
+        "diferencias": [
+          "El País destaca la frase de Oddone sobre reforma del Estado",
+          "Teledoce menciona que el proyecto tiene 240 artículos específicos",
+          "Subrayado usa comillas en todo el título del proyecto"
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Crecimiento de venta de autos 0km en Uruguay",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Mercado laboral, confianza del consumidor, automóviles, expectativas de inflación y ciclo económico en Uruguay en números",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWWczNVBBUVF3cFJBWERJN0JrY1o1ZUFXVTV5TGxZMmFLY3Q5NXBVTV9ieHM2ZDVDMnpBa1NOYzNuelBVVW5pTURJSDZoRzlsVUNaeHdvWVF5T1dkaU9UMjNXbHFLcVVfQWZmeThUTk9UODlnQmVXZG5pXzVBdkZUemZrWVpPaDVRbWpTMURMNmVNZDg0aWJuX1lHaVZGZlR2dTlvWnhVNi1XZlVRQkZDTlRDMjdVckJOTkI2UC1LOHZlY3Z6UEdkSHY4cV90R3RNNXptVC1OMTFFQnBLd0pQdXBYT2djTF9qX0g4?oc=5",
+          "description": "Mercado laboral, confianza del consumidor, automóviles, expectativas de inflación y ciclo económico en Uruguay en números &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-06-11T05:00:00+00:00",
+          "score": 1,
+          "score_reason": "Título descriptivo técnico sin carga valorativa ni énfasis",
+          "score_pct": 10
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "La venta de autos 0 kilómetro en Uruguay no para de crecer y en mayo aumentó 19%, ¿qué marcas son las más vendidas en el año?",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRVJhS2t3bks5OE9LNGo5Nk5fcnNwWmluc1RvWlpITU9wWTVKekdDQkVkQURQZ092SHJybkljTGdEbTNLTEZOOE11aHd4ajU3SFRucGQ4OTRuRW5WODJmWlhfUVhPU1JkT2I5T0hDbGRMVWpwR1lJemtDUlV1QW5iV3dzSWRxTjRUdmQ5emUtaUlNZW93ZVgzR2JDTTkyRjV6M0dpRzR0MDN0MDdQM2tDaEJRZ3RkUjlXbEk0bVZqcmQ3d0dEYmZWc202Y0hydW5VY0pGLURVUzExN0RYUHRmRG92SVJCM3lPcE56cmUzMXVsT2xkdUJmbQ?oc=5",
+          "description": "La venta de autos 0 kilómetro en Uruguay no para de crecer y en mayo aumentó 19%, ¿qué marcas son las más vendidas en el año? &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-10T10:30:38+00:00",
+          "score": 3,
+          "score_reason": "Uso enfático de 'no para de crecer' sugiere dinamismo extraordinario",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Las ventas de automóviles 0 kilómetro en Uruguay registraron un aumento del 19% en mayo de 2025 respecto al mismo mes del año anterior. El incremento forma parte de una tendencia de crecimiento sostenido en el mercado automotor uruguayo durante el año. Los datos reflejan indicadores del sector que incluyen información sobre las marcas más comercializadas en lo que va del año. La cifra se inserta en un contexto de análisis más amplio de variables económicas como mercado laboral, confianza del consumidor y expectativas de inflación.",
+        "coincidencias": [
+          "Ambos medios reportan el incremento en ventas de automóviles",
+          "Los dos contextualizan los datos dentro de indicadores económicos",
+          "Coinciden en destacar el desempeño del mercado automotor"
+        ],
+        "diferencias": [
+          "El País enfatiza el crecimiento sostenido con lenguaje más llamativo",
+          "Búsqueda presenta la información como parte de un panorama económico amplio",
+          "El País centra en marcas vendidas, Búsqueda en contexto macroeconómico general"
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Muerte de niño activa protocolos sanitarios escolares",
+      "category": "Salud",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Investigan el fallecimiento de un niño de seis años en escuela N°187 de Bella Italia: MSP activó protocolo",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNejcyUkhHdDBTT2JBeUp4bThqS25tRTFMY3dvYkNvQmhoRHpfV2N3dDdMTzJJcFFZdHJhSnExWDZ1aENCRVA0WUJkMTFFUFpfU05jZzZJbC1kWEoyaGNWbTVKUTZicVQzTUdTR1M4cHl1eGtrUmtrSVRNQkh5a2l1R0J4cEIxU0Z5c1ZscFREQUpBV1BRRUNMUktwWnVaZ2g3Sk5uZEhRVkxBNXZIVHp1Q2F1WHJ2RWRZREd5Ml8wOTZrWU5TN2otdGZfYWJ3c0stTnpLNm5YT2w0RG5Xa3o3T0hhMA?oc=5",
+          "description": "Investigan el fallecimiento de un niño de seis años en escuela N°187 de Bella Italia: MSP activó protocolo &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-10T21:41:42+00:00",
+          "score": 2,
+          "score_reason": "Informativo y neutral, presenta hechos sin especular causas",
+          "score_pct": 20
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "ANEP activa protocolos por posible caso de meningitis en una escuela de Bella Italia tras muerte de un niño de seis años",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYXBKQ3VodzU1YXlNN2ZrZEtOQl9XcWpXUExiZ2dObzdKc0lUNldMc2FpWUMwWjFRLUEtZGE4VngzbHgzYWFGTkNuaFVoeXlkLWpBQ2pJMVRFSUM1N1YzYUxLNUlTRF9kWUZtQlNpOUtlWnIwSFVmUmRJZ3dIU3RCLVpUaTNlQnhJVHNrWDFJRjRSQ2JzRXJfYzhFeGNXSlR4QkZsSEpGbnExSGxaX2J6UWt0QjRlSm9iSGR1aFgzNlcwdm5uXzRRZWN3NHgyUlJlWHBsbEYtUmtUU0JTNW5v?oc=5",
+          "description": "ANEP activa protocolos por posible caso de meningitis en una escuela de Bella Italia tras muerte de un niño de seis años &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-10T19:07:00+00:00",
+          "score": 4,
+          "score_reason": "Introduce hipótesis de meningitis como enfoque principal del titular",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "Un niño de seis años falleció en circunstancias que se encuentran bajo investigación en la escuela N°187 de Bella Italia. Ante el deceso, el Ministerio de Salud Pública (MSP) activó los protocolos correspondientes para investigar las causas del fallecimiento. La Administración Nacional de Educación Pública (ANEP) también implementó protocolos debido a la posibilidad de que se trate de un caso de meningitis, aunque esta hipótesis aún no ha sido confirmada. Las autoridades sanitarias y educativas se encuentran trabajando de manera coordinada para esclarecer las circunstancias del hecho y tomar las medidas preventivas necesarias en la institución educativa.",
+        "coincidencias": [
+          "Un niño de seis años falleció en la escuela N°187 de Bella Italia",
+          "Las autoridades activaron protocolos institucionales tras el fallecimiento",
+          "El caso se encuentra bajo investigación por parte de organismos estatales"
+        ],
+        "diferencias": [
+          "El País se enfoca en la investigación y el protocolo del MSP sin mencionar causas",
+          "El Observador destaca la posible causa (meningitis) y el rol de ANEP",
+          "El Observador especifica el tipo de protocolo activado (meningitis) versus El País que es más genérico"
+        ]
+      }
+    },
+    {
+      "id": "story_006",
+      "topic": "Selección uruguaya en Playa del Carmen preparando Mundial",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Playa del Carmen recibe a Uruguay cumpliendo con lo que pidió Bielsa: reina la calma y hay poco clima de Mundial",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU2c3Q1h0NmY4VDV5Q2lmOVV3eW51Z3A1TkQ5Vi1KSmdsRGhZVGdoYzRRejlOeEluTF9lcU96dlVsRWdvQlJyMGJMMjVMRHNwbWlCeXRmSmg1TzB1QmpDSjBhMWhiUnlVZDAwODRIS2VkV2Y0bGZwdmFWcmtwSV82Z2dEbG5Dbm4xVTYyQ1dwejhocEM1Nkk1REVjb084NWVYVjhoYXJMdmxndUtKQUk1UXoyMXQwVXkyVG1zMkJQWTJ4c2IxUGNPc19TX2ExLVFBM0NCY0R1VWl5OHU1VVZZUzFkYmZRdHdC?oc=5",
+          "description": "Playa del Carmen recibe a Uruguay cumpliendo con lo que pidió Bielsa: reina la calma y hay poco clima de Mundial &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-10T06:31:46+00:00",
+          "score": 2,
+          "score_reason": "Informativo, describe condiciones objetivas solicitadas por Bielsa cumplidas.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Tatiana Cortazzo: “A los uruguayos les falta ser más patriotas, querer más al Uruguay”",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmlfZXdvZWhscW1RSkkzMUkxNEpaRDBJd2VpYjRjWDRvV3JnaTd3QjU4Y29KdjllWDdlNUpseV9OaHBCMlpqQzVlVDBzVUVWODQta1E0N2pObjBPbllSSVBHMWtSVWVFQlZGTWtDWUNhUmViUVp3Z0lnbUJKQ0l6YXJtMTBSUUpmaUtjbEx2a2p1aWF0V19MLUs5X3RFVnM0TDhDWG5UVlllaFVpRlZCcTZubk5JS1RKOHJhc1JVNXRobUlGa3NJcGd3?oc=5",
+          "description": "Tatiana Cortazzo: “A los uruguayos les falta ser más patriotas, querer más al Uruguay” &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-06-10T21:00:00+00:00",
+          "score": 5,
+          "score_reason": "Declaración con carga valorativa sobre patriotismo de uruguayos.",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "La selección uruguaya de fútbol se encuentra concentrada en Playa del Carmen, México, preparándose para su participación en el próximo Mundial. El entrenador Marcelo Bielsa había solicitado previamente un ambiente tranquilo y con poco clima de celebración mundialista para la concentración del equipo. El lugar elegido cumple con estas características, predominando la calma en el entorno donde se aloja la delegación celeste. En declaraciones relacionadas al ambiente previo al torneo, Tatiana Cortazzo realizó comentarios sobre el patriotismo de los uruguayos, manifestando que a los ciudadanos del país les falta mayor identificación nacional y cariño hacia Uruguay.",
+        "coincidencias": [
+          "Ambos medios abordan temas relacionados con Uruguay y su selección",
+          "Los dos titulares se enmarcan en contexto previo al Mundial"
+        ],
+        "diferencias": [
+          "El País se centra en aspectos logísticos y deportivos de la concentración",
+          "Búsqueda enfoca en declaraciones sobre identidad nacional y patriotismo",
+          "El País reporta hechos verificables, Búsqueda reproduce opiniones personales"
+        ]
+      }
+    },
+    {
+      "id": "story_007",
+      "topic": "Brecha de precios Uruguay-Argentina en mínimos históricos",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
         {
           "source_id": "elpais",
           "source_name": "El País",
@@ -34,7 +369,7 @@
           "description": "Argentina se encarece y la brecha de precios con Uruguay se mantiene en mínimos de la última década &nbsp;&nbsp; EL PAÍS Uruguay",
           "pub_date": "2026-06-10T08:45:16+00:00",
           "score": 2,
-          "score_reason": "Informativo y descriptivo, sin carga emocional ni sesgo evidente",
+          "score_reason": "Titular descriptivo y neutral, informa hechos sin carga emocional",
           "score_pct": 20
         },
         {
@@ -49,96 +384,30 @@
           "description": "Se planchó la diferencia de precios con Argentina: cuáles productos son más baratos del lado uruguayo &nbsp;&nbsp; El Observador",
           "pub_date": "2026-06-10T08:00:00+00:00",
           "score": 3,
-          "score_reason": "Uso coloquial de 'se planchó' aporta leve informalidad periodística",
+          "score_reason": "Usa expresión coloquial 'se planchó' que añade leve tono informal",
           "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "La diferencia de precios entre Uruguay y Argentina se mantiene en 15% durante mayo de 2025, situándose en los valores más bajos de la última década. El encarecimiento de la economía argentina ha reducido significativamente la brecha histórica que existía entre ambos países. Según los datos relevados, algunos productos ya resultan más económicos del lado uruguayo de la frontera. Esta convergencia de precios representa un cambio sustancial respecto a la tendencia histórica, cuando las compras en Argentina resultaban considerablemente más baratas para los uruguayos. El fenómeno se vincula con las políticas económicas implementadas en Argentina y la evolución del tipo de cambio en ambos países.",
+        "resumen": "La diferencia de precios entre Uruguay y Argentina se ubicó en los niveles más bajos de la última década. El proceso de ajuste económico en Argentina bajo el gobierno de Javier Milei generó un encarecimiento significativo de productos y servicios en ese país. Como consecuencia, la tradicional brecha de costos que hacía a Argentina más económica para compras y consumo se redujo sustancialmente. Algunos productos específicos incluso resultarían actualmente más baratos del lado uruguayo de la frontera. Esta convergencia de precios modifica patrones históricos de consumo transfronterizo y afecta el comercio en zonas limítrofes, particularmente en departamentos como Colonia, Rivera y Artigas.",
         "coincidencias": [
-          "La brecha de precios entre Uruguay y Argentina está en mínimos históricos",
-          "La diferencia actual se sitúa alrededor del 15%",
-          "Argentina experimenta un proceso de encarecimiento de su economía"
+          "La brecha de precios entre Uruguay y Argentina se redujo significativamente",
+          "Los precios argentinos aumentaron acercándose a los niveles uruguayos",
+          "Se trata de mínimos históricos en la diferencia de la última década"
         ],
         "diferencias": [
-          "El Observador enfatiza qué productos específicos son más baratos en Uruguay",
-          "El País destaca el contexto temporal de la última década",
-          "Subrayado se concentra en el dato estadístico del 15% en mayo"
+          "El País enfatiza el encarecimiento argentino como causa principal del fenómeno",
+          "El Observador destaca productos específicos más baratos en Uruguay actualmente",
+          "El País usa lenguaje más técnico mientras El Observador adopta tono más coloquial"
         ]
       }
     },
     {
-      "id": "story_002",
-      "topic": "Nacional gestiona refuerzos y Caruso analiza clásico",
-      "category": "Deportes",
+      "id": "story_008",
+      "topic": "Fallecimiento de dirigente del Frente Amplio de Florida",
+      "category": "Política",
       "sources_count": 2,
       "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Los dos futbolistas argentinos por los que Nacional empezó gestiones y los dos uruguayos por los que consultó",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObmpIREpESThMT0VkQ0hEbkhQWGgwbUV1TlI0Q2F5R2JBVUI4T01UcGY0Y2FsZFlhdHhnWUtQVkFaNWhfZkZxclFEV2o0OENzUjZYd21ocG0xTW0yVDhzNnNCNVNyY3I2M0dhQ3V4T2lmc1AwNmVQdkZSQWJJTk10N3VGYkdNMU9Ub0hxOHdaVFI3SzE4dUJ4VTR3QlJ1TFNGalpaaGM2b3hxb2NDa0pBR1ExWnBGeERETWdINFdDZk5UbE1HT215ZzRTMnlFOFg2aVFSdjNpWlZpQXdackRNWXgtQ1M?oc=5",
-          "description": "Los dos futbolistas argentinos por los que Nacional empezó gestiones y los dos uruguayos por los que consultó &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-09T14:19:57+00:00",
-          "score": 1,
-          "score_reason": "Informativo y descriptivo sobre gestiones de Nacional sin adjetivos",
-          "score_pct": 10
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Ricardo Caruso Lombardi: Uruguay y Argentina dependen mucho de cómo llegan los jugadores",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSHZDV1NIcGFPSVJUUzUxdmZMNW9VRk12ZzRudENCYkU1UHZyNlo1dktJMUdDcjV2R21DR2lUMERMUnJZRUdJMWQtNE9wSzRWNmdjZ2ZjTXppbWJxb0ZteXYyWkN2Wlc0d3hMb3dfbVc1SlUxd1ppTF9kMDdQQlBsRS1EVURlUmZWUjBvazJtR3h2NGgyTGJJWkZlR1NBNXQyVUpqbFdyRWI0NTQxaU91TVdmaEFnRkZvUV93eWNocWM0Q250V2tsUmJlZmtvY050Sy1VTTh3?oc=5",
-          "description": "Ricardo Caruso Lombardi: Uruguay y Argentina dependen mucho de cómo llegan los jugadores &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-06-09T19:43:35+00:00",
-          "score": 2,
-          "score_reason": "Reproduce declaración textual del técnico sin carga valorativa adicional",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "El Club Nacional de Football inició gestiones para contratar a dos futbolistas argentinos y realizó consultas por dos jugadores uruguayos, según información de prensa. Por otra parte, el técnico Ricardo Caruso Lombardi realizó declaraciones sobre el próximo clásico uruguayo entre Nacional y Peñarol, señalando que tanto Uruguay como Argentina dependen del estado físico y anímico con el que llegan sus jugadores a los partidos importantes. Las declaraciones se produjeron en el marco de la preparación para el encuentro.",
-        "coincidencias": [
-          "Ambos tratan temas relacionados con el fútbol uruguayo",
-          "Refieren a Nacional y contexto del fútbol local",
-          "Abordan aspectos del fútbol profesional de la región"
-        ],
-        "diferencias": [
-          "El País enfoca en refuerzos y mercado de pases de Nacional",
-          "El Espectador destaca análisis técnico del clásico uruguayo",
-          "Uno aborda gestiones administrativas, otro declaraciones de entrenador"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "España llega invicta ante Uruguay en Mundial 2026",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "El País (Uruguay) - junio 10, 2026",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPRVNNZ3VJbm5SU1ladDk3THUyV09ncV9vRWw5akF4b3ZaZzF0Yy1lbGk0dEppMU55b2lLLVp1amxnTXZMNzJVZDRhbTVYV2tOUW9RbFZRbw?oc=5",
-          "description": "El País (Uruguay) - junio 10, 2026 &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-10T07:10:51+00:00",
-          "score": 0,
-          "score_reason": "Titular no disponible, solo fecha del medio",
-          "score_pct": 0
-        },
         {
           "source_id": "montevideoportal",
           "source_name": "Montevideo Portal",
@@ -146,77 +415,92 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: el tremendo invicto con el que llega España, tercer rival de Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnNJYlZFUjNIZEpDb1JqZjhhdW9FbTFHd1AwYzFKdF84RWVyN3ptUzIzaHlKemJQWHR4ZVJIa3JGT3hMcFRndlhwMHJucmJpTDc1MFY0WE8yOVY5a2VqZXhGT1pZd1cwbVM0YTJnZzVvS3lqdkxTZW14LTd3M0d0N0VDZVBYU05ZdGYzYWNUZmF2U1lrbjZtNWF1bVVOUE9DcmU3WV9OcXZaY09GNnYwdmNudzRmRTY2UmFBMzViOHpuQ19DTnRj0gHrAUFVX3lxTE8tYldORUhsam1NaEpZMEo0NDFWZ0dDbnZQNF91ZGVxNXcxaXhUdjFQWmc4Tlo4SVVPVktLVkRNVGJhYkVuRzZySHZMMTIxdjFhUFFxYTM1c0FjNGV4VUhKUUNtM1FFZko1aDNCYS1lOHZTdHdQZkl5Y25FdlJidVk5ekI4ZHFkekZpUmdmTEM3anFzUEh4VTFNbkMwQmR4N2xhRWtFVDAta0FmRFdkSHpHV3FJNi1wd0ctZ3JrLWs1b1o5MWtpeHNBc0Y3c0h4LTkyYnh6SkNUQUVvOGJZdzdRU3VIM1l1b3dmYUE?oc=5",
-          "description": "Mundial 2026: el tremendo invicto con el que llega España, tercer rival de Uruguay &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-09T14:25:00+00:00",
+          "title": "Un adiós: Frente Amplio en duelo por la muerte de la joven dirigente Tatiana Pérez Gasso",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMll1MVNkbndNY0JPZ1EtUjEtdlFBVU96eWNkWGJ6Q1pRcW1rakZDYlB6bnprSTd3UjUzQWJjSU05a3luSHp0RWtlU3BqcUhWRm9RZ0xTeEdCZzlIOEdVajY0Y2J4VlowVktsLUhWWlVJd2lGbncxcDgtd2JPY3htMV9heUMzUGpFUzdNMEdKUTFMV0JwWlZ2dVlRcGtOSlJGb1VkNmxLVFRUMFZoNm11VS1MTzNMUUZTV2tHTnR6QTZWbnBSRWllRHQ0aHJ4OTBV0gH0AUFVX3lxTFBnb01CalVNUHoycFlROXQwaklGYS05VTJSWlJJMUNmV01uTnlXOWpzNWFYQWtsNFM1VjhWaHFMWm9zdUhONllGUFB5RWlPaXNYeUJaSUhWRE9DdXNNVHNlczNfbF9rYVoyZllicDRZdUx6WlpXY1Y3QmxJV2IxM241OGYzYThhM2VhVlFxZllsa1VLMkM2bjlqd2VJZjZlTFFRbXRYQXJwd2dzZHdyam9veWVkcVB3N05Sa0wyaGR0RGZfMnliUHNuRkY1ZGR5WXlaUjQ4QTZKNWN5VUpPaldleGlYZ0ZFYnQ5Z3NMSDg0a1EyRnA?oc=5",
+          "description": "Un adiós: Frente Amplio en duelo por la muerte de la joven dirigente Tatiana Pérez Gasso &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-10T10:24:00+00:00",
+          "score": 3,
+          "score_reason": "Enfatiza el duelo del partido con lenguaje levemente emotivo",
+          "score_pct": 30
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "\"Hasta siempre, compañera\": murió a los 32 años Tatiana Pérez Gasso, vicepresidenta del Frente Amplio de Florida",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVzNxTUtBM3VSQ1MyUl8yX1haX3NQTE1KbWRacHBpakxLOHJsM1dGUjc4M0RONGNZdFpIdGtmR3hYakhoeEpHTzFtaXczQmFVSk1uV3lQWXdEXzg5Y3pDQ0FYZWhIaDRtYk1qYlNqZnJwYW4zWk0yb2RCR0MyLS1Sa1BnSVhfNnVKQkZSbzJOUWZiMmE5Znk4OGVEMkM3bkFaQlQ3TVlfNk8yRVBFbTJ5b254NUlzcnVvSnhydGdTai1OeThZMFF1U3Iwam50aXBab1NBbUlaQjMzS0lTYmhGcDdvY01qVGc?oc=5",
+          "description": "\"Hasta siempre, compañera\": murió a los 32 años Tatiana Pérez Gasso, vicepresidenta del Frente Amplio de Florida &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-10T10:41:14+00:00",
           "score": 4,
-          "score_reason": "Uso de 'tremendo invicto' añade énfasis y dramatismo moderado",
+          "score_reason": "Uso de cita emotiva y comillas en titular genera carga afectiva",
           "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "Uruguay enfrentará a España en su tercer partido de la fase de grupos del Mundial 2026. La selección española llega al encuentro con un extenso invicto en partidos oficiales. El partido corresponde a la Copa Mundial de Fútbol que se disputa en 2026. España es uno de los rivales de Uruguay en su grupo del torneo. Ambas selecciones se encuentran en la fase de grupos de la competición.",
+        "resumen": "Falleció Tatiana Pérez Gasso a los 32 años, quien se desempeñaba como vicepresidenta del Frente Amplio en el departamento de Florida. La noticia fue confirmada por el partido político, que expresó sus condolencias. Pérez Gasso era una dirigente joven dentro de la estructura departamental de la coalición de izquierda. El Frente Amplio emitió comunicados lamentando su muerte. No se especificaron las causas del fallecimiento en los medios consultados. La dirigente política había desarrollado su actividad en el ámbito departamental de Florida.",
         "coincidencias": [
-          "Ambos refieren al Mundial 2026",
-          "España es rival de Uruguay en el torneo",
-          "Se menciona la racha invicta de España"
+          "Informan el fallecimiento de Tatiana Pérez Gasso a los 32 años",
+          "Mencionan su cargo como vicepresidenta del Frente Amplio de Florida",
+          "Refieren al duelo y homenajes del partido político"
         ],
         "diferencias": [
-          "Montevideo Portal destaca enfáticamente el invicto español con adjetivación",
-          "El País no presenta titular completo para comparar enfoque",
-          "Montevideo Portal especifica que España es el tercer rival de Uruguay"
+          "El Observador destaca la frase de despedida en el titular con comillas",
+          "Montevideo Portal enfatiza el duelo institucional del Frente Amplio",
+          "El Observador opta por un tono más testimonial y personal"
         ]
       }
     },
     {
-      "id": "story_004",
-      "topic": "Paro general parcial del PIT-CNT",
-      "category": "Sociedad",
+      "id": "story_009",
+      "topic": "Selección uruguaya llegó a Playa del Carmen",
+      "category": "Deportes",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "ladiaria",
-          "source_name": "La Diaria",
-          "source_short": "LD",
-          "source_color": "#1B5E20",
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://ladiaria.com.uy",
-          "title": "El PIT-CNT hará un paro general parcial este miércoles",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkRRWnVtdjdLeFl3MmFBRGlGNURoM1VMNm9GbGtxbHpMU0REd2NWWi1uOWlTWWZjT1Etbkh1eTBLTUVVa29NRmk2RlhnbkxSMEtfMnItY3N5NnZwQTJ4Vi1zYVROdFFRa0lSSDVvazNPZUhmc3pIZWhRTC1zRWh2OW9ZeDNWRzlNVUo1aTRYaTlqVHJVWmFiQU4xenR1NlJHa1F3RDdGd9IBtwFBVV95cUxOWlFDTWJOYlNNdW52MzJ2ZkNTdktDQXUwcUNBVG9PTnhpU3RhYUZBRmF2dEVUdnNvaDlBSDRpZXlmRGx2R3VDN3pRU3ZUVVByeVlfd2VZNWFCS04yLV9RUWoxQy1WaU1JaXd4YUZvdDJKUjV0VFBKNGdOVE8waDNVMUZ4QlZEOWhNZVl1bFNUN0luQWdMZm1EZHZMdERJU2gzd2laYjRPQ1N4MWFEU1A3Szh4MkVOUFU?oc=5",
-          "description": "El PIT-CNT hará un paro general parcial este miércoles &nbsp;&nbsp; ladiaria.com.uy",
-          "pub_date": "2026-06-09T17:03:41+00:00",
-          "score": 1,
-          "score_reason": "Titular informativo y descriptivo sin carga valorativa ni adjetivos.",
-          "score_pct": 10
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Uruguay llegó a Playa del Carmen y fue recibido con un ritual maya y un perro celeste",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWtUSmtrUzBrMWhGV1NCcll3ZHU5d3RXZEZhRVZDQ0JpSTdsN0hkY21QZC1QMHA5YW0yblByMVNKTDhHc184UXh6Rm1LY1U1NFZCYzZ0ZmZrQ2dmYlQtYS0xa0diZ0ZWcmd2UWUxLWhURmc4UTc3RnNpejdoNkZSWktBU21weXJmeXhoVmxnY25QSThaX3ZMSXlnT1d6UC1uVWdkcjdKWGE4aWRLZktCX2tFX2Rma3lYRTBUNC1KQWhIUFBJU0xpYjF5SXl3Z9IB8gFBVV95cUxOTGRWRW54TDM1V1YxakZfVU1KNWhQdHNCS3hDekVRQjNsZ2tiRy1tVjNETk5TUVZfd2JmYTFfN3U2b1FTaHFuMW9Xb01CZHJ0WjU5MFVLYm5GNVpQMVNNdDdsRktqSzBjdjJmaENEcm1VZXZCWkNQSnhsM0xUejhPNm1NWFRjaGxyTW5wNlNKRFFJb0s0TEt6VVpvRDJfVklZWEZsNUhrUGRhdHpIWGo1a3RJUHBwa0RZQkxKbF9MVGlRVG9pel9Nek5kNzJQSmJrbl8tQjFod0pkZ2JOTXUtZW1EZ2hrQXpxei1OYXlHX2ROQQ?oc=5",
+          "description": "Uruguay llegó a Playa del Carmen y fue recibido con un ritual maya y un perro celeste &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-10T15:00:00+00:00",
+          "score": 2,
+          "score_reason": "Titular descriptivo con mención equilibrada de ritual y perro",
+          "score_pct": 20
         },
         {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "El paro general parcial decretado para hoy por el PIT-CNT",
-          "url": "https://www.teledoce.com/programas/desayunos-informales/primera-manana/el-paro-general-parcial-decretado-para-hoy-por-el-pit-cnt/",
-          "description": "A partir de las 9 de la mañana comienza el paro general parcial convocado por el PIT-CNT, con una movilización en el Cerro que partirá desde la calle Santín Carlos Rossi hasta el cruce de Carlos María Ramírez y Egipto. La central sindical plantea como preocupaciones el empleo, la seguridad social y el salario, y [&#8230;]",
-          "pub_date": "2026-06-10T12:42:43+00:00",
-          "score": 1,
-          "score_reason": "Presenta hechos objetivos con detalles de horario y recorrido.",
-          "score_pct": 10
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "El detrás de escena de la llegada de la selección uruguaya a Playa del Carmen para concentrar durante el Mundial 2026, con un perro hincha de la celeste",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQzh0MHRMY1U1Mkx6VzNXU0t1WlREUEZtWG5PODJjM2VqQ2FtemtjeDJSV0dIS1lhRnFSUXFodS1GWC02X2J5LTFaVmZEaVZTcDNSakZxR293VV85YkNWd1VtMzU1MzE3T3dvdVNXa25WOHhVU0pMMVNvTW1OSndDaDVnZzNUejltOHU2c0NPUGFHX0QxYjcwZ2lzaENNS0dQdmxjcXBDMmFlTFA1LWRkR1ZmR1FfcU9IQzFGbFg1eC1iM09pbGEzUVpJN3NKM1NVS1dsZ25DVTlOakkxVHFLSlBQWnFubTJHb3A3bDFIM2o4RzMycGwtNF9LUlcwWlpPbmJma9IBigJBVV95cUxOQ1MyM05qUUlBak1XWTYxUlhlQzhMNk5LYUowSkZqeEIwMGJqdnUyVWl1M2ZVb0VGR3lldXItbkg2X1NXWUVNWFFOT0RIWWN6Vlo5ZXlNUGNELXdGVFdqRWhZRFFaajM4aUVLZlF0UXI3ZEdHYWZSaWNZRjBtNGEyMDYwVFNwUFVwekMwU0FSWTRzLUhYUFU1ZDhZc2RqUi11MEpfeFF2ZktuMGVFWGNLenhNaUJFNFMwa0ROY2ZodVFnU0dTYlJZSUVCQmxFN05OYjcyY0xreEk5WFRySFhya3lSbVNlLVY2bTNJaTFtVGx3NHNUZ1d0NzFZNGh2UWZhR3ZZX1J4b2VQZw?oc=5",
+          "description": "El detrás de escena de la llegada de la selección uruguaya a Playa del Carmen para concentrar durante el Mundial 2026, con un perro hincha de la celeste &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-10T16:35:00+00:00",
+          "score": 3,
+          "score_reason": "Enfatiza el aspecto anecdótico del perro sobre información deportiva",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "El PIT-CNT convocó un paro general parcial para el miércoles. La medida de protesta comenzó a las 9 de la mañana. En el marco del paro, se realizó una movilización en el barrio Cerro de Montevideo, que partió desde la calle Santín Carlos Rossi hasta el cruce de Carlos María Ramírez. El paro fue decretado por la central sindical única del país, que agrupa a diferentes gremios y sindicatos uruguayos. La medida implica una paralización parcial de actividades laborales durante el día.",
+        "resumen": "La selección uruguaya de fútbol arribó a Playa del Carmen, México, donde concentrará durante su participación en el Mundial 2026. La delegación fue recibida con una ceremonia de ritual maya. En el lugar de llegada, un perro con indumentaria celeste se encontraba presente durante la recepción del equipo. El plantel se instalará en esta ciudad de la Riviera Maya como base de operaciones para la competencia mundialista que se disputará en México, Estados Unidos y Canadá.",
         "coincidencias": [
-          "Todos informan sobre el paro general parcial convocado por el PIT-CNT",
-          "Todos ubican temporalmente el evento en el mismo día (miércoles)",
-          "Todos presentan la información de manera factual sin valoraciones explícitas"
+          "La selección uruguaya llegó a Playa del Carmen",
+          "Hubo presencia de un perro con vestimenta celeste",
+          "Se realizó un ritual maya como parte de la recepción"
         ],
         "diferencias": [
-          "La Diaria usa tiempo futuro mientras Teledoce lo presenta como evento en curso",
-          "Teledoce incluye detalles específicos de horario y recorrido de movilización",
-          "Teledoce menciona la movilización en el Cerro, La Diaria no especifica actividades"
+          "El Observador enfatiza el detrás de escena y aspectos anecdóticos",
+          "Montevideo Portal prioriza el ritual maya antes que el perro",
+          "El Observador destaca al perro como hincha mientras el otro es más descriptivo"
         ]
       }
     }
