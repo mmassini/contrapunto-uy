@@ -1,42 +1,12 @@
 {
-  "generated_at": "2026-06-11T14:04:51.484402",
+  "generated_at": "2026-06-12T12:58:42.462736",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Bielsa brindó entrevista breve en México",
-      "category": "Deportes",
-      "sources_count": 3,
+      "topic": "Remoción de jefes policiales en Montevideo",
+      "category": "Seguridad",
+      "sources_count": 4,
       "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Marcelo Bielsa volvió a hablar mano a mano con la prensa, pero con respuestas muy escuetas",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYVZWbVByVjI5dTVKVGtoYnFhZkFIbHRaUDFNRW1KdXhnVGNOUUhSdHZOaUd4VzFpR1JUZjhyUzZaZHYwWDYzeUt6MG5HQnVCWkRuUlMyLXFqTmlmNU1fODRxZXhnT3hWVV9wc1RmdVA4ZWNHQkVxbExoNzRiWVRSR3lLNENjeWdaQUw0blVPU0hPUkJkQ1hMUndwNVFZS0RFYnM1OHRnZjBHN3lfeFpMZS02d0dZaE0wc2s3MENnd2lLV0M5cEF5ZXdRWkx1SnlyT0Vz?oc=5",
-          "description": "Marcelo Bielsa volvió a hablar mano a mano con la prensa, pero con respuestas muy escuetas &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-10T15:26:00+00:00",
-          "score": 3,
-          "score_reason": "Más descriptivo, aunque marca contraste entre hablar y respuestas escuetas",
-          "score_pct": 30
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Marcelo Bielsa rompió su tradición con la prensa: qué dijo sobre el 11 del debut de Uruguay en el Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbHpnZ2ZWQ3hEMzk0YWdLb2o1b3hqYi13dmZraExWMS1jVVlQUEh2QXB3cENOVjR6ZjhHVE5Mam1ZNWpNQnRYdUFVNzJ0ZjB0cV9WMU9OLVk2UXRXNkpSdmFyWnI1VUxpNHVMMnFCVlE4QXpPcUNSNGQzeTg2VGhMTEdnWGRld0RteEszS1hoM2d5cElDeUVFU09pYkJ1NjV3UnVfeU05WWt6YmZ2N1psOGJkd1REUGdlVHA4TW5PSkdpN1BzV19GRXRLOUhJenp4NXd5WVJ4TS1FeUZhOFBaZWQtaEhMUQ?oc=5",
-          "description": "Marcelo Bielsa rompió su tradición con la prensa: qué dijo sobre el 11 del debut de Uruguay en el Mundial 2026 &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-10T15:44:00+00:00",
-          "score": 5,
-          "score_reason": "Usa 'rompió su tradición' sugiriendo un quiebre significativo",
-          "score_pct": 50
-        },
         {
           "source_id": "observador",
           "source_name": "El Observador",
@@ -44,48 +14,12 @@
           "source_color": "#D32F2F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elobservador.com.uy",
-          "title": "La increíble entrevista que brindó Marcelo Bielsa al llegar a México con la selección uruguaya: respondió a cinco preguntas con 26 palabras y en 38 segundos",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNQzhQX2k4SDdkaTRvcDJvQ1FoQXZmZ1VoRGVIZElnWnc4dU00dWhBYUI3b08tMmNrLVJ5eGV2X0VwWUhBQjJ3SnJ0cWFQd0NFZVZpbmpHRVM0QllueVpFcXJXYjRKeVV3eHFlcjJCaWhaWk5CdzAwQ0J1MndVN2RpZDJ3RGczNXJab0RicTJhWTFaV2ZwT1gtVDhhQlp4VjA1aXdQVnVYdWZRdEhYdEpoTS11WkcyakdYRTVJZGlIbkR4NkpSSEZ0ZkJva1dEMUtrVkR3dXlFdmNRTHpTMFdKWW94cENiQ3VDX0ZySXM2Nk1PSjlpS3NKcGhOQXJ3MlM1MGd3QTNmRThYMzJDRjI1NDRxckpmX203MkV0cDVOQdIBpAJBVV95cUxQY0dsSHZNRUJUb0g1NjJBVmYtcFFhbG1hM2Y2UjFZdHE5bXp5SWNlenZEWDFOMGMtWkZXNTFHUjRUMGliUFZXYTFSWkIySHVncWZVVkl0LWdMa19ZREkyclJla2pESzA4X3ZOZ3c4MEtRbHcyX3BRU0F1SGFIZjhuZWp2Vi04dHhmRWV2T3NKakpkQmlPdFJRRzVHSjBqcjBxc3ZuN1Fpamx1WDRiZGszcjhzYUhHYTNyanN4Q1ptU1BWUGVESmZUaFN4bk1yM1JmTmt2U2FWdG0wUGFDZm9OalNCWUtya3d3b2sydGN2ak9fdm8tVDluSWJXRmlRakYxLU9uNDlWUjc1aUJqWkI1dE5uXzVuWWZZQlNUVjA3eWRCZURJ?oc=5",
-          "description": "La increíble entrevista que brindó Marcelo Bielsa al llegar a México con la selección uruguaya: respondió a cinco preguntas con 26 palabras y en 38 segundos &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-10T16:05:00+00:00",
-          "score": 6,
-          "score_reason": "Califica como 'increíble', término valorativo y sensacionalista hacia lo anecdótico",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "El director técnico de la selección uruguaya de fútbol, Marcelo Bielsa, atendió a la prensa al arribar a México con la delegación celeste. El entrenador argentino respondió cinco preguntas de los periodistas en aproximadamente 38 segundos, utilizando apenas 26 palabras en total. Las respuestas fueron extremadamente escuetas y breves. Bielsa habló sobre el equipo que utilizará en el debut de Uruguay en las eliminatorias rumbo al Mundial 2026. Esta intervención ante los medios resultó inusual por su brevedad, considerando que el técnico había mantenido distancia con entrevistas individuales en los últimos tiempos. La selección uruguaya se encuentra en territorio mexicano preparando su participación en la próxima fecha de las eliminatorias mundialistas.",
-        "coincidencias": [
-          "Bielsa atendió a la prensa en México",
-          "Las respuestas fueron muy breves o escuetas",
-          "La entrevista fue con medios individuales o mano a mano"
-        ],
-        "diferencias": [
-          "El País enfatiza el quiebre de tradición y el contenido sobre el equipo titular",
-          "El Observador se centra en datos cuantitativos (26 palabras, 38 segundos, 5 preguntas)",
-          "Montevideo Portal presenta el hecho de manera más neutral, sin dramatizar"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Selección uruguaya llega a México para el Mundial",
-      "category": "Deportes",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "ladiaria",
-          "source_name": "La Diaria",
-          "source_short": "LD",
-          "source_color": "#1B5E20",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://ladiaria.com.uy",
-          "title": "Uruguay viajó a México para el Mundial: tres jugadores dieron declaraciones y saludaron a los hinchas presentes",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmZFdDlmeTZPTldlM2p3U2hQR1pEaXJjMlcwZklPejl2ckFTQWEzbG4wLXpKbTA1cHpQVTVPbkVfVzdQZWJGOHhPb3Zka2RxS2o3TnZRY1c5cWIyZ2xuc1BMMDhjYkRVSmVBMl9JYmdYRXlwRDNTdXpWalF2eUFneXFJSHpBbXIzOUR2TWxIWDLSAaABQVVfeXFMTUJ6TzdfUUV2a0xBUjJyb3NEXzJpcm5hZlBRSThoZzBpaUdZMHFsTVBMMXNOcERpS2trbExpWW1qRHdRVTJMQm1NU05pNHlqQnBQZ3drVmx4VWJxNGlqdF84SThPdnl0ekkzUlRrb3BRWUFUOFJial9CeFZlWW1hZ253R1lkZ1d1aEJ3UzJXckN3VlVlbjlLb0U4MDA2Qkw2Yw?oc=5",
-          "description": "Uruguay viajó a México para el Mundial: tres jugadores dieron declaraciones y saludaron a los hinchas presentes &nbsp;&nbsp; ladiaria.com.uy",
-          "pub_date": "2026-06-10T02:24:50+00:00",
+          "title": "Interior relevó al jefe de Policía de Montevideo, Pablo Lotito, y a la directora de la Guardia Republicana, Angelina Ferreira",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdDZmTk1tZ1ZFMHpKVWs3SGlBSERBcVVkblFwSnZkakRsLWF6dGctLUF3SXI2VzU3NTdXa1FVZ2FvblgwdV9XQ3dJUm44dVU4MEVBNlU2N1VLeUd6anRDYWVQUFRyNWZoYlFYdHRQaEtjVVJQX29WbkxiQ1FOQ1hNQnlzZGU0RkdMenJ4RUJoSTdzUWxpQWE4MmVIM0VXM1IxMFVOMlY2ZEpCMElmcDl3UGlQZXlDWFZtUkN6Rm9qU0ZfVUtaX3AwS2tjV09GYW1hY1JGRWV6b3JfZmxUdU5LemR0MDlrRDA00gHuAUFVX3lxTE5UdnY4ZmQzVHZmbzB3RWpjOUExZEUxMW44YVJKeEVSaHJrY2M5U0Nyd3JNYjFnWmx2VTZrVDB2dU1fUUl3QkZENzNGeGNyS1Z4ODlkUU5veGQyV0xmTUNGWUx4cHh4WE15V3VZaTRjclV6Uktqam1MNkU3bVZNNFhtVGVYRDhkQU5VOTVPRGtMb2tMWmJYdy1QVUFVNXJxVEVBalFoVDFyRVh1cE5NckJ1aXRQYUctdVFjeENGN3ZEcVFBeG9mQmU3Q3hqN0Ryc25jOTlJTEkzd1ZUUXRlbDlDQ2YtWjdXWk1YRElhMVE?oc=5",
+          "description": "Interior relevó al jefe de Policía de Montevideo, Pablo Lotito, y a la directora de la Guardia Republicana, Angelina Ferreira &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-11T20:26:00+00:00",
           "score": 1,
-          "score_reason": "Descriptivo y factual, enumera hechos sin adjetivos valorativos",
+          "score_reason": "Objetivo, usa términos neutrales, informa nombres y cargos completos",
           "score_pct": 10
         },
         {
@@ -95,50 +29,14 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Campeón del mundo con España puso a Uruguay entre “los grandes candidatos” al Mundial",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcDF4YkN4OFJzNndzNUxhSko0RGtGcVJLc0hTZUQ1TlJwclFkbHVkREFGem9lejVFX2FoczVDLVQ5QTgzOUVqLWE3LURNLXRHQ1FZaTBReV9DT0RMZnpGdkl0eDFWUTFkMmh5c1Q5Z0tLd0pNWkM1MFZhQnlWaGdlcGhNWFBOaTREUkc4eTRNS0JoVkwtLU4xNmc4dldXYUV3NS1lc3YxQVU5SUxqYTd3WlcwbDRjbTBvN0t5VEdHRklNZVctUTl6WTFNVQ?oc=5",
-          "description": "Campeón del mundo con España puso a Uruguay entre “los grandes candidatos” al Mundial &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-10T18:35:00+00:00",
-          "score": 3,
-          "score_reason": "Enfoque en declaraciones externas que favorecen a Uruguay positivamente",
-          "score_pct": 30
+          "title": "Ministerio del Interior dispuso cambios de jefe de Policía de Montevideo y en Republicana",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMFBVTFhUNW1JakdWbW5yUkp1RnBpLWlKTDcxNnlpaHpYSXoteVExTzI5YUZXTF9ZY0pvZFRDUUJIMS1CTFRTN3BBSmsxS2tJSElQSXNOUVNqLTRKMkRTRjdEM3NIN0x0MnFSc3c4X2Q0Wm1KNzU5WnFwWUw5VWp3bUtjMmFReDQtOXJRQ0RreWxDTUM3b2ZpeXBRaUhaSFZQZUp0TGM0bXE1WHdsUzIxRkVyZ2tjS1JTRk5mWWIySUwwMVRMd2JNbDZ2bWpsMmNZby1V0gH3AUFVX3lxTE5HOGF3Vjh0OTVUbUczNmRJSzlDbzVmVVV6TXBQSjBpZnN1SUgxQmJQaDNuS01NUjlRVFN1LU4ydVhMY3hJeTdQUFZ1S1YtOEZpSFdFdnVYeG0xU3hreTBEeXhCbUVlZjdIT290YmdQczhMTHR0TENmR3BET1ZMel9Hb3hRWW43bWNPaXNISnA0U2w2eHFnbjcybmFvUVZWWkZ4NTZZX3FQQks2VWxhUVRwQ0dwMjhNaGJiVU5sd0liSmtXUzd6Z1diQUxqcXlyMWkzQXV6NmRvbXJISWM4N2JwTS1MUldGb21QN1NLVVYxV1N2cU5YZHM?oc=5",
+          "description": "Ministerio del Interior dispuso cambios de jefe de Policía de Montevideo y en Republicana &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-11T20:56:00+00:00",
+          "score": 1,
+          "score_reason": "Neutral, usa 'dispuso cambios', término técnico y sin carga",
+          "score_pct": 10
         },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "“Histórica bienvenida”: así recibieron a la selección de Uruguay las autoridades de Quintana Roo por el Mundial",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNc0VnY0pLbWFkWno1T1FYaXQtM1NmSGRHR0ttWDBYYnM0VUNhaVpYZFdJOFp3eDBjQm9FQm1HZHF3Q1BWQkRsaWlPR2ZqVk9HQy1BSnJ3VkVPc1BlVk00ZVhZVGpMSWk1NjdHblVlV25ZMXFjX2dqbWxxQTRtSEx2dDFsendiTmhrVEl5eVoyNkQxSnJpanhpTEtRdGNMYktILUl6QjlpZHVYOU12aGx5bkxUX0xpQ3MtQWZfZEx3ZkdqSDA4UUFYLUs1ZVVZRG5vTl9lbmx2SjlzNzQ2ODdYSHVXTWs?oc=5",
-          "description": "“Histórica bienvenida”: así recibieron a la selección de Uruguay las autoridades de Quintana Roo por el Mundial &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-10T23:24:33+00:00",
-          "score": 4,
-          "score_reason": "Uso de 'histórica' agrega carga emocional y valoración subjetiva",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "La selección uruguaya de fútbol arribó a México para disputar el próximo Mundial. El plantel fue recibido por autoridades de Quintana Roo en su llegada al país. Tres jugadores del equipo brindaron declaraciones a la prensa y saludaron a los hinchas uruguayos presentes en el aeropuerto. Por otro lado, un exjugador campeón del mundo con España se refirió a Uruguay en declaraciones públicas, ubicando al equipo celeste entre los candidatos al título del torneo. La delegación uruguaya se instalará en territorio mexicano para realizar su preparación previa al inicio de la competencia mundialista.",
-        "coincidencias": [
-          "La selección uruguaya viajó a México",
-          "El viaje se relaciona con la participación en el Mundial",
-          "Hubo algún tipo de recepción o evento público"
-        ],
-        "diferencias": [
-          "El País enfatiza la recepción oficial y la califica como 'histórica'",
-          "La Diaria se centra en declaraciones de jugadores y presencia de hinchas",
-          "Montevideo Portal prioriza opiniones de terceros sobre chances uruguayas en el torneo"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Gobierno presenta proyecto de competitividad y costo de vida",
-      "category": "Economía",
-      "sources_count": 3,
-      "headlines": [
         {
           "source_id": "subrayado",
           "source_name": "Subrayado",
@@ -146,27 +44,114 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Gobierno presenta \"proyecto de ley de competitividad y reducción del costo de vida\"",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjZybi1fSWFIeHRHb0k3RVlCOWczSVVfRU5lTjU0cldFZEtUaEpPWDZPbUpfQVFjVWVSTlItaTA1SURiM3ZmMU9wMEg0Q0FKVFZLVU9OTFpUSzlOMVhtdWt3ZFo2TEFYY3QyWmxMam83b2JwNzNTcHNoNFdOck91Z3JXbU8zcWM5TTVmeGhwSlRHVHpsQVpNOWNUUzhzbkhEOFVpSWZocUpsTDYtMWZz0gG0AUFVX3lxTE9fU2ZxeVZOaDhORVVybU10WjFmaXB6cWJNcjFlZXlZbmJKeFFBOHZ2SmZ3ZmU0eGNQR3BxNkJlMUx6M1hRT0pqUlBqcElOdnJyOExqNDR4VzhWVThKRjFGazk4Q0gtTmxzUENCejRVeGNDRk5STlVrNjA3NWl2WDJOalZSS3ZYU1JuMjJrZHNXeFhvMGVNUWpxSERpb1NzbGlFYXlXekk2amtVTFNvQzlhT25hUg?oc=5",
-          "description": "Gobierno presenta \"proyecto de ley de competitividad y reducción del costo de vida\" &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-10T15:21:00+00:00",
-          "score": 1,
-          "score_reason": "Título estrictamente informativo con nombre oficial del proyecto",
-          "score_pct": 10
+          "title": "Jefe de Policía de Montevideo y directora de la Guardia Republicana fueron removidos de sus cargos",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcXVTa29PT0E2VnI3Yi1YX2ZVV3IzeVFIMTloeFpTNUFNdkFQMXZpdS1rTF9Ta21lUjZ6dk5EM0otNm45ODdaX01Zd25uR0tYczdZeDBTVHlheWdJZHo0MC1IR2g1dGJvQTZLbDR3UTFMU2N5ZTN2NTZ1Si1DLUFkMTd6bnBOMHQ5SXZORXJoTGpETWhrbExINlZwMHFHU3VrS0ZKbnJhN3VLb2FZUVdvYTVOYXR0b3JxX1lZekljZnQyZ9IBxwFBVV95cUxQMjB5cEU3cXVPY21WbkZJMG1xSmExUFEwRS1pN3JJdDVhdFIxdG83a2MxMGNTU2wyS0xub1JLRlhwaGtnNzcxTi02QzJ5bmh4R3FRUFp4Z19ZY1duSERWSkxBakFWUENvemVvTTg2Slc0b3hwVmM5MTJyMjk2MGs0c0hqLXhoNHFQcTZsZ3pxeU4zblc1MGZDWHJkUklwWHFSeUtra1dleVlJOTI2UktJMGg4XzdVZEw5NDFJN0N4SDJJbW9TN01n?oc=5",
+          "description": "Jefe de Policía de Montevideo y directora de la Guardia Republicana fueron removidos de sus cargos &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-11T18:42:00+00:00",
+          "score": 2,
+          "score_reason": "Término 'removidos' tiene leve connotación negativa pero es descriptivo",
+          "score_pct": 20
         },
         {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Proyecto de competitividad y reducción de costo de vida",
-          "url": "https://www.teledoce.com/programas/desayunos-informales/primera-manana/proyecto-de-competitividad-y-reduccion-de-costo-de-vida/",
-          "description": "El Poder Ejecutivo enviará al Parlamento la semana que viene un proyecto de ley de “Competitividad y Reducción del costo de vida” compuesto por 240 artículos orientados a generar “más empleo, más inversión, reducción de precios y menos burocracia”.",
-          "pub_date": "2026-06-11T12:39:49+00:00",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Negro removió a Jefe de Policía de Montevideo y a directora de la Guardia Republicana",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMXpONTBDZ3l1ZFdMTV81bzM3LXlEVFdNaGU1bExLSnJwLUs5UjdYWDZIanpoUFhrbkp2b2U2NzNWNXpOOG9qYUFpeXl2allXLWo2TXRyNkFtTGt3dlFSTmh4eHZDb3B3aTd2MHFaSGFKX3daVVFlWWNrVk9abDd5aTViQ1BndnpITjV6T1d5NnptQlNaRmZrZ1RTd1pPZmwyVlowZGpQcXBJY29LSHljWDNIbVU3aWMyQzRKVTl30gHDAUFVX3lxTFBXdG9ZZTE3ZzlYNGhvZHdDQU5nenBzcVZQUl9CUlR3M0NOVEVodnVILUF6SkJ1VGRHX3BmVVFsX3Mxc0VIbXNZSnQyb1RSU1BvbGdXRjBGOUJiYnRNTHR0RjRLM0t0emQ2clVuTm4xR3g4TFRoamdIVU1WYmNOdXpfQVF3NzFEMzFpMjJzenBPY0ZxVGg1TUw0LWdQRXBBMkV4LS12bjJSRmxtWjA3NUd5alBZWDllWXBMVnhVYlJNcHdCdw?oc=5",
+          "description": "Negro removió a Jefe de Policía de Montevideo y a directora de la Guardia Republicana &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-06-11T21:44:00+00:00",
+          "score": 2,
+          "score_reason": "Personaliza en el ministro pero mantiene objetividad en información",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "El Ministerio del Interior dispuso el relevo de dos altos cargos policiales. Pablo Lotito fue removido como jefe de Policía de Montevideo y Angelina Ferreira dejó su puesto como directora de la Guardia Republicana. Las medidas fueron adoptadas por el ministro del Interior, Nicolás Martinelli (conocido como 'Negro Martinelli'). Los cambios se producen en dos posiciones clave de la estructura policial: la jefatura departamental de la capital del país y el cuerpo de élite encargado de la custodia de edificios gubernamentales y autoridades. No se han informado oficialmente los motivos de estos relevos ni se han anunciado aún los nombres de quienes asumirán dichos cargos.",
+        "coincidencias": [
+          "Pablo Lotito fue relevado como jefe de Policía de Montevideo",
+          "Angelina Ferreira fue removida como directora de la Guardia Republicana",
+          "La decisión fue tomada por el Ministerio del Interior"
+        ],
+        "diferencias": [
+          "Caras y Caretas personaliza la decisión en el ministro Martinelli, otros medios la atribuyen al Ministerio",
+          "Subrayado usa 'removidos', término más fuerte que 'relevó' o 'cambios'",
+          "El Observador y Subrayado destacan nombres completos en el titular, otros priorizan los cargos"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Estrellas del escudo y expectativas del Mundial",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "No hay debate: el origen y la explicación de las cuatro estrellas mundialistas que lleva Uruguay en su escudo",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWHl6YmtvM1JTdlZjcGxKZmtxckNpVjRnYm1QQ1hnSEl0QkViWDA4a2VYLVEwdnpIZTBzaVk3TXpvYWE1Sy1aSDVkVlJXallfN0c2X0J4cXBFSE1OUzRMcjZKODA1WnE5YWV6NVJNZFR3bElMRFBGSjJYVE4tcDJhSkJwVmk0aDZ6YlMyd0FZNjc2WU1SdkY4ZV9VZm44OFJRVlpIRTY4WW1sZjlPRktrSWItaUFxTW5veVZGYWJnQ1NoTl9CWXRZdXFxOUQySXE5SkFaSzdvaHhUYVlFMWZOUnhpYlZHQQ?oc=5",
+          "description": "No hay debate: el origen y la explicación de las cuatro estrellas mundialistas que lleva Uruguay en su escudo &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-11T14:52:38+00:00",
+          "score": 2,
+          "score_reason": "Enfatiza ausencia de debate, pero es informativo sobre escudo",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Uruguay tiene que pasar el grupo, no hay excusas”: Forlán por su expectativa del Mundial",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeEw1OWY2d0ZCbHNQeF9EaE5NeWFJZVRLX01HT3NSVHMxU0Q3TWxuYlNMLWtBT0pSVWF5RS1GRzNhSFYybGZRQTE3WXI1UXZMZTB4bHBibnZjZXFBRjBjVEpXU3IyaHczUGl1RDZqNjBuRXBfQWgzRldyeHMyNkN0SlJ3Si1XRkJqVFVoYlJ6VE5lOVM1V0FlUnJwZGt4ME9DNXgtTFZSMG9aYTdBckJLZ0lKdHlCYlBkNW5maGloQWw5a3hsREFtWDY0QnZ3YXFZ0gH0AUFVX3lxTE9tQXU5RTdSMkVObjQwb1dBUHdSQWlFZTRDWnRHMUZHaWptRWZIRXRaODBWUzl2dFJIU05PTEZRb3BZNElOOTJJQmZLVHdFNzBFNGFEaWJVWm9RT244MzFDZ29QcDNTSTJBM0gzUUh2Z2MxSHk2b1VlM0hCM2g5djRCa0pLUUV4Q0N0cWVhcjNPRXV5YUFsZE1fYnRnOV9BdEoxR3FxcHBlMzRJemVLVGJqT1V2UVlzQWQ2aEFQTFNLcjlTQUdDNFN6YWVCRTExVk5IczQtbjc0MV9WVWxFbFZIX09HTm9YX096Wl9PQ3FUdFJMWFk?oc=5",
+          "description": "“Uruguay tiene que pasar el grupo, no hay excusas”: Forlán por su expectativa del Mundial &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-11T23:58:00+00:00",
+          "score": 3,
+          "score_reason": "Usa cita directa de Forlán, leve tono prescriptivo implícito",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Dos temas vinculados al fútbol uruguayo cobraron relevancia mediática. Por un lado, se abordó el origen y significado de las cuatro estrellas que lleva Uruguay en su escudo, que representan los dos títulos olímpicos de 1924 y 1928 (reconocidos por FIFA como campeonatos mundiales) y los dos Mundiales de 1930 y 1950. Por otro lado, el exfutbolista Diego Forlán se refirió a las expectativas para la próxima participación de Uruguay en un Mundial, afirmando que la selección debe superar la fase de grupos sin excusas.",
+        "coincidencias": [
+          "Ambos refieren a temas vinculados al fútbol uruguayo",
+          "Contexto de competiciones mundiales de Uruguay",
+          "Abordan símbolos y expectativas de la selección nacional"
+        ],
+        "diferencias": [
+          "El País se centra en el aspecto histórico-simbólico del escudo",
+          "Montevideo Portal enfoca en declaraciones y expectativas futuras",
+          "Uno aborda pasado glorioso, otro las exigencias del presente"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Uruguay prepara debut mundialista con doble nueve",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Mundial 2026: Uruguay ya está en México para la fase final de su preparación previo al debut",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYlFoaHZYeDBoVnlmWHMwcHNMSGZTbjBkQkZxU2x5WHVQdDhQUVlWbkk3TUdQUjZwZnpkeUdmUlBCVTRnTzZQRFA1NTlVY21uNGNBZTNZdUVlZU1kcGNGM3VpYWdwR1ZxVzhqV0xMaEFiNTBUY0lUaWdWWTZ6SlRlem1nd3c5ZHpoODVBTEN2bW5QLVliRVlvaDZYU0ZXd0lvQUNsZE55NHJoWW9SRXNhbkRKeEpqX3U2SjktZVJvTTYyLW5keW8wVWdR?oc=5",
+          "description": "Mundial 2026: Uruguay ya está en México para la fase final de su preparación previo al debut &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-06-11T07:16:36+00:00",
           "score": 1,
-          "score_reason": "Presentación objetiva sin calificativos ni opiniones agregadas",
+          "score_reason": "Informativo directo sobre llegada y preparación, sin especulaciones",
           "score_pct": 10
         },
         {
@@ -176,48 +161,99 @@
           "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elpais.com.uy",
-          "title": "Gobierno presentó proyecto de competitividad y baja del costo de vida: \"modesta pero importante reforma del Estado\", dijo Oddone",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTWViN19KVmVEMWI4Z180WGhsZ2daOGsxLXNSdnhsUDFYaXVsdlhLZnVEcy1wRHNyTVBEeWxrbmVsdWl5a202SEE5WlNaVG5VdmhRQjBJN2JXbnVqZG9GcDJBRUlTWVc5WlhQOXZxa004R2JPZkRFNDE3NE5tWEJfT2x3aVJRU1BkOHhELUVJeXA2RHBsYzNWSEJyb0dKOUtCUzgyQmdHZ3BLQzFmLVJxRjU4eWphbkRrWGx4eDdGY1c4RC04eUJSVTJNQmlHM2pfX1FRZm1ud3BiWkF5WFhzNnNjSkxIWGNxbGZybmE2SWl4VEd2QjFjTU1MX2M?oc=5",
-          "description": "Gobierno presentó proyecto de competitividad y baja del costo de vida: \"modesta pero importante reforma del Estado\", dijo Oddone &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-10T17:21:30+00:00",
-          "score": 2,
-          "score_reason": "Incluye declaración textual oficial, enfoque descriptivo y neutral",
-          "score_pct": 20
+          "title": "El probable equipo de Uruguay para el debut en el Mundial 2026: Bielsa prueba con Núñez y Viñas en el \"doble 9\"",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdEdPNXlzZEZyZ0QtM0JUMURvSTZUZjFHYXJqRHA5RVV2MVBjbGQtbmlscjZ6Rm0wbFI5VDlfOWNVOXFuUzRkdzdNNGh1LVNORlpCbWtiUVAxc1dFelFiVVczM1dNdS10dlVsZUFwdnE1UUNxbGFEeHU1TE9NMnJQaTN2bUhsVzZsaUJoMUZDQjItb1c2RVI1QnBMS3pkYXVCOTh5d3puTVluSFdwem83d2F6elloM3dteUNPNXYzRUs0LXd6YVp4RHJkRDd4ejUzdC1tZkRObUtzWVNwdTh5VUJObVk?oc=5",
+          "description": "El probable equipo de Uruguay para el debut en el Mundial 2026: Bielsa prueba con Núñez y Viñas en el \"doble 9\" &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-11T22:39:13+00:00",
+          "score": 3,
+          "score_reason": "Anticipa formación como probable, genera expectativa táctica específica",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "El Poder Ejecutivo presentó un proyecto de ley de Competitividad y Reducción del Costo de Vida que será enviado al Parlamento la próxima semana. El proyecto consta de 240 artículos orientados a generar empleo e inversión. El ministro de Economía y Finanzas, Gabriel Oddone, calificó la iniciativa como una \"modesta pero importante reforma del Estado\". La propuesta busca mejorar la competitividad del país y reducir el costo de vida de los uruguayos mediante diversos mecanismos legislativos que serán debatidos en el Poder Legislativo.",
+        "resumen": "La selección uruguaya de fútbol llegó a México para completar la fase final de preparación previo a su debut en el Mundial 2026. El entrenador Marcelo Bielsa realizó pruebas tácticas con un esquema de doble delantero centro, incluyendo a Darwin Núñez y Sebastián Viñas como dupla ofensiva. El equipo se encuentra en territorio mexicano ajustando detalles estratégicos y definiendo la formación titular que utilizará en el primer partido del certamen mundialista. La preparación en suelo mexicano permite a la celeste adaptarse a las condiciones locales antes del inicio de la competencia.",
         "coincidencias": [
-          "El gobierno presentó un proyecto de ley sobre competitividad",
-          "El proyecto aborda la reducción del costo de vida",
-          "La iniciativa será enviada al Parlamento para su tratamiento"
+          "Uruguay está en México preparándose",
+          "Se aproxima el debut en el Mundial 2026",
+          "Es la fase final de preparación del equipo"
         ],
         "diferencias": [
-          "El País destaca la frase de Oddone sobre reforma del Estado",
-          "Teledoce menciona que el proyecto tiene 240 artículos específicos",
-          "Subrayado usa comillas en todo el título del proyecto"
+          "El País enfoca en la formación táctica y jugadores específicos",
+          "Grupo R se concentra en la logística y ubicación de la preparación",
+          "El País especula sobre alineación, Grupo R solo reporta hechos concretos"
         ]
       }
     },
     {
       "id": "story_004",
-      "topic": "Crecimiento de venta de autos 0km en Uruguay",
-      "category": "Economía",
+      "topic": "Imputación a titulares de Pérez Marexiano por estafa",
+      "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Mercado laboral, confianza del consumidor, automóviles, expectativas de inflación y ciclo económico en Uruguay en números",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWWczNVBBUVF3cFJBWERJN0JrY1o1ZUFXVTV5TGxZMmFLY3Q5NXBVTV9ieHM2ZDVDMnpBa1NOYzNuelBVVW5pTURJSDZoRzlsVUNaeHdvWVF5T1dkaU9UMjNXbHFLcVVfQWZmeThUTk9UODlnQmVXZG5pXzVBdkZUemZrWVpPaDVRbWpTMURMNmVNZDg0aWJuX1lHaVZGZlR2dTlvWnhVNi1XZlVRQkZDTlRDMjdVckJOTkI2UC1LOHZlY3Z6UEdkSHY4cV90R3RNNXptVC1OMTFFQnBLd0pQdXBYT2djTF9qX0g4?oc=5",
-          "description": "Mercado laboral, confianza del consumidor, automóviles, expectativas de inflación y ciclo económico en Uruguay en números &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-11T05:00:00+00:00",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Titulares de corredora de bolsa Pérez Marexiano fueron imputados por estafa y asociación para delinquir",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdnNWODhnVHB6U3RQMGItYVBGLXJJRHkzd2JpR0NMRXdDQ3lkV2JORHNjS1NxVG5sWnI1eHFRaklNa2x5RGs4S2RsRDNsTThTWDdsaUdnOFM4R2VYU3pSZm5zOUY3VGtiN0ZXTjlOcUMwVEV2eXpLTUpNZVo1QXh5M05TWHRzTFBvcG9pb2d2UWZqRk40Yi1pX01COWZhOXRaVWpxbzRtVmdfNVVzMFN3QjBKMHJibVo2dndrSmpvZDI3NkhIY1ZoLVBtM2JGN3dsVkcxR1JtTk9uRURzelhmRVFIeENQTm8?oc=5",
+          "description": "Titulares de corredora de bolsa Pérez Marexiano fueron imputados por estafa y asociación para delinquir &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-11T18:49:50+00:00",
           "score": 1,
-          "score_reason": "Título descriptivo técnico sin carga valorativa ni énfasis",
+          "score_reason": "Presenta los hechos de forma directa y objetiva sin detalles adicionales",
+          "score_pct": 10
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Imputaron a los titulares de Pérez Marexiano por estafa y asociación para delinquir: \"avalaron\" lo hecho por González Palombo y \"se beneficiaron\"",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTm5xZXN3RTdOTHlYMGNoYWhxOGVPT3V6ckdldGpVNWVHeFVfVTdidlNmN2xOUnUxRDhWMkhhVGJaZm5nNVhoUjE5Y045NVh1MmVTZzN4SXR2c3F1R05EYVdoSDB0SnA0NTJlaWU1NVBKaGpwWjhCdkZkSFlUX0ZBVEoyMmgyZmphMWpwbXlCS01XZUthd2ozUmlOYTdmM3ZPT05CUS1GTVhVQnFqa1dJZVFZM2pFUUVZOTZmLUM2Tk9fb3ViYXRidXEtc1FzNW1YNTIycdIB2gFBVV95cUxONklxSXd6cHpkYUFGNmQxVl8xalFnTUE2VklFNUZCQ2llejd1cGc2Y01ZeE1YRm5HTWVtbXdua2l2ZTlGTkJHaWVva1Z2S3ItOVlJNk9aaTlHSkYtRG9aR3NPa0Y1cno2YV9hTUx5d1EwQVR4MTZwMjFuWERKRmE4dWZEWmk4TGU2SFFsb19fQTJBaC1tWGotbUxiOHNBcDBGZ0pvNzZFalpkRU9Mc3BkQTRpWWhoeVg1V2kyeVBSOEhYWjc0TUxWa2dXMXYxNGwya3Q0N2RVeHdoZw?oc=5",
+          "description": "Imputaron a los titulares de Pérez Marexiano por estafa y asociación para delinquir: \"avalaron\" lo hecho por González Palombo y \"se beneficiaron\" &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-11T18:43:00+00:00",
+          "score": 3,
+          "score_reason": "Incluye entrecomillados que enfatizan responsabilidad y beneficio económico de imputados",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "La Fiscalía imputó a los titulares de la corredora de bolsa Pérez Marexiano por los delitos de estafa y asociación para delinquir. Según la investigación fiscal, los directivos avalaron las acciones realizadas por González Palombo y se beneficiaron económicamente de ellas. La imputación se enmarca en un caso que involucra presuntas maniobras fraudulentas llevadas a cabo desde la firma. Los titulares de la corredora ahora enfrentan cargos penales por su presunta participación en el esquema delictivo investigado por la justicia uruguaya. El caso forma parte de una investigación más amplia sobre operaciones irregulares en el mercado de valores.",
+        "coincidencias": [
+          "Ambos informan sobre la imputación a los titulares de Pérez Marexiano",
+          "Los dos mencionan los delitos de estafa y asociación para delinquir",
+          "Ambos relacionan el caso con las acciones de González Palombo"
+        ],
+        "diferencias": [
+          "El Observador detalla que los titulares avalaron lo hecho y se beneficiaron",
+          "El País se limita a informar los cargos sin profundizar en motivaciones",
+          "El Observador usa entrecomillados que agregan contexto sobre la participación de los imputados"
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Uruguay rumbo al Mundial 2026",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Mundial 2026: Steven Gerrard eligió a Uruguay como la sorpresa y Francia como campeón",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdi03ZEo4M2lpWENudVFXOHVURE9rbFY0QnI4MEN0NnFvbnJQVmJ1d3VHdW1GUm16RVZCbzNXLU9kT0ZiVW9ZeUpRVWx0Mzc1M0VDb2NMRFZ1SDVkNjdISHZySjgyemI5amZNZ1JCZElsWGg1OGhLZ1RicDdsNDZJb3Npbko0SmJXVWU3OHlrVERhSm9pam5VeklzTnlSMlVtNlpGc0s0dHBoSVQ4TlFGT2YtY3hJTko4TkxVRkxvWHpiQlJiNkFETGFXNVE?oc=5",
+          "description": "Mundial 2026: Steven Gerrard eligió a Uruguay como la sorpresa y Francia como campeón &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-12T00:30:00+00:00",
+          "score": 1,
+          "score_reason": "Objetivo, reporta declaraciones textuales de Steven Gerrard sin interpretación",
           "score_pct": 10
         },
         {
@@ -227,33 +263,33 @@
           "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elpais.com.uy",
-          "title": "La venta de autos 0 kilómetro en Uruguay no para de crecer y en mayo aumentó 19%, ¿qué marcas son las más vendidas en el año?",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRVJhS2t3bks5OE9LNGo5Nk5fcnNwWmluc1RvWlpITU9wWTVKekdDQkVkQURQZ092SHJybkljTGdEbTNLTEZOOE11aHd4ajU3SFRucGQ4OTRuRW5WODJmWlhfUVhPU1JkT2I5T0hDbGRMVWpwR1lJemtDUlV1QW5iV3dzSWRxTjRUdmQ5emUtaUlNZW93ZVgzR2JDTTkyRjV6M0dpRzR0MDN0MDdQM2tDaEJRZ3RkUjlXbEk0bVZqcmQ3d0dEYmZWc202Y0hydW5VY0pGLURVUzExN0RYUHRmRG92SVJCM3lPcE56cmUzMXVsT2xkdUJmbQ?oc=5",
-          "description": "La venta de autos 0 kilómetro en Uruguay no para de crecer y en mayo aumentó 19%, ¿qué marcas son las más vendidas en el año? &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-10T10:30:38+00:00",
-          "score": 3,
-          "score_reason": "Uso enfático de 'no para de crecer' sugiere dinamismo extraordinario",
-          "score_pct": 30
+          "title": "Uruguay de cara al debut en el Mundial: cuatro futbolistas que están lejos y dos que siguen sumando puntos",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOME1sb2NxUUVwbkRyck1VUTBVbGMyb0lPMG45c3BQYzJqMkpvVzA1SS14andXOFhrSzNyVWFqbFR6YUF6NzJ5azk2TngyWWNfR0lXTkl3cWVCR3c3Vmo2dXJpZVJ0TTNDc0xLZm84aHQxRkpwb2ZzcTRfdC1mbzg1TS1xcmZhWTNmV0tmazlSZ1hmV1h4Ml9veW0wbUVNd1ZvaXFoUV95UXNsMGRweXdaTFVtLTNQQ2hVbk5zcWdhTWFhVFRvLTE4SWxMaEhoME1QZFpCbzM5RUNlWm1kTzN3Sw?oc=5",
+          "description": "Uruguay de cara al debut en el Mundial: cuatro futbolistas que están lejos y dos que siguen sumando puntos &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-11T06:25:36+00:00",
+          "score": 2,
+          "score_reason": "Descriptivo, informa sobre estado de los futbolistas sin adjetivos valorativos",
+          "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "Las ventas de automóviles 0 kilómetro en Uruguay registraron un aumento del 19% en mayo de 2025 respecto al mismo mes del año anterior. El incremento forma parte de una tendencia de crecimiento sostenido en el mercado automotor uruguayo durante el año. Los datos reflejan indicadores del sector que incluyen información sobre las marcas más comercializadas en lo que va del año. La cifra se inserta en un contexto de análisis más amplio de variables económicas como mercado laboral, confianza del consumidor y expectativas de inflación.",
+        "resumen": "A pocos días del debut de Uruguay en el Mundial 2026, la selección celeste presenta un panorama mixto en cuanto al rendimiento de sus futbolistas. Cuatro jugadores muestran un nivel inferior al esperado, mientras dos mantienen un desempeño positivo. Por otra parte, el exfutbolista y entrenador inglés Steven Gerrard declaró en una entrevista que considera a Uruguay como la posible sorpresa del torneo, aunque eligió a Francia como su favorita para consagrarse campeón. Uruguay enfrentará su primer partido del Mundial en los próximos días, con el técnico Marcelo Bielsa evaluando las opciones disponibles en su plantel.",
         "coincidencias": [
-          "Ambos medios reportan el incremento en ventas de automóviles",
-          "Los dos contextualizan los datos dentro de indicadores económicos",
-          "Coinciden en destacar el desempeño del mercado automotor"
+          "Ambos se refieren al Mundial 2026 y a Uruguay",
+          "Publican información cercana al debut de la selección celeste",
+          "Presentan análisis sobre la situación del equipo uruguayo"
         ],
         "diferencias": [
-          "El País enfatiza el crecimiento sostenido con lenguaje más llamativo",
-          "Búsqueda presenta la información como parte de un panorama económico amplio",
-          "El País centra en marcas vendidas, Búsqueda en contexto macroeconómico general"
+          "El País se enfoca en el rendimiento individual de futbolistas uruguayos",
+          "Montevideo Portal destaca opiniones de Steven Gerrard sobre el torneo",
+          "El País analiza aspectos internos, Montevideo Portal aborda perspectiva externa internacional"
         ]
       }
     },
     {
-      "id": "story_005",
-      "topic": "Muerte de niño activa protocolos sanitarios escolares",
-      "category": "Salud",
+      "id": "story_006",
+      "topic": "Ministro Negro anuncia cambios en cúpula policial",
+      "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
         {
@@ -263,12 +299,12 @@
           "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elpais.com.uy",
-          "title": "Investigan el fallecimiento de un niño de seis años en escuela N°187 de Bella Italia: MSP activó protocolo",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNejcyUkhHdDBTT2JBeUp4bThqS25tRTFMY3dvYkNvQmhoRHpfV2N3dDdMTzJJcFFZdHJhSnExWDZ1aENCRVA0WUJkMTFFUFpfU05jZzZJbC1kWEoyaGNWbTVKUTZicVQzTUdTR1M4cHl1eGtrUmtrSVRNQkh5a2l1R0J4cEIxU0Z5c1ZscFREQUpBV1BRRUNMUktwWnVaZ2g3Sk5uZEhRVkxBNXZIVHp1Q2F1WHJ2RWRZREd5Ml8wOTZrWU5TN2otdGZfYWJ3c0stTnpLNm5YT2w0RG5Xa3o3T0hhMA?oc=5",
-          "description": "Investigan el fallecimiento de un niño de seis años en escuela N°187 de Bella Italia: MSP activó protocolo &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-10T21:41:42+00:00",
+          "title": "\"Poner a los mejores en lugares donde más se necesita\": ministro Negro anunció cambios en la cúpula policial",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVjcwWm9fTEttclZMaHpKaVFFWVpPendHMGF2UE5mc0tYc05xalMta1NTaGRKV3BTWHd2bXFSVndkV1dQVHhxay1rckpWSF8yZEQwMHBOM2dZRzI1cUhCYnN4ZUFNaGFfLWdIU1BFQnpkamwzMktUQ0RWTG1JSjJoSEhlbFFjN2wtYm1JS0o2djJSOGpEamc3eGktTEJuOXplZHROektDeWNUam50N2FRV3U2RHF2NGQzTkZsQlBFRUROb01KcWlkbWdYWUFoODNfMmxXaC12NUsxd3RVLWZ0S0pQSmt0cmc?oc=5",
+          "description": "\"Poner a los mejores en lugares donde más se necesita\": ministro Negro anunció cambios en la cúpula policial &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-11T22:50:42+00:00",
           "score": 2,
-          "score_reason": "Informativo y neutral, presenta hechos sin especular causas",
+          "score_reason": "Informativo, usa cita directa del ministro sin carga valorativa",
           "score_pct": 20
         },
         {
@@ -278,33 +314,33 @@
           "source_color": "#D32F2F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elobservador.com.uy",
-          "title": "ANEP activa protocolos por posible caso de meningitis en una escuela de Bella Italia tras muerte de un niño de seis años",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYXBKQ3VodzU1YXlNN2ZrZEtOQl9XcWpXUExiZ2dObzdKc0lUNldMc2FpWUMwWjFRLUEtZGE4VngzbHgzYWFGTkNuaFVoeXlkLWpBQ2pJMVRFSUM1N1YzYUxLNUlTRF9kWUZtQlNpOUtlWnIwSFVmUmRJZ3dIU3RCLVpUaTNlQnhJVHNrWDFJRjRSQ2JzRXJfYzhFeGNXSlR4QkZsSEpGbnExSGxaX2J6UWt0QjRlSm9iSGR1aFgzNlcwdm5uXzRRZWN3NHgyUlJlWHBsbEYtUmtUU0JTNW5v?oc=5",
-          "description": "ANEP activa protocolos por posible caso de meningitis en una escuela de Bella Italia tras muerte de un niño de seis años &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-10T19:07:00+00:00",
-          "score": 4,
-          "score_reason": "Introduce hipótesis de meningitis como enfoque principal del titular",
-          "score_pct": 40
+          "title": "Carlos Negro sobre cambios en la cúpula policial: \"Van a ser una mejora sustantiva en la seguridad de la población\"",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQ1JRQTM4eFFCWUpybEs3Y1BVOUctLXR4T2ttTlhJbkhuZHhJeFJtWlB6UU5LNV9uRS1Sd2xvZDU2SGtaYk9YcUkyQ1ZCajJoNGhoSkQ0N0VNYVZiR2FzckZ6OGl3MHpzUWdfRU1vbTJGcUZjR2NVYmtFbFMxOVMwUjNqWFVQcVVxUDIwS1FfMmc4ZkdubzNBV0pPRWIwTVZJZGxlSmsza1pNTWM2ZzhDREk0aUFBLXNlbk4xd1NmdFFtR2tKMTJ0YmlxeURIZWx5SlNMNDhuTlVia3ZHRmfSAeMBQVVfeXFMUHpXOUkycEtJdkNRVC1LNER3QVB5dk5pWWhRdVBYQ2NvXzVHNEFMZU4xaGRUMzQ5MlRyQTJjNWtUMXZDZVV5WmItLUxOVEt3Y285X0REQ2V6QjlXUFlpc25rejRkVEFjOTgzbkcyMEVqODY0a1ZWNHFrY1lHMjJqeDJkOG1vc2xhSHIwUGpxZi1kT1BlMmpJeWNzQlZFVjRQOTJyaDhFdlk4X1FicEJzYU1QSXVIVWliRkltQnNnaVctU29LV09ndXJXN1BmSDdYYndBalRDV1hiS1p2RHZiVWFFNkk?oc=5",
+          "description": "Carlos Negro sobre cambios en la cúpula policial: \"Van a ser una mejora sustantiva en la seguridad de la población\" &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-11T22:27:00+00:00",
+          "score": 3,
+          "score_reason": "Incluye promesa de mejora sustantiva, leve sesgo optimista gubernamental",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Un niño de seis años falleció en circunstancias que se encuentran bajo investigación en la escuela N°187 de Bella Italia. Ante el deceso, el Ministerio de Salud Pública (MSP) activó los protocolos correspondientes para investigar las causas del fallecimiento. La Administración Nacional de Educación Pública (ANEP) también implementó protocolos debido a la posibilidad de que se trate de un caso de meningitis, aunque esta hipótesis aún no ha sido confirmada. Las autoridades sanitarias y educativas se encuentran trabajando de manera coordinada para esclarecer las circunstancias del hecho y tomar las medidas preventivas necesarias en la institución educativa.",
+        "resumen": "El ministro del Interior, Carlos Negro, anunció cambios en la cúpula policial. El ministro declaró que la decisión busca \"poner a los mejores en lugares donde más se necesita\" y afirmó que las modificaciones representarán \"una mejora sustantiva en la seguridad de la población\". Los cambios fueron presentados como parte de la estrategia del gobierno para fortalecer la seguridad ciudadana mediante una reorganización del alto mando de la Policía Nacional. Negro realizó las declaraciones al informar públicamente sobre los movimientos en la dirección policial.",
         "coincidencias": [
-          "Un niño de seis años falleció en la escuela N°187 de Bella Italia",
-          "Las autoridades activaron protocolos institucionales tras el fallecimiento",
-          "El caso se encuentra bajo investigación por parte de organismos estatales"
+          "Todos reportan anuncios de cambios en la cúpula policial",
+          "Todos citan declaraciones del ministro Carlos Negro",
+          "Todos enmarcan los cambios como estrategia de mejora"
         ],
         "diferencias": [
-          "El País se enfoca en la investigación y el protocolo del MSP sin mencionar causas",
-          "El Observador destaca la posible causa (meningitis) y el rol de ANEP",
-          "El Observador especifica el tipo de protocolo activado (meningitis) versus El País que es más genérico"
+          "El País enfatiza el criterio meritocrático de la decisión",
+          "El Observador destaca la promesa de impacto en seguridad ciudadana",
+          "El Observador usa titular más orientado a resultados futuros"
         ]
       }
     },
     {
-      "id": "story_006",
-      "topic": "Selección uruguaya en Playa del Carmen preparando Mundial",
-      "category": "Deportes",
+      "id": "story_007",
+      "topic": "Proyecto de ley para que Ancap deje portland",
+      "category": "Política",
       "sources_count": 2,
       "headlines": [
         {
@@ -314,13 +350,113 @@
           "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elpais.com.uy",
-          "title": "Playa del Carmen recibe a Uruguay cumpliendo con lo que pidió Bielsa: reina la calma y hay poco clima de Mundial",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU2c3Q1h0NmY4VDV5Q2lmOVV3eW51Z3A1TkQ5Vi1KSmdsRGhZVGdoYzRRejlOeEluTF9lcU96dlVsRWdvQlJyMGJMMjVMRHNwbWlCeXRmSmg1TzB1QmpDSjBhMWhiUnlVZDAwODRIS2VkV2Y0bGZwdmFWcmtwSV82Z2dEbG5Dbm4xVTYyQ1dwejhocEM1Nkk1REVjb084NWVYVjhoYXJMdmxndUtKQUk1UXoyMXQwVXkyVG1zMkJQWTJ4c2IxUGNPc19TX2ExLVFBM0NCY0R1VWl5OHU1VVZZUzFkYmZRdHdC?oc=5",
-          "description": "Playa del Carmen recibe a Uruguay cumpliendo con lo que pidió Bielsa: reina la calma y hay poco clima de Mundial &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-10T06:31:46+00:00",
+          "title": "Tres diputados colorados presentaron un proyecto de ley para que Ancap deje de fabricar portland",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTjE2dUxGeDlOSGd2NW1iZVlyUVU5WHhvLVRVRmFmd0V5cWo4cW81cFJMNklkcTFDMlBObkJDUGV1bXpod0Q5SW9IZHpYN25ya0cxSGp3QzdSaFpFSXowUzByQ0Q4VUdJM2s2dDdKMkRiUVNTb244ZHI0NzU2ZTZkWXFKZ0c2dHlFT3BNVG16NmUxdEljNExTWG4zdnp0dGxBMkJ3WUJhMUhfajNWNGhnc1lrUHh3dVp1X3VpSUk0MWRnMDRNR3ZLODAxdU9UbTNvVkw3djQzRy1KQm8?oc=5",
+          "description": "Tres diputados colorados presentaron un proyecto de ley para que Ancap deje de fabricar portland &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-11T22:25:42+00:00",
+          "score": 1,
+          "score_reason": "Informativo y directo, sin carga valorativa ni lenguaje tendencioso",
+          "score_pct": 10
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Diputados colorados presentaron un proyecto de ley en busca de que Ancap no fabrique más pórtland",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb05zTUdPSmxtc2Z3bkc5UGdXSUhieTJQdnJFcl9NelJDbU5NR08yMmQ4Z1dxdnRiUUNDdnM5UGV4WjBPdjJ3OS1oYUdLY1BFM2pTbTRwcFZmTGZaNTE2NVdpYW80MDcyQjZBbHNjdkJZTU1HVnRIeGlaTFY0bkgtdklzWUR5dk9rYThLODI3VWpZRjRyeWMzMUNLU1VpRmx3dVF4dUJMckl5cUVLZFl3b1ktNl90ZF8zMUxVbUJqamVGVE5hU0pLOE9yaWJkeTl6LWdTddIB2gFBVV95cUxPUjRuLXFQXzUtT2NXU2xlTXdvdlNNY21aeGhSb3B2SElCZ29yazM1bi1aRWxPMXc4VlZnejU5dGJpYzNvZHphQkVmTHduS215ME5BWGxtMlAwckVrZEcwcWQwVmdEV2ZJT3VZMklKNUx2UnlFRERrSkJDQzNPX01FVnNqb19KQ0R4VGFIUW44MjYwM2VZa1AxRGlzN045dzhhTGh3SGFZNDBjLWxoc2hCMVNvRmlRbHBWWlRBTnZlUkhIUkNDUkpoWVJWUVlJZG9VclVWT1U4UmpBdw?oc=5",
+          "description": "Diputados colorados presentaron un proyecto de ley en busca de que Ancap no fabrique más pórtland &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-11T22:00:00+00:00",
           "score": 2,
-          "score_reason": "Informativo, describe condiciones objetivas solicitadas por Bielsa cumplidas.",
+          "score_reason": "Neutral con leve matiz al usar 'en busca de'",
           "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Tres diputados del Partido Colorado presentaron un proyecto de ley que busca que la Administración Nacional de Combustibles, Alcohol y Portland (Ancap) deje de fabricar cemento portland. La iniciativa legislativa apunta a que la empresa estatal discontinúe esta línea de producción que actualmente forma parte de sus actividades industriales. El proyecto fue ingresado en la Cámara de Diputados por parte de legisladores colorados. La propuesta se enmarca en un debate sobre el rol de las empresas públicas y sus áreas de actividad en el mercado uruguayo.",
+        "coincidencias": [
+          "Tres diputados del Partido Colorado presentaron el proyecto",
+          "La iniciativa busca que Ancap deje de fabricar cemento portland",
+          "Se trata de un proyecto de ley formal"
+        ],
+        "diferencias": [
+          "El País usa formulación directa 'deje de fabricar', El Observador suaviza con 'en busca de'",
+          "El Observador usa 'no fabrique más', El País usa 'deje de fabricar'"
+        ]
+      }
+    },
+    {
+      "id": "story_008",
+      "topic": "Ceremonia inaugural del Mundial 2026",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Dónde ver la ceremonia inaugural del Mundial 2026 en vivo, y a qué hora empieza",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ0ZfczYxUWtjbWpHQ3Y5ZG9FeE5pME03Z01obHp3LUtrLUhmNk5VdnM5NnNoSUhGZ1lVQUhDWFM2UnhxSjVNLXFiWGJ1ZnR6UHlRdktoaHJUcGxJRmR1MV9CWjVtU0hLdXR6RjQ2Q1ZYUmJBWWFyQ1ZVbGEwUTJhRXRjMllIRzNRS2tYR3VOWDgtWks2cFA0M2YyNk5kNEVnR3hFUEhJZDNKMDJFbE9yUFE5OHp1QTVqbFBtZlhsN2FkLXBLa0gxUUxiTkZOUG9mSWUyOXp5SGlleTDSAeABQVVfeXFMTV9ydjZ6UmdfUnlZd0h1TUwzcXpLQ3JnMmFuc2VsV1ZnYzZsaWg0V2hCdjZPVlRncHh1VlB5SXpfWkIyTFFWY0NES0VQZ3pRQWxmMWdtMTd1aVRrNm9veldmWTZfQWQ5R0RkU3hBMTZJNXdHV2RWcXJmTTg2LW5QMEFjVGZhcnliUEY4TjJ2QlBfZjZ3ajhxRG5TWUJnVkt3T1RJSGZZRC1jRWliU1d6U3czcnlucTdzVHY5UUl2Z2ZIejRQQ2V2TEtwUWRvNlJtNlh3X2d4ZU5yaWMzQVB2R24?oc=5",
+          "description": "Dónde ver la ceremonia inaugural del Mundial 2026 en vivo, y a qué hora empieza &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-11T17:20:00+00:00",
+          "score": 1,
+          "score_reason": "Titular neutro, informativo, enfocado en datos prácticos de transmisión",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Mundial 2026: ¿a qué hora será la ceremonia inaugural, quiénes actuarán y cómo verla?",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZjU5UTdGeVQwOUw3S3RqYmJPUTNCNG9GWUluX25peE9SYkZreGU1OWE1Z0cwYVE5SFFuREg4c0VtTDhoeHRQbVlrTFhvdGVnVXdwVW9VakdmalBLMFlHUFJsdzhrYWEzLVRDeHpUUjNXaFRwWW14OWZKVjJMeFF6OHFuNmxQS3FWWGp5cjlxOGlwUVpNdnR5OFpOelByUlpncFdlNVROMm1oOUwwTEstQXg3VXdGSUtGYmw5MVFwemk0ajRDQVN3cHF0WdIB7wFBVV95cUxNSzRUZXMxZFZXcUc3bEtBQ1VaUk5pd3JwRGJyQ1o4UW9jQzVkZFFsWERfS2hqNFp4R3pyU254dlhPU2xsRURaZC1GUDBfSm5DNmluRVlzOHRKOWJKVVVKUENfXzlpSzgyT0VhWlZLcm1XeXdxZERnby1ESkU0akhUbEFiNl9hX0k2Q3ptRWRwVi12QkNOYXZUTmpOOGRNamZ1X3FINzQyNGd0YjBMWWlFLVZUSjVwY0c3WUNjNHp6U0IzRUp2c243MEFMQmpLRUppZDl5MG5Hd0t0V1NmZDE4U0w3MGlmcmxaQ25MOWlSUQ?oc=5",
+          "description": "Mundial 2026: ¿a qué hora será la ceremonia inaugural, quiénes actuarán y cómo verla? &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-11T13:24:00+00:00",
+          "score": 1,
+          "score_reason": "Formato de preguntas informativas sin carga valorativa ni sensacionalismo",
+          "score_pct": 10
+        }
+      ],
+      "analysis": {
+        "resumen": "La ceremonia inaugural del Mundial de Fútbol 2026 se realizará este jueves 12 de junio. El evento marca el inicio del torneo que se disputará en Estados Unidos, México y Canadá. Los medios uruguayos informan sobre los horarios de transmisión y las plataformas donde podrá seguirse en vivo la ceremonia. Se difunde información sobre los artistas que participarán del espectáculo previo al partido inaugural. Uruguay clasificó para el torneo y los uruguayos podrán ver la ceremonia a través de distintas señales de televisión y plataformas digitales. La Copa del Mundo es el evento deportivo más importante del fútbol mundial.",
+        "coincidencias": [
+          "Ambos informan sobre horarios y formas de ver la ceremonia",
+          "Los dos mencionan quiénes actuarán en el evento",
+          "Ambos se enfocan en información práctica para los espectadores"
+        ],
+        "diferencias": [
+          "El Observador prioriza el dónde y cuándo ver en su titular",
+          "Montevideo Portal agrega específicamente el elemento de los artistas participantes"
+        ]
+      }
+    },
+    {
+      "id": "story_009",
+      "topic": "Ingreso de migrantes cubanos a Uruguay desde Brasil",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Inteligencia de Brasil alertó que unos 30 cubanos ingresan a Uruguay por día a través de Rivera",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTFU5TDVZdUY1TjdzejFxbXJRZGQxUFFNVERiVG11dkIwM3d0WXFRSUk4ZEVWalQ2dHFjb2JTWGw1NFlvMXBVdG05MmlVdms2dEpiQ3NIaExsMWpNYzA5cGJOVG9LN0tCMThKM3pqcURLYWRUVzZEUkZXWDk2TGJTSW9WM1Q4Znc4TDdFQzlXQ0x6aU9mSDhYVmxqU2lZZGFVZEkwWGc4OXZMeGttM203djZMd2RfSmI5Tk83SWxLRWlsZ9IBxwFBVV95cUxPb201LW5rUWozN2YzdlVtcWwzYWs2Z2FEWkdGeDdRMjYzVkY0aVhBQzE0aVJWQlRYR0pkYUhiOEVKZ2h3TU9LNTlqM0hBMFlFOGtHaXhocFh6a2JRMGUyeXk1S0ZvTmplR2tUemxURlRpRGZ3c1FMQmp6ZGR2OXpXckxGcWlLQkVyRWpVV3QteVgxb2RTVHFwSmlGR21hQkYycTRmLWl3WE9xMXRsc0NZbDRGbjRHbHp0cFM4MDVHem1FX1otencw?oc=5",
+          "description": "Inteligencia de Brasil alertó que unos 30 cubanos ingresan a Uruguay por día a través de Rivera &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-11T12:22:00+00:00",
+          "score": 3,
+          "score_reason": "Uso de 'alertó' sugiere preocupación sin especificar ilegalidad",
+          "score_pct": 30
         },
         {
           "source_id": "busqueda",
@@ -329,178 +465,26 @@
           "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.busqueda.com.uy",
-          "title": "Tatiana Cortazzo: “A los uruguayos les falta ser más patriotas, querer más al Uruguay”",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmlfZXdvZWhscW1RSkkzMUkxNEpaRDBJd2VpYjRjWDRvV3JnaTd3QjU4Y29KdjllWDdlNUpseV9OaHBCMlpqQzVlVDBzVUVWODQta1E0N2pObjBPbllSSVBHMWtSVWVFQlZGTWtDWUNhUmViUVp3Z0lnbUJKQ0l6YXJtMTBSUUpmaUtjbEx2a2p1aWF0V19MLUs5X3RFVnM0TDhDWG5UVlllaFVpRlZCcTZubk5JS1RKOHJhc1JVNXRobUlGa3NJcGd3?oc=5",
-          "description": "Tatiana Cortazzo: “A los uruguayos les falta ser más patriotas, querer más al Uruguay” &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-10T21:00:00+00:00",
+          "title": "Brasil alerta por tráfico de migrantes: 30 cubanos al día entraron a Uruguay por Santana do Livramento",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOHJXeTg3LTVScHNBcWg2YllOODRMOWxJWS0zaDVrcVFaM0FrTEg2RUZjSTByZzU0VEMwSTV3SGZkMEZNMVZWM1psTnVzS0w1VVJGYy1mSEFJSVl3UVhwY2lVS0pSSmZ6a2MzUTJfWlJ4QVFhazhFWU84UGVRWVYtd0tzQjMtSFYyWkwtM2R0dU5keVpJbi1Qa2FCOUJqQlZqZDhnQW85ZC1zQW5aYmtJMFE1YmczZTZTQkRBSTdOQXV1QTR6T1BPT1JRSEowaEQtNk5r?oc=5",
+          "description": "Brasil alerta por tráfico de migrantes: 30 cubanos al día entraron a Uruguay por Santana do Livramento &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-06-11T06:59:00+00:00",
           "score": 5,
-          "score_reason": "Declaración con carga valorativa sobre patriotismo de uruguayos.",
+          "score_reason": "Uso de 'tráfico de migrantes' implica actividad ilegal y criminalidad",
           "score_pct": 50
         }
       ],
       "analysis": {
-        "resumen": "La selección uruguaya de fútbol se encuentra concentrada en Playa del Carmen, México, preparándose para su participación en el próximo Mundial. El entrenador Marcelo Bielsa había solicitado previamente un ambiente tranquilo y con poco clima de celebración mundialista para la concentración del equipo. El lugar elegido cumple con estas características, predominando la calma en el entorno donde se aloja la delegación celeste. En declaraciones relacionadas al ambiente previo al torneo, Tatiana Cortazzo realizó comentarios sobre el patriotismo de los uruguayos, manifestando que a los ciudadanos del país les falta mayor identificación nacional y cariño hacia Uruguay.",
+        "resumen": "La inteligencia de Brasil informó que aproximadamente 30 ciudadanos cubanos ingresan diariamente a Uruguay a través de la frontera con Rivera (Santana do Livramento). La alerta brasileña se refiere al tráfico de migrantes en la zona fronteriza. El flujo migratorio se registra en el paso entre las ciudades de Rivera, Uruguay, y Santana do Livramento, Brasil. Las autoridades brasileñas han comunicado esta situación a través de sus servicios de inteligencia. El ingreso se produce en el contexto de movimientos migratorios de ciudadanos cubanos en la región.",
         "coincidencias": [
-          "Ambos medios abordan temas relacionados con Uruguay y su selección",
-          "Los dos titulares se enmarcan en contexto previo al Mundial"
+          "30 cubanos ingresan diariamente a Uruguay desde Brasil",
+          "La información proviene de inteligencia brasileña",
+          "El ingreso se produce por la frontera Rivera-Santana do Livramento"
         ],
         "diferencias": [
-          "El País se centra en aspectos logísticos y deportivos de la concentración",
-          "Búsqueda enfoca en declaraciones sobre identidad nacional y patriotismo",
-          "El País reporta hechos verificables, Búsqueda reproduce opiniones personales"
-        ]
-      }
-    },
-    {
-      "id": "story_007",
-      "topic": "Brecha de precios Uruguay-Argentina en mínimos históricos",
-      "category": "Economía",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Argentina se encarece y la brecha de precios con Uruguay se mantiene en mínimos de la última década",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWmxMalBxcTFzeHFWMU5UTTJuaGxSUUxxSkZteFpNSW5GeVV5T3BZSE80VmF5d191RjVEU0NYMEtKZUZ4WjV0Tmx5SjhfcVNIaDkzVmU3X1R1b0o1cm1rNnlVVlF6WG1FSzZfTjU3ZnJGRWVCbVQ2S2dVaktvWGg5ZE1LSnNCX1o4M2hnOVBHd2lzTl8wNHE0Q1N0ZFItRV8xWWdUcy00cWpLUTliMU1Gb0lXaGVBUUstQWRUTkdjVktwRDNOOTQwa0xBOTVJOUpRWUo5RTlOcm4wV1E?oc=5",
-          "description": "Argentina se encarece y la brecha de precios con Uruguay se mantiene en mínimos de la última década &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-10T08:45:16+00:00",
-          "score": 2,
-          "score_reason": "Titular descriptivo y neutral, informa hechos sin carga emocional",
-          "score_pct": 20
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Se planchó la diferencia de precios con Argentina: cuáles productos son más baratos del lado uruguayo",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVERzX2VqbjZJb2I1eEJnNzFNcGtRbmxaRVB6MFlPa1Y0aEUxbGpFMW9kejY5Zy1SRTV1aXhxQlVGeWo0Y1E4TFJ3Rl9iVUVYM2toLWswbWdpdGlHMXM3aEh5OTJ0RWpzUnFOWFRrLWRwYndNQ1c3eFR3a2NMZl9RN09ZcTlyWEFDNkxuVWVueF9ZM3hsbWhhNm4xdVh1ZkVsNTQxY0tiNTNESF9vQzlGUTI0MW0yUGNrRG9fRjcxTWF3RGpTUDhQUXpybnd6UDJHNXd0aVk2SGJYcnBJQ0hnbVpXaHBiMnBQUEE?oc=5",
-          "description": "Se planchó la diferencia de precios con Argentina: cuáles productos son más baratos del lado uruguayo &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-10T08:00:00+00:00",
-          "score": 3,
-          "score_reason": "Usa expresión coloquial 'se planchó' que añade leve tono informal",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "La diferencia de precios entre Uruguay y Argentina se ubicó en los niveles más bajos de la última década. El proceso de ajuste económico en Argentina bajo el gobierno de Javier Milei generó un encarecimiento significativo de productos y servicios en ese país. Como consecuencia, la tradicional brecha de costos que hacía a Argentina más económica para compras y consumo se redujo sustancialmente. Algunos productos específicos incluso resultarían actualmente más baratos del lado uruguayo de la frontera. Esta convergencia de precios modifica patrones históricos de consumo transfronterizo y afecta el comercio en zonas limítrofes, particularmente en departamentos como Colonia, Rivera y Artigas.",
-        "coincidencias": [
-          "La brecha de precios entre Uruguay y Argentina se redujo significativamente",
-          "Los precios argentinos aumentaron acercándose a los niveles uruguayos",
-          "Se trata de mínimos históricos en la diferencia de la última década"
-        ],
-        "diferencias": [
-          "El País enfatiza el encarecimiento argentino como causa principal del fenómeno",
-          "El Observador destaca productos específicos más baratos en Uruguay actualmente",
-          "El País usa lenguaje más técnico mientras El Observador adopta tono más coloquial"
-        ]
-      }
-    },
-    {
-      "id": "story_008",
-      "topic": "Fallecimiento de dirigente del Frente Amplio de Florida",
-      "category": "Política",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Un adiós: Frente Amplio en duelo por la muerte de la joven dirigente Tatiana Pérez Gasso",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMll1MVNkbndNY0JPZ1EtUjEtdlFBVU96eWNkWGJ6Q1pRcW1rakZDYlB6bnprSTd3UjUzQWJjSU05a3luSHp0RWtlU3BqcUhWRm9RZ0xTeEdCZzlIOEdVajY0Y2J4VlowVktsLUhWWlVJd2lGbncxcDgtd2JPY3htMV9heUMzUGpFUzdNMEdKUTFMV0JwWlZ2dVlRcGtOSlJGb1VkNmxLVFRUMFZoNm11VS1MTzNMUUZTV2tHTnR6QTZWbnBSRWllRHQ0aHJ4OTBV0gH0AUFVX3lxTFBnb01CalVNUHoycFlROXQwaklGYS05VTJSWlJJMUNmV01uTnlXOWpzNWFYQWtsNFM1VjhWaHFMWm9zdUhONllGUFB5RWlPaXNYeUJaSUhWRE9DdXNNVHNlczNfbF9rYVoyZllicDRZdUx6WlpXY1Y3QmxJV2IxM241OGYzYThhM2VhVlFxZllsa1VLMkM2bjlqd2VJZjZlTFFRbXRYQXJwd2dzZHdyam9veWVkcVB3N05Sa0wyaGR0RGZfMnliUHNuRkY1ZGR5WXlaUjQ4QTZKNWN5VUpPaldleGlYZ0ZFYnQ5Z3NMSDg0a1EyRnA?oc=5",
-          "description": "Un adiós: Frente Amplio en duelo por la muerte de la joven dirigente Tatiana Pérez Gasso &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-10T10:24:00+00:00",
-          "score": 3,
-          "score_reason": "Enfatiza el duelo del partido con lenguaje levemente emotivo",
-          "score_pct": 30
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "\"Hasta siempre, compañera\": murió a los 32 años Tatiana Pérez Gasso, vicepresidenta del Frente Amplio de Florida",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVzNxTUtBM3VSQ1MyUl8yX1haX3NQTE1KbWRacHBpakxLOHJsM1dGUjc4M0RONGNZdFpIdGtmR3hYakhoeEpHTzFtaXczQmFVSk1uV3lQWXdEXzg5Y3pDQ0FYZWhIaDRtYk1qYlNqZnJwYW4zWk0yb2RCR0MyLS1Sa1BnSVhfNnVKQkZSbzJOUWZiMmE5Znk4OGVEMkM3bkFaQlQ3TVlfNk8yRVBFbTJ5b254NUlzcnVvSnhydGdTai1OeThZMFF1U3Iwam50aXBab1NBbUlaQjMzS0lTYmhGcDdvY01qVGc?oc=5",
-          "description": "\"Hasta siempre, compañera\": murió a los 32 años Tatiana Pérez Gasso, vicepresidenta del Frente Amplio de Florida &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-10T10:41:14+00:00",
-          "score": 4,
-          "score_reason": "Uso de cita emotiva y comillas en titular genera carga afectiva",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Falleció Tatiana Pérez Gasso a los 32 años, quien se desempeñaba como vicepresidenta del Frente Amplio en el departamento de Florida. La noticia fue confirmada por el partido político, que expresó sus condolencias. Pérez Gasso era una dirigente joven dentro de la estructura departamental de la coalición de izquierda. El Frente Amplio emitió comunicados lamentando su muerte. No se especificaron las causas del fallecimiento en los medios consultados. La dirigente política había desarrollado su actividad en el ámbito departamental de Florida.",
-        "coincidencias": [
-          "Informan el fallecimiento de Tatiana Pérez Gasso a los 32 años",
-          "Mencionan su cargo como vicepresidenta del Frente Amplio de Florida",
-          "Refieren al duelo y homenajes del partido político"
-        ],
-        "diferencias": [
-          "El Observador destaca la frase de despedida en el titular con comillas",
-          "Montevideo Portal enfatiza el duelo institucional del Frente Amplio",
-          "El Observador opta por un tono más testimonial y personal"
-        ]
-      }
-    },
-    {
-      "id": "story_009",
-      "topic": "Selección uruguaya llegó a Playa del Carmen",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Uruguay llegó a Playa del Carmen y fue recibido con un ritual maya y un perro celeste",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWtUSmtrUzBrMWhGV1NCcll3ZHU5d3RXZEZhRVZDQ0JpSTdsN0hkY21QZC1QMHA5YW0yblByMVNKTDhHc184UXh6Rm1LY1U1NFZCYzZ0ZmZrQ2dmYlQtYS0xa0diZ0ZWcmd2UWUxLWhURmc4UTc3RnNpejdoNkZSWktBU21weXJmeXhoVmxnY25QSThaX3ZMSXlnT1d6UC1uVWdkcjdKWGE4aWRLZktCX2tFX2Rma3lYRTBUNC1KQWhIUFBJU0xpYjF5SXl3Z9IB8gFBVV95cUxOTGRWRW54TDM1V1YxakZfVU1KNWhQdHNCS3hDekVRQjNsZ2tiRy1tVjNETk5TUVZfd2JmYTFfN3U2b1FTaHFuMW9Xb01CZHJ0WjU5MFVLYm5GNVpQMVNNdDdsRktqSzBjdjJmaENEcm1VZXZCWkNQSnhsM0xUejhPNm1NWFRjaGxyTW5wNlNKRFFJb0s0TEt6VVpvRDJfVklZWEZsNUhrUGRhdHpIWGo1a3RJUHBwa0RZQkxKbF9MVGlRVG9pel9Nek5kNzJQSmJrbl8tQjFod0pkZ2JOTXUtZW1EZ2hrQXpxei1OYXlHX2ROQQ?oc=5",
-          "description": "Uruguay llegó a Playa del Carmen y fue recibido con un ritual maya y un perro celeste &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-10T15:00:00+00:00",
-          "score": 2,
-          "score_reason": "Titular descriptivo con mención equilibrada de ritual y perro",
-          "score_pct": 20
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "El detrás de escena de la llegada de la selección uruguaya a Playa del Carmen para concentrar durante el Mundial 2026, con un perro hincha de la celeste",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQzh0MHRMY1U1Mkx6VzNXU0t1WlREUEZtWG5PODJjM2VqQ2FtemtjeDJSV0dIS1lhRnFSUXFodS1GWC02X2J5LTFaVmZEaVZTcDNSakZxR293VV85YkNWd1VtMzU1MzE3T3dvdVNXa25WOHhVU0pMMVNvTW1OSndDaDVnZzNUejltOHU2c0NPUGFHX0QxYjcwZ2lzaENNS0dQdmxjcXBDMmFlTFA1LWRkR1ZmR1FfcU9IQzFGbFg1eC1iM09pbGEzUVpJN3NKM1NVS1dsZ25DVTlOakkxVHFLSlBQWnFubTJHb3A3bDFIM2o4RzMycGwtNF9LUlcwWlpPbmJma9IBigJBVV95cUxOQ1MyM05qUUlBak1XWTYxUlhlQzhMNk5LYUowSkZqeEIwMGJqdnUyVWl1M2ZVb0VGR3lldXItbkg2X1NXWUVNWFFOT0RIWWN6Vlo5ZXlNUGNELXdGVFdqRWhZRFFaajM4aUVLZlF0UXI3ZEdHYWZSaWNZRjBtNGEyMDYwVFNwUFVwekMwU0FSWTRzLUhYUFU1ZDhZc2RqUi11MEpfeFF2ZktuMGVFWGNLenhNaUJFNFMwa0ROY2ZodVFnU0dTYlJZSUVCQmxFN05OYjcyY0xreEk5WFRySFhya3lSbVNlLVY2bTNJaTFtVGx3NHNUZ1d0NzFZNGh2UWZhR3ZZX1J4b2VQZw?oc=5",
-          "description": "El detrás de escena de la llegada de la selección uruguaya a Playa del Carmen para concentrar durante el Mundial 2026, con un perro hincha de la celeste &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-10T16:35:00+00:00",
-          "score": 3,
-          "score_reason": "Enfatiza el aspecto anecdótico del perro sobre información deportiva",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "La selección uruguaya de fútbol arribó a Playa del Carmen, México, donde concentrará durante su participación en el Mundial 2026. La delegación fue recibida con una ceremonia de ritual maya. En el lugar de llegada, un perro con indumentaria celeste se encontraba presente durante la recepción del equipo. El plantel se instalará en esta ciudad de la Riviera Maya como base de operaciones para la competencia mundialista que se disputará en México, Estados Unidos y Canadá.",
-        "coincidencias": [
-          "La selección uruguaya llegó a Playa del Carmen",
-          "Hubo presencia de un perro con vestimenta celeste",
-          "Se realizó un ritual maya como parte de la recepción"
-        ],
-        "diferencias": [
-          "El Observador enfatiza el detrás de escena y aspectos anecdóticos",
-          "Montevideo Portal prioriza el ritual maya antes que el perro",
-          "El Observador destaca al perro como hincha mientras el otro es más descriptivo"
+          "Búsqueda enfatiza 'tráfico de migrantes', El Observador usa lenguaje más neutro",
+          "Búsqueda menciona explícitamente Santana do Livramento en el titular",
+          "El Observador presenta como alerta general, Búsqueda lo enmarca como problema de tráfico"
         ]
       }
     }
