@@ -1,246 +1,12 @@
 {
-  "generated_at": "2026-06-13T11:58:05.292285",
+  "generated_at": "2026-06-14T12:00:57.422662",
   "stories": [
     {
       "id": "story_001",
-      "topic": "FIFA designó árbitros para debut de Uruguay",
+      "topic": "Expectativas de Uruguay en la Copa del Mundo",
       "category": "Deportes",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "FIFA confirmó los árbitros para el debut de la selección uruguaya en el Mundial 2026, ante Arabia Saudita: terna italiana y canadiense",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMUh6V3VhSlFvNGhLUHBiU3NwQWNraUZYZTVGeWdrLXNrd3NfZkdwZ29hVDcxVHhXQ250bTJNNV9rYlY2Yy1PbEdRUGpVWkREMDJrZFQ1SnlvWGNxNlZWU2YzSVo1UG1EcUE2R3F4WTJoMzJtYzBadGxyZ0NNX1RuVlVUeVlvQllBMTQ2cU83aWtESTB3V0ZKSDkwNTVGY3NHU0NCV1NBTENjSDE1SDFpRFVnQTR2TVRnUnk1dEl6amxCdjBkdTVDN0E0VFlpRDJPWHlkdDNNbWNaN05zOTkydm5FcDIwbS1MS2pkeTQ4SlpyaW5oWnVZWlZuRXpvZnfSAYQCQVVfeXFMTTJqRDlJUU9WRm82ZG5aSlBoaEVZWHVyaDlCNFhOX1pNSkRXMGo0OE5zajFHSDIxTk9BUUVCVEtDNXl3NzZOMEFJVDNvOVZoUGlrejFUbXloTlBNNWU1TGpma2pFc1FEM3B0NXN4NGIybi1JeElBcTBRVzcyV1ZSVGI1cU1rVHFyTXF2RGgzTGVBUDhyNzlOSmRJNzE4UURLLWFlVl9TQzFpcFBJcWFBVlc0Sm92b2hDUDRnaEJvQTh0RXJnSmtiU252aHRRNm5ORXh0RUhocEtrcFhzZzNvRU5abzNYU3pRUVlMZ1lKMGcwamFySGN6UXN4a2ZFQzREMi0yejE?oc=5",
-          "description": "FIFA confirmó los árbitros para el debut de la selección uruguaya en el Mundial 2026, ante Arabia Saudita: terna italiana y canadiense &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-12T13:43:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo y completo, detalla nacionalidad de ambas ternas",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: FIFA confirmó el árbitro que pitará en debut de Uruguay con Arabia Saudita",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMWptVWY0Q19DdFI1OEFzSWxrejNyRHpCcnRoZ1lEQ1N4V2o3MXdIUnlVYTJSbW1HeWhiMzdma2hxVFFRemlWeXBOd20wYWNDUTl1VlZSUkNPOTd1aWZad0ZUYkxSSGdBRm8zMlNmQ0I5ZG1qR0VFbjBTaHF5d1VkZnUtM2pDcFNfc1NFR2VkYkZDSHlSZS1pOXpCUWZ0aWl5LXUyUGplWjQ1Zm9XY281VmlVZm5pdDJibXp0Y1QyLXhZdTNiRDNiakZxcGxCcHI1?oc=5",
-          "description": "Mundial 2026: FIFA confirmó el árbitro que pitará en debut de Uruguay con Arabia Saudita &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-12T14:20:00+00:00",
-          "score": 1,
-          "score_reason": "Neutral y directo, informa la confirmación del árbitro",
-          "score_pct": 10
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Terna arbitral italiana para el debut de Uruguay en el Mundial ante Arabia Saudita",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnlDWDlaY2JjMjRhcHBjcUVCajgwb25tNXBvdGd6VTR5N0JCOGhGMW5wX3hUTXNGRGR5WWVtck0zZG1yVUVHbDV4a2hyYzR5UzZNd3pQODZLYVVQLUVGVHVDb0xDX0d1bHhETENQa3dNajZ6bmtxRExROFFsbkhuLUxReDJXZmlBTnRoWmhUQlJOcGNMakRMZE5HczVISGV5d01nU3VjWdIBrAFBVV95cUxOYkdtMFdzcTlQM0xlSS1QYmJ0d19aZG9sUXBpaTBGZ1NtRGlESWwzaWM3SXdxNHJ5TzdQWFV5NGZ5aGxfbUVhUjFQamdCd2M5UDl6RE1Qa2M0bWhaSktxSlVDOFJSMUduYjNLUkc3NEdnRjhGYW05OVlSanlOcWRmUjc2UGdrMFhrZ3BLVXRPNUpXMGR1WHA5WWJUUHBVM2NzNzNXT2tqTnpROEdw?oc=5",
-          "description": "Terna arbitral italiana para el debut de Uruguay en el Mundial ante Arabia Saudita &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-12T14:51:00+00:00",
-          "score": 1,
-          "score_reason": "Objetivo, menciona nacionalidad italiana de la terna arbitral",
-          "score_pct": 10
-        }
-      ],
-      "analysis": {
-        "resumen": "La FIFA confirmó la terna arbitral para el partido debut de la selección uruguaya en el Mundial 2026 ante Arabia Saudita. El encuentro será dirigido por una terna italiana, conformada por árbitros de ese país. Además, habrá participación de árbitros canadienses en el cuerpo arbitral del partido. Este será el primer partido de Uruguay en la fase de grupos del torneo que se disputará en Estados Unidos, Canadá y México. La designación arbitral fue oficializada por la FIFA días antes del inicio de la competencia.",
-        "coincidencias": [
-          "FIFA confirmó la designación de árbitros para el partido",
-          "Se trata del debut de Uruguay ante Arabia Saudita",
-          "La terna arbitral principal es de nacionalidad italiana"
-        ],
-        "diferencias": [
-          "El Observador menciona también la participación canadiense en el cuerpo arbitral",
-          "Montevideo Portal usa singular 'árbitro' mientras otros mencionan 'terna'",
-          "Subrayado enfatiza solo la nacionalidad italiana sin mencionar otros árbitros"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "OIT aprueba primer convenio para trabajadores de plataformas",
-      "category": "Internacional",
       "sources_count": 2,
       "headlines": [
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "La OIT aprobó el primer convenio sobre trabajo \"decente\" plataformas como Uber y PedidosYa",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTVRDN1hJYUszdEVyc0ZrZjN0LWY0V2JYWWJkODVhdEx1X2g5QUttZEhQX2ZpRTlFeF96bE1femQ1blhsdDlJaWNTWEZpRGVqN2ZmRm1GNWRyT1YwUjlzRzA1S1QzNXFZd25BUVctbF9DMWtkaFpkbWJ0TTYxNm1vaWJCNjNqS0tRdFdSYm5jcjNERHRHN1dmWkpyeW1xV1gwRDFUbDMzWFEyNFdWMUtKQjJpZ29PMjdfdlFZWG80c2pZREtaaDNna3cwX2xhcWFoY2JpdmZFWFlEM3k00gHiAUFVX3lxTFBCRFA0aVVzQkt6azJhTUpQUnRTMGgzNU5NTFF2S2pFSFVFRFV3ZnBSbXVia3VYR3BFSEFuOXkweWhMTlJvVHpuUno1dlRnUVRnSTJUdzgzSThhekdfVjE2c014TXp6Sko3S2xiVUgwVkV2Zlh5MTRiSWp6dE0yaTdVb3NCOHdtR3c3MjlrMm42MGxmSzlWWG9IN0R4WnJTTXhkZUFWWFFkMzM3X2x1Zk1rX1pxZTY4YWVMb1h2UXp3Mk1RM0JxaVcwaDZxQy1OZG9fc3BQQ09qM0ROdG5TWjBJYVE?oc=5",
-          "description": "La OIT aprobó el primer convenio sobre trabajo \"decente\" plataformas como Uber y PedidosYa &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-12T12:39:00+00:00",
-          "score": 2,
-          "score_reason": "Usa comillas en 'decente' que añade leve matiz interpretativo",
-          "score_pct": 20
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "La OIT adopta el primer convenio internacional para trabajadores precarizados de plataformas digitales",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1Y0alBrODRibFlQR3pVMGVEUkpmeERIOVVPT1RGWTZ4ZzFFNWNmMzAwVzZMNGZTVE44dHRNa3Flc2o2dlNXem5Bam00QUVfMFFIYXJrLVIwZDhwSWZrSE5NVV9WMVZHYU81UEs0NkhVNEUya2NZOHN1T2N3a3JBVHh4RDEzblpBMGlIOUlYZEhtajMxWXpjdWJ2QlI3UFRHQUtkYlY2UTNpZXFqOE0yeUMwTFRHNzRLWmpaV2tMa1RZclBIeGJqZldURQ?oc=5",
-          "description": "La OIT adopta el primer convenio internacional para trabajadores precarizados de plataformas digitales &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-12T17:08:00+00:00",
-          "score": 5,
-          "score_reason": "Califica como 'precarizados', término que implica juicio de valor evidente",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "La Organización Internacional del Trabajo (OIT) aprobó el primer convenio internacional que establece normas laborales para trabajadores de plataformas digitales como Uber, PedidosYa y similares. El acuerdo busca regular las condiciones de trabajo en la economía de plataformas, un sector que ha crecido exponencialmente en los últimos años sin marco normativo específico. El convenio deberá ser ratificado por los países miembros para entrar en vigencia en cada territorio. La medida establece estándares mínimos de derechos laborales y protección social para quienes prestan servicios a través de aplicaciones digitales. Uruguay, como miembro de la OIT, deberá evaluar la ratificación del convenio en su parlamento.",
-        "coincidencias": [
-          "La OIT aprobó un primer convenio internacional",
-          "El acuerdo regula el trabajo en plataformas digitales",
-          "Involucra empresas como Uber y PedidosYa"
-        ],
-        "diferencias": [
-          "El Observador usa 'trabajo decente' entre comillas, Búsqueda habla de 'trabajadores precarizados'",
-          "El Observador menciona específicamente las plataformas en el titular, Búsqueda se enfoca en el estado laboral",
-          "Búsqueda enfatiza la precariedad existente, El Observador el concepto de trabajo decente"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Jutep investigará declaraciones juradas de Lacalle Pou",
-      "category": "Política",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Jutep evaluará denuncia de convencional colorado a Lacalle por sus declaraciones juradas",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQUVNUTFkQnEyRmFVdWRPamNvYmVvMWc2c1llQVdlQU1mb3lqbFV4TVR1V1hyWGtzZk9ud0cyQnRiaUFtUFh5OGxXbkZtdDUxSzF1UndSRkt3cmMzUWJLVUlCeFZQUWUtdTV2SXB0UXpjYjJDU25kLWxvOHZXMERmOXRrVFh3YzRpVlpSWDFkU0VobGpwWDNTSTdNbHVkUjVUeXdpUGo2eVdBTW93U1pyNW5Wa1l6NXI3eDI3aFZxMElUMFh2U1BPOS0zbUJ4RGExUkHSAfYBQVVfeXFMTWxmbGdrWTVfNWc0WlZQRERZMWFLMTZkcDRvcTc0cWN0bjBCQkRWNkdMWTVzQnNZWUJCRno1NnVTMTM4UWI1XzlCdWg4WE1ndndPNERCU3N1TXBIOWZoSXdkUXlFSE9EVURWMVJURU9pbUtsQ2NSaHNCbHNaVVV6MXZoZ1diVjRaeXhaOEdnLUZaMjVucE1zZ0hzV19heTJyTVppNzJiTmh2U3FuQTJ3WHUzY3lLZDNtajl6b2NmemMyRlNuV29UM2hFRHRxMzM5YmFpdy1fT3g2MjRleFdiN2lEelVtTnVES1VkYTcwM0EyQXJnSlJ3?oc=5",
-          "description": "Jutep evaluará denuncia de convencional colorado a Lacalle por sus declaraciones juradas &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-12T15:03:00+00:00",
-          "score": 2,
-          "score_reason": "Informativo, menciona quién denuncia y el objeto de la denuncia",
-          "score_pct": 20
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "La Jutep investigará las declaraciones juradas de Luis Lacalle Pou",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2VmaDQwSktxWjk0ZWl6MnR4aHZpelYyTlBKRlVkZnpsT2dYVm9UeDQwMndBbDZrQmZmXzVNc2gyekpETmdZMS03RUltQnNJaThVN0ZZX0ptemZEcXBiOEJydnpITlFnX2wyeVZEVVZMVUtDSTdlVUg2UG1SNVRrc1Z4UlBqUWd5UFBGLUh5bXBOSzgwektiWklIWV96RndJLXhFQWFvaXE?oc=5",
-          "description": "La Jutep investigará las declaraciones juradas de Luis Lacalle Pou &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-06-12T16:39:48+00:00",
-          "score": 3,
-          "score_reason": "Omite al denunciante, presenta la investigación como hecho consumado",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "La Junta de Transparencia y Ética Pública (Jutep) evaluará una denuncia presentada contra el presidente Luis Lacalle Pou por sus declaraciones juradas patrimoniales. La denuncia fue presentada por un convencional constituyente del Partido Colorado. El organismo analizará si existen irregularidades en las declaraciones juradas del mandatario. La Jutep es el órgano encargado de fiscalizar el cumplimiento de las normas de transparencia y ética de los funcionarios públicos en Uruguay.",
-        "coincidencias": [
-          "La Jutep intervendrá en el caso de las declaraciones juradas",
-          "El afectado es el presidente Luis Lacalle Pou",
-          "El asunto se centra en declaraciones juradas patrimoniales"
-        ],
-        "diferencias": [
-          "Montevideo Portal menciona al denunciante (convencional colorado), Grupo R lo omite",
-          "Montevideo Portal usa 'evaluará', Grupo R usa 'investigará' (más categórico)",
-          "Grupo R da por iniciada la investigación, Montevideo Portal indica evaluación previa"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "OIT pide modificar ley de negociación colectiva uruguaya",
-      "category": "Economía",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "La OIT exhortó a Uruguay a revisar la negociación colectiva",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbWNMbFJIOGs2X3ZpX2Q5RnRJeVJMOFJPcXpmanRmVi1SWnRCTDJSYlkxZU9BZUtBdmNfOURCeUMxY1FBM2ZiS1BTeWZ3S05aM2RUNnRfblpRYW04aEpOUTE3ZFR6UXJfVmFaSlFrTEk2N0VsYlhTcUltbG1QTEItRUpOSlRVQjBtRW15aUUycjNLY2oxUHZVOXRxVTU4VTA?oc=5",
-          "description": "La OIT exhortó a Uruguay a revisar la negociación colectiva &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-06-12T18:56:09+00:00",
-          "score": 2,
-          "score_reason": "Neutral, informativo, centrado en la acción de la OIT.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Tras reclamo de empresarios, OIT instó a Uruguay a modificar la ley de negociación colectiva de 2009",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc0twWEpmd1VIWkNfZmlKMlhxb3FLWTBaaVRRZVpJTzh4ekcteVlqdkZuM0w5MWxwalk0RF9iY20wWTZmMEtpNWlfS0hlc0tFb3RBZFBQNzBLRjJEUWtnMXFxR0dZMURtQmtXLTYyUHJEVlJ3dk1qMHlLS0x4Q3haUmI1SjRFdjMzR0NnTFJINTlHRDJDdzlvTG1sNFNWRDF2TW1MaFc5SFlFQS1TVzlXdmdFUk9GOUtUSlZ4R1hNanJkZ9IBxwFBVV95cUxNcFM3MUhQSWg2ZW4zTmFNTGtyZWJ0NVZOdlMwZGNNcHY3OVFHTG42cVV0dnNtcEduc19TX3BwVVR6SGNlWjJEQkxpSnJ0NExaajZHdTA5YTl0a1Nkek5nQlFLbHdISnRpcm5HNmRTWTZiNUV1RlUxRnJnaURpVEgxZzNvdVc4b0tnSUFrb09ROWw5TFlBVkJNOGhIMGx1TnlxaWl3QzBVWUxVSlhVZ2JkV00zdElPX2hFYkphd2YtVDVoN3hYemRB?oc=5",
-          "description": "Tras reclamo de empresarios, OIT instó a Uruguay a modificar la ley de negociación colectiva de 2009 &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-12T18:11:00+00:00",
-          "score": 4,
-          "score_reason": "Menciona el reclamo empresarial primero, estableciendo un encuadre particular.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "La Organización Internacional del Trabajo (OIT) instó a Uruguay a modificar la ley de negociación colectiva aprobada en 2009. La recomendación del organismo internacional surgió tras un reclamo presentado por empresarios uruguayos. La OIT solicitó revisar aspectos de la normativa que regula la negociación colectiva entre trabajadores y empleadores en el país. El organismo exhortó al gobierno uruguayo a realizar cambios en la legislación vigente desde hace más de una década. La petición de los empresarios fue acogida por la OIT, que consideró necesaria una revisión de la ley que establece el marco de las relaciones laborales colectivas en Uruguay.",
-        "coincidencias": [
-          "La OIT emitió una recomendación sobre la negociación colectiva uruguaya",
-          "Se solicita revisar o modificar la legislación vigente",
-          "La normativa en cuestión es la ley de 2009"
-        ],
-        "diferencias": [
-          "Subrayado destaca el rol de los empresarios como impulsores del reclamo",
-          "Grupo R se centra en la OIT como protagonista de la acción",
-          "Subrayado usa 'instó a modificar' mientras R usa 'exhortó a revisar'"
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "Hombre muerto en incendio de vivienda en Casavalle",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Encontraron un hombre muerto en el interior de una vivienda incendiada en Senda 8 y Gustavo Volpe",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQTZtLVI1UEYwMHRzTmRzSE5kdWFza0JibmtYeFhoenVyY2RMYUgzcjRzSTRJZTdDbVJPZUNYbVhqSWhxRnREY202Rm13VU9nWEdvREt3ZTVtT2ljakFRTWVWR2pKeDc4dW9hZnh4TW1ib2JUcXdDMTNfVWtCR0ZOd3MzbGlfVUtHdFlBeGJxRUdaZ3pfX3JoOHNXWm5Zek1qTlN0X3VZR0t0QTNrdVJ6a0FzbGNWVnJzXzNJM2dwX3ZlRmxE0gHKAUFVX3lxTE9PY3NiSUlOU3VHZl9ScjV1UDlBTS0wbnR2Q1B1M3ZjWmN4RmROLTl0M2JpQ3FmQkdQYnEzUzUxS1lOd3BUUFBQY0Znc3ZRbUNVVmRnQ20zSE85bER6aE5FUG9RQzJHWUZFdzBUTjRlTFlPbnFETF9ZaW04X2lZeE9sa09tQ05WWUcxZm1Xd0phSjNtelhzSDVha3VFMXFhdWRTR2dMOUVrVFpSVVhBSXBfMlFSVEYtYW1Rc3MxY1RKaS1UM1liNkM5TkE?oc=5",
-          "description": "Encontraron un hombre muerto en el interior de una vivienda incendiada en Senda 8 y Gustavo Volpe &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-12T20:33:00+00:00",
-          "score": 1,
-          "score_reason": "Descriptivo, preciso con ubicación, sin adjetivos valorativos",
-          "score_pct": 10
-        },
         {
           "source_id": "teledoce",
           "source_name": "Teledoce",
@@ -248,26 +14,143 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "Un hombre murió en un incendio de una vivienda en Casavalle",
-          "url": "https://www.teledoce.com/telemundo/policiales/un-hombre-murio-en-un-incendio-de-una-vivienda-en-casavalle/",
-          "description": "El hecho se dio en las inmediaciones de Senda 8 y Gustavo Volpe a metros de la Plaza Casavalle.",
-          "pub_date": "2026-06-12T20:23:55+00:00",
-          "score": 1,
-          "score_reason": "Informativo directo, menciona ubicación y contexto sin carga",
-          "score_pct": 10
+          "title": "Federico Viñas: \"Creo que el debut es el partido más difícil\".",
+          "url": "https://www.teledoce.com/programas/el-diario-de-la-copa/federico-vinas-creo-que-el-debut-es-el-partido-mas-dificil/",
+          "description": "Cerramos el sábado con una nueva edición de *El Diario de la Copa*, en la que debatimos qué sería hacer un buen Mundial para Uruguay y si existen motivos para ilusionarse. Además, en la previa del tan esperado debut celeste, hablaron con la prensa Sebastián Cáceres y Federico Viñas.",
+          "pub_date": "2026-06-14T01:01:14+00:00",
+          "score": 2,
+          "score_reason": "Cita textual del jugador sin adjetivos ni carga emocional",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "La contundente respuesta sobre por qué ilusionarse con la Celeste: “Porque es Uruguay”",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXJVa1E2NGlVQVN0cFZIcExxTkZyY3JnLThpalVUS2JmR0dCMzZzUlNmajhBVDZ6X3M1Vl93TW5pcHBBNmNBMmhUUF9Gdno3TEFubEQ1MnhpRjk1OHFGMlIxY0VTMDhLeF96VURBbV9vWUk3Wm9MbTNNTC1OMGMza3lyZ29LcEVxLXpGRU4xYmlIelNKZUp4RUFnTWNDLTduUFBfLS1Wbndnd2ltZEx2NTQwSm94QWtlZzVQaTh4bGJUWmZJbkxFNXp4azA4Zw?oc=5",
+          "description": "La contundente respuesta sobre por qué ilusionarse con la Celeste: “Porque es Uruguay” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-13T20:08:00+00:00",
+          "score": 6,
+          "score_reason": "Uso de 'contundente' como adjetivo valorativo y respuesta emotiva nacionalista",
+          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Un hombre murió en el incendio de una vivienda ubicada en la zona de Senda 8 y Gustavo Volpe, en el barrio Casavalle de Montevideo. El cuerpo fue encontrado en el interior de la vivienda incendiada. El hecho ocurrió en las inmediaciones de la Plaza Casavalle. Hasta el momento no se han dado a conocer las causas del incendio ni la identidad de la víctima. Las autoridades competentes investigan las circunstancias del suceso.",
+        "resumen": "Medios uruguayos abordaron las expectativas de la selección uruguaya de cara a la Copa del Mundo. El programa 'El Diario de la Copa' de Teledoce debatió qué constituiría un buen desempeño mundialista para Uruguay y si existen razones para el optimismo. El delantero Federico Viñas declaró que considera el debut como el partido más difícil del torneo. En respuesta a consultas sobre las posibilidades del equipo, se argumentó que la razón para ilusionarse es 'porque es Uruguay', apelando a la tradición futbolística del país. El análisis incluyó evaluaciones sobre las chances reales de la Celeste en la competencia.",
         "coincidencias": [
-          "Un hombre falleció en el incendio de una vivienda",
-          "El hecho ocurrió en Senda 8 y Gustavo Volpe",
-          "La ubicación corresponde al barrio Casavalle"
+          "Ambos refieren a las expectativas uruguayas en la Copa del Mundo",
+          "Ambos se enfocan en la previa del torneo mundialista",
+          "Ambos mencionan motivos para ilusionarse con el desempeño celeste"
         ],
         "diferencias": [
-          "Subrayado enfatiza el hallazgo del cuerpo, Teledoce se centra en la muerte durante el incendio",
-          "Teledoce agrega como referencia la proximidad a Plaza Casavalle",
-          "Diferente construcción narrativa: uno pasivo (encontraron) otro activo (murió)"
+          "Montevideo Portal enfatiza la respuesta patriótica y emocional sobre las expectativas",
+          "Teledoce se centra en declaraciones del jugador y análisis deportivo objetivo",
+          "Montevideo Portal usa lenguaje más emotivo mientras Teledoce presenta información descriptiva"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Fiscalía archiva ampliación de denuncia de Mutio a Ferrero",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Fiscalía resolvió archivar la ampliación de la denuncia de Martín Mutio contra la fiscal de Corte Mónica Ferrero",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVzhkQm9mTm1ra3V5enBleUtyMHh6TjF3WU1FNlVFMURjMXhlUEo4Y2xCNEFLeXloSkZBcWdmT2NUQjNFc1U3Y2ZDNWpxX2JnQ09VTmpwNWhYbEs0bFRCbUtpRjAwcnVmcDRoZjBMSkJCd0FYTmFub1Q3RTVGMjNqTXF4UEtia0V1dENvRjluSV9ZektpVmRadl9PU2VIVEZHR21XMkxfOVVDeTRZVmNBNkhXSjdMVlQyOWNMbEc3aWs1RjZtXzdyTTR3WjIyQVA3eDBiczZoZGLSAd4BQVVfeXFMTmZOeXFXdWRPRVNuLVloOEwwZHp5Y0ZEcGdzM3ZPd1g2c19UbWNJMmh6bmtmNWJjdjdHQW5WVTJ3eTRBNWlEdEZGU04ySFFId0FkeGtUTURSMG96aXFTOEtEVkxiNmhkeFRMRUtnYXNObFF0QkdkenNCNFRWcHhQZDBMQUFFRGVsVkk2aEJYMDJ6NWxyR1ZNSUx2dURMbTRMVzB2NEplMTQ5LTQtY3QtVFRxT2dtek5RR3prU21BZG5Ga3pxREtqTVIwZ21UUGJSemNncXJvZ2o4cUE3bEVn?oc=5",
+          "description": "Fiscalía resolvió archivar la ampliación de la denuncia de Martín Mutio contra la fiscal de Corte Mónica Ferrero &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-13T21:03:00+00:00",
+          "score": 1,
+          "score_reason": "Presenta los hechos de forma neutral y descriptiva",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“No aporta en lo absoluto”: Fiscalía rechazó ampliación de denuncia de Mutio a Ferrero",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYnJxOFFoaGcwTjYxcXVOX1IxMFByOHh2cEFRa1FZZGNHTVVZdFYySFdDM2c3M3NadXZDVGMtcURGc0VpSm9ocEFQTkNJazZOTVdDeW0wcnJ2RDMwSHZ1akE5dThKUjk4TEJFOW9IdUtMSFJkeUtWUk50MkFaSFZxeTlkZzgxVG90YTluSTlIbDVhN0NDdVlURjdTai1jRDVzdXJMSzl3c1JZVGI3dS1ZUFprN0ZxVE1BT25JcnEySHpaSjgzb0cxSnhlX0FjQdIB8gFBVV95cUxOVDBLQVNiOU1nWVZpd1VrR0Zhc1pjcy1ROXJxMHFxQlZMZmFRaHU1SDY3RENINHZvc0F3LVkzdHF1LU9iaEtlTTlndEd2aWNocUNqbGMwLWZJWDBicndUaVItZjgxOE5JdGNUZ2RpbzhXLXJmRVNqQkNUdUpxNFZENXBxaUJPM3lnLWtsUURoMXdWLWhIQks5XzQ2T1c3bnZxaF9QRUd1MlpGbDVRd3RDeFZGOGtxeHdBNWE4ZTRpTmw0OU9fSWZUaVpydU1zR0hIVFhodjJIME8wTWhOZnVpSWVVZ2xkX3NFU0hVZnIzbEtEdw?oc=5",
+          "description": "“No aporta en lo absoluto”: Fiscalía rechazó ampliación de denuncia de Mutio a Ferrero &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-13T21:17:00+00:00",
+          "score": 3,
+          "score_reason": "Incluye cita textual crítica que enfatiza rechazo de ampliación",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "La Fiscalía resolvió archivar la ampliación de la denuncia presentada por Martín Mutio contra la fiscal de Corte Mónica Ferrero. La decisión se fundamentó en que la ampliación presentada \"no aporta en lo absoluto\" a la investigación. Mutio, quien ya había presentado una denuncia previa contra Ferrero, intentó ampliar los argumentos de su presentación judicial. La resolución fiscal determina que los nuevos elementos presentados no agregan información relevante que justifique continuar con esa línea de investigación. El archivo se refiere específicamente a la ampliación de la denuncia, no necesariamente a la denuncia original.",
+        "coincidencias": [
+          "La Fiscalía archivó la ampliación de la denuncia",
+          "La denuncia fue presentada por Martín Mutio",
+          "La denunciada es la fiscal de Corte Mónica Ferrero"
+        ],
+        "diferencias": [
+          "Montevideo Portal destaca la cita textual del fundamento fiscal del rechazo",
+          "Subrayado usa lenguaje más neutral sin incluir valoraciones textuales",
+          "Montevideo Portal enfatiza que 'no aporta' mientras Subrayado se centra en el archivo"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Cáceres y Viñas previo debut uruguayo en Mundial",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "\"Horas de felicidad\" y \"el primer partido siempre es el más difícil\": Viñas y Cáceres hablaron en la previa del debut de Uruguay en el Mundial",
+          "url": "https://www.teledoce.com/telemundo/deportes/seleccion/horas-de-felicidad-y-el-primer-partido-siempre-es-el-mas-dificil-vinas-y-caceres-hablaron-en-la-previa-del-debut-de-uruguay-en-el-mundial/",
+          "description": "Los jugadores celestes se refirieron a cómo viven la espera para el lunes, cuando Uruguay juegue con Arabia Saudita.",
+          "pub_date": "2026-06-13T20:28:21+00:00",
+          "score": 2,
+          "score_reason": "Descriptivo con citas textuales, enfoque informativo sobre declaraciones de jugadores",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Sebastián Cáceres listo para su debut mundialista con Uruguay: “Vamos a salir con todo”",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNVpZY2ZQVXF3T1REVDM3MkpKWUQ1c0NQMEdSZG9JdWZoZEhHaXhtRzRvVUhTZWQzV0hWdElOc3g3OW92bVVJLXdDenl0ek0yRHFNb2F4eC1pTl9HNVlfTjlsVERXdnp2TFZKX2lqbDZoOS0xMzZBbmZBVmFQVWhRRkJQaTdKSzkxazFoZWh1ZDV0Tm0xb3FOV2xicW13MU9aTmJhMlR4SmpZcHhDVUVod09HbE11ZEFxNGRNUkFqS1FNc0dfaVlSWUVfZmEybEXSAfMBQVVfeXFMUEhQWm14dVB6a1dvSFFjRC1YWVhiVWgyRDZLTG1TNGFzajdEcXl2ckVOYld2Sms4TXBfVy1ISHMxQ3pIM3NqdmJMT3kxb3RXSVFONU9fbFBYTE5OdDNvNThnT3BBZE9KVWtVWnRxOXFjX1lXaXV2T3dqWEdlenJSMUx5cnNMTUFYRjJGRlZJNVhrZXBjUW1sMER5b1BMMkhoM05iakJHWHZOLWxEdWVRWW5TdjZNQTA4N1FpVk9hUnFJWjR1RHNqYjBJOTNwQUFNdUxsSkJLWGNiSjZoT3E0cHVsMm1nMk1RR1E2eHJTVWVOMFZz?oc=5",
+          "description": "Sebastián Cáceres listo para su debut mundialista con Uruguay: “Vamos a salir con todo” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-13T18:42:00+00:00",
+          "score": 3,
+          "score_reason": "Frase motivacional entre comillas genera énfasis emocional positivo del debut",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Los futbolistas Sebastián Cáceres y Facundo Viñas brindaron declaraciones antes del debut de la selección uruguaya de fútbol en el Mundial. Cáceres afirmó que el equipo saldrá \"con todo\" en su primer partido mundialista. Viñas manifestó que vive \"horas de felicidad\" y señaló que \"el primer partido siempre es el más difícil\". Uruguay jugará su primer encuentro del torneo el lunes ante Arabia Saudita. Ambos jugadores se refirieron a la espera previa al debut y al estado anímico del plantel celeste de cara al inicio de la competencia mundialista.",
+        "coincidencias": [
+          "Declaraciones de jugadores uruguayos previo al debut mundialista",
+          "Uruguay enfrentará a Arabia Saudita en su primer partido",
+          "Los futbolistas expresaron sus sensaciones antes del encuentro"
+        ],
+        "diferencias": [
+          "Montevideo Portal centra en Cáceres y actitud combativa; Teledoce incluye a Viñas",
+          "Teledoce destaca aspecto emocional y dificultad; Montevideo Portal enfatiza determinación",
+          "Teledoce menciona explícitamente el día lunes del partido; Montevideo Portal no"
         ]
       }
     }
