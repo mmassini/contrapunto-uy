@@ -1,26 +1,41 @@
 {
-  "generated_at": "2026-06-14T12:00:57.422662",
+  "generated_at": "2026-06-15T15:50:38.181821",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Expectativas de Uruguay en la Copa del Mundo",
+      "topic": "Retraso del vuelo de Uruguay al Mundial",
       "category": "Deportes",
-      "sources_count": 2,
+      "sources_count": 3,
       "headlines": [
         {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Federico Viñas: \"Creo que el debut es el partido más difícil\".",
-          "url": "https://www.teledoce.com/programas/el-diario-de-la-copa/federico-vinas-creo-que-el-debut-es-el-partido-mas-dificil/",
-          "description": "Cerramos el sábado con una nueva edición de *El Diario de la Copa*, en la que debatimos qué sería hacer un buen Mundial para Uruguay y si existen motivos para ilusionarse. Además, en la previa del tan esperado debut celeste, hablaron con la prensa Sebastián Cáceres y Federico Viñas.",
-          "pub_date": "2026-06-14T01:01:14+00:00",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "FIFA dio su explicación tras el retraso del vuelo de Uruguay a Miami para el debut en el Mundial ante Arabia",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUndlZWRmbU9acmY5ZnR6UXYzd1ZxdlJnS0lYbS1oWEJjdUstQW1yLVZTRk9KRUtYVE5PTUZmR3ZmT0w1aS1fLUx3VkVhdWxtam5rS2NMby1LNWdJck9BZzIwQVFaVVFjTklhcE1DSTZtTF9KREd1MGtleWRmWUFLYlNDc0hrR014dng0YjlfN1lhNklPZko0aHFZbHRlcDZ3YXc2dFVGU0xGdnJNbzBKYUU1dUI1YzlubFR4UGRtOU42cFRYZWY4dXVfT3JNREdVQ0g3TGhsdlo3Yk1vdEt4cmphbGdDeHJ5cWJRcw?oc=5",
+          "description": "FIFA dio su explicación tras el retraso del vuelo de Uruguay a Miami para el debut en el Mundial ante Arabia &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-14T21:11:18+00:00",
           "score": 2,
-          "score_reason": "Cita textual del jugador sin adjetivos ni carga emocional",
+          "score_reason": "Neutral, enfoca en la explicación de FIFA sin dramatizar",
           "score_pct": 20
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Selección uruguaya: avión que trasladaba al plantel no está autorizado a ingresar a EEUU tras error de FIFA en documentación",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVzJzOWU5dmhUeG1YOTl2Vm9JM1NkU3JpX2JpbmVNcjRkZnpoNXdweDFkbEdiSkw5MWlFa0tLOG82ZUVSa0h3MC05a1pyVWNBaWVYWTZCcXRzeXNzcEJ2WG1XZ0NRcFQ2Qk5tTGlfT295VnZvc3lvZEZOS284UlJsNmk4ZFVHZHpkRnNqUDNDU21rX0I3UmpLdlVtczktX1EwbzNMc21oV3NXQXZMdGROcy1nVEZsR0FmZmtKVnhXVmZUY09VR3I5VzdEVy1IblRnNHY4MjM2dkxuTmRWNTNv0gHkAUFVX3lxTE5lbWVlaEhSajEyemE4ejRZcW1fNWxNYy1ER2hocVp0VlRLR3NFVndjTXNybi1GYVJoazRJTEFROEk5QXUwOHMxZlo5eHVCbWpIMW5YZGtGV0ZJYUpDWTNReVU5MkRTcHVGT1NienpZNFVpdXVEVC01NDNuWE53R0tTTmUtNkE3aVozTWR4UUtXVGJvRGI1V1hkY3lOQ3RpMXBMSGdZOU5UYXRhanBidGVuYWY2QmtXUTdtbEZHX0xRNm5aek9xNU40TVczbTBoVlhiOXE0cWVCYVg4SjBpVzk2QnNReg?oc=5",
+          "description": "Selección uruguaya: avión que trasladaba al plantel no está autorizado a ingresar a EEUU tras error de FIFA en documentación &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-14T18:55:00+00:00",
+          "score": 3,
+          "score_reason": "Más descriptivo, señala responsabilidad de FIFA pero sin dramatizar",
+          "score_pct": 30
         },
         {
           "source_id": "montevideoportal",
@@ -29,33 +44,84 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "La contundente respuesta sobre por qué ilusionarse con la Celeste: “Porque es Uruguay”",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXJVa1E2NGlVQVN0cFZIcExxTkZyY3JnLThpalVUS2JmR0dCMzZzUlNmajhBVDZ6X3M1Vl93TW5pcHBBNmNBMmhUUF9Gdno3TEFubEQ1MnhpRjk1OHFGMlIxY0VTMDhLeF96VURBbV9vWUk3Wm9MbTNNTC1OMGMza3lyZ29LcEVxLXpGRU4xYmlIelNKZUp4RUFnTWNDLTduUFBfLS1Wbndnd2ltZEx2NTQwSm94QWtlZzVQaTh4bGJUWmZJbkxFNXp4azA4Zw?oc=5",
-          "description": "La contundente respuesta sobre por qué ilusionarse con la Celeste: “Porque es Uruguay” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-13T20:08:00+00:00",
-          "score": 6,
-          "score_reason": "Uso de 'contundente' como adjetivo valorativo y respuesta emotiva nacionalista",
-          "score_pct": 60
+          "title": "Mundial: el insólito motivo por el que se atrasó el vuelo de la selección uruguaya a Miami",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0QyR2s0MWp1cy10aWliZHNYWXUyOEFVcXBXd3pNUXlVdllXMGFhVjdnMXktenFneTRyRWd1eV9UcnJkNklfcjBMb0cyazlVVHVfNlVZeUNjaWlzWVZqTlY4Q003bUFrbDdhOWFYeDBDRV9aQm8yNDhZTXZhQUJpNzQtdWtjQ2Q5TEwzMjh6LXhfaG0xSzNkU24tSVJhSWtBU2VKMFY2QmNqQk1RTWJFajRzWVFNWU5GWXZIM05qcF82MFdlOHdoYktFOER6aWkzVmJv0gH3AUFVX3lxTE8wQng5UE9RSGM3NUJMQnF4YXB0cTFBY0M1Y3ZpNFRYZk9qYzNFSWFLVnlOUm9CY1hqRGlsbG5BblVXbkYwRXJJaXh0bDFPUldSVUxFQlBfMDhkQWxQeENORkJ6VmFfSkkwUGEtcDNyd1FxS3piRklPVjJJeE9FX2xTVXRjYVVtUDl5VWpubV96WS1pTWRyeU9MelJjaDlpSDE4TGxicGhKSnFXVklrMTR5bzNDUDc0LTFPajFtdjNtd2c2ZXRrdC1QZTJuaFYyaWN3OTNRQUlwcjM0TTUteVNzSEZFb2MxVmRxLWMwcUxPS0ZESkhOOEk?oc=5",
+          "description": "Mundial: el insólito motivo por el que se atrasó el vuelo de la selección uruguaya a Miami &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-14T19:29:00+00:00",
+          "score": 5,
+          "score_reason": "Usa 'insólito' que agrega carga emocional y sensacionalismo moderado",
+          "score_pct": 50
         }
       ],
       "analysis": {
-        "resumen": "Medios uruguayos abordaron las expectativas de la selección uruguaya de cara a la Copa del Mundo. El programa 'El Diario de la Copa' de Teledoce debatió qué constituiría un buen desempeño mundialista para Uruguay y si existen razones para el optimismo. El delantero Federico Viñas declaró que considera el debut como el partido más difícil del torneo. En respuesta a consultas sobre las posibilidades del equipo, se argumentó que la razón para ilusionarse es 'porque es Uruguay', apelando a la tradición futbolística del país. El análisis incluyó evaluaciones sobre las chances reales de la Celeste en la competencia.",
+        "resumen": "El vuelo que debía trasladar a la selección uruguaya de fútbol desde Uruguay a Miami para su debut en el Mundial se retrasó debido a un error en la documentación. Según las explicaciones, la FIFA habría cometido un error administrativo en los permisos o documentación necesaria para que el avión ingresara al espacio aéreo estadounidense. El plantel uruguayo debía viajar para enfrentar a Arabia Saudita en el partido inaugural del Mundial. Las autoridades aeronáuticas de Estados Unidos no autorizaron el ingreso del avión por la falla en la documentación presentada. La situación generó demoras en el cronograma de viaje de la delegación celeste.",
         "coincidencias": [
-          "Ambos refieren a las expectativas uruguayas en la Copa del Mundo",
-          "Ambos se enfocan en la previa del torneo mundialista",
-          "Ambos mencionan motivos para ilusionarse con el desempeño celeste"
+          "El vuelo de la selección uruguaya a Miami se retrasó",
+          "El problema estuvo relacionado con documentación o permisos",
+          "La FIFA tuvo responsabilidad en el error administrativo"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza la respuesta patriótica y emocional sobre las expectativas",
-          "Teledoce se centra en declaraciones del jugador y análisis deportivo objetivo",
-          "Montevideo Portal usa lenguaje más emotivo mientras Teledoce presenta información descriptiva"
+          "Montevideo Portal califica el motivo como 'insólito', agregando dramatismo",
+          "El País centra en la explicación de FIFA, Subrayado en la consecuencia práctica",
+          "Subrayado especifica que el avión no está autorizado, otros son más generales"
         ]
       }
     },
     {
       "id": "story_002",
-      "topic": "Fiscalía archiva ampliación de denuncia de Mutio a Ferrero",
-      "category": "Política",
+      "topic": "Selección uruguaya llegó a Estados Unidos",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Mundial: Uruguay llegó a Miami y fue recibido por cerca de un centenar de hinchas",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdW0xX21ZclFGWlBQYkh0c3RHWkJKQVFfc2lzTTU5ZjFhUUNvUll5eEp1UUE1UmVTYkhHVlNTbGRkZHM5cEV6X1VqRFVvZjc2MEF2UUpUUzJGcWdYYmpXQW82czhOaG5nMmNmaTFLSnRuUFh0TEVQVnRTaDFXTm93UmNHQ3kwZmhVcTZ4ZGYzYmdrV2o0Z3BURDB3NHhjUERvS2JqRzU0WWRyM3FXZ1BCWW80Sml2NWloY2RGOElzdFp4VVZ2eUQ0?oc=5",
+          "description": "Mundial: Uruguay llegó a Miami y fue recibido por cerca de un centenar de hinchas &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-15T03:04:00+00:00",
+          "score": 1,
+          "score_reason": "Información directa sin carga valorativa, solo datos factuales",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Pese al retraso por inhabilitación de permiso, Uruguay llegó a Fort Lauderdale y espera su debut mundialista",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSTNMTHlqSWhnTzAwUlNPc2NJWHJmZ3duVE9iWnNYTlhvV0VnYnMzbGdkQXJGV0dHTkY4WHRnOFlGN2NvYTRpa0NJNnNXbS1DSUlxSDVEWW1ReWVCTUV2bnBmRzRNVU5OVWRfYlNaY0VmZVhYOTcwMzU2TjUwVm9jRThIdktSU1VFcklia05mdG9YOVd5MzExZzhWRXRHd3VFNjBXYmRqUThiSzBxckpYTFVITmNtUW02dGx3ZmxtV1R5aTJ2Q3lPRlRXclJaTGQ4SXfSAdcBQVVfeXFMTUFJWHFUNVJJeUxrQWRoeU4xV0JpeFhhMnVnUXJDSExud0lQSGNpYmprNXN0R2JieFE1UF9YQUwtNFZoRWYwenFWRkp6V3gtSGw3Y20wdU5pSEJkcFdaejdlOEIzRFdEeERpdGV5SzlneHlCQ1llRHpNSHZJMEFlTlNzNkp3cEVaa08tVTNWZGZyYnl1cTF3eXZ3M1JNYk81YjlMSG9YQ3hROFNsTW9HcTNyTTE3cHN0TjJhU0hrdTduNURjb1JYZlgzZG9aZmxxSS1zS055Qjg?oc=5",
+          "description": "Pese al retraso por inhabilitación de permiso, Uruguay llegó a Fort Lauderdale y espera su debut mundialista &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-14T23:58:00+00:00",
+          "score": 2,
+          "score_reason": "Neutral pero destaca el problema administrativo del permiso",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "La selección uruguaya de fútbol arribó a la zona de Miami-Fort Lauderdale, Estados Unidos, donde disputará el Mundial de la especialidad. El equipo fue recibido por aproximadamente un centenar de hinchas en su llegada. El viaje registró un retraso debido a problemas con la inhabilitación de un permiso de vuelo. La delegación celeste se encuentra en suelo estadounidense a la espera de su primer partido en el torneo. Las autoridades aeronáuticas provocaron demoras en el despegue o arribo del vuelo que trasladaba al plantel.",
+        "coincidencias": [
+          "La selección uruguaya llegó a la zona de Miami",
+          "El equipo se prepara para su debut mundialista",
+          "Hubo presencia de hinchas en la recepción"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza la cantidad de hinchas que recibieron al equipo",
+          "Subrayado prioriza el retraso y problemas con el permiso de vuelo",
+          "Diferencia en la denominación de la ciudad: Miami versus Fort Lauderdale"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Sánchez defiende gestión en seguridad ante críticas",
+      "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
         {
@@ -65,92 +131,41 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Fiscalía resolvió archivar la ampliación de la denuncia de Martín Mutio contra la fiscal de Corte Mónica Ferrero",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVzhkQm9mTm1ra3V5enBleUtyMHh6TjF3WU1FNlVFMURjMXhlUEo4Y2xCNEFLeXloSkZBcWdmT2NUQjNFc1U3Y2ZDNWpxX2JnQ09VTmpwNWhYbEs0bFRCbUtpRjAwcnVmcDRoZjBMSkJCd0FYTmFub1Q3RTVGMjNqTXF4UEtia0V1dENvRjluSV9ZektpVmRadl9PU2VIVEZHR21XMkxfOVVDeTRZVmNBNkhXSjdMVlQyOWNMbEc3aWs1RjZtXzdyTTR3WjIyQVA3eDBiczZoZGLSAd4BQVVfeXFMTmZOeXFXdWRPRVNuLVloOEwwZHp5Y0ZEcGdzM3ZPd1g2c19UbWNJMmh6bmtmNWJjdjdHQW5WVTJ3eTRBNWlEdEZGU04ySFFId0FkeGtUTURSMG96aXFTOEtEVkxiNmhkeFRMRUtnYXNObFF0QkdkenNCNFRWcHhQZDBMQUFFRGVsVkk2aEJYMDJ6NWxyR1ZNSUx2dURMbTRMVzB2NEplMTQ5LTQtY3QtVFRxT2dtek5RR3prU21BZG5Ga3pxREtqTVIwZ21UUGJSemNncXJvZ2o4cUE3bEVn?oc=5",
-          "description": "Fiscalía resolvió archivar la ampliación de la denuncia de Martín Mutio contra la fiscal de Corte Mónica Ferrero &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-13T21:03:00+00:00",
-          "score": 1,
-          "score_reason": "Presenta los hechos de forma neutral y descriptiva",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“No aporta en lo absoluto”: Fiscalía rechazó ampliación de denuncia de Mutio a Ferrero",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYnJxOFFoaGcwTjYxcXVOX1IxMFByOHh2cEFRa1FZZGNHTVVZdFYySFdDM2c3M3NadXZDVGMtcURGc0VpSm9ocEFQTkNJazZOTVdDeW0wcnJ2RDMwSHZ1akE5dThKUjk4TEJFOW9IdUtMSFJkeUtWUk50MkFaSFZxeTlkZzgxVG90YTluSTlIbDVhN0NDdVlURjdTai1jRDVzdXJMSzl3c1JZVGI3dS1ZUFprN0ZxVE1BT25JcnEySHpaSjgzb0cxSnhlX0FjQdIB8gFBVV95cUxOVDBLQVNiOU1nWVZpd1VrR0Zhc1pjcy1ROXJxMHFxQlZMZmFRaHU1SDY3RENINHZvc0F3LVkzdHF1LU9iaEtlTTlndEd2aWNocUNqbGMwLWZJWDBicndUaVItZjgxOE5JdGNUZ2RpbzhXLXJmRVNqQkNUdUpxNFZENXBxaUJPM3lnLWtsUURoMXdWLWhIQks5XzQ2T1c3bnZxaF9QRUd1MlpGbDVRd3RDeFZGOGtxeHdBNWE4ZTRpTmw0OU9fSWZUaVpydU1zR0hIVFhodjJIME8wTWhOZnVpSWVVZ2xkX3NFU0hVZnIzbEtEdw?oc=5",
-          "description": "“No aporta en lo absoluto”: Fiscalía rechazó ampliación de denuncia de Mutio a Ferrero &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-13T21:17:00+00:00",
-          "score": 3,
-          "score_reason": "Incluye cita textual crítica que enfatiza rechazo de ampliación",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "La Fiscalía resolvió archivar la ampliación de la denuncia presentada por Martín Mutio contra la fiscal de Corte Mónica Ferrero. La decisión se fundamentó en que la ampliación presentada \"no aporta en lo absoluto\" a la investigación. Mutio, quien ya había presentado una denuncia previa contra Ferrero, intentó ampliar los argumentos de su presentación judicial. La resolución fiscal determina que los nuevos elementos presentados no agregan información relevante que justifique continuar con esa línea de investigación. El archivo se refiere específicamente a la ampliación de la denuncia, no necesariamente a la denuncia original.",
-        "coincidencias": [
-          "La Fiscalía archivó la ampliación de la denuncia",
-          "La denuncia fue presentada por Martín Mutio",
-          "La denunciada es la fiscal de Corte Mónica Ferrero"
-        ],
-        "diferencias": [
-          "Montevideo Portal destaca la cita textual del fundamento fiscal del rechazo",
-          "Subrayado usa lenguaje más neutral sin incluir valoraciones textuales",
-          "Montevideo Portal enfatiza que 'no aporta' mientras Subrayado se centra en el archivo"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Cáceres y Viñas previo debut uruguayo en Mundial",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "\"Horas de felicidad\" y \"el primer partido siempre es el más difícil\": Viñas y Cáceres hablaron en la previa del debut de Uruguay en el Mundial",
-          "url": "https://www.teledoce.com/telemundo/deportes/seleccion/horas-de-felicidad-y-el-primer-partido-siempre-es-el-mas-dificil-vinas-y-caceres-hablaron-en-la-previa-del-debut-de-uruguay-en-el-mundial/",
-          "description": "Los jugadores celestes se refirieron a cómo viven la espera para el lunes, cuando Uruguay juegue con Arabia Saudita.",
-          "pub_date": "2026-06-13T20:28:21+00:00",
+          "title": "Sánchez respondió a críticas de la oposición en seguridad: \"No se hace todo en un año; deberían reconocer que los delitos disminuyeron\"",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR24tMlVjeDd2R2ZlLWxPazdNU3hDOFoxVUl4bjVRSk9oNW5wNk4zbDVCUDluSWdkMGFCMnpwTnhVeFJOekhWTkRuOXdhdVdRMkFDLVZ5YmhJd2tybEVIUVhKeHpZOFdUWWhxcWdObTVjUjZRaURvTVVvMTA0ZXh4Ym90cUEySVFNNGpONGRWeWpER1h5SDhDaWdsV2ZUQjNGUElZdXhkdVJLZXV3c3I3bWVBaTItZGJnQlliRmFUcWJDMTFQZmV0Vjd1MjAyZjRFS04xQTRNTUZSTElER00zQS14RVVjbEl5V2hvcVdsZ9IB9AFBVV95cUxNSW1rNHNyTFhhOTJOckg2cm4zQkkxVnhxajBEdHlWdzZNVm5NMS1OZmIzMzNZUUJJQWE2eDdXWmlWanc1NmZrS09mSkxIbmZRblRrZkZkVVdkMzdTZnBqa0dxanZUT3ltSWpqVGRkeWJXckFKVHA5Q05NLUUzVGYtTjFhc2V2UF9NMWNlclJZYzZFV2lMRXdTa1lzQWpxWFdwVmJyYzladzVXWTFGQ1FOQ2c0V3lsMnlMWWh3QzRBUWIyT2FWdzJnVUVHa3QwZlJqNUVLdmRfbm0xNjF3RkhFMzBnMGp0M3E3Q2YxYWVOeGI4b3Za?oc=5",
+          "description": "Sánchez respondió a críticas de la oposición en seguridad: \"No se hace todo en un año; deberían reconocer que los delitos disminuyeron\" &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-14T22:04:00+00:00",
           "score": 2,
-          "score_reason": "Descriptivo con citas textuales, enfoque informativo sobre declaraciones de jugadores",
+          "score_reason": "Reproduce declaraciones textuales sin editorializar ni agregar valoraciones",
           "score_pct": 20
         },
         {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Sebastián Cáceres listo para su debut mundialista con Uruguay: “Vamos a salir con todo”",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNVpZY2ZQVXF3T1REVDM3MkpKWUQ1c0NQMEdSZG9JdWZoZEhHaXhtRzRvVUhTZWQzV0hWdElOc3g3OW92bVVJLXdDenl0ek0yRHFNb2F4eC1pTl9HNVlfTjlsVERXdnp2TFZKX2lqbDZoOS0xMzZBbmZBVmFQVWhRRkJQaTdKSzkxazFoZWh1ZDV0Tm0xb3FOV2xicW13MU9aTmJhMlR4SmpZcHhDVUVod09HbE11ZEFxNGRNUkFqS1FNc0dfaVlSWUVfZmEybEXSAfMBQVVfeXFMUEhQWm14dVB6a1dvSFFjRC1YWVhiVWgyRDZLTG1TNGFzajdEcXl2ckVOYld2Sms4TXBfVy1ISHMxQ3pIM3NqdmJMT3kxb3RXSVFONU9fbFBYTE5OdDNvNThnT3BBZE9KVWtVWnRxOXFjX1lXaXV2T3dqWEdlenJSMUx5cnNMTUFYRjJGRlZJNVhrZXBjUW1sMER5b1BMMkhoM05iakJHWHZOLWxEdWVRWW5TdjZNQTA4N1FpVk9hUnFJWjR1RHNqYjBJOTNwQUFNdUxsSkJLWGNiSjZoT3E0cHVsMm1nMk1RR1E2eHJTVWVOMFZz?oc=5",
-          "description": "Sebastián Cáceres listo para su debut mundialista con Uruguay: “Vamos a salir con todo” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-13T18:42:00+00:00",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Sánchez sale al cruce de la oposición en seguridad y pide reconocer que bajaron los delitos",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMm5Ta2xpejNSdk5qbFBSMFpkdy1mcFVmRkJndDJwWnJabm5SRy1JR001TnF5eXV4Yjczci1ZM1hKUWJjelc5N1NZcXRuYjR0THNzUWVXQ1A4bXRWU0E5WnRwSHdLZlFIcURWV1pUSFdQbTdyZlc3alRkUzRLSDlGZi01SkxJdDhGd1RuRjNuWWhUcDhKNXlZMDA4N0swY240aHBqcUwxNmc1WmdpeUczRXRoR2JtSDJLUUNONkdzZ1kyRHB6cXE2RF9EbUwycTjSAdQBQVVfeXFMTXYyQ0x2VVNmdXBlcFkwdUQxeGdIVnFhMDdyaUd3YzFzS3ZsVWhla1JNei1VTTBNX214OTlocm82blRaVjBONVkyMEJoSnR4aVdtZmFBUl9VdWFRZFh5WTZuaGhBUUVENFg2aVBsY2JrbkNqeGRmM0tSd3ZJeXlzZ2RWQXJSQmdWa3M4SFBzd1BmRFlva3hsUGFpaVFjWXVOQklnYjB4XzdNTjBwekJFNDdNWHd3MGIza1pzN2lESHhmbjJ0TFNGM3ZpQXBpZGZMck1CcmM?oc=5",
+          "description": "Sánchez sale al cruce de la oposición en seguridad y pide reconocer que bajaron los delitos &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-06-15T10:00:00+00:00",
           "score": 3,
-          "score_reason": "Frase motivacional entre comillas genera énfasis emocional positivo del debut",
+          "score_reason": "Uso de 'sale al cruce' y 'pide' añade leve dramatismo",
           "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Los futbolistas Sebastián Cáceres y Facundo Viñas brindaron declaraciones antes del debut de la selección uruguaya de fútbol en el Mundial. Cáceres afirmó que el equipo saldrá \"con todo\" en su primer partido mundialista. Viñas manifestó que vive \"horas de felicidad\" y señaló que \"el primer partido siempre es el más difícil\". Uruguay jugará su primer encuentro del torneo el lunes ante Arabia Saudita. Ambos jugadores se refirieron a la espera previa al debut y al estado anímico del plantel celeste de cara al inicio de la competencia mundialista.",
+        "resumen": "El Ministro del Interior, Nicolás Sánchez, respondió a las críticas de la oposición respecto a la gestión en seguridad. Sánchez señaló que no se pueden lograr todos los objetivos en un año de gobierno y solicitó que se reconozca la disminución de delitos registrada. Las declaraciones se producen en un contexto de cuestionamientos opositores sobre las políticas de seguridad del actual gobierno. El ministro enfatizó los datos que muestran una baja en la delincuencia y defendió el trabajo realizado por su cartera en el primer año de gestión.",
         "coincidencias": [
-          "Declaraciones de jugadores uruguayos previo al debut mundialista",
-          "Uruguay enfrentará a Arabia Saudita en su primer partido",
-          "Los futbolistas expresaron sus sensaciones antes del encuentro"
+          "Sánchez respondió a críticas de la oposición",
+          "El ministro mencionó la disminución de delitos",
+          "Solicita reconocimiento por la baja delictiva"
         ],
         "diferencias": [
-          "Montevideo Portal centra en Cáceres y actitud combativa; Teledoce incluye a Viñas",
-          "Teledoce destaca aspecto emocional y dificultad; Montevideo Portal enfatiza determinación",
-          "Teledoce menciona explícitamente el día lunes del partido; Montevideo Portal no"
+          "Subrayado usa cita textual completa; Caras y Caretas parafrasea",
+          "Caras y Caretas enfatiza la confrontación con 'sale al cruce'",
+          "Subrayado destaca el argumento temporal; Caras y Caretas la demanda de reconocimiento"
         ]
       }
     }
