@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T15:15:03.830538",
+  "generated_at": "2026-06-17T13:46:41.821978",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Debut de Uruguay en el Mundial 2026",
+      "topic": "Uruguay empató 1-1 con Arabia Saudita en Mundial",
       "category": "Deportes",
-      "sources_count": 5,
+      "sources_count": 3,
       "headlines": [
         {
           "source_id": "espectador",
@@ -18,24 +18,177 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0s4LVROdTIxNTBXcDJ2MThfcGFKUFRaMkFHdjBRaWJLbVBFV0NsSkxXM0VPZS13T3pHUkdxTl9qSXBPLTJEMTdSd3ZjQ0dxb3JMTkdYVm1nSXJuQmlsZlBLa0ZieUt6SWNaSVBaOHlDX3B6Ul9IV040czVnLUp0NFIySkFZUW54LXVRSlIzY2RzeEM0NG1MR3haYm0zV2Q0cTllSkJTbUV1dw?oc=5",
           "description": "Uruguay empató 1-1 en el debut mundialista ante Arabia Saudita | Noticias | Mundial 2026 &nbsp;&nbsp; El Espectador Deportes",
           "pub_date": "2026-06-16T15:01:42+00:00",
-          "score": 0,
-          "score_reason": "Titular puramente informativo con resultado exacto del partido",
-          "score_pct": 0
+          "score": 1,
+          "score_reason": "Titular puramente informativo sin adjetivos ni valoraciones emocionales",
+          "score_pct": 10
         },
         {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: por qué Uruguay quedó primero en su grupo y cuándo vuelve a jugar",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeUE4aHVqbjIxaU5sc1pkWFRWNktMQnFqRHJmUF9SaE8zbFlYcXZxSjZaQklEMDR3ejIyaWoxaXk1MGM4MEQzOElHYlh3R1NwazFvekF0YWI5NDI5V0d4S1pJUmZ6bTQ5MGpmZFJvZm1kTTJ5M1E1ZzYtZk4tWGJiUk9QOEFkbmJnbWJSeWd2Rlp2LUhPRk9sbWRacXI4TEo1S3hiRHRBSjdXNmJzYXJOcy1qRkxqelpwY3VpLTBtcVFLenFM?oc=5",
-          "description": "Mundial 2026: por qué Uruguay quedó primero en su grupo y cuándo vuelve a jugar &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-16T00:40:00+00:00",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "La sorpresiva elección de FIFA de mejor jugador del partido en el empate entre Uruguay y Arabia Saudita",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNXVvYzduczlxeTdmNmpLdXRVWDJnRE9YX1BucnRJem5SeUNmSWN4MUU4aWV4clBVU0hCOS0tOTkzdUxqTm5xZlA1UEhRZjFmOU94c0NHbWwxaW9CMW92QVoyWEd3WG9zRE9xSVIwZnpoQmN4SFRMXy1LZmJycHRCbkhFRUdyaE5EZG1nbmo0MmRjUlRkTWs3VVR5RUJlS0M4bk4yOGZ6a0g5elVkV0NJZ1ZQaG5DbFNWclRFdGZsVU5PbUNENGRLOExySGhVZVlsMTIwdjQwYUM5d9IB3wFBVV95cUxQdTF5UHlReEx4M1FKWjhRSFV2a2tEODNHZlI1UUhXNkozN1EtSkNxWGM0OFA5YjZjcGZzMDJuNUg5MFZVSnU3VXVkZ2F3ci1YZHYzU1owbk5VVjBYNmJCczNCS1FENUl0NDRWc01UTVk4ZWFSemhyNWZaXzM0ZkZmaUJjeGtGV2ZzcEs4alFUUno0UFA2S1RCSUxCMEtWdHpPWFJrU0piQzN6WC04VHpKdV9ISENmWFBDaTMxY0NDVHNGZ0pwZ2JUZ2pIeDFJRVc2NnJnYV9WZm1xX2xIUUM0?oc=5",
+          "description": "La sorpresiva elección de FIFA de mejor jugador del partido en el empate entre Uruguay y Arabia Saudita &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-16T01:58:00+00:00",
+          "score": 3,
+          "score_reason": "Usa 'sorpresiva' generando expectativa sobre una decisión polémica de FIFA",
+          "score_pct": 30
+        },
+        {
+          "source_id": "ladiaria",
+          "source_name": "La Diaria",
+          "source_short": "LD",
+          "source_color": "#1B5E20",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://ladiaria.com.uy",
+          "title": "¡Qué faltó, Uruguay!: 1-1 con Arabia Saudita",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeFNoeE5LeFBhQzZBODd4OHVkeFd3YXQ5QWNRVk11Y0w1VE4tbHZ4SlNOeGhzb0NleGhuR3BDWHc5b0pqMUhpakF3WGZlMDctdUdySHN1NGxSNWxFSFZ0ZGwtQ3VjbVRpdHVRNnRuaUJyZnFFcEVoVjhqNzN4NGJrNHJITlhRTUJnbjd3OXExMWgzTzg?oc=5",
+          "description": "¡Qué faltó, Uruguay!: 1-1 con Arabia Saudita &nbsp;&nbsp; ladiaria.com.uy",
+          "pub_date": "2026-06-16T03:45:46+00:00",
+          "score": 5,
+          "score_reason": "Expresión emocional '¡Qué faltó!' muestra frustración y toma posición editorial",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "La selección uruguaya de fútbol empató 1-1 con Arabia Saudita en su debut en el Mundial 2026. El partido se disputó como parte de la primera fecha de la fase de grupos del torneo. El resultado dejó al equipo uruguayo con un punto en su primer compromiso mundialista. FIFA designó un jugador del partido como mejor de la cancha. El encuentro generó análisis sobre el desempeño de Uruguay, que no logró concretar la victoria pese a las oportunidades generadas durante los noventa minutos.",
+        "coincidencias": [
+          "Los tres medios reportan el empate 1-1",
+          "Todos mencionan que fue el debut de Uruguay en el Mundial",
+          "Coinciden en que el rival fue Arabia Saudita"
+        ],
+        "diferencias": [
+          "El Observador enfoca en la elección del mejor jugador por FIFA",
+          "La Diaria se centra en la frustración por el resultado uruguayo",
+          "El Espectador presenta solo el resultado sin análisis ni ángulo particular"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Declaraciones de Bielsa tras debut mundialista uruguayo",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Marcelo Bielsa tras el debut de Uruguay en el Mundial 2026: \"Nosotros este partido teníamos que ganarlo\"",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUG5PV2pwV0o0ZzBvck1nTUtYbk9EbDM0ZWFFbVVFZkdEZXV3UnR3UElyRzdaRjdnQUJOUmZXLXNoOVowdUFnTW5scDBuWWpubjd1SWVzcHVwcm9vOWRzYjJyUFk4SjJ5VWNPd0ZweUx3R2FNVFBNMVhReG45WURpWFdrcEtqemJyM3NUYzJnb1V0UVFDeHZyRm5tZTI4T3JjXzJYR0dPS1hWRHRySDl2ang2Z2hrSmI4MHZKeTQwRk1uQlI0TURCOVhrbUJxYkdLUG1qZzF2cFhmeTQ?oc=5",
+          "description": "Marcelo Bielsa tras el debut de Uruguay en el Mundial 2026: \"Nosotros este partido teníamos que ganarlo\" &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-16T01:46:31+00:00",
           "score": 1,
-          "score_reason": "Enfoque informativo directo sobre clasificación y calendario",
+          "score_reason": "Titular objetivo centrado en cita textual del entrenador",
           "score_pct": 10
+        },
+        {
+          "source_id": "ladiaria",
+          "source_name": "La Diaria",
+          "source_short": "LD",
+          "source_color": "#1B5E20",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://ladiaria.com.uy",
+          "title": "Marcelo Bielsa en conferencia: Uruguay debió ganar y la molestia por las críticas en la foto oficial",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXM0TjB1Ulc0aHJ1bWw2Z19jQmd6WmMzWVQ4ZEZ2WTVpMVN0WGJWeENuNnBJdnlySldOd05iVnNPS2ZpamhoV2ZCSzhoemNScXJKMGhFRnE3UEZVMmhvekU0QURkWHZnOXV6NTZnNGNZMGtoeDVTaGZ3elRTMjhfTk1CUkxRY0hIMnU4UEJybGg5OVp3aUNITHV4QnRIVmZzSjhCZ2xGdHjSAbgBQVVfeXFMTW1Tcm5RY0w5NDFsZUdLeGJUZEYyWGthLVFXeGdweEpqTFdjekhDSWJPb0U1WFNrX2toZEg0R0JDaUNFSUdERUNlR3VlQkVhUzdzTHZWbEk4MlhIZzdRWEJ4bDBRNERFdVE2S1ozQTM4VDBjV2ktUVAxbDEwczdNVWptVnZ0anUzMVZqU3A4c3ZKNUhLSkVRY3pYRmVjTG44TkQ1cDM4U2phLVFmcFFvdWRDTEw3cXVxaQ?oc=5",
+          "description": "Marcelo Bielsa en conferencia: Uruguay debió ganar y la molestia por las críticas en la foto oficial &nbsp;&nbsp; ladiaria.com.uy",
+          "pub_date": "2026-06-16T01:53:21+00:00",
+          "score": 2,
+          "score_reason": "Informativo pero añade elemento de molestia por críticas",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "El entrenador de la selección uruguaya de fútbol, Marcelo Bielsa, realizó declaraciones en conferencia de prensa tras el partido de debut de Uruguay en el Mundial 2026. Bielsa afirmó que el equipo debía haber ganado el encuentro. Durante la conferencia, el técnico argentino también expresó su molestia respecto a críticas recibidas por la foto oficial del plantel. Las declaraciones se produjeron en el contexto del primer partido de Uruguay en la fase de grupos del torneo mundial.",
+        "coincidencias": [
+          "Bielsa declaró que Uruguay debía ganar el partido",
+          "Las declaraciones se realizaron en conferencia de prensa",
+          "Se trata del debut de Uruguay en el Mundial 2026"
+        ],
+        "diferencias": [
+          "El País enfoca exclusivamente en la evaluación del partido jugado",
+          "La Diaria incorpora el tema de las críticas a la foto oficial",
+          "La Diaria resalta la molestia de Bielsa como elemento noticioso"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Gol de Maxi Araújo en debut mundialista uruguayo",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Maxi Araújo tras el empate de Uruguay: “Costó el primer tiempo, pero luego nos asentamos y merecimos más”",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcTVIejNIOVB1RGotRTRBLXdfcF9BWmdwQTB1SGpYZEwyYU1yaWhpUExhRnY4d0ZmdGtlZ0RHenhrT1ljRnJfZW1PZzZyTTc1ak1YU3pYLXp4a0haM0tOQnlFRUpWQzRibGZrTW5KOEh4WEJ1NHpUZjJ0STRxLWRpNjVxNkpqMlBkbHpfWmROZEhJbU0zalRxcWVRZFlLel93YjlMNGlDSzVkblk5NmpaaDV2Zl9lQnFfNEhRQ01jcWdWNFh5RlBPa2YwYUpUWXc3clVpSU1sb3FQZG8?oc=5",
+          "description": "Maxi Araújo tras el empate de Uruguay: “Costó el primer tiempo, pero luego nos asentamos y merecimos más” &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-16T04:43:32+00:00",
+          "score": 2,
+          "score_reason": "Reproduce declaraciones textuales del jugador sin valoraciones adicionales",
+          "score_pct": 20
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "La historia de Maximiliano Araújo, autor del primer gol de Uruguay en el Mundial 2026: la humildad de su infancia, la ayuda de Wanderers y un gesto que conmovió a Fabián Coito y al Maestro Tabárez",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNbHZRb1g5OWRRTzhnZkZsS1V6bS1QUEhhdWhIbEFZd2J4aTlqcmk1ajlsS1U3emwzZ3Bqejh2WldVNUdYMGswTkFWUEs1c1hGU0tXdVFkcUV3bWZVOElZTXRsOTdSbVl2TE9adm9sRVRMWGZQdTFzTW8weG9pS2Z2X1diR1JDbi1wS09FSFJpbDc4NUZ2NDcweEw1NDk0czNUQVVTOXVQdWh4cUZ1V1RqZWpPdHBUTXROOGtGcTNJTjIxaWoyeV9GdWF0U2o3djVfcXFxVHVJYVRqSm5reUNqLTV5OHpBQWJ6V2RxZW5vTk5ZYll2anY4T3dCc09Ba1I1aVZqRFJuTVYyeHJGeU91cW14b0ZvNUdFR3fSAZ8CQVVfeXFMTzE3Q3NsNkVyOWxQNHpKMFlFQ1FJbkpaRW9pUEdEeXFPWHFnbmE3VGw2TXF5QlJWR29hNHlNZlNQZHNYcFNZWmVxZFZXVkJCZ1BGR2hVUlhCQ25kajJnX1RvRTZlQkt1Vm5DZ2JfYlU1ZldaTlZsT1hwa0FFUEVEZFZLVExYVnpwWm5hUkFpa1M4ZnBCNEZRUTFfS2tBMkkyQVhCcEtZcXNpb0FPdnhXX2J5VnhYeDZYd3FtclF3UTZiWEtiT0ZWaWhvWmJxVklZUjZBSjJnTDdSNndXLWlOZDUtODY2aW9FSkFuT1QyRUN5czMybUFjN1M1LUN1Y0V0X0pQLWV3ajQwRGk5eUhDOUtVUElKalZ1cGhQYjBDemc?oc=5",
+          "description": "La historia de Maximiliano Araújo, autor del primer gol de Uruguay en el Mundial 2026: la humildad de su infancia, la ayuda de Wanderers y un gesto que conmovió a Fabián Coito y al Maestro Tabárez &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-16T22:16:00+00:00",
+          "score": 4,
+          "score_reason": "Enfatiza aspectos emotivos: humildad, ayuda, gesto que conmovió",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "La selección uruguaya empató en su primer partido de las Eliminatorias Sudamericanas rumbo al Mundial 2026. Maximiliano Araújo convirtió el gol de Uruguay en el encuentro. Tras el partido, el jugador declaró a la prensa que el equipo tuvo dificultades en el primer tiempo pero mejoró su rendimiento en la segunda mitad. Araújo expresó que el equipo mereció un mejor resultado. El futbolista tiene una trayectoria vinculada al club Wanderers y pasó por las divisiones juveniles de la selección uruguaya bajo la dirección de Fabián Coito y Óscar Washington Tabárez.",
+        "coincidencias": [
+          "Maximiliano Araújo convirtió un gol para Uruguay",
+          "El partido terminó en empate",
+          "Araújo tiene vínculo con Wanderers y con Coito y Tabárez"
+        ],
+        "diferencias": [
+          "El País se centra en las declaraciones post-partido del jugador",
+          "El Observador enfatiza la historia personal y trayectoria de Araújo",
+          "El País aborda lo deportivo inmediato, El Observador lo contextual biográfico"
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Titulares sin relación entre sí",
+      "category": "Otro",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "El tiempo de hoy en Uruguay: el pronóstico de Inumet de este martes 16 de junio y los próximos días",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOHN3S2NEQTlGbVliY2YyM2djdEU4NDlTZjVDTmxxcy1TQnlfemJ2TWZ5bDFjSXo4TWFZT2kwQUxaU1BuUGF2Wl9rdVhOR2ZGWTg4WTJVcWxZcHF6MF95cFlkTW1hRjJraWp4cnN1cGJwUU8wdndwek9BMFdmcUJsYXoxU0RCZER6RTZuU1VNeFFVWW1qNUFkbWoxaExBT2hWVmhQUkNCemFvamN3UXVmRXpNY2xPSi1yYVBMZ2FlRXNNMEoyQkpXczVudXVwcnlLTlZkcDNKVldHaktkOVVZdF92WTNhdDlG?oc=5",
+          "description": "El tiempo de hoy en Uruguay: el pronóstico de Inumet de este martes 16 de junio y los próximos días &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-16T11:27:03+00:00",
+          "score": 0,
+          "score_reason": "Título descriptivo y neutro sobre pronóstico meteorológico oficial",
+          "score_pct": 0
         },
         {
           "source_id": "busqueda",
@@ -49,22 +202,93 @@
           "description": "Uruguay en el Mundial 2026: cuándo vuelve a jugar la Celeste &nbsp;&nbsp; BÚSQUEDA",
           "pub_date": "2026-06-16T11:50:00+00:00",
           "score": 1,
-          "score_reason": "Titular neutro centrado en información de calendario",
+          "score_reason": "Informativo sobre calendario deportivo, uso de apodo común",
+          "score_pct": 10
+        }
+      ],
+      "analysis": {
+        "resumen": "Los titulares presentados corresponden a noticias completamente diferentes y no refieren a un mismo acontecimiento. El País publica información meteorológica del martes 16 de junio según el pronóstico del Instituto Uruguayo de Meteorología (Inumet). Por su parte, Búsqueda informa sobre el calendario de partidos de la selección uruguaya de fútbol en las eliminatorias para el Mundial 2026. No existe conexión temática entre ambas notas periodísticas, lo que impide realizar un análisis comparativo de cobertura sobre un mismo hecho noticioso.",
+        "coincidencias": [
+          "Ambos refieren a temas de interés general uruguayo",
+          "Utilizan formato de pregunta implícita respondida en la nota"
+        ],
+        "diferencias": [
+          "El País aborda información meteorológica, Búsqueda trata deportes",
+          "Temáticas completamente distintas sin punto de contacto",
+          "Diferentes secciones periodísticas: clima versus fútbol"
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Polémica por posible infracción de Arabia Saudita ante Uruguay",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Mundial 2026: ¿qué dijo la prensa internacional del 1-1 entre Uruguay y Arabia Saudita?",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVhNazRjWHJFci12RGpPNUlZWFRabmhpLWNBcmhyNG0xanhHeEphajBubFdzOUhScUMxcTBRTXZCSXZvOUVJQ0xpSmRKMTRKUXlobU5lX2NuQVhmWm5vNkpVNWVFNUM5RTJ0UHJQWjlrNHZOd3EyM0hmTkJmMlhSbjBQd0VBcm5Cd0tUMVlRdmRib000UnYxcjVHMVJldmtQR19MTUczT09nLTN4c09TQ251cVRKdHp5b1czQXB2bmw1YXBac1ZkVWFyaFBuc3PSAfMBQVVfeXFMTkZfRkF6XzE0TmZSQWpyUk5sNXh0N0lQUTVFR3RBNXJvRzZHZ2VjZ29lTkNsY0x2UE9aM2p3MVZjVU9FRm92LTZJNFZYdXJHSm9oMmpiM011MGFFcFd6UDZvZWtUTm56TnhyRjFjNGYxd21QQ0lheHJhWWhJQWNkTG1aTjdFNHR4cHRkR0JsM0VoT0JubnotaFRac0V5aGN0MFhuYTE3dGYxN0tnSzFjOU8tX3o2T2k2Rzh1MkNFdGE1anZSVzVpRlF3bWQ1SmY1R2VoM2xrTlcyU3dIc0UwTTBtNXhGRnc4SFgtb21MWW1RN0Qw?oc=5",
+          "description": "Mundial 2026: ¿qué dijo la prensa internacional del 1-1 entre Uruguay y Arabia Saudita? &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-16T17:04:00+00:00",
+          "score": 1,
+          "score_reason": "Titular descriptivo y neutral, enfocado en información internacional",
           "score_pct": 10
         },
         {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "¿Cómo jugaron? Puntuá el desempeño de la selección de Uruguay en el debut del Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUGhXenVGQ0VxZ1ozWmZScVowekpRWV83bG5uR0RZcTJQNmhGZXN6WFVKWjdNWjM1aGlSb0owRDhkMU5FaWlRTi16VlNBOEVsZUFQNVNVY1N6RUhEMkpZT004TEZuUXZYMEtzWXZ4YlVlNUtPdFpmMEVKSTFXY0pKaHpmdnNYNVMwNjRvZzNiaTM3dlRNejNoLUU4cWZhdnBXcFpXTmZoVllHaExOQjM3dnR2NkFEM0pjeHQ1RUhJa2ZkbHd2dnUyckR3?oc=5",
-          "description": "¿Cómo jugaron? Puntuá el desempeño de la selección de Uruguay en el debut del Mundial 2026 &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-16T00:35:35+00:00",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Fuerte polémica reglamentaria: alerta por una posible infracción táctica de Arabia Saudita ante Uruguay en el empate por el Mundial 2026",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV0lIVXhUei0zdDR3LU1rQTFaTnVFbE91MWIzcHJnUE5TRnZ6MkhKR0tiWTRrVEM5RXZwMmpxalItSzBIRHFqT2E2OEFjMmRKazNNUTFJamRiNWpZTHZ5Q19zamEzUEstSzBmNmxQdm9kZ05sSFlpR1lRYTJQOFlnTW5aZkRVTXRJeWozQ2dOWWdHZVRLcG8zbU1mRXpqeGhYRkg5bkdJQ3pzeG94RXFvVjFOODNuNEIzVjI4aE9udTFTM1RadlpGTnZhdUk0VUx3QXhWTWxIelNka0w0TU80LWRxSThTTi1Bc0dhZkh2dFQwWF9qaG9ZUl9SYzBDc1XSAYQCQVVfeXFMTm1qLV9XTThtMS12cXpOX3o0NGxoYUE2NFNQdGRKVndZWTEwY0FKejNBWlc0YnY2cTAxMmhSOHpULS1SNlcyOWhpS3BCcXNUalo4VWNINEtoLS1oWUtDOF9YNTFSQzRZeGNvWUItZGw2R2tqOUJUUEc5bEZaT1lWQVlJcmdZZHdPWXNCUE9KVDdGQjBMQnFOLWFfdHJEcDVnWk0tbzJwN0hWTDFhdlJSZjBMNW9CZDlEbWVROXpyQm03LVExcFF0bWZBZ1IxX25qWUtveGx6YW5YSERJc0dXdl9BTTBKaUFfTG11Q0xPc0d3TEN1M0RIRURNa3dLV2hfTUtBaHE?oc=5",
+          "description": "Fuerte polémica reglamentaria: alerta por una posible infracción táctica de Arabia Saudita ante Uruguay en el empate por el Mundial 2026 &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-16T17:08:00+00:00",
+          "score": 6,
+          "score_reason": "Uso de 'fuerte polémica' y 'alerta' genera tono alarmista",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "Uruguay empató 1-1 con Arabia Saudita en un partido válido por las eliminatorias para el Mundial 2026. Tras el encuentro surgió una polémica reglamentaria sobre una posible infracción táctica cometida por el equipo saudí durante el partido. El medio El Observador informó sobre alertas relacionadas con esta supuesta irregularidad en el comportamiento táctico del rival. Mientras tanto, diversos medios de prensa internacional cubrieron el resultado del partido y realizaron análisis sobre el desempeño de ambas selecciones en el empate.",
+        "coincidencias": [
+          "Ambos medios cubren el partido Uruguay-Arabia Saudita",
+          "Los dos informan sobre el resultado de 1-1",
+          "Ambos abordan aspectos posteriores al encuentro del Mundial 2026"
+        ],
+        "diferencias": [
+          "El Observador enfatiza una controversia reglamentaria, Montevideo Portal la cobertura mediática",
+          "El Observador adopta tono alarmista, Montevideo Portal mantiene neutralidad descriptiva",
+          "El Observador se centra en supuesta infracción, Montevideo Portal en análisis periodístico internacional"
+        ]
+      }
+    },
+    {
+      "id": "story_006",
+      "topic": "Caída de compras web al exterior tras cambio de franquicia",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Compras web al exterior cayeron 39% en mayo y las franquicias 43% con respecto a igual mes de 2025",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX253ZnlsSzNfNWpPMWxtdXNmNlhNM25Yc2plOE1NcmdSRzNDY2w1VXBqMHhiaEFCRkdyYmo1aE16aDgyVWdJUk9OMWpXS3NWVDJzcFhkSHlOaVdyR2JOTEszazA4V3dMeXJ0SkQzeU5fNzJDU19yd0dNc3FYQ0FXb010ajBLdmhPNVRiRHVud1ktbFpha0ZfR0JIWXlJT3hVMkRWWkREQXlMaVRVUnQxcjUwWHBNOWFpTlVleDdvRdIBxAFBVV95cUxNSmtIM1JOR2VEYVZqUDliMnF2cEtsX09FQXBRYzNIdW10c05zWHZDMHJQNko3Nm5zdkFiOHVJQm9EWVAzaktGRWVBblZOb2UxTHl2YlMtX2NyQTRPM0IwOHlWRVlSRm5DOVFVTHBTb2psRWpxZzZzblFtVXA3TEhIZ0oxUGpPd2lxbmZUSW5ER2lPUWotVmhMWjZ4Zi1PallqY20zQ1BXbV9QeGNVY2IzRHloU2Zmc0VTZFQ4eU9rMTdtZFBV?oc=5",
+          "description": "Compras web al exterior cayeron 39% en mayo y las franquicias 43% con respecto a igual mes de 2025 &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-16T18:01:00+00:00",
           "score": 2,
-          "score_reason": "Formato participativo sin valoración editorial sobre el desempeño",
+          "score_reason": "Presenta datos objetivos con porcentajes específicos, más neutral",
           "score_pct": 20
         },
         {
@@ -74,34 +298,34 @@
           "source_color": "#D32F2F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elobservador.com.uy",
-          "title": "España 0-0 Cabo Verde: sorpresa en el comienzo del grupo de Uruguay con el empate de la roja, una de las candidatas",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYUplaVhDdjZZRDJLMUx4S0FhZ3Z2MW14WVRhMzhIQ05iY29WNlpOcGg0Z253ZzdPa1UyZ1UydlNuTFNtZUp1d2swSnFzU2ZaXzd0UVZaVlpYWF9kaVVyYWxncDJzZHF3Snh2eDl2d1AtSFZUQjBGSy1naUwtdmp1Ukw0TU91R1I2akpUYnZjdVhjM3JrSnVnaThja0hYZDJBdkVDbjVuRWxtLUVicGVnRGN4OU8tckZxbVNKZnJUeTloUzMxSDZaVkpjUG5mYjJZT1FLQTQxSkJiZw?oc=5",
-          "description": "España 0-0 Cabo Verde: sorpresa en el comienzo del grupo de Uruguay con el empate de la roja, una de las candidatas &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-15T16:55:00+00:00",
-          "score": 3,
-          "score_reason": "Uso de 'sorpresa' y 'candidatas' introduce leve valoración editorial",
-          "score_pct": 30
+          "title": "Compras web en el exterior se desplomaron a menos de la mitad en el primer mes del cambio de la franquicia",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUU5aYUZRR3ZRTGxZRDZ2eXY4WEExSzJQbERjSXdUclJsaU93amhxbWdVR3pQTXdZRjhXZ2U1OTNvN3hhdld3a2hXOEZYSHRMTm9rV2FGLUl0VktMLWVkNVpfLWxNNlRfSW1JZkNwR1NfZ3RhTFFqa0hnVnZoWnA0N3RlWDhzVUwtMXR4YVdIMHVFdi1HTWFxRFF6dHRqMjZzWFlSN3dvWEJObkk5X2h4SmpSVjhMUWt2SV9xUUt4TmdhOHhGM1Y1NmdjaVUtcHM0TThENXFzeWxhTGF5LXgwQktfMjdncVl50gHuAUFVX3lxTE1lZGZRT0ZmZk50ZnpVUWM5S1J4SWNvTXBhVjNkMjcxUWNrWmdVR1lGZmZ3YnZlNnc0ZnBaNEZDeUkydFRBS0VXRjFYM1g5Z3hrT0NrbUtCRjZYRENvWUxOS1hkVVlPSEZYT3A5aGRqQlgta3hjRjNfVk14VF91VnN5azM2cXplZ2JhRjgtNWdmemtib1BYUW9RcjJKb0JINHU5V2ZSZFBVaW85U1ZyaUJkT2p6bC1maHJ4NEp2a2pQWEZlbEZNX3pTQlR2Qk1SZ0x2Y2VhSGpFeFI4M2lfakVuM19KX1c3ZW43VUJ5ZlE?oc=5",
+          "description": "Compras web en el exterior se desplomaron a menos de la mitad en el primer mes del cambio de la franquicia &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-16T08:00:00+00:00",
+          "score": 5,
+          "score_reason": "Uso de 'desplomaron' es lenguaje más dramático y alarmista",
+          "score_pct": 50
         }
       ],
       "analysis": {
-        "resumen": "Uruguay empató 1-1 con Arabia Saudita en su debut en el Mundial 2026. El resultado permitió a la selección celeste ubicarse primera en su grupo tras el empate 0-0 entre España y Cabo Verde en el otro partido de la zona. Los medios consultaron a sus lectores sobre el rendimiento del equipo y reportaron detalles sobre la clasificación grupal. La próxima presentación de Uruguay en el torneo quedó pendiente de confirmación según el calendario de la competencia.",
+        "resumen": "Las compras por internet realizadas desde Uruguay al exterior registraron una caída significativa en mayo, primer mes tras la modificación de la franquicia para compras web. Según los datos reportados, las compras totales cayeron entre 39% y menos de la mitad respecto a mayo de 2024. El uso de franquicias también disminuyó un 43% en comparación con el mismo período del año anterior. La reducción se registró después de que entrara en vigencia el cambio en el régimen de franquicias para compras en el exterior por internet, medida que modificó las condiciones para las compras internacionales online desde Uruguay.",
         "coincidencias": [
-          "Uruguay debutó en el Mundial 2026",
-          "El resultado del partido fue empate 1-1 ante Arabia Saudita",
-          "Uruguay quedó primero en su grupo tras la fecha inicial"
+          "Las compras web al exterior cayeron significativamente en mayo",
+          "La caída ocurrió tras el cambio en la franquicia",
+          "Se compara con el mismo mes del año anterior"
         ],
         "diferencias": [
-          "El País se enfoca en la interacción con lectores para evaluar el desempeño",
-          "El Observador prioriza el resultado España-Cabo Verde y su impacto para Uruguay",
-          "Montevideo Portal y Búsqueda destacan el próximo partido de la celeste"
+          "El Observador usa lenguaje más dramático ('desplomaron') versus Subrayado más técnico ('cayeron')",
+          "Subrayado especifica porcentajes exactos (39% y 43%), El Observador usa 'menos de la mitad'",
+          "Subrayado menciona error tipográfico ('2025' en lugar de '2024')"
         ]
       }
     },
     {
-      "id": "story_002",
-      "topic": "Crecimiento económico de Uruguay en primer trimestre",
-      "category": "Economía",
-      "sources_count": 4,
+      "id": "story_007",
+      "topic": "Lema critica comparecencia de Lustemberg por caso anestesista",
+      "category": "Política",
+      "sources_count": 2,
       "headlines": [
         {
           "source_id": "observador",
@@ -110,29 +334,50 @@
           "source_color": "#D32F2F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elobservador.com.uy",
-          "title": "La economía uruguaya creció 0,8% en el primer trimestre del año",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdFluVWRoU2Voc19Yekd5V3RONGdYa2RaUFVVZVFROWQ4R0ZMdUt2QnhvWnJPdWViTktObnlZS1RzUGJHMlBqWjFFNFlUYTA2Skdmc1pwQWI2V0p1ZUlNT1gtcXBYWFFVMUp0ZzBzVDQ5TGgtOW10NG9kRnZnRG5NMi16UHVZckFMa1BSQi1JTTVDRGxxRWZ3MjdXZTlSbUNUOS00Q01KVU82a25mTXBFdGVJc2NhbGczaFJR0gHAAUFVX3lxTE43SlJRZ2Vhck16QzJfS1U1VEc2Z3FvRmd1bTR4TkpTSXBudk5meXZaOHA2VVJnb1dweHdtbXpabjN4dUxveEVDUGFMOGFRcUdYcWw0S2s5QTNiTzBjNXZiOVFULWlrX2JrNmVYd3RIQk5GclZWVTlYaTRJb2hXYlJySTF2TVB1OHMwWEhWcDhqdDFIMlpXVGU2NVNPYWJJLTFDZG9ycVVyVk9RNDluUUdKN095dzNtaHZuRzd2X1Azdw?oc=5",
-          "description": "La economía uruguaya creció 0,8% en el primer trimestre del año &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-15T20:09:00+00:00",
-          "score": 1,
-          "score_reason": "Presentación directa del dato sin adjetivos ni valoraciones.",
-          "score_pct": 10
+          "title": "Caso de la anestesista condenada por mala praxis: Lema tildó de \"decepcionante\" comparecencia de Lustemberg en el Parlamento",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRnVoSGVpWUk1RUdLbklwT29KRU5zV19kLTNhTHkxamNmN195dUtFRTJpdURRbUZUcEdwdzdOQ3FmQ2dTSjlwZFFSSmluUUtEYzluVE1JWHNwNlFIWVE0dW5KRzkzWExsSUJQLVg4QlFnMWIzdk9YUHUtVUNXNUZVVGhJTjFiZXNqZUYzZ3gxVHM3MFB3Mlh3ckl4VURTcHh6RmUwNTFkeHE3aVJJWHlkTHZuRzFNYW13SjUzd1NCeUNaZnJFN3U0blVYZkxSM2p2MDBmMlM0N3QwMF9qRFNPR25ISjVPZ0g50gHuAUFVX3lxTE9SaDVHeHlxaGliVjVic25PeHJKTVNxVkF3RWRlTjI2TE5vYkNGdm1RcXZrTFJjamtFcHl3eXZVWnhEZEp1Q0FWVGFZS0VBeWFyaFhXeWxQemp0bVpBekVrbTNZZ2Rfc2NnbURaZVctUm5JSWdKa3VCVzBQT2ZIZUIwRDZGTmp2Mm1FZUZfUEV3Q1B0NVY5c0VnRkFOU3lyMWNvU0dmcmlFdWk5SnNNVzdsemZnVEgwY1VzNzVUbFBGQjc1YnNNSnJnTnJtWHNKYk9PLU5STkRXMi0yT2h4amJIQlRBdFRaWVpGRWFNNVE?oc=5",
+          "description": "Caso de la anestesista condenada por mala praxis: Lema tildó de \"decepcionante\" comparecencia de Lustemberg en el Parlamento &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-16T22:26:00+00:00",
+          "score": 3,
+          "score_reason": "Usa entrecomillado directo pero contextualiza con mala praxis destacada",
+          "score_pct": 30
         },
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "La economía uruguaya creció 0,8% en el primer trimestre de este año",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ1Fyckw3R3ZmMU5TOEtEc2tVbDFHNDlsU29sX1htSlN4d01xZ0VwdWxmcDBndTZwTXRhbkFsSDF6TTZBUFNleV9ONmd6RWdGOVNUclFmQU5HLWlNa1ExRXVsR1NJMHVlTlQ0clY4Wm1TV1RQa0ZJbmpTejBOZFM3MXk1TGRneXdyMjU1SVdkOVAxOFdyN25EcmJrMkZEZ9IBowFBVV95cUxPaWFqeU05MDRNUXZ1b21DTjhOdC1leDRUZ21OaVg3LXVQYlMyNTdlT2M2UkJicmRKb3o4ekZxZnkxOGNiOGdFWURlYmdHZTBlREZ2X1Q2aDNQNTY2dFhNS0pKZXhyTUVBZXJXalhxQ0JSN1FwQ3NVcEdVNm5JYjhMaUV6TV9YbUNibTRLYV82MHU0MHR1RzJXUkt1NmFHc1N6ZFhB?oc=5",
-          "description": "La economía uruguaya creció 0,8% en el primer trimestre de este año &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-15T21:42:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo y neutral, solo reporta el porcentaje de crecimiento.",
-          "score_pct": 10
-        },
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Lema: “hay una pérdida de confianza” en Lustemberg tras respuestas por caso de anestesista",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS19NZFhORWV4bzEzTWxFcmwzcnJ4ZW4xOHI1YTZveEVjelZQd2Vzb05tRWhWT0hoOVdyQmYyYmxFSnMxZ0RjU1ZDenJhTTZWclc1U09pekthTTJuNW5mS3paQnE4WW1Ka0pBVklWNWE5NmtwQVNkVWtMdEl2MV96Y25FOTlNY2NRVFYteC1SNjRxVnU3YUZuQjltdWoyZHplbEV2M1hYNXVhSzVicHZxTUtLcXR0WUlFOHZ6dWJIUWNFOUZPS1VBTC1zSHZZOXFnclHSAfYBQVVfeXFMTWNFLU1qS1ZHU1Q5REFwUV9fU0Z6QnJuWFV3NkFUY2FCZ09PeXFmT0JfSGJuNmp4VTdDa29aNGI1SGFUZ1ZfYV9EMzkyMTNWUmMzemxodmhnWVpzT2NjZUlZaElJc1dlZUZKZzAwdzY2RVIwTUVmeldQZjNxNWd1Njl4OEZfZGRpS3p2UGN1LVNGZjdLcHB6WG9HSjJGdl9uekpSX1JHWktmMng1ck81cy1KRno4TnRMZWxveVhRNWtIVldjVzNObUZlV3o5RG1IR3dleHdvZ0hBWDVhNUxQNUdtSkN0dklRa1NsYk5MS2dZMnJhOExR?oc=5",
+          "description": "Lema: “hay una pérdida de confianza” en Lustemberg tras respuestas por caso de anestesista &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-16T23:55:00+00:00",
+          "score": 4,
+          "score_reason": "Enfatiza pérdida de confianza, término más grave políticamente",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "El senador Jorge Lema calificó de \"decepcionante\" la comparecencia del ministro de Salud Pública, Alejandro Lustemberg, ante el Parlamento en relación al caso de una anestesista condenada por mala praxis. Lema manifestó que existe \"una pérdida de confianza\" en el ministro tras las respuestas brindadas sobre el caso. La comparecencia se realizó en el marco de la investigación parlamentaria sobre una anestesista que fue condenada judicialmente por negligencia médica. El legislador cuestionó las explicaciones ofrecidas por la cartera de Salud respecto a la supervisión y controles del sistema sanitario en este caso.",
+        "coincidencias": [
+          "Jorge Lema criticó la comparecencia del ministro Lustemberg",
+          "Las declaraciones se refieren al caso de la anestesista condenada",
+          "Lema expresó su valoración negativa sobre las respuestas ministeriales"
+        ],
+        "diferencias": [
+          "El Observador destaca que la comparecencia fue \"decepcionante\"",
+          "Montevideo Portal enfatiza la \"pérdida de confianza\" en el ministro",
+          "El Observador menciona explícitamente mala praxis en el titular"
+        ]
+      }
+    },
+    {
+      "id": "story_008",
+      "topic": "Delpiazzo elaboró informe contra contrato de Cardama",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
         {
           "source_id": "busqueda",
           "source_name": "Búsqueda",
@@ -140,434 +385,47 @@
           "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.busqueda.com.uy",
-          "title": "La economía uruguaya creció 0,9% en el primer trimestre",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMkxxM3dIRk1McVc5dEp0TW0xMlpfbnlzcEtzUmotSEhwclRqMU8wSWFvRE9ZRVBWVHpCZjR2RzJjZ2NKUWdhUUszWG9lUXNWeUtDYXZpTUEzdEVQWU1FX1RSM0lGb0J5dDhsOXJHZmRkcTRTaUZKcUFjUS1aczB5VmFqQ19jSjh1Smo2T2JweWtIT0JQUzJrTlJCS00?oc=5",
-          "description": "La economía uruguaya creció 0,9% en el primer trimestre &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-15T20:32:00+00:00",
-          "score": 1,
-          "score_reason": "Objetivo y directo, presenta el dato sin interpretación adicional.",
-          "score_pct": 10
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "La economía uruguaya al estilo de los dos tiempos de la selección en el Mundial 2026: \"crecimiento anémico\" y \"retomó dinamismo\"",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSVhuMkJOSlJGUG9hRU1MX2QxX3lRNFlxLWp1ajExYkk5aURlOGFYTm1OZXJ4dkJUM1JfV0lKZmJXRnBSelE1X0JXa2dTZHViaTVYOHp2dll3eVhhaGpRRTA3S09iS0NwSGFGbmdPaFZaREVCQXNXdWktb1V3NG00NFpsNXJfMndoV2xSaTAtbXhLQjBYWWJ6SFAxQ09qNGhNWm1XNHJVSUtRYWpGZUVPc0ZDQ3dPNzZiZ1E2d19FX294ekdpUy1UNlVlbXZ3TkFCNkpLaVFmNVFNeDZpYkpMaFNfMUk1MVdrSThLQ3dlXzduc2lqOFBnTkhIYw?oc=5",
-          "description": "La economía uruguaya al estilo de los dos tiempos de la selección en el Mundial 2026: \"crecimiento anémico\" y \"retomó dinamismo\" &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-16T07:31:04+00:00",
-          "score": 6,
-          "score_reason": "Usa analogía futbolística y calificativos como 'anémico' y 'dinamismo'.",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "La economía uruguaya registró un crecimiento de 0,8% en el primer trimestre de 2025, según datos oficiales. Algunos medios mencionan una cifra de 0,9%. El dato refleja la evolución del Producto Interno Bruto en los primeros tres meses del año. Los medios difieren en la interpretación del resultado: algunos lo presentan como un dato neutro mientras otros lo contextualizan comparando distintos períodos o utilizando analogías. La información corresponde a estadísticas económicas publicadas por las autoridades competentes sobre el desempeño de la actividad económica nacional durante el período enero-marzo de este año.",
-        "coincidencias": [
-          "La economía uruguaya creció en el primer trimestre del año",
-          "El crecimiento fue cercano al 0,8% o 0,9%",
-          "Los datos corresponden al primer trimestre de 2025"
-        ],
-        "diferencias": [
-          "El País usa una analogía futbolística y califica el crecimiento con términos valorativos",
-          "Búsqueda reporta 0,9% mientras otros mencionan 0,8%",
-          "El País introduce comparación entre períodos mientras otros solo informan el dato"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Bielsa analiza el empate de Uruguay en Mundial",
-      "category": "Deportes",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Marcelo Bielsa tras el debut de Uruguay en el Mundial 2026: \"Nosotros este partido teníamos que ganarlo\"",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUG5PV2pwV0o0ZzBvck1nTUtYbk9EbDM0ZWFFbVVFZkdEZXV3UnR3UElyRzdaRjdnQUJOUmZXLXNoOVowdUFnTW5scDBuWWpubjd1SWVzcHVwcm9vOWRzYjJyUFk4SjJ5VWNPd0ZweUx3R2FNVFBNMVhReG45WURpWFdrcEtqemJyM3NUYzJnb1V0UVFDeHZyRm5tZTI4T3JjXzJYR0dPS1hWRHRySDl2ang2Z2hrSmI4MHZKeTQwRk1uQlI0TURCOVhrbUJxYkdLUG1qZzF2cFhmeTQ?oc=5",
-          "description": "Marcelo Bielsa tras el debut de Uruguay en el Mundial 2026: \"Nosotros este partido teníamos que ganarlo\" &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-16T01:46:31+00:00",
-          "score": 2,
-          "score_reason": "Cita directa neutral enfocada en la necesidad de ganar",
-          "score_pct": 20
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Marcelo Bielsa: “hoy perdimos dos puntos” | Noticias | Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVTRoaFFIWDJyblUwTHdmbHJocXVsamtHcUtvNm5KMndDSEhqV0lwLXBVaDZ5QVVGUGxrWUxONTA5OE9SeGNvYjdOR0tqRzhGSEVwcTRDYzFMcDF5S2pMdW55V05fQnVJYWk3Y1pyem9IbWZIZzc2N1MwYklSUVg4WDVzMHRtLUlzbmc?oc=5",
-          "description": "Marcelo Bielsa: “hoy perdimos dos puntos” | Noticias | Mundial 2026 &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-06-16T01:17:01+00:00",
-          "score": 2,
-          "score_reason": "Cita directa objetiva sobre puntos perdidos sin carga adicional",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“No conseguimos la versión de que somos capaces”: Bielsa tras empate de Uruguay y Arabia",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVR4UU9MaVltdUNvU1piTVE1Y2tyWnZiRm1sMFk2REpMMFY3UkhIdWpDZ0pObVA4RTM5aEJubUtHcVJ3ZEZncHJVLUlmRWRiT0RpT0xyTTFEMGVKZWgwS2s3dVl4bXRMMHg0R0dDaTZ0WVZEaFo2NkdnUXJYOHJWdGpXMmppZWJpNUR6NENONzlyMWE1Sk1qZDRQekcxRV85ZDRsTnluTTNQaXBLeTZOd05JTDVHZHBibVQ1aVB5aEpQbmxOT3VORFd2cnZUdWpy0gH0AUFVX3lxTFBmdTlRNF9LZXl4bVhiQTA3UFRFZW5Cd3J3ZW5Ua0xadFNnUzJCVVdSMmVHN2lsMGl2eEVod20zcTdGa1RIVVVjcUF4VFBScTQ0X1BHeFJ4MUZvcFQ2a2E4aW9vNnloTXY3cmhkc0RVbFd4RjE3WTNuOGFQSHJZRThkZV9EWHgySnFwc3MwVFYxVWFEeUItUGVwUXoyZWpJLVVqU3EyVzY4eExYM0FMX3R6dXY4amxBRS11bzRxaHU3RzN3TXZwVk55dzJhQlU0RktKcFJZVkVjN2hWT2JZRWRBeWJNMTVteVZlUVNqc0t2QTd5dk4?oc=5",
-          "description": "“No conseguimos la versión de que somos capaces”: Bielsa tras empate de Uruguay y Arabia &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-16T01:25:00+00:00",
+          "title": "Delpiazzo dice que nunca aprobó la garantía de Eurocommerce que presentó Cardama e insistió en sus “desprolijidades”",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLV9nbC1UMU5qMFhVRnk0Y1FOcVZKdjlPa0hVbkZoOW9ZSktpcVRkODhtTkRCTmpWa3V0UHBGYjZZcUh0aWV1UktkcGROQXgwX3p1TjFWNXJuOHVGMHZyb21JbHdmSzd4eUVBR2VkSWUyUkZwRGIyZTFpQ1FJNGdwbXNvOVItbmdZV1k2QWJmVUtCTEZJNldObzNnNzAtS29GRkpFS2RBRFJBMUo5QzJWb2VMcXVPTzhOZXBtaVhlQ3hiMXQ5MEYxQ0o5QmlGbkdlOXFoMGZQektrLUlZLWRiM1N4eHJkYTlpN3c?oc=5",
+          "description": "Delpiazzo dice que nunca aprobó la garantía de Eurocommerce que presentó Cardama e insistió en sus “desprolijidades” &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-06-16T23:10:00+00:00",
           "score": 3,
-          "score_reason": "Destaca autocrítica mediante cita que enfatiza el mal rendimiento",
+          "score_reason": "Enfatiza desprolijidades entre comillas, lenguaje más técnico y directo",
           "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "El entrenador de la selección uruguaya de fútbol, Marcelo Bielsa, realizó declaraciones tras el empate de Uruguay con Arabia Saudita en su debut en el Mundial 2026. El técnico argentino expresó su disconformidad con el resultado obtenido por el equipo celeste. Bielsa señaló que Uruguay debía haber ganado el partido y consideró que se perdieron dos puntos. El entrenador también manifestó que el equipo no logró mostrar la versión de juego de la que es capaz. Las declaraciones de Bielsa reflejan una autocrítica respecto al rendimiento del equipo en su primer partido del torneo mundialista.",
-        "coincidencias": [
-          "Todos citan declaraciones textuales de Marcelo Bielsa",
-          "Todos refieren al empate de Uruguay en el Mundial 2026",
-          "Todos transmiten la disconformidad del entrenador con el resultado"
-        ],
-        "diferencias": [
-          "El País enfatiza la obligación de ganar el partido",
-          "Montevideo Portal destaca la falta del mejor rendimiento del equipo",
-          "El Espectador se centra en la pérdida de puntos como concepto"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Uruguay empató 1-1 con Arabia Saudita",
-      "category": "Deportes",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Empate en el debut: Uruguay y Arabia Saudita terminaron 1-1 por el Grupo H",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWhLYlMtcmw3Z29RS3ZONlFyWUp1OVBzVnk1c3RxTVdEZWZuUFQ4NXdwZmFaVWY3SHhZenhYRXY4S2ZWSWhiakNJVmt2U1VEZDB4NEJxMDFvRUxFZXF1WE1mMW9SejFsRjNQOHRsUmM5Q1VNWE1ScWZLTExmdHZuTVJGcEhXQzBFSVkzdnR4eWFfejVJanJ4V1lMXzVCMnR4eVVmcXBuZ9IBrAFBVV95cUxPYkluRGNLcVJKR1lGQ05IaGtqWG04ODhmUXlmWUhwbmN6WjRLZXB4Z2VpLUZsZ19UNjVsVWUxTElaOUlpM1RvT1dWVDBaQXVHN2RheEVCZzYxV1FRbDI1RTRKOVdqdFp3cFo2MC1seWpxbkoyRzh4NjF1UkNNUjhDUW5lMjFzSE4taElrYm5Wems0N3IyRkxIR1Jxc2o4LUVEQWsyZVVfZFJpdzVU?oc=5",
-          "description": "Empate en el debut: Uruguay y Arabia Saudita terminaron 1-1 por el Grupo H &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-15T21:33:00+00:00",
-          "score": 0,
-          "score_reason": "Puramente descriptivo del resultado sin interpretaciones",
-          "score_pct": 0
         },
         {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
+          "source_id": "ladiaria",
+          "source_name": "La Diaria",
+          "source_short": "LD",
+          "source_color": "#1B5E20",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Uruguay quedó líder del Grupo H tras el empate 1-1 frente a Arabia Saudita: así es el criterio de desempate",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTURXMEFwOXBlaGJzRzAwbGUzend2MkZQSDZyT1VJZkwxdXVwanJ6WHl2V3J1cVhnVUoxbWtZUDBiOXZobnNCUVlMVVQ1WE5LQ2o0TnR6bkcwS05CQ2l4RjF6ekdQc3RzYm1BcEo1ZDZXWlZVVzR1alFzbzJRS2otMUtNRkpKMUJRdTNpZndmbWZYbkMtbWZJRHZsci0yMlFaWDl2WFNBRzF3SThQN3I2bFd2dElhdURlb2plM2pYRUNXZFk0M3owR3N3WE1kY19IUDZzenI3Wl9MenRISWlqUmh3?oc=5",
-          "description": "Uruguay quedó líder del Grupo H tras el empate 1-1 frente a Arabia Saudita: así es el criterio de desempate &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-16T03:42:59+00:00",
-          "score": 1,
-          "score_reason": "Informa resultado y liderazgo objetivamente sin valoraciones",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: Uruguay empató 1-1 con Arabia Saudita en Miami, pero mereció mucho más",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRk45c2ZTZTB5WVpfQ0NER29BaTRQaENxWmRfaUFrbzhqMjFZVkdZV3pHbDZUTGxzVmF1MTVZVHBlMmYzalRJd2ZoeVVvRW5QRGlHMlp5aFR3WmhzRWE3d0xodXJGVmM1NFlCbFN0UGNvbWtod0tZWFlDQkpyTUhRbXBLVWlyNGhqZ1Iwa2JnNnRYTTN0NndrMU5nbVozbEZycGhGS0ZBb0ttSGxJWHVYUzBhX2V1aEhQdDdRbDBveEk1Z0N6enJPcWZR?oc=5",
-          "description": "Mundial 2026: Uruguay empató 1-1 con Arabia Saudita en Miami, pero mereció mucho más &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-16T00:07:00+00:00",
-          "score": 5,
-          "score_reason": "Agrega opinión subjetiva: Uruguay 'mereció mucho más'",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "La selección uruguaya de fútbol empató 1-1 con Arabia Saudita en su debut en el Grupo H de las Eliminatorias rumbo al Mundial 2026. El partido se disputó en Miami, Estados Unidos. A pesar del empate, Uruguay quedó como líder del grupo por criterio de desempate. El resultado fue un gol para cada equipo, correspondiendo al marcador final de uno a uno. Este fue el primer encuentro de Uruguay en la fase clasificatoria para la Copa del Mundo que se realizará en 2026 en Estados Unidos, México y Canadá.",
-        "coincidencias": [
-          "Uruguay empató 1-1 con Arabia Saudita",
-          "El partido corresponde al Grupo H",
-          "Fue el debut de Uruguay en esta competencia"
-        ],
-        "diferencias": [
-          "El País destaca el liderazgo del grupo y criterios de desempate",
-          "Montevideo Portal enfatiza que Uruguay mereció mejor resultado",
-          "Subrayado presenta solo el resultado sin análisis adicional"
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "Debut de Uruguay en el Mundial 2026",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "El uno por uno de Uruguay ante Arabia en el Mundial 2026: Araújo y Viñas, los mejores del debut de la Celeste",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOek9MVWtiLUZlYnFQR1piclZTa01Lc25vSEg5QjNTMmFQR05QWEtHSC1nSmhjNHdGSDZnRGtJTGhDb0ktekxHWVlPVTFOSXM3Nlc1b3A1NFFFVUJlSlk5djRENXlZY3lETl93dHh1VFNrbGloN2l2X1MtTWJKelRGYWFZaWhTeXQ4MXRtTEVzaGFBT0t2U3NBV001R1BrYkdxc0hwYXdLR1FWSDBDMXpvZUt1X1VOYVZ3b1JKdEc1a2JfMk1pc21vYkowZTF5YldSb0JqNDFFZEhUcFZjQ0pkUHBTNA?oc=5",
-          "description": "El uno por uno de Uruguay ante Arabia en el Mundial 2026: Araújo y Viñas, los mejores del debut de la Celeste &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-15T23:59:01+00:00",
-          "score": 2,
-          "score_reason": "Titular descriptivo con calificación directa de mejores jugadores",
-          "score_pct": 20
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "El uno por uno de Uruguay ante Arabia Saudita: el partidazo de Federico Viñas, el oportunismo con gol de Maximiliano Araújo y el empuje de Mathías Olivera",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMXJLRC1MYl9EcmFHMHNIOF9jQ0RYdnl2SkF3NHFKZk9BNXRLdVlGU0l3bWNjeUR4UEppZHFoUXZXS3BiT1ZaM0JORGQ2aXhCUGVLQnAzZGQ3dU1hdGFrQUM0N29ZNFUxaW5qcGhQSHhvc1ZwUUJTX1hNamtKWnExNzhhV2VvdGhSUS1Ec0QyLVdScEh4YTgwVXU3VFpjc1UwTVBBT0c4Z3RGcE01Y18yRWlhZVM5ZXVqMVRIdUpVbGdJRjhFdXFvU2xUMWVJVjVSOVlDTnFYNGpUMnY1bFhqaTMxZURUNE5lNWRHOC1nQdIB9AFBVV95cUxQMFBGQ2lkMXJDaGU2WTJJblVCWDhUMDdNT2MtaGF3NkVhZTRPZGJpdm1PWjB2MzhBR3ZELXdIVkNOZzdUbllRNWs2WjlaOEI5ekxlRDlONk1NbU5OTWVIQXpzRXYzbGZmNTMzb1VPaWh3eWZsMEJ6b0VjYTlBQ0ZlX0FPbG85ZS1pRVZDR0tDSktkZTVVNEhkZEdGMXp2QkxVQ1R5Tm9seGY2MXAzMzVtV3MzQU5WUFNqbUtwWm1tbDVrSHZwc0FvVnk5THMtSVFweUx1Y05teU1xNGNEX01DanVyYnljUjFmWjdMWVRSb2JVREFy?oc=5",
-          "description": "El uno por uno de Uruguay ante Arabia Saudita: el partidazo de Federico Viñas, el oportunismo con gol de Maximiliano Araújo y el empuje de Mathías Olivera &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-16T00:14:00+00:00",
-          "score": 3,
-          "score_reason": "Incluye adjetivos valorativos como partidazo, oportunismo y empuje",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "La selección uruguaya de fútbol disputó su primer partido en el Mundial 2026 ante Arabia Saudita. Los medios destacaron las actuaciones individuales de los jugadores celestes. Maximiliano Araújo convirtió un gol en el encuentro. Federico Viñas tuvo una destacada participación ofensiva durante el partido. Mathías Olivera también fue señalado por su desempeño en el campo de juego. Los medios analizaron el rendimiento individual de cada futbolista uruguayo en este debut mundialista, identificando a los jugadores con mejor performance en el partido inaugural de la Celeste en la competencia.",
-        "coincidencias": [
-          "Ambos medios realizan evaluación individual del desempeño de los jugadores uruguayos",
-          "Coinciden en destacar a Federico Viñas y Maximiliano Araújo como figuras",
-          "Los dos mencionan el gol de Maximiliano Araújo en el partido"
-        ],
-        "diferencias": [
-          "El Observador destaca específicamente a Mathías Olivera, El País no lo menciona",
-          "El Observador usa lenguaje más valorativo (partidazo, empuje), El País es más neutral",
-          "El País menciona solo dos mejores jugadores, El Observador amplía a tres"
-        ]
-      }
-    },
-    {
-      "id": "story_006",
-      "topic": "Debut de Uruguay en el Mundial 2026",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "El debut de la selección uruguaya en el Mundial 2026: armá tu once ideal para el partido ante Arabia Saudita",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdnFINUM0OXFqTldfV2ZGekhLZlV5QUgyUzhiSGxMdzAzbHpWanUxZDVzVVFZTHRsWW51RExidnlYS2dJbFg4cGtpbUhVZ3VFaFo4R3J2NlM2TXNHSFdvZ0tMamVJUXpFRXV1aWxiMVU3MWswRHBJbVlHZDdJQ2swZVRMMGVBWUhUOVZ5R1RfbnVQNGlFeG1Ga3hXcEpwc0NfVUFKai15WWVrNmFSaDFpcXJuWjJ4bFNDVzk0MzE0bnZ2emVtd0c0Qy0zOElTOHNxeWw3dllpeWNJYXNCTEtOWmRvRQ?oc=5",
-          "description": "El debut de la selección uruguaya en el Mundial 2026: armá tu once ideal para el partido ante Arabia Saudita &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-15T15:11:39+00:00",
-          "score": 2,
-          "score_reason": "Invita a participación del lector, formato interactivo informativo",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: Luis Suárez vio Uruguay-Arabia desde el estadio y sorprendió con su camiseta",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRU9kUkZvem5XVllxNnZSZlRVZUMtbTNJZWRjeEc1c29seDV0R2xrc25TemNCMWlzOUUyOEs2cjYya3VpaUpGMGlOLS0yVWhvTWdLdEFtX1lCOWo5V3ZNdm81cFgwMEY3WWpOYXpITE40TUpLLThMVEVCNDFHN3ZsRXU1UjJPRVFlNEZITHFDTk1kZUZyY0dyMmlOTjN6QzBFbmZhVzJqU05DeHZ4eWhFU253VEpBOXZ1TjdVVnpHdVhjeXV5aExnMTJCdHJNQ1ZyLWpv0gH3AUFVX3lxTE9YY19jc0NVbjR6SGxtcmljN2thOXdkOHpaaUgwV1JramNrek5HcGdNQzY4aG4xVWFJUHVWSzNpQnFZcDNhemczR0dYTV9tWG01OXl4YnVld1dPdnZqWEoyRUd1VHBaRE8wOVhJNFdjdWNxY3VrVXBfbG9oYy10LXYzQml4aUZsYm5uSmRrS28zMWVJZTlvdUtCQkdxU2R0b0lzQU8tWks1dEZMQklfZmpGZzd4aDEyVGNJR3FqUko5QjZYVnotcjZ6SDlIRzZEZ0szUWdYUjhaNnNNdmxZUjV6cklnN1VuVFU5UjFwWEI3ZFNaM1U5NWM?oc=5",
-          "description": "Mundial 2026: Luis Suárez vio Uruguay-Arabia desde el estadio y sorprendió con su camiseta &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-16T12:44:00+00:00",
-          "score": 3,
-          "score_reason": "Usa 'sorprendió' generando expectativa sobre la camiseta de Suárez",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "La selección uruguaya debutó en el Mundial 2026 enfrentando a Arabia Saudita. El partido fue presenciado desde el estadio por Luis Suárez, exjugador de la selección, quien asistió con una camiseta que llamó la atención de los asistentes y medios. El País propuso a sus lectores armar el once ideal para el encuentro, invitándolos a participar en la selección del equipo titular que debería enfrentar al combinado árabe en este primer partido de la fase de grupos del torneo.",
-        "coincidencias": [
-          "El partido fue Uruguay contra Arabia Saudita",
-          "Se trata del Mundial 2026",
-          "Luis Suárez estuvo presente en el estadio"
-        ],
-        "diferencias": [
-          "El País se enfoca en la formación táctica del equipo",
-          "Montevideo Portal destaca la presencia de Luis Suárez como espectador",
-          "El País propone interacción con lectores, Montevideo Portal reporta un hecho puntual"
-        ]
-      }
-    },
-    {
-      "id": "story_007",
-      "topic": "Bielsa analiza empate 1-1 con Arabia Saudita",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Este partido debíamos ganarlo”: las primeras impresiones de Bielsa tras 1-1 con Arabia",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcVdLOWRCX2J4SXVFOEFPMjJGYzdvcWVsN3VONjROQWpVUzVJcFlVdXA5VVc3UXp6cGsyTWhPdDMwMDUweEJ0TjVGSDRaZU1hbm5zREtON3BlTUYtZHl1V2tMam9zM3FqWWJTN291RG9nbnB3SWhKZGZxSFM5NDdaNHpSVkpoMV9yNHNtM2tqZ2Joa3hmUFJzUmdnOEg4N1pkeE12Q0VVQkFBSlRkcWpGNTJfUmpVRk14Q0k0Q0E3Ym1RVUFONDFlQkJCUk11eVXSAfMBQVVfeXFMTVh2QzNPdXpoRGRYZmhlNUlNQTdwTlZVTDhlcHR2dVRGVGlSYzJyVW1qaGtYNWZicDA0WXhrdk8tNnZuMF9IdnJrSnhEcFZOTlJZSWlJbmUtZDRaUVFlcFpnZjFaMHJjX2JOYlBNSm5OQ1BlcjBIMVZSNm8tckY0RjVOTGtINmNOTF9qdWNOUmg0S2dTcnBQaGpjd1E5T0NEcWpFUDk3cURiOVdQM0VOdkViNWxCMjRZOERuVkxrSzZRdmwxcjExWU53Y2RZajVZcmlZakQ0c1hSVnVNdm8xcGJLUG15aWRhaFB2T0kyUEtXelBB?oc=5",
-          "description": "“Este partido debíamos ganarlo”: las primeras impresiones de Bielsa tras 1-1 con Arabia &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-16T00:25:00+00:00",
-          "score": 1,
-          "score_reason": "Cita directa y neutra sin carga emocional adicional",
-          "score_pct": 10
-        },
-        {
-          "source_id": "carasycaretas",
-          "source_name": "Caras y Caretas",
-          "source_short": "CC",
-          "source_color": "#4A148C",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.carasycaretas.com.uy",
-          "title": "Bielsa tras el empate: \"el partido de hoy era un partido ganable que no ganamos\"",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSk1nQjgzT1pMWDQ1VFVrMElqLXpzOUJyWjFkYmVPT2tXdUQ4dG5INk5NNHhiZmJJYkgtMHJtMkJPZjQtY19QaTNMcmNhUkhsWFFma2V1cGRDRlVkMDBub3lxNGFmbWsxcXVqOGNsX1ZUYmJSSE1GeTBSZFFaUHhyRmFkSnVoV3Q5ajlrSVo0aDlhbFJpUWVVa0oxXzlnVVR3NXdjUDJrc0xtU2xTSXfSAbMBQVVfeXFMTkFVNjFocnFQTE8zZWNUV1h6YTVEYXdZd0U2cGp3bm1mVHJhVk84RGptNzlRM2hoWGhRQk5FNXllUVZLdHVZektEUXpFa2JDTHE4bWk3c1lyZXpkamZFZXNZaDNzZFJzMFN2Zi1LYXEyWUNVN0ZhcnRqWHlPRkZUdHlpcTJzNTlKYlJFc05yNUw1cTJUaHNQZnpiR3RvNVR3YWVrdUl1Y0YxSEpuMmsxbTd3QUk?oc=5",
-          "description": "Bielsa tras el empate: \"el partido de hoy era un partido ganable que no ganamos\" &nbsp;&nbsp; Caras y Caretas",
-          "pub_date": "2026-06-16T01:06:00+00:00",
-          "score": 1,
-          "score_reason": "Reproduce declaraciones textuales de Bielsa sin valoraciones agregadas",
-          "score_pct": 10
-        }
-      ],
-      "analysis": {
-        "resumen": "El entrenador de la selección uruguaya de fútbol, Marcelo Bielsa, analizó el resultado del partido que terminó 1-1 ante Arabia Saudita. En sus declaraciones posteriores al encuentro, el técnico argentino expresó que se trataba de un partido que Uruguay debía haber ganado. Bielsa calificó el compromiso como un partido ganable que no se pudo concretar, analizando el desempeño del equipo celeste en el marco de lo que parece ser un encuentro amistoso o de preparación de la selección nacional.",
-        "coincidencias": [
-          "Ambos medios destacan las declaraciones de Bielsa tras el partido",
-          "Los dos coinciden en que el técnico consideró que era un partido ganable",
-          "Ambos mencionan el resultado de empate 1-1 con Arabia Saudita"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza la obligación con 'debíamos ganarlo'",
-          "Caras y Caretas se centra en el análisis retrospectivo 'era ganable que no ganamos'",
-          "Diferente estructura en las citas directas seleccionadas de Bielsa"
-        ]
-      }
-    },
-    {
-      "id": "story_008",
-      "topic": "Empate España-Cabo Verde en eliminatorias mundialistas",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "España y Cabo Verde empataron sin goles en su debut mundialista",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXFQSlpSaEFEaWVJbkhLVUJrRTZlaVBHZmczckxUQ1RGdVF6aXJWMjJIYUJSWWtqcDdZQnFkSjJTVVdlTnNHbVNkbm51T1g0b0plVDRjejNaQlVnblRpdjg4NnI0Z0p5Y19tQzZYVGFHRURqYUNwbU5NSllWMmdYWUFzdks5Y2NLVkZnaEx4dlcyYW5vSkhOXzRR0gGfAUFVX3lxTE1rb2tnSE14WUJ6WngwaGNtMGVKSDk3b0FFU2tnMUdITFF3T1JKMUpsdGhzYk5CUjJoVTRyV0NPRk1qQ0djSDRuNlQxeEFmR0c1OEJfbXU0c2l1YkhPd2FiejNwSUlWTUZmQVpKdzBfX3ZtbUpmVWx3RWdra0ZfbHc3YV9zcVoySWtWTW1mVXRqWmlIR21ZMXpsbVpqdzFCUQ?oc=5",
-          "description": "España y Cabo Verde empataron sin goles en su debut mundialista &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-15T17:21:00+00:00",
-          "score": 1,
-          "score_reason": "Titular neutral y descriptivo sin adjetivos valorativos",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: Cabo Verde rescató un histórico 0-0 ante España por el grupo de Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR04xR0xUek1tam52TWZveEItQmd6VExtYzh6dFpDeld3V1U5eHJhaF9YSmlyQzRTZWhFR2FZTHlkdnJLZlZsVXVtS2FnY3FFYU9GQXhMTzZWcTM2aTV5NHFJcXhrRFlJelRIcW1VOUt1S0NaUUZOdVdtOUMzQ1Y5U21KbEFQaU9rUDhZZHNqamtfQnBBelVOTm5HRXp4ZnFpLUN2WlF0aWg3S29xN1AxVXQ3RU5WdFBkempFWjRNUE9TQkl3eGhPcDE1dk0?oc=5",
-          "description": "Mundial 2026: Cabo Verde rescató un histórico 0-0 ante España por el grupo de Uruguay &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-15T17:58:00+00:00",
+          "source_url": "https://ladiaria.com.uy",
+          "title": "Caso Cardama: mientras se buscaban garantías, el estudio Delpiazzo elaboró un informe “sugiriendo dejar sin efecto” el contrato",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQmxRdWtGRmtNZ1hCcVNBbkFRSUtVc2NMUHhpMGd2ZjU4b1RsbnBUZXRmQXFjUnBBdnc4N3FRbXQtMDBseFVwcmpwbGFmZWJwaTJiQjdubkVqbmYtZnFSb25Md3MwVHowaGFhNmxGNHVuTkdHTlhvTGd2WG95NkE0OEhuWkNpcWNXT2FvQUxFRmQxMENaeko3UjMxWG5vSll0SXpLWHE2cndtMjdiMVRKckZzb2hKZmlFdWsyQVZaWEpENU0zUXN0RnNMb1lUNVF1aHkxNFF5Zlh3YS0xcEFXTWxNVmVHQnhZZ3A0dy1XVE1wV1ExcmxLSmdmckhqVkUtcGMw?oc=5",
+          "description": "Caso Cardama: mientras se buscaban garantías, el estudio Delpiazzo elaboró un informe “sugiriendo dejar sin efecto” el contrato &nbsp;&nbsp; ladiaria.com.uy",
+          "pub_date": "2026-06-16T03:18:55+00:00",
           "score": 4,
-          "score_reason": "Uso de 'rescató' e 'histórico' implica valoración del resultado",
+          "score_reason": "Uso de comillas sugiere contradicción entre búsqueda de garantías e informe negativo",
           "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "España y Cabo Verde empataron 0-0 en un partido correspondiente a las eliminatorias para el Mundial 2026. Ambas selecciones integran el mismo grupo clasificatorio que Uruguay. El resultado se produjo en el debut mundialista de ambos equipos en esta fase eliminatoria. El empate sin goles constituye un resultado inesperado considerando la diferencia de ranking y trayectoria entre ambas selecciones. Este marcador tiene implicancias directas para la clasificación del grupo en el que participa la selección uruguaya.",
+        "resumen": "El estudio jurídico Delpiazzo elaboró un informe en el que sugería dejar sin efecto el contrato con la empresa Cardama, mientras se buscaban garantías para el mismo. El abogado Carlos Delpiazzo declaró que nunca aprobó la garantía presentada por Eurocommerce que ofreció Cardama, y señaló desprolijidades en el proceso. El caso Cardama involucra un contrato estatal cuestionado por irregularidades en las garantías presentadas. Delpiazzo actuó como asesor en el proceso de evaluación de las garantías ofrecidas por la empresa contratista.",
         "coincidencias": [
-          "Ambos medios informan el empate 0-0 entre España y Cabo Verde",
-          "Los dos destacan que fue el debut mundialista de ambas selecciones",
-          "Ambos mencionan la pertenencia al grupo de Uruguay"
+          "Delpiazzo elaboró un informe sobre el caso Cardama",
+          "La garantía de Eurocommerce no fue aprobada por Delpiazzo",
+          "Existen cuestionamientos sobre desprolijidades en el proceso"
         ],
         "diferencias": [
-          "Montevideo Portal califica el empate como 'histórico' y que Cabo Verde lo 'rescató'",
-          "Subrayado presenta el resultado de forma neutral sin calificativos",
-          "Montevideo Portal enfoca el resultado como hazaña de Cabo Verde, Subrayado como simple empate"
+          "La Diaria enfatiza la contradicción temporal entre búsqueda de garantías y elaboración del informe negativo",
+          "Búsqueda se centra en la postura de Delpiazzo y su rechazo explícito de la garantía",
+          "La Diaria contextualiza en el proceso de búsqueda, Búsqueda en la declaración de Delpiazzo"
         ]
       }
     },
     {
       "id": "story_009",
-      "topic": "Valverde analiza empate de Uruguay con Arabia Saudita",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Nos jugaron en contra los nervios y la ansiedad”: Valverde tras 1-1 de Uruguay con Arabia",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORk5nWWVVWlQxSlhnSF9ubFNBV2llSVA2S0dhUDhDOENMOEVlQVZnNU9sOVgyZDE0bDVmdlVfaVlpT2hQRzA2RWJsRkFFZ0hvc3VHamozNFpFaFNrTjByYkNpNEQ1UlpOOTBZOFp4Yk1Pei1xTDd3NVJGeHJVVUlPRTBxVHh5M0FqNWNPTFd0cUNuaWNKeFo3SjgzRGotb2NPV1RmMUJQSEtTRjdOY1ZueHhSeDI0d2hNTEJZMzhVY3RWVGdMbkE0V3ZValYwXzJtM1RR0gH3AUFVX3lxTE82cGMxZWdOeF8xYUJONEVFYXZSSnlZRXdBMmYxNTc0ME9PYmxnUnVYZTVYeEp2RnByMjhKSWU0akhhTElYYUxkZWlNT1hwQWFkOVUtX2R0eTJueG9Fd0E3OFRabmVabkNXNFFvekFORlYwNTFRSlItMGFUZFFwemJodktUNHFLYmZkWExwdzZ5QUtRQUdESUZOMm16dGhYLTdKOWNHWWR6MW5aeXFybE84dzlLX296YWtRdkZEVHFETlN6R2huUVQtbGtkelVCRG41VElWUjZNUjg5YTJhaXl2dzI5NUplQ2J2SFIyVlZWbnlQajZHcFk?oc=5",
-          "description": "“Nos jugaron en contra los nervios y la ansiedad”: Valverde tras 1-1 de Uruguay con Arabia &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-16T00:36:00+00:00",
-          "score": 2,
-          "score_reason": "Cita textual del jugador, centrada en análisis técnico-emocional",
-          "score_pct": 20
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "\"Me voy frustrado y enojado\": Valverde lamenta el empate de Uruguay ante Arabia Saudita",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObTZVaWh4V1Y2eURacldYYXhVYlQwalI3SUdXZDVlMkdPZU5qdUZMSENKYUFuT2lIMkdSVWlFeldLYUlzUlV5d21DUE9PenBLS3ZkVHpYT0ptRUJBbWlrU0phUnVSNTVpaWV2ZU5RSHdWSWZBdlMza3dVaEFjcmx3elowQnR0cXZlSy1nSWh3RURDVEN5c1hCckhtZEphM2ZoaWp0Sno3RDdncmdRVVJMMmdmb3PSAboBQVVfeXFMTmQyaldqaGtjMmZtV0dfU2ZEdFk5dVJJd1NtRDhsLWtZQ1pYVk9ST3VoZ1dvZ2ozekRfUVZWQmd1UWNaSC04aDAxOTlpRW9KU3ZCWnhWbE5GQ0VBMjlMTlpiMldBNnJrSkp3T0NhbWZ5UGYtaGlzd3ZCVnJ5RXg0TUgyb3lJMXBjRVVYbVFHWUVFQmpuT1l6WF9XR3JjQ0ZzcGZ6eFRiQWFJclBEOHJCTEQxZkkwZ1NZdjdn?oc=5",
-          "description": "\"Me voy frustrado y enojado\": Valverde lamenta el empate de Uruguay ante Arabia Saudita &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-16T00:44:00+00:00",
-          "score": 4,
-          "score_reason": "Enfatiza emociones negativas del jugador, tono más dramático",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "El futbolista Federico Valverde realizó declaraciones tras el empate 1-1 de la selección uruguaya de fútbol ante Arabia Saudita. El mediocampista expresó su frustración y enojo por el resultado del partido. Valverde señaló que factores como los nervios y la ansiedad afectaron el desempeño del equipo durante el encuentro. Las declaraciones fueron realizadas en la zona mixta o conferencia de prensa posterior al partido, donde el jugador analizó las causas del empate que impidió la victoria de Uruguay en este compromiso.",
-        "coincidencias": [
-          "Ambos recogen declaraciones textuales de Federico Valverde",
-          "Los dos mencionan el resultado de empate 1-1",
-          "Coinciden en destacar el malestar del jugador"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfoca en causas técnicas (nervios, ansiedad)",
-          "Subrayado prioriza las emociones personales (frustración, enojo)",
-          "Subrayado utiliza lenguaje más emotivo y personal"
-        ]
-      }
-    },
-    {
-      "id": "story_010",
-      "topic": "Ataque con explosivo a la Caja Militar",
+      "topic": "Moisés Martínez vuelve a prisión por decisión judicial",
       "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
@@ -578,13 +436,13 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "En video: el momento en que un hombre dejó el explosivo en el ataque a la Caja Militar",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMUpUb3lZcXM0Ul9SbUNGTFNHdjhaS0NuM3JNSXBsSVkyTWZ6ME56YzBNVGRrN3VRTWlMSWRfYmNxMGRLSUp4VW9Za3RYdVFHaDhVcklxb2pqczhWYm1zZ3dMNUV6U1NIcWlVNjZpaEh5a3piNXhyczB4bGFJSkFfSkNRREV2Q0dvd3ZtbHE3NWNUVHZ3MEV3T2w4VV9lWklYZ3RUX1FHN01kOFdQRUdPVXo4WktvdU5wQkpGckZDRHpkZ3VSZERTVVJzZXhPd9IB8gFBVV95cUxPalhVU1p3NlBTaHF0SGJpLXpNczh3UlZaOGxKX0lYT2M1M0xuUlJXdXQ3Qnl2Z3E5UlQ1dExzV2EtMWFlZmYzdXlzSXNsLW1xLTdaRjY3TVo2SDBuaUVlMWdrTXR5S3JEQzJVRzIyZmxlcWVMWHVXUzBxWnVrdUpCRFg2U1daTFNTRHBOQUtZeW5qajloa1c1Q2FscENsZTV5c2RWWTVhYWtaZi1uVFh5T3Z5ZEhjZGpiZmtMSlRhTFZLbFhPQS16MHJxYm91bHEwRFlVclBlX1B1alpPZXMxb1lGQlRtMGdxeUppdVJuTGZxZw?oc=5",
-          "description": "En video: el momento en que un hombre dejó el explosivo en el ataque a la Caja Militar &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-16T00:12:00+00:00",
-          "score": 3,
-          "score_reason": "Enfatiza el video y califica directamente como 'ataque'",
-          "score_pct": 30
+          "title": "Moisés Martínez volverá a prisión tras decisión del Tribunal de Apelaciones",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZWlNQU9wU1pENzFlcFRhMlZnMXR0aXoyTVBJREw0WFBXbDhSTzVZOUgwWWxpTmRQMDFycWlDYUloS1puM0xsUkt2elh0XzVNSFdacGxsOERxUEJjZFdLWlY0WWJVTVpMSW5SQTlIM0k2U04ybDFFd2ViaFBMS05JU0FZRUl2SmJKdEFvaV9QYm04TnljU2lkMEk0cDFxRXVtVlU0VVNMRlh1MXVPYkZmbGRsOHFkZGU3eTRaWFBBRmfSAeQBQVVfeXFMT3VIekV6Ui1keHVOTmg0ekQ2bElqTFlhbzZPaDVjWjlsa1Jqb2dRNUdnUzloMDhwQmVuMFpmcjZGbjZrc0Y3dnhHYWFBU1dCUXVGMWhzYm5TdUVJMWt4UzUzZnl3dGl3bWJPa3h5VjBhNDd0MDVVcTZDM0VfYmt6WF80MERrSlJrd2tDLWlPSV9XMWdnaW1PTWZlb1FhcUt0ZzVzWTJzUVF5NWJSdjZ6RG5DSlEtYy1jVmJ1NWpnMHliU0Y1YURUazFPaklTQkRkX0RYb2stWUVid0VmY2tRcEk0bjhF?oc=5",
+          "description": "Moisés Martínez volverá a prisión tras decisión del Tribunal de Apelaciones &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-16T19:00:00+00:00",
+          "score": 1,
+          "score_reason": "Titular directo y factual sin adjetivos ni carga emocional",
+          "score_pct": 10
         },
         {
           "source_id": "subrayado",
@@ -593,26 +451,77 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Atentado con explosivo en la Caja Militar: un hombre llegó caminando, dejó el artefacto y se fue a pie",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQVkyREVCSDc4OTFJYlFqbzFzZHAza2V2TGp0UG80anpJWVEzX1ZCblBYdnVqdUg3b1FoT0hlQlh6Wk4yWk5TZjdlTTBhWWl1c3E5ZnNST0RmbUw2N1NaU1pMS1JNQ3FpWFV6aGJTN2dxYkdFaE02V0Fpc19INmxpdFp1aGZTUXpncWc0d0lTV1NzeV9TeS1HVzhWTGJINjNDNU8zTGo1djRWQjVfV21kd2tsenBCcmMwdmlwX2toa0RlVnVXRHE2dNIBzgFBVV95cUxONENQRWNtdl9xbzlGNE5ILXRrOXZEdzFFMzZObG0zZ3E1R3NTME9McUlRRHRoRXZLdkNjUk9kQ0JWSjFMNlVyVWNobkxwS0lQM3ZYWlRoUW1TZUcxZEU1SDRiMHpkTk04QnVGTTlrS2ZpMkxXTFB3am8yLWpkMlZMcEtaVl8tTTN5Y2w5TVMxcFc3SXJEbDNlb3VrV2N4M2J1VU9FMlU4Z285REpOMTFRanpNWmlPMzZTalhCNllxWV9ZYkZDTy1qWWctUWc5Zw?oc=5",
-          "description": "Atentado con explosivo en la Caja Militar: un hombre llegó caminando, dejó el artefacto y se fue a pie &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-15T10:34:00+00:00",
+          "title": "Tribunal de Apelaciones revocó el arresto domiciliario total a Moisés Martínez y dispuso que vuelva a prisión",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWm5VZGlqVU50blo3X1NNSHhOX2Z1U1UydkQwVTFIZm1EZG9tZE5vMmFlYU4tZG9wSEpETTJCeFFlRDl1Y3NpN25DMW9oc1ppNWZXdzBWaFlyWFJPNWFtejBUaXZDMm4yZEU1R2t4YjlBTXVGWWNqekxQSzU3RDlMOTBDejVLYlFDV1RtdEt6Ym5pZERuem5MS3lPLTBlZnZvYmZ4aXFuaFdNZDJTT2dTNHFNRWo0QkdTODFidVI1OW9oYWhINDlFT1FhWnUwMU8zUFZVa3pBZ9IB3AFBVV95cUxOX2Z3Zjd1bEo4T0FYRmFtNmpkcXpRa05hcHJMRkliNFRvVmN1dXdhQnBaV2NBS1EyQk1KRnk2N2UwTkVvRk9mWnpZcmVZMGhpN2R6dG12WmV6RFUzeFRSMmtqWDc5M2ItMzR2eVp0NjZEMEpSbHB0b3Z4cnZNNWljVXp0UkxkbjhaQ2VUeGJqb0dlLS1UMTJkVVZQLWtxSzVlNS03NGpBREcwUE03RnlaTXRtenV4N0tzeUtGVzg2dDZBbGdKenlBM003QzJGVWI4TUZnYWYxME5IMXRD?oc=5",
+          "description": "Tribunal de Apelaciones revocó el arresto domiciliario total a Moisés Martínez y dispuso que vuelva a prisión &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-16T18:34:00+00:00",
+          "score": 1,
+          "score_reason": "Informativo y preciso, detalla la medida sin sesgo evidente",
+          "score_pct": 10
+        }
+      ],
+      "analysis": {
+        "resumen": "El Tribunal de Apelaciones resolvió revocar el arresto domiciliario total que tenía Moisés Martínez y dispuso su retorno a prisión. La decisión fue adoptada por el tribunal de segunda instancia, modificando la medida cautelar que le permitía cumplir su detención en su domicilio. Martínez deberá volver al establecimiento carcelario para continuar su encierro. La resolución del Tribunal de Apelaciones representa un cambio en las condiciones de su detención, pasando del régimen domiciliario al régimen de reclusión en un centro penitenciario.",
+        "coincidencias": [
+          "Moisés Martínez volverá a prisión",
+          "La decisión fue del Tribunal de Apelaciones",
+          "Se revocó el arresto domiciliario total"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza el retorno a prisión en primer lugar",
+          "Subrayado destaca primero la revocación del arresto domiciliario",
+          "Subrayado proporciona más detalle sobre la naturaleza de la medida revocada"
+        ]
+      }
+    },
+    {
+      "id": "story_010",
+      "topic": "Uruguayo detenido en banda para robar bancos argentinos",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Uruguayo \"experto en perforaciones\" detenido en Buenos Aires junto a banda que pretendía robar dos bancos",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcUdYalJxT2hVVHM2QVVqSzJDTUo4T2NhUkZEdF9yQzRYUkMzeEFLRjhfS055V2prcjR0aVNJODhuXzhuZUlJclNjZTlOY2xXQmlpUktLdTdKaTRIZ3lzal83bmVHdjRHcTJ2RTF2a2Q0SWk4T0NvQUEwTlFXa0w4VXliTEd6WmVjSFJOX2MweTMxai1ISWhkbFdUZWtpaUFKVnBlRVRXMDcxOUZoRDdFOEFzY05TOUNsYldWcHBjZXJMdVQ2eUlEVkpQb0dwQdIB0wFBVV95cUxPUmpfOVp5UzJzcW9QaFZ2TXhBWW9HZWNmbEtFSHdxTjFoSVljSTh2b184S2NFRk9HV0JQMlNKUEptVVFpQ0Qzd1hSbUZzZ1VuOVdoRUl1LWFWWFRKT0I5WWQ2UFlMZVRDWTlKZWozOVNhMWJzc3JfZ2xQSGYyU1dsOUFTQ0UtTzM0VFJqbXhuRms5UkRNM25pT2VXc0hoZVRWYkU5d2VKNEJWdlNkMWh3VVJpMnYtMUxzY2VPM3ZIZ1p5cm9KY1FXUUJsLVBBcktjQTc4?oc=5",
+          "description": "Uruguayo \"experto en perforaciones\" detenido en Buenos Aires junto a banda que pretendía robar dos bancos &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-16T17:20:00+00:00",
+          "score": 3,
+          "score_reason": "Comillas en \"experto en perforaciones\" atenúan pero describen técnicamente",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Boquetero” uruguayo integraba banda que planeaba robar dos bancos en Argentina: quién es",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaDhDNkZwMmxZY09oUVRwMXV0ZjhETnVWNWxYWldPeHZRaFBnaE95NF8zaVdWUS12RWdaWVV4ZVNqUm5aUVBJejFsMlByNm5jb3g3ZmZfX09TOGpMNnM3NDk3TGl3c2RkV0t3aVJLLUI3SVFzblo3b2NTTWUyakNzdk03MEg2Zl94RDY0ZEtoSVhaWE9hVldoLVBCYkdrWkNwRlc2amNsWHUxWHF5VDgxY0VDM3lFTVJ2eVNBZXhxNGNJM0QxOHNWMUdSSTJKTXFT0gH0AUFVX3lxTE5PSzNpbnowMmhoRGtJYnNNWFFVeDlhek0yblN3bGo5aXdCTWM4WVNJajU3bURWcnRIZEhpYXc4RnpsekFXa2Nsd3BaS01CQWlEdHRvWnlOTEN0SlFlOGxjRURsQU5kTTlOTFJILVM3bER5QmJUYl8tZ0dJMDFSUERPR29WU1hTNURjVzlKRUJ1al9YZ0U1QlZEZHF4NURhZjAwM3pwOVlWSDlVTEV6NXhwa0RnNTFCWHhISm05eTc5aEgwRHM3Y1M2WWNGaGQzQ3VFQmdOQ21qbUlhdEtXWHpjY0VxNzBGMHgxeDFtUnY4YVU4ZC0?oc=5",
+          "description": "“Boquetero” uruguayo integraba banda que planeaba robar dos bancos en Argentina: quién es &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-16T13:40:00+00:00",
           "score": 4,
-          "score_reason": "Usa 'atentado' y detalla la metodología del hecho",
+          "score_reason": "Uso de comillas en \"boquetero\" sugiere jerga policial popular",
           "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "Un hombre dejó un artefacto explosivo en las instalaciones de la Caja Militar en Uruguay. Las imágenes de las cámaras de seguridad muestran al individuo llegando a pie al lugar, depositando el explosivo y retirándose caminando. El hecho fue registrado en video y difundido por distintos medios de comunicación. Hasta el momento no se reportaron víctimas ni detenidos. Las autoridades investigan el incidente que fue catalogado como un atentado contra la institución militar.",
+        "resumen": "Las autoridades argentinas detuvieron en Buenos Aires a un ciudadano uruguayo junto a otros integrantes de una banda que planeaba asaltar dos entidades bancarias. El uruguayo habría sido identificado como especialista en perforaciones, método conocido como \"boquete\" para ingresar a los bancos. El grupo fue capturado antes de concretar los robos planeados. La operación policial desbarató la organización criminal que estaba en etapa de planificación de los asaltos. Las fuentes policiales confirmaron la detención y la nacionalidad uruguaya de uno de los detenidos, quien aportaría su expertise técnico para la ejecución de los robos mediante perforación de paredes o bóvedas.",
         "coincidencias": [
-          "Un hombre dejó un explosivo en la Caja Militar",
-          "El individuo se movilizó a pie hacia y desde el lugar",
-          "El hecho fue registrado en video por cámaras de seguridad"
+          "Un ciudadano uruguayo fue detenido en Buenos Aires",
+          "Formaba parte de una banda que planeaba robar dos bancos",
+          "Su especialidad era realizar perforaciones o boquetes"
         ],
         "diferencias": [
-          "Montevideo Portal destaca la disponibilidad del video en el titular",
-          "Subrayado califica explícitamente el hecho como 'atentado' desde el título",
-          "Subrayado ofrece más detalles sobre la secuencia de acciones del individuo"
+          "Montevideo Portal enfatiza el término popular 'boquetero' y pregunta quién es",
+          "Subrayado usa lenguaje más técnico con 'experto en perforaciones'",
+          "Montevideo Portal centra en la identidad, Subrayado en la operación policial"
         ]
       }
     }
