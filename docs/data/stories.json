@@ -1,527 +1,105 @@
 {
-  "generated_at": "2026-06-17T13:46:41.821978",
+  "generated_at": "2026-06-18T12:57:48.995092",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Uruguay empató 1-1 con Arabia Saudita en Mundial",
+      "topic": "Camiseta uruguaya elegida mejor del Mundial 2026",
       "category": "Deportes",
-      "sources_count": 3,
+      "sources_count": 2,
       "headlines": [
         {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Uruguay empató 1-1 en el debut mundialista ante Arabia Saudita | Noticias | Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0s4LVROdTIxNTBXcDJ2MThfcGFKUFRaMkFHdjBRaWJLbVBFV0NsSkxXM0VPZS13T3pHUkdxTl9qSXBPLTJEMTdSd3ZjQ0dxb3JMTkdYVm1nSXJuQmlsZlBLa0ZieUt6SWNaSVBaOHlDX3B6Ul9IV040czVnLUp0NFIySkFZUW54LXVRSlIzY2RzeEM0NG1MR3haYm0zV2Q0cTllSkJTbUV1dw?oc=5",
-          "description": "Uruguay empató 1-1 en el debut mundialista ante Arabia Saudita | Noticias | Mundial 2026 &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-06-16T15:01:42+00:00",
-          "score": 1,
-          "score_reason": "Titular puramente informativo sin adjetivos ni valoraciones emocionales",
-          "score_pct": 10
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "La Celeste fue elegida como mejor camiseta del Mundial 2026: ranking de las 11 destacadas",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPclVsN1k3MUw1eExqOWxGeGxzRWlOalk0VEw5TEdHZllwLUxrVEVRdFk5VVZYdDdROGZFSWJJcktvU1lxSmphcmEwVmJacFdFenB0a2p2SXR4cW9kckpwcFZQMlJBQ3JvV0hSdk90Q2lZUnRqdEFJanZpaEU3eEE4aHliN1RzMVBROWlWZm9sTVoyUXZjWHlhNDJHOFNUOWI0dmMyYll3TXVBWVc5aVlNTXlMSGZmbWZ0c1FGSHZfckx6LTJqbDYyQ3AyaDhtV3RTM2fSAfYBQVVfeXFMUGVCNnJrUWdPODcxMXdZTWdYV0w0N1hvZHB2MkF0Nk5EUVlYanExRU0zWi1zWWN5aXBvVFRhQ0p4X1owMW9Jb0FWdy1YVklEMk1TRnNqUTQ1Z2Fkb0hPcnhjdVZGdWVNQkRuVDNrSm5Pbjc3di1uWEw5OFBxMUhkQlQ2ZDF0NjJmRHRDcGZOUHlkb1pzUjhOb19XYVZTOUxldTBVUHUwZHVyZk5rTThVNS0xTW9xdmVHOGRiWF96bkx2LWw0Nzd5ZHB5ZFpFdXh1anI1MFc0N0c5cmRXRjA1Qkk2Szl2OTlKOVRReHZmamdXNmw4M1FB?oc=5",
+          "description": "La Celeste fue elegida como mejor camiseta del Mundial 2026: ranking de las 11 destacadas &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-17T13:41:00+00:00",
+          "score": 2,
+          "score_reason": "Presenta información neutral y agrega contexto del ranking",
+          "score_pct": 20
         },
         {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "La sorpresiva elección de FIFA de mejor jugador del partido en el empate entre Uruguay y Arabia Saudita",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNXVvYzduczlxeTdmNmpLdXRVWDJnRE9YX1BucnRJem5SeUNmSWN4MUU4aWV4clBVU0hCOS0tOTkzdUxqTm5xZlA1UEhRZjFmOU94c0NHbWwxaW9CMW92QVoyWEd3WG9zRE9xSVIwZnpoQmN4SFRMXy1LZmJycHRCbkhFRUdyaE5EZG1nbmo0MmRjUlRkTWs3VVR5RUJlS0M4bk4yOGZ6a0g5elVkV0NJZ1ZQaG5DbFNWclRFdGZsVU5PbUNENGRLOExySGhVZVlsMTIwdjQwYUM5d9IB3wFBVV95cUxQdTF5UHlReEx4M1FKWjhRSFV2a2tEODNHZlI1UUhXNkozN1EtSkNxWGM0OFA5YjZjcGZzMDJuNUg5MFZVSnU3VXVkZ2F3ci1YZHYzU1owbk5VVjBYNmJCczNCS1FENUl0NDRWc01UTVk4ZWFSemhyNWZaXzM0ZkZmaUJjeGtGV2ZzcEs4alFUUno0UFA2S1RCSUxCMEtWdHpPWFJrU0piQzN6WC04VHpKdV9ISENmWFBDaTMxY0NDVHNGZ0pwZ2JUZ2pIeDFJRVc2NnJnYV9WZm1xX2xIUUM0?oc=5",
-          "description": "La sorpresiva elección de FIFA de mejor jugador del partido en el empate entre Uruguay y Arabia Saudita &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-16T01:58:00+00:00",
-          "score": 3,
-          "score_reason": "Usa 'sorpresiva' generando expectativa sobre una decisión polémica de FIFA",
-          "score_pct": 30
-        },
-        {
-          "source_id": "ladiaria",
-          "source_name": "La Diaria",
-          "source_short": "LD",
-          "source_color": "#1B5E20",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://ladiaria.com.uy",
-          "title": "¡Qué faltó, Uruguay!: 1-1 con Arabia Saudita",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeFNoeE5LeFBhQzZBODd4OHVkeFd3YXQ5QWNRVk11Y0w1VE4tbHZ4SlNOeGhzb0NleGhuR3BDWHc5b0pqMUhpakF3WGZlMDctdUdySHN1NGxSNWxFSFZ0ZGwtQ3VjbVRpdHVRNnRuaUJyZnFFcEVoVjhqNzN4NGJrNHJITlhRTUJnbjd3OXExMWgzTzg?oc=5",
-          "description": "¡Qué faltó, Uruguay!: 1-1 con Arabia Saudita &nbsp;&nbsp; ladiaria.com.uy",
-          "pub_date": "2026-06-16T03:45:46+00:00",
-          "score": 5,
-          "score_reason": "Expresión emocional '¡Qué faltó!' muestra frustración y toma posición editorial",
-          "score_pct": 50
+          "source_url": "https://www.elpais.com.uy",
+          "title": "La camiseta celeste de Uruguay fue elegida la mejor del Mundial 2026 por un prestigioso medio estadounidense",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWNNR1FTNWp3N2llZ3BXR045LXJLU3NhOENPZElJeWVEU1AzRFpXelZ1OVk5MkU3UHF4N2VOb1ZjTk8zeVJZZDdUUTBrQnIzbXlyMkdjMWpQTTdvSEhGMWJYcC1VVzJwcE5pY0JHOURlSlRwamJGbTF3Mm0wMTFLZFI1ZFlVNGpNOVhVbU5OQXdhLVo2eVZLV3FMOThxbTJNYXZtelB4Sk5TUDAzWU9pOXNib3hkLXlGNU9zWGR2MlEwSU5yYldPaGZ5T0VOQlpIYVMzeTh5bnc3c21VVmdCMWswcDY?oc=5",
+          "description": "La camiseta celeste de Uruguay fue elegida la mejor del Mundial 2026 por un prestigioso medio estadounidense &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-17T16:43:25+00:00",
+          "score": 4,
+          "score_reason": "Califica al medio como prestigioso sin verificar credenciales",
+          "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "La selección uruguaya de fútbol empató 1-1 con Arabia Saudita en su debut en el Mundial 2026. El partido se disputó como parte de la primera fecha de la fase de grupos del torneo. El resultado dejó al equipo uruguayo con un punto en su primer compromiso mundialista. FIFA designó un jugador del partido como mejor de la cancha. El encuentro generó análisis sobre el desempeño de Uruguay, que no logró concretar la victoria pese a las oportunidades generadas durante los noventa minutos.",
+        "resumen": "Un medio estadounidense seleccionó la camiseta celeste de la selección uruguaya de fútbol como la mejor entre las que se usarán en el Mundial 2026. La publicación realizó un ranking con 11 camisetas destacadas del torneo. Uruguay quedó en primer lugar de esta clasificación elaborada por el medio norteamericano. La Copa Mundial 2026 se disputará en Estados Unidos, Canadá y México. No se especificó en los titulares qué medio estadounidense realizó la selección ni los criterios utilizados para la evaluación de los uniformes.",
         "coincidencias": [
-          "Los tres medios reportan el empate 1-1",
-          "Todos mencionan que fue el debut de Uruguay en el Mundial",
-          "Coinciden en que el rival fue Arabia Saudita"
+          "La camiseta celeste de Uruguay fue elegida la mejor",
+          "Se trata de una selección para el Mundial 2026",
+          "La elección fue realizada por un medio estadounidense"
         ],
         "diferencias": [
-          "El Observador enfoca en la elección del mejor jugador por FIFA",
-          "La Diaria se centra en la frustración por el resultado uruguayo",
-          "El Espectador presenta solo el resultado sin análisis ni ángulo particular"
+          "El País enfatiza el prestigio del medio estadounidense que hizo la selección",
+          "Montevideo Portal incluye información sobre el ranking completo de 11 camisetas",
+          "El País centra el titular solo en Uruguay, Montevideo Portal menciona el contexto del ranking"
         ]
       }
     },
     {
       "id": "story_002",
-      "topic": "Declaraciones de Bielsa tras debut mundialista uruguayo",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Marcelo Bielsa tras el debut de Uruguay en el Mundial 2026: \"Nosotros este partido teníamos que ganarlo\"",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUG5PV2pwV0o0ZzBvck1nTUtYbk9EbDM0ZWFFbVVFZkdEZXV3UnR3UElyRzdaRjdnQUJOUmZXLXNoOVowdUFnTW5scDBuWWpubjd1SWVzcHVwcm9vOWRzYjJyUFk4SjJ5VWNPd0ZweUx3R2FNVFBNMVhReG45WURpWFdrcEtqemJyM3NUYzJnb1V0UVFDeHZyRm5tZTI4T3JjXzJYR0dPS1hWRHRySDl2ang2Z2hrSmI4MHZKeTQwRk1uQlI0TURCOVhrbUJxYkdLUG1qZzF2cFhmeTQ?oc=5",
-          "description": "Marcelo Bielsa tras el debut de Uruguay en el Mundial 2026: \"Nosotros este partido teníamos que ganarlo\" &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-16T01:46:31+00:00",
-          "score": 1,
-          "score_reason": "Titular objetivo centrado en cita textual del entrenador",
-          "score_pct": 10
-        },
-        {
-          "source_id": "ladiaria",
-          "source_name": "La Diaria",
-          "source_short": "LD",
-          "source_color": "#1B5E20",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://ladiaria.com.uy",
-          "title": "Marcelo Bielsa en conferencia: Uruguay debió ganar y la molestia por las críticas en la foto oficial",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXM0TjB1Ulc0aHJ1bWw2Z19jQmd6WmMzWVQ4ZEZ2WTVpMVN0WGJWeENuNnBJdnlySldOd05iVnNPS2ZpamhoV2ZCSzhoemNScXJKMGhFRnE3UEZVMmhvekU0QURkWHZnOXV6NTZnNGNZMGtoeDVTaGZ3elRTMjhfTk1CUkxRY0hIMnU4UEJybGg5OVp3aUNITHV4QnRIVmZzSjhCZ2xGdHjSAbgBQVVfeXFMTW1Tcm5RY0w5NDFsZUdLeGJUZEYyWGthLVFXeGdweEpqTFdjekhDSWJPb0U1WFNrX2toZEg0R0JDaUNFSUdERUNlR3VlQkVhUzdzTHZWbEk4MlhIZzdRWEJ4bDBRNERFdVE2S1ozQTM4VDBjV2ktUVAxbDEwczdNVWptVnZ0anUzMVZqU3A4c3ZKNUhLSkVRY3pYRmVjTG44TkQ1cDM4U2phLVFmcFFvdWRDTEw3cXVxaQ?oc=5",
-          "description": "Marcelo Bielsa en conferencia: Uruguay debió ganar y la molestia por las críticas en la foto oficial &nbsp;&nbsp; ladiaria.com.uy",
-          "pub_date": "2026-06-16T01:53:21+00:00",
-          "score": 2,
-          "score_reason": "Informativo pero añade elemento de molestia por críticas",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "El entrenador de la selección uruguaya de fútbol, Marcelo Bielsa, realizó declaraciones en conferencia de prensa tras el partido de debut de Uruguay en el Mundial 2026. Bielsa afirmó que el equipo debía haber ganado el encuentro. Durante la conferencia, el técnico argentino también expresó su molestia respecto a críticas recibidas por la foto oficial del plantel. Las declaraciones se produjeron en el contexto del primer partido de Uruguay en la fase de grupos del torneo mundial.",
-        "coincidencias": [
-          "Bielsa declaró que Uruguay debía ganar el partido",
-          "Las declaraciones se realizaron en conferencia de prensa",
-          "Se trata del debut de Uruguay en el Mundial 2026"
-        ],
-        "diferencias": [
-          "El País enfoca exclusivamente en la evaluación del partido jugado",
-          "La Diaria incorpora el tema de las críticas a la foto oficial",
-          "La Diaria resalta la molestia de Bielsa como elemento noticioso"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Gol de Maxi Araújo en debut mundialista uruguayo",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Maxi Araújo tras el empate de Uruguay: “Costó el primer tiempo, pero luego nos asentamos y merecimos más”",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcTVIejNIOVB1RGotRTRBLXdfcF9BWmdwQTB1SGpYZEwyYU1yaWhpUExhRnY4d0ZmdGtlZ0RHenhrT1ljRnJfZW1PZzZyTTc1ak1YU3pYLXp4a0haM0tOQnlFRUpWQzRibGZrTW5KOEh4WEJ1NHpUZjJ0STRxLWRpNjVxNkpqMlBkbHpfWmROZEhJbU0zalRxcWVRZFlLel93YjlMNGlDSzVkblk5NmpaaDV2Zl9lQnFfNEhRQ01jcWdWNFh5RlBPa2YwYUpUWXc3clVpSU1sb3FQZG8?oc=5",
-          "description": "Maxi Araújo tras el empate de Uruguay: “Costó el primer tiempo, pero luego nos asentamos y merecimos más” &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-16T04:43:32+00:00",
-          "score": 2,
-          "score_reason": "Reproduce declaraciones textuales del jugador sin valoraciones adicionales",
-          "score_pct": 20
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "La historia de Maximiliano Araújo, autor del primer gol de Uruguay en el Mundial 2026: la humildad de su infancia, la ayuda de Wanderers y un gesto que conmovió a Fabián Coito y al Maestro Tabárez",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNbHZRb1g5OWRRTzhnZkZsS1V6bS1QUEhhdWhIbEFZd2J4aTlqcmk1ajlsS1U3emwzZ3Bqejh2WldVNUdYMGswTkFWUEs1c1hGU0tXdVFkcUV3bWZVOElZTXRsOTdSbVl2TE9adm9sRVRMWGZQdTFzTW8weG9pS2Z2X1diR1JDbi1wS09FSFJpbDc4NUZ2NDcweEw1NDk0czNUQVVTOXVQdWh4cUZ1V1RqZWpPdHBUTXROOGtGcTNJTjIxaWoyeV9GdWF0U2o3djVfcXFxVHVJYVRqSm5reUNqLTV5OHpBQWJ6V2RxZW5vTk5ZYll2anY4T3dCc09Ba1I1aVZqRFJuTVYyeHJGeU91cW14b0ZvNUdFR3fSAZ8CQVVfeXFMTzE3Q3NsNkVyOWxQNHpKMFlFQ1FJbkpaRW9pUEdEeXFPWHFnbmE3VGw2TXF5QlJWR29hNHlNZlNQZHNYcFNZWmVxZFZXVkJCZ1BGR2hVUlhCQ25kajJnX1RvRTZlQkt1Vm5DZ2JfYlU1ZldaTlZsT1hwa0FFUEVEZFZLVExYVnpwWm5hUkFpa1M4ZnBCNEZRUTFfS2tBMkkyQVhCcEtZcXNpb0FPdnhXX2J5VnhYeDZYd3FtclF3UTZiWEtiT0ZWaWhvWmJxVklZUjZBSjJnTDdSNndXLWlOZDUtODY2aW9FSkFuT1QyRUN5czMybUFjN1M1LUN1Y0V0X0pQLWV3ajQwRGk5eUhDOUtVUElKalZ1cGhQYjBDemc?oc=5",
-          "description": "La historia de Maximiliano Araújo, autor del primer gol de Uruguay en el Mundial 2026: la humildad de su infancia, la ayuda de Wanderers y un gesto que conmovió a Fabián Coito y al Maestro Tabárez &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-16T22:16:00+00:00",
-          "score": 4,
-          "score_reason": "Enfatiza aspectos emotivos: humildad, ayuda, gesto que conmovió",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "La selección uruguaya empató en su primer partido de las Eliminatorias Sudamericanas rumbo al Mundial 2026. Maximiliano Araújo convirtió el gol de Uruguay en el encuentro. Tras el partido, el jugador declaró a la prensa que el equipo tuvo dificultades en el primer tiempo pero mejoró su rendimiento en la segunda mitad. Araújo expresó que el equipo mereció un mejor resultado. El futbolista tiene una trayectoria vinculada al club Wanderers y pasó por las divisiones juveniles de la selección uruguaya bajo la dirección de Fabián Coito y Óscar Washington Tabárez.",
-        "coincidencias": [
-          "Maximiliano Araújo convirtió un gol para Uruguay",
-          "El partido terminó en empate",
-          "Araújo tiene vínculo con Wanderers y con Coito y Tabárez"
-        ],
-        "diferencias": [
-          "El País se centra en las declaraciones post-partido del jugador",
-          "El Observador enfatiza la historia personal y trayectoria de Araújo",
-          "El País aborda lo deportivo inmediato, El Observador lo contextual biográfico"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Titulares sin relación entre sí",
-      "category": "Otro",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "El tiempo de hoy en Uruguay: el pronóstico de Inumet de este martes 16 de junio y los próximos días",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOHN3S2NEQTlGbVliY2YyM2djdEU4NDlTZjVDTmxxcy1TQnlfemJ2TWZ5bDFjSXo4TWFZT2kwQUxaU1BuUGF2Wl9rdVhOR2ZGWTg4WTJVcWxZcHF6MF95cFlkTW1hRjJraWp4cnN1cGJwUU8wdndwek9BMFdmcUJsYXoxU0RCZER6RTZuU1VNeFFVWW1qNUFkbWoxaExBT2hWVmhQUkNCemFvamN3UXVmRXpNY2xPSi1yYVBMZ2FlRXNNMEoyQkpXczVudXVwcnlLTlZkcDNKVldHaktkOVVZdF92WTNhdDlG?oc=5",
-          "description": "El tiempo de hoy en Uruguay: el pronóstico de Inumet de este martes 16 de junio y los próximos días &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-16T11:27:03+00:00",
-          "score": 0,
-          "score_reason": "Título descriptivo y neutro sobre pronóstico meteorológico oficial",
-          "score_pct": 0
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Uruguay en el Mundial 2026: cuándo vuelve a jugar la Celeste",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObEdPVmx5SFRCUHBTTUZRT1k1TF9fQV93M2drZm15bXV4NmZLTTRIaEZxS3hmeElMRDJNV0ZzNXdIcGZBYXVJUDBMWTFDd3k2WTJ1U1EyVDg1dGJQZm43b2tRVVJuWkM0UlVaY0duTGQwVTBTb0F1UURqVnlnSEdGYWJadGEzbGhDSU43RG9vaFJHYkNMc3ptU3l2clY4Qm53S01rbGFkbw?oc=5",
-          "description": "Uruguay en el Mundial 2026: cuándo vuelve a jugar la Celeste &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-16T11:50:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo sobre calendario deportivo, uso de apodo común",
-          "score_pct": 10
-        }
-      ],
-      "analysis": {
-        "resumen": "Los titulares presentados corresponden a noticias completamente diferentes y no refieren a un mismo acontecimiento. El País publica información meteorológica del martes 16 de junio según el pronóstico del Instituto Uruguayo de Meteorología (Inumet). Por su parte, Búsqueda informa sobre el calendario de partidos de la selección uruguaya de fútbol en las eliminatorias para el Mundial 2026. No existe conexión temática entre ambas notas periodísticas, lo que impide realizar un análisis comparativo de cobertura sobre un mismo hecho noticioso.",
-        "coincidencias": [
-          "Ambos refieren a temas de interés general uruguayo",
-          "Utilizan formato de pregunta implícita respondida en la nota"
-        ],
-        "diferencias": [
-          "El País aborda información meteorológica, Búsqueda trata deportes",
-          "Temáticas completamente distintas sin punto de contacto",
-          "Diferentes secciones periodísticas: clima versus fútbol"
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "Polémica por posible infracción de Arabia Saudita ante Uruguay",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: ¿qué dijo la prensa internacional del 1-1 entre Uruguay y Arabia Saudita?",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVhNazRjWHJFci12RGpPNUlZWFRabmhpLWNBcmhyNG0xanhHeEphajBubFdzOUhScUMxcTBRTXZCSXZvOUVJQ0xpSmRKMTRKUXlobU5lX2NuQVhmWm5vNkpVNWVFNUM5RTJ0UHJQWjlrNHZOd3EyM0hmTkJmMlhSbjBQd0VBcm5Cd0tUMVlRdmRib000UnYxcjVHMVJldmtQR19MTUczT09nLTN4c09TQ251cVRKdHp5b1czQXB2bmw1YXBac1ZkVWFyaFBuc3PSAfMBQVVfeXFMTkZfRkF6XzE0TmZSQWpyUk5sNXh0N0lQUTVFR3RBNXJvRzZHZ2VjZ29lTkNsY0x2UE9aM2p3MVZjVU9FRm92LTZJNFZYdXJHSm9oMmpiM011MGFFcFd6UDZvZWtUTm56TnhyRjFjNGYxd21QQ0lheHJhWWhJQWNkTG1aTjdFNHR4cHRkR0JsM0VoT0JubnotaFRac0V5aGN0MFhuYTE3dGYxN0tnSzFjOU8tX3o2T2k2Rzh1MkNFdGE1anZSVzVpRlF3bWQ1SmY1R2VoM2xrTlcyU3dIc0UwTTBtNXhGRnc4SFgtb21MWW1RN0Qw?oc=5",
-          "description": "Mundial 2026: ¿qué dijo la prensa internacional del 1-1 entre Uruguay y Arabia Saudita? &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-16T17:04:00+00:00",
-          "score": 1,
-          "score_reason": "Titular descriptivo y neutral, enfocado en información internacional",
-          "score_pct": 10
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Fuerte polémica reglamentaria: alerta por una posible infracción táctica de Arabia Saudita ante Uruguay en el empate por el Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV0lIVXhUei0zdDR3LU1rQTFaTnVFbE91MWIzcHJnUE5TRnZ6MkhKR0tiWTRrVEM5RXZwMmpxalItSzBIRHFqT2E2OEFjMmRKazNNUTFJamRiNWpZTHZ5Q19zamEzUEstSzBmNmxQdm9kZ05sSFlpR1lRYTJQOFlnTW5aZkRVTXRJeWozQ2dOWWdHZVRLcG8zbU1mRXpqeGhYRkg5bkdJQ3pzeG94RXFvVjFOODNuNEIzVjI4aE9udTFTM1RadlpGTnZhdUk0VUx3QXhWTWxIelNka0w0TU80LWRxSThTTi1Bc0dhZkh2dFQwWF9qaG9ZUl9SYzBDc1XSAYQCQVVfeXFMTm1qLV9XTThtMS12cXpOX3o0NGxoYUE2NFNQdGRKVndZWTEwY0FKejNBWlc0YnY2cTAxMmhSOHpULS1SNlcyOWhpS3BCcXNUalo4VWNINEtoLS1oWUtDOF9YNTFSQzRZeGNvWUItZGw2R2tqOUJUUEc5bEZaT1lWQVlJcmdZZHdPWXNCUE9KVDdGQjBMQnFOLWFfdHJEcDVnWk0tbzJwN0hWTDFhdlJSZjBMNW9CZDlEbWVROXpyQm03LVExcFF0bWZBZ1IxX25qWUtveGx6YW5YSERJc0dXdl9BTTBKaUFfTG11Q0xPc0d3TEN1M0RIRURNa3dLV2hfTUtBaHE?oc=5",
-          "description": "Fuerte polémica reglamentaria: alerta por una posible infracción táctica de Arabia Saudita ante Uruguay en el empate por el Mundial 2026 &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-16T17:08:00+00:00",
-          "score": 6,
-          "score_reason": "Uso de 'fuerte polémica' y 'alerta' genera tono alarmista",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "Uruguay empató 1-1 con Arabia Saudita en un partido válido por las eliminatorias para el Mundial 2026. Tras el encuentro surgió una polémica reglamentaria sobre una posible infracción táctica cometida por el equipo saudí durante el partido. El medio El Observador informó sobre alertas relacionadas con esta supuesta irregularidad en el comportamiento táctico del rival. Mientras tanto, diversos medios de prensa internacional cubrieron el resultado del partido y realizaron análisis sobre el desempeño de ambas selecciones en el empate.",
-        "coincidencias": [
-          "Ambos medios cubren el partido Uruguay-Arabia Saudita",
-          "Los dos informan sobre el resultado de 1-1",
-          "Ambos abordan aspectos posteriores al encuentro del Mundial 2026"
-        ],
-        "diferencias": [
-          "El Observador enfatiza una controversia reglamentaria, Montevideo Portal la cobertura mediática",
-          "El Observador adopta tono alarmista, Montevideo Portal mantiene neutralidad descriptiva",
-          "El Observador se centra en supuesta infracción, Montevideo Portal en análisis periodístico internacional"
-        ]
-      }
-    },
-    {
-      "id": "story_006",
-      "topic": "Caída de compras web al exterior tras cambio de franquicia",
-      "category": "Economía",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Compras web al exterior cayeron 39% en mayo y las franquicias 43% con respecto a igual mes de 2025",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX253ZnlsSzNfNWpPMWxtdXNmNlhNM25Yc2plOE1NcmdSRzNDY2w1VXBqMHhiaEFCRkdyYmo1aE16aDgyVWdJUk9OMWpXS3NWVDJzcFhkSHlOaVdyR2JOTEszazA4V3dMeXJ0SkQzeU5fNzJDU19yd0dNc3FYQ0FXb010ajBLdmhPNVRiRHVud1ktbFpha0ZfR0JIWXlJT3hVMkRWWkREQXlMaVRVUnQxcjUwWHBNOWFpTlVleDdvRdIBxAFBVV95cUxNSmtIM1JOR2VEYVZqUDliMnF2cEtsX09FQXBRYzNIdW10c05zWHZDMHJQNko3Nm5zdkFiOHVJQm9EWVAzaktGRWVBblZOb2UxTHl2YlMtX2NyQTRPM0IwOHlWRVlSRm5DOVFVTHBTb2psRWpxZzZzblFtVXA3TEhIZ0oxUGpPd2lxbmZUSW5ER2lPUWotVmhMWjZ4Zi1PallqY20zQ1BXbV9QeGNVY2IzRHloU2Zmc0VTZFQ4eU9rMTdtZFBV?oc=5",
-          "description": "Compras web al exterior cayeron 39% en mayo y las franquicias 43% con respecto a igual mes de 2025 &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-16T18:01:00+00:00",
-          "score": 2,
-          "score_reason": "Presenta datos objetivos con porcentajes específicos, más neutral",
-          "score_pct": 20
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Compras web en el exterior se desplomaron a menos de la mitad en el primer mes del cambio de la franquicia",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUU5aYUZRR3ZRTGxZRDZ2eXY4WEExSzJQbERjSXdUclJsaU93amhxbWdVR3pQTXdZRjhXZ2U1OTNvN3hhdld3a2hXOEZYSHRMTm9rV2FGLUl0VktMLWVkNVpfLWxNNlRfSW1JZkNwR1NfZ3RhTFFqa0hnVnZoWnA0N3RlWDhzVUwtMXR4YVdIMHVFdi1HTWFxRFF6dHRqMjZzWFlSN3dvWEJObkk5X2h4SmpSVjhMUWt2SV9xUUt4TmdhOHhGM1Y1NmdjaVUtcHM0TThENXFzeWxhTGF5LXgwQktfMjdncVl50gHuAUFVX3lxTE1lZGZRT0ZmZk50ZnpVUWM5S1J4SWNvTXBhVjNkMjcxUWNrWmdVR1lGZmZ3YnZlNnc0ZnBaNEZDeUkydFRBS0VXRjFYM1g5Z3hrT0NrbUtCRjZYRENvWUxOS1hkVVlPSEZYT3A5aGRqQlgta3hjRjNfVk14VF91VnN5azM2cXplZ2JhRjgtNWdmemtib1BYUW9RcjJKb0JINHU5V2ZSZFBVaW85U1ZyaUJkT2p6bC1maHJ4NEp2a2pQWEZlbEZNX3pTQlR2Qk1SZ0x2Y2VhSGpFeFI4M2lfakVuM19KX1c3ZW43VUJ5ZlE?oc=5",
-          "description": "Compras web en el exterior se desplomaron a menos de la mitad en el primer mes del cambio de la franquicia &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-16T08:00:00+00:00",
-          "score": 5,
-          "score_reason": "Uso de 'desplomaron' es lenguaje más dramático y alarmista",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "Las compras por internet realizadas desde Uruguay al exterior registraron una caída significativa en mayo, primer mes tras la modificación de la franquicia para compras web. Según los datos reportados, las compras totales cayeron entre 39% y menos de la mitad respecto a mayo de 2024. El uso de franquicias también disminuyó un 43% en comparación con el mismo período del año anterior. La reducción se registró después de que entrara en vigencia el cambio en el régimen de franquicias para compras en el exterior por internet, medida que modificó las condiciones para las compras internacionales online desde Uruguay.",
-        "coincidencias": [
-          "Las compras web al exterior cayeron significativamente en mayo",
-          "La caída ocurrió tras el cambio en la franquicia",
-          "Se compara con el mismo mes del año anterior"
-        ],
-        "diferencias": [
-          "El Observador usa lenguaje más dramático ('desplomaron') versus Subrayado más técnico ('cayeron')",
-          "Subrayado especifica porcentajes exactos (39% y 43%), El Observador usa 'menos de la mitad'",
-          "Subrayado menciona error tipográfico ('2025' en lugar de '2024')"
-        ]
-      }
-    },
-    {
-      "id": "story_007",
-      "topic": "Lema critica comparecencia de Lustemberg por caso anestesista",
+      "topic": "Fiscalía archiva denuncia contra fiscal Alicia Ghione",
       "category": "Política",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Caso de la anestesista condenada por mala praxis: Lema tildó de \"decepcionante\" comparecencia de Lustemberg en el Parlamento",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRnVoSGVpWUk1RUdLbklwT29KRU5zV19kLTNhTHkxamNmN195dUtFRTJpdURRbUZUcEdwdzdOQ3FmQ2dTSjlwZFFSSmluUUtEYzluVE1JWHNwNlFIWVE0dW5KRzkzWExsSUJQLVg4QlFnMWIzdk9YUHUtVUNXNUZVVGhJTjFiZXNqZUYzZ3gxVHM3MFB3Mlh3ckl4VURTcHh6RmUwNTFkeHE3aVJJWHlkTHZuRzFNYW13SjUzd1NCeUNaZnJFN3U0blVYZkxSM2p2MDBmMlM0N3QwMF9qRFNPR25ISjVPZ0g50gHuAUFVX3lxTE9SaDVHeHlxaGliVjVic25PeHJKTVNxVkF3RWRlTjI2TE5vYkNGdm1RcXZrTFJjamtFcHl3eXZVWnhEZEp1Q0FWVGFZS0VBeWFyaFhXeWxQemp0bVpBekVrbTNZZ2Rfc2NnbURaZVctUm5JSWdKa3VCVzBQT2ZIZUIwRDZGTmp2Mm1FZUZfUEV3Q1B0NVY5c0VnRkFOU3lyMWNvU0dmcmlFdWk5SnNNVzdsemZnVEgwY1VzNzVUbFBGQjc1YnNNSnJnTnJtWHNKYk9PLU5STkRXMi0yT2h4amJIQlRBdFRaWVpGRWFNNVE?oc=5",
-          "description": "Caso de la anestesista condenada por mala praxis: Lema tildó de \"decepcionante\" comparecencia de Lustemberg en el Parlamento &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-16T22:26:00+00:00",
-          "score": 3,
-          "score_reason": "Usa entrecomillado directo pero contextualiza con mala praxis destacada",
-          "score_pct": 30
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Lema: “hay una pérdida de confianza” en Lustemberg tras respuestas por caso de anestesista",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS19NZFhORWV4bzEzTWxFcmwzcnJ4ZW4xOHI1YTZveEVjelZQd2Vzb05tRWhWT0hoOVdyQmYyYmxFSnMxZ0RjU1ZDenJhTTZWclc1U09pekthTTJuNW5mS3paQnE4WW1Ka0pBVklWNWE5NmtwQVNkVWtMdEl2MV96Y25FOTlNY2NRVFYteC1SNjRxVnU3YUZuQjltdWoyZHplbEV2M1hYNXVhSzVicHZxTUtLcXR0WUlFOHZ6dWJIUWNFOUZPS1VBTC1zSHZZOXFnclHSAfYBQVVfeXFMTWNFLU1qS1ZHU1Q5REFwUV9fU0Z6QnJuWFV3NkFUY2FCZ09PeXFmT0JfSGJuNmp4VTdDa29aNGI1SGFUZ1ZfYV9EMzkyMTNWUmMzemxodmhnWVpzT2NjZUlZaElJc1dlZUZKZzAwdzY2RVIwTUVmeldQZjNxNWd1Njl4OEZfZGRpS3p2UGN1LVNGZjdLcHB6WG9HSjJGdl9uekpSX1JHWktmMng1ck81cy1KRno4TnRMZWxveVhRNWtIVldjVzNObUZlV3o5RG1IR3dleHdvZ0hBWDVhNUxQNUdtSkN0dklRa1NsYk5MS2dZMnJhOExR?oc=5",
-          "description": "Lema: “hay una pérdida de confianza” en Lustemberg tras respuestas por caso de anestesista &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-16T23:55:00+00:00",
-          "score": 4,
-          "score_reason": "Enfatiza pérdida de confianza, término más grave políticamente",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "El senador Jorge Lema calificó de \"decepcionante\" la comparecencia del ministro de Salud Pública, Alejandro Lustemberg, ante el Parlamento en relación al caso de una anestesista condenada por mala praxis. Lema manifestó que existe \"una pérdida de confianza\" en el ministro tras las respuestas brindadas sobre el caso. La comparecencia se realizó en el marco de la investigación parlamentaria sobre una anestesista que fue condenada judicialmente por negligencia médica. El legislador cuestionó las explicaciones ofrecidas por la cartera de Salud respecto a la supervisión y controles del sistema sanitario en este caso.",
-        "coincidencias": [
-          "Jorge Lema criticó la comparecencia del ministro Lustemberg",
-          "Las declaraciones se refieren al caso de la anestesista condenada",
-          "Lema expresó su valoración negativa sobre las respuestas ministeriales"
-        ],
-        "diferencias": [
-          "El Observador destaca que la comparecencia fue \"decepcionante\"",
-          "Montevideo Portal enfatiza la \"pérdida de confianza\" en el ministro",
-          "El Observador menciona explícitamente mala praxis en el titular"
-        ]
-      }
-    },
-    {
-      "id": "story_008",
-      "topic": "Delpiazzo elaboró informe contra contrato de Cardama",
-      "category": "Política",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Delpiazzo dice que nunca aprobó la garantía de Eurocommerce que presentó Cardama e insistió en sus “desprolijidades”",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLV9nbC1UMU5qMFhVRnk0Y1FOcVZKdjlPa0hVbkZoOW9ZSktpcVRkODhtTkRCTmpWa3V0UHBGYjZZcUh0aWV1UktkcGROQXgwX3p1TjFWNXJuOHVGMHZyb21JbHdmSzd4eUVBR2VkSWUyUkZwRGIyZTFpQ1FJNGdwbXNvOVItbmdZV1k2QWJmVUtCTEZJNldObzNnNzAtS29GRkpFS2RBRFJBMUo5QzJWb2VMcXVPTzhOZXBtaVhlQ3hiMXQ5MEYxQ0o5QmlGbkdlOXFoMGZQektrLUlZLWRiM1N4eHJkYTlpN3c?oc=5",
-          "description": "Delpiazzo dice que nunca aprobó la garantía de Eurocommerce que presentó Cardama e insistió en sus “desprolijidades” &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-06-16T23:10:00+00:00",
-          "score": 3,
-          "score_reason": "Enfatiza desprolijidades entre comillas, lenguaje más técnico y directo",
-          "score_pct": 30
-        },
-        {
-          "source_id": "ladiaria",
-          "source_name": "La Diaria",
-          "source_short": "LD",
-          "source_color": "#1B5E20",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://ladiaria.com.uy",
-          "title": "Caso Cardama: mientras se buscaban garantías, el estudio Delpiazzo elaboró un informe “sugiriendo dejar sin efecto” el contrato",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQmxRdWtGRmtNZ1hCcVNBbkFRSUtVc2NMUHhpMGd2ZjU4b1RsbnBUZXRmQXFjUnBBdnc4N3FRbXQtMDBseFVwcmpwbGFmZWJwaTJiQjdubkVqbmYtZnFSb25Md3MwVHowaGFhNmxGNHVuTkdHTlhvTGd2WG95NkE0OEhuWkNpcWNXT2FvQUxFRmQxMENaeko3UjMxWG5vSll0SXpLWHE2cndtMjdiMVRKckZzb2hKZmlFdWsyQVZaWEpENU0zUXN0RnNMb1lUNVF1aHkxNFF5Zlh3YS0xcEFXTWxNVmVHQnhZZ3A0dy1XVE1wV1ExcmxLSmdmckhqVkUtcGMw?oc=5",
-          "description": "Caso Cardama: mientras se buscaban garantías, el estudio Delpiazzo elaboró un informe “sugiriendo dejar sin efecto” el contrato &nbsp;&nbsp; ladiaria.com.uy",
-          "pub_date": "2026-06-16T03:18:55+00:00",
-          "score": 4,
-          "score_reason": "Uso de comillas sugiere contradicción entre búsqueda de garantías e informe negativo",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "El estudio jurídico Delpiazzo elaboró un informe en el que sugería dejar sin efecto el contrato con la empresa Cardama, mientras se buscaban garantías para el mismo. El abogado Carlos Delpiazzo declaró que nunca aprobó la garantía presentada por Eurocommerce que ofreció Cardama, y señaló desprolijidades en el proceso. El caso Cardama involucra un contrato estatal cuestionado por irregularidades en las garantías presentadas. Delpiazzo actuó como asesor en el proceso de evaluación de las garantías ofrecidas por la empresa contratista.",
-        "coincidencias": [
-          "Delpiazzo elaboró un informe sobre el caso Cardama",
-          "La garantía de Eurocommerce no fue aprobada por Delpiazzo",
-          "Existen cuestionamientos sobre desprolijidades en el proceso"
-        ],
-        "diferencias": [
-          "La Diaria enfatiza la contradicción temporal entre búsqueda de garantías y elaboración del informe negativo",
-          "Búsqueda se centra en la postura de Delpiazzo y su rechazo explícito de la garantía",
-          "La Diaria contextualiza en el proceso de búsqueda, Búsqueda en la declaración de Delpiazzo"
-        ]
-      }
-    },
-    {
-      "id": "story_009",
-      "topic": "Moisés Martínez vuelve a prisión por decisión judicial",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Moisés Martínez volverá a prisión tras decisión del Tribunal de Apelaciones",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZWlNQU9wU1pENzFlcFRhMlZnMXR0aXoyTVBJREw0WFBXbDhSTzVZOUgwWWxpTmRQMDFycWlDYUloS1puM0xsUkt2elh0XzVNSFdacGxsOERxUEJjZFdLWlY0WWJVTVpMSW5SQTlIM0k2U04ybDFFd2ViaFBMS05JU0FZRUl2SmJKdEFvaV9QYm04TnljU2lkMEk0cDFxRXVtVlU0VVNMRlh1MXVPYkZmbGRsOHFkZGU3eTRaWFBBRmfSAeQBQVVfeXFMT3VIekV6Ui1keHVOTmg0ekQ2bElqTFlhbzZPaDVjWjlsa1Jqb2dRNUdnUzloMDhwQmVuMFpmcjZGbjZrc0Y3dnhHYWFBU1dCUXVGMWhzYm5TdUVJMWt4UzUzZnl3dGl3bWJPa3h5VjBhNDd0MDVVcTZDM0VfYmt6WF80MERrSlJrd2tDLWlPSV9XMWdnaW1PTWZlb1FhcUt0ZzVzWTJzUVF5NWJSdjZ6RG5DSlEtYy1jVmJ1NWpnMHliU0Y1YURUazFPaklTQkRkX0RYb2stWUVid0VmY2tRcEk0bjhF?oc=5",
-          "description": "Moisés Martínez volverá a prisión tras decisión del Tribunal de Apelaciones &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-16T19:00:00+00:00",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Fue archivada la denuncia contra la fiscal Alicia Ghione",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkFrYkMxcUxMQklFRmdlTV9oc3VHM0tCQVZ4QTFNZngyczdfZGlQNWRYRDNUWHBIZUFWTE5jN1JyNk5VaGd0RUw3cUNMT05OVnFxZVZVNDJzRjNIX1BLR2hCenFadHJvUkZhU2xFbmh1REE2RVY5SVplM2cwbTJ4andER3pQTXc0Z3RQZ2ZVbThyNFh1dU1aQXN0X1k0X29td19RbEVPYjfSAa4BQVVfeXFMTlVpMEszcjNoRGhHWDk5R09iYUJjRmlweUdIUlUzT0VUZ19KUjEyLURHejU4QnZWRVlYUlNBR2hEVWxIYndIVjdMa2tDLWZkM3ZuRE05M2hVZGs1enRPSlJFby10MHlBV1hXWGFnX1VaazlFaXoyLXJyZGRYNDJfUUtFNmg1OTNYUGNiamJkaE5kSjBURTZucWJSeWVuSjlEcEhmX1ByejktYldLTG1B?oc=5",
+          "description": "Fue archivada la denuncia contra la fiscal Alicia Ghione &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-06-17T23:35:00+00:00",
           "score": 1,
-          "score_reason": "Titular directo y factual sin adjetivos ni carga emocional",
+          "score_reason": "Presentación neutral y objetiva del hecho sin contextualizaciones adicionales",
           "score_pct": 10
         },
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Tribunal de Apelaciones revocó el arresto domiciliario total a Moisés Martínez y dispuso que vuelva a prisión",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWm5VZGlqVU50blo3X1NNSHhOX2Z1U1UydkQwVTFIZm1EZG9tZE5vMmFlYU4tZG9wSEpETTJCeFFlRDl1Y3NpN25DMW9oc1ppNWZXdzBWaFlyWFJPNWFtejBUaXZDMm4yZEU1R2t4YjlBTXVGWWNqekxQSzU3RDlMOTBDejVLYlFDV1RtdEt6Ym5pZERuem5MS3lPLTBlZnZvYmZ4aXFuaFdNZDJTT2dTNHFNRWo0QkdTODFidVI1OW9oYWhINDlFT1FhWnUwMU8zUFZVa3pBZ9IB3AFBVV95cUxOX2Z3Zjd1bEo4T0FYRmFtNmpkcXpRa05hcHJMRkliNFRvVmN1dXdhQnBaV2NBS1EyQk1KRnk2N2UwTkVvRk9mWnpZcmVZMGhpN2R6dG12WmV6RFUzeFRSMmtqWDc5M2ItMzR2eVp0NjZEMEpSbHB0b3Z4cnZNNWljVXp0UkxkbjhaQ2VUeGJqb0dlLS1UMTJkVVZQLWtxSzVlNS03NGpBREcwUE03RnlaTXRtenV4N0tzeUtGVzg2dDZBbGdKenlBM003QzJGVWI4TUZnYWYxME5IMXRD?oc=5",
-          "description": "Tribunal de Apelaciones revocó el arresto domiciliario total a Moisés Martínez y dispuso que vuelva a prisión &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-16T18:34:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo y preciso, detalla la medida sin sesgo evidente",
-          "score_pct": 10
-        }
-      ],
-      "analysis": {
-        "resumen": "El Tribunal de Apelaciones resolvió revocar el arresto domiciliario total que tenía Moisés Martínez y dispuso su retorno a prisión. La decisión fue adoptada por el tribunal de segunda instancia, modificando la medida cautelar que le permitía cumplir su detención en su domicilio. Martínez deberá volver al establecimiento carcelario para continuar su encierro. La resolución del Tribunal de Apelaciones representa un cambio en las condiciones de su detención, pasando del régimen domiciliario al régimen de reclusión en un centro penitenciario.",
-        "coincidencias": [
-          "Moisés Martínez volverá a prisión",
-          "La decisión fue del Tribunal de Apelaciones",
-          "Se revocó el arresto domiciliario total"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza el retorno a prisión en primer lugar",
-          "Subrayado destaca primero la revocación del arresto domiciliario",
-          "Subrayado proporciona más detalle sobre la naturaleza de la medida revocada"
-        ]
-      }
-    },
-    {
-      "id": "story_010",
-      "topic": "Uruguayo detenido en banda para robar bancos argentinos",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Uruguayo \"experto en perforaciones\" detenido en Buenos Aires junto a banda que pretendía robar dos bancos",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcUdYalJxT2hVVHM2QVVqSzJDTUo4T2NhUkZEdF9yQzRYUkMzeEFLRjhfS055V2prcjR0aVNJODhuXzhuZUlJclNjZTlOY2xXQmlpUktLdTdKaTRIZ3lzal83bmVHdjRHcTJ2RTF2a2Q0SWk4T0NvQUEwTlFXa0w4VXliTEd6WmVjSFJOX2MweTMxai1ISWhkbFdUZWtpaUFKVnBlRVRXMDcxOUZoRDdFOEFzY05TOUNsYldWcHBjZXJMdVQ2eUlEVkpQb0dwQdIB0wFBVV95cUxPUmpfOVp5UzJzcW9QaFZ2TXhBWW9HZWNmbEtFSHdxTjFoSVljSTh2b184S2NFRk9HV0JQMlNKUEptVVFpQ0Qzd1hSbUZzZ1VuOVdoRUl1LWFWWFRKT0I5WWQ2UFlMZVRDWTlKZWozOVNhMWJzc3JfZ2xQSGYyU1dsOUFTQ0UtTzM0VFJqbXhuRms5UkRNM25pT2VXc0hoZVRWYkU5d2VKNEJWdlNkMWh3VVJpMnYtMUxzY2VPM3ZIZ1p5cm9KY1FXUUJsLVBBcktjQTc4?oc=5",
-          "description": "Uruguayo \"experto en perforaciones\" detenido en Buenos Aires junto a banda que pretendía robar dos bancos &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-16T17:20:00+00:00",
-          "score": 3,
-          "score_reason": "Comillas en \"experto en perforaciones\" atenúan pero describen técnicamente",
-          "score_pct": 30
-        },
-        {
           "source_id": "montevideoportal",
           "source_name": "Montevideo Portal",
           "source_short": "MP",
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "“Boquetero” uruguayo integraba banda que planeaba robar dos bancos en Argentina: quién es",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaDhDNkZwMmxZY09oUVRwMXV0ZjhETnVWNWxYWldPeHZRaFBnaE95NF8zaVdWUS12RWdaWVV4ZVNqUm5aUVBJejFsMlByNm5jb3g3ZmZfX09TOGpMNnM3NDk3TGl3c2RkV0t3aVJLLUI3SVFzblo3b2NTTWUyakNzdk03MEg2Zl94RDY0ZEtoSVhaWE9hVldoLVBCYkdrWkNwRlc2amNsWHUxWHF5VDgxY0VDM3lFTVJ2eVNBZXhxNGNJM0QxOHNWMUdSSTJKTXFT0gH0AUFVX3lxTE5PSzNpbnowMmhoRGtJYnNNWFFVeDlhek0yblN3bGo5aXdCTWM4WVNJajU3bURWcnRIZEhpYXc4RnpsekFXa2Nsd3BaS01CQWlEdHRvWnlOTEN0SlFlOGxjRURsQU5kTTlOTFJILVM3bER5QmJUYl8tZ0dJMDFSUERPR29WU1hTNURjVzlKRUJ1al9YZ0U1QlZEZHF4NURhZjAwM3pwOVlWSDlVTEV6NXhwa0RnNTFCWHhISm05eTc5aEgwRHM3Y1M2WWNGaGQzQ3VFQmdOQ21qbUlhdEtXWHpjY0VxNzBGMHgxeDFtUnY4YVU4ZC0?oc=5",
-          "description": "“Boquetero” uruguayo integraba banda que planeaba robar dos bancos en Argentina: quién es &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-16T13:40:00+00:00",
-          "score": 4,
-          "score_reason": "Uso de comillas en \"boquetero\" sugiere jerga policial popular",
-          "score_pct": 40
+          "title": "Fiscalía volvió a archivar la denuncia contra Alicia Ghione que hizo la defensa de Penadés",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbnFHSGZxYURxck5RQTRkSks0cjZuMy1FNjlmdkxMMmxWcER2czNOSGxQQkxMemdId1pmd2NTejI0UTVOWjZhX0tCQVFjZ2dCVmswWjRJMG56ODFLWG1xWjBlcGhxdlBjX1NmY2pnRE9fVkVHOXA5aFpHbE1WQkV4cDNkUmEzb1pHOFJfOUhLUlZNR2FXbmk2ODB4YmVBY3kxUzQxVnVUZE1mNkExbWEzUnNmR25ybm9DTjR2NEgzYWMzSFk0QmliOGxxWVcxZU5CWEE1VNIB-AFBVV95cUxNU3AtU3p5dWpQcEp5NmJucnUwZTR2UmItTmZ5bjFhNjR3ZFdFdGNLTURzZGppX2xra1JFYmZGMUVGTWJGUUJ1R291dkZDcDVDZl9jR0JXbWI2WEgzcXZtMU5QOU9CcDhYaXRaaVFzQmdnMnlSX0lyRUdrejlreXpMWEt6ZlltdXp2Tjh2VlZwRDNXSGRJZ2diTmhxOHE3akZGdDRBdEVWVUdtZ0M5T2t3T2RYQlMyYjdYOVVrcWE0ZFRnbXRET1ZnTlIxWW56bzA1SThuOFg3alVoWF9TZ1RwczNnTzNUQ3pYcjdJcWhrMEhZaGd2dHYwUg?oc=5",
+          "description": "Fiscalía volvió a archivar la denuncia contra Alicia Ghione que hizo la defensa de Penadés &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-17T19:32:00+00:00",
+          "score": 3,
+          "score_reason": "Enfatiza que es la segunda vez y menciona explícitamente la defensa de Penadés",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Las autoridades argentinas detuvieron en Buenos Aires a un ciudadano uruguayo junto a otros integrantes de una banda que planeaba asaltar dos entidades bancarias. El uruguayo habría sido identificado como especialista en perforaciones, método conocido como \"boquete\" para ingresar a los bancos. El grupo fue capturado antes de concretar los robos planeados. La operación policial desbarató la organización criminal que estaba en etapa de planificación de los asaltos. Las fuentes policiales confirmaron la detención y la nacionalidad uruguaya de uno de los detenidos, quien aportaría su expertise técnico para la ejecución de los robos mediante perforación de paredes o bóvedas.",
+        "resumen": "La Fiscalía archivó nuevamente la denuncia presentada contra la fiscal Alicia Ghione por la defensa del exsenador Gustavo Penadés. Esta es la segunda vez que se archiva la denuncia contra Ghione, quien tiene a su cargo la investigación del caso Penadés. La defensa del exlegislador había presentado una denuncia contra la fiscal en el marco del proceso judicial que enfrenta Penadés por presuntos delitos de abuso sexual y trata de personas. La Fiscalía determinó que no existen elementos suficientes para continuar con la investigación contra Ghione.",
         "coincidencias": [
-          "Un ciudadano uruguayo fue detenido en Buenos Aires",
-          "Formaba parte de una banda que planeaba robar dos bancos",
-          "Su especialidad era realizar perforaciones o boquetes"
+          "Ambos informan que la denuncia contra Alicia Ghione fue archivada",
+          "Los dos medios identifican correctamente a Ghione como fiscal",
+          "Coinciden en que se trata de una denuncia presentada previamente"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza el término popular 'boquetero' y pregunta quién es",
-          "Subrayado usa lenguaje más técnico con 'experto en perforaciones'",
-          "Montevideo Portal centra en la identidad, Subrayado en la operación policial"
+          "Montevideo Portal destaca que es la segunda vez que se archiva la denuncia",
+          "Montevideo Portal menciona explícitamente que fue la defensa de Penadés quien denunció",
+          "Caras y Caretas presenta el hecho de forma más escueta sin contexto adicional"
         ]
       }
     }
