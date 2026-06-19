@@ -1,105 +1,105 @@
 {
-  "generated_at": "2026-06-18T12:57:48.995092",
+  "generated_at": "2026-06-19T13:38:51.313118",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Camiseta uruguaya elegida mejor del Mundial 2026",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "La Celeste fue elegida como mejor camiseta del Mundial 2026: ranking de las 11 destacadas",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPclVsN1k3MUw1eExqOWxGeGxzRWlOalk0VEw5TEdHZllwLUxrVEVRdFk5VVZYdDdROGZFSWJJcktvU1lxSmphcmEwVmJacFdFenB0a2p2SXR4cW9kckpwcFZQMlJBQ3JvV0hSdk90Q2lZUnRqdEFJanZpaEU3eEE4aHliN1RzMVBROWlWZm9sTVoyUXZjWHlhNDJHOFNUOWI0dmMyYll3TXVBWVc5aVlNTXlMSGZmbWZ0c1FGSHZfckx6LTJqbDYyQ3AyaDhtV3RTM2fSAfYBQVVfeXFMUGVCNnJrUWdPODcxMXdZTWdYV0w0N1hvZHB2MkF0Nk5EUVlYanExRU0zWi1zWWN5aXBvVFRhQ0p4X1owMW9Jb0FWdy1YVklEMk1TRnNqUTQ1Z2Fkb0hPcnhjdVZGdWVNQkRuVDNrSm5Pbjc3di1uWEw5OFBxMUhkQlQ2ZDF0NjJmRHRDcGZOUHlkb1pzUjhOb19XYVZTOUxldTBVUHUwZHVyZk5rTThVNS0xTW9xdmVHOGRiWF96bkx2LWw0Nzd5ZHB5ZFpFdXh1anI1MFc0N0c5cmRXRjA1Qkk2Szl2OTlKOVRReHZmamdXNmw4M1FB?oc=5",
-          "description": "La Celeste fue elegida como mejor camiseta del Mundial 2026: ranking de las 11 destacadas &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-17T13:41:00+00:00",
-          "score": 2,
-          "score_reason": "Presenta información neutral y agrega contexto del ranking",
-          "score_pct": 20
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "La camiseta celeste de Uruguay fue elegida la mejor del Mundial 2026 por un prestigioso medio estadounidense",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWNNR1FTNWp3N2llZ3BXR045LXJLU3NhOENPZElJeWVEU1AzRFpXelZ1OVk5MkU3UHF4N2VOb1ZjTk8zeVJZZDdUUTBrQnIzbXlyMkdjMWpQTTdvSEhGMWJYcC1VVzJwcE5pY0JHOURlSlRwamJGbTF3Mm0wMTFLZFI1ZFlVNGpNOVhVbU5OQXdhLVo2eVZLV3FMOThxbTJNYXZtelB4Sk5TUDAzWU9pOXNib3hkLXlGNU9zWGR2MlEwSU5yYldPaGZ5T0VOQlpIYVMzeTh5bnc3c21VVmdCMWswcDY?oc=5",
-          "description": "La camiseta celeste de Uruguay fue elegida la mejor del Mundial 2026 por un prestigioso medio estadounidense &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-17T16:43:25+00:00",
-          "score": 4,
-          "score_reason": "Califica al medio como prestigioso sin verificar credenciales",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Un medio estadounidense seleccionó la camiseta celeste de la selección uruguaya de fútbol como la mejor entre las que se usarán en el Mundial 2026. La publicación realizó un ranking con 11 camisetas destacadas del torneo. Uruguay quedó en primer lugar de esta clasificación elaborada por el medio norteamericano. La Copa Mundial 2026 se disputará en Estados Unidos, Canadá y México. No se especificó en los titulares qué medio estadounidense realizó la selección ni los criterios utilizados para la evaluación de los uniformes.",
-        "coincidencias": [
-          "La camiseta celeste de Uruguay fue elegida la mejor",
-          "Se trata de una selección para el Mundial 2026",
-          "La elección fue realizada por un medio estadounidense"
-        ],
-        "diferencias": [
-          "El País enfatiza el prestigio del medio estadounidense que hizo la selección",
-          "Montevideo Portal incluye información sobre el ranking completo de 11 camisetas",
-          "El País centra el titular solo en Uruguay, Montevideo Portal menciona el contexto del ranking"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Fiscalía archiva denuncia contra fiscal Alicia Ghione",
+      "topic": "Encuesta desaprueba gestión de Bergara en Montevideo",
       "category": "Política",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "carasycaretas",
-          "source_name": "Caras y Caretas",
-          "source_short": "CC",
-          "source_color": "#4A148C",
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.carasycaretas.com.uy",
-          "title": "Fue archivada la denuncia contra la fiscal Alicia Ghione",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkFrYkMxcUxMQklFRmdlTV9oc3VHM0tCQVZ4QTFNZngyczdfZGlQNWRYRDNUWHBIZUFWTE5jN1JyNk5VaGd0RUw3cUNMT05OVnFxZVZVNDJzRjNIX1BLR2hCenFadHJvUkZhU2xFbmh1REE2RVY5SVplM2cwbTJ4andER3pQTXc0Z3RQZ2ZVbThyNFh1dU1aQXN0X1k0X29td19RbEVPYjfSAa4BQVVfeXFMTlVpMEszcjNoRGhHWDk5R09iYUJjRmlweUdIUlUzT0VUZ19KUjEyLURHejU4QnZWRVlYUlNBR2hEVWxIYndIVjdMa2tDLWZkM3ZuRE05M2hVZGs1enRPSlJFby10MHlBV1hXWGFnX1VaazlFaXoyLXJyZGRYNDJfUUtFNmg1OTNYUGNiamJkaE5kSjBURTZucWJSeWVuSjlEcEhmX1ByejktYldLTG1B?oc=5",
-          "description": "Fue archivada la denuncia contra la fiscal Alicia Ghione &nbsp;&nbsp; Caras y Caretas",
-          "pub_date": "2026-06-17T23:35:00+00:00",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Nueva encuesta de Equipos sobre la gestión del intendente de Montevideo: 52% desaprueba y 26% aprueba",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQUl6SmRaTWl2bjFfZ1dWYlRJeXAtSDMyak1Gc0RmWUl3V0JZSkEtRDFOS0EtbHBtY0lkMmNiTm5STlVZcVd0MWtrM1BuQkUyY3VZWV9UMlZfSENzeEV3V1NzbERXWXY4S2Rja2d6ZnlETVVON0YybzdQcWwwV3VjTlZ2RG95dmJfN3NXSlJSWENrUmFRYWZUT05mUElUaExUVW5JY3VvUEt3MnoxV0dLS3pTQThENjhVNDFXQ1Rxam83WmY1Mm9JWXFpZE1vMGhrN0HSAdcBQVVfeXFMTVNzaE4xVDRrbFNNaXZXdml0U1hGN3pZTU9BREk5NUxlQ1pxWkhfSVBNM0F1NGR5RWlZbkJrVWlUNl80cXVjTzRRTjhPSEZJMTRVS2RsRDl3X1JndGN4N19fU2h2aGxqZTJIcEtCbjhUdERROFp0LXdFbTJ5bHp3cUlTalFpS3RCcWJWR0J4b2l5dHpJT2NiYW1UamJKQVJkNmd4UDhyeHhWTjdaRXZBLUZ3akVHd3BwTWpweWJPbVpUOTR5WmtNQ0padm80NHFmUVppYl9vbzA?oc=5",
+          "description": "Nueva encuesta de Equipos sobre la gestión del intendente de Montevideo: 52% desaprueba y 26% aprueba &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-06-19T00:30:30+00:00",
           "score": 1,
-          "score_reason": "Presentación neutral y objetiva del hecho sin contextualizaciones adicionales",
+          "score_reason": "Presenta datos objetivos sin mencionar el nombre del intendente",
           "score_pct": 10
         },
         {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Fiscalía volvió a archivar la denuncia contra Alicia Ghione que hizo la defensa de Penadés",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbnFHSGZxYURxck5RQTRkSks0cjZuMy1FNjlmdkxMMmxWcER2czNOSGxQQkxMemdId1pmd2NTejI0UTVOWjZhX0tCQVFjZ2dCVmswWjRJMG56ODFLWG1xWjBlcGhxdlBjX1NmY2pnRE9fVkVHOXA5aFpHbE1WQkV4cDNkUmEzb1pHOFJfOUhLUlZNR2FXbmk2ODB4YmVBY3kxUzQxVnVUZE1mNkExbWEzUnNmR25ybm9DTjR2NEgzYWMzSFk0QmliOGxxWVcxZU5CWEE1VNIB-AFBVV95cUxNU3AtU3p5dWpQcEp5NmJucnUwZTR2UmItTmZ5bjFhNjR3ZFdFdGNLTURzZGppX2xra1JFYmZGMUVGTWJGUUJ1R291dkZDcDVDZl9jR0JXbWI2WEgzcXZtMU5QOU9CcDhYaXRaaVFzQmdnMnlSX0lyRUdrejlreXpMWEt6ZlltdXp2Tjh2VlZwRDNXSGRJZ2diTmhxOHE3akZGdDRBdEVWVUdtZ0M5T2t3T2RYQlMyYjdYOVVrcWE0ZFRnbXRET1ZnTlIxWW56bzA1SThuOFg3alVoWF9TZ1RwczNnTzNUQ3pYcjdJcWhrMEhZaGd2dHYwUg?oc=5",
-          "description": "Fiscalía volvió a archivar la denuncia contra Alicia Ghione que hizo la defensa de Penadés &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-17T19:32:00+00:00",
-          "score": 3,
-          "score_reason": "Enfatiza que es la segunda vez y menciona explícitamente la defensa de Penadés",
-          "score_pct": 30
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "El 52% desaprueba la gestión de Mario Bergara como intendente de Montevideo y 26% aprueba, según Equipos Consultores",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX2dfdFNBR1BKbE9FYTZXUHY5emZiWEhqNno5dTQzbHY3SHh0UnpCSm5GSFVnUGoyM09SaGVXYUZEc0tNTl9sSWJncnIwQUN3R0hIa0tHTk9YYlEybjFiaTY1V1Z0bWN4c0txZTBTZTlBTllOWTk5ZzI4UDRQSGltelBGcERGTUp3MW1qS21qbDVxV0tEOTBybWJ2MXJJQk1YUEFxeWJmOFBqLUlHN2dIZlJGRDEyLWJpN1VRQ2JNZlA2dlFmZGUxRjlxbTJ0Wjd0YUE3dklIQlg0QmlGVWfSAeMBQVVfeXFMTWFXM01YZVQ4cGQ4cDdPbHUwTVc1OEc1OTFGN0JkOEN5VWpqY0REWkotLVFBYW0wLXZVR25kZF93MTVVNzhzWUlrQUEwU1ZfQ1dlbFdWMFFOVm9fVy13YU45RnhuVHFCZURidTFyMXg0SWNvSlA0MWk5b3B4c2F2VXJfUnNYZV8yNEJFU3BNZ0FsbmxDb0JaMzF5NjNaTTFKbldjX1BGdFMyajhiSW1hbWRJYkRwRGNZalJLeWFKZmpSMkRaQVZTSUlhSFBMd3c5QUduRDRLb1dmcWtzUWh0RXZfN2M?oc=5",
+          "description": "El 52% desaprueba la gestión de Mario Bergara como intendente de Montevideo y 26% aprueba, según Equipos Consultores &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-18T23:29:00+00:00",
+          "score": 1,
+          "score_reason": "Informativo, incluye nombre completo y fuente de la encuesta",
+          "score_pct": 10
         }
       ],
       "analysis": {
-        "resumen": "La Fiscalía archivó nuevamente la denuncia presentada contra la fiscal Alicia Ghione por la defensa del exsenador Gustavo Penadés. Esta es la segunda vez que se archiva la denuncia contra Ghione, quien tiene a su cargo la investigación del caso Penadés. La defensa del exlegislador había presentado una denuncia contra la fiscal en el marco del proceso judicial que enfrenta Penadés por presuntos delitos de abuso sexual y trata de personas. La Fiscalía determinó que no existen elementos suficientes para continuar con la investigación contra Ghione.",
+        "resumen": "Una encuesta de Equipos Consultores reveló que el 52% de los consultados desaprueba la gestión del intendente de Montevideo, Mario Bergara, mientras que el 26% la aprueba. Los resultados muestran un nivel significativo de rechazo a la administración del jerarca frenteamplista al frente de la Intendencia capitalina. El sondeo fue difundido por distintos medios de comunicación uruguayos. Bergara asumió la Intendencia de Montevideo tras las elecciones departamentales de mayo de 2024. El porcentaje restante corresponde a consultados que no aprobaron ni desaprobaron la gestión o no expresaron opinión sobre el desempeño del intendente.",
         "coincidencias": [
-          "Ambos informan que la denuncia contra Alicia Ghione fue archivada",
-          "Los dos medios identifican correctamente a Ghione como fiscal",
-          "Coinciden en que se trata de una denuncia presentada previamente"
+          "Todos citan la misma encuesta de Equipos Consultores",
+          "Todos reportan 52% de desaprobación y 26% de aprobación",
+          "Todos se refieren a la gestión del intendente de Montevideo"
         ],
         "diferencias": [
-          "Montevideo Portal destaca que es la segunda vez que se archiva la denuncia",
-          "Montevideo Portal menciona explícitamente que fue la defensa de Penadés quien denunció",
-          "Caras y Caretas presenta el hecho de forma más escueta sin contexto adicional"
+          "El Observador omite el nombre de Mario Bergara en el titular",
+          "Subrayado menciona explícitamente a Mario Bergara en el titular",
+          "El Observador usa formulación más genérica sobre 'el intendente'"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Acuerdo para usar sistema de aterrizaje con niebla",
+      "category": "Sociedad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Controladores aéreos acordaron el uso del sistema de aterrizaje con niebla",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ284NEdEcXhuMVRPTG1jWWdIa2FVUDV5bXdNQnpXdGE2Q2JhQ256TVVrYlpLMFo0RjFaTHhnTUF3a3Bld0F2Y0hRZmpYS3owa050d1dtamtWYVpjZlRNSExPYm56MUFiNkJJV184M0pMV3QzYWdwbkN4QWo0cUpZUEtWZk1KdU1kVVdZNFN0Sm9oYnBvSXN3TVJFRWxKd3V2bzdPd1VEVVY3eHVoRnQ2ekJOTQ?oc=5",
+          "description": "Controladores aéreos acordaron el uso del sistema de aterrizaje con niebla &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-06-18T20:08:06+00:00",
+          "score": 1,
+          "score_reason": "Titular neutro, directo, sin calificativos ni advertencias adicionales",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Controladores aéreos anuncian acuerdo para comenzar a usar el sistema de aterrizaje con niebla, pero advierten limitaciones",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM0pwUEpTT19fbHFXaE1NQzB0ZEdPc1BSWmpRWnFYQkUtMnlGOERtcmhYSm9SMzNlUzlkRnRFS2phWC1MRFAtN09kSG1FWDd1NzQ3SnlKeUItRkFNYzE5Q0xUck9SZnYzTG5fS29uTFdWSnc3LThrY19ZbUY1RjQwdVVOM2N5TTR2QTJaX3hxbGRxY0NvZGRlTUlIRzd1b21aNkpWR2NjalRmaFdha1VJb0pEYlBJRUxYNkxCeml0Vkc3ZUdSQWhNWHFYdUdjdUF3Y2REX2cxcU00NkZIa0Jn0gHkAUFVX3lxTE1za2daejUyMDc3YUplUEpfakRUV0FuOWNzWnhRT0F5ajFVZ3lkRkhTaUNwWl9yQTRSMTRqaVNycU81SjNUdjVSRnZneU14UDRfR1ZRa1J4VTdVdnFHR3BvcDd6bEkwSkpBWWdBOVdkWmhMOVlabFJLb2RKR19OeXlpVmltcTdpVy1BNmxJcVpfREVvdjZwaDlOZG1XWVhUQUtRSFl6QkhDWnNiNk5tY1YteWUxQ1NSc1ZiU2FTeVl2ZlVMSUU4ZmR1Qk00U01BbWJEb3luLVVGV0tBeVpDMGxzMXhBOQ?oc=5",
+          "description": "Controladores aéreos anuncian acuerdo para comenzar a usar el sistema de aterrizaje con niebla, pero advierten limitaciones &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-18T12:52:00+00:00",
+          "score": 2,
+          "score_reason": "Informa el acuerdo y menciona las limitaciones sin dramatizar",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Los controladores aéreos uruguayos anunciaron que llegaron a un acuerdo para comenzar a utilizar el sistema de aterrizaje con niebla en el Aeropuerto Internacional de Carrasco. Este sistema tecnológico permite que los aviones aterricen en condiciones de baja visibilidad causadas por la niebla, una situación que históricamente ha provocado cancelaciones y desvíos de vuelos. Sin embargo, los controladores advirtieron que el sistema presenta ciertas limitaciones en su funcionamiento. El acuerdo representa un avance en la operativa aeroportuaria del país, aunque los detalles técnicos de las restricciones mencionadas no fueron especificados en los anuncios iniciales.",
+        "coincidencias": [
+          "Los controladores aéreos llegaron a un acuerdo",
+          "El acuerdo permite usar el sistema de aterrizaje con niebla",
+          "La implementación del sistema ya está acordada"
+        ],
+        "diferencias": [
+          "Subrayado enfatiza las limitaciones del sistema, Grupo R las omite",
+          "Subrayado presenta un tono más cauteloso, Grupo R más optimista",
+          "Subrayado destaca advertencias, Grupo R se centra solo en el acuerdo"
         ]
       }
     }
