@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-06-19T13:38:51.313118",
+  "generated_at": "2026-06-20T11:59:56.933923",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Encuesta desaprueba gestión de Bergara en Montevideo",
-      "category": "Política",
+      "topic": "Fallecimiento de la productora Agustina Chiarino",
+      "category": "Cultura",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Nueva encuesta de Equipos sobre la gestión del intendente de Montevideo: 52% desaprueba y 26% aprueba",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQUl6SmRaTWl2bjFfZ1dWYlRJeXAtSDMyak1Gc0RmWUl3V0JZSkEtRDFOS0EtbHBtY0lkMmNiTm5STlVZcVd0MWtrM1BuQkUyY3VZWV9UMlZfSENzeEV3V1NzbERXWXY4S2Rja2d6ZnlETVVON0YybzdQcWwwV3VjTlZ2RG95dmJfN3NXSlJSWENrUmFRYWZUT05mUElUaExUVW5JY3VvUEt3MnoxV0dLS3pTQThENjhVNDFXQ1Rxam83WmY1Mm9JWXFpZE1vMGhrN0HSAdcBQVVfeXFMTVNzaE4xVDRrbFNNaXZXdml0U1hGN3pZTU9BREk5NUxlQ1pxWkhfSVBNM0F1NGR5RWlZbkJrVWlUNl80cXVjTzRRTjhPSEZJMTRVS2RsRDl3X1JndGN4N19fU2h2aGxqZTJIcEtCbjhUdERROFp0LXdFbTJ5bHp3cUlTalFpS3RCcWJWR0J4b2l5dHpJT2NiYW1UamJKQVJkNmd4UDhyeHhWTjdaRXZBLUZ3akVHd3BwTWpweWJPbVpUOTR5WmtNQ0padm80NHFmUVppYl9vbzA?oc=5",
-          "description": "Nueva encuesta de Equipos sobre la gestión del intendente de Montevideo: 52% desaprueba y 26% aprueba &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-19T00:30:30+00:00",
-          "score": 1,
-          "score_reason": "Presenta datos objetivos sin mencionar el nombre del intendente",
-          "score_pct": 10
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Murió Agustina Chiarino, cineasta que dejó profunda huella en el audiovisual nacional y latinoamericano",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRlFGcG5sRDZUZG9DNFAtMTNWTUNaRGl5QVhZYmdtM2dzczByTUVWZWdwWUY0RnVBTnRja3ZBRFNTYlFTOHFZQlF1VF9TSFpVM2JCZ2JveUFqRmwyMFpMaXoyTXc1RnFkLVhoNjZpcEhMSVI4UVFPZ2xVSmZaOGY4M2l5VTdJd0FBUlkxOUhyVzRGOHRDSlRIMGJFLWcwMWI2aXMzWk10UDhlTU1wblJ3Tjh2dnhiVFBGWGZyVkZ1OV9IS09wWnVWdS16ZlRqVUpwa1FPWXFrZHFPQzE3RW1jaFo5MFg?oc=5",
+          "description": "Murió Agustina Chiarino, cineasta que dejó profunda huella en el audiovisual nacional y latinoamericano &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-06-19T14:37:00+00:00",
+          "score": 3,
+          "score_reason": "Incluye valoración 'profunda huella' aunque es relativamente moderada",
+          "score_pct": 30
         },
         {
           "source_id": "subrayado",
@@ -29,77 +29,26 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "El 52% desaprueba la gestión de Mario Bergara como intendente de Montevideo y 26% aprueba, según Equipos Consultores",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX2dfdFNBR1BKbE9FYTZXUHY5emZiWEhqNno5dTQzbHY3SHh0UnpCSm5GSFVnUGoyM09SaGVXYUZEc0tNTl9sSWJncnIwQUN3R0hIa0tHTk9YYlEybjFiaTY1V1Z0bWN4c0txZTBTZTlBTllOWTk5ZzI4UDRQSGltelBGcERGTUp3MW1qS21qbDVxV0tEOTBybWJ2MXJJQk1YUEFxeWJmOFBqLUlHN2dIZlJGRDEyLWJpN1VRQ2JNZlA2dlFmZGUxRjlxbTJ0Wjd0YUE3dklIQlg0QmlGVWfSAeMBQVVfeXFMTWFXM01YZVQ4cGQ4cDdPbHUwTVc1OEc1OTFGN0JkOEN5VWpqY0REWkotLVFBYW0wLXZVR25kZF93MTVVNzhzWUlrQUEwU1ZfQ1dlbFdWMFFOVm9fVy13YU45RnhuVHFCZURidTFyMXg0SWNvSlA0MWk5b3B4c2F2VXJfUnNYZV8yNEJFU3BNZ0FsbmxDb0JaMzF5NjNaTTFKbldjX1BGdFMyajhiSW1hbWRJYkRwRGNZalJLeWFKZmpSMkRaQVZTSUlhSFBMd3c5QUduRDRLb1dmcWtzUWh0RXZfN2M?oc=5",
-          "description": "El 52% desaprueba la gestión de Mario Bergara como intendente de Montevideo y 26% aprueba, según Equipos Consultores &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-18T23:29:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo, incluye nombre completo y fuente de la encuesta",
-          "score_pct": 10
+          "title": "El cine nacional y el audiovisual uruguayo de luto por el fallecimiento de la productora Agustina Chiarino",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX25jajNDRTdobEpfbjdJWU9jTEVoRjZBWXFBdmFzaFhrdDhNYzlSSW9TTTdzRmlNRUpXV3F3MThMb3htUXBSQUh2aXVYUTUwVkVsLWNxZWRIUzVUT2FqMVV2Z000RmRYRE1ZdGpJbUNCZ25GdkNrakt4dVFJVkIxQzRxWnNYbnEwT0lvdVZfOEtYMU4xaDNxdGNiLXFMUlo1TGFjcEM0Y2FGSTJzdE1uY2w5aU5LUWw3d2hNeHhKeGtpcjlwc0dGMFFveTBIcFnSAdQBQVVfeXFMUGllRVlQNFR0SWdPTnY0eUJvcnRjZ29EWW9UWEt2SXJjVlVOZGc1eG1sZDBDYURNUlZ1UkZIOWRrMDVkR1N3LTR4RFFOZ0lzXzhRNGJaeURiSk12ZVVzTXI3VDE0SWcxaUthRFFUdm1JZTNDYkM5RVVrQUNMVWlURlhGRXFVcTEyV0FqU0hETk81RnNab29QcFc3WlFocjgzYXZvMWlnaEtoWHQ5QU44cE9qTUJ1R1VKdlNVUzJnMFpaTzNqWTNtNzhBTHBiVmwzWHNMbkw?oc=5",
+          "description": "El cine nacional y el audiovisual uruguayo de luto por el fallecimiento de la productora Agustina Chiarino &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-19T17:17:00+00:00",
+          "score": 4,
+          "score_reason": "Uso de 'de luto' añade carga emocional al titular",
+          "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "Una encuesta de Equipos Consultores reveló que el 52% de los consultados desaprueba la gestión del intendente de Montevideo, Mario Bergara, mientras que el 26% la aprueba. Los resultados muestran un nivel significativo de rechazo a la administración del jerarca frenteamplista al frente de la Intendencia capitalina. El sondeo fue difundido por distintos medios de comunicación uruguayos. Bergara asumió la Intendencia de Montevideo tras las elecciones departamentales de mayo de 2024. El porcentaje restante corresponde a consultados que no aprobaron ni desaprobaron la gestión o no expresaron opinión sobre el desempeño del intendente.",
+        "resumen": "Falleció la productora audiovisual Agustina Chiarino, figura destacada del cine uruguayo y latinoamericano. Chiarino desarrolló una extensa carrera en la producción cinematográfica nacional. Su muerte generó manifestaciones de pesar en el sector audiovisual del país. La productora había participado en diversos proyectos que tuvieron repercusión tanto a nivel nacional como regional. El sector cultural uruguayo expresó condolencias por su fallecimiento. Chiarino era reconocida por su trayectoria en la industria cinematográfica uruguaya y su contribución al desarrollo del audiovisual en la región.",
         "coincidencias": [
-          "Todos citan la misma encuesta de Equipos Consultores",
-          "Todos reportan 52% de desaprobación y 26% de aprobación",
-          "Todos se refieren a la gestión del intendente de Montevideo"
+          "Informan el fallecimiento de Agustina Chiarino",
+          "La describen como figura del audiovisual nacional",
+          "Destacan su relevancia en el cine uruguayo"
         ],
         "diferencias": [
-          "El Observador omite el nombre de Mario Bergara en el titular",
-          "Subrayado menciona explícitamente a Mario Bergara en el titular",
-          "El Observador usa formulación más genérica sobre 'el intendente'"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Acuerdo para usar sistema de aterrizaje con niebla",
-      "category": "Sociedad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Controladores aéreos acordaron el uso del sistema de aterrizaje con niebla",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ284NEdEcXhuMVRPTG1jWWdIa2FVUDV5bXdNQnpXdGE2Q2JhQ256TVVrYlpLMFo0RjFaTHhnTUF3a3Bld0F2Y0hRZmpYS3owa050d1dtamtWYVpjZlRNSExPYm56MUFiNkJJV184M0pMV3QzYWdwbkN4QWo0cUpZUEtWZk1KdU1kVVdZNFN0Sm9oYnBvSXN3TVJFRWxKd3V2bzdPd1VEVVY3eHVoRnQ2ekJOTQ?oc=5",
-          "description": "Controladores aéreos acordaron el uso del sistema de aterrizaje con niebla &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-06-18T20:08:06+00:00",
-          "score": 1,
-          "score_reason": "Titular neutro, directo, sin calificativos ni advertencias adicionales",
-          "score_pct": 10
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Controladores aéreos anuncian acuerdo para comenzar a usar el sistema de aterrizaje con niebla, pero advierten limitaciones",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM0pwUEpTT19fbHFXaE1NQzB0ZEdPc1BSWmpRWnFYQkUtMnlGOERtcmhYSm9SMzNlUzlkRnRFS2phWC1MRFAtN09kSG1FWDd1NzQ3SnlKeUItRkFNYzE5Q0xUck9SZnYzTG5fS29uTFdWSnc3LThrY19ZbUY1RjQwdVVOM2N5TTR2QTJaX3hxbGRxY0NvZGRlTUlIRzd1b21aNkpWR2NjalRmaFdha1VJb0pEYlBJRUxYNkxCeml0Vkc3ZUdSQWhNWHFYdUdjdUF3Y2REX2cxcU00NkZIa0Jn0gHkAUFVX3lxTE1za2daejUyMDc3YUplUEpfakRUV0FuOWNzWnhRT0F5ajFVZ3lkRkhTaUNwWl9yQTRSMTRqaVNycU81SjNUdjVSRnZneU14UDRfR1ZRa1J4VTdVdnFHR3BvcDd6bEkwSkpBWWdBOVdkWmhMOVlabFJLb2RKR19OeXlpVmltcTdpVy1BNmxJcVpfREVvdjZwaDlOZG1XWVhUQUtRSFl6QkhDWnNiNk5tY1YteWUxQ1NSc1ZiU2FTeVl2ZlVMSUU4ZmR1Qk00U01BbWJEb3luLVVGV0tBeVpDMGxzMXhBOQ?oc=5",
-          "description": "Controladores aéreos anuncian acuerdo para comenzar a usar el sistema de aterrizaje con niebla, pero advierten limitaciones &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-18T12:52:00+00:00",
-          "score": 2,
-          "score_reason": "Informa el acuerdo y menciona las limitaciones sin dramatizar",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "Los controladores aéreos uruguayos anunciaron que llegaron a un acuerdo para comenzar a utilizar el sistema de aterrizaje con niebla en el Aeropuerto Internacional de Carrasco. Este sistema tecnológico permite que los aviones aterricen en condiciones de baja visibilidad causadas por la niebla, una situación que históricamente ha provocado cancelaciones y desvíos de vuelos. Sin embargo, los controladores advirtieron que el sistema presenta ciertas limitaciones en su funcionamiento. El acuerdo representa un avance en la operativa aeroportuaria del país, aunque los detalles técnicos de las restricciones mencionadas no fueron especificados en los anuncios iniciales.",
-        "coincidencias": [
-          "Los controladores aéreos llegaron a un acuerdo",
-          "El acuerdo permite usar el sistema de aterrizaje con niebla",
-          "La implementación del sistema ya está acordada"
-        ],
-        "diferencias": [
-          "Subrayado enfatiza las limitaciones del sistema, Grupo R las omite",
-          "Subrayado presenta un tono más cauteloso, Grupo R más optimista",
-          "Subrayado destaca advertencias, Grupo R se centra solo en el acuerdo"
+          "Subrayado enfatiza el estado de duelo del sector audiovisual",
+          "Búsqueda destaca la dimensión latinoamericana de su trabajo",
+          "Búsqueda usa 'cineasta' mientras Subrayado especifica 'productora'"
         ]
       }
     }
