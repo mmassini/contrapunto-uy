@@ -1,26 +1,41 @@
 {
-  "generated_at": "2026-06-22T15:29:03.497358",
+  "generated_at": "2026-06-23T12:38:32.311571",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Uruguay empató con Cabo Verde en Mundial 2026",
+      "topic": "Uruguay define su clasificación en Mundial 2026",
       "category": "Deportes",
-      "sources_count": 5,
+      "sources_count": 4,
       "headlines": [
         {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "EN VIVO: Uruguay 0-0 Cabo Verde | Noticias | Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xR0ttSTJkeEZ3cHY3UWN6Y00yQ1phR3lwb1phMnFYWlVYenNPLTVFaFFQejVjdU9zUk1GNHdzTW9JZzZ2SjdOVnZxWUcwU0FSdnVfbXM1RVdxVTFJdmFPbjZEckItckFodW1nYkZQSUlfNnJsSnhoSWsyZFBtdWc?oc=5",
-          "description": "EN VIVO: Uruguay 0-0 Cabo Verde | Noticias | Mundial 2026 &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-06-21T22:17:56+00:00",
-          "score": 0,
-          "score_reason": "Cobertura en vivo del resultado, puramente informativa y neutral",
-          "score_pct": 0
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Mundial 2026: así se definen los clasificados como terceros y qué posibilidades tiene Uruguay de avanzar",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa3JiYWVEUlp6OTFpVWRfZ3pldm90cXZhUDZ3VWdQRTc2bGdadHBCZ2liNmx6SU5FTGNJR2kzeTdyMnBhQUNlbl8wNHNfelRqektxSzVpN1ByOEJ3ZmxIT3RSU0pEUDZya01fZEQ1UHJ3dlI5aGg5OE1WdjVTZ3RDemw1YkFZVVN5Ym9YTkxTMG5PNDB5dnBZOTZIa291Vmo5c2h6dmU1OHZBRF9iXy11dG05SnpPSnM5bUxxWU50VzlxUmFjWHF0SzdUMXVMUzl3ekk4ZF9XUVJKMWdDSkE?oc=5",
+          "description": "Mundial 2026: así se definen los clasificados como terceros y qué posibilidades tiene Uruguay de avanzar &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-22T01:05:21+00:00",
+          "score": 1,
+          "score_reason": "Neutral, informa sobre clasificación y posibilidades sin carga emocional",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Las chances de Uruguay para seguir en el Mundial: desde quedar primero si vence a España hasta eliminado como peor tercero",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMFBENjUtS0t0bF8wVkgwWWk3ejdaWklDcW9CcUVTbndhV1hRTEFjQXhWMjhiSktUX0hnRzdWb2t6T2k4bDRvYk5FQ1JWNVRSRTlYMkw0TV9nNFhla3RILTlvWWJXLWJJTURiV1NkeF9Ea216V3J6aDhtNHFLS1YxUGlMN0dPeU1JMGxYUzhjRVFMaTJ1emExZkxMcm1zN2tiYzVZQlpnY3E4MzV0ZkVOYjdOaXF4YThOMFJta25rRFVjWVhxWVl2YXczVHJKRnPSAdQBQVVfeXFMT0g3Szk3NkxuQjhWYU54U0RyTEJST2pNeUd5c3p0MTJWSXdGSzFBaTFkUTNJTTJ5V3NobWZGcWZPVEU1eWVnVjBoTzF2RTV5MEVQYlRLeDc3WE9ibnV1TTN1YWhZNVhnN1dMMjNCYjZlTHdRaVAta0hfaDE5M0tXODVUT2RvVmRrOVFZejE0MHl6QkxBX1M2dUlHNVJFSWhCbjNxY0IwaGthcFlTVzIzNFdQSjZadEx4N0EzNktXbzNyTTh3RlZHQjBZTF9PMnlsNDNvNHc?oc=5",
+          "description": "Las chances de Uruguay para seguir en el Mundial: desde quedar primero si vence a España hasta eliminado como peor tercero &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-22T15:05:00+00:00",
+          "score": 2,
+          "score_reason": "Descriptivo de escenarios posibles, neutro en presentación de alternativas",
+          "score_pct": 20
         },
         {
           "source_id": "montevideoportal",
@@ -29,13 +44,13 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: cómo quedó Uruguay en grupo H, chances de clasificar y cuándo vuelve a jugar",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUEpCQTZXYUthUjVQV3lmSEk1MUZFTGxBOVpxY251WnE0blJ1VFlnb28yOGFyMGlqaWdCajdsand2N2YyM25kbGFtc0syMldLeWpxSm1UWXJMc3MxSnRZMEp6MVdTaGNacVJCUlhRRWpjd0JrZ2FDaFR6X0VvZW92M0xJMzFWYnVNcjd3WVNpTTllZWY3RnFIcFpveV95a3Jkd1ZaMW5EbTBYNzk3ZkNCc29DQU5VX3RudllPbnc0elVHSVpZc0h3Yk9ERmVMdlFzNmc?oc=5",
-          "description": "Mundial 2026: cómo quedó Uruguay en grupo H, chances de clasificar y cuándo vuelve a jugar &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-22T00:09:00+00:00",
-          "score": 1,
-          "score_reason": "Enfoque descriptivo e informativo sin adjetivos valorativos ni carga",
-          "score_pct": 10
+          "title": "¿Los argentinos quieren enfrentar a Uruguay en el Mundial 2026? Esto contestaron",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPek1BTHNHSWc2SVNCWV9YSnV3RzRIR3VlR0xzV2FuaGxpaDRxMzY2STdtQkxSOEwwY2MzNUdvcVJaR3lmZFpXQ1ZuVE91cXFObXFqYV83QnZVTExUVEswLVZKbXY1WkJuOW5ySVM3NFlNdDl4OXJxWGIyY3lwM3dycmZXTElVZlBLR2RXdENYdlBISjVqRzdvOElCVHZJaUNaVFJIbk5HZ0sxVFlWVkVzYkxDRzhJd1Fkb09ERUxqQmhiS003Y0HSAeoBQVVfeXFMTktPWEc4Z3dfcExuc2RLaDBNeDVlQjRzOGJfeUc4WVQtdzFKWHhqaW1lVDB4ZVM1RUtFREV3TVlXMHVoeEI0NExBZ0E4VlNEN1RuVE5SOURGWEh6V3ctUjBwb3ZPYjZ1Rl9ZSThWMzlvUEZIc0dubjZsN282Vzc4QlRELUt2QWNyOHozVkMyUFpCLWdtcDNPUWZZUkZrMWRXNGFYM2RWRWNreDJYWkJVRHRmZ0dFTi1wMWg4NnV0Sm1GZWZ0OWxVaHFsNW9fMFVOMDJ2MXJRRllwUmhxNks2ZGdRSmtDV2l3RnpR?oc=5",
+          "description": "¿Los argentinos quieren enfrentar a Uruguay en el Mundial 2026? Esto contestaron &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-22T21:47:00+00:00",
+          "score": 3,
+          "score_reason": "Enfoque tangencial en opinión argentina, genera curiosidad sin información central",
+          "score_pct": 30
         },
         {
           "source_id": "teledoce",
@@ -44,12 +59,63 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "Mundial 2026: cuántos terceros clasifican a la próxima fase y cómo está posicionado Uruguay",
-          "url": "https://www.teledoce.com/telemundo/deportes/mundial-2026/mundial-2026-cuantos-terceros-clasifican-a-la-proxima-fase-y-como-esta-posicionado-uruguay/",
-          "description": "Un triunfo contra España lo clasifica automáticamente como primero o segundo de grupo.",
-          "pub_date": "2026-06-22T13:17:20+00:00",
+          "title": "\"La selección está al límite\", pero \"van a poder sacar esto adelante\": habló Luis Suárez sobre el presente de la Celeste en el Mundial",
+          "url": "https://www.teledoce.com/telemundo/deportes/mundial-2026/la-seleccion-esta-al-limite-pero-van-a-poder-sacar-esto-adelante-hablo-luis-suarez-sobre-el-presente-de-la-celeste-en-el-mundial/",
+          "description": "\"Como uruguayo nos gustan este tipo de situaciones, no queremos llegar a ese momento, pero nos toca este momento y bueno, esperemos que el entrenador tome el camino correcto para que Uruguay pueda hacer un buen partido”, apuntó.",
+          "pub_date": "2026-06-23T10:48:31+00:00",
+          "score": 4,
+          "score_reason": "Destaca dramatismo con 'al límite', prioriza declaraciones sobre situación objetiva",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "La selección uruguaya de fútbol se encuentra en una situación comprometida en el Mundial 2026. Uruguay debe enfrentar a España en su último partido de la fase de grupos, donde sus posibilidades varían desde clasificar como primero del grupo si logra la victoria, hasta quedar eliminado como el peor tercero según los resultados de otros partidos. El exfutbolista Luis Suárez opinó sobre el momento de la Celeste, señalando que la selección está en el límite pero expresando confianza en que podrán superar la instancia. Medios argentinos consultaron a hinchas sobre un eventual enfrentamiento contra Uruguay en etapas posteriores del torneo.",
+        "coincidencias": [
+          "Uruguay está en situación comprometida en el Mundial 2026",
+          "El resultado contra España es determinante para la clasificación",
+          "Existen múltiples escenarios posibles para Uruguay en la fase de grupos"
+        ],
+        "diferencias": [
+          "El País y Subrayado se enfocan en análisis técnico de combinaciones y posibilidades matemáticas",
+          "Teledoce prioriza las declaraciones de Luis Suárez y el aspecto emocional",
+          "Montevideo Portal aborda el tema desde perspectiva argentina y no uruguaya"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Ejército patrullará barrios de Montevideo con vehículos blindados",
+      "category": "Seguridad",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "En qué vehículos los militares patrullarán y los dos barrios de Montevideo donde estarán",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb3p4UmJtZndKcDFiYS1ieHd3Y2pnSlZrZm5PeGNCdmQ5OFJqQTNrZlg2Y3FwdXgwNS1KcjM5cVg0V2NpUUlfcVA1ZzB3U2owcE1MR1VsUVk3bkZXczhIcFZ3MmZPd29vLTFhU082aHl2bk9Fd2hGT2h5dy0tMDZ1aEM5MnNOOE5GRVdKektHVU12RDFaZTZtYWZnd2xkMWc5YkQxSTVDSEVtZy1QM2Roek1rdl9mS01aQWVBdXpwbUFvd1lDb0FoSkRKTjQwS3F1MUHSAfYBQVVfeXFMTmozRWdveW1XQXgyb3kxZ0FpREM3S0I4YzFTSWc1S0hiMlg5X2xySEthaktYTS1fZE1sV1h0N1dwUlJYOVJXQ09MMV85OTVodmFNdG5mQm84TnZzRGkzODJWOFVTQ1o5M2JqbVpfNVkyX0JRNThpSlZJckx5alNxQTQyVzk1djNhcHdrNVhzdjFMNWhwUE5CTVBWX0lSdG9FM2owZFVDem5oX1RBb0tGM1U2a2FwOWliTFlsT0N5WElGaXVKN1BYMkZZVGpTQ2VxUVRZUVpIcGpscktpdGpSNnZ4LUZTZ3lySzNWUlVMN2NXYWtBMU9R?oc=5",
+          "description": "En qué vehículos los militares patrullarán y los dos barrios de Montevideo donde estarán &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-22T18:23:00+00:00",
+          "score": 1,
+          "score_reason": "Neutral, descriptivo, enfocado en detalles operativos sin carga valorativa",
+          "score_pct": 10
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Vehículos del Ejército comenzarán a patrullar los barrios de Montevideo con más criminalidad",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcVMwYzJSdGF0aDlBY0JOY1g4WGp6eG5zZW1UU0JJNzB0Y28teHBIZG1NUmlFd25GYVVaNlpGVVRSeHdpY1lZd0U0MXZCUFpCcFozMm5TM0FMck5pZTEtRmdwVldtSWNTaTU0SndXUWFSTUpROWxYN09qUzYtcTRSWnRid1oycE9ia1RiV2VYQVVVUVEzSHNlSnJpX2RreW9PWmtPNi1nLUhoTkNiLU1MejdBcTA5T2VxcmxEWnVQa3U1b3VFYm8tcmJzUEY?oc=5",
+          "description": "Vehículos del Ejército comenzarán a patrullar los barrios de Montevideo con más criminalidad &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-06-22T16:02:00+00:00",
           "score": 2,
-          "score_reason": "Título neutral centrado en información sobre clasificación y terceros",
+          "score_reason": "Informativo y directo, sin términos que agreguen dramatismo innecesario",
           "score_pct": 20
         },
         {
@@ -59,14 +125,35 @@
           "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elpais.com.uy",
-          "title": "Uruguay por una victoria impostergable: los fundamentos de los cambios de Bielsa y el futuro en el Mundial",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbjZlTGdBdUp4cXlWbjYzeWpXcHhxR2pod09uSmF5TUlaYlNGem1MR2x4V1ZtNmROZlFTa1lzbnQxMk1HNkNFS29aazNzYnBRcU04U2k0a0NJeW1wdkNyZkctVkVEUmNCZURfSDRkLWtBY0x3dTVVQWQ3N045eWkwRUlzSk11VFd3NGVuRzVZaWFXUWtEZEQ4T081aC1Fc29jM013c2hkTkdhbUc2MEJwSlg1bE9vTEtCcmxXUThFNEg2X1VXQzM1NjdYbHJEUTVQaUxLWXRQZDhFTFJ5SGF0eg?oc=5",
-          "description": "Uruguay por una victoria impostergable: los fundamentos de los cambios de Bielsa y el futuro en el Mundial &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-21T06:25:32+00:00",
-          "score": 4,
-          "score_reason": "Uso de 'impostergable' como calificativo valorativo de la necesidad",
-          "score_pct": 40
-        },
+          "title": "Vehículos blindados del Ejército patrullarán en barrios de Montevideo con mayor criminalidad, dijo Negro",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVkpTbFhTR3lVLW83QklQR01nRUltRzRtd1NNUWxnc3BheTlEWjBUTGI4QmNSTFdzNXVvbzY2MXBIMEtwbzN4SmFfNzY5MXZaS2ZBSEpnVDZ5aUpyenBmTTZVZ3pRZ1pPVW92R2h6MUhNYlpUUnBFTHdMMHEwWWlJbzRjSnpEMGZXU3lqblVJN21mNXpPVnFZM3RZT2lwMWJvWUJTYmJBQzlOQm5icEFSMkVtLXFkV1I1alpScFFWTDAxOEotVjAzRDNvaDJacE80OHdnTXctc2tVQzZkNlE?oc=5",
+          "description": "Vehículos blindados del Ejército patrullarán en barrios de Montevideo con mayor criminalidad, dijo Negro &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-22T20:02:20+00:00",
+          "score": 3,
+          "score_reason": "Menciona 'blindados' enfatizando el aspecto militar de la medida",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "El ministro del Interior, Nicolás Martinelli (conocido como 'Negro'), anunció que vehículos blindados del Ejército comenzarán a patrullar barrios de Montevideo con mayor índice de criminalidad. Según los medios, se trata de dos zonas específicas de la capital. Los vehículos militares se sumarán a las tareas de patrullaje en el marco de la estrategia de seguridad del gobierno para combatir la delincuencia en las áreas más afectadas. Esta medida implica el despliegue de recursos militares en espacios urbanos civiles con fines de prevención y disuasión del delito.",
+        "coincidencias": [
+          "Vehículos del Ejército patrullarán barrios de Montevideo",
+          "Las zonas objetivo son aquellas con mayor criminalidad",
+          "La medida fue anunciada por el ministro Nicolás Martinelli"
+        ],
+        "diferencias": [
+          "El País enfatiza que son vehículos 'blindados', aspecto militar",
+          "Montevideo Portal destaca detalles: tipo de vehículos y barrios específicos",
+          "Búsqueda usa lenguaje más general sin especificar características operativas"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Críticas a Valverde tras empate Uruguay-Cabo Verde",
+      "category": "Deportes",
+      "sources_count": 3,
+      "headlines": [
         {
           "source_id": "observador",
           "source_name": "El Observador",
@@ -78,228 +165,61 @@
           "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQb3FiQkEyQ3FpRDI4b0hxSTIyZVJRLXhsYjlGXzI3eDBXWV90WXlWaGppa19iS1ZnUm9sNDBnWktZd0dUOTl2ZzZ6ZVJ5dElRLUR4YV9GU1Z1Q1BsYXEtdUhQZk1JOVhyMFdubG1HQ2VtOC1JNWlreUM5RnRiNXhUd3FVVkVzOFhwWEJTUFNoNlplVGd5ZWFxUjVubDlySHdwTDlEdEZZaUpSOFZuQkdJWVlvT1BiODVBRVAzaXRZM1FkLW1xeEdaWjd5YVZSTzVXdEtHMmpuTlQ2SGh6T2s0TGJNZHVoNGtYVG5STkVmWW5Vb05jdXVmeFY1QzVHdGpPMm9fejJTa21leHV0?oc=5",
           "description": "El partido de Federico Valverde en el empate entre Uruguay y Cabo Verde por el Mundial 2026: cambios constantes de rol, el lamento por el gol anulado y otra actuación irregular &nbsp;&nbsp; El Observador",
           "pub_date": "2026-06-22T01:01:00+00:00",
-          "score": 5,
-          "score_reason": "Califica la actuación como 'irregular', término con carga crítica negativa",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "La selección uruguaya de fútbol empató 0-0 con Cabo Verde en un partido correspondiente al Mundial 2026. El técnico Marcelo Bielsa realizó cambios en la formación titular. Federico Valverde tuvo una actuación con cambios de rol durante el encuentro y le anularon un gol. Uruguay quedó en una posición que requiere ganar a España en su próximo partido para clasificar automáticamente como primero o segundo del grupo H. Los terceros puestos también tienen posibilidades de avanzar a la siguiente fase. El equipo celeste enfrenta una situación comprometida en su lucha por la clasificación al Mundial.",
-        "coincidencias": [
-          "Uruguay empató 0-0 con Cabo Verde en el Mundial 2026",
-          "El próximo partido de Uruguay es contra España",
-          "La clasificación de Uruguay depende de los resultados siguientes"
-        ],
-        "diferencias": [
-          "El País enfatiza los cambios de Bielsa y proyecta el futuro mundialista",
-          "El Observador se centra en la actuación individual de Valverde con tono crítico",
-          "Montevideo Portal y Teledoce priorizan la situación de clasificación y explicación del sistema"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Uruguay empató con Cabo Verde en eliminatorias mundialistas",
-      "category": "Deportes",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Uruguay empató con Cabo Verde 2 a 2 y comprometió su chance de seguir en el Mundial",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1YySzVWNlotYnM2SHpRc2diT3hDYkxlNFlOZlBlTXJ2R2RYS3gtZDNHMm5FMThjZmgzYXRUaXVHOVZMcGYxSVd5QmNPRmcyVmc0TkN6UTdEUjA4LWtwcFZTUXUyNHBXU3ZDMFlWQ1FkeWNMZmxVMWlyaTMwNXdBMDRFQ2pQY2ljVklhX3pwdTlBbmItcUhHNFkwTVpVZGs0VDc3cUJKQjdUaG4zVEHSAbMBQVVfeXFMTWs0WFJrdjFzdXNfNjJJMFA1Rmd0TEVyeFN2ME90R3J4NmlyT1JKQW53cklDWW9DSmhTTThKLTVrYXRyUzY0ZmYtckFxZnB6RWVjWHRub0gxZ1llOXN4a1BiMXhqU3BaOFR6WV92QzJBMmZnOXhEOHZQZjJuR09haGZIOVV4MG90V1d1UjdhMnRfUXFiS0x5RDBMeUtHQTVrbnk2RHdLTlFHV0dvZFVmdHFicmc?oc=5",
-          "description": "Uruguay empató con Cabo Verde 2 a 2 y comprometió su chance de seguir en el Mundial &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-21T18:06:00+00:00",
-          "score": 3,
-          "score_reason": "Título informativo con leve carga sobre situación comprometida",
-          "score_pct": 30
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial: Uruguay empató 2-2 con Cabo Verde en Miami y quedó al borde del precipicio",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkxYeE1JdlV3WGc2c3ZVWnIzV251RXRVUmxzY0hpdmhxd240c2tpNTlqZmpYOHNZUi12aWpPNm14R0xJSjZjc2VkdG9qdU5keHdROUhkTUFOS3FPcGtucldodFpNdmNHMEJDb3JtaFNKaHRqSE9xMkwzN1gyNEtoSk9pREFXazhNX3ZTVktsY2tLQjdPNE9OWDU3NDRuOTlWbzJwYWlhSktyeFViazNZR1lHWEZpU19pTDk2cV9fYktBSkFMdDN3dHBB?oc=5",
-          "description": "Mundial: Uruguay empató 2-2 con Cabo Verde en Miami y quedó al borde del precipicio &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-22T00:00:00+00:00",
-          "score": 5,
-          "score_reason": "Usa expresión dramática 'al borde del precipicio' para enfatizar",
-          "score_pct": 50
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "El uno por uno de Uruguay contra Cabo Verde por el Mundial 2026: Agustín Canobbio y Rodrigo Bentancur los únicos que dieron la talla",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQc3J1TFF2MHdRVDU0NHBpZzI2WlZwMU4tNU9XbTlMRnJSMmlya1dCTnNVaTFlRF9LR3JFdXFSZ0xHMEV1RUhpSFFaZ3BuWkE2YnhXbF9Wb004VHVoTmdZYjFWcVB5WjZUNzl2NVhJaUZGOUthUF8xU2dhdHpTLVdVWHR5azhWbDdxdzI4aXpRTTg2YWlfVTJqVmdMYmxHUWtadVh0WWdmM1ltZ1pJVUFOSFV1NTljVEwzWGhDSDNTaV96bFlaNDZzN05JaTh1c19ISHNuYWVncXVKYWxrWjdaendyYkUtMXZpTzFDOXJsZTJtak1WbHU5eFVSV0Z2REdjYmhlbkhNUWE3Zw?oc=5",
-          "description": "El uno por uno de Uruguay contra Cabo Verde por el Mundial 2026: Agustín Canobbio y Rodrigo Bentancur los únicos que dieron la talla &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-21T22:59:00+00:00",
-          "score": 6,
-          "score_reason": "Evalúa subjetivamente el rendimiento individual de los jugadores uruguayos",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "La selección uruguaya de fútbol empató 2-2 con Cabo Verde en un partido disputado en Miami, Estados Unidos, correspondiente a las eliminatorias para el Mundial 2026. El resultado compromete las posibilidades de Uruguay de clasificar a la siguiente fase del torneo. Según la crónica de El Observador, los jugadores Agustín Canobbio y Rodrigo Bentancur tuvieron un desempeño destacado en el partido. El empate deja a Uruguay en una situación complicada en la tabla de posiciones, requiriendo resultados favorables en los próximos encuentros para mantener sus aspiraciones de clasificación al Mundial.",
-        "coincidencias": [
-          "Uruguay empató 2-2 con Cabo Verde",
-          "El partido fue por las eliminatorias del Mundial 2026",
-          "El resultado compromete las chances clasificatorias de Uruguay"
-        ],
-        "diferencias": [
-          "El Observador se enfoca en analizar el rendimiento individual de los jugadores",
-          "Montevideo Portal enfatiza la gravedad de la situación clasificatoria con lenguaje más dramático",
-          "Subrayado presenta la información de manera más neutra y factual"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Banderazo de hinchas uruguayos en Miami",
-      "category": "Deportes",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: banderazo de uruguayos en Miami, entre cánticos, emoción y lluvia torrencial",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNkF1M29xUTRtSnYyb0Q5aFVESC1tSEJyNGJxUHExNlFjMEhqcmdtQXVnZW5tVHZLM2tvdXhXYkl5Q3NULUx4UjMtVEFld0tISUFFaHZBNHFSTFBaWDFxS3JwS2h1TXo4OWFFTi1FY1FNdWJrUEVPdmZicjRyNF9BQmhQTzUwM1J2QzJNUlVXeUVtV2dJY09Ibk13M0FBMlNuSXVVSXhWbkpBODV2NlBocG1jdEFyME1iQU9UdEhTZXI3X0VYQVBuMmc2ZlhqaTdH?oc=5",
-          "description": "Mundial 2026: banderazo de uruguayos en Miami, entre cánticos, emoción y lluvia torrencial &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-21T11:40:00+00:00",
-          "score": 2,
-          "score_reason": "Descriptivo, menciona elementos principales sin carga emotiva excesiva",
-          "score_pct": 20
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Clima celeste en Miami: así vivieron la previa del partido los hinchas uruguayos en Estados Unidos",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaENsTnk5Z0h4ZTA4Q2FKUWl6Z2FwRXhhaG9OaFZGU0ZwT2Qtb2FkdHpVa3l0ckNWRVZoNlAwejNGaGhub2s0Qk1ENThfZDdrR0FQUk9jS2RhR0JiNGxYeXdvdmlBTFBIczNTQ3dzcVozMnBPR2ZBNjZYX2J6ZkNhaS1oRFhuUllSc0FhbzQ0NXY4cm9wZ0NSemQ1eFk3M0dJeHc5ejZjbk1lQ1BCRVhxX2VHUW1ULUVwX2FVbzFxbUZweHVYVkZ5YdIBzgFBVV95cUxQb0FpWDN5OXRxZGlyUjVHSjdHZ2dqcWFqYmxRdlQwUFRjUG54NXNRY05VdFB0M3Zsam1adUs4WkhzQ1BKbWRNeThkNE1KaEtROFhNYzZ0R204MzdudWJwcWdvVDlpQWxEODRUeTV1NmVienB1LUpVMmxRWUgtNUpMcWlNaDdRS0J3bXIzOEhaMjhFVndFODhGNU1JbW5LeWNWZmVTUWc0aFdFQmNaMmEzNTNQQ2hFV2hRaVVhZGFLbFRTVXZYRHVjOXUtdDVndw?oc=5",
-          "description": "Clima celeste en Miami: así vivieron la previa del partido los hinchas uruguayos en Estados Unidos &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-21T21:43:33+00:00",
-          "score": 3,
-          "score_reason": "Uso de metáfora 'clima celeste' añade tono emocional",
-          "score_pct": 30
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Ni un diluvio paró el banderazo de hinchas de Uruguay en Miami durante el Mundial 2026: los uruguayos cortaron la calle y se quedaron a pesar de las fuertes lluvias",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQeEMxaGdJNU5DN2xPLU1aYUI3SHpmN3hBSl9UdTY3aGY3RDdtX0NUWFBLZHAzNnJCMlZ3T0IyS1puWEI1MVJLU2JzdTFJMG1lMjhBYTc4R1daaUJhVkFqcl9VMHVRM0tLMUZMZXhmUnpqNTgtZC1KNWM3NmFsR0JMMVUwNkJVM2paZU56cHAySm1EbWlScTV0ZG9wZ3BzRTFraC1waUsyMHpUaFV3UHRLRjhyS1dMbXppalF3N2FNNnNyWGRzTTJEVE9OMU0zeDVPRVJxTnJoYjlOcHIyUWhxS29mdm5jU3loZzk0VjhFSER2OE5wYVJ5U1FfTWJIWTViZUR4UDA2aFc4N3F1ai00RTNnRjVzWldKbm00RWpZakbSAaYCQVVfeXFMT0d1M0pTM2wyRGEtUlBrMmN0WEROUFIzU2pJZTlIODdFTmxaSk1lV3k4bUwtc2FNTS1mUEQ5Y0tzN1pGMEZYSW5fUmZVM2RJd0w3RmQ1b2FOVzUyc0JNOHlJNXVWSjFWUzhGTjViZWkzbnl1QTBicC1LSFRRSUo2UHJpTzBEVndHQUNVZlItVTZPclV2VkpxZFROYWFzTVFQLWRhQ01lRThQaFNvcTZNWUNUMzdVUVF4T0g2U2ROaWplSEVDY0ljVlZfLV84Uzc1NVo3V2FUdWg1anZ0R3lMWEJEeGQ4SHhSdXNWRWN4bnU0RzdfVFlDYklfNVdxUFhvcU53UWZMdm4wZG5mLTRjXzItanpCbGJBbW9wSFRtMWthNV9mZ2VR?oc=5",
-          "description": "Ni un diluvio paró el banderazo de hinchas de Uruguay en Miami durante el Mundial 2026: los uruguayos cortaron la calle y se quedaron a pesar de las fuertes lluvias &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-21T14:03:12+00:00",
           "score": 4,
-          "score_reason": "Lenguaje emotivo con 'diluvio' y énfasis en persistencia",
+          "score_reason": "Califica la actuación como irregular, usando adjetivos valorativos",
           "score_pct": 40
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Luis Suárez sobre Uruguay en el Mundial: \"Es una situación límite\" y \"esperemos que el entrenador tome el camino correcto\"",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaEgyTnJtam9PUXhONWlUVy1hbVhsOTV2UkhLcWFZdlRHdjNzSi1KT1BHb0NSZFFyQWZJblhuZWo1SVRSU0o5MHJyRTJEVXNFQm1haVk1dDZzbDl6YWh3YWNIbFM3azZLeDFjNWc5Y2lHV2ZyaHRRemZvSkJTN19kNWdodU1RaXAxbVpwRC1KOTBaRUwtV2UtOFVPMDYzT2JnQWtaMGd6dmZhTDFvNi0wNUY2dXgyeEw4clV2bkZSZFBHRnZPN19idUxwdlhyY1ZSbDBHOTZ1V3Z0OEJmckhr0gHkAUFVX3lxTE1xUWhaZHdxYmpleDk0alNMcmZ0SGJwR0Y5eTk1alljZFhYUDg5Q2pQM3FnX3lWdlF4andjN0FuVGJtSUxDcEktbUw1UmpuTDRTX2dmMWg3ZERuQzBwY0FQd0FMZWE5Q3ZFX0w3S1JxcUhzSTIzd1U1RTFDOXhEakxJdnNoZlFjVG10TEg1bHpadGtQTnM0ZEZOUlF1TDZkRENMT3lyam1temFvU3RZSzhKY2owNExjWkQ1cE1HQmlqS0tYeWxEdlpkUWY5VmpaVENzWnlENDNKTzZjSUs0QlBQVFA2QQ?oc=5",
+          "description": "Luis Suárez sobre Uruguay en el Mundial: \"Es una situación límite\" y \"esperemos que el entrenador tome el camino correcto\" &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-23T11:47:00+00:00",
+          "score": 5,
+          "score_reason": "Enfatiza crítica velada al entrenador mediante declaraciones de Suárez",
+          "score_pct": 50
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“En Uruguay no le da” y “siempre le faltan cinco pal’ peso”: las duras críticas a Valverde",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzdIYkNpeHUyZEN6YVJWMGhmNXhtQkZCZzBjUEx4MlkwTm84MmR2NjNCZFlFQ25CN2NmVlZ1TXdQZmFvWVhYQWdyZWxDUG5TQ2sySFliS2RqMjJsa3N5WFR6VzhGN2kzSGpIQ2ItQW9YVDl3ZjA4RVhqbnNTeGxxVjBSLUpaSXduMm9kWU9YUWlvc3JzdXE3eFNMampSN3ZqOVh4VzFvZXV2dWpaSzhUQXFGVzZDbExXLXFiUWdRSDZFdXZIaFRDMGtQaVRUaXPSAfMBQVVfeXFMT3JKQVRtSFRuYlhzNXIyekdUOXF4Sk9DVWZfSEJOY0xWVXl2UE15S3g4NFlFMWJHN3NQXzlKV2txOW50aHpqUkZEdlowNFRJNDlMOS12dmU2SVBaeGhSUW1lMkdEXzNPZllGdzJHTUJDRFEwcVJXdEktSHptMl9jMy0xTXFkb3pnSm00MFhMZXplLXhYU013bElKVjY4cW42WEZNUjJBTE80LVZxT2VqMU02TWxyeGlnSWsybzZOeDJST3cxYlZkd1lsRzZyWVl3YWQ1YkNpelhybkdVRkM0NU9yNU94c3NEdHBrb2N2SE9BdzFj?oc=5",
+          "description": "“En Uruguay no le da” y “siempre le faltan cinco pal’ peso”: las duras críticas a Valverde &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-22T20:02:00+00:00",
+          "score": 7,
+          "score_reason": "Resalta críticas negativas con frases coloquiales cargadas emocionalmente",
+          "score_pct": 70
         }
       ],
       "analysis": {
-        "resumen": "Hinchas uruguayos realizaron un banderazo en Miami previo a un partido de la selección uruguaya en el Mundial 2026. La concentración se llevó a cabo en una calle de la ciudad, donde los seguidores se reunieron para alentar al equipo. Durante el evento se registraron lluvias intensas, pero los hinchas permanecieron en el lugar. La movilización incluyó cánticos y manifestaciones de apoyo a la selección celeste. El banderazo formó parte de las actividades organizadas por la comunidad uruguaya en Estados Unidos en el marco del torneo mundial de fútbol.",
+        "resumen": "Uruguay empató con Cabo Verde en un partido por las Eliminatorias del Mundial 2026. Federico Valverde tuvo una actuación cuestionada, con cambios de posición durante el encuentro y un gol anulado. El jugador del Real Madrid recibió críticas por su rendimiento con la selección uruguaya. Luis Suárez realizó declaraciones sobre la situación de la Celeste, calificándola como límite y sugiriendo que el entrenador debe tomar decisiones correctas. El resultado deja a Uruguay en una posición comprometida en las Eliminatorias.",
         "coincidencias": [
-          "Todos mencionan el banderazo de uruguayos en Miami",
-          "Todos destacan la presencia de lluvia durante el evento",
-          "Todos refieren al contexto del Mundial 2026"
+          "Uruguay empató con Cabo Verde en partido eliminatorio",
+          "Cuestionamientos al desempeño de la selección uruguaya",
+          "Situación complicada de Uruguay en las Eliminatorias"
         ],
         "diferencias": [
-          "El Observador enfatiza la resistencia al clima adverso y el corte de calle",
-          "Montevideo Portal equilibra entre cánticos, emoción y clima",
-          "Subrayado prioriza el ambiente festivo y la previa del partido"
+          "El Observador analiza específicamente el partido de Valverde",
+          "Montevideo Portal enfatiza las críticas públicas al jugador",
+          "Subrayado prioriza declaraciones de Suárez sobre el entrenador"
         ]
       }
     },
     {
       "id": "story_004",
-      "topic": "Uruguay empató con Cabo Verde en Mundial 2026",
+      "topic": "Peñarol campeón de básquetbol tras 44 años",
       "category": "Deportes",
-      "sources_count": 2,
+      "sources_count": 3,
       "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Cómo quedó el grupo H de Uruguay en el Mundial 2026 y qué necesita para clasificar a 16avos de final",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVWV5a2ZEM29mTXlXWW40aEVzTFhfcWJVSDh0WHl4R2xWVHkzSlNHVEUtYWVSV0RKSnlMbDExbF9SWEpwbW5RaUt2dEhvZzZrc1I4Yk05RHdER0RCaW91eFZ1V1hoT1hSbzNnWVh3b1d0V0FyYl9mZ0pPTldRX1pJdXprdl83NjVWMVBONDREQjNTWnlySmZLYVk0MHFxSUQ4UjB3SnFOMWNvRTVqdUlONjdZNXJ0Y2hJTTJuUERoQmRnQXpfNmdWWHZsOUhidlA3RC1QZUN5RFBmUQ?oc=5",
-          "description": "Cómo quedó el grupo H de Uruguay en el Mundial 2026 y qué necesita para clasificar a 16avos de final &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-22T00:06:42+00:00",
-          "score": 1,
-          "score_reason": "Informativo, neutral, enfocado en datos del grupo y clasificación",
-          "score_pct": 10
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Uruguay empató 2-2 frente a Cabo Verde y se complicó para pasar de fase | Noticias | Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjZ1dnWGw4LUtHMHVxN25PRTRrZFJVU2pPZGlkQkUwSHJ3U0c0T25jOURRXzJjcTV3cjdoTEhIOXd2Znk2VVRxM3NzQ0dBYktONU5qaUxBR3lEUkp5aFFJOTh6LWxkVnlUSWlMWk9kQkNMblZ2T095YmRxeWhJeWM?oc=5",
-          "description": "Uruguay empató 2-2 frente a Cabo Verde y se complicó para pasar de fase | Noticias | Mundial 2026 &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-06-21T22:31:19+00:00",
-          "score": 3,
-          "score_reason": "Incluye valoración sobre complicación, leve carga interpretativa del resultado",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "La selección uruguaya de fútbol empató 2-2 con Cabo Verde en la fase de grupos del Mundial 2026. El resultado complicó las posibilidades de clasificación de Uruguay a los octavos de final del torneo. Ambos equipos integran el grupo H de la competencia. Uruguay necesita obtener resultados específicos en los próximos partidos para avanzar a la siguiente fase del campeonato mundial. El empate deja a la selección celeste en una situación comprometida de cara a la clasificación a dieciseisavos de final.",
-        "coincidencias": [
-          "Uruguay empató 2-2 con Cabo Verde",
-          "El resultado compromete la clasificación uruguaya",
-          "El partido corresponde al Mundial 2026"
-        ],
-        "diferencias": [
-          "El País enfatiza la composición del grupo y requisitos para clasificar",
-          "El Espectador destaca la complicación deportiva y las dificultades para pasar de fase"
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "Desempeño de Uruguay contra Cabo Verde en Miami",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "¿Cómo jugaron? Puntuá el desempeño de la selección de Uruguay en el partido contra Cabo Verde en Miami",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU3I4QXA3OG9NU0FfREtsYlhuSm8wOWRhUmJOU050MUc5OGZUYjdhU3RScXA0YWI0N24tWUt1ak91RjJmX2daZ1JKTlNYb1lCVzNiZHk1S3h6Nmk3QVBTT1hhOHcyYkF0UGNKUWNrdGlFSlJrZUVhS0NoTlBCbEJKdzlNc2FpMjJtajFic0ZBRzJlbl9ndkl3R0F5cVBMN3dXNzZtTkE5cUc5aVR3MTd6SWE1SjRsdWN6RHQ2VlV5OW5LbWhrM0IzQnJhYnBsTmw4WlBXcXJ6aDJqQQ?oc=5",
-          "description": "¿Cómo jugaron? Puntuá el desempeño de la selección de Uruguay en el partido contra Cabo Verde en Miami &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-22T00:25:40+00:00",
-          "score": 1,
-          "score_reason": "Titular neutral que invita a interacción sin calificar el desempeño",
-          "score_pct": 10
-        },
         {
           "source_id": "montevideoportal",
           "source_name": "Montevideo Portal",
@@ -307,35 +227,14 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Uruguay: los errores propios fueron determinantes en un desempeño con pocas luces",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU3JfY21HSmJUU1p4bmNLSVl4SFhSN0VaTzU5TTJ3VUJoQ0ZNSy1KTVBHbUxwa1UxT2tDVzh4UE5oUldDQVNieXF3SmdHWGFFWC1mU1g5SER3aWItR2xjbUI4ZzE4b0thTEo3VVl2VkJZTlZuSU9DV0F3LTJ1UzE2OUJpYnFIY2YtQ2p5T2o0Y2Z5Tmp2bERBZGczdzdrYzhhMVJHcm85eXV6ZWRtTGJQSFB6REJLQ1FzZ1FwY0tMbmRiajF4eEpN0gHrAUFVX3lxTE4xc3pPaVdsYWFNbklCd1lGY05oemNfNE4xMjl0UEExQUF6RmNrZmtDcjZzTDEyMWtZbGZ3Mkx0R3hWaHdLb1FnM21ZYmtVUmpaVEE0dlNROXpRVzdYVjdlRl9PdUIwbE9MNXB3SHNEWHhZUzlsWnBLVlliUVBYSnZVY1N3THp1ZHlPc0JvUGRCaXE5RFMyS2VpS3dRMUZCTmFYMmpIQUVzeC1VZ0h2Z0JDVm1jRlFnbHlaUUttSld5RkVNTmllQVFIOGxwdkNEUlV2blRDYUZLTXdpWkJjQjhCZEtMeEpFV3dQdlE?oc=5",
-          "description": "Uruguay: los errores propios fueron determinantes en un desempeño con pocas luces &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-21T23:13:00+00:00",
-          "score": 5,
-          "score_reason": "Encuadre negativo enfatizando errores y \"pocas luces\" del equipo",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "La selección uruguaya de fútbol disputó un partido amistoso contra Cabo Verde en la ciudad de Miami, Estados Unidos. El encuentro mostró un rendimiento de Uruguay marcado por errores defensivos y ofensivos que condicionaron el resultado. El equipo evidenció dificultades en su funcionamiento colectivo durante el desarrollo del juego. El medio El País habilitó una herramienta interactiva para que los lectores evalúen el desempeño individual de los jugadores uruguayos. El partido forma parte de la preparación de la celeste en suelo estadounidense, donde disputa encuentros amistosos internacionales previo a futuras competencias oficiales.",
-        "coincidencias": [
-          "Uruguay jugó contra Cabo Verde en Miami",
-          "El desempeño de la selección uruguaya fue analizado",
-          "Ambos medios se refieren al mismo partido amistoso"
-        ],
-        "diferencias": [
-          "El País opta por titular interactivo sin valoración del resultado",
-          "Montevideo Portal evalúa críticamente el rendimiento destacando aspectos negativos",
-          "El País invita a participación ciudadana, Montevideo Portal ofrece análisis editorial"
-        ]
-      }
-    },
-    {
-      "id": "story_006",
-      "topic": "DT de Cabo Verde critica actitud de Viñas",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
+          "title": "Básquetbol: Peñarol venció 107-92 a Aguada y se consagró campeón tras 44 años",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYWhpUzl1RmVYXzhrQUZPU29XVjZjTVUyTEZhNDQ1SUhGdXVtQm9waHlFOTE2UjhHT25IVjRsZ1FCNkZnQW5LakcyNlRBRnNqUXQ0SXhabmhWREF5UmNpTXFfc2o0ajNrdXpyMVB6eDJ5aTFUdU56QnExWG00M1lGNV9MLTUtQjRXN1diYVBmUTREUE82dWlCcVlxSnA3S2FpN0d4UDVFc0l2NmlNVE5QNU53UHlKaVE4MkkyZjBKTjVuZ9IB5gFBVV95cUxNbHZGSzF2UjN2dk9SLTZLUF9WVkk1d1FneU42MkEyc0pVMjBaSmFlS0J1SzJhdkpINlVsaVdyS2xuX1dhOEowOXRPRVAxeDR6V0lfODZHdk1qTmk2SG1hTlQyWGdGMGsxdnBrR0V4cmQ1clFJQk16cTRoejlMN2VLbjZWeDhPdlpsNlpfNWl3NFhUb0hvTmZaNkFkMnd0M0VHeWh1Z01SNWF4Nm9WeURZcjYydHFJSk9ROHpMeVJzUllKS00taDg3QzduN3ZPR250M2RFc3VKTHBxSjVTMjFNbXVHTjVBZw?oc=5",
+          "description": "Básquetbol: Peñarol venció 107-92 a Aguada y se consagró campeón tras 44 años &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-23T02:20:00+00:00",
+          "score": 1,
+          "score_reason": "Información directa y precisa sin valoraciones emocionales",
+          "score_pct": 10
+        },
         {
           "source_id": "teledoce",
           "source_name": "Teledoce",
@@ -343,149 +242,149 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "\"Aprendimos a tener fair play a partir de Bielsa\": el entrenador de Cabo Verde se molestó por la jugada previa al primer gol de Uruguay",
-          "url": "https://www.teledoce.com/telemundo/deportes/mundial-2026/aprendimos-a-tener-fair-play-a-partir-de-bielsa-el-entrenador-de-cabo-verde-se-molesto-por-la-jugada-previa-al-primer-gol-de-uruguay/",
-          "description": "Allí se ve a Federico Viñas estirándole una pierna al futbolista de Cabo Verde que estaba caído y al ver que la jugada seguía, el delantero lo dejó y salió corriendo al área.",
-          "pub_date": "2026-06-22T15:05:22+00:00",
+          "title": "Después de más de cuatro décadas, Peñarol volvió a ser campeón de la Liga Uruguaya de Básquetbol tras ganarle a Aguada",
+          "url": "https://www.teledoce.com/telemundo/deportes/basquetbol/despues-de-mas-de-cuatro-decadas-penarol-volvio-a-ser-campeon-de-la-liga-uruguaya-de-basquetbol-tras-ganarle-a-aguada/",
+          "description": "Los jugadores y los hinchas festejaron en el Antela Arena.",
+          "pub_date": "2026-06-23T09:40:51+00:00",
+          "score": 1,
+          "score_reason": "Redacción neutral, enfocada en datos objetivos del hecho",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Peñarol campeón del básquetbol uruguayo tras 44 años: venció 107-92 a Aguada y conquistó la Liga",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaTZzNGNMRm15OVpkRzdIb05jOXFuNURqV1RIcW0yYWRDR1NXYmFrLWs3VGR0RjFZWHVDSm5MaWpDVEZOaGMxTkdvNXltMjFVYUlqRmlDNGxzOC1SVnZPbTI0UW5IVVc3MlVqZXlWUGkzNFVGMEIxcVpTeEFoTXB4Z2xkbVZDdzlESFUtVW02LTFGTGJGdllhamRNSlBUX0l4YW5ZUS03SjlZUkQ1dUtWVXZhTmpKSzRaSm54SnZjRWlNSVVV0gHKAUFVX3lxTE1EUTlocHNpLU9jZnhZVlJsTXRrWFlnYmlyWDMtZVlkY2NSTkJuT0l4aU9MLS1vQ2VOTEZlVHZXX2p4ZkpMZzlwU3pQeUVZZDBZeTlyOVFtQ09ub0VqeXU3a2NEUU0zYlgtU2F4VkZ6WWpnQW5nby1lS1pBTFBYel81WjJLWUNXZnpRQ1dtSC02ZlNOTVJTa3lJQTVvaEU4MEllMVppTXJQLTJOblJhNWJIbUJlbW9pTHE3b3N0X0RoTkd0aWVFS1cwd1E?oc=5",
+          "description": "Peñarol campeón del básquetbol uruguayo tras 44 años: venció 107-92 a Aguada y conquistó la Liga &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-23T11:38:00+00:00",
+          "score": 2,
+          "score_reason": "Uso del verbo conquistó agrega leve carga épica",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Peñarol se consagró campeón de la Liga Uruguaya de Básquetbol al vencer 107-92 a Aguada. El título llega tras 44 años sin obtener el campeonato en esta disciplina. El partido se disputó en el Antela Arena, donde jugadores e hinchas celebraron la conquista. Esta victoria pone fin a más de cuatro décadas de sequía para el club carbonero en el básquetbol uruguayo, en una final disputada contra su clásico rival.",
+        "coincidencias": [
+          "Peñarol venció a Aguada con marcador 107-92",
+          "El campeonato se logró después de 44 años",
+          "El título corresponde a la Liga Uruguaya de Básquetbol"
+        ],
+        "diferencias": [
+          "Teledoce menciona el festejo de jugadores e hinchas; otros medios no",
+          "Montevideo Portal y Subrayado especifican el marcador en titular; Teledoce no",
+          "Subrayado enfatiza la conquista; otros usan vocabulario más neutro"
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Declaraciones de Suárez sobre Uruguay en el Mundial",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "ladiaria",
+          "source_name": "La Diaria",
+          "source_short": "LD",
+          "source_color": "#1B5E20",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://ladiaria.com.uy",
+          "title": "Uruguay contra la tabla y contra sí mismo",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2dSRGZ0bUlXNzUyVzBqNnFNU0RDM1AwWWcxeE82bWxycURwckNibWpjOE9FOVlCZ1JidWVoNnNNTFZkNERNdERKQWFXOXhfbVdTQ3ZuXzBvWTVFaTdyN3FDaGxRU2FERFJWVmxSQ1JnOVpHUDAwbVY1cUxEcFJpZk95dk5hRm9GWDVYVjVGd1RtZ29R0gGkAUFVX3lxTE9OTzZ5a3VFYVlpTFhwRkZqQjRkdTNDbUhaU2VmX2t6X3ZtRzZEWmM2SmlPN0NWLXNHek9xbWtNd1ZkOFpXaDBmdzRPNnpaX1dGNnEtazNhZDItVDE0SENyZmJBbGtfbjhjeTNvcUdMeUw3dVlfQy1JbzlTOHdYOXV1OVo0aEZkQUR4R0ZLNDVEdERGQ2h1cjVzRkc1bklpc3NPYWRs?oc=5",
+          "description": "Uruguay contra la tabla y contra sí mismo &nbsp;&nbsp; ladiaria.com.uy",
+          "pub_date": "2026-06-22T00:41:07+00:00",
           "score": 4,
-          "score_reason": "Incluye contexto explicativo pero destaca molestia del entrenador rival",
+          "score_reason": "Lenguaje metafórico con dramatización implícita del momento uruguayo",
           "score_pct": 40
         },
         {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "DT de Cabo Verde y su decepción con Bielsa tras la actitud de Viñas: \"Aprendimos a tener fair play a partir de él\"",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR29UZkNwOVcteGVVSjllbmtSQl9VTDRCV3lIdkJ0cHpodzg1MENvMG1yOWVYMTRoTWdSSld4al81aXIwa29DbE1od1ZOUlJKdG9jVGUzVjFjTExONUtCWVJCNjJkZGJOTE1mbldraUtIcWFrTVJPazBveHNKeFd3bWozejZneTBWTjlpdHJPYTROOXBLNzRNWHRnODZaX05QcHE2d012cTJMbUd4V0EyaURreTJmZ1N3cDJER0QySHYxQ2V6RWdqNVprbEVBRmFxZ1lUbkJqQ2FNUEtKM1dINW96bmRzUVRv?oc=5",
-          "description": "DT de Cabo Verde y su decepción con Bielsa tras la actitud de Viñas: \"Aprendimos a tener fair play a partir de él\" &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-22T11:24:07+00:00",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Luis Suárez: la “situación límite” de Uruguay en el Mundial, su “impotencia” y Bielsa",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTGd6a0FsS3FVd1IyOXFnclFqRE5yYjJVTU5OZV80VDFFMm1KTWNIamFWOG5jSmRmWmJXOGlZU1B6VWsyV3N3aEdsNFRIRTZTWjNtVlFBQk9SU0RBLTZTYUhYSy13MXF3djdlc0RWV3R2YTdXSGJHdURKaGM0cmRWZnFjQ2UyaXBQYV8wUjdjMUlsaFFXc1I1eWlhN1pTNm41X3pQZmFEWUlUakQzUlZVbzd3QnlSdm05QTVzYmFoN0ZKbWZFYnfSAeoBQVVfeXFMTk4wT1pTVEhnLWxjSE4tZ3JSS2F0VEpPeXFoN1I2M1BuN21BRV9MUE0xeDhNeVpZb19FTU9PcG5oZXBUTEtQRmpPQ0k3aVhhTTM5MTAzamRBbHhCdmtfaEFUZ3FhTHRBcUpad1RYSlRUSzhXd1RaTmJCUWJvLS1Pc2VoWlI4dXpzckVTaFJ1RE03SlMwY2Q4UU5yZVE2aS1yeGxrVXZORWx2TGZDaktDc3RPSjdySy04UHZJMlVINVN0WHJ6SkRLU2J2NTJhRmI5eVRNeEd4c3lWX1JqcXYxbWQ0VTFVWEhCRWln?oc=5",
+          "description": "Luis Suárez: la “situación límite” de Uruguay en el Mundial, su “impotencia” y Bielsa &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-22T23:00:00+00:00",
           "score": 5,
-          "score_reason": "Uso de 'decepción' y estructura enfatiza aspecto emocional negativo",
+          "score_reason": "Uso de entrecomillados dramáticos destacando aspectos negativos y emocionales",
           "score_pct": 50
         }
       ],
       "analysis": {
-        "resumen": "El entrenador de la selección de Cabo Verde expresó su decepción con Marcelo Bielsa tras la jugada previa al primer gol de Uruguay en el partido entre ambas selecciones. El técnico caboverdiano cuestionó la actitud del delantero uruguayo Federico Viñas, quien intentó ayudar a un jugador rival que estaba en el suelo, pero al notar que el juego continuaba, lo soltó y corrió hacia el área donde se originó el gol. El DT africano manifestó que esperaba otro comportamiento basándose en los valores de fair play que asocia con Bielsa.",
+        "resumen": "El futbolista Luis Suárez realizó declaraciones sobre la situación de la selección uruguaya de fútbol en el contexto del Mundial. El delantero se refirió a la situación compleja que atraviesa el equipo en la competencia, mencionando una situación límite y expresando sensaciones de impotencia. Suárez también hizo referencia al entrenador Marcelo Bielsa en sus declaraciones. Las manifestaciones del jugador se produjeron en un momento crítico para Uruguay en el torneo, donde el equipo enfrenta desafíos deportivos importantes.",
         "coincidencias": [
-          "DT de Cabo Verde mencionó a Bielsa y el fair play",
-          "La crítica se centra en la jugada de Federico Viñas",
-          "La acción ocurrió previa al primer gol uruguayo"
+          "Ambos refieren a la situación difícil de Uruguay",
+          "Ambos destacan declaraciones de Luis Suárez",
+          "Ambos mencionan el contexto del Mundial"
         ],
         "diferencias": [
-          "El País enfatiza la decepción personal con Bielsa en el titular",
-          "Teledoce explica la jugada específica en la descripción detallada",
-          "El País centra el foco en Bielsa, Teledoce en la jugada concreta"
+          "La Diaria usa metáfora colectiva, Montevideo Portal cita textualmente a Suárez",
+          "Montevideo Portal menciona explícitamente a Bielsa, La Diaria no lo hace",
+          "La Diaria enfatiza lo autodestructivo, Montevideo Portal la frustración individual"
+        ]
+      }
+    },
+    {
+      "id": "story_006",
+      "topic": "Posibilidades de Uruguay en fase de grupos",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "ladiaria",
+          "source_name": "La Diaria",
+          "source_short": "LD",
+          "source_color": "#1B5E20",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://ladiaria.com.uy",
+          "title": "Las chances matemáticas de Uruguay para pasar de fase con los tres resultados posibles ante España",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVppM2RISy1VQmUyM1ZEYnFLaHk2U3NTMXJ4b3ZjQ05xVUtPam1sUnEwamxmS0RSUjczZlp2bmFjdnFUUjhzSmJGVjdDSHFrR3BLa09EdjgzMVgwQ3g0SUU1NkVGeTJjNTJiZWpmTVJ0bl9veVRQMFNmaWw5blkwZlpxLUFmVzdQY0xZX0RHcHVxX2FtN3cwdmlOS2JVOGRQUVRseWt1R2ctakJ3VHpGNVl1UTJ0Z3RIcnp4YktaYU5qNnhOMUgzT3ZxLWFRbjFI?oc=5",
+          "description": "Las chances matemáticas de Uruguay para pasar de fase con los tres resultados posibles ante España &nbsp;&nbsp; ladiaria.com.uy",
+          "pub_date": "2026-06-22T04:02:46+00:00",
+          "score": 1,
+          "score_reason": "Descripción neutral y matemática de los escenarios posibles",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Volvió la calculadora: qué puede pasar si Uruguay empata con España en la última fecha",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSWlBc2F2UXEwSDdLcW0xTDZYWERfTV9TR2t1SVpPTW15NjFLLUpPY0Q0SS1pWDlDczg0Yzd6aGVseE9wbmpraE5vNVFYVjI2UmUxNzRyVURja3lIVlpVMjBoNHNqQlpvZXRWQkJVMWRDYVdQcmxXWVhrQUVfeGZ0V0VpdThNTlZwWW5YTThvNUZSQmRzdHlQT2NpRkp3U050blRlZkhPajhYbktRclVzVFdQSkVJb2w0NFJkQUlNSjIxTUJ1RkpWSlVLQkNCUdIB8gFBVV95cUxQVnBvOFZWTUY5NXJoSjNZblkzQ0N0WE9pVkZPTS1QUEdtNHFQcW53OGlsWlVDNHhQSjhGWm5NTmNDbngtTlpSd2NmZEsxRkd6YWRWOFVWU2Q1MmJBMG9ob1ByYzN2NVRaY3N0MVZYZm1mdFBYV2lFb3VmZFdXaG9EVHhjNk5TZm1rYXR4NXpjUTJ5NVBubkc0cF90MGNXMUNFYy0td29hWE9lYWEtQmdTTl9qMEdZM1BUT0FjRkxKWk12SU5kYndoMDM2SDB2aTdJQTdVQmw3RGlnTm5aNlhSYXB3STBDN0M5ejRwcm9vdVppZw?oc=5",
+          "description": "Volvió la calculadora: qué puede pasar si Uruguay empata con España en la última fecha &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-22T14:09:00+00:00",
+          "score": 2,
+          "score_reason": "Enfoque en el empate específicamente, expresión coloquial calculadora",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Uruguay enfrenta a España en la última fecha de la fase de grupos de un torneo internacional. La selección uruguaya necesita hacer cálculos matemáticos para determinar sus posibilidades de clasificación a la siguiente ronda según el resultado que obtenga ante el equipo español. Los medios analizan los diferentes escenarios posibles: victoria, empate o derrota, y cómo cada uno afectaría las chances de avance de la celeste. La clasificación depende tanto del resultado del partido como de otros encuentros simultáneos del grupo.",
+        "coincidencias": [
+          "Uruguay juega contra España en la última fecha",
+          "Existen diferentes escenarios matemáticos de clasificación",
+          "El resultado define las posibilidades de pasar de fase"
+        ],
+        "diferencias": [
+          "La Diaria presenta los tres resultados posibles, Montevideo Portal se centra en el empate",
+          "Montevideo Portal usa lenguaje más coloquial con 'volvió la calculadora'",
+          "La Diaria enfatiza el aspecto matemático comprehensivo de todos los escenarios"
         ]
       }
     },
     {
       "id": "story_007",
-      "topic": "Luis de la Fuente previo al España-Uruguay",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Ser aún mejores”: Luis de la Fuente anticipó el duelo ante Uruguay que cerrará el grupo H",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSy1LM2F5SVRrY1ctcEFkSVpmM0xDWWZQOGxtSFo0MkVQcmJuNDdlYUV4VWtqNDRyaWNFU2tkUWNXVkNxSzRPUU40S29lM2dtYUNFYzI2Tzc4dmw1V3hQS3kzRDdfS253b2xqQVo5M204WkZsM3dBVE4yVkdYbjZNQ3JfWFpEVkdXM3JwQkt4SlFILUpKYkZ2SVRHTFpmMEdLNmVlMm1PbVZ1YWMxM3pmWlM1VkFPUkc4RVoyUDFnNTU2NHVBa3d1dUd3ajNlWkVFQ1BZ0gH3AUFVX3lxTE1VV2pqcXRlVlpkVXhpLXVtOHkxbU9LZk1jbzduazRrZlBKaGxTRlNKWHdycW5wNlVfQmlMcElZdm5QbUVRcTJlQ3BmY3VUR09xMkduSV9id3ZKR0Y2S0Z1bldKTEZHaGtPR0FLMHVrWlk4RVBtQXZrbkVUY3ZGUmNJd3hIZTdDTElUR3dXb2JqWE1Ca1Fza0Y2cXV2ajF2NVFUdlFaSGcwTDZjelp3QmxyZ3NEMFpnNDZDVTBkWDFYY2o5MkQ3SU1wZWJnbnJmOFRXa25YMTFvTkFZYXRwbjFKNkhjeV9CT2JvWTlyQkpXZzFYcm8xS3c?oc=5",
-          "description": "“Ser aún mejores”: Luis de la Fuente anticipó el duelo ante Uruguay que cerrará el grupo H &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-21T21:22:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo, cita textual y contexto preciso del acontecimiento deportivo",
-          "score_pct": 10
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "La guerra y la paz",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxOC1UMS1HR1U4S3c4aTJocXZwQWgyelJlOUxqXzVUTVdlMDlRcWZ5dHBWcnhVMk5OYUstUzJGdFNDNnJDTXVDRUxDTF9jdnNxZFdmSGplcFpmYUl4MWpjZEhteWFMazBBWklDOWc4Y2hUdW1Ba09xMQ?oc=5",
-          "description": "La guerra y la paz &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-21T07:16:40+00:00",
-          "score": 6,
-          "score_reason": "Título metafórico y ambiguo que no informa el contenido noticioso",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "El entrenador de la selección española de fútbol, Luis de la Fuente, brindó declaraciones antes del partido que su equipo disputará ante Uruguay, correspondiente al cierre del grupo H. El técnico manifestó que España buscará \"ser aún mejores\" en este encuentro. El duelo forma parte de la fase de grupos de una competición internacional. Ambas selecciones se enfrentarán en un partido que definirá las posiciones finales del grupo. De la Fuente realizó estas declaraciones en la previa del compromiso, anticipando el enfoque de su equipo para el partido ante la celeste.",
-        "coincidencias": [
-          "Ambos refieren al partido España-Uruguay",
-          "Se menciona al entrenador español Luis de la Fuente",
-          "Tratan sobre declaraciones previas al encuentro"
-        ],
-        "diferencias": [
-          "El País usa metáfora literaria mientras Montevideo Portal cita declaraciones directas",
-          "Montevideo Portal contextualiza con datos del grupo H específicamente",
-          "El País no identifica el tema deportivo en el titular"
-        ]
-      }
-    },
-    {
-      "id": "story_008",
-      "topic": "Luis Suárez con camiseta especial en partido Uruguay",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial: Luis Suárez alentó a Uruguay en el Hard Rock Stadium con una camiseta especial",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMU9pZHY1anUtLWxqdVBnUGh4bU50Tm9qTFJPSzJxNlQxZDJ2WnFCS0JSck5KMzhmTUc0RkM4SlMzNTRKeWRMRVhUbDU0ck5yWnd6aXFIX1FQeHFDZmVRQXZKWW1JV2NFLURtMWNST0JIMERjVEk3dG1COVE2VzBqYUl5dFRWRGw1ek9fbDVkdDNlVUVWeEU1NG9TUWpBcE5qQ2lfdk5xRFo0Z3FOUnlIRWx1anFjN2ItX19OUDM4T0V5emRMQ3Q0R1Y2ZEFsbTA?oc=5",
-          "description": "Mundial: Luis Suárez alentó a Uruguay en el Hard Rock Stadium con una camiseta especial &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-21T21:54:00+00:00",
-          "score": 2,
-          "score_reason": "Titular más directo y descriptivo, mínima carga valorativa",
-          "score_pct": 20
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "La camiseta distinta con la que vio Luis Suárez el partido de la selección uruguaya ante Cabo Verde en el Mundial 2026, con mensaje a un jugador",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPb21qN1hwU2FkaE1ZVThreGpDVFVmLURobDdfM1NaUzZRM3VteFItNTRtUExkV01lNTNpUmotQlB4b1c2X2lvcGdMTml0QktYU3p2bF9qbUVPMWxHcG5GNHFPd2pvSlN5SkNmb25FV3dObnRJMDhSY05jbGl4QkFsU2t1T0xQQVEtdGtOSlFFQ1I5aTRhVkNEUUV2dHE4M2tkS05OZXRLOHNkZHVEcTZodGc0ODV4V2tZRTdRVmlIM2tqVGoydWtvM1pvcUpucG5tejRfRUNZV0RfOG1NdmVEenVJRVBYMkZkV1BMcF9BVkR3SGdYQ3dHYVRhTzI4b20wOWZCWTNtSQ?oc=5",
-          "description": "La camiseta distinta con la que vio Luis Suárez el partido de la selección uruguaya ante Cabo Verde en el Mundial 2026, con mensaje a un jugador &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-21T22:27:00+00:00",
-          "score": 4,
-          "score_reason": "Enfatiza el misterio del mensaje creando expectativa innecesaria",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Luis Suárez asistió como espectador al partido de la selección uruguaya de fútbol ante Cabo Verde en el marco del Mundial 2026, disputado en el Hard Rock Stadium. El exjugador de la selección vistió una camiseta diferente a la oficial, que contenía un mensaje dirigido a un jugador del plantel. El encuentro corresponde a la fase de grupos del torneo mundialista que se desarrolla en Estados Unidos, México y Canadá.",
-        "coincidencias": [
-          "Luis Suárez presenció el partido Uruguay-Cabo Verde",
-          "El encuentro se disputó en el Hard Rock Stadium",
-          "Suárez llevó una camiseta especial o diferente"
-        ],
-        "diferencias": [
-          "El Observador destaca explícitamente que había un mensaje a un jugador",
-          "Montevideo Portal enfatiza el estadio y usa el término 'alentó'",
-          "El Observador genera mayor suspenso sobre el contenido del mensaje"
-        ]
-      }
-    },
-    {
-      "id": "story_009",
-      "topic": "Bielsa anuncia convocatoria y asume responsabilidad técnica",
+      "topic": "Bielsa anuncia convocatoria para partido contra España",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
@@ -501,7 +400,7 @@
           "description": "Marcelo Bielsa: los jugadores descartados para España y el particular caso de De la Cruz &nbsp;&nbsp; Montevideo Portal",
           "pub_date": "2026-06-22T01:46:00+00:00",
           "score": 2,
-          "score_reason": "Enfoque descriptivo sobre convocatoria y caso específico",
+          "score_reason": "Informativo y descriptivo, anticipa contenidos sin carga emocional",
           "score_pct": 20
         },
         {
@@ -516,30 +415,45 @@
           "description": "Marcelo Bielsa: “soy el responsable” | Noticias | Mundial 2026 &nbsp;&nbsp; El Espectador Deportes",
           "pub_date": "2026-06-22T01:53:39+00:00",
           "score": 3,
-          "score_reason": "Destaca frase de Bielsa sugiriendo contexto de autocrítica",
+          "score_reason": "Destaca frase textual del técnico sugiriendo posible controversia",
           "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "El director técnico de la selección uruguaya de fútbol, Marcelo Bielsa, anunció la lista de convocados para el próximo partido ante España. Entre las novedades, confirmó los jugadores que quedaron fuera de la nómina y abordó específicamente la situación del mediocampista Nicolás De la Cruz. Durante la conferencia de prensa, el entrenador asumió la responsabilidad sobre las decisiones tomadas respecto a la conformación del plantel, declarando: 'soy el responsable'. La convocatoria se da en el marco de la preparación para las Eliminatorias rumbo al Mundial 2026.",
+        "resumen": "El técnico de la selección uruguaya de fútbol, Marcelo Bielsa, anunció la lista de convocados para el partido amistoso contra España. El director técnico informó sobre los jugadores descartados para este encuentro y se refirió específicamente a la situación de Nicolás de la Cruz. Durante la conferencia de prensa, Bielsa asumió la responsabilidad por las decisiones tomadas respecto a la conformación del plantel. El entrenador argentino brindó detalles sobre los criterios utilizados para seleccionar a los futbolistas que enfrentarán al seleccionado español en el marco de la preparación rumbo al Mundial 2026.",
         "coincidencias": [
-          "Marcelo Bielsa dio declaraciones sobre convocatoria",
-          "Se trata de preparación para eliminatorias mundialistas",
-          "El técnico asumió responsabilidad sobre sus decisiones"
+          "Marcelo Bielsa realizó anuncios sobre la selección uruguaya",
+          "Se refiere a decisiones sobre jugadores convocados",
+          "Vinculado a la preparación para el Mundial 2026"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza los jugadores descartados y el caso De la Cruz",
-          "El Espectador destaca la frase de autocrítica y responsabilidad del DT",
-          "Un medio prioriza aspecto táctico, otro el tono declarativo"
+          "Montevideo Portal enfoca en jugadores descartados y caso De la Cruz",
+          "El Espectador destaca la asunción de responsabilidad de Bielsa",
+          "Un medio prioriza información técnica, otro aspecto declarativo del DT"
         ]
       }
     },
     {
-      "id": "story_010",
-      "topic": "España goleó 4-0 a Arabia Saudita en Mundial 2026",
+      "id": "story_008",
+      "topic": "Polémica por gol de Uruguay ante Cabo Verde",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Bielsa: \"Me parece que no hay duda que Uruguay es un mejor equipo que Cabo Verde, pero eso hay que demostrarlo\"",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVThoZmh1bzFJV2VybE9wbG0yRjRhUHdwUXA4LVpJT0tMSUtfVTl3SzVSMEt2d3V4X0NXMWE3d1V1dTY1WlE0TEFkQURaVnNqOWcxcmNfRE9aWW40UEZmNlRnVzBrWXB2RjNCcGFVREhzeEd1NVdHTUxjQlpaRWluS250NkRfUXlXRmRRNnl1VzdzV2VTWER2Vm5XN1k5YlJmbDVjOWY2N3dsT1BUOHEzU2FGbDdZcmhkNWtSVzNYQnJyODVERjFoRHUza2h2NFBtdVk2dEJrdV9ta2pkM3fSAeMBQVVfeXFMTXhtSWllZ09yRGRsVEpSV0FXXzRBZ05EUjhEWE11aGltd1FoZ2JVUFNRbWlrUHl3YTJkWXZ5czJhdlkxUXJUY3pUbnhNcDRKQjVPWTNMNTRMLUY4aG5sMDBNcW50bmlRVTloU1JQekhrTVpHdzc3dVVETGpJXzU2bm1HdzlZelF1NkdWNFNTQURtcVBIU1NpcnVYT1hZRFBGemRPZHVZNHlLa3dNempoWEpDalRUeWFneEFxVExmQUFYamo5TUl3d2Q2WDNLOGxEQ3BPdnNXOGpRRVRrOElfTGRjbEE?oc=5",
+          "description": "Bielsa: \"Me parece que no hay duda que Uruguay es un mejor equipo que Cabo Verde, pero eso hay que demostrarlo\" &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-22T00:46:46+00:00",
+          "score": 2,
+          "score_reason": "Transcribe declaración textual de Bielsa sin carga emocional agregada",
+          "score_pct": 20
+        },
         {
           "source_id": "montevideoportal",
           "source_name": "Montevideo Portal",
@@ -547,13 +461,99 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: España, próximo rival de Uruguay, goleó 4-0 a Arabia Saudita en Atlanta",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb29QdFRQWGJvcmJXMjdRYUtubVVSZUV1YTEzQWZLclgzS0NSYmNob0NGVGVVcmRsVlRRdm15aUlkeXQ2OFNmYUFrQ053NzFycVRpVGVfcHJFUWV3dmV0eHg1dC01UTZhYktLU0pScDgtVElNcFYwV2EtQmFvY2JnU3B5ZUVRTmlPaEVVcHFPX2xVaDZVLVZ1bE4taWpKT3ZKcEFmNFp2Q3duUFVmVW0wSUlPaGJoYzRPX2ZQWUk4ejgwNGVEMVE4OTBR?oc=5",
-          "description": "Mundial 2026: España, próximo rival de Uruguay, goleó 4-0 a Arabia Saudita en Atlanta &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-21T18:01:00+00:00",
+          "title": "DT de Cabo Verde, “enojado” por gol de Uruguay: “Bielsa nos enseñó sobre fair play”",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQXzNFNE9KYUdPeWdoZGZLeHBndGo0WmRfZ0JCd1huZzRpRXJPclg4N1Rfa1A2cjRidlVLemVBZmRQSFR2X21nT3JBb0l5WmdTNVZybUhuOUdrMTJVV3RLdEp2b21EN0FtOWh4OHYwd1EzUGhDc3FhQUd3cEZubWZNZFVQVGtnYnQ5YklYMjdaV3pOMlEyU1BBc0thb1hvQTUwak5GSmVnT1hJOUFxMzM3cUFoZHNtTWRMeUV6S2VpUVQwWjY5akVF0gHrAUFVX3lxTFBFRFNfbERjSHN1Zmd2cHhpZVI4dEp3dndQYWVmZDdIZ0NTWjRmVjZucXhoWGI3cWR0djF1ZnBzS0IwN0h3WjZTX3ozbXFtQVRBYWk3VG5nYURINHZ3ODV3TmtiMWZVNG5LZ1VtZ1lubnV0cTJzTWk1czZyMGw3T2hyNDdZRGkyS0xSN0pwZXVxTlpUNHNCVG9QR09hV3pUcS1XaG5lVzZ4N2U2YUNkdWRaclZia3RBc1B1bnVIU0pFOG04UHpsQXFreVp3eEtPSVJlM2V5TjEweEtHT3FfZ2k1WS02WkxjWVRoSDQ?oc=5",
+          "description": "DT de Cabo Verde, “enojado” por gol de Uruguay: “Bielsa nos enseñó sobre fair play” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-22T10:00:00+00:00",
+          "score": 5,
+          "score_reason": "Enfatiza el enojo del rival y genera controversia con fair play",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "La selección uruguaya de fútbol enfrentó a Cabo Verde en un partido amistoso. Un gol de Uruguay generó controversia con el cuerpo técnico caboverdiano. El director técnico de Cabo Verde expresó su enojo por la jugada y mencionó enseñanzas de fair play recibidas de Marcelo Bielsa. El entrenador de Uruguay, Marcelo Bielsa, declaró en conferencia de prensa que si bien considera que Uruguay es un mejor equipo que Cabo Verde, esa superioridad debe demostrarse en el campo de juego. El episodio generó repercusión en la prensa deportiva uruguaya por las declaraciones de ambos entrenadores tras el encuentro.",
+        "coincidencias": [
+          "Ambos refieren al partido entre Uruguay y Cabo Verde",
+          "Ambos incluyen declaraciones relacionadas con Marcelo Bielsa",
+          "Ambos medios cubren la controversia surgida del encuentro"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfoca en la polémica y el enojo del DT rival",
+          "Subrayado destaca las declaraciones de Bielsa sobre la demostración en cancha",
+          "Montevideo Portal usa comillas en 'enojado' sugiriendo interpretación, Subrayado es más neutro"
+        ]
+      }
+    },
+    {
+      "id": "story_009",
+      "topic": "Error de TV canaria y avistamiento de ave",
+      "category": "Sociedad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Detectan en Uruguay la presencia de la torcacita escamada",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzVhYjI4ckhsSDlRM0RmRTYwVjJHV3VWUG15aFRiUEdDSVJvNXM3bld5bmhiWGZHdUFkTndyb2lOZjVCdklENTFoRmpOVVF3ekxiazBiby1WQmRnSUlkc2JpR0dBdmxxRFRxbzJNWldWLXZqVTdFRkgzd1I1d3dYcWtCYkdIUExYTHd5SS1nOU5OLWViMTBCTTBtQXo?oc=5",
+          "description": "Detectan en Uruguay la presencia de la torcacita escamada &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-06-23T04:06:21+00:00",
           "score": 1,
-          "score_reason": "Informativo, foco en resultado y próximo rival de Uruguay",
+          "score_reason": "Neutral y descriptivo sobre avistamiento de ave.",
           "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Llaman canarios a los campesinos”: el informe de la TV de Canarias en Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVl9qd1pQVWQ2UTBLbVhJanlJbVZWYzF2dm9HdUJQeldsUlNWY0VtR3poWmpoLVYwUlhVNTh0NmRHeDNxelY4WGRqTEE3dU5YbEx4VUJabVgtaWdOc0dJeWg2ZUx3TWN2bjJCUkVKU0ZvcHYydUxEU0FveHBBYUNVdzlBWFRiYjhwaVRRWkVtUldpTmFUMHZaVExxTWtEWlJUQzUxeDRPRHROc294VG1kbDkyZzhacmlPVkM3S1l4aGxxZFXSAecBQVVfeXFMTTVmSFV2bENieEU4Y1FpMEY0SXVpSk5Bd2NZMDdQNFc0Z2RzM1RhM1lWUTh2cHpUS3czcDl0QTJ1cVdQYUJiT2pTaGtiNWhpblEtRktPbC1XSlRiTHFFcVhyczhINUUzTDB2czBCOTJHbnYyV0FKMDkzNDRrMXZxUnV5SnhHbk1yX2JfNzBGZjhaZ2tuT0htMXphaXZtOENVQWlqeUhsSDNDcG1zbUdHdkVEZkFYZTRJZVhTTjczOXRLcTRsWEVQbjdHd3A3SUxjN1kxWlhER2xYWmtWOTEwemVORjRjR1Vr?oc=5",
+          "description": "“Llaman canarios a los campesinos”: el informe de la TV de Canarias en Uruguay &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-22T10:32:00+00:00",
+          "score": 2,
+          "score_reason": "Informativo, reproduce textualmente el error del medio canario.",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "La televisión autonómica de Canarias emitió un informe sobre Uruguay en el que cometió un error al referirse a los campesinos uruguayos como 'canarios', confundiendo el gentilicio de las Islas Canarias con una denominación local inexistente. El informe generó repercusión en medios uruguayos. Por otro lado, se confirmó el avistamiento en Uruguay de la torcacita escamada, un ave sudamericana cuya presencia en territorio uruguayo había sido documentada recientemente por observadores de aves. Ambas noticias circularon simultáneamente en medios uruguayos, aunque se trata de hechos completamente diferentes y sin relación entre sí.",
+        "coincidencias": [
+          "Ambos medios publican noticias sobre Uruguay",
+          "Utilizan titulares informativos sin adjetivaciones"
+        ],
+        "diferencias": [
+          "Montevideo Portal cubre error periodístico de medios internacionales",
+          "Grupo R Multimedio informa sobre fauna y naturaleza",
+          "Los temas son completamente diferentes sin conexión entre sí"
+        ]
+      }
+    },
+    {
+      "id": "story_010",
+      "topic": "Ejército patrullará barrios en apoyo policial",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Vehículos del Ejército patrullarán barrios críticos en apoyo a la Policía",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYi1uOXlIc05mdWFPdmxWdW5rLUxieGxnTlhEUS1RSW1Da1hzRndkbFc0WUZZQ2J6VVBHOXJtNlFUOFl0a1pnR2VoNmxDVzBTQkNRODdoQlVFcWtHc3lscjRsWmlDNHdwRUVfdThzZW9Ta0oxT1hDSXlBS1VhOFZBenhWcjZYUjBvTkpPdFFoMDlqajFxX3dEaTlkM29scXhuSlMtbDRxX3p5VUN1TUh0YV93?oc=5",
+          "description": "Vehículos del Ejército patrullarán barrios críticos en apoyo a la Policía &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-06-22T20:53:51+00:00",
+          "score": 2,
+          "score_reason": "Descriptivo y neutral, califica barrios como críticos objetivamente",
+          "score_pct": 20
         },
         {
           "source_id": "subrayado",
@@ -562,26 +562,26 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Uruguay VS Cabo Verde, España VS Arabia Saudita: este domingo es del grupo H en el Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZXJ1ZUtiZGlQc0xzWGZ5cE5pemJCRDJudG5YelM4ZlhEc2E2cTMxbXQxMkZUNVgwcFpJUld2YzllVm5MSkQ5T2NOWE1mVTNCTzNEZXk0SDQ2eFJZZ3ZkeHQxdVo0TkNHR1A3OWJkemJCVnRsVVlJdVd4TUdXVXJKb1VWcDJEd0hEMDZrMXM2RmlXcjBnZ0dvd090MlZWd0F4YU5NSERyTU15bkhCVWtKOE8xaFZ4MC1qYlZyMWVnTVRwS1pUdm1N0gHMAUFVX3lxTE5Zc1JEdVB6cklyd1dlOVhjTHlMR3FYeEl0b1gzd0w4bER4ZHlyUmVDZzhVQjh1MWlVenAwbG9QNGJqZ2ZwNTVPM1R2YnF1Wi12OFExejRhZ2lxMm9HZ0RUM25NNkZic0JWczVFRUF4cWNCWGpncWhnNzA0SjMxcGs0OEhzMzlSSHZSWDRfOWM5MGExMHBVTGppMjIyQ0U1bDlJcE9lSDUxSUZDb2plZjZpVXFNQ1FidUM2MTh0dk50YTlGU0dmb3FMcnV5TQ?oc=5",
-          "description": "Uruguay VS Cabo Verde, España VS Arabia Saudita: este domingo es del grupo H en el Mundial 2026 &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-21T13:03:30+00:00",
-          "score": 2,
-          "score_reason": "Neutral, presenta ambos partidos del grupo como agenda deportiva",
-          "score_pct": 20
+          "title": "Orsi anunció que vehículos del Ejército patrullarán algunos barrios para \"redoblar combate contra el crimen organizado\"",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU3B0Y1M2ZU02dDE0MVdiZllpSGVwMk95UEZZWmdzeHZtYjE0TTRjckQxR1RjeC1LQ0tlRENWN0xfLUVuN2d0akJMLTVEcGZwUHhQckhTVUJXREdybkZaRlM1NWN2dUZDd05hZVJ5c1pJYkNNbWZpR3pVWnlJOGgtX3dsa2lnM2NVNy0tZDdlcGRoaURManBnUF9GTUMxaWJSdEExdVZPMGtxOTRSNkxnQUo4ZExVbXQ0NzZhdmozZUtMUmFVVHhWQ3NqdU9mZkZRX3VEaEswVHozVkZ3aE02b0ZNTmnSAeoBQVVfeXFMUGxMM2tkd0lHamYtalpTa3RzUlFTSnJlQXkzZk1XNVE2YzRsY0tJN09GaHpKSnVuZmpmRF9tanZQQVBnMmhySG1TN3RjOVlPcjNSUzl5QlRpSE1vbjF5MVlCdVkxTFUzc25yZUxROGFpNUxQejM1UmlzU2J5WnNqWmlDdXVkMkRmbnVSd3VZOHRxSmlfSzl3dkhfbC10SUk4M3ZnajZqb2JLWVUzZ05adlVHU0ZtMV91WFQ0MHdldkJQOWxYajk5TlBqYjNMWWg2NGxPMXRCSXJZTC1NMUppa29VZV93V1ZSeV9B?oc=5",
+          "description": "Orsi anunció que vehículos del Ejército patrullarán algunos barrios para \"redoblar combate contra el crimen organizado\" &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-23T10:47:06+00:00",
+          "score": 3,
+          "score_reason": "Uso de comillas y expresión 'redoblar combate' agrega énfasis valorativo",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "España derrotó 4-0 a Arabia Saudita en Atlanta en el marco del grupo H del Mundial 2026. El partido se disputó el mismo día en que Uruguay enfrentó a Cabo Verde. España es el próximo rival de la selección uruguaya en la fase de grupos del torneo. Ambos equipos comparten el grupo H de la competencia que se desarrolla en Estados Unidos, Canadá y México. El resultado favorece a España en su camino en el certamen y define el panorama del grupo antes del encuentro directo con Uruguay.",
+        "resumen": "El presidente Yamandú Orsi anunció que vehículos del Ejército realizarán patrullajes en determinados barrios del país como apoyo a las tareas de la Policía Nacional. La medida forma parte de las acciones gubernamentales orientadas al combate contra el crimen organizado. Los móviles militares circularán por zonas consideradas críticas en materia de seguridad pública. El anuncio fue realizado por el mandatario como parte de la estrategia de seguridad de su administración. La iniciativa implica la coordinación entre las Fuerzas Armadas y el Ministerio del Interior para reforzar la presencia estatal en territorios con mayor incidencia delictiva.",
         "coincidencias": [
-          "Ambos mencionan el partido España vs Arabia Saudita",
-          "Los dos medios contextualizan dentro del grupo H del Mundial 2026",
-          "Todos destacan la vinculación con Uruguay y su grupo"
+          "Vehículos del Ejército patrullarán barrios",
+          "La medida fue anunciada por Orsi",
+          "Se trata de apoyo a la Policía"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza el resultado 4-0 y a España como próximo rival",
-          "Subrayado presenta la jornada completa del grupo con ambos partidos",
-          "Montevideo Portal menciona la ciudad (Atlanta), Subrayado omite ese detalle"
+          "Subrayado enfatiza el objetivo de combatir el crimen organizado con cita textual",
+          "Grupo R destaca la caracterización de los barrios como críticos",
+          "Subrayado centra en el discurso presidencial, Grupo R en la acción operativa"
         ]
       }
     }
