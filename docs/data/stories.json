@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-28T11:51:31.263077",
+  "generated_at": "2026-06-29T14:08:11.606027",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Uruguay eliminado del Mundial, Bielsa autocrítico y criticado",
-      "category": "Deportes",
-      "sources_count": 7,
+      "topic": "Sismos en Venezuela: muertos incluyen familia de futbolista",
+      "category": "Internacional",
+      "sources_count": 2,
       "headlines": [
         {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Marcelo Bielsa tras la eliminación del Mundial 2026: \"Lo que yo le dejo al fútbol uruguayo es nada\"",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTEZBUzBjUHVwbWt4UE5BamdjcmxXdC0xTThISjVrQ0ROMG9pajE1Y0pJdmViUmVxbG1YQm9MV21fa0VWV0JXRU96TW5WSGowYzZKdkE1OUItbjlxYUZpYU9taXBhY0V4aGlLcWRfYnNDSjJEWHZkSlJkcHNna1FZQ0NMQ1NHMGRGZ1Y2Vng3cG9YbWZUd0prQ19acnNuaFhzMnQzLVJxcloteUhuMG5Sb2Zub09wY0J2T0tfaWs0OVBaZV9TYmF1V1FVQzBRQjhPMlFJb0tRWkY?oc=5",
-          "description": "Marcelo Bielsa tras la eliminación del Mundial 2026: \"Lo que yo le dejo al fútbol uruguayo es nada\" &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-27T04:58:09+00:00",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Muertos por sismos en Venezuela superan los 1.400 y millones quedan damnificados",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWXNKMVNwRXdmRV9pbGVQUUtqMlRUNzhDVGd0cUhUajgtRl9WRGJZZEczNTlyVUc1dlpNMlg3OGtxR2NhQWpsLTc0X3dWWUtkMEVZOE5wWDdMbjJxVTFCeG1Oa0xaeGx1aWxtZHpEM1RPR1FxQUxYVWFFaUVlXzM4UEpkd2RrNUk3Z1U2ZlFjSFIzM1NlVlBtRGtsOFBRanJlZEcxUEozRTdjWnlXTExB0gG0AUFVX3lxTE53MUdaRjJsRTRBZ005M0FKN0FLNXdxVHFGUlpqSGJQUUdaejJadHBLT244bjdVVGd0RVBONk5qUlVJX1dfRDQ5X2gxSDJyMk1xUTZuUlUwR2VLNzZoaUN4U2dxVEVweklXa3RKMHpqUmxUZ1RVUk1IaVpwazdJN1RZNFNkdG1Zc25DLUVtZ1AzVjJ4b3F3QkVxX2hqZDR1NU1zMDBUeHpLME5NZlJ6MU1WUTBDVA?oc=5",
+          "description": "Muertos por sismos en Venezuela superan los 1.400 y millones quedan damnificados &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-28T12:52:00+00:00",
           "score": 2,
-          "score_reason": "Cita textual de Bielsa sin calificativos adicionales ni opinión",
+          "score_reason": "Informativo, datos verificables sobre magnitud del desastre natural",
           "score_pct": 20
         },
         {
@@ -29,155 +29,35 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "¿Se terminó el ciclo de Marcelo Bielsa en la selección uruguaya? Sus números y lo que dijo",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRnpyTi1QQ2xUM2QwMXhBVEtOc0wwQ25FVkxoeWh4RWMxSEZRZU1DWUZ6ZjRibVdiMlN6YUR1YkRyUFBoV2VOM3hTcFQtcGU2eTlTYkhMbDE2M1ZjdzQ0bHV5cE9STWdEenpwbkQ4X2VsMDFOZDNPVzRQTG1pQjdyZXFoTjVhN2JXMWhPckl3a3BFRElZVmlWNl9WRDVFc1NHRm44ZFdjbVZFOGZnTDJTd3NXLVhUUXVDOXJYSDNsdXBMSjVkT2l0cE15X1hPWUQyZUhn0gH3AUFVX3lxTE5oR1hJX3dDNlEzTm02eFZfUlRjTXk0R2lXdDJQa1kwRHVwNnhpTnJXb2Y1MjlFXzBFOTlIenFPZVQ0Z2w4ODNvYzFYTG0yZFJSX1FKa3BhRGI1YWp2Q09lYktGZjlyVTBUQkhRZmhhVVphdF9GSXV4U24xUDI4ZkNVaWVvRVNoU0F6VHZGVjBzdUxqb2hVVEtqOXlvV1pNeE1aZEJoaDk3RVVPeVYyakxTZ0ZrWnUzbWpDNGZDT1dtYWkweFNqdF9CT1dTdFVxNnlUUHRDeE14WTNwLTBaM2ZFMktLLTltS096NmlvQ1NnaGFSUkdmVWs?oc=5",
-          "description": "¿Se terminó el ciclo de Marcelo Bielsa en la selección uruguaya? Sus números y lo que dijo &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-27T14:01:00+00:00",
-          "score": 2,
-          "score_reason": "Formula pregunta informativa sin adjetivos valorativos, menciona datos objetivos",
-          "score_pct": 20
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Bielsa tras la eliminación del Mundial: \"Soy el responsable, lo que yo le dejo al fútbol uruguayo es nada\"",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYmg2UGJUUVBvcWdmMi1DQzdzZTFybFY2enVRNmNBajNvZk9kcHRCdHdpMDExelNGSmpiWmtiUTJCR1l1OEx5S0ZKSWViOS1oZDhHbl9TV2ZJaGFydEJvS3pYWjUzUjY0VF8tNnFxd29Tai00empoRkFuSkxUUXBrVmU4SjI1ZWVobktBR3lxck15b2JFOWhiQjMzYm1WcXhHYk1KSERnMGYzZFpHd0dnOFpfaGZ6N0wwcHVweDJrdEMtTzlCaG5mbjR1c1UxYnJ30gHWAUFVX3lxTE01UnZvajk2NVZLUi1nY0xxVUVBY0tFMW1ieUk0T1JjTVlSa1pRazJFVEN6NTdENzhoakFmeFR1eUFvREFHWld2UzFWUzZWckY5aWFFQkNtcHpMU1F3RlUzcjF0b1diSEltQ011WGlNc1hJbFJrZEJlc3c5U2tXOXRYc3h4N1QyNWRUbmVTOEI5bjNnaUx4MHhEVWgyWTVjNEp2TG5iUm1IT3RtWU9EeEFETUZ3S1FVczkxSUpUSkdlNDVBaHFDWFQ2aGl1TEtPSEtrNzRBR3c?oc=5",
-          "description": "Bielsa tras la eliminación del Mundial: \"Soy el responsable, lo que yo le dejo al fútbol uruguayo es nada\" &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-27T02:58:00+00:00",
-          "score": 2,
-          "score_reason": "Cita textual completa de Bielsa, neutral e informativa",
-          "score_pct": 20
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Marcelo Bielsa tras la eliminación: “no le dejo nada al fútbol uruguayo” | Noticias | Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMklEZXVWVnA4Nm0yc1ctZUFTTVcwMm16WHVGWnE3LWZLc1QzT3FoNFpOMUQ4S0pyeWtZS2dJVTFBYks2REVvSHhFQWEzT2g2cUp2aldNeU8tTWgtVmVqZWh2S2JIcy1zUGg5a09Mc01wbzRYY2c2WUtRaGxJNGpfQjFiS1BrdnNOejRtMEdva1o4MGU5SDVKd2hkZnBCVTVRM3FyZjc0YW8yUHUxRUx2a01tcw?oc=5",
-          "description": "Marcelo Bielsa tras la eliminación: “no le dejo nada al fútbol uruguayo” | Noticias | Mundial 2026 &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-06-27T03:30:28+00:00",
-          "score": 2,
-          "score_reason": "Cita textual de Bielsa sin valoración adicional del medio",
-          "score_pct": 20
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Las duras críticas de Diego Lugano a Marcelo Bielsa tras la eliminación de la selección uruguaya del Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV2ZnUHI3OUFFYVV5UUJWYngzbGFEYWRRdTNYcnRrNkRFcGxNVlVTWS05b2hib1dXUTFXUS1JT2NWZEpybHZTdk5EVHZ6T1Y2RWtpTGlzbk1uSmdpM09zR3Y0dVQ3ZXQyeHpYVTF1OGhzdlUwbGZqMlVJdzctbWRGTV9lN0NGMjlGWG5vMHRGR25VLTZiVlNHOENXOVdBTmJCbWczc0N0djhmX2Q4U3JtUEdWWWVGdS0xVnphOC1IUkt2V3pZaFNBWTdGcWdVcS1lRHpVMzl6RTJqQkVHN1VzaFc2OXZ3UldKVVHSAe8BQVVfeXFMTnNJc280dTlMX2owYk41cmJoaWluMWpTRzhKcnVsWFU2UmpTbkw3azEyU0hSUEtEbG9YS0NCTUJQY09TaVNLUnRhZWtjQzN0b2R3alJ4VEkwNjlkNS1GNnhjaDViYkw5Uko4NkdySzJ1VG9LWVBwTlVFZFV5Z3VxaTlrX2RKdG1SZXF3cWdXV1lSdWN4ekQ1R1RqeW8taTdqcXlGY0xldDdacXBGQ2xrNkl1MF9rQzdTUUUzYjdmV0hob0d6MnZKc0xhSDdxV3hwa2FRZDlFSGxuVGJCQjlTVnUxbHhaRkpPZERIaE9Rdm8?oc=5",
-          "description": "Las duras críticas de Diego Lugano a Marcelo Bielsa tras la eliminación de la selección uruguaya del Mundial 2026 &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-27T15:20:00+00:00",
-          "score": 4,
-          "score_reason": "Califica como \"duras\" las críticas, agregando valoración editorial moderada",
-          "score_pct": 40
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Lugano apuntó contra Bielsa por la eliminación de Uruguay en el Mundial 2026: \"Contaminó el ambiente\" y \"nunca entendió donde estaba\"",
-          "url": "https://www.teledoce.com/telemundo/deportes/mundial-2026/lugano-apunto-contra-bielsa-por-la-eliminacion-de-uruguay-en-el-mundial-2026-contamino-el-ambiente-y-nunca-entendio-donde-estaba/",
-          "description": "\"Un gran error de la Asociación Uruguaya haber llegado al Mundial con Bielsa, prisioneros de un contrato millonario. Esa es la verdad. Y bueno, en la cancha se paga\", aseveró.",
-          "pub_date": "2026-06-27T16:50:33+00:00",
-          "score": 5,
-          "score_reason": "Destaca acusaciones específicas con lenguaje confrontativo de Lugano directamente",
-          "score_pct": 50
-        },
-        {
-          "source_id": "ladiaria",
-          "source_name": "La Diaria",
-          "source_short": "LD",
-          "source_color": "#1B5E20",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://ladiaria.com.uy",
-          "title": "Qué fracaso: Uruguay fuera del Mundial",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQekkyMDNIODdlZWdtcnlhTEdaeldjMzU4NlN4T1RzTm1rbWU3bkFKZW9wa203MzViWmYzWjVXMHRuMzI5dUI5UldYemxjTVZSeERXTThuM242MWoxTTRnTVN1UlJqYVVzMkJOMFR4Qi1mV3ZvU0JsSjVGbzBDclBvT3lyVXpGQy10aTREU3dsZ9IBnwFBVV95cUxNU2wtU3dZcGFLVHdGRU9CSlB6U3JET0V1MFlTcVF1MUtnVUM3TkNwaWpWX1ltTnk1dEp4V2NSc0RtcVJWNWhzTkFzbXl0S2xSZDN1M0k4UXpoY2tzTWl4V0RXZ0JEVXRaX1V4TEpuVC1FOXBmN3dXS0R3cmtMOV93d2hYalpaeEpfVVVTeldYWDJvMW1EQkFMeExkcDZSbEk?oc=5",
-          "description": "Qué fracaso: Uruguay fuera del Mundial &nbsp;&nbsp; ladiaria.com.uy",
-          "pub_date": "2026-06-27T02:22:09+00:00",
-          "score": 6,
-          "score_reason": "Usa \"Qué fracaso\" como valoración editorial clara y emocional",
-          "score_pct": 60
+          "title": "Hallaron muertos en Venezuela a la esposa y a los dos hijos del futbolista Lucas Trejo",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM21BdWhja00tTFlnWDFtZnFidTVFSXZfbm5SWDBDaVN0X1lTZ01hRkRFald4cjFrUzZKS25LWXRmQ0xRa05zbDhPb3A3SFFjSUR6WEVTWGRkNGMwOUgzcjdZNXBHSVhuTVZJS0JjbVZRbWxOYS15YzJCVnRvQmg4OHE4cGMtS2VTekhWcHcwSnZ5ejg1NkQ2UVp1RUNaS1NxeXM3cTZtdVdUZm91eFJia0lsbWpmWkFwQkRnZFFCbmNOWWZpU2o4a0R2SFdQTmfSAfMBQVVfeXFMUG01eEJyeFFpQ3c2dk9nT29RcS14TE82TlFpeG1odUF4dDlxRXk0UzlvajFmUDYxbXVoVEdiV242Q0VBZUowUFZoRUNOdXl2Q2czcU53M2w4QThnbDNiU2s2ZEhwdmhZZUQ4VkVnajRINGthV3F2eVRLX1drYXBzMGlsSE42cEU4NWFUUEFKVkRHV2lkV2NPTXlDcHJMbGt3SHZOaXIzVERvZkl1dlVBSlRyakNnaVY1akdISWpoYnFvRWFWSXpmS0xHcE0wVDFiYUM5NTNDTjlkbFFoYkhfMzdyZG45bXFnWHVaa3BCMjJCMjQ0?oc=5",
+          "description": "Hallaron muertos en Venezuela a la esposa y a los dos hijos del futbolista Lucas Trejo &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-28T17:38:00+00:00",
+          "score": 3,
+          "score_reason": "Enfoque en drama personal, omite contexto general de la catástrofe",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "La selección uruguaya de fútbol quedó eliminada de las eliminatorias para el Mundial 2026. Tras la eliminación, el entrenador Marcelo Bielsa declaró en conferencia de prensa que asume la responsabilidad y afirmó que \"lo que le dejo al fútbol uruguayo es nada\". El exfutbolista y excapitán Diego Lugano realizó declaraciones críticas hacia la gestión de Bielsa, señalando que \"contaminó el ambiente\" y \"nunca entendió donde estaba\". Lugano también cuestionó a la Asociación Uruguaya de Fútbol por mantener a Bielsa debido a su contrato millonario. La eliminación genera interrogantes sobre la continuidad del entrenador argentino al frente de la selección celeste.",
+        "resumen": "Los sismos ocurridos en Venezuela dejaron más de 1.400 muertos y millones de damnificados. Entre las víctimas se encuentran la esposa y los dos hijos del futbolista Lucas Trejo. Los temblores causaron una catástrofe de gran magnitud en el país caribeño, con consecuencias humanitarias significativas. La información sobre la cantidad de víctimas fatales y personas afectadas continúa actualizándose conforme avanzan las labores de rescate y evaluación de daños. El caso del futbolista Trejo ha generado particular atención mediática por el drama personal que representa dentro de la tragedia colectiva.",
         "coincidencias": [
-          "Uruguay quedó eliminado de las eliminatorias para el Mundial 2026",
-          "Marcelo Bielsa declaró que no le deja nada al fútbol uruguayo",
-          "Diego Lugano criticó públicamente la gestión de Bielsa tras la eliminación"
+          "Ambos refieren a los sismos ocurridos en Venezuela",
+          "Coinciden en que hubo múltiples víctimas fatales",
+          "Los hechos reportados son recientes y están en desarrollo"
         ],
         "diferencias": [
-          "El Observador y Teledoce priorizan las críticas de Lugano a Bielsa, mientras otros medios enfocan en las declaraciones autocríticas del entrenador",
-          "La Diaria utiliza calificación editorial directa (\"fracaso\"), mientras otros usan citas textuales o preguntas",
-          "Montevideo Portal enfoca en la posible continuidad de Bielsa, otros en responsabilidades y críticas"
+          "Montevideo Portal prioriza el caso individual del futbolista Lucas Trejo",
+          "Subrayado enfoca en las cifras totales y dimensión colectiva de la tragedia",
+          "Diferentes niveles de contextualización: uno humaniza, otro cuantifica el desastre"
         ]
       }
     },
     {
       "id": "story_002",
-      "topic": "Uruguay eliminado del Mundial 2026 tras perder con España",
+      "topic": "Jugadores respaldan a Bielsa tras polémicas",
       "category": "Deportes",
-      "sources_count": 5,
+      "sources_count": 2,
       "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Uruguay cayó 1-0 con España y quedó eliminado de la Copa del Mundo | Noticias | Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1VvLUlMU0RaZUxJeTJVcFdIbU5xODNIdHZqSUstNW0xckVqRmh3T1JibU0tNHg4NDlxRnFhZkgyQXl1emRTa3RhMUtxWU92NUhTOVVpSUlFMGNYQVhncDQwRkU2N3FiZ045WGZCd0VmYnJBRkVsbFhKSXR1VjV0Z2xFTU9xaWNhWG9IQTl0UUYwNjEtWnJRRUpBSDBrcUx2MU9RZUI2V0dWTVUwRGFJ?oc=5",
-          "description": "Uruguay cayó 1-0 con España y quedó eliminado de la Copa del Mundo | Noticias | Mundial 2026 &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-06-27T03:36:29+00:00",
-          "score": 1,
-          "score_reason": "Puramente informativo, datos objetivos sin adjetivos ni carga",
-          "score_pct": 10
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Muslera tras la eliminación de Uruguay: \"Nunca fui de esconderme: le pido disculpas a todos los uruguayos\"",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWmVqTGVJUHRtNzVFQ1Ytb1hhU1p2b0VMMEFsci05WnJqRWxaNDM0a0s0WmNUeVloV01Ga0cwX3dPenRZa0EtVWZvWE5nS2M1TUVaUDFSbmVxOWFaUnVoQThvbGpqeGV1WGJtdnpHUTMtM0NlUTNvdWQtU2kwY3RjNDJxN2Q4aXlIZzdvY3dTNTBGUHZNS2dZajVJYTV0SDZTYXNVVGJ2eTFQQVdnVmx6MHBvS2ZkbzZ3NDhDRnFRWGhOLUhEbktBX0kzNTc3WEI4NWc3Yg?oc=5",
-          "description": "Muslera tras la eliminación de Uruguay: \"Nunca fui de esconderme: le pido disculpas a todos los uruguayos\" &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-27T03:50:50+00:00",
-          "score": 2,
-          "score_reason": "Informativo, reproduce declaraciones textuales sin agregar valoraciones",
-          "score_pct": 20
-        },
-        {
-          "source_id": "lr21",
-          "source_name": "LR21",
-          "source_short": "LR21",
-          "source_color": "#827717",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.lr21.com.uy",
-          "title": "Se terminó la Copa del Mundo para Uruguay: un gol de España en cámara lenta nos fulminó",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTTl6czJxR2ZCYjV6Um5TeEl4d1hOdkw1WFZkd3Q5bUoxbDJSYVZxM0g4Y2FrRnctc0swOEhXNVVKbmVUcEowTGVTTmdPT2UyVlpoMjNielUzV0JKZlJxQXhYdUFDNlZDWW5pYndSM2xaMVdjRFRvMjdTeTZtMl9ZOF9wQ3RreFNFMUJiWnE0MFlJYjJ6NGpBOEc5a1BnLVdPU0FvNWRwX3lxNUdYd2RDTGliWUdTb0xFY0R5bHA5Q2ozMjVXYVE?oc=5",
-          "description": "Se terminó la Copa del Mundo para Uruguay: un gol de España en cámara lenta nos fulminó &nbsp;&nbsp; LaRed21",
-          "pub_date": "2026-06-27T02:15:34+00:00",
-          "score": 4,
-          "score_reason": "Usa metáfora emotiva 'nos fulminó' y 'cámara lenta'",
-          "score_pct": 40
-        },
         {
           "source_id": "montevideoportal",
           "source_name": "Montevideo Portal",
@@ -185,464 +65,41 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "“Sos una provincia, uruguayo chupa pi**”: argentinos festejaron eliminación de Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU25rWVhPU0g3TTZ6UV96NWJ4R1U1UXhnVEYtVlpUamZBT1ZtS00zNUlMakNsb2swZENZMEpJdnNaODRLdHB2T1pxeFhOeXNkc0hNcHJjWWJsQzNYdzNUaG9rLXFxSDBybUxydWcyQTlKR3YycVRUMmx1VzAzNTFGMDJmcUZraHZ1SVJBLWF5N2dhdnhjU2U5TWd0TlBvTm9IQWtyNkxlbzFMZVBSb1gwcC02RVF0dGJESWFkWDFaY2s0cE5ZVzdXSGdTdw?oc=5",
-          "description": "“Sos una provincia, uruguayo chupa pi**”: argentinos festejaron eliminación de Uruguay &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-27T13:33:00+00:00",
-          "score": 6,
-          "score_reason": "Enfatiza provocación argentina con insulto explícito en titular",
-          "score_pct": 60
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "La última gran locura de Marcelo Bielsa en su despedida de la selección uruguaya que recorre el mundo: se molestó en cancha con los periodistas en la nota final; mirá el video",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNLUJhSTQxOUl2TUlHYndpQmZLeGkwMlY2Q1NJeDAyZkxFNlpiWE1MOUlsUENzYzB6dW90dk95Nm9sdHdiT2RLTTRUajVYNllTMi1rb2hFblRkRmRqQVlVVlNjREgtYkFYaGtFbzhUZFRWREh2THNxNEhnQUktSlRabkVjYUNVNWphU1BwS3FvMnNQR1VhQV93a3ZMR0xlMW9xN2lDU1M3cGgycnhTNmRiN3MtcTdSbHQxMmpzcjZBdFhTanBaZnlpUzFIOUppcHE1dkFOVEVDM1hHMm5ESG54Y0c1VkR5Z0M3NXJYSEFodnlweEMxU0stdkNGQXlpSHQxRC1ObVlMM19mQldrdFlaZFRYeFNrbVZDT25qU1hJMjRjXzBSRzYtRjhraHpGeWV4WlHSAbcCQVVfeXFMTXNSYnc0NERfeVhZV0szVlYtalhBWlF1dV9BbGhxekplbENqMlI0RWN3YlA3a00yVlMzZjlBV0JhQVhDTWJ1Q2JIbk1CQjFHM1dtUW1objMzSENvQm5hT01MZ2FuRDhwUEVVSG8xZHlHM29oZloteHpMaUh2NGg0NW5pMXp4eXljQmI0TXAxd1BXdHVVcmVucU96WlllQ1E0MnNyVi16dWVYVGVTazZtMlNaRm9aYUd0Wm0yVEMtR1ZNcGxYSHMtMVF5OTR1cWVwTkktN0Y4Wi01NnRUSjNDWjZGWjhYSW5BcHEzblB0bVN6UmY5XzZGc2JjUTRDWnFsbnI5ZU42UGhJMWRzOXg4ZGJnYloyRnFCeTYwV0dTdS0xdl9GRU9pNFhYbUoyZVlrZTBrTUZjTHc?oc=5",
-          "description": "La última gran locura de Marcelo Bielsa en su despedida de la selección uruguaya que recorre el mundo: se molestó en cancha con los periodistas en la nota final; mirá el video &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-27T03:28:00+00:00",
-          "score": 7,
-          "score_reason": "Califica como 'locura', sensacionaliza con 'recorre el mundo'",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "La selección uruguaya de fútbol fue eliminada de la Copa del Mundo 2026 tras caer 1-0 ante España. El arquero Fernando Muslera pidió disculpas a los uruguayos por la eliminación. El entrenador Marcelo Bielsa protagonizó un incidente con periodistas en la zona mixta posterior al partido, mostrando su malestar durante la entrevista final. El episodio tuvo repercusión internacional. Hinchas argentinos celebraron en redes sociales la eliminación de Uruguay con mensajes provocadores. El gol español que definió el resultado fue descrito como una jugada lenta.",
-        "coincidencias": [
-          "Uruguay perdió 1-0 contra España",
-          "La selección uruguaya quedó eliminada del Mundial",
-          "Hubo reacciones posteriores al partido de actores uruguayos"
-        ],
-        "diferencias": [
-          "El País destaca las disculpas de Muslera; El Observador enfoca en Bielsa",
-          "Montevideo Portal prioriza la provocación argentina sobre el resultado deportivo",
-          "El Espectador mantiene tono neutral; El Observador sensacionaliza el episodio"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Nico Williams acusa a De la Cruz por lesión",
-      "category": "Deportes",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Nico Williams apuntó contra Nicolás de la Cruz tras su lesión en el partido frente a Uruguay | Noticias | Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN2wzakNCQXNRQlpNLWxMUzF0RVRka0tDTFJ0cUNVTUFUaTZQYmttbHp5UFZNRUhNMG53b0xRTnhKMzlCeGlQdnVLeks2b2h5YnBIZTFXMW5qTVVPZm1YeWVvYmlDSmxPRDJOZ2F6NjNOY2tVZmpzSnBPbV94aVBHVzVYYXZ4X3F4amlPM3RHUmFORGxoMC03Y2s3aDVnNGJxclVRaU1DTGVsb3BDOXlSZU43Ri1lSWNfXzRpR1p1NkdpbzMybTB4c2ExRlBUaDUxc0E?oc=5",
-          "description": "Nico Williams apuntó contra Nicolás de la Cruz tras su lesión en el partido frente a Uruguay | Noticias | Mundial 2026 &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-06-27T21:56:23+00:00",
-          "score": 3,
-          "score_reason": "Más neutro, solo menciona que apuntó contra De la Cruz",
-          "score_pct": 30
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "El español Nico Williams apuntó contra De la Cruz: \"Me provocaron una nueva lesión, fue una jugada innecesaria\"",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORWNfQnh5Z1lZS1IzeUppM2c4d01RdF9pYWVEUUdJUkdfQ0pIVmRydUU4MkdzVThNVUFyazR4dmVGU3ZwSnhRT0QwWkIteENwQWJRUlhvSjVYY2hLU1dha1M3ZjhTLWZrSEQxdTN5Z2V5Z1VRRlUyTWgxdFdLcDBoUS1Jeml3ZnNjWU41TmNMUVkxazRrZ2lYS19ZWklVNFlhRHZrS2g1LVRCcG5pZnlQVkJacUo4cGVfOVJOMXNHMHJoaUhidnl2U1lYakxac213ODVZRldpbkYzNThWaHNMVlFUNA?oc=5",
-          "description": "El español Nico Williams apuntó contra De la Cruz: \"Me provocaron una nueva lesión, fue una jugada innecesaria\" &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-27T21:54:32+00:00",
+          "title": "“Ni pies ni cabeza”: Giordano negó rumores “totalmente falsos” sobre Bielsa y lo defendió",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdDFyX283dXhXXzRmT2xOejNjNDEycnh3VGNuY2s4M1lobTNyWHJVeXF3bkQxUzlEVGV2UW1idlV5d0FaT2pVOFB6ajQwbjFoVm42emlSSWVhU0V0cTh0cU5nLU5IRHJ2U2Q4ak45SnZlNGdJajl1YXZZMWNXQUxrdURMMDhYMTlPck05eE5VMEZTYUJHV2VXUHZTcDg0amlKZ09VQ1k3aDl5eHkzMHZveHZReU1IcUQ0VnZiZzVzQnVkckZSMzA4WW4yWDc3TWfSAfMBQVVfeXFMUFZGVzFHRGZGQnBKV2hlSjlCRGZxYTRELUJUUTA3UE5KU0VldkI2OHNFQ3JUNUhWMmdXNXFrcWIzdGhKcUhkTm1icTM2NW5BSU9GNWxjaEl3eUVwOXNqc1otUzFyNzF1ekhmWXhCWEV1MkRvZHVybHNFMjJuc2NfaTl4NEtGNWRvU0Zjb1R1aVZXU2hyaDZWR1k2VUR0Y0hiUFN1dXRwdkxvcnFWam12aEdQTTAwcFVVeFowMmhBZi1KRWlPeFJNU0V4UEZpQU5NWGlFN0I1RTd3TFJIVTBySG9LREsybmQtSlhBeGhaWWlSOEhn?oc=5",
+          "description": "“Ni pies ni cabeza”: Giordano negó rumores “totalmente falsos” sobre Bielsa y lo defendió &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-29T12:15:00+00:00",
           "score": 4,
-          "score_reason": "Incluye cita directa pero enfatiza acusación de provocación deliberada",
+          "score_reason": "Uso de comillas enfáticas y lenguaje que subraya la defensa",
           "score_pct": 40
         },
         {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Nico Williams acusó a De la Cruz de lesionarlo por actuar “llevado por la frustración”",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTHJsNVVzaHV5RGJHVDNuM1BRVTFicGVZblpJemFxRmZfNWJiUkRIV2tzc2VOWWs1a2FHbnhQN2duWTAxdEVoZkpBd0hQMWZwaDhIMmdfMHp5eWVQQnJ3R0RURV9oODg3d1lHajJtM0NISE4zVmJXbjNydnNBbHNWWGxMMF9rbF9SaUd1Nmk0TGVYTHBIZEhkdTBvREF6NW1WeXhTYS1oNHBWLU5Ga2NpcUdGOUl4TXRzS3ZndXQ2bngzQ1VsekhvRW8xRWkyZw?oc=5",
-          "description": "Nico Williams acusó a De la Cruz de lesionarlo por actuar “llevado por la frustración” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-27T20:46:00+00:00",
+          "source_url": "https://www.teledoce.com",
+          "title": "Sebastián Cáceres respaldó a Bielsa tras el Mundial: \"Se manipuló mucho la información para dejar mal a Marcelo y no es lo correcto\"",
+          "url": "https://www.teledoce.com/telemundo/deportes/mundial-2026/sebastian-caceres-respaldo-a-bielsa-tras-el-mundial-se-manipulo-mucho-la-informacion-para-dejar-mal-a-marcelo-y-no-es-lo-correcto/",
+          "description": "\"Hubo cosas que se filtraron que no tenían nada que ver que no fueron como se dijo\", expresó. La entrada Sebastián Cáceres respaldó a Bielsa tras el Mundial: &quot;Se manipuló mucho la información para dejar mal a Marcelo y no es lo correcto&quot; se publicó primero en Teledoce.com .",
+          "pub_date": "2026-06-29T13:00:46+00:00",
           "score": 5,
-          "score_reason": "Usa 'acusó' y destaca motivación emocional negativa de De la Cruz",
+          "score_reason": "Incluye denuncia de manipulación, sugiriendo sesgo informativo previo externo",
           "score_pct": 50
         }
       ],
       "analysis": {
-        "resumen": "El futbolista español Nico Williams, del Athletic de Bilbao, declaró que el mediocampista uruguayo Nicolás de la Cruz le provocó una lesión durante el partido entre España y Uruguay en el marco de las Eliminatorias para el Mundial 2026. Williams calificó la acción como innecesaria y sugirió que De la Cruz actuó por frustración. El jugador español se refirió a la jugada en la que sufrió el golpe que lo dejó lesionado. De la Cruz, quien juega en River Plate de Argentina, no ha emitido declaraciones públicas sobre las acusaciones. El incidente ocurrió en un encuentro clasificatorio disputado recientemente entre ambas selecciones.",
+        "resumen": "Los futbolistas uruguayos Bruno Giordano y Sebastián Cáceres salieron a respaldar al entrenador de la selección uruguaya, Marcelo Bielsa, luego de rumores y versiones difundidas tras la participación en el Mundial. Giordano calificó los rumores como \"totalmente falsos\" y afirmó que no tienen \"ni pies ni cabeza\". Por su parte, Cáceres señaló que se manipuló información para perjudicar la imagen de Bielsa y que se filtraron cosas que no fueron como se relataron. Ambos jugadores defendieron al técnico argentino ante versiones que circularon sobre su gestión y su relación con el plantel.",
         "coincidencias": [
-          "Nico Williams señaló a Nicolás de la Cruz por su lesión",
-          "El incidente ocurrió en el partido Uruguay-España",
-          "Williams considera la jugada como innecesaria o provocadora"
+          "Jugadores respaldan a Bielsa tras polémicas",
+          "Se cuestiona la veracidad de versiones difundidas",
+          "Ambos niegan o critican información previa sobre Bielsa"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza la 'frustración' como motivación de De la Cruz",
-          "El País destaca la cita sobre 'nueva lesión' y provocación deliberada",
-          "El Espectador presenta el hecho de forma más descriptiva y menos acusatoria"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Uruguay eliminado del Mundial 2026",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Tras la eliminación de Uruguay del Mundial 2026, AUF canceló chárter y cada jugador volverá en vuelos comerciales",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeWszRk9XaVgzdFkyS05sTko3UFNaY0VtSlBXN1pqWmdJdXVPUkhOYmNmRFVsT3VUb3JjV2V5aHNDaVc3SEdlZHFCc3RURzRNLWZaWW1TbjYzRWxEVVN6cWJEMFd2YndHNlBIUURGcVV5TTJDU1k2Nlp1YTZMYV9mV1ZSRDlzRUVrWmJ1ZTFTLUExakc3NU9pd2dyd01SQ0pJck5yeDRZVmR4YlJNUjhobnBvRVRDaFVOUHl6X0xPY2treWZkVmJncDlGOUh5RGV0UUVZN2p6aVVEd0xhZURUZ1JXMFFycFp6aHc?oc=5",
-          "description": "Tras la eliminación de Uruguay del Mundial 2026, AUF canceló chárter y cada jugador volverá en vuelos comerciales &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-27T19:08:49+00:00",
-          "score": 1,
-          "score_reason": "Informativo, presenta hechos concretos sin carga emocional evidente",
-          "score_pct": 10
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Medios de España afirman que la eliminación de Uruguay cambia el escenario que buscaba Barcelona con Ronald Araujo tras el Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFpDUnlxS2xhOHFPdlZaWWprSHhsR1cybG9zTnFGTktYeDNYbkdsRmh3RlVNX2FFNkt3WVFOZGNTY25oTG9GUGR2WWl3Z0pTUkZFaDE3YlRvdVpHTEZnX2h5NFA2U01lY0pvVXF0WG9haW9BMUhYbi1xdURyZWJzNWN3RjAyQmQ5Vjc2anBWUkhlM1BRVk96Q3NMa2JDTG9YUkhod2VRX0dXR3R3Z0tLWnpCQ0d5SWV4ckh3YjBDVGsyVkxJWVpKcE1YNHRZV3cyVHAybHVKMEN5YVhrS3pFdFdjRF9ONFhxOTNGQ0RyVVNsRzQ0cGltZm1JemU3N21VQThaYtIBigJBVV95cUxOLVQ5SVYzd3pja29IS1ZVNXY1Z0dPZS1xRm5FVHBUVUdwWDdLSE9tRmlodVluOEZlb0ZOY1VrNFRHUVpwbWgyRXFRVVpNOHJzNU54V2UxZHJJMHN1WFp1R0M5RHl0dUQ5Wl9vRmFhSU1xekYxMnJNQTk0Y0JHeTlRZTVkUlZoc1NOQmNVbUV2d0FsUlhxLVN0azRtYkU2MG1Hb1lJMkdpd1RiVTF3dkpJeFgxVVJtSk8zZlFSYmUxNkM1T3JGZnRqZEQ2dXBDVjA4cDRCTV9NdUc3UXBwU3Z2ZHZCRTNZQ2pRNl83UmxSeW5YV19LUE50OEp4VVJ2MkxPOWNzUGlFZzQxUQ?oc=5",
-          "description": "Medios de España afirman que la eliminación de Uruguay cambia el escenario que buscaba Barcelona con Ronald Araujo tras el Mundial 2026 &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-27T20:26:00+00:00",
-          "score": 2,
-          "score_reason": "Neutral, reporta información de medios externos sin editorializar",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "La selección uruguaya de fútbol quedó eliminada de la clasificación para el Mundial 2026. Tras conocerse el resultado, la Asociación Uruguaya de Fútbol (AUF) canceló el vuelo chárter previsto para el regreso de la delegación, y cada jugador retornará al país en vuelos comerciales. Medios españoles, por su parte, informaron que la eliminación de Uruguay modifica los planes del FC Barcelona respecto al defensor Ronald Araujo, quien milita en el club catalán. La no clasificación al Mundial habría generado un cambio en el escenario que el Barcelona evaluaba para el futuro del jugador uruguayo en la institución.",
-        "coincidencias": [
-          "Uruguay quedó eliminado del Mundial 2026",
-          "La eliminación tiene consecuencias inmediatas para futbolistas uruguayos",
-          "Se reportan cambios en planificación posterior a la eliminación"
-        ],
-        "diferencias": [
-          "El País enfoca en decisiones logísticas de la AUF sobre vuelos",
-          "El Observador centra la atención en Ronald Araujo y Barcelona",
-          "Un medio aborda aspectos institucionales locales, otro repercusión internacional"
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "Error de Muslera en eliminación de Uruguay",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "De Muslera como el peor a Valverde y Núñez: la puntuación de los lectores de Ovación tras eliminación de Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMVpFOVFwckVCY2s1R1BjZktYNVhEVXJ6UzZFRnVVeWtyVkp6R1hSTDRieUw5eEUyVFJGT2FjcDR1V0VLOGswMnRWQ21yZnMwd1JfRFhzcW5tdDRoS05qSHdIaklKdXE1OGNiWllTeTdXaUpwVVJtZXJNOFRoWXpWT3pVR2hJV0hmUVpQaXFUQ0F0enlnOHR4ZkpVU0k5RjY3MERKT01VRDFGTzh2b0VNQ0JXU290dlBZc2oyM0Q2aFZfbHcxMFVuUXJ3MUR4RXhwNWM0NFVTMW9FMEpERUpmbXF4NURxZw?oc=5",
-          "description": "De Muslera como el peor a Valverde y Núñez: la puntuación de los lectores de Ovación tras eliminación de Uruguay &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-27T17:10:30+00:00",
-          "score": 3,
-          "score_reason": "Enfatiza calificaciones negativas y jerarquiza desde lo peor",
-          "score_pct": 30
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Nunca imaginé estar sufriendo tanto”: Muslera tras su error en la eliminación de Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2swcUxDQThTbDN5ZVdsXzFBT3FsQnVNQ2drMWdrcENVMDJrQXJkV25YZkRUQ2N2TmZsMlpMQmVqZDdxbmVzbnItNWJtbkxkMnFFd1paNjNzaTVEd0dUU1cwMUNFUDYtd0VsU0FJTWJHM2xlRnRvdVlyV2dzVnk1VnkzRVZELXV2b2NDU2FNeUZTMm9RRVNLTHdyeS1fSUdibnpIQ1VfU2JWSzVmMGlaUmhzZzZKQjBpOEh3eDR4amFjQlFfQjVZcFVpYUlpYUJPemfSAfYBQVVfeXFMTXFlcEtqS3NEQnhIMTNJT0o3R1N6WVhURjZGRnRXQkJGREZRYUdGdzU3ODRIWHI2Vnp5MEx5Um81LVFXbDYwUlFBN0dXbjViRFh2VXo3U3RXREROUE5RVHBiWWVvVDFrYWJVM1kwMmZ2V3o4emZkUkYxZWhYY0h2c09YMkU5NG9LMkROVjVaOEo4S3dib05ETkZnZ04xWGZvYnlnZm9ScHpiSE0tUFpGMzBkaVZNNkNteWhCal92SzFHZ3VvRkx2dG9peFBSbjhmRVVDNkM2UEFfY3NqWlBkWU1mSTRpempjd1BsdUt5R0RKV093MHlB?oc=5",
-          "description": "“Nunca imaginé estar sufriendo tanto”: Muslera tras su error en la eliminación de Uruguay &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-27T11:00:00+00:00",
-          "score": 4,
-          "score_reason": "Destaca emocionalmente el sufrimiento del jugador tras error",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "La selección uruguaya de fútbol fue eliminada de una competición tras un error del arquero Fernando Muslera. Los lectores del diario Ovación calificaron el desempeño de los jugadores, siendo Muslera el peor puntuado, mientras que Federico Valverde y Darwin Núñez recibieron las mejores calificaciones. Tras el partido, Muslera declaró públicamente sobre su error y manifestó que nunca imaginó estar sufriendo tanto en esta situación. El golero asumió la responsabilidad por su equivocación que contribuyó a la eliminación del equipo nacional.",
-        "coincidencias": [
-          "Muslera cometió un error determinante en la eliminación",
-          "Uruguay quedó eliminado de la competición",
-          "El arquero fue señalado como responsable del resultado"
-        ],
-        "diferencias": [
-          "El País enfoca en las puntuaciones de lectores a todos los jugadores",
-          "Montevideo Portal centra en las declaraciones emocionales de Muslera",
-          "El País compara rendimientos; Montevideo Portal privilegia lo testimonial"
-        ]
-      }
-    },
-    {
-      "id": "story_006",
-      "topic": "FIFA multará a AUF por silencio en zona mixta",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "La AUF será sancionada por la FIFA porque la selección de Uruguay decidió no dar declaraciones en zona mixta",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLVdNS2lwRmxER1ROejVoMVhqal84bzMyUDRObFMtRjNkakRoZV85TFFTaUdNdWF2R2FzRWhTRDZCcng3SE9ib25vTGRJQVIzeC00SVZFYVJLVElSZ0tkbGVBbXpDSlRVZm5xRm92NHRnaVpvWS1SX3dhcnZiY3dkVnMxRHB4ek9jLU1CRlFWMUhBQ2pIWWhwWWlIUW1hdGpFWUIteWxPQVEtQkM2eUV1dVNBQzZmTzhHcFJoM3BjMVZSVWJfVWcwbnhDS2xuS0VZNkFZWlEzZnI0eE9kaS1qLUo4T3I?oc=5",
-          "description": "La AUF será sancionada por la FIFA porque la selección de Uruguay decidió no dar declaraciones en zona mixta &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-06-27T03:26:01+00:00",
-          "score": 2,
-          "score_reason": "Informativo, neutral, describe los hechos sin valoraciones agregadas",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: jugadores de Uruguay no hablaron en zona mixta y FIFA multará a la AUF",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlM5dEdJWWpkcWFRSE5rSFNjRkF0YzdweFVJaUlIWVZoLVQ1NkJOOTFMSXBxX3NDb3JLdkFEYWFNSTBBSDhsZFdyTDYwM2E1cDRxWG5ULWRtTk9iYWY0aWUzYUkzSVQxNHdfMHZQT3ZWREw5YWFwem5VcGYxX3RscUJmV3pnTTZqcHo1QUNqZTVDZjdCWU9KVE5YaUpudWtMQWRFWWFmc25WMFVFUE9YREZHcFhYTi1hUERRT0JKRnIzR1BSN1BQeGZzNNIB7wFBVV95cUxQTGFGYS03OU9oeFFHd3F0dmQtc3Y4YXllVFhjTTVMcEIwRXFmTGVyMzVxQnNmbGpjSmhOZ00xZEFUaXNNWjVla0tjVUxZS0U0bzRqdy02ZmJ2OGpDR1ptQXNoakhrM3dTc0VHRzFJbWtlSzljcmVTcGU4MGQ1TFBJUnBTNnVhNWdNSjktemcyWldCZzRkOHJsSlNUVnBYTndlYzBSdmctQ3R1MFJiX01PZnQ0ZDdoWGRyRkZITjd3VWhkSk1WeTkzeGpFQ0J6Uy1yYno3d2QyNDBheVg2TVdhUXNlM2N5a0hDb1lpMDdyYw?oc=5",
-          "description": "Mundial 2026: jugadores de Uruguay no hablaron en zona mixta y FIFA multará a la AUF &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-27T03:24:00+00:00",
-          "score": 2,
-          "score_reason": "Objetivo, menciona contexto del Mundial, sin carga tendenciosa evidente",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "La FIFA aplicará una sanción a la Asociación Uruguaya de Fútbol luego de que los jugadores de la selección de Uruguay decidieran no brindar declaraciones en la zona mixta durante partidos del proceso clasificatorio al Mundial 2026. La zona mixta es un área designada donde los futbolistas deben estar disponibles para atender a los medios de comunicación acreditados según los reglamentos de FIFA. La decisión de los jugadores uruguayos de no cumplir con esta obligación generó la multa a la federación nacional. La sanción está vinculada a los compromisos mediáticos establecidos en las normativas de la FIFA para competiciones oficiales.",
-        "coincidencias": [
-          "La FIFA sancionará económicamente a la AUF",
-          "Los jugadores de Uruguay no dieron declaraciones en zona mixta",
-          "La multa está relacionada con partidos del Mundial 2026"
-        ],
-        "diferencias": [
-          "El País enfatiza que fue decisión de la selección no declarar",
-          "Montevideo Portal contextualiza la noticia específicamente en el Mundial 2026",
-          "El País usa 'será sancionada' mientras Montevideo Portal usa 'multará'"
-        ]
-      }
-    },
-    {
-      "id": "story_007",
-      "topic": "Uruguay eliminado del Mundial 2026, críticas a Bielsa",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Bielsa destruyó la naturaleza de Uruguay, los futbolistas fueron infieles con la historia y los dirigentes rehenes de lo que firmaron: el fracaso de la celeste en el Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQSzk1d1hRUUhPUF9TNWxUT0hsVXBDa3h2SklGbzM1Qko5dXNhV0lTZ1FRX2tmVmktclU4b1l5S3FIX0JwVDFDRTZRblc3Y3MxcDN1LTAwcDI2OGNLQWFPSFZBM20xZDlxcHpCYl81NWwzbktZRW1ZWjdMY2UzQW1CcUVsV0IwSHFmbWV2MDRpLWE3YWd6MnZhOVVJdWpFcHRVVlJBeTViN1lPSnpYVVZFMzNHWXhud29Xc29iNjlrazF5aVhfN3NjY3NrbFU0LWo4a3drdkJTMHVfTVJBamZ5WnFNcm41Nnl0bXVYLTI2azRobVpLSlRlS2toU3VNSDl3X1BaWWJPVEZUbGJrMXptRWVPZC1NZk1obkUzYjdIOFh4eDZ4aUVUWG1vdGxINVNwOC1CcG9n0gG7AkFVX3lxTFBmYm1Id2xheklEaGtqNXk5UEk4YW5ZQ2VVNFpramlCbHBrZWIyMkM3Z2dCOEVMMkhBUlMtZnVMbUpRdmMyeFQwOEpZbTFIaXVqM3YtdUpCMHlsNnVyakpDTV9ZYUozZG5zX0ptaGN6eHo2MVZQY2xqd0ExTjhrSF8xaGpESzhuaVgxQ3QxNU1QTnVmbG1XemRjM201bElnUkp0SHFpdlRiNGZxUV9DdFFraUxLMlM5R2tJN09feDg4UVhncmRUeERRRXR6VFNLRzBocFlqbUhhS1AyQTVMVDVucV8xUV9vaWhsbUtSXzhkdi1IZUdhYWVEWkFvVUNxV3B6WG9tUDNVWlVfRWt6NjNuYlQ3VGN5Q1NLSzNwZVNMTXU4R3Yta2kzYWpCZ09JRVNHQ3YwdmpHS0txMA?oc=5",
-          "description": "Bielsa destruyó la naturaleza de Uruguay, los futbolistas fueron infieles con la historia y los dirigentes rehenes de lo que firmaron: el fracaso de la celeste en el Mundial 2026 &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-06-27T06:31:00+00:00",
-          "score": 7,
-          "score_reason": "Lenguaje altamente cargado: destruyó, infieles, rehenes, fracaso",
-          "score_pct": 70
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Mentiroso, vendehumo, hipócrita”: Feinmann destruyó a Bielsa tras la derrota de Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcTBvNFZyLUZfNmlBWE5PR1JkakxFN1YyeklhSzh3Q3dXSTFSUkJaaWcwZDJOc1ZzTG1RTUhzellhOGFYNnh2aUFDaTBYZ2Z4RTRZRVA1WFdmT2VwelNhOHZETEZvMEpEQUpIbU9NRndtYlJVT1JKTElvOHo0S0otX2JGdllKMFVEaG8taGVLZ1IwMTMxdXlfU0owQ05sTUhiZ2t5cTlWQ28zYVFpM1NDbkxHNnBGRC1wdkloRlpoNEEwR09zWVBTRkJTc1BDZ9IB8gFBVV95cUxNMW9WV2ZyNTZsSDVPTUpCRUc4T1V1V214WGZwTDlyNGxWTzY1cExaN2I2QjgwRmhzZzBCamZaUHpDQnM3NlJpU2NRSWRHMTNTZnNLdTZXOWlZa3p6ZFg1TGFfRGYxc1pzU0l3R19xYkZ2Rm4tX3pGT1dub3FOa3NRSTJTN3ZZd3ZEQzlvaDNVNDJIMldXdjZBeXpVY2xROWVnY1hfdDJqc2Z4UU1aZmdCNzV5TENIeEN2UElmSHVWZkNYcGFnejhKb1dGV3dTSWttSm16RmZvZGhsLVFreXE3UGtybUF1eGRuYjdad1FqLUdKZw?oc=5",
-          "description": "“Mentiroso, vendehumo, hipócrita”: Feinmann destruyó a Bielsa tras la derrota de Uruguay &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-27T14:11:00+00:00",
-          "score": 8,
-          "score_reason": "Reproduce insultos directos y calificativos extremadamente negativos contra Bielsa",
-          "score_pct": 80
-        }
-      ],
-      "analysis": {
-        "resumen": "La selección uruguaya de fútbol quedó eliminada del proceso clasificatorio para el Mundial 2026. Tras la eliminación, surgieron críticas hacia el entrenador Marcelo Bielsa desde diferentes sectores. El Observador publicó un análisis sobre el fracaso deportivo cuestionando el proceso del técnico argentino, la actuación de los futbolistas y la gestión de los dirigentes de la Asociación Uruguaya de Fútbol. Por su parte, el periodista argentino Eduardo Feinmann realizó declaraciones contra Bielsa en medios argentinos, calificándolo con adjetivos negativos tras la derrota de Uruguay. La eliminación marca el fin de un ciclo que generó expectativas en el fútbol uruguayo.",
-        "coincidencias": [
-          "Uruguay fue eliminado del Mundial 2026",
-          "Marcelo Bielsa es objeto de críticas tras la eliminación",
-          "Se cuestiona el trabajo del técnico argentino"
-        ],
-        "diferencias": [
-          "El Observador hace un análisis más amplio incluyendo futbolistas y dirigentes",
-          "Montevideo Portal se enfoca en las declaraciones de un periodista argentino",
-          "El Observador usa lenguaje editorial propio, Montevideo Portal reproduce insultos de terceros"
-        ]
-      }
-    },
-    {
-      "id": "story_008",
-      "topic": "Modificación de beneficios tributarios para autos eléctricos",
-      "category": "Economía",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Gobierno modificará beneficios impositivos para los vehículos eléctricos de mayor valor",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSWJYcHFxRG9wME9XX09EODJHZzFVQ0otU18zRFlVRlFHSm5Qa1RVRll5QnZ0VnpRNHNGWnJRYlZKRVQ2SFBiTWtXWUhhcjh1VzJYRF9SLUZTeGNIQ1IwYjVRSGJwd1RKelFMcGQtQmtBLVdhNEFiMTE1RnRhYzRONDlVNHdnaEIwNU5RLVNZVUhYMXEyazNWUDB4elhNSzZpbXpOZm8wYXA0Qk1fODRKektYVzJxMTFqX3FxdFhyZENVbE5xZGpOVDZuM0tUOTk20gH0AUFVX3lxTFBmMWFQZ3htSmlSUElRLXNwamE4X295S1ZWMGhGVFJrMmw4a3B1U3Z0RFd2RVNOeEdESzJJOVZxVXo2MlBPbkNaVjNKOTVpT1lZSGtPWUV6TzYtb0VCWDdCY2wyOXpBQV92bXBVSFJSOTNEMU1DN1ZnT0o5WW04VDRNdEY1bExhd3otdHBJT0Ftb0ZVOWFFUVd2c0ZaZzVIRXRkRVprdUtSczJQNDJDaXJ1Mk9oX01uWmwxRDBDemFyT1AtaThfOWdEaDh6SS1RaDJpOVJmUkVrN0RnQTZlWXpRVDZyRjBBb084TWF5c2pLcUtwNDc?oc=5",
-          "description": "Gobierno modificará beneficios impositivos para los vehículos eléctricos de mayor valor &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-27T21:21:00+00:00",
-          "score": 1,
-          "score_reason": "Titular descriptivo y neutro, sin carga valorativa ni contexto adicional",
-          "score_pct": 10
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Gobierno modificará beneficios tributarios para autos eléctricos \"de mayor valor\", informó subsecretario de Economía",
-          "url": "https://www.teledoce.com/telemundo/nacionales/gobierno-modificara-beneficios-tributarios-para-autos-electricos-de-mayor-valor-informo-subsecretario-de-economia/",
-          "description": "El jerarca indicó que los límites de cada franja y el alcance de los cambios serán anunciados en los próximos días.",
-          "pub_date": "2026-06-27T20:39:45+00:00",
-          "score": 2,
-          "score_reason": "Incluye entrecomillado y fuente oficial, levemente más contextualizado pero neutral",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "El gobierno uruguayo modificará los beneficios impositivos para vehículos eléctricos de mayor valor. El subsecretario de Economía informó que se realizarán cambios en los incentivos tributarios, estableciendo diferentes franjas según el valor de los automóviles. Los vehículos eléctricos de mayor precio recibirán menores beneficios fiscales que los de menor costo. Los límites de cada franja de precios y el alcance específico de las modificaciones serán anunciados por las autoridades en los próximos días. La medida busca ajustar el sistema de incentivos para la electromovilidad en el país.",
-        "coincidencias": [
-          "El gobierno modificará beneficios impositivos/tributarios para vehículos eléctricos",
-          "Los cambios afectarán específicamente a los vehículos de mayor valor",
-          "El subsecretario de Economía fue quien informó la medida"
-        ],
-        "diferencias": [
-          "Teledoce menciona explícitamente al subsecretario de Economía como fuente, Montevideo Portal no especifica",
-          "Teledoce incluye información adicional sobre el anuncio de detalles en próximos días",
-          "Teledoce utiliza entrecomillado en 'de mayor valor', sugiriendo cita textual"
-        ]
-      }
-    },
-    {
-      "id": "story_009",
-      "topic": "Uruguayo fallecido en terremotos de Venezuela",
-      "category": "Internacional",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Cancillería confirmó el fallecimiento de un uruguayo en los terremotos de Venezuela",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeVNoZXF6RmdGM2VGc1VzcTA1ZlR5bUM0ZWludjFLWVpMenVPOU96T2JrV2FEdHY4QTZPMk1GU2J2dzVDdGJsVzUtWEhIZFltYmNQd2ZzRXE1cWljTmExODZ3NmhscXFmdHI2cWgzUHp4c0FWMXo2b0Y1UTFEMTBHeGxwRWdNeTBrbmJCSVNVU3RJNmZVbjlmWnVLQ2VWUlFMNmtUX244eko4VURBdURWRWdCd3NzRlFEVmhkaElMeWFCalFpLS00c29uQdIB7wFBVV95cUxORnRoVmZWRThONjU4MWZVQ184VkVQR1h0Q1Z2dDhEd0JRN25QNkxuUlZDNjNMVzRuYm16V0NDb2lnSUpaZTltZFI4SDF2a3lMQmNLZFlaU095WEM3V1hDbUFLc05FWXdyX0VkMHgyZ0dPejBQRmF2dEdlaHJ0UGdwVmYtVnFvSHBpcXJtT20zRU1FOFdDVk0tcFZkaFByMmtTRXczZTFTY0N1a0VwcDhWd0JTdDQzaHhQa2RXYlVxNjVMeGY1RjVUOVNGZWtPLUVPYTZIbk1RbFBYZ1lWY3hNYVdueE92dy1WQVJ4OUpNOA?oc=5",
-          "description": "Cancillería confirmó el fallecimiento de un uruguayo en los terremotos de Venezuela &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-27T15:04:00+00:00",
-          "score": 1,
-          "score_reason": "Información directa y objetiva, sin carga emocional ni contexto adicional",
-          "score_pct": 10
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Un uruguayo falleció tras los terremotos ocurridos en Venezuela",
-          "url": "https://www.teledoce.com/telemundo/internacionales/un-uruguayo-fallecio-tras-los-terremotos-ocurridos-en-venezuela/",
-          "description": "Casi 1.000 muertos y más de 50.000 desaparecidos dejan dos terremotos consecutivos en Venezuela, donde crece la impotencia por la falta de ayuda oficial para rescatar rápidamente a sobrevivientes.",
-          "pub_date": "2026-06-27T16:25:13+00:00",
-          "score": 4,
-          "score_reason": "Incluye contexto dramático sobre desaparecidos y crítica a autoridades venezolanas",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "La Cancillería uruguaya confirmó el fallecimiento de un ciudadano uruguayo en los terremotos ocurridos en Venezuela. Los sismos, que fueron dos eventos consecutivos, dejaron un saldo preliminar de casi 1.000 personas muertas y más de 50.000 desaparecidas según los reportes disponibles. Las autoridades uruguayas no brindaron hasta el momento detalles adicionales sobre la identidad de la víctima uruguaya ni las circunstancias específicas de su fallecimiento. La magnitud de la catástrofe ha generado preocupación por la falta de recursos para las tareas de rescate de sobrevivientes bajo los escombros.",
-        "coincidencias": [
-          "Un ciudadano uruguayo falleció en los terremotos de Venezuela",
-          "La información fue confirmada por la Cancillería uruguaya",
-          "Hubo dos terremotos consecutivos en Venezuela"
-        ],
-        "diferencias": [
-          "Montevideo Portal se limita al hecho puntual del uruguayo fallecido",
-          "Teledoce amplía con cifras de la catástrofe general y crítica a las autoridades",
-          "Teledoce enfatiza la dimensión humanitaria y la falta de ayuda oficial"
-        ]
-      }
-    },
-    {
-      "id": "story_010",
-      "topic": "Bielsa sobre eliminación de Uruguay del Mundial",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Muslera decidió no jugar el complemento tras error que eliminó a Uruguay del Mundial, dijo Bielsa",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaVNmcm44ejVFLWpleGh0R1BocUYyV2dUV1ZiQlJ6MGp0Y25oNEdYY2FVOVpFOXBJQ3h4a3BDVklLODVSbWt4ZzZBX1RHRk9Fb0Z6NUxBbXYzc3llaTl3akUwOUMtLWEzbThXWkdGeEFSYllhM2RUcmZkajltTFgwVFk5d1FTZGk4Z1JwQXRtSGt3dy1yZ2FYU2tHazk3MTlyX01ocEVzazBiQ0w0ZGpJbUFOUFJVR1VySDNqekltbkpGVmNTcVHSAcsBQVVfeXFMUDlNTGVOQjFPMmg1OWNKRFBrb0haNEJLbXkzR0pHM1B3dTFNaFlkWUFZX2VXZDhQVHJPR3h6S2VoeFVKU2YtRFFEM2NjbzJjS2tNbndiamQ1Zkhnc2k1VDVVSmRuaHgxNG12YTJGaXRGLVIweC1sSXRySWpTWGZsMzdpQldVTE9BWldWLS1pX2g1Nk1Sc3llUU9zaGcwbU5lRHEyMnFXckcyR3MwTWJyNHJ1a21TaUstUXdRMkh0UFhqS05BZGYtMzBFc0k?oc=5",
-          "description": "Muslera decidió no jugar el complemento tras error que eliminó a Uruguay del Mundial, dijo Bielsa &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-27T02:22:00+00:00",
-          "score": 2,
-          "score_reason": "Informativo, se centra en hecho concreto sobre Muslera",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Bielsa y la eliminación del Mundial: “Lo que yo le dejo al fútbol uruguayo es nada”",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHBlNlpEQzlGR005MGUyaEd3ak1laTloMXpCbks3MnpYR3pLcUp4SThZM01UVmZMZmRyM1R4Rm8tZDZWOWlfSjlmS2xGOHVUM05OZ3lEcm4zcUFUQURmamlxR3Q5QnhVMnV4SnVEallJX0dEaXVMQ0hxNHpYT3pRT2JxWkRaQTVOeUdoVzdLYWVzTWVOeHZka3o3dGM4dW0wdFU3T0FIbnRUTlZDTEdDTWN5MjNORW4yUk03R0Fid2NqMGVsUHpTRUpR0gHuAUFVX3lxTE54bGhOd3QxZlc0Q01VRmhqbl9xRHl5QWRyYXV2Ti1HMzR4eDRWd3NMNHpkRGd1Y0tLZVJtNFNyWTZ4THM5WnlKY1EtaEhLRERYbE95RlRMQk1yNGQ1N25KaXMybE9zMV8wWVdUbzM1djZTMlQxSHg2S3BUcjMxRWt5X3pQcjZwOEFYZ3ozUjNSMkgxQzR0YmdqSUxUem5JbDNMeUlkdFRPUFljSDB5aENFRkdJZzhRbi1YeDgxSGh4UVMzM1NRQ0FhaG1EbWNsU21kcjRrS0NTdG5paXpLa0VlOTk5c3lLd3UzTTN3Tnc?oc=5",
-          "description": "Bielsa y la eliminación del Mundial: “Lo que yo le dejo al fútbol uruguayo es nada” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-27T02:34:00+00:00",
-          "score": 4,
-          "score_reason": "Destaca la autocrítica negativa de Bielsa de forma enfática",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "El director técnico de la selección uruguaya de fútbol, Marcelo Bielsa, realizó declaraciones tras la eliminación de Uruguay del Mundial. Bielsa expresó que su aporte al fútbol uruguayo es nulo. Además, reveló que el arquero Fernando Muslera tomó la decisión de no jugar el segundo tiempo del partido eliminatorio después de cometer un error. El técnico argentino se refirió a estos hechos en conferencia de prensa posterior a la eliminación del equipo uruguayo de la Copa Mundial de Fútbol.",
-        "coincidencias": [
-          "Bielsa realizó declaraciones tras la eliminación de Uruguay",
-          "Las declaraciones se produjeron en conferencia de prensa",
-          "Ambos refieren a hechos del partido eliminatorio del Mundial"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza la autocrítica de Bielsa sobre su legado",
-          "Subrayado prioriza la revelación sobre la decisión de Muslera",
-          "Uno destaca aspecto reflexivo, otro un hecho específico del partido"
+          "Montevideo Portal enfoca en Giordano y la falsedad total de rumores",
+          "Teledoce destaca a Cáceres denunciando manipulación informativa deliberada",
+          "Teledoce menciona el Mundial como contexto, Montevideo Portal es más genérico"
         ]
       }
     }
