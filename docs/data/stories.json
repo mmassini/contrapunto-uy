@@ -1,9 +1,314 @@
 {
-  "generated_at": "2026-06-29T14:08:11.606027",
+  "generated_at": "2026-06-30T12:13:44.777976",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Sismos en Venezuela: muertos incluyen familia de futbolista",
+      "topic": "Regreso de Bielsa a Uruguay",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Así fue la llegada de Marcelo Bielsa y Jorge Giordano a Uruguay, acompañados por un único jugador de la selección",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQmQ0emZtVXdOTGJOb3ByYjk2LTc1RXNfSHdrZlVBQUx3S2hJMzA0VDVMWkl0TWhaQ3Y4cjRVZm1VNldkblZGZERqUHBkaVAxcWgtNVpEWWhvRlVJTGhLTUVhQ3FLcVlCd0lJdEIxcnRNWWw3bTlMQkZxWWJ6UnplWnBsc2NvM2ZlYVVlQUxQT1l3elVGcmxBS2dPTjBCV2pvSUIzZE1QWldXSjRKeFVsbk1mZ2M5bk1aVHM4SGFrTmZmcGZRS1VnNTdpZmZOSlVhamdCYmR5ejAzNk85WTJHS3JmdXd0TDRPNUE?oc=5",
+          "description": "Así fue la llegada de Marcelo Bielsa y Jorge Giordano a Uruguay, acompañados por un único jugador de la selección &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-29T11:09:37+00:00",
+          "score": 2,
+          "score_reason": "Descriptivo y neutro, detalla la llegada sin carga emocional",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Solo y hacia un auto particular: así fue la vuelta de Bielsa a Uruguay previo a despedirse",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaVFnQnJUVWR6RnAzb3dYQzhNUTFpN0NCc0lGZFJFS1VobEtPV0w0SkdIanVBX0RxVmdVWmF3aTR5dmZvaXlzcTVvVU43bVVsRzZlSllZa2xjcHZBOWZKc2Rtd3JpV2p5QTNGMlRVdDlNLVZDRGpXUGVEY0VjbE5YYjlCYWF6U09FUmd6dkRwVVRNVFNVTXlBQllaUUdmaHg2bVhTRWxkZnRUQUxGZTNjYlFjT0FJaE9ObjVLRVhDeEx0NkR4cVVJU1JQbmxFcEZDQmdV?oc=5",
+          "description": "Solo y hacia un auto particular: así fue la vuelta de Bielsa a Uruguay previo a despedirse &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-29T14:00:00+00:00",
+          "score": 4,
+          "score_reason": "Enfatiza soledad y despedida, sugiere narrativa de alejamiento definitivo",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "El entrenador de la selección uruguaya de fútbol, Marcelo Bielsa, regresó a Uruguay acompañado por el preparador físico Jorge Giordano. El arribo se produjo en un contexto donde se especula sobre su posible salida del cargo. Según los medios, solo un jugador de la selección viajó con ellos en el mismo vuelo. A su llegada, Bielsa se retiró del aeropuerto en un vehículo particular, sin realizar declaraciones públicas. La llegada del técnico argentino genera expectativa sobre su continuidad al frente del combinado celeste.",
+        "coincidencias": [
+          "Bielsa regresó a Uruguay junto a Jorge Giordano",
+          "La llegada fue de bajo perfil y en vehículo particular",
+          "Solo un jugador de la selección los acompañó"
+        ],
+        "diferencias": [
+          "El País se enfoca en la descripción factual del arribo",
+          "Montevideo Portal enfatiza la soledad y anticipa una despedida",
+          "El País menciona explícitamente al único jugador, MP destaca el aislamiento"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Búsqueda de nuevo técnico para selección uruguaya",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "El nuevo técnico de la selección uruguaya: la postura de la AUF, el nombre que hay y momentos que no ayudan",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWThWT2FQNVYtLTB2RDh4cXFfUHV3UFN6MXkyTW5sYmNobW0tbjVJRWlwY0tiQm84b1hBMFFxWWs2WEhRdGx3bWJjRFZSTkdtLVBad0Roelp6WVVpcWc1X1phSHdzWGJzR1E2VjdCRWZMYmlPUUVLMDdac084RWl0MU5OaldZOUtfODBFS2JwZVZVMkxmSUdDVi03alNuMUtxSV9CWnJQQzN4N09YdnZZOGxpV3I4cWJ3ZDI1RG9jVmpfZjRodTdDVDhyeDctdWhjQUdsMS1BekJ4MmxRX18xTA?oc=5",
+          "description": "El nuevo técnico de la selección uruguaya: la postura de la AUF, el nombre que hay y momentos que no ayudan &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-29T06:26:02+00:00",
+          "score": 4,
+          "score_reason": "Uso de frase ambigua 'momentos que no ayudan' sugiere dificultad",
+          "score_pct": 40
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "¿Marcelo Gallardo es candidato a dirigir a la selección uruguaya?: “Hablé con él y...”",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMjBnYkxoelZ5VEIwZFhkZWw0UWRRMEp5SUg2SUZOeWNlYnYxeS1TMnNQUzZIVUlwY3ZFWkE5WnZUVHlrTlRCVG5qLVFWOUgta1FXWFZjVmo0LUFjRHhhU3RoVXZHZzZfT3cxXzBoYkFNLTNfLUFDc3VxMHBZYkJKMDc1TFJ6RTRULVlnRHF0ZFBGS0xMWngtYXRvdU1CQ2laclBDaDFaLS1aSGNucmRoQWhWVHRXUkxUWDBFaHJtZUE1clJiZXR4OE53?oc=5",
+          "description": "¿Marcelo Gallardo es candidato a dirigir a la selección uruguaya?: “Hablé con él y...” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-29T10:22:00+00:00",
+          "score": 5,
+          "score_reason": "Puntos suspensivos generan intriga y suspenso innecesario en titular",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "La Asociación Uruguaya de Fútbol (AUF) se encuentra en proceso de búsqueda de un nuevo director técnico para la selección nacional tras la salida de Marcelo Bielsa. Entre los nombres que circulan como posibles candidatos aparece el del técnico argentino Marcelo Gallardo. Según declaraciones recogidas por medios locales, habría existido algún tipo de contacto o conversación respecto a esta posibilidad. La AUF mantiene su postura institucional frente al proceso de selección, mientras se evalúan distintas opciones. El contexto actual presenta desafíos particulares para la designación del nuevo entrenador de la celeste.",
+        "coincidencias": [
+          "La AUF busca nuevo director técnico para la selección",
+          "Marcelo Gallardo aparece como candidato posible",
+          "Existieron contactos o conversaciones sobre el tema"
+        ],
+        "diferencias": [
+          "El País enfatiza las dificultades del contexto y la postura institucional",
+          "Montevideo Portal se centra en la conversación específica con Gallardo",
+          "El País presenta panorama general; Montevideo Portal apunta a candidato concreto"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Forlán opina sobre técnico uruguayo para la selección",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Diego Forlán sobre el Mundial de Uruguay y el reemplazo de Bielsa: \"Yo prefiero un técnico uruguayo\"",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNekExRTF6YzFBbUhqR0NBUkhLSTVDN1hqcWJhWFVIQzR3Uy1fOUt4V1FTUWJyOEI4TVNMSFlVa2pqU1RFWEtaTkFwbWlVMm52c285U3Z0VmR5UVZELUV4bXkxX3dMM1dxdUlOQjNFQmdKRk1aUmEwdE1CX0NqdlU2aHlaRnNHSFh2TDJXbEtsZ3FObTRENy1LaEVfbGZQVmVnSnhhOUx0ZzNVM3RzV05zWlZqSnd4b0ItaGRjQ244aU1ibERCaDdpRHIyWHhrSnFiTTY0cVR3?oc=5",
+          "description": "Diego Forlán sobre el Mundial de Uruguay y el reemplazo de Bielsa: \"Yo prefiero un técnico uruguayo\" &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-06-29T02:35:27+00:00",
+          "score": 2,
+          "score_reason": "Cita textual directa, informativo sin carga emocional adicional",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“¿Sabés cómo voy?”: Diego Forlán sobre si sería el entrenador de la selección uruguaya",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZWxSVV9nZ3VWay1YN2U2cDJRWldPUzJYTWlubGJsMWVWM3JUNHBmTHJwM3NzMF9xLVZfME5nSGtha0VuVDZrNXlEMXlvNzIzQm1qMWtRdGF6Z2FHZjczZUowb216WmZHeFJPTG94ek00Wi1ZNzVRV2tmZWp5WFZtR290TzFuSFFyTHp6LXAzUy16ZW40Y01rV2Q4VVE1YzJKbWxuMTAzRkF5akk5bW10QVRYNl9Vb1FaNGpDWG1jcUlQZWE3WTJvRHR1MA?oc=5",
+          "description": "“¿Sabés cómo voy?”: Diego Forlán sobre si sería el entrenador de la selección uruguaya &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-29T10:00:00+00:00",
+          "score": 3,
+          "score_reason": "Usa expresión coloquial llamativa para generar mayor interés narrativo",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Diego Forlán, exfutbolista y actual entrenador, se refirió al futuro de la selección uruguaya tras la salida de Marcelo Bielsa. En declaraciones a la prensa, Forlán manifestó su preferencia por que un técnico uruguayo asuma el cargo. Consultado sobre si él mismo estaría dispuesto a dirigir la celeste, respondió con la expresión coloquial \"¿Sabés cómo voy?\", sugiriendo su interés en la posibilidad. Las declaraciones se producen en un contexto de debate sobre quién debe suceder a Bielsa al frente del seleccionado nacional, con miras al próximo Mundial. Forlán actualmente cuenta con experiencia como director técnico en diferentes equipos.",
+        "coincidencias": [
+          "Diego Forlán hizo declaraciones sobre el futuro de la selección",
+          "Se refiere al reemplazo de Bielsa como técnico",
+          "Forlán expresó interés o disposición respecto al cargo"
+        ],
+        "diferencias": [
+          "El País enfatiza la preferencia por un técnico uruguayo",
+          "Montevideo Portal destaca la posibilidad de Forlán como candidato",
+          "El País menciona el Mundial; Montevideo Portal se centra en la candidatura personal"
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Cáceres respalda a Bielsa y denuncia manipulación",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Cáceres respaldó a Bielsa y denunció manipulación informativa",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWnlncjJBWHlObXBPc1lqTmozZUVyNHdaVGtUY1VRcjB1U3V1bnBSYnd6MUxhY2RRTHBiYTVIbVotbllIZnVOQ1ZVSmVfVlJWdzFCVDBlWHlVc21lUGJYdTA2RG5zcGFuRjY0b0E3ZFJhbEptX19aeC1wQW43UW5OQmNhZzJNM2pfdy1XYjRrMGx5WW1pSjllVndVb2NGLWlfLVE?oc=5",
+          "description": "Cáceres respaldó a Bielsa y denunció manipulación informativa &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-06-29T15:57:45+00:00",
+          "score": 3,
+          "score_reason": "Titular más neutro, presenta los hechos sin énfasis emocional",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“La mayoría sabe cómo fueron las cosas” y “se manipuló mucho”: Cáceres respaldó a Bielsa",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVHYtekU3RWdiU0RIenlrTF9scWxFc2ZycV9SY1MzTmo5a2FsZUE2SGprOGpRclJraFZWRFhBVWlIeW9fOXg4dEFHY3d3S0FZandMZXlzV3N3MG0tcy1CUFlsSGUtNnpJMmNKYUFJTkZESjJWd1lhVUF2TGRoZnJjTlVyV0xRNmxlUDVlUUd0RGJVNzRWQlNRQkhCbVNzY1BEVjl1N0s0aG1WbXAxS29QQVA3RVQyc3RaWWU2U0J0ejFGRC1jLU5YbGxCZDBRUdIB8gFBVV95cUxQSUNtdkhYRWdXbmJ6bGZEc05oZHZfNzRzR2NKM0tCdkFBU3g2U2RLV0VlWGQxSDBXY0RpbVhZUDI4cTlpYXZyQ1U0aUVlY211Tkt1ZEhDNHhldGtaNFlGdEQ4Z1UwQlFRTXZsTkdQWFBaallqb3cwc2Z1MGhycFJ3V18xY1VTRlJXRFVneWU5cmZZbDJ6QjQ5c2gyOG5McW1vX0hvd1hFVFNBVy1XVzB6MnJPOUJHMnVoTmJVbGFsaTJwb25DMlVvNm9VUVJZWmFSdmhraHdPeWhjSmtpcTRfa2k2RzBPcVkwZy1JOGN1VGtLQQ?oc=5",
+          "description": "“La mayoría sabe cómo fueron las cosas” y “se manipuló mucho”: Cáceres respaldó a Bielsa &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-29T13:20:00+00:00",
+          "score": 4,
+          "score_reason": "Uso de comillas enfatiza las declaraciones más polémicas de Cáceres",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "El diputado Gonzalo Cáceres emitió declaraciones respaldando al entrenador Marcelo Bielsa en el contexto de la polémica reciente vinculada a la selección uruguaya de fútbol. Cáceres afirmó que 'la mayoría sabe cómo fueron las cosas' y denunció que 'se manipuló mucho' la información sobre el caso. Las declaraciones del legislador buscan defender la posición de Bielsa frente a las críticas y señalamientos que ha recibido en los últimos días. El diputado cuestionó el tratamiento mediático del tema y sugirió que hubo tergiversación en la cobertura de los hechos.",
+        "coincidencias": [
+          "Cáceres respaldó públicamente a Bielsa",
+          "Se denunció manipulación de información",
+          "Las declaraciones refieren a conocimiento previo de los hechos"
+        ],
+        "diferencias": [
+          "Montevideo Portal destaca textualmente las frases de Cáceres con comillas",
+          "Grupo R presenta la noticia de forma más sintética y neutra",
+          "Montevideo Portal enfatiza más el aspecto de la manipulación informativa"
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Ursea publicó informe sobre precios de combustibles",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Ursea publicó precios de referencia de los combustibles",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3ByUnRXclpHNHcwUWtsTF9zSlprOWpLY3djRXRVLWdyQnJ4NGFrOEtzQTl2ZVpkTmxkSTBRcEpSUVVGSlpCczNvZXpiS2NKRTVCaUZ2a0RidWpwOUVwZzk4SzlnOG96VkJtUFpfeEh3SVBTc3ZiWHBONHNIUERqWEJKaWlDOGFTc3hmYmo2dl9WeU9MTl83cjFn?oc=5",
+          "description": "Ursea publicó precios de referencia de los combustibles &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-06-29T20:47:28+00:00",
+          "score": 0,
+          "score_reason": "Neutral y descriptivo, solo informa el hecho concreto",
+          "score_pct": 0
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Ursea publicó informe sobre precios de combustibles: qué dice y qué calcula para julio",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVGY5OUZRX1lUTm9hZHpGUXJyM0JQbk5zVFpWM2J4UG9uTHl6aGRHQ0oycm5WWHJXcGNNS20yZ2VrN0o2dFowYU5IcF9sOThqcFpmWEJla3NGQ01ac3NzN2YyR05kdGQ1Zl9MY0Ytc1RReGxrZTA1bXBIZko1X28zaXFGRnM3VG4wX1JxdmJzbGVwNXd0RGxWLXpEYVZEblZvUF83VXFmUDJQRUg4NXhMSWhxYWFacVdvbGxuRXZXa3ZLNmJiaEdBWU80TmVlQdIB8gFBVV95cUxQMVNqMjVVNVJLZTBhMEdtNHFjT0Jhak5sOWhjcjlqcGM4Z1pXRGc5aXJ0NWlyMlVOUVJNd3Iwb3BGT1BZcS1GR1dXc0VyNGt6VkloZTNxTHJ0WDdDNWhnNkxpai0xaEtwLUJSTjNaRF82SE1FaWZPaW0yRm83cVgzMkNoMXYxUG1yYURlUUdxZEZhYTJrMVp3MXRwMWQ4cFZXekxQeVlKclhOYWk0M3gwUy00ZndLeEJkN1NfNFBSZnNNU3lMY2FmbUg2cUN0OVhVbVZxSTNnZjJIOU90RkNELUlMbHpSTW1ycmJFdEV1OFdadw?oc=5",
+          "description": "Ursea publicó informe sobre precios de combustibles: qué dice y qué calcula para julio &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-06-29T19:23:00+00:00",
+          "score": 1,
+          "score_reason": "Informativo, anticipa contenido sin carga valorativa ni sesgo",
+          "score_pct": 10
+        }
+      ],
+      "analysis": {
+        "resumen": "La Unidad Reguladora de Servicios de Energía y Agua (Ursea) publicó un informe sobre precios de referencia de los combustibles. El documento incluye cálculos y proyecciones para el mes de julio. La Ursea es el organismo encargado de fijar precios de referencia para los combustibles en Uruguay, función que cumple periódicamente como parte de su rol regulatorio del sector energético. El informe proporciona información técnica sobre la estructura de precios que orienta las decisiones en el mercado de combustibles del país.",
+        "coincidencias": [
+          "Ursea publicó información sobre precios de combustibles",
+          "Se trata de un informe o reporte oficial",
+          "La información es de carácter público y accesible"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza el contenido del informe y las proyecciones para julio",
+          "Grupo R se limita a informar la publicación de precios de referencia sin detalles adicionales"
+        ]
+      }
+    },
+    {
+      "id": "story_006",
+      "topic": "Quinta muerte por meningococo en Uruguay",
+      "category": "Salud",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Salud Pública confirmó quinta muerte por meningococo este año",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNEZ2VjhOdmoxQVo0eFVKa3pUdWNqUy15NmRxQXJJSTUyZWNKbVZIWnE1bzFBNERWb05iWXFGUnZtT19NdTc3ajdveExibGN0RkZTcmxuVVN6d0pHbzU2X3lBb09DdGpLXzBFdERGcGlhc2hHNkNVWFI4dlZ0Y2ZFZTBaMzlmLUE0eU1Mb0pJZUNkNnBnQjBZbF9NWWIxMThaN1E?oc=5",
+          "description": "Salud Pública confirmó quinta muerte por meningococo este año &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-06-29T21:05:55+00:00",
+          "score": 2,
+          "score_reason": "Formato neutral y objetivo, reporta el hecho directamente",
+          "score_pct": 20
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Van cinco muertes por meningococo y Comisión Asesora de Vacunas se reúne el miércoles para evaluar la situación",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNclJXRDRoanY2UmFURkZHQ05qZkU1MUQwOUY3QnE3ODB2UDVBVnlmdVF5Snk5U3lvaDZvZlEzSUtFQTRvRXd2MVpaU3FscTVKM0Vfd0l6RFE0RUloNHJhVTBnbmJpenZXbGZHWEowRmFnTVdiR1ZFNFJHaVhWNHdjb3FPZ05HRkNWbm9ua0lWalRTbTRycVRDajZJNW1IWmIteHU3bTV4T1A5Q1ZuQ3hWMTFSZVdWcWczalNLLTkyZzVDbV9tSGtOcW5yaFdjQlZyUlNB0gHYAUFVX3lxTFBIR0hpRXRHVXV2XzRra3Q0ZkYwejNWVEVVWENNbktIX0NjRnU0bDdWaF9rM3JVNEVjM1lTOGZGdFZDMlh4dWRqT1pPTjZISHBISUVyYmlIUW12ejRQYzl6LWE3MmlRR3RkOGhURVgzYkZ3U3hJeWhnRTJQc0hVMmtuc0tpQkxtS1pZZnNYVDZ3Y0xhVDh4WnplVklwWHo2UlJRMlgwUTNnNm1HR1pFR3UxWlEzNVRfQnhjLTNQeGxyb0JmaE16RzRXcFhPWnBHVGJyYkdtUUtPMg?oc=5",
+          "description": "Van cinco muertes por meningococo y Comisión Asesora de Vacunas se reúne el miércoles para evaluar la situación &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-29T18:05:00+00:00",
+          "score": 3,
+          "score_reason": "Enfatiza cantidad de muertes al iniciar con 'Van cinco'",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "El Ministerio de Salud Pública confirmó la quinta muerte por meningococo en lo que va del año en Uruguay. Ante esta situación, la Comisión Asesora de Vacunas convocó a una reunión para el miércoles con el objetivo de evaluar la situación epidemiológica y analizar posibles medidas sanitarias. Los casos de enfermedad meningocócica son de notificación obligatoria y pueden presentar evolución rápida. Las autoridades sanitarias están monitoreando la situación para determinar si se requieren acciones adicionales de prevención o vacunación. La reunión de la comisión técnica buscará establecer recomendaciones basadas en la evidencia disponible sobre la circulación de la bacteria.",
+        "coincidencias": [
+          "Cinco personas han fallecido por meningococo este año",
+          "El Ministerio de Salud Pública confirmó las muertes",
+          "La información se refiere al período del año en curso"
+        ],
+        "diferencias": [
+          "Subrayado destaca la convocatoria de la Comisión Asesora de Vacunas como parte central",
+          "La R se centra únicamente en la confirmación oficial de la quinta muerte",
+          "Subrayado incluye contexto sobre las acciones institucionales a seguir"
+        ]
+      }
+    },
+    {
+      "id": "story_007",
+      "topic": "Uruguay prepara ayuda humanitaria para Venezuela",
       "category": "Internacional",
       "sources_count": 2,
       "headlines": [
@@ -14,92 +319,41 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Muertos por sismos en Venezuela superan los 1.400 y millones quedan damnificados",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWXNKMVNwRXdmRV9pbGVQUUtqMlRUNzhDVGd0cUhUajgtRl9WRGJZZEczNTlyVUc1dlpNMlg3OGtxR2NhQWpsLTc0X3dWWUtkMEVZOE5wWDdMbjJxVTFCeG1Oa0xaeGx1aWxtZHpEM1RPR1FxQUxYVWFFaUVlXzM4UEpkd2RrNUk3Z1U2ZlFjSFIzM1NlVlBtRGtsOFBRanJlZEcxUEozRTdjWnlXTExB0gG0AUFVX3lxTE53MUdaRjJsRTRBZ005M0FKN0FLNXdxVHFGUlpqSGJQUUdaejJadHBLT244bjdVVGd0RVBONk5qUlVJX1dfRDQ5X2gxSDJyMk1xUTZuUlUwR2VLNzZoaUN4U2dxVEVweklXa3RKMHpqUmxUZ1RVUk1IaVpwazdJN1RZNFNkdG1Zc25DLUVtZ1AzVjJ4b3F3QkVxX2hqZDR1NU1zMDBUeHpLME5NZlJ6MU1WUTBDVA?oc=5",
-          "description": "Muertos por sismos en Venezuela superan los 1.400 y millones quedan damnificados &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-06-28T12:52:00+00:00",
+          "title": "Ayuda humanitaria de Uruguay a Venezuela se está preparando para la etapa de reconstrucción, dijo Lubetkin",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQl9aRm81Zm9EMVJiWGZoVTRqa0RQVGY2R0VVYmZhQVpkeFVDQXE2a0d2eHp0Z20wX0dxMk0wckR2bnhrRGF2SFg4TFRvQWxBNlZHZUpUYWxRSmNTM3o1dnJRenp6T1I3MGlVMWt3VGp4YUQxY2UzYUktamF0VEx6QTRGUUFnaWcxQzNLNGk0cUR4dzlOZnJlMFJITXM0cVpHQm5XaDE1Mm9mVE1MSG83UVhIT1RzcmFOUzlFRGc1TXZoMUtPZm1UdHFR0gHPAUFVX3lxTFA3OUdCMHVDYlhrVUQyTW9EUVBMbU9TR2dUby1JNGl3UXIxdmltUDBJOUFZSUlUX1l5cWxkUnBsLUF1X3JfV0E1ZEN5OWd1dnU0WHVXNEUzM0lMS1hIZkNnWGtlc2J0NUo2Sy1EMWpVU09hNnFrekdMenh6Tk9UQlg0VnQ0V3ItLUduX0J3WEZ4TlhTVTJ2MGl6a0lPZWxwTDFZLUR2aVFoY3VqR3JMMFJVa1pLMEp2NDFKOGpodV90WXRBTmFOVlZoblU1MjRRcw?oc=5",
+          "description": "Ayuda humanitaria de Uruguay a Venezuela se está preparando para la etapa de reconstrucción, dijo Lubetkin &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-06-29T23:24:00+00:00",
           "score": 2,
-          "score_reason": "Informativo, datos verificables sobre magnitud del desastre natural",
+          "score_reason": "Titular descriptivo centrado en declaraciones oficiales sin adjetivos valorativos",
           "score_pct": 20
         },
         {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Hallaron muertos en Venezuela a la esposa y a los dos hijos del futbolista Lucas Trejo",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM21BdWhja00tTFlnWDFtZnFidTVFSXZfbm5SWDBDaVN0X1lTZ01hRkRFald4cjFrUzZKS25LWXRmQ0xRa05zbDhPb3A3SFFjSUR6WEVTWGRkNGMwOUgzcjdZNXBHSVhuTVZJS0JjbVZRbWxOYS15YzJCVnRvQmg4OHE4cGMtS2VTekhWcHcwSnZ5ejg1NkQ2UVp1RUNaS1NxeXM3cTZtdVdUZm91eFJia0lsbWpmWkFwQkRnZFFCbmNOWWZpU2o4a0R2SFdQTmfSAfMBQVVfeXFMUG01eEJyeFFpQ3c2dk9nT29RcS14TE82TlFpeG1odUF4dDlxRXk0UzlvajFmUDYxbXVoVEdiV242Q0VBZUowUFZoRUNOdXl2Q2czcU53M2w4QThnbDNiU2s2ZEhwdmhZZUQ4VkVnajRINGthV3F2eVRLX1drYXBzMGlsSE42cEU4NWFUUEFKVkRHV2lkV2NPTXlDcHJMbGt3SHZOaXIzVERvZkl1dlVBSlRyakNnaVY1akdISWpoYnFvRWFWSXpmS0xHcE0wVDFiYUM5NTNDTjlkbFFoYkhfMzdyZG45bXFnWHVaa3BCMjJCMjQ0?oc=5",
-          "description": "Hallaron muertos en Venezuela a la esposa y a los dos hijos del futbolista Lucas Trejo &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-28T17:38:00+00:00",
-          "score": 3,
-          "score_reason": "Enfoque en drama personal, omite contexto general de la catástrofe",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Los sismos ocurridos en Venezuela dejaron más de 1.400 muertos y millones de damnificados. Entre las víctimas se encuentran la esposa y los dos hijos del futbolista Lucas Trejo. Los temblores causaron una catástrofe de gran magnitud en el país caribeño, con consecuencias humanitarias significativas. La información sobre la cantidad de víctimas fatales y personas afectadas continúa actualizándose conforme avanzan las labores de rescate y evaluación de daños. El caso del futbolista Trejo ha generado particular atención mediática por el drama personal que representa dentro de la tragedia colectiva.",
-        "coincidencias": [
-          "Ambos refieren a los sismos ocurridos en Venezuela",
-          "Coinciden en que hubo múltiples víctimas fatales",
-          "Los hechos reportados son recientes y están en desarrollo"
-        ],
-        "diferencias": [
-          "Montevideo Portal prioriza el caso individual del futbolista Lucas Trejo",
-          "Subrayado enfoca en las cifras totales y dimensión colectiva de la tragedia",
-          "Diferentes niveles de contextualización: uno humaniza, otro cuantifica el desastre"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Jugadores respaldan a Bielsa tras polémicas",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Ni pies ni cabeza”: Giordano negó rumores “totalmente falsos” sobre Bielsa y lo defendió",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdDFyX283dXhXXzRmT2xOejNjNDEycnh3VGNuY2s4M1lobTNyWHJVeXF3bkQxUzlEVGV2UW1idlV5d0FaT2pVOFB6ajQwbjFoVm42emlSSWVhU0V0cTh0cU5nLU5IRHJ2U2Q4ak45SnZlNGdJajl1YXZZMWNXQUxrdURMMDhYMTlPck05eE5VMEZTYUJHV2VXUHZTcDg0amlKZ09VQ1k3aDl5eHkzMHZveHZReU1IcUQ0VnZiZzVzQnVkckZSMzA4WW4yWDc3TWfSAfMBQVVfeXFMUFZGVzFHRGZGQnBKV2hlSjlCRGZxYTRELUJUUTA3UE5KU0VldkI2OHNFQ3JUNUhWMmdXNXFrcWIzdGhKcUhkTm1icTM2NW5BSU9GNWxjaEl3eUVwOXNqc1otUzFyNzF1ekhmWXhCWEV1MkRvZHVybHNFMjJuc2NfaTl4NEtGNWRvU0Zjb1R1aVZXU2hyaDZWR1k2VUR0Y0hiUFN1dXRwdkxvcnFWam12aEdQTTAwcFVVeFowMmhBZi1KRWlPeFJNU0V4UEZpQU5NWGlFN0I1RTd3TFJIVTBySG9LREsybmQtSlhBeGhaWWlSOEhn?oc=5",
-          "description": "“Ni pies ni cabeza”: Giordano negó rumores “totalmente falsos” sobre Bielsa y lo defendió &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-06-29T12:15:00+00:00",
-          "score": 4,
-          "score_reason": "Uso de comillas enfáticas y lenguaje que subraya la defensa",
-          "score_pct": 40
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Sebastián Cáceres respaldó a Bielsa tras el Mundial: \"Se manipuló mucho la información para dejar mal a Marcelo y no es lo correcto\"",
-          "url": "https://www.teledoce.com/telemundo/deportes/mundial-2026/sebastian-caceres-respaldo-a-bielsa-tras-el-mundial-se-manipulo-mucho-la-informacion-para-dejar-mal-a-marcelo-y-no-es-lo-correcto/",
-          "description": "\"Hubo cosas que se filtraron que no tenían nada que ver que no fueron como se dijo\", expresó. La entrada Sebastián Cáceres respaldó a Bielsa tras el Mundial: &quot;Se manipuló mucho la información para dejar mal a Marcelo y no es lo correcto&quot; se publicó primero en Teledoce.com .",
-          "pub_date": "2026-06-29T13:00:46+00:00",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Solidaridad sin fronteras: la comunidad venezolana y uruguaya impulsa una gran campaña nacional de ayuda humanitaria para Venezuela",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcmltdmd1NXY0NE1pUzJhaGFiVzlEY1IxRi0weHlZMEE4WGZuZVFBMzZrR0JEVUxxRWM2T041WlQxTG1aUHY5cnFUMk5iOVg1YV9kQ2E5Qm1vaTRoUXlYc05zdEo4M0d4RGdpQ2pQMmtxV3c4ak1iQVFWalRvc0FNVlVpSHljaDNfc0oyUXlVb1hBVzdmMFJjaVJKQnY1T0w5SDdIS3RBMWNZWkVKV3VUYnloTDFQUU5zdEdMb2dnUlN1NDBJM1ltUnVoUGR5TTJQTEFYcU1xckZtcW5ncGcxZXNPbGY2bW1RamV0alBIbTA3WDB0SklsN1BhTEZKUQ?oc=5",
+          "description": "Solidaridad sin fronteras: la comunidad venezolana y uruguaya impulsa una gran campaña nacional de ayuda humanitaria para Venezuela &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-06-29T05:23:50+00:00",
           "score": 5,
-          "score_reason": "Incluye denuncia de manipulación, sugiriendo sesgo informativo previo externo",
+          "score_reason": "Uso de 'Solidaridad sin fronteras' añade carga emocional positiva",
           "score_pct": 50
         }
       ],
       "analysis": {
-        "resumen": "Los futbolistas uruguayos Bruno Giordano y Sebastián Cáceres salieron a respaldar al entrenador de la selección uruguaya, Marcelo Bielsa, luego de rumores y versiones difundidas tras la participación en el Mundial. Giordano calificó los rumores como \"totalmente falsos\" y afirmó que no tienen \"ni pies ni cabeza\". Por su parte, Cáceres señaló que se manipuló información para perjudicar la imagen de Bielsa y que se filtraron cosas que no fueron como se relataron. Ambos jugadores defendieron al técnico argentino ante versiones que circularon sobre su gestión y su relación con el plantel.",
+        "resumen": "El gobierno uruguayo está organizando el envío de ayuda humanitaria a Venezuela. Según declaraciones de Gabriel Lubetkin, la asistencia se está preparando para una etapa de reconstrucción en ese país. La iniciativa cuenta con el impulso de las comunidades venezolana y uruguaya en territorio nacional, que están desarrollando una campaña nacional para recolectar y enviar ayuda humanitaria. La medida se enmarca en las acciones de cooperación internacional del Estado uruguayo frente a la situación venezolana.",
         "coincidencias": [
-          "Jugadores respaldan a Bielsa tras polémicas",
-          "Se cuestiona la veracidad de versiones difundidas",
-          "Ambos niegan o critican información previa sobre Bielsa"
+          "Uruguay está preparando ayuda humanitaria para Venezuela",
+          "Participación de las comunidades venezolana y uruguaya",
+          "Se trata de una campaña nacional de asistencia"
         ],
         "diferencias": [
-          "Montevideo Portal enfoca en Giordano y la falsedad total de rumores",
-          "Teledoce destaca a Cáceres denunciando manipulación informativa deliberada",
-          "Teledoce menciona el Mundial como contexto, Montevideo Portal es más genérico"
+          "Subrayado enfatiza las declaraciones oficiales de Lubetkin y el aspecto gubernamental",
+          "Grupo R destaca el rol de la comunidad civil y el componente solidario",
+          "Subrayado menciona específicamente la etapa de reconstrucción como objetivo"
         ]
       }
     }
