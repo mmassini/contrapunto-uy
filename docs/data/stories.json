@@ -1,127 +1,10 @@
 {
-  "generated_at": "2026-07-03T12:13:05.340319",
+  "generated_at": "2026-07-04T11:34:47.502468",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Selección uruguaya eliminada del Mundial de fútbol",
-      "category": "Deportes",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Básquet: Uruguay recibirá a Argentina esta noche en un duelo clave. Entradas y cómo verlo",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdC1VRlRmMkdqUDhlQWdLek9tUjVpOFhPaFZzcU11SmxDVE1QUzRVZ2ZHdWQyWDdJLTlmYmcwNE1HT3ZNTlJlazBYMGxhWThGSVVjZF9Xb1JnRUpPMVQ2MnZIcE5vc2pOQUtjTE54TnVYbkdlMmlNUG1QLUpibjJNem1uTnctb3Y5V3JwUXV6VUthblFPTEpCbGpNV0hmSWc1YmFxaFlFR1JpbHZEU3JtODBnWWxYQWZvcDdENVRyZWpVN290S3FCb3l2clVNa2NJ0gH0AUFVX3lxTE1qSm5xLUJjU1VOTmh6LV9lRHhqRlFId1RjQW9nTk9WT3ZiSUhJY1JrMU5oRG5GeVh5Nkx2UE5jUGJsbVpQSE4yTGUybURaQlJlSXFVYnRYRUptVDdmc3RwT2p1WFQtWmF1T3Z3eXZGT1JoRjRNYjJPN0FiMFJaWGRiLUFmTHRtZkU1Qng2bTNyLW9Pd254S2ltbkhMSURlTkNub3pfNVFWSTMzTlFBODVyYzQ2WHU3TFFUME0xbVJZM1hROXNsUmdxejBoLWE0OFhoMWM5c3I2MHBzUXRjRlRSMTljWlRkSEwwbzMydDl2N216aHM?oc=5",
-          "description": "Básquet: Uruguay recibirá a Argentina esta noche en un duelo clave. Entradas y cómo verlo &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-02T09:40:00+00:00",
-          "score": 1,
-          "score_reason": "Puramente informativo sobre básquet, incluye datos prácticos sobre entradas",
-          "score_pct": 10
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "De México a Italia: las vacaciones de los jugadores de la selección tras la eliminación de Uruguay en el Mundial",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTlNCalIyeFJ3c3RrZ2dmMmM4T0REc2JwM01nQ1pRclM5Tm13SVNvc0F2WTZtbGhHdVd6MTZWdFhnT3dpbzh1ckYzN19TU0lrQzdPaFlxZ1JXTS1DbGl6MjN2ME1XQUJmMHoxY1Y5c05JUHF6WkNBTjlmeHhrRlA4dTM1VVBXdTBucExvc1g4VkxLTm84RVVTeVV5UzhwX1dQaHRzV1JaVFkzRjhuc2ZkSlEzd1gtLU5hV09LaklSeFNaMmNraWtaNUlXYXFjQXVoU2pBQmZtcHJWSDVpVDZadmd4d0ttTE1P?oc=5",
-          "description": "De México a Italia: las vacaciones de los jugadores de la selección tras la eliminación de Uruguay en el Mundial &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-07-02T11:54:23+00:00",
-          "score": 2,
-          "score_reason": "Informativo, se centra en destinos vacacionales sin carga valorativa",
-          "score_pct": 20
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Uruguay en el Mundial: lágrimas, reclamos y relaciones rotas, la crisis que derivó en el fracaso",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSkdnS0pSa3U3c1c5dnNLcjF5cldlOVR5UndyNm5FOUpkSlF0M3ViTmY5SGFpdkdQelhNLVdpeTd6LWJVU3U0bTd2NVpZMDFGX2UyQ0VkNG9TUHVsbC1ZUVVNaTd4YUxNVjlrNURmYnY1NTNCYU9QRUw2SVhPNHNCRlBtZ3BDLXNVMGQyTlF5UlpEa0NFRnA3cjVNaHFRY25Tb1c4UVhGamVodGtMVi1CNWNCd1JHZy1tQmtnVWt2OXVaOEZBYzl6TThLa1dtUQ?oc=5",
-          "description": "Uruguay en el Mundial: lágrimas, reclamos y relaciones rotas, la crisis que derivó en el fracaso &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-07-02T07:26:00+00:00",
-          "score": 7,
-          "score_reason": "Lenguaje emotivo y dramático: lágrimas, crisis, fracaso, relaciones rotas",
-          "score_pct": 70
-        }
-      ],
-      "analysis": {
-        "resumen": "La selección uruguaya de fútbol fue eliminada del Mundial. Tras la eliminación, los jugadores iniciaron sus vacaciones en diversos destinos internacionales, incluyendo México e Italia. Distintos medios analizan las causas del fracaso deportivo, mencionando tensiones internas y problemas en las relaciones del plantel. Paralelamente, la selección uruguaya de básquetbol se prepara para enfrentar a Argentina en un partido clasificatorio, evento que genera expectativa deportiva en el país.",
-        "coincidencias": [
-          "Uruguay fue eliminado de la competencia mundialista de fútbol",
-          "Los jugadores de la selección están en período de descanso",
-          "El tema generó cobertura en múltiples medios nacionales"
-        ],
-        "diferencias": [
-          "El País enfoca en el destino vacacional de los jugadores tras la eliminación",
-          "Montevideo Portal cambia de tema hacia el básquetbol y partido con Argentina",
-          "Búsqueda analiza las causas internas del fracaso y conflictos en el plantel"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Infantino destacó participación uruguaya en Mundial 2026",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "El mensaje de Gianni Infantino, presidente de la FIFA, tras la participación de Uruguay en el Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS3l2ZHRQbjdKUnlOSndVMXJLQThQaDdmcGJOY1ZDLUZZVnRoWXUySFd5ejE1YmdIYklrelRwV0dkUjFRZzZZWGc4R3pndERoeHV1MjVMYVZyZzBCS05ZWE1vVkNXVkRCVW1ndGxBeHQ5eTFySTlOYVVzZ1FYNk1Sc1RDUEdTNmx0cXA5MzRnal9Vc2hZQmxiNVFUUjVCYVlsVXRMWkF3el9kUm5wYWo0VFRKSDZKTGw5LXJmYTZ5c0EtNGZ6cExYTHBMcEdwdjNfMWF2aklzYnhsQWxDMXpB?oc=5",
-          "description": "El mensaje de Gianni Infantino, presidente de la FIFA, tras la participación de Uruguay en el Mundial 2026 &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-07-02T01:05:38+00:00",
-          "score": 1,
-          "score_reason": "Titular puramente descriptivo, sin valoraciones ni carga emocional",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: “Uruguay nos demostró que es posible competir contra España”",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUFITnVTOFBLOEtCdGlRYXNRY2tHVDVsSmJSUk9BN0ZIOU15UGJHVi0xY2dId3EtVlN0b3pid1FCaTJUeUd3WE1fa3BhR0ZLT29fOEZ4MUlRWW1GanZxbXZadXFpN3E4NW03OUZfYnpzZllyTldVNDE2YWxUOWItX1VGTUJleFV2Vzd4YTVFWk9DZ2JBLXFPU1ZGeWgyOTZsT0I1d2l4N25uR0VlZzdsQXZXVXZpQkczV2NVSTVn0gHiAUFVX3lxTE54Y1NIR1BOdFpuZXpvMUpSaFc0RVd3aDNoM0VVaUc0T2dvMkQ4SndxNnJSWURhY2lIYUVmWnJORkZ5WHZQY3RUWFR4WWszaGRZMlVVZFY3Wm5rZTJWcUI1czhrNEdzQXJ1MjhlZTdLVDlRQWVic2xxazVHUjhMRzUxQW1WZldva3hlR1dFc0VHbng3UEdHMi1WU3JEMjhxU3JQOUw2UEpob0YxN1ZIS0ZIWkJuVkpTRnJEMUViaW1BMnJvM0lVWHdYb1U3UU50aGVaQUJjWFBXdlZuWVlmWnE5Y0E?oc=5",
-          "description": "Mundial 2026: “Uruguay nos demostró que es posible competir contra España” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-02T11:11:00+00:00",
-          "score": 2,
-          "score_reason": "Usa cita directa destacando aspecto competitivo, ligeramente más emotivo",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "Gianni Infantino, presidente de la FIFA, emitió declaraciones tras la participación de Uruguay en el Mundial 2026. El dirigente se refirió al desempeño de la selección uruguaya en el torneo. Según los medios, Infantino mencionó específicamente la actuación de Uruguay frente a España, destacando que el equipo sudamericano demostró que es posible competir contra la selección europea. Las declaraciones del presidente de la FIFA fueron difundidas después de la conclusión de la participación uruguaya en la competencia mundialista que se disputa con sedes en Estados Unidos, Canadá y México.",
-        "coincidencias": [
-          "Ambos reportan declaraciones de Gianni Infantino, presidente de FIFA",
-          "Los dos refieren a la participación de Uruguay en Mundial 2026",
-          "Coinciden en que las declaraciones fueron posteriores a la actuación uruguaya"
-        ],
-        "diferencias": [
-          "El País presenta titular genérico sobre mensaje de Infantino sin contenido específico",
-          "Montevideo Portal destaca cita específica sobre competitividad uruguaya ante España",
-          "Un medio enfoca en el mensaje institucional, otro en aspecto deportivo concreto"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Cobertura de la fase de octavos del Mundial 2026",
-      "category": "Deportes",
+      "topic": "Rapiña en residencial con policías heridos",
+      "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
         {
@@ -131,13 +14,13 @@
           "source_color": "#D32F2F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elobservador.com.uy",
-          "title": "Mundial 2026: mirá cómo siguen los cuadros de 16avos de final y cómo van quedando los cruces de octavos",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPalR5ZkNyaWZlZzI5QXpmNkwwLXE1bndaYi1LT0ViZUpyVHM3YUV0S1RoVDRCNVVtc29nazZURXlJaGhkMjRIbl9LQko1MDlRcEJET09hemx1bEFXSWxBSWNCajV0SF91T2dod0FGbFp6WFpHV3YxM0tXU3g4ZjZKVlI2d05RaEFuYnlSbmpMZEtKaExsbUs4bXB6aDl6SVRtYWpzNEVQX2d0c1hlbmdQQ3l0cno1eXBmalJIaVJYM3BBUkRUSUpRUGI2Nm53S0xNc19qeE5BTWstY283TjlldGg3cTBSNFNkRjJVbUxsNFluTUNnYmpoN2JFYkVubFlhWlA1VDdJUEVLbVNjZmlN0gGUAkFVX3lxTE5qQ1JkSThCQXUwYkRGUDRCd2VaWWk0bFpQX1NqdnZZQ0NKLUhmWEM1YzRNUlhwNjdwX0VRcmdZTDd0cUlnWFRmS3NUbFVqZzlTcE9JUVBhcnE3QTZkbDhCdFY3YnZSenhVU2NIY2lXM2h0d0M1YlJmRW1aazlCdjdWcnNkMDd6czBubm55ZVBoVzFMaFBVcTM0TXRBdlY0ZzZmOEhiWUc0bEk0MXh6QXc3Z3BhclNobllGWXlwcGh2N0Z2cHd4RW5RSFh3cmJxNnc1Si1DbkdCSEU3Zm1CYnVjS0liLS1xNWdfbWNnbDRCSlROSzJBN1I4blB5bkFLNExrTUxyb0M5T0hPVlJybl84NnljLQ?oc=5",
-          "description": "Mundial 2026: mirá cómo siguen los cuadros de 16avos de final y cómo van quedando los cruces de octavos &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-07-03T01:27:18+00:00",
-          "score": 1,
-          "score_reason": "Titular informativo que describe objetivamente el contenido sobre los cuadros",
-          "score_pct": 10
+          "title": "El video de la rapiña en un residencial de Montevideo: dos policías heridos, delincuentes disfrazados de funcionarios de ASSE y un \"sobre con dinero\"",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQV09DZG5YdFFKN1NwNElvZXVhcEFSQU8yWElTYWgtR3pnSjFGOWNXS0U1b1hfaXhiV24xNHpQTDdKc1hkenBuZWNCUGtjcUFhdWdwS3ppREg3LWJ1eGpJU2lmZnBiYy1EMGQ3MnhDWWJyWEhsTHk2eVpOaS10M1dha3lUeEZ1UmNRUXM1QVVZdTloRkpLX1J1Sy1RM2NUU3AtRlc1SlUwQkpqYjlaQlYyZlpYbXd6RDQzNHFPNmVsVlZreFAzWjlZSDROdGpXOF9CdzZlbTJ0aG1FQml3SjQzdzdLaDg4NUhkYUpoQjNMc29jU1gwXzJ1MXlnZUhKa3AteWfSAYcCQVVfeXFMTzdDRUhBaXFrY1dzSlVHcUpjNGRmcXNadGZqY0JJR25LM1FrZy1vNEJqSkZEcnQ3d1EtQTE4MmVkY1N0Nnl0Z3FJVHBRQlRFdWEzTmM4bkJfTHZ0bkNQdlF2ZXhKbWlHWnJycDZLVTQ1RTh2cS1fT1dwMHVISmZoVURaQkZ6ZlVEbkkya2FMLXFOS0EyM2dpdHBvRUdrZ2FQS0NoWWVaNWlEWTdoSjZ4aHhIVTBBam1hYVNta0o0WG1SMkRFbC1oU1gyQXJDRzNYeUdFWnM1cmNpbUNZTHVmc3RxSkxYQUJwSVhNRUNnN2E0N2ZOSW8tWnd2Z0RGYUV4cVNZTU9kTkE?oc=5",
+          "description": "El video de la rapiña en un residencial de Montevideo: dos policías heridos, delincuentes disfrazados de funcionarios de ASSE y un \"sobre con dinero\" &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-07-03T16:27:00+00:00",
+          "score": 4,
+          "score_reason": "Énfasis en múltiples elementos dramáticos del episodio delictivo",
+          "score_pct": 40
         },
         {
           "source_id": "montevideoportal",
@@ -146,49 +29,49 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: los partidos de hoy, por dónde verlos y los cruces que se confirman",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLWtNWEQ1ZTZ5akRFNGlScm95LTMtcjRTTVVlYWZQbTRnVWVKTHNYRGJ1b0tsWkZ2YUw4UjFYbml5RFExVmQwV3Z0WDJXbEJPZlVGWnFpaktkNTVDZ2Y1Wm1lYTJUZjFqVlpaVi15NEFEbU9xSGV4TUU2QlFTS3lmUjFPX1NoOGl6bmpycUQybUk0aXJySFlKMVpveXRRVG4tWHFoR0dCd0MxdHJpY19vcjZoam5aODZiU1Z6eTdyOHh4Z0dPTlHSAeoBQVVfeXFMTUNSeXU1YmZGOXJsRWtISXZoVmh5YWFPcFZzNU1BdG1fMmg5Q2h1NzVLUW9TUHNnZ3dpdXdsM1hDZDhpQ1NvYVVhbGZWOFJoOGtyaTJsUS03TGxkNnhENFAxQ3ZtajZKUGlncWlPNmIxeFltam1VdTdXbnJpQjJxVU4tX1dGQnQwYXc3X0VsdkcxcjFPUEZiaDNJUktJR3ZFM1hNYVRsWl9qdVlqSFhReTJuVTc5SmFLcl9Ma1NlOWh0NEJtdkp1TFNYaUFIZXVNeHczX213S2lXX2dHZEc1ejk5RnB1akxZSUdR?oc=5",
-          "description": "Mundial 2026: los partidos de hoy, por dónde verlos y los cruces que se confirman &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-02T03:01:00+00:00",
-          "score": 1,
-          "score_reason": "Enfoque neutral que informa partidos del día y dónde verlos",
-          "score_pct": 10
+          "title": "La historia detrás del policía herido en el residencial: viudo hace meses y con dos hijos",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeEt4WGdmRmZJQ3pnNzhERE1GMDNVeUNqSnUzbDNkZEl2QTkwSTBPWXBQUk41cTY5aGI0SHFxZGR1SVhzMkZlZUVJVkNKc3M3NC1UZkhzSEcwelNHZDBiWXRNMUdhVGhVQTViTVVNdHNJMUV2S01OYkN4Vm1YT2ZYMXBYRmtOX0VUb205cG1CYTBZaGVhZTZpZjVHTW5KR3dadTdTeTNyempZM2hacTlYUkhJdVM2SVlLcmQxdko1MlhVcVotZW9WZDBuNEt1bGNwYnfSAfYBQVVfeXFMUGpoMU9oVk55WXZFTV9EdEs5aVZ3UDJiQTA5N1FFOW5vekxOajJzQnJXSU5mTjA3LXVYM0R3YUQ2bG5fcUtjdW5qYmFhMTJrV1VvYkV2OURlYlJ4eGR2cVBiZFREVWtPRFk1NFVUcW5ucEtrS1owRTI3bDAtcGkzMWRBSFp6Rm9OQUlOZWV6cnEyNUt1Y2p4NTQ4NnptTUUzaVhpZDludzQwUUVDTWlCVWhhVjlQVlRyY2lZbWI0aEhWbEE5ejhjd2dtZHpKMkQxWGJ0QjJaMW4zUUVjUEhJTlBFam1jbGoyNWRob1VDZ21oZ2FWX0tn?oc=5",
+          "description": "La historia detrás del policía herido en el residencial: viudo hace meses y con dos hijos &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-03T18:36:00+00:00",
+          "score": 6,
+          "score_reason": "Enfoque emotivo en situación personal del policía herido",
+          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Los medios uruguayos cubren el desarrollo del Mundial 2026 en su fase de definición de cruces. Se informa sobre el estado actual de los cuadros de 16avos de final y cómo se van configurando los enfrentamientos de octavos de final. La cobertura incluye información sobre los partidos programados para la jornada actual y las opciones para seguirlos en directo. El torneo se encuentra en una etapa crucial donde se definen los emparejamientos de las siguientes rondas eliminatorias. Los medios ofrecen seguimiento del desarrollo de los partidos y la evolución de los cruces que quedan confirmados tras los resultados.",
+        "resumen": "Se produjo una rapiña en un residencial de Montevideo en la que resultaron heridos dos policías. Los delincuentes ingresaron al lugar disfrazados de funcionarios de ASSE. El hecho quedó registrado en video. Se menciona la existencia de un sobre con dinero vinculado al episodio. Uno de los policías heridos es viudo desde hace meses y tiene dos hijos a su cargo. Las autoridades policiales investigan el caso para identificar y capturar a los responsables del asalto.",
         "coincidencias": [
-          "Ambos cubren el Mundial 2026 en su fase de definición",
-          "Los dos informan sobre los cruces que se van confirmando",
-          "Ambos ofrecen información de servicio para seguir el torneo"
+          "Ocurrió una rapiña en un residencial de Montevideo",
+          "Resultaron heridos policías durante el episodio",
+          "El hecho involucra elementos que generaron cobertura mediática"
         ],
         "diferencias": [
-          "El Observador enfatiza la visualización de los cuadros completos del torneo",
-          "Montevideo Portal prioriza la agenda del día y la guía de transmisiones",
-          "El Observador se centra en la estructura general, Montevideo Portal en lo inmediato"
+          "El Observador describe el modus operandi y elementos del delito",
+          "Montevideo Portal se centra en la historia personal del policía",
+          "Uno prioriza los hechos criminales, otro la dimensión humana"
         ]
       }
     },
     {
-      "id": "story_004",
-      "topic": "Kast propone cadena perpetua para narcos en Uruguay",
-      "category": "Seguridad",
+      "id": "story_002",
+      "topic": "Uruguay perdió ante Argentina en clasificatorias de básquet",
+      "category": "Deportes",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "De visita en Uruguay, presidente de Chile propone cadena perpetua para narcos en la región y rechaza militarizar la Policía",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM25ZWmZ3ZzlPNkNTclZKMWtWekdfT0JwWm1kbVM5cGVrOFlFcmExRjBEejZ3c3NPcF9CSDZ3RDFMWkxqbXZ1eFhqRW1BSGtmZEZMdGpEWFVxOS03azJXVTNtWGxNU0tUOXJMYV9rTGlJc3h1dEphZnp1bHVXdlRRektETjZWaEVLN3g0a0Y1ck55Uzl1TDN2azduVGxJU0FCd2F5VjZzbi1UaUVXejlBT3dqS3RKd3JYanNIaE91dDJQMnFKNXJLeHAyQXRDUXlTUFZENEpDY09QUnFoTmxz0gHkAUFVX3lxTE9iTkluMGlISTVMYzFHY2k4ZFlveEVVZ25JcnJlSWp5R2RwU0ZUd1Y4SVVKUzR1a2R1TzVzSWJ0Y3JqeXprYUh4RHVfSzBTVkVTQmxTTmNMTDUybkNFRkt0RlZTSHplZ1pubml4c3lvanlqRFg3YVQtTGIySDRCS3ZaV0VxbnJqUXJjdU9PZkU1cENQVm51allyQ1lUZDJoR2ZfMXg1R002d2p6TUVkV1ZfMklOYmUxMTQ1dTNVeUppbl83YWp4NkdtZGQ2OFBPUlBpQ3V2cGFMaXBxYzNwdjdCdEtWWA?oc=5",
-          "description": "De visita en Uruguay, presidente de Chile propone cadena perpetua para narcos en la región y rechaza militarizar la Policía &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-02T16:58:00+00:00",
-          "score": 2,
-          "score_reason": "Informativo y completo, presenta ambas propuestas sin carga valorativa",
-          "score_pct": 20
+          "source_url": "https://www.espectador.com",
+          "title": "Uruguay perdió 91-76 frente a Argentina | Noticias | Básquetbol",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeFJ3Z09sWjRTZEtBYk5QMW9UREt6M2FOenk0WDJKaFVpTHJzQjIxUGwzcFZ1UXB1Yms2ZGQ0Q0s1UXRqajVMTzlZTjRBX1F3VXQ3d1RUQTZ5SjlJUUh1bDMzOUNqd3lfWjF1MXpEOE5ndVIzNWV4X00taUl2XzJReFdWLXhLdEpzcFE?oc=5",
+          "description": "Uruguay perdió 91-76 frente a Argentina | Noticias | Básquetbol &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-07-03T15:08:25+00:00",
+          "score": 1,
+          "score_reason": "Factual y directo, presenta solo resultado del partido",
+          "score_pct": 10
         },
         {
           "source_id": "montevideoportal",
@@ -197,32 +80,32 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "“Sanciones drásticas” y cadena perpetua: Kast en Uruguay sobre combatir al narcotráfico",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSk1HMmUyWVlrQ1dzR2dudzh6TTktbXRWMXV4T0NfSXlrX2RzNkJjWklwRVplM2l4S2VNbmwyVkVCRzJNN3VrN21mV1Y3VHRXbFVxempiNER6T3l5Q1BQdENkOWVFVjM1RUo0WWdwdlh1UVJ1UzRFaG5SNzFpYm1jQmxrUXNkX0dCaVloeGdzVXktR1Yyc3pmQmplcWhJZVVBWmZuMlE5c0l6X1VScUZOdThoaU5VQkxCVXF4UnpDQ1JkbVdYWkQ3NVdNT1RYZ9IB8gFBVV95cUxQWFFSd2puclpoWWZiYWRHa2RqTlIzSDk4UTBWVFFzVGs5NDBnM1o5ZGNubERqVUhkZ2tET3pkT3VEMDhqcFNwSm5jUTI5eUR1cmY4cDF6cUVHVHMwZDJUNzNEZUFYOThEbGlmS1ZwQ2J6STRlcUtYdlZUU0c2RU1pbjJkTnBJMTZmR05Wd09zNHpQSEJUNzBVYXlfV3NKbV9IUW5ZRGt4Tk85ZDJLd0VvODlFbWVjY2hiT3JMZGlnNWprM0VKTjFzVGVJNEdMWTlvVlJGVGRITDNFVHY5VTU2UFktSmVlSEtVam5KSHZ0N0laUQ?oc=5",
-          "description": "“Sanciones drásticas” y cadena perpetua: Kast en Uruguay sobre combatir al narcotráfico &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-02T22:37:00+00:00",
-          "score": 4,
-          "score_reason": "Uso de comillas en 'sanciones drásticas' genera cierto énfasis emocional",
-          "score_pct": 40
+          "title": "Básquet: las chances de Uruguay de clasificar al Mundial 2027 y cuándo vuelve a jugar",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV1F5eTV6azEtenFLeVU2QUlVMHl5Qjgwb0hQZFRkOTNqamh4OGRoNjNYYjVmd1g5bW5FV2NFMXdHcEJjbVl4TnRPUWlxMTB5cHU2ejBLSmp3LUlJeUQ5eHQ0WWZ2SFZIMk1VOEVtdjRGVU8xLXRJZFRMelB1S0RhZ0FYZWxHUWNXRlpNTHI3U0dyVzFQclJqSzFXczRXSWwxZGV3ODBHWWtsbmdjVk41UWVHS2M5YTQwelE2Z3VKZ2ZNR3JJYm5CWkdBQmvSAfABQVVfeXFMUHQzMUxydHp6SVUwU2N2cjN1U1RRYlhFY0h5Q29KeENuWUJEZG8yLThjQmF2NjJnR3BmdmhWWlU1SmM1S0JZWGpxVzBTSFV5QUx0SWpvVEtwOWlETk1MTWNIWjloZ3pld0tYcFNudDdic2s5ZU9mWklMME56R3djTU1LWTB5U1oxWmt2ZFBIRnZrd0ozT0h0dHZ6T0Q4QnBkTlBRRUthNkQ0NC1kSm9TY0lhNGd6amdEVWlkbEkyWkxTbjNJMklKTS0tMGRJZnJaYUxINHFsQTR1c2ZyMFJEbGQwdFhHQXQ1a3c1TnVqX3hq?oc=5",
+          "description": "Básquet: las chances de Uruguay de clasificar al Mundial 2027 y cuándo vuelve a jugar &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-03T11:45:00+00:00",
+          "score": 2,
+          "score_reason": "Enfoque informativo en clasificación y fixture, sin mencionar derrota",
+          "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "El presidente de Chile, José Antonio Kast, realizó una visita a Uruguay donde expuso sus propuestas para combatir el narcotráfico en la región. Kast planteó la implementación de sanciones drásticas y cadena perpetua para quienes cometan delitos vinculados al narcotráfico. El mandatario chileno también se pronunció en contra de la militarización de las fuerzas policiales como estrategia de seguridad. Las declaraciones se dieron en el marco de su gira por Uruguay, donde abordó temas de seguridad regional y cooperación entre ambos países en la lucha contra el crimen organizado.",
+        "resumen": "La selección uruguaya de básquetbol perdió 91-76 ante Argentina en partido correspondiente a las eliminatorias clasificatorias para el Mundial 2027. El encuentro se disputó en el marco de la fase de grupos de las clasificatorias FIBA. Tras este resultado, Uruguay mantiene posibilidades matemáticas de clasificar al torneo mundial. La selección celeste volverá a jugar próximamente en la continuación de estas eliminatorias, donde buscará sumar victorias que le permitan alcanzar una plaza para la cita mundialista que se disputará en 2027.",
         "coincidencias": [
-          "Kast realizó una visita a Uruguay",
-          "Propuso cadena perpetua para delitos de narcotráfico",
-          "Se refirió a sanciones drásticas contra el crimen organizado"
+          "Uruguay jugó contra Argentina en clasificatorias de básquet",
+          "El partido corresponde a eliminatorias del Mundial 2027",
+          "Uruguay perdió el encuentro disputado"
         ],
         "diferencias": [
-          "Subrayado incluye el rechazo a militarizar la Policía, Montevideo Portal lo omite",
-          "Subrayado especifica que la propuesta es regional, Montevideo Portal no lo aclara",
-          "Montevideo Portal enfatiza lo drástico de las sanciones con comillas"
+          "Montevideo Portal omite el resultado y enfoca en chances clasificatorias futuras",
+          "El Espectador prioriza el marcador exacto del partido como información principal",
+          "Montevideo Portal se centra en expectativas, El Espectador en hechos consumados"
         ]
       }
     },
     {
-      "id": "story_006",
-      "topic": "Crecimiento de exportaciones uruguayas en primer semestre",
+      "id": "story_003",
+      "topic": "Inflación subió a 4,25% en junio",
       "category": "Economía",
       "sources_count": 2,
       "headlines": [
@@ -233,12 +116,12 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Exportaciones uruguayas crecieron un 1% el primer semestre en comparación al 2025",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaXNBV2MzV2hQbElRRTY5SGsyZ3AwOEIwTVZVYVZ4NC15bjlZOXVnaXNsYklCTlBQb2NHOU56ajRHcUdHNnV2dTZuNHBjb3JFYWNBY1I1VWpUOVJVbmtPYUtlSjJCcVZiaktMdzhXaFpES3N2N3publUyRmVBOUFxa1BHUWUwX2NrUW9velpiNEpRNjhWWFZaN0o5Nm82aF9lRzMwWXhiX0tKVDlqMkxsVEp0dzVRZFJYSzN0bEMyMXMxSHIxWDBZ0gHrAUFVX3lxTE1pX19qeEVPN1U0aTl1NV9wVjg1cmVXQzgtcl9seUFjZ2taQnVvakdNQkNidERnMVVlaFNYZEMtM2dYWmg2STZWc2JuaGFHeE1YQ0R3WUhUQ0NZbUlNY0JZcDBkRHNvNW9OMldZQjdtbWwzRDhCT0JFUm51YUJZTWlQVzNXZUpUSHM2Ql9YNXlPRW5RWjNhR1V3T3NoMkEwUEw2em55MGpNN0tyb0NCTkNBbXhxRlpVZmdaMF80SGtFWm5HWi1wVGZjSEUzMnkwQ0NZVXctTi1JcmRjcU1VQWROWE05d25PNjdYX0U?oc=5",
-          "description": "Exportaciones uruguayas crecieron un 1% el primer semestre en comparación al 2025 &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-02T21:34:00+00:00",
+          "title": "Inflación interanual subió al 4,25% en junio y se acerca a la meta del Banco Central",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbVVxZDVMb1FpTm9GQzJfYjFhQjBQR21tZGY2a0l1QU1COGpfSDVUc08wd0N1M1poaVExQUlGYVA5SHhDQm9FMTBCcVdqdVVGdHc4Qk5Mc29EendTckloTTNNUGhoSXB5ZkRoeUNyREdpeVhnNzZKektLR1BmOVh4UDlsMnp0NktKRFJWanAzSzBhR3RaSjNycnZxTFk3R0Q4cXlmYi00RkxIcVZKYkJsVDJNOWNjd2hvV3kxVHhlNGlhTE9ib01selp6TdIB7wFBVV95cUxNenVEbWtCN0RpS0RiLVhjeGpXbzlRcGdOYWFHeWNpSDVINjZuamV3MUkyTXNYMGNhWERZS1JFVlF3SUVNS2EzLTNwNGJtWG1Pc2ZzTmNMT1J5clVUZThScmc3Um9EVldtLThrbF9xX211Wm5RaDM1UHlJOUZDb2FORDZNWi1oRmEtaGxNT25XcDhramdIYll4d082cXF2Mi02SENaWHd3OXAzUkRtYjAxaW5rUjhKSDRyWG1GZ3lzOXlyanBfcTNseGNNaHJiS1cwcHlUMW51WDdrMmo2b0liNm1aYkhUWlVGbkFVdWxaVQ?oc=5",
+          "description": "Inflación interanual subió al 4,25% en junio y se acerca a la meta del Banco Central &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-03T17:50:00+00:00",
           "score": 1,
-          "score_reason": "Presenta dato objetivo sin valoraciones ni carga emocional",
+          "score_reason": "Presenta datos objetivos sin valoraciones ni adjetivos cargados",
           "score_pct": 10
         },
         {
@@ -248,77 +131,26 @@
           "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.busqueda.com.uy",
-          "title": "Las exportaciones uruguayas a la Unión Europea repuntaron en el segundo mes con el acuerdo",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVGdRdzJiQlhHdnBDWDlxUkZKQjRWdFItdnhXUXFpODJfQ0RhN0NfNXphb1N0ZGNRYl9wOXpJXzhNUlZJRUZPVmdGMUQ0X3E4TU9TcnR4TGRhdmY0LXhvbkY5YTlXM2t3V0JxN2VIM0R0ZzQ1czFEZ1hNQl9ISW96cW9aMlBmUk1sMlBGeWY5T1dxbzF0MnUxTUFCanZUZE1fZlM1bldhV2U0S1d5aWU1X1V5V3FQM3FsY2pzRGt1U1hnaERXQUE?oc=5",
-          "description": "Las exportaciones uruguayas a la Unión Europea repuntaron en el segundo mes con el acuerdo &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-07-02T05:03:00+00:00",
+          "title": "La inflación en junio fue 0,37% y la tasa anual subió a 4,25%, más cerca de la meta del gobierno",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX2FpSTdYelc3dV9qUEFyX2U4bjJ2elMtdWdDTHRfZVpvclRESVY1Nl9oSVFqZS1ILXVNVG94eFpJV2hQRS1xS1VlZGRLc1RuSHZWYzEtRnJvX0UzSzJrX291RFJXcE13Rm9IemNudVJEcDVHRlVudUVQMi15dE85RDhVR1RPa3BtRnR5VlpTN3lEMFA4UVBGV05KblNEMG11T09keGdtTmFFX0E4cHJ1VThSQW9pS2VpbXFEM2JfWWEyQ0cwQXVVMA?oc=5",
+          "description": "La inflación en junio fue 0,37% y la tasa anual subió a 4,25%, más cerca de la meta del gobierno &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-07-03T17:54:00+00:00",
           "score": 2,
-          "score_reason": "Uso de 'repuntaron' sugiere leve valoración positiva del crecimiento",
+          "score_reason": "Incluye referencia a 'meta del gobierno', leve encuadre político",
           "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "Las exportaciones uruguayas registraron un crecimiento del 1% durante el primer semestre del año en comparación con el mismo período de 2025. Los datos muestran un repunte en las ventas externas hacia la Unión Europea durante el segundo mes de vigencia del acuerdo comercial entre Uruguay y el bloque europeo. El incremento en las exportaciones al mercado europeo contrasta con el comportamiento más moderado del total de las ventas externas uruguayas. Los datos corresponden a información oficial sobre el comercio exterior del país.",
+        "resumen": "El Instituto Nacional de Estadística informó que la inflación mensual de junio fue de 0,37%. La tasa interanual alcanzó el 4,25%, acercándose al rango meta establecido por el Banco Central del Uruguay, que se sitúa entre 3% y 6%, con un centro en 4,5%. Este incremento representa una aproximación al objetivo de inflación fijado por las autoridades monetarias para el presente año. Los datos reflejan la evolución de los precios al consumo en el sexto mes del año.",
         "coincidencias": [
-          "Las exportaciones uruguayas experimentaron crecimiento en el período analizado",
-          "Se registra aumento en las ventas externas del país",
-          "Los datos corresponden al primer semestre del año"
+          "La inflación mensual de junio fue 0,37%",
+          "La tasa interanual alcanzó 4,25%",
+          "El dato se acerca a la meta establecida"
         ],
         "diferencias": [
-          "Montevideo Portal enfoca en el total de exportaciones con dato cuantitativo general",
-          "Búsqueda destaca específicamente el desempeño con la Unión Europea",
-          "Un medio vincula el resultado al acuerdo comercial, otro no establece relación causal"
-        ]
-      }
-    },
-    {
-      "id": "story_007",
-      "topic": "BID presenta estrategia de desarrollo para Uruguay",
-      "category": "Economía",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "La estrategia con el BID para Uruguay: del país con “potencial desaprovechado” a ser “hub” de innovación",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObWlVRjRINkYxbkZnUVMzSVNBcEdpRzZQSDl5MkRrNURvTVB1cG44STg0eHUzWWJGQWN3QmRONVVFUURFN3FtOERzM0RNYW5OcTVwQ0J3eExlQ2s0Z2Y4SFRJU1F0a3YtVllHWWVtZ1E5WW9ZZVJjSDBXZXFlVV81S05FUUlkbXhicGRYbmNmSUZZRG1iVUpacXIyY3BMOXVLSkZYa2JIeU1JYzNSR055ZW1pelVpcU9QZHZWQzlQbHQyZURWVmc?oc=5",
-          "description": "La estrategia con el BID para Uruguay: del país con “potencial desaprovechado” a ser “hub” de innovación &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-07-02T05:05:00+00:00",
-          "score": 4,
-          "score_reason": "Usa entrecomillado selectivo y enfatiza visión aspiracional del BID",
-          "score_pct": 40
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Uruguay enfrenta un gran desafío ante el consumo problemático de sustancias",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbDhoa0tiM0lnTnV3blplZVkzLW93T3hJeGZRbTVPcWxFNWNLNDNrVk4zb3IxNFdEU3cxRE9RUXVYMEMzTWhSS3RKV3YtTVB4WGNvem5pQUZLV01JeWJQdzkzV01YWkU1NmNKcVNDbjV5N1RKSTlpX0NlLWVfODQxMTN3eEZWSUpIdFU5cDJVX0JQcklMTmxWSFpaZ3RWdWVDMXVrNDlRanMwdzZMRjZxWHBQZEk?oc=5",
-          "description": "Uruguay enfrenta un gran desafío ante el consumo problemático de sustancias &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-07-02T05:35:17+00:00",
-          "score": 5,
-          "score_reason": "Lenguaje alarmista con 'gran desafío', enfoca solo aspecto negativo",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "El Banco Interamericano de Desarrollo (BID) presentó su nueva estrategia para Uruguay correspondiente al período 2025-2028. El documento diagnóstica que el país enfrenta desafíos en diversas áreas, incluyendo el aprovechamiento de su potencial económico y problemáticas sociales como el consumo de sustancias. La estrategia propone impulsar a Uruguay como centro de innovación regional y atender cuestiones de desarrollo social. El BID establece líneas de acción para apoyar al país en la modernización de su economía y el fortalecaje de políticas públicas en áreas consideradas prioritarias.",
-        "coincidencias": [
-          "Ambos refieren a la estrategia del BID para Uruguay",
-          "Ambos identifican problemáticas o desafíos del país",
-          "Ambos destacan aspectos específicos del diagnóstico del organismo"
-        ],
-        "diferencias": [
-          "Búsqueda enfatiza la dimensión económica y de innovación del plan",
-          "La R destaca exclusivamente la problemática social del consumo de sustancias",
-          "Búsqueda usa tono optimista mientras La R adopta enfoque de preocupación"
+          "Montevideo Portal enfatiza la proximidad a la meta del Banco Central",
+          "Búsqueda atribuye la meta al gobierno en lugar del Banco Central",
+          "Montevideo Portal omite el dato mensual en el titular"
         ]
       }
     }
