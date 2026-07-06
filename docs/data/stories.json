@@ -1,26 +1,41 @@
 {
-  "generated_at": "2026-07-05T11:38:51.221735",
+  "generated_at": "2026-07-06T13:49:25.907865",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Femicidio en Durazno con cuatro menores presentes",
-      "category": "Seguridad",
-      "sources_count": 2,
+      "topic": "Uruguay goleó a Cuba en clasificatorias de básquet",
+      "category": "Deportes",
+      "sources_count": 3,
       "headlines": [
         {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
+          "source_id": "carasycaretas",
+          "source_name": "Caras y Caretas",
+          "source_short": "CC",
+          "source_color": "#4A148C",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Investigan femicidio en Durazno: una mujer de 42 años fue asesinada frente a cuatro menores de edad; la Policía busca a su pareja",
-          "url": "https://www.teledoce.com/telemundo/policiales/investigan-femicidio-en-durazno-una-mujer-de-42-anos-fue-asesinada-frente-a-cuatro-menores-de-edad-la-policia-busca-a-su-pareja/",
-          "description": "Según la investigación primaria, la mujer recibió una herida mortal con un arma blanca presuntamente provocada por su pareja. La entrada Investigan femicidio en Durazno: una mujer de 42 años fue asesinada frente a cuatro menores de edad; la Policía busca a su pareja se publicó primero en Teledoce.com .",
-          "pub_date": "2026-07-04T16:30:10+00:00",
+          "source_url": "https://www.carasycaretas.com.uy",
+          "title": "Clasificatorias Catar 2027: Uruguay busca sellar el primer puesto ante Cuba",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc1JCc1VmX1hWbGlFZTBLd3NFbVFHSFZFODhsRl9uX2E4Y0RtODNKOWtCTlgzbDRoc3czamc3RmZHTEYxakp4Z1hZaWdQWWdXTXdRVXJvdFJSMHNkcUt1TnB5Qm9ROEhqU3VxQXJfVC1rbG5DRUpXQmhvQURVSzBXZ2tsWDdkaFFHVzJJemQxVV8wc1pfaFhfUWFET3pxTmFHTkpQekpGbF9yWVRFS0c0WmZLd0txVGNra1HSAb8BQVVfeXFMT0E4S0Fvak1xMlF4cXV6dVNMNnF1emh5RTU2eTlwVkM2UGUtZnFOeWIyLUFFRThpcnFBeWVfRnVvelBqSklrRllpcUNiQzY5ZllfRmtLTTRobTRtSmZCX0I5Z0tzSUtfMHExUDh6ZC1tQmRVTU5wczJ2VWRsNEo5Y1k1Y3BGTjhZZEZ1MG1tRGUzS3hYdEVxRzVsd2VfQndYdktEVDdOaGFpNGlNbmxydzkwV0tzVjRfejdqRVVWQk0?oc=5",
+          "description": "Clasificatorias Catar 2027: Uruguay busca sellar el primer puesto ante Cuba &nbsp;&nbsp; Caras y Caretas",
+          "pub_date": "2026-07-05T20:45:45+00:00",
           "score": 2,
-          "score_reason": "Neutral, aclara que investigan y mantiene presunción de inocencia",
+          "score_reason": "Objetivo, informativo, presenta contexto sin lenguaje emocional",
           "score_pct": 20
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Camino al Mundial: Uruguay sufre la baja de Emiliano Serres para enfrentar a Cuba tras una fractura en la mano",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOXBoVlJBZ2llT2gxbFBwbkl4bGVTUmIyVmNlQklLRXFTYnpGTVpJNElkMzdNZkpTTXNUS2U3WFcyTnJnZnVEejh0SThNNkxyS3NLMldpajVldTdSSFRXbFdZRnprVkxuM0UtMXN6bGxTZHBDTURDMGJ1RUliT21YYzhOZ1hJdnFqLUxYT25UcXR4NHdhM1pzbVlrT2RJNkFyRGpfTTRDWlVLc3VEZ0RuZEdPUG5TeWZWMldNczljYVFtcjh0bHMzVldvU1d1SmR6RkU1SElFWWRzdjJpSkJDUEZZNnBBbTJ0aXc?oc=5",
+          "description": "Camino al Mundial: Uruguay sufre la baja de Emiliano Serres para enfrentar a Cuba tras una fractura en la mano &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-05T15:05:06+00:00",
+          "score": 4,
+          "score_reason": "Enfoca en aspecto negativo antes del resultado positivo del partido",
+          "score_pct": 40
         },
         {
           "source_id": "montevideoportal",
@@ -29,77 +44,77 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Femicidio en Durazno: hombre de 41 años asesinó a su pareja; cuidaban de cuatro menores",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLVZ1eUxidnVBUEJycy13dGxYQ1M5enk1bFFVWlQzLVQ1Ykh2RnlIblVRT3lMWkFCN3E1LVdrNGVWTW1VNF9wQXdqNHBQR29vcHE1Rkp0Q2N2SENsa1ZCVEprZTVyY0NiV2lVRm56YXJOcFpXWUdkX0ZsUzViTHVOcTVTcHdIbV9oVm9CRUczMzFHX0YzN3Y5S2t5Nmx0dWJldGk5dXNHaHp6c2NmSUs1bDB4Vllwa2p3T0JEMDhOYUU5Q2R1bHMyS1AyYWp1Z9IB8gFBVV95cUxOcXc2MG5ULVZDRHNlTVljZUEwS1JKN24tVDJLVm5vX3FKamVXS256VWxxZExzdFY5WDlmWmxROU14XzY5SWtSaHJzejFlM0ozbnl3MVM5VmlZSzNCUTByR2V2Z0tNT2hzeU5aYjl2THl0a3pxeFlNNHMxOVF5OVBEejBaUDlxeXQxcDZnVjZoclZiVGJGbG5aVUd6ZzV1dDVmTWdnRkxBOWsxSUlJTUNIRHZNT3lRMkdFNjdSTnF5bHE1OXJJWUd1bkFIeVUwX0Q1RzdidEQwdUVPaFhDcVlTdU1GbDJ6TjdLbGs3NjgzMEVzZw?oc=5",
-          "description": "Femicidio en Durazno: hombre de 41 años asesinó a su pareja; cuidaban de cuatro menores &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-04T16:21:00+00:00",
-          "score": 3,
-          "score_reason": "Presenta como hecho consumado el arresto sin aclarar estado procesal",
-          "score_pct": 30
+          "title": "Básquet: Uruguay aplastó 99-70 a Cuba de local y se ilusiona con volver a jugar un Mundial",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcWRoU3lYRXdHaUZhN1BadnhrcXF5WWt3SnFLRUJMa0hta2xFN1RhUG5Tc091eThraXBtRGRSSXQyTnVtNFRFc2FWZVptQ0M5ZWprc21IUGJfRU5vaWh4dW54VlFxZUdTNkFsY21WMThPVi1ESjdGaDQ5MlRXT0hkV1FEbkZ4a29ROTBDNUJEaWpOTGRESTk1NVZjbWZfRFJaN1hNSDlrYnpvRE04TS1zRVBDeUR5dzR5Q09RMmNabWZCM2hYTlFrcktsT2E4aS1WSHBv0gH3AUFVX3lxTE8wNHRyZ3dYc0Q5VmZlLWRBTjRMTHF4YTRaZ0JXYmlWU0ZsRE1xeTB6WTQtNHdRdGNCZF84bDF5cTBra0dsczRacXJuYnNBUE4ySE1mdFNBQk1FN1pXT2laSlBmZ1VFcTdmNHJKZnJBdmJVWVdNQndPMy1NcVFjWGxxQ0tlc1NMWERxVkJ5clpTSTl0N3RUeDZELUdxdFcyTzljQ2tCaDJYaThld3c2MWZFanNkMG9Vd2kwYzVxanFYVUVfUTBTTHVJT3hKdmlqeTNxRC02QUFyLXBJZjdHS09CbDc1emF3c3VRX09CR2FMTWxtUFFXZTQ?oc=5",
+          "description": "Básquet: Uruguay aplastó 99-70 a Cuba de local y se ilusiona con volver a jugar un Mundial &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-05T23:20:00+00:00",
+          "score": 5,
+          "score_reason": "Usa 'aplastó' y lenguaje emocional con 'se ilusiona', más cargado",
+          "score_pct": 50
         }
       ],
       "analysis": {
-        "resumen": "Una mujer de 42 años fue asesinada en Durazno presuntamente por su pareja de 41 años. El hecho ocurrió en presencia de cuatro menores de edad que estaban bajo el cuidado de la pareja. Según la investigación preliminar, la víctima habría recibido una herida mortal con arma blanca. Montevideo Portal informó que el presunto agresor fue identificado, mientras que Teledoce indicó que la Policía continuaba buscándolo. El caso está siendo investigado como femicidio por las autoridades competentes.",
+        "resumen": "La selección uruguaya de básquetbol venció 99-70 a Cuba en partido correspondiente a las Eliminatorias para la Copa Mundial de Básquet Catar 2027. El encuentro se disputó en Uruguay. Con este resultado, Uruguay se acerca a la clasificación al Mundial. El equipo enfrentó el partido sin el jugador Emiliano Serres, quien sufrió una fractura en la mano que lo dejó fuera de la convocatoria. Uruguay busca sellar el primer puesto en su grupo de clasificación. El país no participa de un Mundial de básquetbol desde hace varios años.",
         "coincidencias": [
-          "El hecho ocurrió en Durazno frente a cuatro menores",
-          "La víctima es una mujer de 42 años",
-          "El presunto agresor es su pareja de 41 años"
+          "Todos reportan el partido Uruguay-Cuba en eliminatorias mundialistas",
+          "Todos mencionan la clasificación al Mundial de básquet como objetivo",
+          "Todos refieren al torneo clasificatorio para Catar 2027"
         ],
         "diferencias": [
-          "Montevideo Portal afirma que el hombre asesinó; Teledoce dice que presuntamente lo hizo",
-          "Teledoce especifica arma blanca; Montevideo Portal no detalla el método",
-          "Montevideo Portal sugiere captura; Teledoce indica búsqueda activa policial"
+          "El País prioriza la baja de Serres por lesión sobre el resultado del partido",
+          "Montevideo Portal destaca el resultado contundente y usa lenguaje emotivo ('aplastó', 'se ilusiona')",
+          "Caras y Caretas enfoca en el objetivo futuro de clasificación y primer puesto"
         ]
       }
     },
     {
       "id": "story_002",
-      "topic": "Orsi invitado a asunción presidencial en Perú",
-      "category": "Política",
+      "topic": "Danubio y Juventud empataron 1-1 en Torneo Intermedio",
+      "category": "Deportes",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Yamandú Orsi llamó a la presidenta electa de Perú y fue invitado a la transmisión de mando que será a fin de mes",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNenB2cU1uYWhFaGxvc3U1LXlpVnhVVTlZcVRqa1UyVHhQVHQyTFFqOUZMVy1qRVBLbk9lS1VBUl9kdlhQZFJnR1pFbFJBYUQ0cHdkS05wTlR5R2I5Q3F5MkJZN09RUVlrYTdWd0JfRUJYWkFQWFA3dE4xdS1aQjB5NDF0UnRubjZCazlDdWxYVHNKaEJXVEZ3MFZjQ1VQTzZYcmJZSGNUclFXMmItZ2VPTWJFRTJuYk9xZFktbmJhNmJXSVVzbWNMOE9acm9RR1Rk0gHWAUFVX3lxTE9wdmxaU040MlVZbG9RT1I5YU5adnRlUFRueHk2Qkt5c3RRRFlKMWFpVGlpUVVRcmNUZXU4dWlfY0ZSbW1LS2E4bjlESGc4SURiZV9EVnNxZXM2MjQ5TG1NM0cydlRzRlpZQ0QwX1hiSjJZeDkybk5Pa0RtdXlyVHBGcXBTVFNrOGplellBelZ4NTBhb1o4T1RWZTVGSEVvNTZHN0F4SGpfV1RpTVpxVThhX1VhM0FTSU1aUlRTZm1yUWI2NzFQWFFHampQZHhId3NpcVM4ckE?oc=5",
-          "description": "Yamandú Orsi llamó a la presidenta electa de Perú y fue invitado a la transmisión de mando que será a fin de mes &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-04T12:25:00+00:00",
-          "score": 1,
-          "score_reason": "Información clara y directa sin carga valorativa",
-          "score_pct": 10
+          "source_url": "https://www.espectador.com",
+          "title": "Danubio y Juventud empataron 1-1 en la reanudación del Torneo Intermedio | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkNPWElkT0tkZWxyNTBTQ2w2ckxRbUZXVm5xam9fREk4VEhzTEVoWXdaZTZhcGYzZzRtYm1wYTVWQkRJcnVDNHZEaWhTekU1WGFIczlSWkw1Vm5SMjgwTVVaTTY2Z0QtdUR3SS0wRG5lVnd0ZkdxWThCOXZyRS02VXJwVXVhVi1SYmtDMzZLT0VsM2tfR0pTUENwSEZ0djdsb1k0S1FSdGVMOG9rdnY2N3FUeFQxYVFDOHF3?oc=5",
+          "description": "Danubio y Juventud empataron 1-1 en la reanudación del Torneo Intermedio | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-07-05T19:06:34+00:00",
+          "score": 0,
+          "score_reason": "Puramente descriptivo del resultado y contexto del torneo",
+          "score_pct": 0
         },
         {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Yamandú Orsi llamó a Keiko Fujimori, quien lo invitó a la asunción presidencial en Perú",
-          "url": "https://www.teledoce.com/telemundo/nacionales/yamandu-orsi-llamo-a-keiko-fujimori-quien-lo-invito-a-la-asuncion-presidencial-en-peru/",
-          "description": "Desde Presidencia señalaron a Telemundo que se trató de una conversación \"protocolar y de estilo\". La entrada Yamandú Orsi llamó a Keiko Fujimori, quien lo invitó a la asunción presidencial en Perú se publicó primero en Teledoce.com .",
-          "pub_date": "2026-07-04T19:07:10+00:00",
-          "score": 1,
-          "score_reason": "Menciona nombres y hechos objetivamente, agrega contexto protocolar",
-          "score_pct": 10
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Danubio 1-1 Juventud: Peralta y Rodríguez anotaron en un partido que finalizó en empate gracias a los arqueros",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZEJ5amNYc1A1TGpreTJNR0R6YzMtRHBfZXJjOGJGRE9ZRTBQRUZlT2F2a3dBWm4yZ3JUSmFwTTJzZTUtdzZQVktZb3R3c0M0Xzl3anNJTGtoWlV3STNQZVlhdzdhS2hCME9pVHotYWo0ckxHTEZsUnpwb3lWWWRZeFE5Qm9sa2VRaERXTmJLVzlXdUxRU2NsajlPMTFwOWZBSGRSX1JMOVFVS3MxQm9US0JQa2hsQXV4bHFfWV9nMHJjV09rcDFlUm5nSk9uc1JGY2xpN0FmTHpxZw?oc=5",
+          "description": "Danubio 1-1 Juventud: Peralta y Rodríguez anotaron en un partido que finalizó en empate gracias a los arqueros &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-05T19:39:19+00:00",
+          "score": 2,
+          "score_reason": "Incluye valoración sobre la actuación de los arqueros",
+          "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "El presidente electo Yamandú Orsi mantuvo una comunicación telefónica con la presidenta electa de Perú, Keiko Fujimori. Durante la conversación, Fujimori invitó a Orsi a la ceremonia de transmisión de mando presidencial prevista para finales de enero. Desde la Presidencia de Uruguay indicaron a medios locales que se trató de un contacto protocolar y de estilo, según las prácticas habituales entre mandatarios. Orsi asumirá la Presidencia de Uruguay el 1 de marzo de 2025, mientras que Fujimori tomará posesión del cargo en Perú a fin de mes, convirtiéndose en la primera mujer en ocupar la presidencia peruana.",
+        "resumen": "Danubio y Juventud empataron 1-1 en un partido correspondiente a la reanudación del Torneo Intermedio del fútbol uruguayo. Peralta anotó para uno de los equipos y Rodríguez para el otro. El resultado final quedó definido en empate, con actuaciones destacables de ambos arqueros que evitaron más goles durante el encuentro. El partido marcó la vuelta de la competencia intermedia que se disputa entre el Torneo Apertura y Clausura del campeonato uruguayo de primera división.",
         "coincidencias": [
-          "Orsi llamó a la presidenta electa de Perú",
-          "Fujimori invitó a Orsi a la asunción presidencial",
-          "La ceremonia será a fin de mes"
+          "El resultado final fue empate 1-1",
+          "El partido corresponde al Torneo Intermedio",
+          "Participaron los equipos Danubio y Juventud"
         ],
         "diferencias": [
-          "Subrayado no menciona el nombre de Keiko Fujimori en el titular",
-          "Teledoce incluye la fuente y calificación de 'protocolar' desde Presidencia",
-          "Subrayado enfatiza la transmisión de mando, Teledoce la invitación"
+          "El País destaca el rol de los arqueros en el resultado",
+          "El País menciona los nombres de los goleadores Peralta y Rodríguez",
+          "El Espectador enfatiza que fue la reanudación del torneo"
         ]
       }
     }
