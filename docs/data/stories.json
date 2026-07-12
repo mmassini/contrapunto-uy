@@ -1,209 +1,11 @@
 {
-  "generated_at": "2026-07-11T11:10:16.431370",
+  "generated_at": "2026-07-12T11:14:48.555546",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Quíntuple homicidio vinculado a banda criminal",
-      "category": "Seguridad",
-      "sources_count": 4,
-      "headlines": [
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Quíntuple homicidio en barrio El Monarca",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMjNTN1Nod0NrRURvcVR5MXFQVVJIVHZBMGxBeEE2dmw1N0l1T3dEUThEcHo0dHlxYkIxUGpWWkxrRm5SaFhCbkk4LVZmTlZjSjJ2ak5yRS1ROUswbEtINnZjSDNKOWhIRVVyaXVsekU0bmZZbENWRlBGNG5hQnJsSzdRYXRudw?oc=5",
-          "description": "Quíntuple homicidio en barrio El Monarca &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-07-10T16:09:47+00:00",
-          "score": 1,
-          "score_reason": "Escueto y objetivo, solo informa el hecho básico sin adjetivos",
-          "score_pct": 10
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Quíntuple homicidio en el barrio El Monarca: atacaron dentro de su casa a los Suárez, criminales que operaban en Villa Española",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU20yMUxxZkxnQU8tNDVGU1d4US1hNmNsa0s5bWF1aTcxNjJzM2MwcENJbHUyR0J2bGlZeGxBM2s2Ri11Y3hrbE1LbWxnZ3JDUVhzLVJmM3lTOXFYQWVURDEyU3B2T3NEUFJ5VnQtM3FXVGM5elp2a0NxX19xdTdyNnplYnB2bmgzYlh0MncydmVaR28zQkRyd2NWQ2dIblJKQ21JQWc1SndkUjJPRFhHbm1kczMwc1VRNzh1ODdkQmR3ZjJ0Y1c2TG9JbEVHWC1lME9NcVVaSWNuMjgzYm9qMjNVMUFFOG_SAewBQVVfeXFMT0l0VlU3RlhDcUo3VHBtbzhLQU9vbUZWUmVZNU5peFhUM2pZNFNyZjJWSWFIZ3FVZ0ZNTE1DYXRfLUQ2cVFuSk9NRDR6d1M0c0ZBMzhIaHY3OThhUHRRM0RhSXowajhrRFYzSVVoVTdMd1lEak5SY1pObXVRLTBfUTVTb09Salh5clZFVkN1TEpvQ21YRlRCb01PazVybWY2Vmx1SzR1OFItNnloY3RMaWNQVVFkcmtFLU4tTDFyOEZsQ0ZyUjB3dVA1VkpDMm00U2FoSFFrSm9zc2xfSDF5ck9KSFFWYWpVdkJCQlA?oc=5",
-          "description": "Quíntuple homicidio en el barrio El Monarca: atacaron dentro de su casa a los Suárez, criminales que operaban en Villa Española &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-10T11:59:00+00:00",
-          "score": 3,
-          "score_reason": "Más descriptivo, contextualiza actividad criminal sin dramatizar excesivamente",
-          "score_pct": 30
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Quíntuple crimen en Villa García: una familia asesinada y el vínculo con la banda criminal “Los Suárez”",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOUJxTkxjRTZLUUFWNUNsTUM3X1RONVMwMVo4bVBTUGdyUTRBdlhldGNwd0RGRkpmYXh3MzFrYkNnUU1jWWpIUUFRMTZsUml6ejAtTzFSWkh0OHNOY05nZjVYUEJRT2dXZUw3WENMb0VmR0RoUlJLcS1oV28zdTdEMUdPZ3ljc2x3OG9RZmtobXZXSUwzRm9KdFViZXpIYXZ3ODdGd1BMcXJQajhuMlVzdlhVamN0LWN2RmJkWEFoRDFnQ0x0c0t5NFVsbW9aRUN0Z2hNUUdHOVFjUUFOdll3dV9xQQ?oc=5",
-          "description": "Quíntuple crimen en Villa García: una familia asesinada y el vínculo con la banda criminal “Los Suárez” &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-07-10T17:37:38+00:00",
-          "score": 4,
-          "score_reason": "Enfatiza el vínculo criminal y menciona \"familia asesinada\" con carga emocional",
-          "score_pct": 40
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Un grito de “¡Policía!” y víctimas de Los Suárez: qué se sabe de la masacre en El Monarca",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWHA3c1h0Rkh1SkcydnZGMDBHWkhxdFJOQ0J5Nk1YY2RWczR2UUE1aFFHcktGazMzajQ4SHBSZUl6T21jU3MxR2ZOenUxT3lIcFpMRTNUU19ieDVNWEZwbzNIYnk3eXJkUDQtTFF5U1F0RmZkV1lic1ZwT2N0R0ktZ3NiMjlOakxmNVYzYXBLenY5VGxCN1hjdTBqNFlvNVNVR1dSX1pTVnNRUzVQMDUwcjlMT2p5ODNYaFBwYzNkLS0zdDBjYUhHYXluN19oaknSAfMBQVVfeXFMTzJwbnhCTnExMzV1bFdmRy1HOFlqajZpV0lCRFRiNFBqZ1NLZTBrQWRzQ0tkNEZrbHpPa2J5M3pLNUdxZXBlR1dJTVNMZmpWMWRISHZzWDg1YVJXaEx1NzlfZ042UzFPQTVQUC1ERFdodzhZMHVjakZRalE4SmlLSVpOeDFYLWxNaEYwaVZnbUxOLXlWb1JyR0M2dUJ2VnhLMUNXSGpuUTNSZjRMeXNGT1VOdmJfb1pZNHV1TEszQm9fbGR3UTZaMEVYLVB2RGhLcGN4dEU1dU4wMWR0cnFBNmhVUW8xc3BhcDdzREVGdEp3d2hN?oc=5",
-          "description": "Un grito de “¡Policía!” y víctimas de Los Suárez: qué se sabe de la masacre en El Monarca &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-10T14:49:00+00:00",
-          "score": 5,
-          "score_reason": "Usa \"masacre\" que es término sensacionalista y dramatiza con el grito",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "Cinco personas fueron asesinadas en el barrio El Monarca de Villa García. Las víctimas pertenecían a la familia Suárez, identificada como una banda criminal que operaba en la zona de Villa Española. Según los primeros reportes, los atacantes ingresaron a la vivienda y ejecutaron a los ocupantes. Testigos reportaron haber escuchado un grito de \"¡Policía!\" previo al ataque. El hecho ocurrió en una zona residencial y las autoridades investigan el caso como un ajuste de cuentas vinculado a actividades delictivas. La Policía trabaja en la escena del crimen para determinar las circunstancias exactas del múltiple homicidio.",
-        "coincidencias": [
-          "Cinco personas fueron asesinadas en el barrio El Monarca",
-          "Las víctimas están vinculadas a la banda Los Suárez",
-          "Se trata de un quíntuple homicidio ocurrido en Villa García"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza el testimonio del grito de \"¡Policía!\" como elemento central",
-          "El País destaca el ángulo de \"familia asesinada\" versus otros que destacan criminales ejecutados",
-          "Subrayado contextualiza la operación criminal en Villa Española, otros son más generales"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Luis Suárez pronosticó semifinalistas del Mundial 2026",
-      "category": "Deportes",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Luis Suárez predijo los resultados de los cuartos de final del Mundial 2026: mirá cómo cree que serán las semifinales",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSDNiWnItY0tfYWFaZ0FrSW5SazNISWtpQlE4NlYyRi0tTjZWeWg3Qmtsak43Mk9FMTdIaE4xd2hsTG9sUXRqV3J1QnNBeHdrb0ltTndZMmtYSWxMSm5UbkYzdGl2T3dkQ0k1R2FlODZrSU5xYXh3ekVrSkZ4NS1CYXpUdU9Jc3FzVUFCX1BDNlF1eEJDWElwTEllVXB2bl95RU5wbU5ybXdGZFBnQS1QNmY3QUpXcXZLbXhXOFJKZ092ZU1xWS1TSmxSc3l0eldiVmxXVGd1REtNekxNZ1U5eEo1SEpILXZ1dnlmblI4TFMwOEFrYmNR0gH8AUFVX3lxTE85UjdYZmd6eE5kY19LS25HNEwzWnNqQ3VLWDNjWHhJaE1BLV92NFlURjUwQXFVd0o3NFdSeDJGeFJtcVpwN3NoUEVtTEtvSVozTS1Fd3FpQ3JtbDdCTVVSMTJpTVVzY2hPSWF0ZC1tcmE1LThMMG0tZjdNZnFZbkhzZ3hXUDFVZHNrQ285SjVweGktSXJiUkJ6X1FsTURuRmU4VXMwODVSSjZfazlsS3BkUTBVWVowakJ2S3Z6NGxTWm5NZlF4YVplcE5FcjV6dUZlYTlILW83UkxMbjJleUFvT1NfdGNGVU0tOFpMa2JoanhaZHNlaHpTX2lMSA?oc=5",
-          "description": "Luis Suárez predijo los resultados de los cuartos de final del Mundial 2026: mirá cómo cree que serán las semifinales &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-07-10T15:34:00+00:00",
-          "score": 2,
-          "score_reason": "Enfoque descriptivo neutro, incluye llamado a la acción",
-          "score_pct": 20
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Luis Suárez se la jugó y pronosticó las cuatro selecciones semifinalistas para el Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdkJ4c0gxM2hCLTZJNE9qWVBGR29fYVNUWTl6OGs1dVJnQ0JKUzBwODlfZkdrZllzeGU5NGVWcUZXajFTbDVHWTlhNmZLd0NYb0hzaHlXdFlRcG44ZllTNkwyc2dtenBjV1VHQmNGMGJ2Y0hIcWZBbnpCWkxvRlBKSG9TUVpOR0VxdmJ1MWJQLWVJU3ptUEx0MEt6Qm5WZjdCbEdveVd1aE9Vb2ktNzF1U2JxWU1HZ3RLdVA4aUpCTnMzWFJJVExsQWJockl6MmdTX0E?oc=5",
-          "description": "Luis Suárez se la jugó y pronosticó las cuatro selecciones semifinalistas para el Mundial 2026 &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-07-10T15:34:33+00:00",
-          "score": 3,
-          "score_reason": "Expresión coloquial 'se la jugó' añade dramatismo innecesario",
-          "score_pct": 30
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Luis Suárez, en modo influencer de redes sociales, pronosticó cuartos del Mundial 2026",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOREc4czdZd2JPbHoyMzJDNmtaQllIaFMzSmFoV21MVFVOd1RDUzZrZ0xfOHpUVWlQcEJlbkdRYXd5c2JsMG9ueWJHNjFWeTJDV3ZNbFhudXhhcm1pUXFXYXh3bVB6RE9iT3hreG5NU1ZuOGx5U0Jzd2JPUjVNUkZKTWxTemdqQWhjckZ6R0NURTRPeDQ2UGllQmZKSTlFTTdRUm9xeDhYZnJqaWFvTFZGOFZNLXdQSElaOUQwS094elY4c1Vxa1EwampILXA?oc=5",
-          "description": "Luis Suárez, en modo influencer de redes sociales, pronosticó cuartos del Mundial 2026 &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-10T13:50:00+00:00",
-          "score": 4,
-          "score_reason": "Calificativo 'en modo influencer' introduce valoración editorial subjetiva",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "El exfutbolista uruguayo Luis Suárez realizó un pronóstico sobre los resultados de los cuartos de final del Mundial 2026, anticipando qué cuatro selecciones llegarían a las semifinales del torneo. El exdelantero de la selección uruguaya compartió sus predicciones a través de sus redes sociales, generando repercusión mediática en Uruguay. Los medios uruguayos destacaron que Suárez se animó a vaticinar los encuentros de cuartos de final y las selecciones que avanzarían a la siguiente instancia del campeonato mundial que se disputará en 2026 en Estados Unidos, México y Canadá.",
-        "coincidencias": [
-          "Luis Suárez realizó pronósticos sobre el Mundial 2026",
-          "Los pronósticos se refieren a los cuartos de final",
-          "Suárez difundió sus predicciones en redes sociales"
-        ],
-        "diferencias": [
-          "El País enfatiza que 'se la jugó', añadiendo dramatismo al acto de pronosticar",
-          "El Observador se centra en lo descriptivo sin valoraciones",
-          "Montevideo Portal caracteriza a Suárez como 'influencer', calificando su actividad en redes"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Copa AUF Uruguay con nuevo formato 2026",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Mercado de pases: altas y bajas de cada club de la Liga AUF Uruguaya para el segundo semestre del 2026",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOHMzQWdGUnd1MVNHU3I2MzNSNDJDSkR2NGlGeC1DTVhMaXl5cVRkUnJrT1ZzbGVqakVBWlJDZFpiaXFUNURXYUg0cmRvc0ZCeTlFeDZRdTVZaXNGdlRzbVFEcm5ZMTQ4YWxkT0ZJR0ltZjVLT1BJWDlFTkhFMWNJOTk2SGhCU0xOYzBDWm51eFlLbktCaFFNX0VsalB3SmpFbnpjT2xXeHUwSnB3ZDJDWG82X3hnN0s5Xy16NzA2RThRTklWa1dQYUpLQThuUU1kYWFiamVJSUJ5UQ?oc=5",
-          "description": "Mercado de pases: altas y bajas de cada club de la Liga AUF Uruguaya para el segundo semestre del 2026 &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-07-10T06:30:31+00:00",
-          "score": 1,
-          "score_reason": "Informativo, descriptivo del movimiento de jugadores por club",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Vuelve la Copa AUF Uruguay con nuevo formato y más clubes participantes. ¿Cuándo arranca?",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPck0xRFgwU21fd2U4cDNmNUg0a3hwNzZtcV9lV3V3RVFMRXU1c3NCX1BsQ3hPWldwV1Rqa1pzaTBwcFVlbWxTaDl2Sl9YaVMyXzFjazhPUEl1enZDVkJGSUMwc1JRa0RzWEJzTG1SemZTYTI5T1h3UTFtZTFJTHBYZ3UyVVBMN1V0OUdYcHlFZkZ5ZjBKOEw4Q1hrTi1zcGNhckZRQVdkOTNYV21SejBxMXZTN3lJWVdLcFBraUY3cVRYc3dvbzZDZXBBNUEwcjFvNEHSAfYBQVVfeXFMTkF2QmJsX25oUV9wNVN3Q2VjTWxJbFV1X29WcmxXckZnQmdIUUZ6dWR4SDYwM2twMjhBOWJpamZnQmhnSmxaRWZjcUsyLXJBdDVzQlVtYm82NVBGMk9RenNpcXM3M3YzWFp3ZmpJOG52aTlEZFN1ODNOOWlXRUw0QmVnb1p6Zy1HVzQwQ1k1a2lxQUFwM3ZHUEkwZ3NzWENwbkdCeGhMTzlTb3h5U0pUbkpZVVM3M1N3S0ZRN1B5cE1YY29ZWlBxbDlrQTdpOUlnakMxRk5NcDZ2VWxRcjVBZS15cnJBRGk3aTMwWDhGb204dFN2MWRn?oc=5",
-          "description": "Vuelve la Copa AUF Uruguay con nuevo formato y más clubes participantes. ¿Cuándo arranca? &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-10T12:44:00+00:00",
-          "score": 2,
-          "score_reason": "Neutro, anticipa cambios en formato con pregunta informativa",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "La Copa AUF Uruguay regresará con modificaciones en su formato y mayor cantidad de equipos participantes para el segundo semestre de 2026. Los clubes de la Liga AUF Uruguaya están realizando movimientos en el mercado de pases previo al inicio de la competencia. Se registran altas y bajas en los distintos equipos del fútbol uruguayo de cara a la segunda mitad del año. La competencia tendrá cambios en su estructura respecto a ediciones anteriores. Los medios informan sobre los preparativos de los clubes para esta nueva etapa del calendario futbolístico nacional.",
-        "coincidencias": [
-          "La Copa AUF Uruguay se disputará en el segundo semestre de 2026",
-          "Habrá modificaciones respecto a ediciones anteriores",
-          "Los clubes uruguayos están realizando movimientos de mercado"
-        ],
-        "diferencias": [
-          "El País se centra en el mercado de pases y movimientos de jugadores",
-          "Montevideo Portal enfatiza el nuevo formato y expansión de participantes",
-          "El País detalla club por club; Montevideo Portal destaca cambios estructurales"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
       "topic": "Empate 1-1 entre Deportivo Maldonado y Albion",
       "category": "Deportes",
-      "sources_count": 2,
+      "sources_count": 3,
       "headlines": [
         {
           "source_id": "elpais",
@@ -217,8 +19,23 @@
           "description": "Deportivo Maldonado 1-1 Albion: empate en el Campus con gol en contra de Jaume y López de penal &nbsp;&nbsp; EL PAÍS Uruguay",
           "pub_date": "2026-07-11T01:04:27+00:00",
           "score": 1,
-          "score_reason": "Descriptivo, menciona únicamente hechos del partido sin valoraciones",
+          "score_reason": "Descripción factual del resultado y los goles sin valoraciones",
           "score_pct": 10
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "En un partido con polémica Albion empató 1-1 de visita ante Deportivo Maldonado | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRF8tTVNITW5wTUJuZTY0dlNiU3YzNGFRNExIU05qUWpzX0lLQUE3Nk1Ja1BPaXQ4RGlFa0R1WXVOVndCaElqTnAtcV9COFMxSkM4WWFEMUNpSV8xM3JQc3hHcTBoeUdIQllkREVLcWYtckdmVGVQaUFlZ0RzOFI0UEhGQnFQS2h1elJTN2Nnb05uZFNwdXBBZ3g5NGZqMXZXNzZaTFlHb2JzVURHaTBrdTFGZ1lsMDRrYTNENjZSN1lSN3p3?oc=5",
+          "description": "En un partido con polémica Albion empató 1-1 de visita ante Deportivo Maldonado | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-07-11T13:07:43+00:00",
+          "score": 3,
+          "score_reason": "Menciona polémica pero sin tomar partido sobre el afectado",
+          "score_pct": 30
         },
         {
           "source_id": "montevideoportal",
@@ -231,31 +48,46 @@
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbnNENkVGNHhFV29odW5FdlZDcHNHeFY2MU5lNzlRb0Jpb0xRU3JWdllUUkpZWVJJeWZGLUVlY05Qcm5DZGVnU2drMDdSM3Z6Zmh1Y3J1U3FrdV9TdjF3VTBWcm93ZE9jbFB1Umk4MjVna05scExKTUFMLUxZZUs3WkdfMEtpT3FvdFhOR2QtQzNxbjAteC1Ta1lSSktFTndNeTN3MVZsSHVCVV9RMHJKa1BfV1JQVU5PT2NLd3l1Zk1KOE5rSnQ5YlJ0OXUyQzdz?oc=5",
           "description": "Intermedio: Albion rescató un 1-1 de visita ante Deportivo Maldonado, que fue perjudicado &nbsp;&nbsp; Montevideo Portal",
           "pub_date": "2026-07-11T00:00:00+00:00",
-          "score": 5,
-          "score_reason": "Incluye valoraciones: 'rescató' y 'fue perjudicado' implican interpretación subjetiva",
-          "score_pct": 50
+          "score": 4,
+          "score_reason": "Usa 'rescató' y afirma que Deportivo fue perjudicado explícitamente",
+          "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "Deportivo Maldonado y Albion empataron 1-1 en el Campus de Maldonado por el Torneo Uruguayo. El primer gol fue anotado en contra por Jaume, jugador del equipo local. Albion igualó el marcador mediante un penal convertido por López. El partido tuvo situaciones polémicas que afectaron al Deportivo Maldonado, según informaron los medios. El resultado permite a Albion sumar un punto como visitante, mientras que Deportivo Maldonado no pudo conseguir la victoria en condición de local.",
+        "resumen": "Deportivo Maldonado y Albion empataron 1-1 en el Campus de Maldonado por el Torneo Intermedio. El local abrió el marcador con un gol en contra de Jaume. Albion igualó mediante un penal ejecutado por López. El partido tuvo situaciones polémicas vinculadas al arbitraje que habrían perjudicado al equipo local. El resultado permite a Albion sumar un punto como visitante, mientras Deportivo Maldonado rescató la igualdad en casa pese a las controversias arbitrales señaladas por diversos medios.",
         "coincidencias": [
           "El resultado final fue empate 1-1",
-          "Albion marcó mediante un penal convertido por López",
-          "El partido se disputó en el Campus de Maldonado"
+          "El partido se jugó en el Campus de Maldonado",
+          "Hubo situaciones controvertidas durante el encuentro"
         ],
         "diferencias": [
-          "El País se centra en la descripción objetiva del resultado y autores de goles",
-          "Montevideo Portal destaca que Albion 'rescató' el empate y el perjuicio a Maldonado",
-          "Solo Montevideo Portal hace valoraciones sobre el desarrollo del partido"
+          "El País se centra en los autores de los goles sin mencionar polémicas",
+          "Montevideo Portal señala explícitamente que Deportivo Maldonado fue perjudicado",
+          "El Espectador destaca la polémica sin especificar qué equipo se vio afectado"
         ]
       }
     },
     {
-      "id": "story_005",
-      "topic": "Damiani confirma candidatura presidencial en Peñarol",
+      "id": "story_002",
+      "topic": "Ruglio critica arbitraje por penal a Albion",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "El estado de Ignacio Ruglio sobre el penal a favor de Albion en el empate con Deportivo Maldonado",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQTdOaHEwNmNSOFlJdEh1TDJLdTBGY292R2pzYjR2YmlYUnZOVU5zbUV3R3ZPQVNOcFUwSm5qaGFXbzk1V0F6SUxJNkkxTzlNdWZPZXY3WnRpMzhQYmpzVTM0Vm5jSjRqSUowb0N5WjNiSUdTd0loOWs0VmdNQVdMVndSdXQ2dmJobHhjZjdsN3YwNjF5d0s0eHo4WjVQOFZhcDFjQ3VvVjdQVlVaSy1xVW85RlFScHE0WUprREhYT2c1V3F4T3pSc3JmRURUQkhjVW9VMg?oc=5",
+          "description": "El estado de Ignacio Ruglio sobre el penal a favor de Albion en el empate con Deportivo Maldonado &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-11T02:24:34+00:00",
+          "score": 2,
+          "score_reason": "Neutral, solo anuncia declaración sin incluir contenido polémico",
+          "score_pct": 20
+        },
         {
           "source_id": "montevideoportal",
           "source_name": "Montevideo Portal",
@@ -263,92 +95,26 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Peñarol: “Hoy por hoy soy candidato”, dijo Damiani, y habló de posible fórmula con Barrera",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ3JkaU80VDFTUEp2b2lsSlZjNFhScHJKSHlDWjlYVUNuWlktQkpSM3M0T3ZwdFd5Y0FaOHBYdXpZSnRCMFRQU3NxNlItSWhISWI2OG54QmhlSE5rWkxQa1NzWjFnSjlRR0pkdnhfZng4MC1QdElFSW43bkhnWUk2Zks0ZFlvbl9TbWxvY2RUeU9UY0VEb0xFQ0JOVWsxanhxbmNKMWtRSnJYc2U4WVRsUFN1NlBscmJIZmRWeXYyckFGWS00ZmRUTFl3YTE2UHR10gH0AUFVX3lxTE9kTWh3WTJUY19xM0dEcm1KaFZsMTlfcDd6ZTdiUW9UX3pWNllZZ0k1eE9ReW9xdnZFbndyaWxCcTJHaVFmaWViUmNETEQyYTBmU0oybXpkTTRRVUp1dzJpREZqTGtpbXNTUnFkWUt5Rm5pUWJMaUdGQ3BKNVN1UjYtMm11M2JZZVhZdzl1aGhUbTZoUFJTUmtCZFd0X2dob1JZOHBQZTZ2YTRSRnZtTFh2TlhxZFdva0R2OVVRZVd2QXJKNFJNX0RBazQzbHoxdlNtbGhFRFFKeDVZZGRnTGNEN0tBRkx1MU1LZzN1TFF0bTdYdl8?oc=5",
-          "description": "Peñarol: “Hoy por hoy soy candidato”, dijo Damiani, y habló de posible fórmula con Barrera &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-10T14:45:00+00:00",
-          "score": 2,
-          "score_reason": "Usa comillas textuales y presenta datos concretos sin valoración",
-          "score_pct": 20
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Juan Pedro Damiani confirmó que será candidato a la presidencia de Peñarol: vuelve Damiani",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOWx3SHU0aWpGay13Y2h0b2MwNFZXMU5DN0tmNnpWU1VNcnEyRFF5ZHRJa1J4N2xob3F1aTNtYTQ1V3NfcHJPeHdIOFU3aFhXSGt1TGh3MWRDUGFzV2EtNGlrU1U0NC1hV0hPcEhHMFBDeGozcnRwcFpRaU5BclhvT3FuaTJsT2d4ZVFGc1dTVkVIRTU1bFZyNWh6THdqbjJBeHlWWlhidE9nbWw3bHJuS2tJb0xIQlFfcE81VTdaYnpCZFp0Q1BWUnQ0Tlk?oc=5",
-          "description": "Juan Pedro Damiani confirmó que será candidato a la presidencia de Peñarol: vuelve Damiani &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-07-10T12:26:23+00:00",
-          "score": 3,
-          "score_reason": "Agrega dramatismo con 'vuelve Damiani', enfatizando el retorno",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Juan Pedro Damiani confirmó su candidatura a la presidencia del Club Atlético Peñarol. El dirigente afirmó que 'hoy por hoy' es candidato para las próximas elecciones del club. Damiani también mencionó la posibilidad de conformar una fórmula electoral junto a Gastón Barrera. Esta confirmación marca el retorno de Damiani a la competencia electoral en Peñarol, institución que ya presidió anteriormente. La noticia surge en el marco del proceso electoral que enfrenta el club aurinegro para definir sus nuevas autoridades.",
-        "coincidencias": [
-          "Juan Pedro Damiani confirmó su candidatura a la presidencia de Peñarol",
-          "Damiani manifestó públicamente su intención de competir electoralmente",
-          "La noticia se refiere a las elecciones del Club Atlético Peñarol"
-        ],
-        "diferencias": [
-          "Montevideo Portal destaca la posible fórmula con Barrera como información central",
-          "El Espectador enfatiza el regreso de Damiani con tono más narrativo",
-          "Montevideo Portal usa cita textual; El Espectador reformula el mensaje"
-        ]
-      }
-    },
-    {
-      "id": "story_006",
-      "topic": "Asesinato múltiple de familia vinculada a narcotráfico",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "\"Yo lo advertí\", dijo Karina Suárez, integrante de la familia asesinada este viernes en El Monarca",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLXA2aDA4dmJmSnIzaFloaDJkTzlxVnVHZHdhNUtRbjV3eEZHczYwYnotcWpRQlhRMi1MU3VWb1R3OHJqQnZERUdjNkh6TlJnRzlPMFFPM2JqMlp2bjN6UHo5alVXWDgzZHk2SWNWbjBRTkZlbUZ3c0tLeGpNcU5VYV9RZ3lNbUlTNjlBeDdqTmU2V3puUzZtU0lDZXFGMV9uaHBaUXlITG5FaTRRQ3pCc0lBU3gtelh6cThtTkthTFFMdTdK0gHKAUFVX3lxTFB6QWVSTGloeHltdnZuYVJnb3NlYVVOVkhuWXdpVWs1NnR4V2h6QUNXdXdjd0NCWTh3QjB4ZmlvVzNrX3MyQl9UckdkYVQxMFhjV1BHaGhNMHFocWlfQzMwTHVTOHd3eEExM2pKUDZPeUt3RzVJWmtvR0c0aE9FOENlMjlhUmtrb3Y5Z1hqUVF5QVl6eHplX0JsV1Y0cWRFTXRGUS1ocm1vdGJPeXJmNFJSa2VWNENUWGpzTE83bWVxcUVpeGJKWWNscnc?oc=5",
-          "description": "\"Yo lo advertí\", dijo Karina Suárez, integrante de la familia asesinada este viernes en El Monarca &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-10T21:19:00+00:00",
-          "score": 4,
-          "score_reason": "Enfatiza testimonio dramático con cita directa entre comillas",
-          "score_pct": 40
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "La historia del clan los Suárez, la banda narco de la que formaban parte las víctimas de El Monarca",
-          "url": "https://www.teledoce.com/telemundo/policiales/la-historia-del-clan-los-suarez-la-banda-narco-de-la-que-formaban-parte-las-victimas-de-el-monarca/",
-          "description": "Horas antes del crimen múltiple de este viernes los fallecidos fueron advertidos que los matarían a todos, algo que finalmente se concretó. La entrada La historia del clan los Suárez, la banda narco de la que formaban parte las víctimas de El Monarca se publicó primero en Teledoce.com .",
-          "pub_date": "2026-07-10T20:23:06+00:00",
+          "title": "“Siempre a favor de los mismos”: Ruglio contra jueces por penal para Albion en Maldonado",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYkc1NFVFYTI0LVhwMTlsRXlUM09sOXd6S3RSQzBrU3Q4T0tTcnZxUHhDcG1hQlplR29kanpNcjR2RXF6ekxMbXJOcmZxS0pBbk54WHpIeEtOUUNjandGV3o4dHBjSWMyaUFLeFBGOC10d2xaWDV2eTRqalcyV3FQMHNNUWk3bVUtVTlRbkduX1RJdjNDY01KZUp5elliaDBqSUFJaHVHcTJ6YmJ3MWR0eldlVExDbk5BQUpEanRlelpSMkNaQkJ3RTc3YTE0b05M?oc=5",
+          "description": "“Siempre a favor de los mismos”: Ruglio contra jueces por penal para Albion en Maldonado &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-11T13:20:00+00:00",
           "score": 6,
-          "score_reason": "Usa términos cargados como 'clan' y 'banda narco'",
+          "score_reason": "Destaca frase polémica entrecomillada, enfatiza acusación contra árbitros",
           "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "El viernes se produjo un asesinato múltiple en la zona de El Monarca, donde fueron asesinadas varias personas de la familia Suárez. Según declaraciones de Karina Suárez, integrante de la familia, ella había advertido sobre la amenaza. Horas antes del crimen, las víctimas fueron notificadas que serían asesinadas. Las personas fallecidas formaban parte del clan los Suárez, identificado como una banda vinculada al narcotráfico. El hecho se enmarca en un conflicto relacionado con actividades delictivas.",
+        "resumen": "Ignacio Ruglio, dirigente de Deportivo Maldonado, cuestionó públicamente el arbitraje tras el empate de su equipo contra Albion. El directivo manifestó su disconformidad con un penal cobrado a favor de Albion durante el partido disputado en Maldonado. Ruglio realizó declaraciones señalando que las decisiones arbitrales favorecen siempre a los mismos equipos. El encuentro finalizó en empate entre ambos clubes del fútbol uruguayo. Las declaraciones del dirigente generaron repercusión en medios deportivos nacionales.",
         "coincidencias": [
-          "Asesinato múltiple de miembros de la familia Suárez en El Monarca",
-          "Las víctimas fueron advertidas previamente sobre la amenaza",
-          "Vinculación de las víctimas con actividades de narcotráfico"
+          "Ignacio Ruglio realizó declaraciones sobre el arbitraje",
+          "El partido fue entre Albion y Deportivo Maldonado",
+          "Se cobró un penal a favor de Albion"
         ],
         "diferencias": [
-          "Subrayado enfoca en el testimonio de Karina Suárez y su advertencia previa",
-          "Teledoce contextualiza el caso como parte de la historia criminal del clan",
-          "Teledoce enfatiza la identidad delictiva de las víctimas más que Subrayado"
+          "El País omite el contenido polémico de las declaraciones de Ruglio",
+          "Montevideo Portal destaca la acusación de favoritismo arbitral en el título",
+          "El País usa lenguaje aséptico mientras Montevideo Portal enfatiza la controversia"
         ]
       }
     }
