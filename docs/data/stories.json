@@ -1,25 +1,75 @@
 {
-  "generated_at": "2026-07-12T11:14:48.555546",
+  "generated_at": "2026-07-13T12:35:09.905283",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Empate 1-1 entre Deportivo Maldonado y Albion",
+      "topic": "Peñarol y Racing empataron 1-1 en Centenario",
       "category": "Deportes",
-      "sources_count": 3,
+      "sources_count": 2,
       "headlines": [
         {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Deportivo Maldonado 1-1 Albion: empate en el Campus con gol en contra de Jaume y López de penal",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcWp3elRpVWZQdjItMW16UFk1NVBTQXBJdUJGdHRzbkM1ekJKM1BIcFhsZi03aWowSkExaUhSVG5Ea0hjOE5nQTZOVm5EbTlRUndEaDBpRG80Y19YSDRJRnduXy0xSHNvVjZIcTNkNnRJc3ZobFc4SWN0V3pRMTFCanJZX3J4YkpoRGRoQ3FIczZQUlhST0RJZlRmT2tKMVVoYzkzdU8xTXpyRTl3LWM3Y20wbmVoUHJ4eW1PYkd4aGlGcGVqZDBjU3VBMTJ6QTVhaVBhYzFhRHVDNFU?oc=5",
-          "description": "Deportivo Maldonado 1-1 Albion: empate en el Campus con gol en contra de Jaume y López de penal &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-07-11T01:04:27+00:00",
+          "source_url": "https://www.espectador.com",
+          "title": "Peñarol y Racing igualaron 1-1 y el aurinegro lidera su serie | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVGJjWGNOTlZOSjV1NVRDMWFKajFUUWFDa2JNRVprdlQwMHNzS3pWSmYtWHhiTmlvZmxSY1pWV0tScFFQTDhpWm9tRjQ5MldnYy05S0ZPTUFtTlFEX3hUeXE2WEMzbDl0UUJ3UjdCLXFlQ29GdjRUdVlTNk5UVkR5UTlHYnNoSWh3VnVaZlZKalVNWVlxdHRJdk81bmNGWkFTa3d3Uk1rYkY5MXJM?oc=5",
+          "description": "Peñarol y Racing igualaron 1-1 y el aurinegro lidera su serie | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-07-12T23:38:05+00:00",
           "score": 1,
-          "score_reason": "Descripción factual del resultado y los goles sin valoraciones",
+          "score_reason": "Informativo y objetivo, menciona resultado y situación de serie",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Intermedio: Racing y Peñarol igualaron 1-1 en un discreto partido en el Estadio Centenario",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDNyUW15dmIyTjRncmVBMEpXbXdxMDY5ZGhmZzVMYTYwczEzbnhKUGhDaE5JalRjT2dXSjR0TEtNZ3FjNjlNcXg4TEtPNnd2Sm1aWFBMSjJFUzJJYmhaV2RIRHNleEI0dHd0WE5GZkhZSjN0cWl5d1BMX0Fnd1lsT1BUa0tBS0Itb0RiWXBtMUNQRzZ6bHhrdExaX29sUHRGNVVoSFpacGZ3NnZRRl9iMWNVeHg5S2ROaVBsYjYwWHNFeVEzTVlmSmkyVlBFSEVSMDlr?oc=5",
+          "description": "Intermedio: Racing y Peñarol igualaron 1-1 en un discreto partido en el Estadio Centenario &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-12T23:26:00+00:00",
+          "score": 4,
+          "score_reason": "Califica el partido como 'discreto', agregando valoración subjetiva",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "Peñarol y Racing Club de Montevideo empataron 1-1 en un partido disputado en el Estadio Centenario. El resultado permite que el equipo aurinegro mantenga el liderazgo en la serie entre ambos equipos. El encuentro se desarrolló ante la presencia de público en el escenario capitalino. Ambos equipos anotaron un gol durante el transcurso del partido, sin que ninguno lograra imponerse definitivamente. Con este empate, Peñarol conserva su ventaja en la tabla de posiciones de la serie correspondiente al torneo uruguayo de fútbol.",
+        "coincidencias": [
+          "El resultado final fue empate 1-1",
+          "El partido se jugó en el Estadio Centenario",
+          "Peñarol lidera la serie tras el encuentro"
+        ],
+        "diferencias": [
+          "Montevideo Portal califica el partido como 'discreto', mientras El Espectador se limita a informar",
+          "El Espectador enfatiza el liderazgo de Peñarol en la serie, Montevideo Portal se centra en la calidad del juego"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Resultados deportivos Uruguay: rugby y fútbol",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Rugby: Uruguay perdió con España por el Mundial U20 y jugará por el penúltimo puesto",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSENTT2wwdUF5VTdrYWtMSjlFTHRyU3B5X3N2dFNLSnB6anRhMXJHZW9HUm1xVHJUbWR5ZGhPMmZSQ2J2WjJXOUxHUUFTRXI5UlNrbUNtcFI0WjJEbWlYLWZYeE0zelFMVHl5Mm5IVWdobjVKQVU5NV84MHI0bUxJbTJUWmtJU3lMYWpUcV84d0ttWC1VaGFBTDBrQ29pQUJmTG9wRGhkWUVNaFdKYW02YldrUi1CQmRfYnJaNHZNRVBHbmhlWDNnN25kTdIB7wFBVV95cUxNeFZNTnhzb1JTYVlyczdkZXpfRUNLQlFra1JjZ0VMbjFqNzVXaDlWSllzVTI3TEpFeUR4S2gxRENXaGFiemlET2FGQnUycXpsNERQLXM3SXU4UVZyY0s3aXk2QktwX1JUd3RMQUpHdWxPRS15ZExVN0N6LU9DbGZ4RTB2SU5yVzJmeWFnNkU2ck9HdjJaOXZLMlYwVk5hZ0xuY0dGdUlPWHFFeU85cnNLRWF2TmJFUWUzZm0tYU1EMHh4TVVHSUNDV1ZZdWxoWmdFMkZuOE9BVUgyS1EzV2EtV0RJVjhqelRwd3Znc1htRQ?oc=5",
+          "description": "Rugby: Uruguay perdió con España por el Mundial U20 y jugará por el penúltimo puesto &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-12T18:47:00+00:00",
+          "score": 1,
+          "score_reason": "Informativo y neutral, describe el resultado sin carga emocional",
           "score_pct": 10
         },
         {
@@ -29,92 +79,25 @@
           "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.espectador.com",
-          "title": "En un partido con polémica Albion empató 1-1 de visita ante Deportivo Maldonado | Noticias | Futbol Uruguayo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRF8tTVNITW5wTUJuZTY0dlNiU3YzNGFRNExIU05qUWpzX0lLQUE3Nk1Ja1BPaXQ4RGlFa0R1WXVOVndCaElqTnAtcV9COFMxSkM4WWFEMUNpSV8xM3JQc3hHcTBoeUdIQllkREVLcWYtckdmVGVQaUFlZ0RzOFI0UEhGQnFQS2h1elJTN2Nnb05uZFNwdXBBZ3g5NGZqMXZXNzZaTFlHb2JzVURHaTBrdTFGZ1lsMDRrYTNENjZSN1lSN3p3?oc=5",
-          "description": "En un partido con polémica Albion empató 1-1 de visita ante Deportivo Maldonado | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-07-11T13:07:43+00:00",
-          "score": 3,
-          "score_reason": "Menciona polémica pero sin tomar partido sobre el afectado",
-          "score_pct": 30
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Intermedio: Albion rescató un 1-1 de visita ante Deportivo Maldonado, que fue perjudicado",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbnNENkVGNHhFV29odW5FdlZDcHNHeFY2MU5lNzlRb0Jpb0xRU3JWdllUUkpZWVJJeWZGLUVlY05Qcm5DZGVnU2drMDdSM3Z6Zmh1Y3J1U3FrdV9TdjF3VTBWcm93ZE9jbFB1Umk4MjVna05scExKTUFMLUxZZUs3WkdfMEtpT3FvdFhOR2QtQzNxbjAteC1Ta1lSSktFTndNeTN3MVZsSHVCVV9RMHJKa1BfV1JQVU5PT2NLd3l1Zk1KOE5rSnQ5YlJ0OXUyQzdz?oc=5",
-          "description": "Intermedio: Albion rescató un 1-1 de visita ante Deportivo Maldonado, que fue perjudicado &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-11T00:00:00+00:00",
-          "score": 4,
-          "score_reason": "Usa 'rescató' y afirma que Deportivo fue perjudicado explícitamente",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Deportivo Maldonado y Albion empataron 1-1 en el Campus de Maldonado por el Torneo Intermedio. El local abrió el marcador con un gol en contra de Jaume. Albion igualó mediante un penal ejecutado por López. El partido tuvo situaciones polémicas vinculadas al arbitraje que habrían perjudicado al equipo local. El resultado permite a Albion sumar un punto como visitante, mientras Deportivo Maldonado rescató la igualdad en casa pese a las controversias arbitrales señaladas por diversos medios.",
-        "coincidencias": [
-          "El resultado final fue empate 1-1",
-          "El partido se jugó en el Campus de Maldonado",
-          "Hubo situaciones controvertidas durante el encuentro"
-        ],
-        "diferencias": [
-          "El País se centra en los autores de los goles sin mencionar polémicas",
-          "Montevideo Portal señala explícitamente que Deportivo Maldonado fue perjudicado",
-          "El Espectador destaca la polémica sin especificar qué equipo se vio afectado"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Ruglio critica arbitraje por penal a Albion",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "El estado de Ignacio Ruglio sobre el penal a favor de Albion en el empate con Deportivo Maldonado",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQTdOaHEwNmNSOFlJdEh1TDJLdTBGY292R2pzYjR2YmlYUnZOVU5zbUV3R3ZPQVNOcFUwSm5qaGFXbzk1V0F6SUxJNkkxTzlNdWZPZXY3WnRpMzhQYmpzVTM0Vm5jSjRqSUowb0N5WjNiSUdTd0loOWs0VmdNQVdMVndSdXQ2dmJobHhjZjdsN3YwNjF5d0s0eHo4WjVQOFZhcDFjQ3VvVjdQVlVaSy1xVW85RlFScHE0WUprREhYT2c1V3F4T3pSc3JmRURUQkhjVW9VMg?oc=5",
-          "description": "El estado de Ignacio Ruglio sobre el penal a favor de Albion en el empate con Deportivo Maldonado &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-07-11T02:24:34+00:00",
+          "title": "Cerro venció 2-1 a Liverpool y encendió la lucha por el descenso | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQektNVDJMbUtLaHBUdERwa2hWUVBmamEwNVUtYm91cGgwck4yZDJmU0xkYlVyVjdjY3ozWVItd3lCQkVhUm5xUEdOejRxOTJqWGZKcFMxeE5pbS0yVGxiejQ1bWtnVUlOcnpGT2ZPaTdfanlUZkxIdnZscWREbXJWOUVROUFPb25wenVBOUJDTDVyeTRvV0dzc0hrNElFUEtsc2JON0s1MW5rRU55YWM3bg?oc=5",
+          "description": "Cerro venció 2-1 a Liverpool y encendió la lucha por el descenso | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-07-12T17:11:33+00:00",
           "score": 2,
-          "score_reason": "Neutral, solo anuncia declaración sin incluir contenido polémico",
+          "score_reason": "Objetivo, con ligero énfasis dramático al mencionar que encendió lucha",
           "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Siempre a favor de los mismos”: Ruglio contra jueces por penal para Albion en Maldonado",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYkc1NFVFYTI0LVhwMTlsRXlUM09sOXd6S3RSQzBrU3Q4T0tTcnZxUHhDcG1hQlplR29kanpNcjR2RXF6ekxMbXJOcmZxS0pBbk54WHpIeEtOUUNjandGV3o4dHBjSWMyaUFLeFBGOC10d2xaWDV2eTRqalcyV3FQMHNNUWk3bVUtVTlRbkduX1RJdjNDY01KZUp5elliaDBqSUFJaHVHcTJ6YmJ3MWR0eldlVExDbk5BQUpEanRlelpSMkNaQkJ3RTc3YTE0b05M?oc=5",
-          "description": "“Siempre a favor de los mismos”: Ruglio contra jueces por penal para Albion en Maldonado &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-11T13:20:00+00:00",
-          "score": 6,
-          "score_reason": "Destaca frase polémica entrecomillada, enfatiza acusación contra árbitros",
-          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Ignacio Ruglio, dirigente de Deportivo Maldonado, cuestionó públicamente el arbitraje tras el empate de su equipo contra Albion. El directivo manifestó su disconformidad con un penal cobrado a favor de Albion durante el partido disputado en Maldonado. Ruglio realizó declaraciones señalando que las decisiones arbitrales favorecen siempre a los mismos equipos. El encuentro finalizó en empate entre ambos clubes del fútbol uruguayo. Las declaraciones del dirigente generaron repercusión en medios deportivos nacionales.",
+        "resumen": "La selección uruguaya de rugby sub-20 perdió su partido ante España en el Mundial de la categoría y disputará el partido por el penúltimo puesto del torneo. Por otra parte, en el fútbol uruguayo, Cerro venció 2-1 a Liverpool en un partido correspondiente al campeonato local. Este resultado tiene implicancias en la zona baja de la tabla de posiciones, donde se define el descenso a la segunda división del fútbol uruguayo.",
         "coincidencias": [
-          "Ignacio Ruglio realizó declaraciones sobre el arbitraje",
-          "El partido fue entre Albion y Deportivo Maldonado",
-          "Se cobró un penal a favor de Albion"
+          "Ambos refieren a resultados deportivos de equipos uruguayos",
+          "Informan desenlaces de partidos ya finalizados"
         ],
         "diferencias": [
-          "El País omite el contenido polémico de las declaraciones de Ruglio",
-          "Montevideo Portal destaca la acusación de favoritismo arbitral en el título",
-          "El País usa lenguaje aséptico mientras Montevideo Portal enfatiza la controversia"
+          "Montevideo Portal se enfoca en rugby internacional juvenil, El Espectador en fútbol local",
+          "Un medio destaca posición final en torneo, otro las consecuencias en tabla de descenso",
+          "Diferentes deportes y competencias cubiertas por cada medio"
         ]
       }
     }
