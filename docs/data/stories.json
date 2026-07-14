@@ -1,9 +1,126 @@
 {
-  "generated_at": "2026-07-13T12:35:09.905283",
+  "generated_at": "2026-07-14T11:28:24.671316",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Peñarol y Racing empataron 1-1 en Centenario",
+      "topic": "BTG Pactual compró HSBC Uruguay por US$ 211 millones",
+      "category": "Economía",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "BTG Pactual cerró la compra de HSBC Uruguay por US$ 211 millones tras recibir el aval del BCU",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSDlBWHI5anBWYWJxT0JlV1NoRlpBY0Z3NGVTV0VrcmpPR0RQWWh4Y2xqS0ZrNENQMGFwdGIzdnNTWi0xRll3VUV6a3ZJLXZySE9DYmdBQlUwVnVXazNVTk5jMW1MUUZnN2szLUJPbmtwZy1xT0hrRmYyclpjeTJOSVhnTEdKMHZocVEtSkZETE5PM20wbmswSmtMczgyZUNUdUo4LVRaQVlhcGZkV0dVODFpX0wwcWZWXzB5ZmhWNUpFY0NkTXRnZkJxQkItZWF4T1E?oc=5",
+          "description": "BTG Pactual cerró la compra de HSBC Uruguay por US$ 211 millones tras recibir el aval del BCU &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-13T16:03:20+00:00",
+          "score": 1,
+          "score_reason": "Factual, menciona precio, autorización del BCU sin carga emocional",
+          "score_pct": 10
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "BTG Pactual completó la compra de HSBC por US$ 211 millones e inicia operaciones en Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOejB1WlR4TF9ZczRuaFV3UlI4S0pZWlNvYnRua0RVOUpjZE94X3VnRmQ5alF6Y1g5VVhxdjJIOGFJeW1fRmxkZXZOSFp6VmUxSHF4OEVCMllqbEg4RGNRVm90SkJZZ3lseG5ldlJoeHZmdlg2LXFiTF9JNUs2akNha3pMNXRMTTVUQndWYkFyZjZFNU00MTJQeHIwa2Rjd1cxbTd5SzRVRmFIZEstZVpBOVhNcFVwd0oyM3N2ZGpLUkhveXRPb2NXNHBaT1MyS1VkQ3RjNDlkTU7SAd4BQVVfeXFMTzcwTXN4Vmd0TkpFZ2VfVm43SHQ1UG15VzBLME90bEloZUR1bHp4SU9oc3RFUlM4WENjNVQ2VF9VUE5nSWs2VEJBV1F6U1N1ckxicEJJRV9fWlJjd3A3MmkyX3F5ZzFWMkJDRnNISkNwcUROdGpCOWQ2dWRQVWxUYUVDSVp6OU1aay1yX1BhTE1yb25Fc2RjR1AzaE91SzBRRDhBWnFGcVh3ODNtVUtmb2x4MVlOc1ktYlRZSm1Rc3Zkd2MweTU4M29nQkJQdEJpWFB4R01GQ3ZuMEdIOEV3?oc=5",
+          "description": "BTG Pactual completó la compra de HSBC por US$ 211 millones e inicia operaciones en Uruguay &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-07-13T16:37:00+00:00",
+          "score": 1,
+          "score_reason": "Informativo, incluye precio y fecha de inicio sin sesgo",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "BTG Pactual concretó la compra de HSBC y opera en Uruguay desde el viernes",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHRmLXd5QmtaMzlNa2FkWmQwZ2dWSm8ycWdGaFJwRlZoZUVQUUs1djM4bXlwZ0lqUzk5ZTBYQ2J6VENNZHc0QUpZUzd3RE9PRHpuMW9MU3ZvelBzSlhVODUzcUN0eFhhbDZjdW9jQzFNazRhbE9famtlRG9oWVVUSXFuTmxPTGdrU1FadS1JT1E2N2ItSjlpUEtwSzF1VzZuLVHSAacBQVVfeXFMUHJhRzRJdjhiNVpya1J0Wks4UVQtbmZUM3hENjRXenVkMnlpY09kRmxKS09SZG1UTV9yQmFKTzJYdHFuWEQ1T2c3WHZfakQxRURpTXhWb2tqMTNVdGdhYjlucXlleXdWdFdRZlJ0OWF5elRSUHVMUXM4OExiQmEyUFRrQWoxdWF6Mi1lMG9wcVg1SngxWkhMQ2M2VlB5d3JNZ0h3d1d5a3M?oc=5",
+          "description": "BTG Pactual concretó la compra de HSBC y opera en Uruguay desde el viernes &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-13T17:35:16+00:00",
+          "score": 1,
+          "score_reason": "Neutral, reporta hecho consumado con referencia temporal precisa",
+          "score_pct": 10
+        }
+      ],
+      "analysis": {
+        "resumen": "BTG Pactual completó la adquisición de HSBC Uruguay por US$ 211 millones tras recibir la autorización del Banco Central del Uruguay (BCU). La operación fue cerrada y el banco brasileño inició formalmente sus operaciones en el país desde el viernes. Con esta compra, BTG Pactual ingresa al mercado bancario uruguayo mediante la adquisición de la totalidad de las operaciones locales de HSBC. La transacción había sido anunciada previamente y estaba sujeta a la aprobación regulatoria correspondiente, que fue otorgada por la autoridad monetaria nacional.",
+        "coincidencias": [
+          "BTG Pactual completó la compra de HSBC Uruguay",
+          "El monto de la operación fue US$ 211 millones",
+          "El banco inició operaciones en Uruguay"
+        ],
+        "diferencias": [
+          "El País enfatiza la autorización del BCU como hito clave",
+          "El Observador destaca el inicio de operaciones en Uruguay",
+          "Subrayado especifica el día preciso (viernes) del inicio operativo"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Amazonas FC despide a Leo Coelho con video de errores",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Amazonas de Brasil anunció la salida de Léo Coelho y publicó un compilado de sus errores",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLU9LRWUxWHJkNU9SbDRZV2dhVGU1T0lNUkR4WjUtSmpHN19oOURGZVpBNjhuWnVrempadl9pc2UxeGJLc0E3Y0paQnJ6MHRSWEc1YVhmTUpXb2psMXQ1NTVmRDJVMl83V1JRVmt5ZmN1WU5Sem9abjhGQVNjN09xWGlOSGpLTWZUbGhERHkzS1pnME9wX1RpSzhhS3lNeW43OWxCM3hqNG55al9pUUJmY3hlVUk1Q3RoZXRVTTlMdkhudnNPY3N4VVY0dmFLbHdzQUHSAfYBQVVfeXFMUHc1UHNERWFVNy1HM3lQcVB3aW9Jay1HYWxhN3oyTDdaNVR5SlkxNTR0WjNOY01QckFYS1dseHU0R2JUMnNKWkptMU1MMlBjQjcxN2ludl9obFNTaGdnTU1nU3Z2Q2VvZURGbFZka1hLd0k1Qm9RVE5sUXJISVhMUkRvX3NVMkFldDFxU183dTVZbnNGQnExMW8yMVdPV1RJZkF2S1FMdEwyMU1UTEFQNDJodmpzY1FMM3p4cjVtalA1Y0g5cUhDbzNyekJfZVpLbVk3MmRMVWFuQzFkNHlZRXJmX1JoME5uR2czWGJsMUItclU0c1VR?oc=5",
+          "description": "Amazonas de Brasil anunció la salida de Léo Coelho y publicó un compilado de sus errores &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-13T03:17:00+00:00",
+          "score": 3,
+          "score_reason": "Informativo y neutral, describe los hechos sin calificativos emocionales",
+          "score_pct": 30
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Amazonas FC se despidió de Leo Coelho con un insólito posteo que recopila sus errores: mirá el video",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSmxCeTQzakNwUVVRTzQydHhoRWlWeWVxTHBoU3piY3FKTHRNNi1qSGpld3pONmszc2xqVmgwMjByR2RZTkV3cHlBcnZWLVVyZlMzZnNnYUphaWlBX3pybDdWbWwzd3cxWDVIVl9VbVJsVFpQVW0tWEZDcnhGSllCUU5xWmoxaGwxa0FHV1lnaUg4aFFkZ3NOSFUydHVaOWFJaDRPc3dJOGxzR1lfMUptSFZSS0EyVzJmaEpjNzZJRElSdnpQZGt1NWNDdVNEVUFyR1d6Q3FxdDhLZw?oc=5",
+          "description": "Amazonas FC se despidió de Leo Coelho con un insólito posteo que recopila sus errores: mirá el video &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-13T14:44:21+00:00",
+          "score": 6,
+          "score_reason": "Usa 'insólito' y apela a emociones con 'mirá el video'",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "El club brasileño Amazonas FC anunció la salida del futbolista uruguayo Leo Coelho de su plantilla. La institución publicó en sus redes sociales un video de despedida que incluye una recopilación de errores cometidos por el jugador durante su paso por el equipo. La publicación generó repercusión por la forma poco habitual de despedir a un jugador, ya que tradicionalmente los clubes utilizan imágenes destacadas o mensajes de agradecimiento. Coelho había jugado en el club de Manaos, que compite en el Campeonato Brasileño de la Serie B.",
+        "coincidencias": [
+          "Amazonas FC anunció la salida de Leo Coelho",
+          "El club publicó un video compilado de errores del jugador",
+          "La forma de despedida fue poco convencional"
+        ],
+        "diferencias": [
+          "El País califica el posteo como 'insólito', Montevideo Portal es descriptivo",
+          "El País invita directamente a ver el video, Montevideo Portal solo informa",
+          "El País enfatiza el aspecto sensacional, Montevideo Portal prioriza la información factual"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Peñarol empató 1-1 con Racing en Copa",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
@@ -19,7 +136,7 @@
           "description": "Peñarol y Racing igualaron 1-1 y el aurinegro lidera su serie | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
           "pub_date": "2026-07-12T23:38:05+00:00",
           "score": 1,
-          "score_reason": "Informativo y objetivo, menciona resultado y situación de serie",
+          "score_reason": "Puramente informativo, presenta resultado y situación de la serie",
           "score_pct": 10
         },
         {
@@ -29,75 +146,26 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Intermedio: Racing y Peñarol igualaron 1-1 en un discreto partido en el Estadio Centenario",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDNyUW15dmIyTjRncmVBMEpXbXdxMDY5ZGhmZzVMYTYwczEzbnhKUGhDaE5JalRjT2dXSjR0TEtNZ3FjNjlNcXg4TEtPNnd2Sm1aWFBMSjJFUzJJYmhaV2RIRHNleEI0dHd0WE5GZkhZSjN0cWl5d1BMX0Fnd1lsT1BUa0tBS0Itb0RiWXBtMUNQRzZ6bHhrdExaX29sUHRGNVVoSFpacGZ3NnZRRl9iMWNVeHg5S2ROaVBsYjYwWHNFeVEzTVlmSmkyVlBFSEVSMDlr?oc=5",
-          "description": "Intermedio: Racing y Peñarol igualaron 1-1 en un discreto partido en el Estadio Centenario &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-12T23:26:00+00:00",
-          "score": 4,
-          "score_reason": "Califica el partido como 'discreto', agregando valoración subjetiva",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Peñarol y Racing Club de Montevideo empataron 1-1 en un partido disputado en el Estadio Centenario. El resultado permite que el equipo aurinegro mantenga el liderazgo en la serie entre ambos equipos. El encuentro se desarrolló ante la presencia de público en el escenario capitalino. Ambos equipos anotaron un gol durante el transcurso del partido, sin que ninguno lograra imponerse definitivamente. Con este empate, Peñarol conserva su ventaja en la tabla de posiciones de la serie correspondiente al torneo uruguayo de fútbol.",
-        "coincidencias": [
-          "El resultado final fue empate 1-1",
-          "El partido se jugó en el Estadio Centenario",
-          "Peñarol lidera la serie tras el encuentro"
-        ],
-        "diferencias": [
-          "Montevideo Portal califica el partido como 'discreto', mientras El Espectador se limita a informar",
-          "El Espectador enfatiza el liderazgo de Peñarol en la serie, Montevideo Portal se centra en la calidad del juego"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Resultados deportivos Uruguay: rugby y fútbol",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Rugby: Uruguay perdió con España por el Mundial U20 y jugará por el penúltimo puesto",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSENTT2wwdUF5VTdrYWtMSjlFTHRyU3B5X3N2dFNLSnB6anRhMXJHZW9HUm1xVHJUbWR5ZGhPMmZSQ2J2WjJXOUxHUUFTRXI5UlNrbUNtcFI0WjJEbWlYLWZYeE0zelFMVHl5Mm5IVWdobjVKQVU5NV84MHI0bUxJbTJUWmtJU3lMYWpUcV84d0ttWC1VaGFBTDBrQ29pQUJmTG9wRGhkWUVNaFdKYW02YldrUi1CQmRfYnJaNHZNRVBHbmhlWDNnN25kTdIB7wFBVV95cUxNeFZNTnhzb1JTYVlyczdkZXpfRUNLQlFra1JjZ0VMbjFqNzVXaDlWSllzVTI3TEpFeUR4S2gxRENXaGFiemlET2FGQnUycXpsNERQLXM3SXU4UVZyY0s3aXk2QktwX1JUd3RMQUpHdWxPRS15ZExVN0N6LU9DbGZ4RTB2SU5yVzJmeWFnNkU2ck9HdjJaOXZLMlYwVk5hZ0xuY0dGdUlPWHFFeU85cnNLRWF2TmJFUWUzZm0tYU1EMHh4TVVHSUNDV1ZZdWxoWmdFMkZuOE9BVUgyS1EzV2EtV0RJVjhqelRwd3Znc1htRQ?oc=5",
-          "description": "Rugby: Uruguay perdió con España por el Mundial U20 y jugará por el penúltimo puesto &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-12T18:47:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo y neutral, describe el resultado sin carga emocional",
-          "score_pct": 10
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Cerro venció 2-1 a Liverpool y encendió la lucha por el descenso | Noticias | Futbol Uruguayo",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQektNVDJMbUtLaHBUdERwa2hWUVBmamEwNVUtYm91cGgwck4yZDJmU0xkYlVyVjdjY3ozWVItd3lCQkVhUm5xUEdOejRxOTJqWGZKcFMxeE5pbS0yVGxiejQ1bWtnVUlOcnpGT2ZPaTdfanlUZkxIdnZscWREbXJWOUVROUFPb25wenVBOUJDTDVyeTRvV0dzc0hrNElFUEtsc2JON0s1MW5rRU55YWM3bg?oc=5",
-          "description": "Cerro venció 2-1 a Liverpool y encendió la lucha por el descenso | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-07-12T17:11:33+00:00",
+          "title": "Aguirre, el 1-1 de Peñarol con Racing y lo que cambió: “Vamos a verlo en unos partidos”",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTW1mcmNWeThtNUVnSDVGaWJxVWFMcVRvc3BpUjJMSjhYWDRmMnNfOEsta2tpaGtBZ0NlN0JGSzJ2dlR4dDVCVUJmc2pEVG5wbnJMMVdGcVl5SXFhOXlYQi1uSUFKNld1dXJvT2VhdXE4X00zQ2Rwam1acWlyVk51N2hBN18tcnpkVmJ3SVUtM2plTkNjcm5JaDQ5Z09pZk9iZXhhV20xVERPdHVURlBVT1NKWHVZa1VFY09mRDJIVjFnSGZHV3ozS2xNQ3Jid9IB8gFBVV95cUxOdG0tQzlzLUx1NWpGSGxMSU9rU00ydzF5d2hsaVM5S3RwcTFwM3lZWi0wOWFmLWVNMVM0dF8yNE5xVk1Lcm5nUDFBZTNGSG5kZGVJN2paTWM2U2U3OE1EbzRLenZnR2MySE9hRnZfdjF0LUR5NjFTOHVhZzZnRnE4c2lqNkF1OWZfZE4zeDhPWmhjVzhsR1VBdTJwVlloUlp4aGZwRjJNOEIwcXRwcG04MGFKaU9tS0MxdDFTMWhONXhjNElRM0h3Q1dpT1BpYmExMVoyNjY5TGt0aGl0Q3prdmllTk55T3ZlMFBKUDBBRHdDUQ?oc=5",
+          "description": "Aguirre, el 1-1 de Peñarol con Racing y lo que cambió: “Vamos a verlo en unos partidos” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-13T00:00:00+00:00",
           "score": 2,
-          "score_reason": "Objetivo, con ligero énfasis dramático al mencionar que encendió lucha",
+          "score_reason": "Enfoca en declaraciones de Aguirre, neutro pero con selección editorial",
           "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "La selección uruguaya de rugby sub-20 perdió su partido ante España en el Mundial de la categoría y disputará el partido por el penúltimo puesto del torneo. Por otra parte, en el fútbol uruguayo, Cerro venció 2-1 a Liverpool en un partido correspondiente al campeonato local. Este resultado tiene implicancias en la zona baja de la tabla de posiciones, donde se define el descenso a la segunda división del fútbol uruguayo.",
+        "resumen": "Peñarol empató 1-1 con Racing de Argentina en partido de ida disputado en Montevideo, correspondiente a una serie de Copa internacional. El resultado deja al equipo aurinegro en ventaja parcial por el gol de visitante. El entrenador Diego Aguirre se refirió al empate y a cambios implementados en el equipo, señalando que los resultados de las modificaciones se verán en próximos encuentros. El partido de vuelta se disputará en Argentina.",
         "coincidencias": [
-          "Ambos refieren a resultados deportivos de equipos uruguayos",
-          "Informan desenlaces de partidos ya finalizados"
+          "El resultado final fue empate 1-1",
+          "Peñarol enfrentó a Racing de Argentina",
+          "El equipo uruguayo lidera la serie tras el primer partido"
         ],
         "diferencias": [
-          "Montevideo Portal se enfoca en rugby internacional juvenil, El Espectador en fútbol local",
-          "Un medio destaca posición final en torneo, otro las consecuencias en tabla de descenso",
-          "Diferentes deportes y competencias cubiertas por cada medio"
+          "Montevideo Portal destaca las declaraciones del técnico Aguirre sobre cambios tácticos",
+          "El Espectador se centra exclusivamente en el resultado y situación de la serie",
+          "Un medio prioriza análisis técnico, otro prioriza información factual del marcador"
         ]
       }
     }
