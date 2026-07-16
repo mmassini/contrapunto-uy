@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-07-15T11:39:00.076365",
+  "generated_at": "2026-07-16T11:44:36.066513",
   "stories": [
     {
       "id": "story_001",
-      "topic": "TripWip capta inversión millonaria para expandirse regionalmente",
+      "topic": "Acceso gratuito a Clearing de Informes en Uruguay",
       "category": "Economía",
-      "sources_count": 2,
+      "sources_count": 3,
       "headlines": [
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Cámara Uruguaya del Libro. Últimas noticias de Cámara Uruguaya del Libro",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82T3Z2c1lBSlczWmJzNjAtZlhXcHVVdnJ0bTN2VElKOWdPcnZ2S29weEpKNDkwNG51ZmFnYVN0V0FjY01OT25hWTBtTGJ6QjBySDBwcUZpOVd4YmIydEpaWVZTcmpOMlZsRTZOcA?oc=5",
+          "description": "Cámara Uruguaya del Libro. Últimas noticias de Cámara Uruguaya del Libro &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-07-16T04:47:13+00:00",
+          "score": 0,
+          "score_reason": "Título genérico sin información específica sobre la noticia principal",
+          "score_pct": 0
+        },
         {
           "source_id": "elpais",
           "source_name": "El País",
@@ -14,49 +29,49 @@
           "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elpais.com.uy",
-          "title": "Startup uruguaya TripWip captó US$ 4,2 millones de inversión y expandirá su operación en México y Argentina",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWnhJalFyeFJYMjdvM3RnTEhPNnZJS09DUENyTzkwX1JDSG9ycFhJbkJjWGJsUHU2MEl6TE5fWENYQzZKUFMzd0o0aUR3eGk2SklBZWlLZWpLWnNCaDZwbmU3OTFmczdlNEhmcC1tb1hTTGYyWXNFOUJXTWdTSFpEbjdGaHdxNTRHSVZVTnJta1FmV3pOUlFWRVZhV3EydHljbWNyaEx6VHBVVmlrYWZ5MldXenJDbUtpZmlIbEtEUEJReng3MnZUb1hOSVg3cE9uUXVzYnZjV1UwSXRRTXZJ?oc=5",
-          "description": "Startup uruguaya TripWip captó US$ 4,2 millones de inversión y expandirá su operación en México y Argentina &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-07-14T07:10:11+00:00",
+          "title": "Habilitan el acceso gratuito al Clearing de Informes en Uruguay: cómo ver el informe con la cédula",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZldpeXlFa2Vta05icTAwWk83UTNQTkMyTXMtSVNzMTNBVjBtRktMVmR4QzZTd0trMWNBRUFvVkN6RHY2dnlvQ1QwWEpldHhjZkQySndXUW1SZnFGT2xESDZNREdHWHN0cDlNOTFacVJ0OUZFTTR2VzhHVlpmWTBNLTloNDFhWTBqOUV4ZmtmZ2dyX011RnlDUV9ZVkx3MVAtajc1RU1pR3MyVkZrQUFDQVhmTVRHcTBmdWd1MGhaZmVlbldVXzVUYVI4Vlh0ZTVnRUUtMUhZbVU?oc=5",
+          "description": "Habilitan el acceso gratuito al Clearing de Informes en Uruguay: cómo ver el informe con la cédula &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-15T12:46:04+00:00",
           "score": 1,
-          "score_reason": "Presenta información factual sin calificativos ni valoraciones añadidas",
+          "score_reason": "Título puramente informativo, explica el qué y el cómo",
           "score_pct": 10
         },
         {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Plataforma uruguaya de alquiler de autos entre particulares capta inversión de más de US$ 4 millones y acelera su expansión en Latinoamérica",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQX3BXQnR2QlBuaEhjX1BUTTRzUC01TjkzcHhvVjhXNDdETmxnRjFjQm9sWFN1cmt0NGREdW9MQnBJbmExWDdyZ2l4TVowc3o4bTJqXy1oVzZReGJZaVBwN3doN0RsYVMyLVRFUmpWZjFCdFJIRkhvWmFWUFBaTEI1dzlFbEpjZzlEelAtUDhwWFJ0M25WSTZkb0UtQm9zQ29QMjRqQnpyR2FCZGxrRkllZ252ZE1FaGhtQ0VvQUhxajluQl9wM21rRHpMODh4VUg2ang2T2ZXM0RkNXBjQTVZMmwxMzRuejVwSG1icmExa05DQXd3elBKbUdn0gH_AUFVX3lxTE84RDQ2TXV2ekRzYzd6cTNCOVVnS1Y3c19WTTd2RzVRRk5FQXBLQXBxeUVEOGRkY0RwZkJCSXE1LW9mZXVRWUw3b1VnVnpNWDEyZXhPMXFsQkFramdDNTA3cjFpYVRJR1NHcHFPaVpKbjFiV2hGVFZ5R2ZUVVdKeDBpT1k4dEMyVWlNNHFTd001TzN5ZlNORjdCeEZlNml6SFlocHNIWjJKVllldWkzRHRiSUlLWms3UDZ5RnZlUnF4TlJrQ01QZU9SVGVZbExGbVlrZVdZZVJWbExFQ3AwcS1mSjNSVDBVTkxaY3RFeEVfUnNXYlBDOFY2bXEtWENUdw?oc=5",
-          "description": "Plataforma uruguaya de alquiler de autos entre particulares capta inversión de más de US$ 4 millones y acelera su expansión en Latinoamérica &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-07-14T08:00:00+00:00",
-          "score": 2,
-          "score_reason": "Neutro pero enfatiza expansión con término 'acelera' levemente valorativo",
-          "score_pct": 20
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Es para atender”: la preocupación de los uruguayos por la que alerta Factum",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaVBHUjA5emhHa0tkNXowR3lOZ2xteTdXeEo1VG5acmd3TnpsdjVDVHd4NGY1UDR5bWhUcVYwQUkwWDc4UXI4UkZaVnpjLTN5VEVVczZyamtEN3ltSmtkampGaTFrSHdkWG1OZ09QXzNWb2NjZGFmdHZqS1BBZTdBZlF1MkJZNGNPQ01qT0N0UUJ5c1lJcEhXNkR3b1FWTi1venUxYVN2RzFLZ3NCSEUtRlI5ZnRJaVJGSW5NLTVXQVrSAeQBQVVfeXFMT1lXMGFxOGl6cEpScXo1eVBLZGJVTkd6cHNNMDQ0anh5TFBMUTk3bms4UVRzcGtrRHBGSnY5YUJydkRkbmF0WVZGWi1LMGE2ejhFcnl3YnBIMHlNZGRYTE5mRUpWNFF2M3N4akNTWkxBZjJaMGV0Qm41cDk3dGFPUGhpR1lxckJvbWRpdHVHVF9NWXMyWXN6ZmpYc0VXblpxWGVBZmhGN1VoVFpId1ZDMUlRLTFJSTc5eS1IVWZWVjNITWlmY1NZVDJQZnRGN2l0Nm1WbVlVd1JTbVJ6VHFhY0l0elJ3?oc=5",
+          "description": "“Es para atender”: la preocupación de los uruguayos por la que alerta Factum &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-15T23:29:00+00:00",
+          "score": 6,
+          "score_reason": "Uso de comillas alarmistas y lenguaje que genera preocupación innecesaria",
+          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "La startup uruguaya TripWip captó una inversión de US$ 4,2 millones para expandir sus operaciones en América Latina. La plataforma, que ofrece servicios de alquiler de vehículos entre particulares, utilizará los fondos para acelerar su presencia en México y Argentina. La empresa opera mediante un modelo de economía colaborativa que permite a propietarios privados alquilar sus automóviles a otros usuarios a través de su plataforma digital. Con esta ronda de financiamiento, TripWip busca consolidar su posición en el mercado regional de movilidad compartida y competir con otras plataformas similares en la región.",
+        "resumen": "Se habilitó el acceso gratuito al Clearing de Informes en Uruguay, permitiendo a los ciudadanos consultar su historial crediticio mediante su número de cédula de identidad. Esta medida facilita que las personas puedan verificar su situación crediticia sin costo. Paralelamente, la consultora Factum alertó sobre una creciente preocupación de los uruguayos respecto al endeudamiento y la situación financiera personal. El informe de Factum señala que existe una preocupación creciente en la población sobre temas económicos personales, lo que coincide con el interés por acceder a información crediticia. La medida busca democratizar el acceso a información financiera que anteriormente tenía costo para los usuarios.",
         "coincidencias": [
-          "TripWip es una startup uruguaya",
-          "Captó inversión superior a US$ 4 millones",
-          "Expandirá operaciones en América Latina"
+          "Refieren a temas económicos y financieros de interés ciudadano",
+          "Involucran información sobre situación crediticia o económica personal",
+          "Son noticias de alcance nacional en Uruguay"
         ],
         "diferencias": [
-          "El País especifica monto exacto (US$ 4,2 millones), El Observador usa 'más de US$ 4 millones'",
-          "El Observador explica el modelo de negocio (alquiler entre particulares), El País no lo detalla",
-          "El Observador enfatiza 'acelera expansión', El País usa 'expandirá' sin énfasis temporal"
+          "El País enfoca en la novedad del acceso gratuito al Clearing de forma práctica",
+          "Montevideo Portal destaca la preocupación ciudadana según encuesta de Factum con tono alarmista",
+          "Búsqueda presenta titular genérico sin especificar la noticia concreta"
         ]
       }
     },
     {
       "id": "story_002",
-      "topic": "Concesión de dique flotante en Capurro",
-      "category": "Economía",
-      "sources_count": 2,
+      "topic": "Uruguay implementa sistema Alerta Amber",
+      "category": "Seguridad",
+      "sources_count": 3,
       "headlines": [
         {
           "source_id": "montevideoportal",
@@ -65,12 +80,12 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Instalarán un dique flotante en Capurro con una inversión privada de US$ 20 millones",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObTlMQXVJcmU4czU0QmZRSTBQemFFS0p1Uktvd2QzVWpCTVYyODhXUWVUZFJwS2dRQ2gzbXo3MThoTXZ3UlY1aS1ILWs4cEJKWlU1UUQxeVg4VlFxSTVDeDk1VlpwM3V1dThFWXB4V1VhR3lYZ3E2U1hZbjZlc3hkT0s4RktOTXJUa3kzcTN1U0tUR3RRd1Z1eTdvSnAtRmtGSHRnRko0ZURpMGVYQ0xQcGVxRXIzc2FkT1QzMGlTVklVR1NtU1VsMU1mONIB7wFBVV95cUxNNElCcDFEVEt6Q0lTd0hHREZOeWhrdWJ1UklrOUN6NU90X2E0c0xKZ0J1ZWt1XzA5a1Vfa3ZpUnN6ZXdoam1idUNvbTZfTXp1Skl5clRoeHk3QzZ5aHVMaTVCelM5ei1pMUFPWVEwQlhqaTZYMVRWd2o1TmZfNHYyRVBwTTNkbDA1TzNfYWJNQnd6SkhFX3NJY3RBRWp6SnpFVFdzY01sVlctNXdibjFxX2tTYnJYYkFIUm45NTd0dHhJLUVyQ3J0dVVaRm1BNVR1QWRCOTAtTmxldUpFaEhIRGh0bWhNNzFZLUg2Y2dsWQ?oc=5",
-          "description": "Instalarán un dique flotante en Capurro con una inversión privada de US$ 20 millones &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-14T21:24:00+00:00",
+          "title": "Uruguay comienza a usar Alerta Amber, sistema para buscar niños ausentes: ¿cómo funciona?",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb2JxQXJRR0h0cWJYeDJDR0FiUkVSSnQzclNQcTlGWnZwVmtSS2w5OEJjZXVYdkdkcDN3WGp4ZnpWSFRTZHQwOTZnZXRHU1RFR003MXBIYU81emg3T21HZ3R5Qll3d2U5dmx2ZEthS0J4T1NzcDduS2lCZXhzVjA4Y2pUTENGUS1Mby00SWdNcHNaMjNITy0zam45WGhpRDdkMUR0QjNhWFhIYWxkZDNTcXBJdmxDdVFBamlZck9wMV9YdUc5aElIQ2xhR1VKUi010gH0AUFVX3lxTE96aUgxTFBMWXFabU9jMTFCd1I5c0xLWDZQdGY5UndadTRaQUhmY0JPeWwxcXN5YmZlR092SkZ2S1BDQXc2Q0JPRldERWJBZU1oUzcyUmxEZ2hvU2VNMXJoSDFCdmV0aGRHYTJoV2JZWHdPdTBwdHFvWFp3cUNkRVExQzFrT05vQmRZcUlGNU03eEctMEQ3aEFBWHdnemNET1NYVEI0SE1ETzIya21iSlVLeXVnbENHWUY4NnVSMG1lbm9tVm5zWWNJRHg1OGR5bHhIcGxvdHVibDNvaHViTENBTC11Szl6TE1kX0dvYWJlRW4zTUQ?oc=5",
+          "description": "Uruguay comienza a usar Alerta Amber, sistema para buscar niños ausentes: ¿cómo funciona? &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-15T15:02:00+00:00",
           "score": 1,
-          "score_reason": "Informativo y directo, sin carga valorativa ni adjetivos innecesarios",
+          "score_reason": "Informativo, neutro, incluye pregunta explicativa sin sesgo",
           "score_pct": 10
         },
         {
@@ -80,32 +95,114 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Firman acuerdo para concesión del dique flotante de terminal Capurro, con inversión de 20 millones de dólares",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT2NpUW44RGtSM0ZodWQyN18zQmpyMXBFUUp1RFVhb0lDZ3ZzeWhGbXFRUVhiM1FoNWdfUGgyLXlObHBVcTI3N0haT1ZaTF95WGJUSXpOa0NHMzd5ZjBkaTUwWll0ZnREdk90STZiSmtIdnNRckk0WW1ub1ZWMkxnSnRyRlZ3dHJyZUh3d2Jzd1FIOWd0a3ByY21DaGlpRUFoSm1NS2xfZTd4MW1BcTlLR01WNkw2ZU96RUt5YjdVVTZYWWdwOGQ00gHMAUFVX3lxTE02NUNxdDFPY2NGbWNIY1Z5MHhUaHdZbHlCVTJRdG11S0JDS2VLY1RaM1BZUnBPdXh3UzIxbTlfVGhhekd5UkxMOVA4LTdaNE1YMUN3MmJ0NjdWREVZaDNWYkdBNDlQR0ZNZ1h6YnFZc25Keld3QVVDaTdpZHEteFVKdUJ3aWVtY3JTMUxLR093LTJrU0dnYm5kZEYyX2lobldqQnBoWmF5clVQVUxTT29BcU1BOXd2OHJyVE9lQVhrSXJady1yTjM0MnpoSA?oc=5",
-          "description": "Firman acuerdo para concesión del dique flotante de terminal Capurro, con inversión de 20 millones de dólares &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-14T21:58:00+00:00",
+          "title": "Presentan la Alerta Amber Uruguay, el sistema de búsqueda temprana de menores ausentes",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZzY0c05UVDc2dUNFWmhzSERJUHJxWk9BS1Y2aEVnUHZMOHo4dHM2QTA3bVpiRTFMemVvVkhDbUYteTVzNlVTT3F4XzgyeUFpa2ViM0V6WWR2WXBEYnZielpFc1FUUGFSUWxiUWFNb2h6eGo1M2U0Ujlid2lyaG10SlZUSEtNeFBhU3dvTENNeWhQczRYVGdoWFptUV9UUjloYzVONUI3Y2hiWVN6NnkxLWt6Ukc2cmVK0gG-AUFVX3lxTE9xSjNHd0VuS3pZdWM2bVczR0RXWWZCQ1BPbGdGV3ZGd3NTdnhQU1h6Ynp1cjVJbTh2QWdmNVg5ZHJxbWx2aG1QUkUteGtwTXg5NmQ0NUI4c1JQQVY0N2dZRUxwSlVEWUhrWk1nbG5ZQUtzV1BmOWxmUGpZWFZaMzhrbXNNSTh3OEVfam82Ykw1RUNMODJJR1NZaVZUNVVJbUttMHRkLUczZnk1c0RQSHg1d2gzZTcwa0ozUlQ3TXc?oc=5",
+          "description": "Presentan la Alerta Amber Uruguay, el sistema de búsqueda temprana de menores ausentes &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-15T11:30:00+00:00",
           "score": 1,
-          "score_reason": "Neutral, menciona firma del acuerdo y monto, objetivo y factual",
+          "score_reason": "Objetivo, describe la presentación del sistema sin valoraciones",
           "score_pct": 10
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Uruguay implementa la Alerta Amber para agilizar la búsqueda de menores desaparecidos",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd25VN0piRWdWQVd3Y2psRXlWRDZjT1RIeFpORTVKeXdvckFJa3UxcGFlc0NwWk04RVJ1OFdaVERQNzdjeGwyQkdNS1RWWEh1MzJFQnJCTTVCcHAtZmNFUExVNDdreUlLMXpzV3BoRjJ4czVYLW1VRURLa3A5MlZ5ZzM1bEdubVBsSVJ2NHFLbWdJb3B5eWNlS0QyLWNnSmtEYmpKaTd6YmdqS0tGNEU1WFpUb0Vlc053M01JRDFjcW43dw?oc=5",
+          "description": "Uruguay implementa la Alerta Amber para agilizar la búsqueda de menores desaparecidos &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-07-15T15:37:54+00:00",
+          "score": 2,
+          "score_reason": "Neutral, agrega propósito del sistema sin carga emocional",
+          "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "Se firmó un acuerdo de concesión para instalar un dique flotante en la terminal de Capurro, Montevideo. La inversión privada alcanza los 20 millones de dólares. El proyecto busca desarrollar la infraestructura portuaria de la zona y permitirá realizar reparaciones y mantenimiento de embarcaciones. La iniciativa forma parte del desarrollo de servicios náuticos en el puerto de Montevideo. El dique flotante operará bajo un régimen de concesión otorgado a inversores privados que realizarán la totalidad de la inversión en la infraestructura necesaria para brindar servicios de reparación naval en la terminal ubicada en el barrio Capurro de la capital uruguaya.",
+        "resumen": "Uruguay implementó el sistema Alerta Amber, mecanismo de búsqueda temprana de menores desaparecidos que se utiliza en varios países del continente. El sistema fue presentado oficialmente y permitirá agilizar la localización de niños, niñas y adolescentes ausentes mediante la difusión coordinada de información a través de medios de comunicación y plataformas digitales. La Alerta Amber funciona activando una red de colaboración entre autoridades, medios y ciudadanía cuando se registra la desaparición de un menor bajo determinados criterios. El mecanismo busca aprovechar las primeras horas críticas tras la denuncia de ausencia para maximizar las posibilidades de encontrar al menor sano y salvo.",
         "coincidencias": [
-          "Inversión privada de 20 millones de dólares",
-          "Proyecto de dique flotante en terminal Capurro",
-          "Concesión o instalación como modalidad del proyecto"
+          "Los tres medios informan sobre la implementación de la Alerta Amber en Uruguay",
+          "Todos coinciden en que el sistema está orientado a la búsqueda de menores",
+          "Ninguno presenta el tema con sesgo político o valoraciones subjetivas"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza la instalación futura del dique",
-          "Subrayado destaca la firma del acuerdo de concesión como hecho concreto"
+          "Montevideo Portal enfatiza el funcionamiento del sistema con pregunta explicativa",
+          "Subrayado destaca la presentación formal y el concepto de búsqueda temprana",
+          "Grupo R Multimedio pone foco en agilizar la búsqueda de desaparecidos"
         ]
       }
     },
     {
       "id": "story_003",
-      "topic": "Hallan cuerpo en Isla de Flores",
-      "category": "Sociedad",
+      "topic": "Daniel Radío, nuevo Comisionado Parlamentario Carcelario",
+      "category": "Política",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Asamblea General designó a Daniel Radío como Comisionado Parlamentario para el Sistema Carcelario",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFZIVS01N2tveGczalc2SXNrVXNqM1RSVG13MFZCam1rbWNPMjZEOEhFc1lhcnFUcUtjVXVPSVU5V1R4aGR1QXN4ZEU0bzlLUkhkVzVQYlVybzJ5ajBncUdPN082cFJtT1UwUk04ZnBPT2xwSkkxVEtDOXA2c0NGWjRySmlWS1Q4Yk1ySS1SekV6bDh2TUswc3dBaUFUZm8xaXRfREV5VnJEUHRmQzk3a1VNOGhoS28zOHZLVTBJWmdOa2xwRVAw0gHMAUFVX3lxTE95OGhqbjcwcTc0MUpHRmNsTTUxWjBUU040bnR4d28wV0NmNTRKaHNBb25aaU1wVzQ4ZDFOYzhxVFVTRFdvQkRsRVM1QWZmWnlpMUxEZUxmVk5GVG9VM0E0RmlzQW83WmVMNUVCUlB2QmVCbUs5NGJYUDA2NlBwdk1xazJPX0h0cnpiUGI4UHk2Sm15MVN1eTczZmpFSDZHV1ZBdDY2dXJwbGtXS1dnVWFMR3Z1bk0zeEo3ZEN6UERxd085b2JzVEhrVTRiZA?oc=5",
+          "description": "Asamblea General designó a Daniel Radío como Comisionado Parlamentario para el Sistema Carcelario &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-15T18:34:10+00:00",
+          "score": 0,
+          "score_reason": "Información directa y neutral sin valoraciones ni contexto adicional.",
+          "score_pct": 0
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "La Asamblea General designó a Daniel Radío como nuevo comisionado parlamentario",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdFI3NUFnTm5aX3N5N21RQldqNEcta3BtYjN1bWQza0RCRmgtWXFNYy1sNVdpMDIxYTNjQkxmM0NublJPdzR3b0FOM1Jhc01LeENYTEI4blU0eWtNZ1d6VmFTOC1LYzF3WHpRS0FoRTdDNXJSTHVmWnpTd19rMXRrOEhNb3BxRWh4Ujl0dk1vbWQyM1JmXy16Zk92VlNaOGNWZlJ1NVNKTkJkYTl0Z3I0UE5uX2xPVENna0E?oc=5",
+          "description": "La Asamblea General designó a Daniel Radío como nuevo comisionado parlamentario &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-07-15T20:28:20+00:00",
+          "score": 0,
+          "score_reason": "Titular conciso y objetivo, sin adjetivos ni interpretaciones.",
+          "score_pct": 0
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Daniel Radío fue designado por la Asamblea General como el nuevo comisionado parlamentario para el sistema penitenciario",
+          "url": "https://www.teledoce.com/telemundo/nacionales/daniel-radio-fue-designado-por-la-asamblea-general-como-el-nuevo-comisionado-parlamentario-para-el-sistema-penitenciario/",
+          "description": "Radío deberá dejar su cargo como director en el Inisa. La entrada Daniel Radío fue designado por la Asamblea General como el nuevo comisionado parlamentario para el sistema penitenciario se publicó primero en Teledoce.com .",
+          "pub_date": "2026-07-16T10:38:05+00:00",
+          "score": 1,
+          "score_reason": "Agrega dato relevante sobre renuncia al INISA, mantiene neutralidad informativa.",
+          "score_pct": 10
+        }
+      ],
+      "analysis": {
+        "resumen": "La Asamblea General designó a Daniel Radío como Comisionado Parlamentario para el Sistema Carcelario. Radío actualmente se desempeña como director del Instituto Nacional de Inclusión Social Adolescente (INISA), cargo que deberá abandonar para asumir su nueva función. El Comisionado Parlamentario es el organismo encargado de supervisar y controlar las condiciones de reclusión en las cárceles del país, velando por el respeto de los derechos humanos de las personas privadas de libertad. La designación fue realizada por el plenario de ambas cámaras legislativas.",
+        "coincidencias": [
+          "Daniel Radío fue designado por la Asamblea General",
+          "El cargo es Comisionado Parlamentario del sistema carcelario/penitenciario",
+          "Se trata de una designación institucional formal"
+        ],
+        "diferencias": [
+          "Teledoce menciona que Radío debe dejar INISA, otros medios omiten este dato",
+          "Variación terminológica: sistema carcelario vs penitenciario",
+          "Teledoce usa 'nuevo comisionado', enfatizando el cambio de autoridad"
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Comentario de Blanca Rodríguez con micrófono abierto",
+      "category": "Política",
       "sources_count": 2,
       "headlines": [
         {
@@ -115,41 +212,245 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Hallan cuerpo en la Isla de Flores: sería de pescador argentino desaparecido hace un mes",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUDlvTVo2QTMzZmtGeTZfajY3WkJzb3E4NHE0Tm5yNDVHSWhXYWZRRlowemQtRWdGLWwtQTFoU3VvRnJyNUVXSjNEYXo4MXNTRjRYMnduQ092Yl9HOUszY2gzQ2xTMjE1eDFydHMwc0NQMmFxU0l0Z2xjRVFUOUNvdzdoQ0VzQjZ0UlhvM3haMmZ3ajA1SnJQcDBjcTlPZFlnU2ZnUDNvZnZvXzFjbWs0dVNYVVNxeTE2VmdMeWExSXRfMXlCNjk4ZXd1dWR3VlRP0gH0AUFVX3lxTE9OdTd2OW5fQTdpbExxV2dQVnJNbnQtVWlRLUxLc2t1VUtiWktRRVkxV2hVOHlNU1JpS0tOR0cyY3N2bkxyZ0FWUTZKTVBsYUZLcWplNl9EWGJCUTVDdlVPUmlHVDBFNlRwVkdwcGhJN2xfMkdLbk9DUElsYm5PM0lJekhyNk1KVndiS3VlT2pBb3lzUl9Jd3hpVTN0ZWJDMURCMEtxdGFRWHNQUXh4dFpyRkZRMElrTUF4UEFNVzhHLXo5dWp0c2VNekNLVUhtNWJrdkF1bDRyQUJPQVY1Q2V6Zm52eEl6MGw0WDJ2VG1tLVkzckg?oc=5",
-          "description": "Hallan cuerpo en la Isla de Flores: sería de pescador argentino desaparecido hace un mes &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-15T00:19:00+00:00",
-          "score": 1,
-          "score_reason": "Titular informativo, directo y sin carga emocional innecesaria",
-          "score_pct": 10
+          "title": "“Esta llega tarde y no entiende”: el comentario de Blanca Rodríguez con micrófono abierto",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQU9hTlhPSHFpRzc4WkpEQWNfRDFtX212Y0YzeWEwOG1wajB5WGZuVEI4bEJVampYeTdMSVpkS2k1R2dlUEpJc3lOUHdld014UTk4SVU4ZkxhcGxLejRBMWVVekRrTEpkRjBJN2VaNGxYQjY5eEpvenZZSVRNYkVzNGpMVDk5TWZuOFVpODRvcWFGd21zYkVfVlBfSU1oanVGVjJLUGZnakZkSHd5R3B5ZVI1MlhqaDJyZXR3MkVBaHVuVFQxenpKTVVzSUYwdTZPdVHSAfYBQVVfeXFMTllNY0liWkZRY0w1d1NSVTZkZThYSzMzalp2d3FjMFdSdmJlY0lGSzVhTWdaNXlXNG94N01JeEJGMWhfZklYYjRHZ1NDa0k0eWhNdnB0c3RMZ3h6akRObzZEbWktVkEtSWhobkZSTmZwM2RzcVAxWlo0dTN6eF9HS0d1TFIwdGpuQVREVHZILUNyQXdSV19xbzZFN2NwcHdpMTNReFkta0VuR0lvQnZyazJzQm1kTVY2dFpRdV9nVmRzdDE2VDRLNkpaM2JyV0J2dWlwb0thcEtaUktVSktscTJBMEg3cVl5SHVPNThOUEptMXpUdC1R?oc=5",
+          "description": "“Esta llega tarde y no entiende”: el comentario de Blanca Rodríguez con micrófono abierto &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-15T17:00:00+00:00",
+          "score": 3,
+          "score_reason": "Descriptivo y neutro, menciona el contexto del micrófono abierto",
+          "score_pct": 30
         },
         {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Hallaron el cuerpo de un hombre en \"avanzado estado de descomposición\" en una zona rocosa de la Isla de Flores",
-          "url": "https://www.teledoce.com/telemundo/policiales/hallaron-el-cuerpo-de-un-hombre-en-avanzado-estado-de-descomposicion-en-una-zona-rocosa-de-la-isla-de-flores/",
-          "description": "Se cree que se trata de un pescador argentino desaparecido. La entrada Hallaron el cuerpo de un hombre en &quot;avanzado estado de descomposición&quot; en una zona rocosa de la Isla de Flores se publicó primero en Teledoce.com .",
-          "pub_date": "2026-07-15T10:28:21+00:00",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "\"Esta llega tarde y no entiende lo que está pasando\": el exabrupto de Blanca Rodríguez en el Senado",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcm1hMEcwOWVKaDBnc2JNZWpfaFU0elBjdl9JV1RvVFVuRXo2NGpRQXM4b1pvNnRZLXlxTWZIVmM0TnBxd3FPdmhSWnJVckwxd0Z3WWxCT3d1LUJLNHJWdnBnX3l6UTZ2Z0JQVkZHNDJhVktSTEhzdnpfSC1OWEJIYmVWRDk5b19fWVdNLWNJSjFIZVJEQU1ESmQtUU1peHdMM1ZRNkJqcklRNUw4R3VhYnZxSVppdG9TcHQxV0I5OVZjTmpCWm9IcFZIVkUxUTdrU0ZnWWUxaEFIQzA?oc=5",
+          "description": "\"Esta llega tarde y no entiende lo que está pasando\": el exabrupto de Blanca Rodríguez en el Senado &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-15T19:17:26+00:00",
+          "score": 6,
+          "score_reason": "Uso de 'exabrupto' añade carga negativa y dramatismo al titular",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "La senadora Blanca Rodríguez fue captada por un micrófono abierto durante una sesión del Senado realizando un comentario sobre otra persona presente en la sala. Las palabras registradas fueron: \"Esta llega tarde y no entiende lo que está pasando\". El incidente ocurrió en el marco de una sesión parlamentaria y fue difundido por diversos medios de comunicación. Rodríguez integra la bancada del Frente Amplio en la Cámara Alta. El episodio generó repercusión mediática debido a que la senadora no advirtió que su micrófono estaba encendido al momento de hacer el comentario, quedando registrado públicamente.",
+        "coincidencias": [
+          "Todos reportan el comentario exacto de Blanca Rodríguez",
+          "Coinciden en que ocurrió en el Senado",
+          "Mencionan que fue captado por micrófono abierto"
+        ],
+        "diferencias": [
+          "El País califica el hecho como 'exabrupto', Montevideo Portal como 'comentario'",
+          "El País enfatiza lo inapropiado, Montevideo Portal el aspecto técnico del micrófono",
+          "Diferente carga valorativa en la caracterización del incidente"
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Orsi detalla diálogo con Lacalle Pou y expresidentes",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Orsi dio detalles de charlas “frecuentes” con Lacalle Pou y dijo qué sería “inaceptable”",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOE1nWWFEdGFxRU1VNzNRZVBzUFZRWjdhRFluRFpocXMwTHpvS0hjN2ZneWNYbXNKZzRrNDdjODlBRVdvdkZDTnBocUhiUThIeFNiWXh5TEc1MHFlUncyVFpZRFFkbV9OTE1YdjMzV01Ma1kwMXYwUkhzYzMtczlxLXg3cDlPRFRGTU9yS05Gb1AwOFR0UncwZG9ldHNwZEFXVnM3clVhTzBzb3RlajV0RjFseTlxb0tiWlJuaGRsZ2N5RWRVOEZUNzhIT2xud9IB8gFBVV95cUxNZE0yZnQtWlBhd0dRS3JMQU93VWs2X2l3RVdFYTR5bmZzWldPV3JBYjQ1VVQxbUJ5ZWY3REJmc2pONTNOaTVTa3BOV3RoUFNmUlh2SWtHRUREUDF0VVZ5N2lLcFdGQk9ITHoydHBqWFBHR3k4bmNBXzduVlVaaUhSRkVZSGJiaS1zMEV5MjE5ZTM2T0FGQ3Z1Z2o0YzVFdExhV29QOXZVZWJZcGpCVGw3ekdYWWpaQ3pUZTZMVlh4MkYyRVhHcXlRVjBkNGVZQWhzMkdWWUxBVGp5ZHVmcmROaGN2YWxkWmwzQThObXFFOFl6QQ?oc=5",
+          "description": "Orsi dio detalles de charlas “frecuentes” con Lacalle Pou y dijo qué sería “inaceptable” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-15T18:12:00+00:00",
+          "score": 3,
+          "score_reason": "Destaca lo inaceptable generando expectativa, pero más informativo",
+          "score_pct": 30
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Orsi contó que habló con Lacalle Pou y reveló quién es el expresidente con el que conversa menos",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd0dRTVgyN3BnN1JKeUY0Q0IxTHdpVE15WHJ2a05Fc3l0ZjI1cnJiOWE2Slk3aGVZZHlNMEU4NERjQ3Nvc1JCSXFKMDA2dVlISW93YV9VbHVqdVVaOXp1Nlk3M1ZFMHlKVWZBUW5nSDR6Vi15RGlVVy1kV0VuU0MyM29tdUdvY3JaWVNPc1ZKSEtOQS1NTUlXemFWREkwS3hiaHp2ZjNYQjdBMzdMVFdsbGUxLXQzOVh2N3pEN3NFMWhlMVdFdTJnUmFTemVuMnlSa1paaU40WQ?oc=5",
+          "description": "Orsi contó que habló con Lacalle Pou y reveló quién es el expresidente con el que conversa menos &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-15T16:59:09+00:00",
           "score": 4,
-          "score_reason": "Énfasis en detalles morbosos como avanzado estado de descomposición",
+          "score_reason": "Enfatiza el aspecto curioso sobre el expresidente con menos contacto",
           "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "Un cuerpo fue hallado en una zona rocosa de la Isla de Flores, en aguas territoriales uruguayas. El cadáver se encontraba en avanzado estado de descomposición. Las autoridades presumen que se trataría de un pescador argentino que se encuentra desaparecido desde hace aproximadamente un mes. El hallazgo fue realizado en la isla ubicada en el Río de la Plata, frente a la costa de Montevideo. Se están realizando las pericias correspondientes para confirmar la identidad del cuerpo encontrado.",
+        "resumen": "El presidente electo Yamandú Orsi brindó declaraciones sobre sus comunicaciones con el presidente Luis Lacalle Pou, señalando que mantienen charlas frecuentes. Orsi también se refirió a su relación con expresidentes uruguayos, revelando con cuál de ellos tiene menos contacto. Adicionalmente, el mandatario electo indicó qué consideraría inaceptable en el marco de la transición gubernamental. Las declaraciones se producen en el contexto del proceso de transición entre la actual administración y el gobierno que asumirá el próximo 1 de marzo de 2025.",
         "coincidencias": [
-          "Un cuerpo fue hallado en la Isla de Flores",
-          "Se presume que sería un pescador argentino desaparecido",
-          "El hallazgo ocurrió en una zona rocosa de la isla"
+          "Orsi habló sobre su comunicación con Lacalle Pou",
+          "Orsi se refirió a sus conversaciones con expresidentes",
+          "El presidente electo hizo declaraciones sobre el diálogo institucional"
         ],
         "diferencias": [
-          "Teledoce enfatiza el estado de descomposición del cuerpo, Montevideo Portal lo omite",
-          "Montevideo Portal menciona el tiempo de desaparición (un mes), Teledoce no lo especifica",
-          "Teledoce destaca detalles más gráficos y sensacionalistas del hallazgo"
+          "El País destaca la comparación entre expresidentes como gancho principal",
+          "Montevideo Portal enfatiza la frecuencia del diálogo y lo inaceptable",
+          "El País usa lenguaje más coloquial mientras Montevideo Portal es más formal"
+        ]
+      }
+    },
+    {
+      "id": "story_006",
+      "topic": "Aumenta desaprobación de Orsi según Equipos Consultores",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Desaprobación de Orsi alcanzó su máximo valor desde marzo, según encuesta de Equipos",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQi15ZTdDT0RwVzNuX3dLTDFubVo1VW5SUVlzdDdDMkI1MFluTC1VUHpvTjViN2dNaEM2M3RqN2NIMklod21pbFF4TDVIZDdFTnZ4Q0RoNi1HaEJQbng0elJ2LUw5V29iak1od3NLSUpFbXI0MkN2UlNSS1g5dkNkZ0FtUUFoVXZpY3pDc0huMzVHU0VQZ2dwbG5mcWxORTJTenpueDZXaXpvSnkzZ2pkRURmcTRNRHFDZlpEZzlac1N4azdmazU4RF9UZw?oc=5",
+          "description": "Desaprobación de Orsi alcanzó su máximo valor desde marzo, según encuesta de Equipos &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-15T23:47:00+00:00",
+          "score": 2,
+          "score_reason": "Informativo, se limita a reportar el dato objetivo principal",
+          "score_pct": 20
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Equipos Consultores: desaprobación de Orsi aumenta cinco puntos y el balance es “claramente negativo”",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWVhzWEVuNFlJN3pnZnM1Q2RKdHgtb1BPRWVtX0tscVp3aWs0MVA4VVktMndIaE04Z1FpNFBNeUtZY1VzM0IxbTFydU14STlzSF9ubHl3UkFMemR1d1FqeU1URWotYy1jUWZZY0ZLYWJvblJpaHJmNWNqSm0wbTZkUjhFcUNwNW5WRjNadV9relNHdldRSHktdm5uWXlzLWF2bU9VLUJqWHBGdzNBX2FpSzNudENmM0lOdVdhS3ZGdW52X3UzR3lZRm1UZ0hJV1M2aEM2UVJ5RkU?oc=5",
+          "description": "Equipos Consultores: desaprobación de Orsi aumenta cinco puntos y el balance es “claramente negativo” &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-07-16T00:12:00+00:00",
+          "score": 4,
+          "score_reason": "Incluye valoración entre comillas pero enfatiza aspecto claramente negativo",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "Según una encuesta de Equipos Consultores, la desaprobación del presidente Yamandú Orsi alcanzó su nivel más alto desde que asumió en marzo. El estudio registró un aumento de cinco puntos porcentuales en la desaprobación ciudadana respecto a la medición anterior. La consultora calificó el balance de gestión como negativo. Los datos reflejan una caída en la valoración ciudadana del mandatario durante sus primeros meses de gobierno. La encuesta forma parte del seguimiento regular que realiza Equipos Consultores sobre la opinión pública uruguaya respecto a las autoridades nacionales.",
+        "coincidencias": [
+          "La desaprobación de Orsi aumentó según Equipos Consultores",
+          "El aumento fue de cinco puntos porcentuales",
+          "Es el nivel más alto desde que asumió"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza el récord histórico desde marzo",
+          "Búsqueda destaca la calificación negativa de la consultora",
+          "Búsqueda cita textualmente el balance de Equipos Consultores"
+        ]
+      }
+    },
+    {
+      "id": "story_007",
+      "topic": "Orsi pide reconsiderar rechazo a Rendición de Cuentas",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Orsi pide reconsiderar el rechazo a la Rendición de Cuentas",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORDRFSzhpWW9VZnFncHY5VU9qUWtZQmtGMWtsbWlHdkc5OUZXTGFVRXoyazR0UDNGN0kySmZuaGVmTjJKc2hmR1cwMFIwcHBJa2xic0FfbFFrVHRFVm5nQUo4ZjJEa2Z5QUVhRmRHa20ycjJhMGtaMWlHcHFSVVpXQlhJUjZ6eVA0WWttb3ZvTm1sb0d3ckUtWW5kdjhOdGs?oc=5",
+          "description": "Orsi pide reconsiderar el rechazo a la Rendición de Cuentas &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-07-15T17:46:33+00:00",
+          "score": 1,
+          "score_reason": "Neutral, informativo, sin valoraciones ni carga emocional adicional",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Rendición de Cuentas: tras postura de oposición, Orsi dice que espera una reconsideración: \"Es negar a los beneficiarios\"",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWjUyTTF1TGJBazRSZW1CeEhvbVBBQnR1LVZFTWNVWjVFQWhHQWtFektSaElpdTdWaVhpVFZSSnljZXRsYnVOVzBET0RBTWJkREZvRVFIVWRpM3ZZelp2dWg2SmJuNE9BdEFXRkFFOHgyYVlGLWVVTWNuYUllelN6YkFWMTkyZ2V3SnlPcUhFNzFsR2FBVmoxMER5MkhNNEtqdjQ4SVY0c0hOT1M2cDJ2eGlJdTlhX2JtdFVacTg1TTZzQnNzLW9GeGlHTVhNck5XRVd4SHVLd0TSAd4BQVVfeXFMUHJwb2xHdFZqWXVDZDlKMDBJd0VaaFBQRVF0cDM1RGtlOUZXU2w3dG5VaGJlMXl4YnE2QUNTaGJVSVZDRGhId052TEdsMU5xWk5CYThVTzJBcHdZMUNOZ3pKd1Jtd1djUzVLLTFMM2NLNF84eFAzdU5BYlpITGdCMTJCdWZpQ1NsYUdSRjUxWHVwdzFrMGZod25CV1lzbjlaUjFLdWk0ZmpyVW93b0hBZTRsTG05eTVwWVhPZDRlRkF2V1JBb0t4MmpIQlRETElzS2p5U19XdmZqc3hkay1B?oc=5",
+          "description": "Rendición de Cuentas: tras postura de oposición, Orsi dice que espera una reconsideración: \"Es negar a los beneficiarios\" &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-15T16:44:00+00:00",
+          "score": 4,
+          "score_reason": "Incluye cita textual emotiva que enfatiza posición del presidente",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "El presidente Yamandú Orsi solicitó a la oposición reconsiderar su postura respecto a la Rendición de Cuentas. Tras el rechazo manifestado por sectores de oposición al proyecto del Poder Ejecutivo, Orsi realizó declaraciones públicas expresando su expectativa de que se reconsidere la decisión. El mandatario argumentó que el rechazo implica negar beneficios a los destinatarios de las políticas incluidas en el proyecto. La Rendición de Cuentas es el instrumento mediante el cual el gobierno ajusta el presupuesto nacional y propone modificaciones en la ejecución del gasto público. La situación plantea un escenario de negociación política entre el oficialismo y la oposición parlamentaria para el tratamiento del proyecto presupuestal.",
+        "coincidencias": [
+          "Orsi solicita reconsideración a la oposición",
+          "Se trata del proyecto de Rendición de Cuentas",
+          "Existe un rechazo previo de sectores opositores"
+        ],
+        "diferencias": [
+          "Subrayado destaca la frase 'negar a los beneficiarios' con carga emotiva",
+          "Grupo R Multimedio presenta solo el hecho sin contexto argumentativo",
+          "Subrayado enfatiza la justificación presidencial, Grupo R el pedido escueto"
+        ]
+      }
+    },
+    {
+      "id": "story_008",
+      "topic": "Orsi condena quíntuple homicidio y respalda a Negro",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Orsi condenó el quíntuple homicidio en El Monarca y respaldó a Negro",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeFR2MDJVUUE0eWpnNWZYdFN6dktqTWsyUW1UbV9PWGFra3l3ZlNscHpwS1R1eHVPcU01Umtfb211dnVrYkhBb0M0ek8xOXlhcVc4OWlBZHg3TnJTcDlPWHVrWXRIb2FCekZVM1NQb25QellHNG11Vng3cVBKXzdQd0RqQUVRUktnQkVqRFA3MUFZTHo5cVJsLUh4RVVaaWN2UVVCU2lzTUdTa3M?oc=5",
+          "description": "Orsi condenó el quíntuple homicidio en El Monarca y respaldó a Negro &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-07-15T17:46:33+00:00",
+          "score": 1,
+          "score_reason": "Titular neutro y descriptivo, sin carga emocional ni dramatización",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "El presidente Orsi calificó de \"terrible\" el quíntuple homicidio, y renovó su apoyo al ministro Carlos Negro: \"Cada vez más\"",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdjVXb09kTmZWWnRCN2Jhb0ZPazFTaHVuQ1l0UmVKbVJ1UEMwaGxOLTBvS2tlbVZPZU5BemRUOXNJT21iUDlQQVN2QnhPdS0xckJQRG5NbXVuV25CTG41dWV6ODZ0VFZHbzE5bmxBX2JfUFJZU052Nnp0UVEyUFliTkpjT1BrSTJFWlp5aWJHcWY5dnk3Y2ZLeHZENDlqNjJqbEtmelNyNkx2Z1EwTVE5RHM5eERrUzV5OHNndW1kQTBoWnlndlduaTZuVW9zalI2aE9nOXR2LUJKQi1GbTQxWEc2VERWOTFw0gHuAUFVX3lxTE8xU1pkUS02WmhCOE9SOUx0emljNjVmTEJWMnI4WXZmcGJqVkJtaTBuNDBrVEhkRzlMM243MWFJOXhITnl4UkdsZUNFUmx0YzEtYmQxbWxTbXZIelRNOHZabUREampXWE1ZMWFzWDlyWk1SYWc2VS1oZXE5dzVTbGRaajNSd3ZwcGN1N2ZjNTN4N01PZlUwTlNiSk9tMHdFX3N1d3JHeHVISzZOMWZMWmNOTWRzNENRaV9LN21WU08zal9IRVFGU0RhMzkwanotZFh6cEQ4Q214eVEzMVZVUW53Vm1aWGkweEtTLTFSZ2c?oc=5",
+          "description": "El presidente Orsi calificó de \"terrible\" el quíntuple homicidio, y renovó su apoyo al ministro Carlos Negro: \"Cada vez más\" &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-15T16:39:00+00:00",
+          "score": 3,
+          "score_reason": "Énfasis en citas textuales genera tono más dramático y personal",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "El presidente de la República, Yamandú Orsi, se refirió al quíntuple homicidio ocurrido en El Monarca. Calificó el hecho como \"terrible\" y expresó su respaldo al ministro del Interior, Carlos Negro. Orsi afirmó que su apoyo al ministro es \"cada vez más\". Las declaraciones del mandatario se produjeron en el contexto de un crimen múltiple que conmocionó al país. El presidente ratificó la continuidad de Negro al frente de la cartera de seguridad pública.",
+        "coincidencias": [
+          "Orsi se pronunció sobre el quíntuple homicidio en El Monarca",
+          "El presidente respaldó al ministro del Interior Carlos Negro",
+          "Ambos medios reportan los mismos hechos centrales"
+        ],
+        "diferencias": [
+          "Subrayado usa citas textuales directas de Orsi mientras R Multimedio parafrasea",
+          "Subrayado enfatiza el crecimiento del apoyo con 'cada vez más'",
+          "R Multimedio usa 'condenó' mientras Subrayado destaca 'calificó de terrible'"
         ]
       }
     }
