@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-17T11:25:39.429978",
+  "generated_at": "2026-07-18T11:08:47.531944",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Fallecimiento de jugador juvenil de Liverpool",
-      "category": "Deportes",
+      "topic": "Críticas de Delgado a foto coalición republicana",
+      "category": "Política",
       "sources_count": 2,
       "headlines": [
         {
@@ -14,13 +14,64 @@
           "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.elpais.com.uy",
-          "title": "Congoja en el fútbol uruguayo: falleció Aldo Pepe, jugador de las divisiones formativas de Liverpool",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcVpYU2RJWmJtRUlBSmhSUEtSWFkxaVN1ZmIzZXI0U0RxS1VhclhKX1g1akxKZlFXWWpQUkoxcGRQbU1NTlAyTzdweUdDeDAzanhPaDNNT05VcVhmbDZhZ2VwNjJjNzBSZGRwWUl1SUpPcWxTQUdYVWIzaGRmUkljNld5c3A3ZjJILWUxcTNvdUJJeVFDTzlMWkJBTXJOdV9RZVQ4aTI3OUptdmI1YU85eU9MZnloclZ5SVJQclhFTjlhb0F6RjZUTk5CQnh1RGQwS0laS0Zn?oc=5",
-          "description": "Congoja en el fútbol uruguayo: falleció Aldo Pepe, jugador de las divisiones formativas de Liverpool &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-07-17T00:05:21+00:00",
-          "score": 4,
-          "score_reason": "Uso de término emotivo 'congoja' añade carga emocional innecesaria",
-          "score_pct": 40
+          "title": "La foto \"incómoda\" de la coalición: cómo se gestó y cómo cayó ahora la crítica de Delgado en la interna del PN",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaDNHRVlFMkd3aTRLQ1ZSbkxydC1udkxOa1JPZ0U1bFlXTU1vMTYyZ3F2Y1E2aENsaHkxek9Uc2kwbFFPV016X1JXcjFULWhMT3FuVTFPaEFkT24tdjhpNEVaMGhwdWFKYkZ4ekdlRG9DSVNJd2dBTDBDTEw2S0N6NldXVGZOMnNoNkRPckFZYXdFNFZHUTN6VnNqcEY5ZEZaUU9LT29MUi00bnRhXzFNRFV3SzNPY25lUlMzaERXYzNJWHdFS1JfMmVKdUNHV2UyRnJiNVFxXzBqRlBaS1ZENFVFSGw4VXoyaGc?oc=5",
+          "description": "La foto \"incómoda\" de la coalición: cómo se gestó y cómo cayó ahora la crítica de Delgado en la interna del PN &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-17T07:05:25+00:00",
+          "score": 6,
+          "score_reason": "Uso de comillas en \"incómoda\" sugiere interpretación y conflicto interno",
+          "score_pct": 60
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Declaraciones de Delgado sobre el gobierno y la coalición",
+          "url": "https://www.teledoce.com/programas/esta-boca-es-mia/declaraciones-de-delgado-sobre-el-gobierno-y-la-coalicion/",
+          "description": "\"Luisdependencia\" del oficialismo y crítica a foto de la Coalición Republicana por Rendición. La entrada Declaraciones de Delgado sobre el gobierno y la coalición se publicó primero en Teledoce.com .",
+          "pub_date": "2026-07-17T18:39:31+00:00",
+          "score": 7,
+          "score_reason": "Término \"Luisdependencia\" tiene carga política negativa y es valorativo",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "Álvaro Delgado, candidato presidencial del Partido Nacional, realizó declaraciones criticando una fotografía de la coalición republicana tomada durante la rendición de cuentas. Las manifestaciones generaron repercusiones en la interna del Partido Nacional y del oficialismo. Medios oficialistas y sectores del gobierno caracterizaron la postura de Delgado como excesivamente dependiente del presidente Luis Lacalle Pou, utilizando el término \"Luisdependencia\". Delgado cuestionó la oportunidad y el mensaje transmitido por la imagen de los líderes coalicionistas reunidos. La polémica se desarrolla en el marco de la campaña electoral y las tensiones sobre la estrategia comunicacional del oficialismo de cara a las elecciones.",
+        "coincidencias": [
+          "Delgado realizó críticas sobre una foto de la coalición republicana",
+          "Las declaraciones generaron repercusión en el ámbito político uruguayo",
+          "La polémica involucra la relación entre Delgado y el gobierno actual"
+        ],
+        "diferencias": [
+          "El País enfoca en la repercusión interna del Partido Nacional",
+          "Teledoce destaca el concepto de \"Luisdependencia\" del oficialismo",
+          "El País analiza cómo se gestó la situación, Teledoce las declaraciones directas"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Tesla inicia operaciones comerciales en Uruguay",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Tesla Uruguay ya está operativo y se pueden adquirir dos modelos a través de su web",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNnVGWmdDSnBCRHR5Q09sc2lkWnJCQVFOQmh3clNhYjZuZi1lTmtud3E0T3V3UUctbm9EQXJoWndUVWVPLUdIeDdURXgzX1p3RmZXVjEwdENTR0h1SDdLNUJ6TE84MURKUklGUExRdkVOSmhIaHhGMHFYeXdvM3RLcUNQMDRkeGtyOEJTYTNGN0szbkxRdEpPZU1paXhyaEdQZExQOHlRdkc1X2w1SHlZbGFzdGJCVWtBcjE3NTJ1c1lpTHdB?oc=5",
+          "description": "Tesla Uruguay ya está operativo y se pueden adquirir dos modelos a través de su web &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-17T12:55:28+00:00",
+          "score": 1,
+          "score_reason": "Puramente descriptivo, informa los hechos sin valoraciones ni énfasis",
+          "score_pct": 10
         },
         {
           "source_id": "montevideoportal",
@@ -29,25 +80,279 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Dolor en el fútbol uruguayo: falleció jugador de las divisiones formativas de Liverpool",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSVB2NUlKUElsTl8zWnd2Z1d5Y19TZURLVEtYbEJVanJadWN5SG5mWjBNaktBcFNPSEZZRXFZcVA0eTVCamE1VG5fUUhlMjNOMTdaZHRNM3FIaXJOR3c4TnNqbm81SXMwMGxDTTdzLTRjTXU1TGxxenZkRFdwcFBhcGpDRHh3YlYwY1J4SHo5b21IQ0VtdmxvTFhQZERMTG5RSWFmOS1GQ2NISUNMY0VRUEJSSUE1aG1UMXM0QkFDd0FNN01hZ1FPaDZZbE5hbHc?oc=5",
-          "description": "Dolor en el fútbol uruguayo: falleció jugador de las divisiones formativas de Liverpool &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-16T22:29:00+00:00",
+          "title": "En menos de 24 horas se dispararon las ventas de Tesla en Uruguay tras publicar precios",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcDlTUk50TWJBLTRrQVM3TzFzU1lGcHNlc0pEdTBpSW41S2VZeWg3Um9CNDIwalFNYlVCd3JOR01hSGl2aWlKZG1jcnZ1QTBiOGpSSkxRUlJhQXhFUm1ST3hkOU9GMU1sdmM2eDJiMlFvYlVLQTNuc3ZZS1hkQ0t4Z2pJNU5PZGtvV3JrV2tzeUM4WGZuUXdBdHh2UnhWMkx2YkpENVk3U2FMUkVxMHBZcGZIQ3AwWUNkTVhGVlROZkJESk1KRWd0djI3eXBPUHlWT1hEeUZSb0xEb1cteXZBNW1B0gGGAkFVX3lxTE9TVHlCVnhwTFFXOWo3UVM0b2ZCLVNkRUVwYk5NLTIxUHV0eUxwX25nd2c5SFZSYmN2TWNaQkE2SHJkSE1yNVhYSjRtUWpmQXcyUm9yMnZId3JjZm5oWnBlQjFXNVVpR1J6Q1hTaVJLQmZHSGZzRklXVTdBeEJ5LVQtVnFDeGJWQ0tfS0t3MDBfcVdINEFNeFc0bEF6QWNpZE85cHNsWGpjSk1XZGMzc0t3VjUwYmRsWmZnTm5kOXpVVGtwRDBTdzJzcmg5UXl6RzNhbEp0TmpXNl9LMElaeWQ1Mk4xNXU0X0FIRTZILW1RMHBMQkM3aHFvZWlzRHBiRl9sRlBlbmc?oc=5",
+          "description": "En menos de 24 horas se dispararon las ventas de Tesla en Uruguay tras publicar precios &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-17T18:55:00+00:00",
           "score": 4,
-          "score_reason": "Término 'dolor' agrega emotividad al titular informativo",
+          "score_reason": "Usa 'se dispararon las ventas' que añade dramatismo al dato",
           "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "Falleció Aldo Pepe, jugador de las divisiones formativas del club de fútbol Liverpool. El joven deportista integraba las categorías juveniles de la institución futbolística uruguaya. La noticia generó repercusión en el ámbito del fútbol local. Hasta el momento no se han difundido detalles sobre las circunstancias del fallecimiento ni la edad exacta del jugador. Liverpool es uno de los clubes tradicionales del fútbol uruguayo que participa en la Primera División profesional.",
+        "resumen": "Tesla comenzó a operar oficialmente en Uruguay. La empresa estadounidense de vehículos eléctricos habilitó su sitio web local donde ofrece dos modelos para la venta: el Model 3 y el Model Y. Tras la publicación de los precios en la plataforma, se registró un aumento significativo en las transacciones comerciales durante las primeras 24 horas de operación. La marca de Elon Musk ingresa así formalmente al mercado automotriz uruguayo, sumándose a la oferta de vehículos eléctricos disponibles en el país. Los interesados pueden realizar la compra directamente a través del portal web de Tesla Uruguay.",
         "coincidencias": [
-          "Ambos confirman el fallecimiento de Aldo Pepe",
-          "Los dos identifican que pertenecía a divisiones formativas de Liverpool",
-          "Coinciden en enmarcar la noticia como acontecimiento que afecta al fútbol uruguayo"
+          "Tesla ya está operativo en Uruguay",
+          "Se pueden adquirir vehículos a través de la web",
+          "Los precios fueron publicados y generaron interés comercial"
         ],
         "diferencias": [
-          "El País incluye el nombre completo del fallecido en el titular, Montevideo Portal no",
-          "El País usa 'congoja' mientras Montevideo Portal prefiere 'dolor' como expresión emotiva"
+          "El País enfatiza la disponibilidad de dos modelos específicos",
+          "Montevideo Portal destaca el volumen de ventas en las primeras horas",
+          "Uno se centra en lo operativo, otro en la respuesta del mercado"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Elon Musk anuncia llegada de Tesla a Uruguay",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "\"Tesla ahora en Uruguay\": el mensaje de Elon Musk sobre la llegada de la compañía al país",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYlhLRmV5NElnUEQ1VVFRa0RhVnBxZmdWTk5hZzNGZTFtemdtLVdJMVY0VFVZSHQ5N0hGYU55dndBUmpTT2U0cEl0d0dGc291ZUtXdGNXalQ4YTFPUnNhYXFIdW0zYkd3VnNsaDZlQ0hybkJyeDRCSVpTb1V6T3VzR2M4ajdhekU1T2JNS1V2NjRETWR5OVA5TzVSWExRZkZTMGdCT3ZES2dFbVFxdVVtbVh5R1JNRFJ2WUE?oc=5",
+          "description": "\"Tesla ahora en Uruguay\": el mensaje de Elon Musk sobre la llegada de la compañía al país &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-17T00:04:36+00:00",
+          "score": 2,
+          "score_reason": "Informativo y directo, cita textualmente el mensaje de Musk",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Tesla now in Uruguay”: Musk anunció que su empresa llegó al país y llovieron comentarios",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdjY5WHRSck5ZaWhhUnA2M1FFb3cxNDBiZnlIbWpfRmVucU1Xa200Um1vaHJoVnhONjdVUjBvZVZZOGNvY1QwSkx4Rm1UZHNXaV85VFlDcGtzaEEzRG5WbVZrdDVEQmhmbHluQ0hrLWZWRUkwNVhqVDdod1RXX0d6NF9PUGVkWFFjUEd2TGxMdWhjMnJPOFdYNWRSZkh6UjF2c1A1eVFlRkgyZk83SFFwbm9pbkhaS3B2VWx4NjVDLXZkREFjbFM1X0hicmNIV3VMRFFVOVpMZmtfazkybjJDY2RYWdIBhwJBVV95cUxOWEx5X29kdFpyeXFRVF9qMVpILThTNlNIUHhVTlNpNnhka2gtMFRRSmQzc0hiOU5vZ2phT0xmMkNzQmVNVjU3UWN1R242ZGN2WkIxWjVyMmtHdlp3ZlhaamJuNGxJZ0piYTNHWk1ZUXlBMEJkVXZpWEdBbmhBNWlxM2lVRGc4U1Z4N29UVjlObmFpVFppX1FBMm1VZDhBN2stOWo2a1NjQzFDbGQ5ZDEtejBGM04zR2JZY3ZaMHcxUWpHSGkyMko3ODZ0Z004Rm10OE04ZkctYW5hOFVKOVVTdU1sVHBDbm0tNEVDalBzSzIzeGhDSUdwTmN3Tjhyek4zTWFQODhiWQ?oc=5",
+          "description": "“Tesla now in Uruguay”: Musk anunció que su empresa llegó al país y llovieron comentarios &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-17T13:13:00+00:00",
+          "score": 3,
+          "score_reason": "Agrega elemento subjetivo al mencionar que llovieron comentarios",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Elon Musk anunció a través de sus redes sociales la llegada de Tesla a Uruguay con el mensaje \"Tesla now in Uruguay\". La empresa de vehículos eléctricos del empresario estadounidense confirmó así su desembarco en el mercado uruguayo. El anuncio generó repercusión en redes sociales y medios de comunicación locales. Hasta el momento no se han brindado detalles sobre la modalidad de operación, productos específicos que se comercializarán, o fechas concretas de inicio de operaciones en el país. Tesla es conocida por la fabricación de automóviles eléctricos de alta gama y soluciones de energía sustentable.",
+        "coincidencias": [
+          "Elon Musk anunció la llegada de Tesla a Uruguay",
+          "El mensaje fue \"Tesla now in Uruguay\"",
+          "El anuncio generó reacciones y comentarios"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza la reacción del público y comentarios generados",
+          "El País se centra más en el mensaje directo de Musk sobre la compañía"
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Crítica de Ithurralde al rendimiento de Uruguay",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Ignacio Ithurralde: “no me gustó Uruguay en el Mundial” | La Mañana del Fútbol | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNnFRWFlBZUsyZDhfc1NLYmd5cEl6UmxhNlpKeHpPamJYQmRITTE4Y01vU2RzQ1N0LURHdzRQenFBSjZ2enpZanhRNHVDYVNiNnV1bjZKam8wZWoyTldDUmlaeUNjcEo4SXhVTVpIdktqMEZ5dU0teEVuZTlVX295endDZnppd3I0NnA4d01XaGNZak9GOVRrQ1pYZw?oc=5",
+          "description": "Ignacio Ithurralde: “no me gustó Uruguay en el Mundial” | La Mañana del Fútbol | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-07-17T14:08:29+00:00",
+          "score": 2,
+          "score_reason": "Cita textual directa del entrevistado, contexto claro y neutral",
+          "score_pct": 20
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Adversario equivocado",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TTGRjRmdHMDh6c05mUXd4aTJBUWdoTm1KVzFCVFV2Q19VRW1CYWhzRV9udmNqaFhYZjNLbE5VcjJHV2RtWlZ1Y3hjdlBiQUJtdUxPWlJFS2t5ZEVnV05tMW9UZnFjbldRNWk2OVpXTFk2M0JWZHc?oc=5",
+          "description": "Adversario equivocado &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-17T07:31:36+00:00",
+          "score": 7,
+          "score_reason": "Titular críptico y metafórico sin información clara sobre la noticia",
+          "score_pct": 70
+        }
+      ],
+      "analysis": {
+        "resumen": "El periodista deportivo Ignacio Ithurralde expresó en el programa 'La Mañana del Fútbol' de El Espectador su opinión sobre el desempeño de la selección uruguaya de fútbol en el Mundial. Ithurralde manifestó que no le gustó lo mostrado por Uruguay en la competencia. Las declaraciones del comunicador fueron recogidas por distintos medios uruguayos, enfocándose en su análisis crítico del rendimiento del equipo celeste durante el torneo mundial. El comentario forma parte del análisis periodístico posterior a la participación uruguaya en el campeonato.",
+        "coincidencias": [
+          "Ambos refieren a opiniones sobre Uruguay en un Mundial",
+          "Ambos involucran contenido del medio El Espectador"
+        ],
+        "diferencias": [
+          "El País usa titular ambiguo sin nombres ni contexto explícito",
+          "El Espectador identifica claramente al entrevistado y su declaración textual",
+          "El Espectador especifica el programa y formato mientras El País omite detalles"
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Intento de suicidio de Fernández Albín en prisión",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Fernández Albín intentó quitarse la vida en prisión; había sido trasladado hace una semana",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaFRjM1JjdHlNc3g0ZWl4SjhZRmVwVXgxNWJTeFZBNDR6dWFuNzhpdzN0NnZKbnU4UUdLdjh5TmFkWXBaYV9pajNCT3A0YmhScGZVRzBKWDRwcVF6WEh5VDRTOFdNdWdWUmR4T2lwNmNxNzRiZFhITjU1UUFRNi1lY3Y2dEMzVG81MGFNSzZ5OWRCeHJ0UlRiblEzTTF2Y3BYVzVzQzVFWFhmUlQwYnlsbEJBeld6bXNQMTRVcExaQTVFSmw2cDRNQWdueEVCUHhPR1RB0gH3AUFVX3lxTE9hbGtEVml1enM5VWk2QmVQVW1iRlFENWJlUzg5ZUlQOEx4Mno2WFpkRkVaR3NGQmR5WXp1bEtEYm1DVk53Umt0enA2cXhGbkRaSEpyTElDd0dobTk2WF9rRkVjYzFDLTFYS3RBMUdmbFA1N0dKWFZURzhTRVpuZTlZVDBvN0RIclNJRGR5M2IyQ2o5QWFBM3gtN2VTMndWT1NrSWNHN2hHN1JCUUd1azZDRDJEVHVpU1oxZFA1U0UzRk9VZkotYVV4azJfelBxcVpjMnFRekVYYVZLbWdNZnV4Y1E3QUJyelg4dWl2azRQUHp0STNzVFU?oc=5",
+          "description": "Fernández Albín intentó quitarse la vida en prisión; había sido trasladado hace una semana &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-17T13:10:00+00:00",
+          "score": 2,
+          "score_reason": "Informativo, neutral, sin calificativos adicionales sobre la persona",
+          "score_pct": 20
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "El narcotraficante Luis Fernando Fernández Albín intentó suicidarse en la cárcel",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNXVCOWJnSk0zVTRMOFl1WFZ5Y3k3WWRucHFfMnVCNjc5TnZtVk9BRW1IclppWnVSbWZLMnJZSDNIVmlkUlBZVGJ2TGhKc0FPWXZ4Wl9JSWRHaWY3S2ZCaUo1TTI1TVd6TkJOR3QxUHoyR0RhX3BpTjYyd05yNXhkZ2EwR1MzUmxKck1TN3BORkhLODdUSThvTU5VVzJ2eFo3U2w1MEotczZ1SjNMRGNvWlFBek52LXlwZDJTWm04M002d2It?oc=5",
+          "description": "El narcotraficante Luis Fernando Fernández Albín intentó suicidarse en la cárcel &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-07-17T11:49:00+00:00",
+          "score": 3,
+          "score_reason": "Incluye calificativo 'narcotraficante' que añade contexto judicial previo",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Luis Fernando Fernández Albín intentó quitarse la vida en el centro de reclusión donde se encuentra privado de libertad. El hecho ocurrió después de que fuera trasladado hace aproximadamente una semana a otra unidad carcelaria. Fernández Albín se encuentra detenido por delitos vinculados al narcotráfico. Las autoridades penitenciarias habrían intervenido en el episodio. No se informaron mayores detalles sobre su estado de salud actual ni las circunstancias específicas del intento de suicidio. El traslado reciente de Fernández Albín entre establecimientos carcelarios precedió al incidente registrado.",
+        "coincidencias": [
+          "Luis Fernando Fernández Albín intentó suicidarse en prisión",
+          "El hecho ocurrió recientemente en un centro carcelario",
+          "Había sido trasladado de unidad hace una semana"
+        ],
+        "diferencias": [
+          "Búsqueda identifica explícitamente a Fernández Albín como narcotraficante en el titular",
+          "Montevideo Portal enfatiza el traslado reciente como contexto del hecho",
+          "Diferente nivel de contextualización sobre los antecedentes judiciales de la persona"
+        ]
+      }
+    },
+    {
+      "id": "story_006",
+      "topic": "Justicia rechaza prescripción de Charles Carrera",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "La Justicia negó prescripción del exsenador Charles Carrera y defensa anunció apelación",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYkZTNHdGR3BTaERwaWVBRG15UHo0S2dGQmI5dXRjU2gyVW42eEFYeWdHSXlwemFZaFJaVWpmTmt6VkJETFBKNE5NVTdWU2t5bG5IcjRtNC1jNDhLOHVjQmpUSjA4aHpsdjc3STlHVG1tNmlqaGF1dlh6TFhrdmJkWWRVNkpLREU5MVhXSjREa1ZpSHhFb3IwMlNGNnpwQmlxcjdsYW51TXZieVZLcjgwUUVVa1pIcG5veF9QTjRNcUNTNGlUc0RZanBtZ2R6MGlp0gH0AUFVX3lxTE9laDV4WlM3ei1qLTg0eUo5X0doOHRONHZ3LWpTTVZwMkZNU04wdnRvNXlqSXdCRWcybDRQbnBqY0FoeHRVc21FWmJURXlFcGZBVGo5bTR2ODVSWGN2Y0VuRjRYOEFSbWk1ckJUYTZvU21WZHJ0bmxMNDlzYUZ4b0hzX1JqS05LWVp3UDRwME9WcnpZRXhlMGJzM1g2RGkxcmNtY2l0eUZzbEMwa2FqMi1RSUY5UnNsOFNnUUxQVlE3cWNTU18yVFpoS2psY1pwQUtwZU1ybG5YYmNFSUtiUF94RDVRM1VzXzNaY3BIdExwTklmOGg?oc=5",
+          "description": "La Justicia negó prescripción del exsenador Charles Carrera y defensa anunció apelación &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-16T23:34:00+00:00",
+          "score": 1,
+          "score_reason": "Informativo, neutral, menciona ambas partes del proceso judicial",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Justicia rechazó pedido de prescripción de Charles Carrera y el caso avanza a hacia el juicio oral",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSnFXV3F1V0tGbVU4QTV3UG1pcHBwMHh5TlBvRXBsbkt3ZzktUUpLMms3bjZwemNwV2RaQ0VyUHNOTlN3OWRlTUNUbkpzLUlCa0Q5Z2tNc1o3dEk1X0g4UzBuUmk5TVJ3V053Mzd4bG5ibklSTURBREFLSGpYWGE1LXd6dmNRZ19YcGplaldwUnh3MVBPN0xWdkktOGtHenZsVUQzVDQzdTkyOS1nLTlnQjd1bjJsRTRNcHFlYy1aUdIBxAFBVV95cUxORkZNQjBxOWlJQVJCamdjTWIyUDhMeUxYaFd4MU9fMG9uYVhhdkp2eVNFY0lPZGF4cllPbEo3YkRhTFQwdnVJalBPTHRKOUtjTndHLWdYZ0NyVHVEN3NocW81UUoyVU5BazFUS2VGVEdjYUx2RG1QaDVUaDduWkxiS1JCdE9IUWtiZ1pSUVJYX1hCWlJIcVptUjl5U0hkYjhpYktTTHZuN2RSTExZc2VCamF1SlN4YkNWRk9SdlBtX0lMeFNN?oc=5",
+          "description": "Justicia rechazó pedido de prescripción de Charles Carrera y el caso avanza a hacia el juicio oral &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-17T14:23:00+00:00",
+          "score": 1,
+          "score_reason": "Objetivo, agrega información sobre siguiente etapa procesal sin sesgo",
+          "score_pct": 10
+        }
+      ],
+      "analysis": {
+        "resumen": "La Justicia uruguaya rechazó el pedido de prescripción presentado por la defensa del exsenador Charles Carrera. La resolución judicial implica que el caso continuará su curso procesal hacia la etapa de juicio oral. Ante esta decisión, la defensa del exlegislador anunció que presentará un recurso de apelación contra el fallo que denegó la prescripción. Carrera enfrenta un proceso judicial cuya naturaleza específica no se detalla en los titulares presentados. La instancia de juicio oral representa la siguiente fase del proceso penal, donde se evaluarán las pruebas y argumentos de ambas partes ante un tribunal.",
+        "coincidencias": [
+          "La Justicia rechazó el pedido de prescripción de Charles Carrera",
+          "El caso involucra al exsenador Charles Carrera",
+          "Se trata de una resolución judicial reciente"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza la reacción de la defensa y su apelación",
+          "Subrayado destaca la consecuencia procesal: avance hacia juicio oral",
+          "Subrayado presenta error tipográfico ('a hacia') que afecta profesionalismo"
+        ]
+      }
+    },
+    {
+      "id": "story_007",
+      "topic": "Lema cuestiona al MSP por rechazo a donación de órganos de menores",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Lema cuestionó al MSP por oponerse al proyecto de donación de órganos de menores",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTm15YUg1NXhZRU5vQk94bG1yZnU4U2YzeTQ2M0pBT2d2TDM0QlN2MUZtaHVYMUE1OXk4bklZdUM3V3NkUFIwTVVhV2tJTi1Rb3VRZDNSMVZtWDFMNEp3VEl3Ml9MQ05MQ2FwdWlJR0FPR053Y05Pc1dKTGZETktIeHNtc1otLTRMWjhfMGV2ZDJUemZWMEpiSndwbzRpVVR5cmRXQU85VjdNRzlnZ0tFd293N3JCSDFnTm9KYjJEVmZaQk9TZ2lF0gHrAUFVX3lxTFBTYTRSLXV1VU8wMUlxNXRmbU5pYnNESXprUU1SWTk5NHRPTlNwMHY4QmMxdDVkaHZJNEpfaGFGVXJIeWxzYllZWEZCUEhaZHRoVFhlQzR3U3lFR1g0X2ZTczhiV1drekRqeVhSQUpiR0JKQzFuZFJQTmpyYlJGbEFPZlZxZlpfNXZOZlpSRlZvOHY0UHQwQXZKa2NOZXN0dTNnaGR4ckkxTjVHeDd5R01rVE5xUndySWZ5X2xfWkQ4NktvWXpJRmpCQUFBTW5OWkZtTWN3UzI1djZadVRfRXBpQlJLZXJyUUJ6eDg?oc=5",
+          "description": "Lema cuestionó al MSP por oponerse al proyecto de donación de órganos de menores &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-17T19:48:00+00:00",
+          "score": 2,
+          "score_reason": "Titular informativo, directo, sin carga valorativa evidente",
+          "score_pct": 20
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "MSP se mostró en contra de que menores sean donantes de órganos y Lema respondió: \"No esperaba una postura de estas características\"",
+          "url": "https://www.teledoce.com/telemundo/nacionales/msp-se-mostro-en-contra-de-que-menores-sean-donantes-de-organos-y-lema-respondio-no-esperaba-una-postura-de-estas-caracteristicas/",
+          "description": "\"Sorprendido porque fue votado por todos los partidos políticos en el Senado\", dijo el blanco. La entrada MSP se mostró en contra de que menores sean donantes de órganos y Lema respondió: &quot;No esperaba una postura de estas características&quot; se publicó primero en Teledoce.com .",
+          "pub_date": "2026-07-17T18:51:48+00:00",
+          "score": 3,
+          "score_reason": "Incluye cita textual que enfatiza la sorpresa de Lema",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "El senador Sebastián Da Silva, conocido como 'Lema', cuestionó públicamente al Movimiento de Participación Popular (MSP) por manifestarse en contra del proyecto de ley que permitiría la donación de órganos de menores de edad. El legislador del Partido Nacional expresó sorpresa ante esta postura, señalando que el proyecto había sido aprobado por unanimidad de todos los partidos políticos en el Senado. El MSP, sector del Frente Amplio, se pronunció en contra de la iniciativa que habilitaría a menores como donantes de órganos. La propuesta ahora genera controversia en el tratamiento parlamentario.",
+        "coincidencias": [
+          "Lema cuestionó la postura del MSP",
+          "MSP se opone al proyecto de donación de órganos de menores",
+          "Lema expresó sorpresa ante la oposición del sector frenteamplista"
+        ],
+        "diferencias": [
+          "Teledoce destaca con cita directa la sorpresa de Lema por el apoyo previo unánime",
+          "Montevideo Portal usa un titular más sintético y neutro",
+          "Teledoce enfatiza el contexto de aprobación previa en el Senado"
         ]
       }
     }
