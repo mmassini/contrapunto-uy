@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-07-19T11:11:28.122914",
+  "generated_at": "2026-07-20T12:20:28.626873",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Wanderers venció 2-1 a Nacional en el Parque Central",
-      "category": "Deportes",
+      "topic": "Petróleo argentino de Vaca Muerta para Ancap",
+      "category": "Economía",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Intermedio: Wanderers derrotó 2-1 a Nacional en el GPC y trepó a la cima del grupo B",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHB3Zkd1V2V1Y3VBanQxOHBtVmk4dkU1ZmdWeWNlS1lidktkMWRSRmtjUkxCeVFXMl84WFVWTjlDZFpoNUYzZW85bzBPdXREbm11V19LeG0zLXRMZDMzaC1JUWhLR2JuU2h0cF9oTUNwemo0cTQ3NGJGWU1wVnJ5RzV5Z0ZYalk5cTZYdmE3dlQ4UklTUUh2V252dFk1RkpWNnA5UDhudk0xeDVMbERucVp3MllpT0FRM2t5b1l3cURuTEdnUzJHdjZSZw?oc=5",
-          "description": "Intermedio: Wanderers derrotó 2-1 a Nacional en el GPC y trepó a la cima del grupo B &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-18T00:30:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo, descriptivo del resultado y consecuencia deportiva sin carga.",
-          "score_pct": 10
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Vaca Muerta gana terreno en Uruguay: el petróleo argentino se consolida como pieza clave para Ancap",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSkpwcVd5REFLRkYtdTB0MFFiQTlYSzQzdlc2S2ZOc3VMV3RRZlZIV1BfWl9fLU14cEZIVU9yZ0h1bUxzaTlfVWxWdVUteTBSN2kyTU1RcVJSOFM5dl9VOUhGUzVIYVVzU2tKX21TMURrMVhHRGx3MHFMSzQ4SFhkVkRFQ3Z6MmNLZUF6bG1GbXFDeF9JTFdTN3RGcVI5SDdGdThKTi0yQmtjZ3NoeTU5REhJZDUyZUM1Y01FTHp2d2ZSN284YV9YWjFTeVhZMkVmYUQ3SkpMckk4akpMZjRfN1BqS25mZw?oc=5",
+          "description": "Vaca Muerta gana terreno en Uruguay: el petróleo argentino se consolida como pieza clave para Ancap &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-07-20T08:00:00+00:00",
+          "score": 2,
+          "score_reason": "Descriptivo, informativo, con datos concretos sobre el hecho económico",
+          "score_pct": 20
         },
         {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Wanderers dio la sorpresa y derrotó 2-1 a Nacional en el Parque Central | Noticias | Futbol Uruguayo",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0JNRVNFY21UWFJLN1AxZjhGcVVscjdRaUxpZWtNRFp4Y1U5TWFaRUlwa2o3RzFXcEpHck1GOFBLXzlRa0gtQU5LeHpUdDNpd3o1ZFBxLV9tV0NiYlBONEhuYzgwZ3dnVVJKOXNCcnBnVHM1OUhyMjV4V0hBX1M2a3VqQ3BoMk9uWXpXdnZIdEVDZnpjTzExYXhyOEJiOXpLME80UmZTalNZZ2dBSVcwMUFheVVrY2JOdkE?oc=5",
-          "description": "Wanderers dio la sorpresa y derrotó 2-1 a Nacional en el Parque Central | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-07-18T13:12:53+00:00",
-          "score": 3,
-          "score_reason": "Uso de 'dio la sorpresa' introduce valoración subjetiva del resultado.",
-          "score_pct": 30
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Pataletas",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMZ0VyTkFUdldkTHlvSDIwaW93bkt2aFRSQXhMMmVwckN5Z3NCZ1hZeW9sU2p5TDNYQUZqb0ZXWHRIRzBPQkZSWUt6Zm1hdjJ0R1NQX3dHN0lHVmVMMkMzdEFrMzhwQQ?oc=5",
+          "description": "Pataletas &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-19T07:15:29+00:00",
+          "score": 10,
+          "score_reason": "Término despectivo sin contexto informativo sobre los hechos reportados",
+          "score_pct": 100
         }
       ],
       "analysis": {
-        "resumen": "Wanderers derrotó 2-1 a Nacional en un partido disputado en el Gran Parque Central, correspondiente a la competencia del fútbol uruguayo. El resultado permitió a Wanderers ascender a la primera posición del grupo B de la tabla. El encuentro se desarrolló en el estadio del equipo tricolor, ubicado en Montevideo. El marcador final fue de dos goles para el equipo bohemio contra uno del conjunto nacionalista. Esta victoria modifica la clasificación del grupo, colocando a Wanderers como líder provisorio de su zona.",
+        "resumen": "Ancap incrementó la compra de petróleo proveniente del yacimiento argentino de Vaca Muerta. La empresa estatal uruguaya consolidó a Argentina como proveedor clave para su refinería. El crudo de Vaca Muerta representa una proporción creciente del suministro total de petróleo que procesa Ancap en Uruguay. Esta tendencia marca un cambio en los patrones de abastecimiento de la petrolera estatal, que tradicionalmente importaba de otras fuentes. La cercanía geográfica y las condiciones comerciales favorecen esta relación de suministro entre ambos países.",
         "coincidencias": [
-          "Wanderers venció 2-1 a Nacional",
-          "El partido se jugó en el Gran Parque Central",
-          "El resultado tiene implicancias en la tabla de posiciones"
+          "Ambos refieren a la situación de Ancap",
+          "Involucran el petróleo argentino de Vaca Muerta",
+          "Tratan temas de abastecimiento energético nacional"
         ],
         "diferencias": [
-          "El Espectador califica el resultado como 'sorpresa', Montevideo Portal es neutral",
-          "Montevideo Portal enfatiza el ascenso a la cima del grupo B",
-          "El Espectador destaca el aspecto inesperado del resultado, Montevideo Portal la consecuencia clasificatoria"
+          "El País usa lenguaje editorial despectivo sin informar hechos concretos",
+          "El Observador adopta tono informativo centrado en datos económicos",
+          "El País omite contexto mientras El Observador explica la consolidación comercial"
         ]
       }
     },
     {
       "id": "story_002",
-      "topic": "Peñarol goleó 3-0 a Boston River",
+      "topic": "España campeona del Mundial 2026",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
@@ -65,14 +65,50 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Peñarol goleó 3-0 a Boston River y se consolida como líder de la Serie A del Intermedio",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWm9ueUxHOHowVGhWbTA1R2R0aE15NWVQYWM3aWZVVEVHSTZtZnBneWZ2aXgyVzNRUjd1ZENkMlNtSGRWd3RzTk9GT09CUXlKZDVuWmE4dlZicU02ZWdYTVdTYjdGeDBpdDJaSUlfY1Q5ZWlZZ2JvREhpYm5tMzhTeHBOYUtHazZxendfQmd4RjVuLWl3cEcyTnJkS09VUzRSalNyMWhvZldvdTNJYmdzVzVnTmw1cGlIWWfSAb8BQVVfeXFMT3dQUjZCcGdPbHB0LTNrS2JkdUdZUWM3V3hMSHdRSS0tSE5OSWlleFFkTjFzMUtwaDhuTnNpMHJPNFVVUUtsRTlyYTM1STJXMml6QndvWUZiOWJEMGxzVEw0RlhKYjJpeHZ6UVJEMjUxLVZjd3RaQ3E1MGR2U3ZsN3lZSHdsX1VTQ1V3N1V6ZTc0WTNxQ1IxTUFRTW16eGxjVGFWZ0hjV292OWtkLVo2dGtSRXZhYzdsT2plVUp0Sms?oc=5",
-          "description": "Peñarol goleó 3-0 a Boston River y se consolida como líder de la Serie A del Intermedio &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-18T21:15:00+00:00",
+          "title": "España campeona del Mundial 2026 de punta a punta tras ganare 1-0 la final a Argentina",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMEk2bmZOQkQxRkx5dE5QLWhMbUMtRkN5emlicmNkcWh6MkJTd3BSUkIwbi1hM1Eyd092eUg3RXo1QlhSQzVOR2MzY2wxNkJsa01qOWlOSHhrSnVqMGxYeXFCZEsxZDZKVTl6YzhJcDg0WVhaSHY2U1N1WXhKbTRuZzRoc2xUMGZXcllYX2hZa01EbEwyRGd0WGVGa9IBoAFBVV95cUxNS0V6VU9JWmRYWU9DTE9qMEJZUTJPMHpHaUZqWmNkdGNfNmNqRERSQzdFeFdNT2dvYzhmS0RITllSYWphSzZNMjVVLWZ3aWY2ZGVLRUNPb29xd1kyYmJMNnhzcTR6bHhnQ2ZwSmQ4blRNR2JLSTNLYTB6MV9rRUN6U3lPQlcydmNmakJmS3NpZktCVkNmQzU4Z1NORWhNN2Yy?oc=5",
+          "description": "España campeona del Mundial 2026 de punta a punta tras ganare 1-0 la final a Argentina &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-19T22:01:00+00:00",
           "score": 1,
-          "score_reason": "Informativo, incluye contexto de liderazgo sin carga emocional.",
+          "score_reason": "Informativo directo sobre resultado, con error tipográfico sin carga",
           "score_pct": 10
         },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Mundial 2026: Luis Suárez fue a la final entre Argentina y España en Nueva Jersey",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVdxYVZqcTlSbkxuTkVNU0RrUnVibmFseG5teV9DUDczVENQRTBvYkszN3BVcG1Bc25pcjlPMVRNOVRkbFEwUUlHVVhjMXlRUGIyMDVZTmg5UERKY1JlWlpJVkQ4dU13ZVdvdG9QQjNXWkQ3MHAzcGJuSmUxWFRFTm50VnNJRUxxekozcm5ST1p1OG0yZ1Zlay1Vb3Zjbms1YkgxZFBRYmNWOEl3QWFVUV9mdGdWamc1REQ0X3BnRThZOXNlZjZr0gHrAUFVX3lxTE5mclI2VnZ3ZFFPcmYxb0VKZWRVOUdsd3UzUm56M3NKeDNYQWtnSjlpek5xMngzM2R1LUdoX2JLd3prRmtQMU1NbUNLRDBab2tQN1NTZGJoZHJrV0ZlQkdSTXQ4RGNhdlpZeTV2UG5SUEstTXZidVIzT2JVZzBRUkNpN21VX29vVlNaNHRsSXczckZMQzNsUkNyOUQtVFdsckt1V1ZFOTBBdVRnQjVzbnl2Z3NtZHFxTHBGck92bk0taFRNdFJLV29lM1lReVlpY2ZZc0Vqa1ZoLXl6cUhic09YcDdxYjgtZ3FxbDA?oc=5",
+          "description": "Mundial 2026: Luis Suárez fue a la final entre Argentina y España en Nueva Jersey &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-19T19:39:00+00:00",
+          "score": 2,
+          "score_reason": "Enfoca en presencia de Suárez, no en resultado deportivo",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "España se consagró campeona del Mundial 2026 al vencer 1-0 a Argentina en la final disputada en Nueva Jersey, Estados Unidos. El partido definió al nuevo campeón mundial de fútbol. El exfutbolista uruguayo Luis Suárez estuvo presente en el estadio para presenciar el encuentro definitorio del torneo. España obtuvo el título de principio a fin del campeonato.",
+        "coincidencias": [
+          "La final del Mundial 2026 se disputó en Nueva Jersey",
+          "El partido fue entre Argentina y España",
+          "España ganó el encuentro"
+        ],
+        "diferencias": [
+          "Montevideo Portal prioriza la presencia de Luis Suárez por sobre el resultado deportivo",
+          "Subrayado se centra en el resultado final y el campeonato de España",
+          "Un medio destaca el ángulo uruguayo, otro el desenlace del torneo"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Mutual suspende fútbol por agresión policial a jugador",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
         {
           "source_id": "espectador",
           "source_name": "El Espectador",
@@ -80,26 +116,92 @@
           "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.espectador.com",
-          "title": "Peñarol, de local, goleó 3-0 a Boston River | Noticias | Futbol Uruguayo",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUG5GR3czdnZ3OEhVc0Jlbllla0dPX3JwR0hibWZQR0pWU2RJVUpydkFablVsU1prcndkZGlYMXlWdEd2a2tZWGZCdlprMHR1QVFVdXU5eTRuQkQ4MDVXZThaZDh0SWE1dXh0QngyaXh0Z09wOFFNRmNiaW9kZHg4ajVRZktmdXltdDBqQS02NlVJdw?oc=5",
-          "description": "Peñarol, de local, goleó 3-0 a Boston River | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-07-18T21:04:54+00:00",
+          "title": "La Mutual paró el fútbol por una agresión al jugador de Rentistas Jean Martínez | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY05IU01uSGkwNUp4YnE3T1ZPWm96R1d1QXEtaTNCR0tmZzhEcnVrZXNJenRVelRidmNGYTY1dUl0U1dhWnhRcFlmNzdXT0pKeGhsZ3V0SUh6TG5kdzJDWlhmZGZDbFRmemxJVGp2T0h1anIzQ2dQcUliUmNfWmpkWFdETlJxOG5hWHFORjVCN1JEVWV2OVh0bjdhSkItbmNzRHhBeVpGcmVFX1FxRldid3hyUDVQRTdGc0ZDX0h3eTR6S2Jl?oc=5",
+          "description": "La Mutual paró el fútbol por una agresión al jugador de Rentistas Jean Martínez | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-07-19T12:43:39+00:00",
+          "score": 3,
+          "score_reason": "Usa 'agresión' pero presenta hechos más neutros, identifica víctima",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Mutual suspendió el fútbol por incidentes en Rentistas-Cerrito: policía agredió a jugador",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWElUajEzUDRFclJra2FSZFIyVHAtVXRUZWVTcmdVdjFiWWwxSzBWYnE3di02QUxRUVpXNVBiOGdjRVo1SFVoVDI5T3VoRUFuZC1JdzRRblp5VXNkaW1vcExjOFhLSFV2RDRaOFByZEVVMlBPSzhvaUpDS2w3UTdhdHlPNHJmX0VnekdGc3NxcjVtNzdhOVdPUW1UbFZBOHVqWVhUN1VwQ2xEUFh3ZnZlQVg3ZXZSa0piSW44VFo2QjdjdmdLSDRoc09VZXdsbXdjaHfSAfYBQVVfeXFMT1h6WkkyMENGdy1uSDNaVFZsbDk5ejlJY0N6R1lDVVlMS1ExUjJ1WGVOUzN0MWVYQ3hYMHUtWW9WLUxNWVVKMGpDQmsyUDcxekZwYW03dTUxdmxvYi1sU3k0cHNZVDNBbzZGM1JlUUF4cHV4MnJNZV9HM1BCbloySjU2bFVHQmtyazhNNFB1QlRaaFJXOHllWDYtTWVKVFEzMUtURzNBdVVSVmtrYmlDSVlEb3Z2MUtLUnNfNkxSSG1XNFdOd3lyNEtUMlN6bkdUZ0lzeFdoNUxCZC1mMU51enlpMUtwa0ZiNXU3MFFlbnR1Si1pbkxn?oc=5",
+          "description": "Mutual suspendió el fútbol por incidentes en Rentistas-Cerrito: policía agredió a jugador &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-19T02:43:00+00:00",
+          "score": 4,
+          "score_reason": "Enfatiza 'incidentes' y especifica 'policía agredió', carga explicativa clara",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "La Mutual Uruguaya de Futbolistas Profesionales suspendió el fútbol tras incidentes ocurridos en el partido entre Rentistas y Cerrito. Durante el encuentro, un policía agredió al jugador Jean Martínez de Rentistas. Como consecuencia de este hecho, la Mutual dispuso la paralización de la actividad futbolística. El incidente involucró a fuerzas policiales y a un futbolista profesional en el marco de un partido de fútbol uruguayo. La medida de suspensión fue tomada por la agremiación de futbolistas en respuesta a la agresión registrada.",
+        "coincidencias": [
+          "La Mutual suspendió el fútbol",
+          "Hubo una agresión a un jugador de Rentistas",
+          "El incidente ocurrió en partido Rentistas-Cerrito"
+        ],
+        "diferencias": [
+          "Montevideo Portal menciona explícitamente que fue un policía el agresor",
+          "El Espectador identifica al jugador como Jean Martínez",
+          "Montevideo Portal habla de 'incidentes' plural, El Espectador de 'una agresión'"
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Orsi recorre Salto tras temporal del fin de semana",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Yamandú Orsi visita Salto este lunes de mañana para recorrer las zonas más afectadas por el temporal del sábado",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWi1hbVM5LV96c2N5bnVZVG9UcDZESE42UlhidGJVUG1wS1VyT0Y2V0Z1M0NDYWF4Z1hrUmJldFFLREE0ZU9UMzY5S3ZWbW9GWXA1V0k5SmFaOHMxMnNDSnktcDVNeVEwSkxkNHRPYndfWmZTY0J0elJsR3JGaXFOVXczUmJIdlNFcHd3VmNMLWttQ2lnUlJ1ZnlfUEJVQlZiY2QzcWxCaTY3aWt2a2tkRzJ2UVJ5RG9wN3duMmJnTk1aM2thd3RGZkxod2x6Ml9EdlhR0gHYAUFVX3lxTE8xV1U4VTlTRXRJaTYtMnBaamR2M2tHUG9qNXFRbHJOMjVDWG9VSlA2cVVwSDdRSTUwU2VCc2R2N3hqRUJVbWUtQkg0dERPWHFUMWVfMTBEY3dVY0R6TFlFZ3JMV1dVc0RMZHFUQjB2VlJxTjZMOVZwNXFZRTdwcUJfR1QyWnQxaFNNQzNKOE1HOVhPWXZxYWk3d2w2Ql9HUVAyVHhMYnBWb29sc0lOUVNYTUhLMzlfNVVJTnZfMDhwYmFBQlEzXzlmTGh5NUR4V2ZySGkzTUVjQQ?oc=5",
+          "description": "Yamandú Orsi visita Salto este lunes de mañana para recorrer las zonas más afectadas por el temporal del sábado &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-20T11:31:00+00:00",
           "score": 1,
-          "score_reason": "Neutral, agrega dato de localía sin valoraciones subjetivas.",
+          "score_reason": "Informativo, factual, sin carga valorativa ni adjetivos innecesarios",
+          "score_pct": 10
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "El presidente Orsi recorre las zonas de Salto afectadas por el fuerte temporal del fin de semana",
+          "url": "https://www.teledoce.com/telemundo/nacionales/el-presidente-orsi-recorre-las-zonas-de-salto-afectadas-por-el-fuerte-temporal-del-fin-de-semana/",
+          "description": "Luego de la recorrida, el presidente Orsi participará de la reunión del Centro Coordinador de Emergencias Departamentales (Cecoed) de Salto. La entrada El presidente Orsi recorre las zonas de Salto afectadas por el fuerte temporal del fin de semana se publicó primero en Teledoce.com .",
+          "pub_date": "2026-07-20T12:04:45+00:00",
+          "score": 1,
+          "score_reason": "Objetivo, agrega información sobre Cecoed sin sesgo aparente",
           "score_pct": 10
         }
       ],
       "analysis": {
-        "resumen": "Peñarol venció 3-0 a Boston River en partido correspondiente a la Serie A del Torneo Intermedio del fútbol uruguayo. El encuentro se disputó en el estadio del equipo aurinegro. Con esta victoria, Peñarol se mantiene en el primer lugar de la tabla de posiciones de su serie. El resultado fue contundente a favor del conjunto carbonero, que no permitió goles en su arco durante los noventa minutos de juego.",
+        "resumen": "El presidente de la República, Yamandú Orsi, visitó este lunes el departamento de Salto para recorrer las zonas afectadas por el temporal ocurrido durante el fin de semana. Tras la recorrida por las áreas damnificadas, el mandatario participó de una reunión del Centro Coordinador de Emergencias Departamentales (Cecoed) de Salto. La visita presidencial se realizó durante la mañana del lunes, luego de los eventos climáticos que impactaron el departamento el sábado.",
         "coincidencias": [
-          "Peñarol venció 3-0 a Boston River",
-          "El resultado fue una goleada",
-          "Se trata del Torneo Intermedio"
+          "El presidente Yamandú Orsi visitó Salto este lunes",
+          "Recorrió zonas afectadas por el temporal del fin de semana",
+          "La visita incluyó recorridas por áreas damnificadas"
         ],
         "diferencias": [
-          "Subrayado enfatiza la consolidación como líder de serie",
-          "El Espectador destaca la condición de local",
-          "Subrayado menciona explícitamente la Serie A del torneo"
+          "Teledoce menciona la participación en reunión del Cecoed, Subrayado no",
+          "Subrayado especifica que fue por la mañana, Teledoce no detalla horario",
+          "Teledoce titula como 'presidente Orsi', Subrayado usa solo 'Yamandú Orsi'"
         ]
       }
     }
