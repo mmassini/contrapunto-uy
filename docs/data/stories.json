@@ -1,61 +1,61 @@
 {
-  "generated_at": "2026-07-20T12:20:28.626873",
+  "generated_at": "2026-07-21T11:49:53.874770",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Petróleo argentino de Vaca Muerta para Ancap",
-      "category": "Economía",
+      "topic": "Tres delfines muertos varados en costas uruguayas",
+      "category": "Sociedad",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Vaca Muerta gana terreno en Uruguay: el petróleo argentino se consolida como pieza clave para Ancap",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSkpwcVd5REFLRkYtdTB0MFFiQTlYSzQzdlc2S2ZOc3VMV3RRZlZIV1BfWl9fLU14cEZIVU9yZ0h1bUxzaTlfVWxWdVUteTBSN2kyTU1RcVJSOFM5dl9VOUhGUzVIYVVzU2tKX21TMURrMVhHRGx3MHFMSzQ4SFhkVkRFQ3Z6MmNLZUF6bG1GbXFDeF9JTFdTN3RGcVI5SDdGdThKTi0yQmtjZ3NoeTU5REhJZDUyZUM1Y01FTHp2d2ZSN284YV9YWjFTeVhZMkVmYUQ3SkpMckk4akpMZjRfN1BqS25mZw?oc=5",
-          "description": "Vaca Muerta gana terreno en Uruguay: el petróleo argentino se consolida como pieza clave para Ancap &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-07-20T08:00:00+00:00",
-          "score": 2,
-          "score_reason": "Descriptivo, informativo, con datos concretos sobre el hecho económico",
-          "score_pct": 20
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "En menos de una semana, tres delfines murieron varados en costas uruguayas: ¿qué se sabe?",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUE5WEV4U3lGT3ZQUmN2em4ydmlzOGV4RTQ1N3RpZUZnMTlRNXBkcFZ4bHdrWFhhQndxbHhUSzlHZHVIWl9ybnVZSzI3WkN4LVJPSDh4djkzMXp5eTFRNUhTQV94WlJYU1NpS3FSWDFNTktULWs4aVowR1pucUxRUmk0LTlSTVJ0SjVYM2FRckc1YzFxblFOOGszdmNRZWdleGFxSHFXYm9VdnB6NV8zZnREVkkzYzh0WVp1Z1NrRHczVzJ6UUE3RC03cHU5Qmdp0gH0AUFVX3lxTE1lemVhQ0xDZEdMa2NScWpYYlplS2JDSkhiR25QdFVZWTFidlk3ZDhuTWZVRnp5MlpZcGNCajY5bkNyc3VkVlZBRjFSR3JTcUNRLTNsWG9ZTU5XbkpCWUliUFNrV0dqN3pzSWtKcTd5UV9jc3NsZWpmaThfdFJrT1lxTFFpb0lIOW56OFdSNUNEcGF2QU1sbmF6dlpYeDFDQTB5OFRxTmJqWXdHT1B1WWRnOTk2V01rZlB4SU1nNk9SWDIyMnZsY3FBR0xscDZtQTkzdFR2RzFSMjJMTmptVlp3dVVIUXo4MnV6NzdrLVBxVE1EQWk?oc=5",
+          "description": "En menos de una semana, tres delfines murieron varados en costas uruguayas: ¿qué se sabe? &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-20T12:56:00+00:00",
+          "score": 3,
+          "score_reason": "Uso de pregunta retórica genera expectativa y leve dramatismo",
+          "score_pct": 30
         },
         {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Pataletas",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMZ0VyTkFUdldkTHlvSDIwaW93bkt2aFRSQXhMMmVwckN5Z3NCZ1hZeW9sU2p5TDNYQUZqb0ZXWHRIRzBPQkZSWUt6Zm1hdjJ0R1NQX3dHN0lHVmVMMkMzdEFrMzhwQQ?oc=5",
-          "description": "Pataletas &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-07-19T07:15:29+00:00",
-          "score": 10,
-          "score_reason": "Término despectivo sin contexto informativo sobre los hechos reportados",
-          "score_pct": 100
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Muere una pareja de delfines varados en Colonia",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWhPZ1hjaUFNNVdqdzFfTGZ5VkRTQ2xzVThPVmhZdmdfNDZ3R05uUDdFSGJ2Wk9nX1d5T2NSbEJfXzdkMGlWdHhqeGI1dXA2c0ZBXzlCVWhiR2pvMTk3ZWFtc1dRam5XTlU4WXdqc29rNGh3TW5fc0ZnUEFCeUp5eVNXb0RYZ2RuRU8ydEI0WQ?oc=5",
+          "description": "Muere una pareja de delfines varados en Colonia &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-07-20T21:12:00+00:00",
+          "score": 4,
+          "score_reason": "Término 'pareja' humaniza animales, añade carga emocional moderada",
+          "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "Ancap incrementó la compra de petróleo proveniente del yacimiento argentino de Vaca Muerta. La empresa estatal uruguaya consolidó a Argentina como proveedor clave para su refinería. El crudo de Vaca Muerta representa una proporción creciente del suministro total de petróleo que procesa Ancap en Uruguay. Esta tendencia marca un cambio en los patrones de abastecimiento de la petrolera estatal, que tradicionalmente importaba de otras fuentes. La cercanía geográfica y las condiciones comerciales favorecen esta relación de suministro entre ambos países.",
+        "resumen": "En un período inferior a una semana, tres delfines fueron hallados varados y murieron en costas uruguayas. Dos de los ejemplares fueron encontrados en el departamento de Colonia, mientras que el tercer caso se registró en otra zona costera del país. Los varamientos de cetáceos son monitoreados por autoridades ambientales uruguayas, que investigan las posibles causas de estos eventos. Los delfines varados presentaban dificultades para sobrevivir fuera del agua. Las autoridades competentes registran estos incidentes como parte del seguimiento de la fauna marina en el territorio nacional.",
         "coincidencias": [
-          "Ambos refieren a la situación de Ancap",
-          "Involucran el petróleo argentino de Vaca Muerta",
-          "Tratan temas de abastecimiento energético nacional"
+          "Tres delfines murieron varados en costas uruguayas",
+          "Al menos dos casos ocurrieron en Colonia",
+          "Los hechos sucedieron en menos de una semana"
         ],
         "diferencias": [
-          "El País usa lenguaje editorial despectivo sin informar hechos concretos",
-          "El Observador adopta tono informativo centrado en datos económicos",
-          "El País omite contexto mientras El Observador explica la consolidación comercial"
+          "Montevideo Portal enfatiza el total de casos y plantea interrogantes",
+          "Grupo R Multimedio se concentra específicamente en la pareja de Colonia",
+          "Montevideo Portal usa enfoque más amplio, Grupo R focaliza geográficamente"
         ]
       }
     },
     {
       "id": "story_002",
-      "topic": "España campeona del Mundial 2026",
-      "category": "Deportes",
+      "topic": "Aumento de homicidios en primer semestre 2026",
+      "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
         {
@@ -65,143 +65,41 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "España campeona del Mundial 2026 de punta a punta tras ganare 1-0 la final a Argentina",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMEk2bmZOQkQxRkx5dE5QLWhMbUMtRkN5emlicmNkcWh6MkJTd3BSUkIwbi1hM1Eyd092eUg3RXo1QlhSQzVOR2MzY2wxNkJsa01qOWlOSHhrSnVqMGxYeXFCZEsxZDZKVTl6YzhJcDg0WVhaSHY2U1N1WXhKbTRuZzRoc2xUMGZXcllYX2hZa01EbEwyRGd0WGVGa9IBoAFBVV95cUxNS0V6VU9JWmRYWU9DTE9qMEJZUTJPMHpHaUZqWmNkdGNfNmNqRERSQzdFeFdNT2dvYzhmS0RITllSYWphSzZNMjVVLWZ3aWY2ZGVLRUNPb29xd1kyYmJMNnhzcTR6bHhnQ2ZwSmQ4blRNR2JLSTNLYTB6MV9rRUN6U3lPQlcydmNmakJmS3NpZktCVkNmQzU4Z1NORWhNN2Yy?oc=5",
-          "description": "España campeona del Mundial 2026 de punta a punta tras ganare 1-0 la final a Argentina &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-19T22:01:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo directo sobre resultado, con error tipográfico sin carga",
-          "score_pct": 10
+          "title": "Los homicidios aumentaron 21,2% en el segundo trimestre del año en comparación con el mismo período de 2025",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT1Z3Y0lRT3N5MGViVzk0anVxby1IcXpQUmVmNG82ZDdtRFlwcm5oWDBnSG15TEYtTTk2SUlCOWlNM09oWFZlaC1YS1Z5Vm9WMUViWlg1aHpvVlN2U3MxdmEyQWJIaE9KZmgtdndPdDNLckQxX25EUzdTdklic25oSHJBLXIySlFCX1h3RGJpdGdTY3dIYTRjOUxtOWRIWmdfaFM3QU1fUzZwd2JHQVFicnFib3hJbFJFdjliZzljV0pHV3FZQ29PbXhR0gHPAUFVX3lxTE56MWNyQ0RzeFExUEEyYkNxUXJ2NEFkQUU3LVFtb0dXLWM4RVBnR2hRWklnYzJ6cjFaSGlEN3ltejZGejFXZ1cwTXUzd3otbEJma2lTY054NDJpd2RfYjRWR0RMX2VyQTFUd2k3V054MkJhLWZaLUZEbUN2WGpTZ0c5ZzRJX0tTQXZ5NDR1NDFzbG1fTzlGbUREQVZ4OHZQZS1kam9MVFBoajVDNVNWMEdiOVBuODBSX0VhQV8zTDdNQzQ2TUhFMGdkX3VWeEhnOA?oc=5",
+          "description": "Los homicidios aumentaron 21,2% en el segundo trimestre del año en comparación con el mismo período de 2025 &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-20T19:02:00+00:00",
+          "score": 2,
+          "score_reason": "Presenta dato específico y período concreto sin adjetivación",
+          "score_pct": 20
         },
         {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mundial 2026: Luis Suárez fue a la final entre Argentina y España en Nueva Jersey",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVdxYVZqcTlSbkxuTkVNU0RrUnVibmFseG5teV9DUDczVENQRTBvYkszN3BVcG1Bc25pcjlPMVRNOVRkbFEwUUlHVVhjMXlRUGIyMDVZTmg5UERKY1JlWlpJVkQ4dU13ZVdvdG9QQjNXWkQ3MHAzcGJuSmUxWFRFTm50VnNJRUxxekozcm5ST1p1OG0yZ1Zlay1Vb3Zjbms1YkgxZFBRYmNWOEl3QWFVUV9mdGdWamc1REQ0X3BnRThZOXNlZjZr0gHrAUFVX3lxTE5mclI2VnZ3ZFFPcmYxb0VKZWRVOUdsd3UzUm56M3NKeDNYQWtnSjlpek5xMngzM2R1LUdoX2JLd3prRmtQMU1NbUNLRDBab2tQN1NTZGJoZHJrV0ZlQkdSTXQ4RGNhdlpZeTV2UG5SUEstTXZidVIzT2JVZzBRUkNpN21VX29vVlNaNHRsSXczckZMQzNsUkNyOUQtVFdsckt1V1ZFOTBBdVRnQjVzbnl2Z3NtZHFxTHBGck92bk0taFRNdFJLV29lM1lReVlpY2ZZc0Vqa1ZoLXl6cUhic09YcDdxYjgtZ3FxbDA?oc=5",
-          "description": "Mundial 2026: Luis Suárez fue a la final entre Argentina y España en Nueva Jersey &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-19T19:39:00+00:00",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Homicidios aumentaron en el primer semestre de 2026: hubo 12 casos más que en 2025",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM3RkQmpXR216bjMzdHhreDZ5blFYaGFSSndwMXAyYWlycmYxeEwzc21pclVZaUw1MjcwTXFYck16OTZVZ2h0MWtUZU9HaVduZ21kZm9USktLcEY0THktcjg2eWNyWEJLOEgzeVgwXzhUUTlUVWxaY3FFMVNyX3ZRVE9kVVNnUXN5eXhEZ19NeFMwSUJvbVd2bVdrQVZkT3dpNGItZFNpVXM0MjJyY0Exb0xvSTluaFJWZDgwUEJ3?oc=5",
+          "description": "Homicidios aumentaron en el primer semestre de 2026: hubo 12 casos más que en 2025 &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-07-20T22:23:00+00:00",
           "score": 2,
-          "score_reason": "Enfoca en presencia de Suárez, no en resultado deportivo",
+          "score_reason": "Informativo, incluye cifra absoluta y comparación temporal neutral",
           "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "España se consagró campeona del Mundial 2026 al vencer 1-0 a Argentina en la final disputada en Nueva Jersey, Estados Unidos. El partido definió al nuevo campeón mundial de fútbol. El exfutbolista uruguayo Luis Suárez estuvo presente en el estadio para presenciar el encuentro definitorio del torneo. España obtuvo el título de principio a fin del campeonato.",
+        "resumen": "Los homicidios en Uruguay registraron un aumento en el primer semestre de 2026 en comparación con el mismo período de 2025. Según los datos disponibles, se registraron 12 casos más que en el año anterior. El segundo trimestre del año mostró un incremento del 21,2% respecto al mismo período de 2025. Los datos fueron reportados por distintos medios periodísticos uruguayos a partir de información oficial sobre criminalidad en el país.",
         "coincidencias": [
-          "La final del Mundial 2026 se disputó en Nueva Jersey",
-          "El partido fue entre Argentina y España",
-          "España ganó el encuentro"
+          "Los homicidios aumentaron en 2026 respecto a 2025",
+          "Se presentan datos del primer semestre del año",
+          "La información se basa en comparaciones interanuales"
         ],
         "diferencias": [
-          "Montevideo Portal prioriza la presencia de Luis Suárez por sobre el resultado deportivo",
-          "Subrayado se centra en el resultado final y el campeonato de España",
-          "Un medio destaca el ángulo uruguayo, otro el desenlace del torneo"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Mutual suspende fútbol por agresión policial a jugador",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "La Mutual paró el fútbol por una agresión al jugador de Rentistas Jean Martínez | Noticias | Futbol Uruguayo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY05IU01uSGkwNUp4YnE3T1ZPWm96R1d1QXEtaTNCR0tmZzhEcnVrZXNJenRVelRidmNGYTY1dUl0U1dhWnhRcFlmNzdXT0pKeGhsZ3V0SUh6TG5kdzJDWlhmZGZDbFRmemxJVGp2T0h1anIzQ2dQcUliUmNfWmpkWFdETlJxOG5hWHFORjVCN1JEVWV2OVh0bjdhSkItbmNzRHhBeVpGcmVFX1FxRldid3hyUDVQRTdGc0ZDX0h3eTR6S2Jl?oc=5",
-          "description": "La Mutual paró el fútbol por una agresión al jugador de Rentistas Jean Martínez | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-07-19T12:43:39+00:00",
-          "score": 3,
-          "score_reason": "Usa 'agresión' pero presenta hechos más neutros, identifica víctima",
-          "score_pct": 30
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Mutual suspendió el fútbol por incidentes en Rentistas-Cerrito: policía agredió a jugador",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWElUajEzUDRFclJra2FSZFIyVHAtVXRUZWVTcmdVdjFiWWwxSzBWYnE3di02QUxRUVpXNVBiOGdjRVo1SFVoVDI5T3VoRUFuZC1JdzRRblp5VXNkaW1vcExjOFhLSFV2RDRaOFByZEVVMlBPSzhvaUpDS2w3UTdhdHlPNHJmX0VnekdGc3NxcjVtNzdhOVdPUW1UbFZBOHVqWVhUN1VwQ2xEUFh3ZnZlQVg3ZXZSa0piSW44VFo2QjdjdmdLSDRoc09VZXdsbXdjaHfSAfYBQVVfeXFMT1h6WkkyMENGdy1uSDNaVFZsbDk5ejlJY0N6R1lDVVlMS1ExUjJ1WGVOUzN0MWVYQ3hYMHUtWW9WLUxNWVVKMGpDQmsyUDcxekZwYW03dTUxdmxvYi1sU3k0cHNZVDNBbzZGM1JlUUF4cHV4MnJNZV9HM1BCbloySjU2bFVHQmtyazhNNFB1QlRaaFJXOHllWDYtTWVKVFEzMUtURzNBdVVSVmtrYmlDSVlEb3Z2MUtLUnNfNkxSSG1XNFdOd3lyNEtUMlN6bkdUZ0lzeFdoNUxCZC1mMU51enlpMUtwa0ZiNXU3MFFlbnR1Si1pbkxn?oc=5",
-          "description": "Mutual suspendió el fútbol por incidentes en Rentistas-Cerrito: policía agredió a jugador &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-19T02:43:00+00:00",
-          "score": 4,
-          "score_reason": "Enfatiza 'incidentes' y especifica 'policía agredió', carga explicativa clara",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "La Mutual Uruguaya de Futbolistas Profesionales suspendió el fútbol tras incidentes ocurridos en el partido entre Rentistas y Cerrito. Durante el encuentro, un policía agredió al jugador Jean Martínez de Rentistas. Como consecuencia de este hecho, la Mutual dispuso la paralización de la actividad futbolística. El incidente involucró a fuerzas policiales y a un futbolista profesional en el marco de un partido de fútbol uruguayo. La medida de suspensión fue tomada por la agremiación de futbolistas en respuesta a la agresión registrada.",
-        "coincidencias": [
-          "La Mutual suspendió el fútbol",
-          "Hubo una agresión a un jugador de Rentistas",
-          "El incidente ocurrió en partido Rentistas-Cerrito"
-        ],
-        "diferencias": [
-          "Montevideo Portal menciona explícitamente que fue un policía el agresor",
-          "El Espectador identifica al jugador como Jean Martínez",
-          "Montevideo Portal habla de 'incidentes' plural, El Espectador de 'una agresión'"
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "Orsi recorre Salto tras temporal del fin de semana",
-      "category": "Política",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Yamandú Orsi visita Salto este lunes de mañana para recorrer las zonas más afectadas por el temporal del sábado",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWi1hbVM5LV96c2N5bnVZVG9UcDZESE42UlhidGJVUG1wS1VyT0Y2V0Z1M0NDYWF4Z1hrUmJldFFLREE0ZU9UMzY5S3ZWbW9GWXA1V0k5SmFaOHMxMnNDSnktcDVNeVEwSkxkNHRPYndfWmZTY0J0elJsR3JGaXFOVXczUmJIdlNFcHd3VmNMLWttQ2lnUlJ1ZnlfUEJVQlZiY2QzcWxCaTY3aWt2a2tkRzJ2UVJ5RG9wN3duMmJnTk1aM2thd3RGZkxod2x6Ml9EdlhR0gHYAUFVX3lxTE8xV1U4VTlTRXRJaTYtMnBaamR2M2tHUG9qNXFRbHJOMjVDWG9VSlA2cVVwSDdRSTUwU2VCc2R2N3hqRUJVbWUtQkg0dERPWHFUMWVfMTBEY3dVY0R6TFlFZ3JMV1dVc0RMZHFUQjB2VlJxTjZMOVZwNXFZRTdwcUJfR1QyWnQxaFNNQzNKOE1HOVhPWXZxYWk3d2w2Ql9HUVAyVHhMYnBWb29sc0lOUVNYTUhLMzlfNVVJTnZfMDhwYmFBQlEzXzlmTGh5NUR4V2ZySGkzTUVjQQ?oc=5",
-          "description": "Yamandú Orsi visita Salto este lunes de mañana para recorrer las zonas más afectadas por el temporal del sábado &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-20T11:31:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo, factual, sin carga valorativa ni adjetivos innecesarios",
-          "score_pct": 10
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "El presidente Orsi recorre las zonas de Salto afectadas por el fuerte temporal del fin de semana",
-          "url": "https://www.teledoce.com/telemundo/nacionales/el-presidente-orsi-recorre-las-zonas-de-salto-afectadas-por-el-fuerte-temporal-del-fin-de-semana/",
-          "description": "Luego de la recorrida, el presidente Orsi participará de la reunión del Centro Coordinador de Emergencias Departamentales (Cecoed) de Salto. La entrada El presidente Orsi recorre las zonas de Salto afectadas por el fuerte temporal del fin de semana se publicó primero en Teledoce.com .",
-          "pub_date": "2026-07-20T12:04:45+00:00",
-          "score": 1,
-          "score_reason": "Objetivo, agrega información sobre Cecoed sin sesgo aparente",
-          "score_pct": 10
-        }
-      ],
-      "analysis": {
-        "resumen": "El presidente de la República, Yamandú Orsi, visitó este lunes el departamento de Salto para recorrer las zonas afectadas por el temporal ocurrido durante el fin de semana. Tras la recorrida por las áreas damnificadas, el mandatario participó de una reunión del Centro Coordinador de Emergencias Departamentales (Cecoed) de Salto. La visita presidencial se realizó durante la mañana del lunes, luego de los eventos climáticos que impactaron el departamento el sábado.",
-        "coincidencias": [
-          "El presidente Yamandú Orsi visitó Salto este lunes",
-          "Recorrió zonas afectadas por el temporal del fin de semana",
-          "La visita incluyó recorridas por áreas damnificadas"
-        ],
-        "diferencias": [
-          "Teledoce menciona la participación en reunión del Cecoed, Subrayado no",
-          "Subrayado especifica que fue por la mañana, Teledoce no detalla horario",
-          "Teledoce titula como 'presidente Orsi', Subrayado usa solo 'Yamandú Orsi'"
+          "Subrayado enfatiza el segundo trimestre con porcentaje, Búsqueda el semestre completo",
+          "Búsqueda presenta cifra absoluta (12 casos más), Subrayado usa porcentaje",
+          "Distintos períodos de análisis: trimestre versus semestre"
         ]
       }
     }
