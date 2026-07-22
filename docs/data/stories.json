@@ -1,9 +1,212 @@
 {
-  "generated_at": "2026-07-21T11:49:53.874770",
+  "generated_at": "2026-07-22T11:52:06.128620",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Tres delfines muertos varados en costas uruguayas",
+      "topic": "Hincha de Tigre herido a balazos tras partido",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Incidentes tras el partido entre Nacional y Tigre: un hincha visitante resultó herido de bala en plena ruta",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd2w0bnZZNTVDTEY0eWlZb002dThTQWZnS3pRYTJhbmswZDZ6aXh6dFgyaUExa0w5MUNKbGxVcjBGQ2tScTRvRlU0RVdiR2VUQ25fc1ZFRjZDdUNXZUZyd2VFTlo1RmRVTGYyU1JkamFjUFhiREhmTkI4aEZXM2ctUHJNTGVEUUVQLTJ5MDJ0SzhDeFQ1M21vWFJVR19NSnZlRkpKYVdtQkhENF90TFhpNEU4UmlMZXhwR01aNjJpWlJsWm0yellObC1PSzV2LWhyankxTFVQX3YyczF5X1c1SQ?oc=5",
+          "description": "Incidentes tras el partido entre Nacional y Tigre: un hincha visitante resultó herido de bala en plena ruta &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-22T02:30:48+00:00",
+          "score": 2,
+          "score_reason": "Describe objetivamente el hecho sin dramatismo ni carga emocional",
+          "score_pct": 20
+        },
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Ómnibus con hinchas de Tigre fue atacado a balazos en los accesos a Montevideo tras el partido con Nacional; un parcial resultó herido",
+          "url": "https://www.teledoce.com/telemundo/policiales/omnibus-con-hinchas-de-tigre-fue-atacado-a-balazos-en-los-accesos-a-montevideo-tras-el-partido-con-nacional-un-parcial-resulto-herido/",
+          "description": "La delegación visitante continuó su viaje hacia Argentina. Por el momento no hay detenidos. La entrada Ómnibus con hinchas de Tigre fue atacado a balazos en los accesos a Montevideo tras el partido con Nacional; un parcial resultó herido se publicó primero en Teledoce.com .",
+          "pub_date": "2026-07-22T09:40:56+00:00",
+          "score": 3,
+          "score_reason": "Incluye más detalles pero mantiene tono informativo sin sensacionalismo",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "Un hincha del club argentino Tigre resultó herido de bala tras el partido disputado contra Nacional en Montevideo. El incidente ocurrió cuando el ómnibus que transportaba a los parciales visitantes circulaba por los accesos a Montevideo, en ruta. El vehículo fue atacado a balazos, hiriendo a uno de los pasajeros. La delegación argentina continuó viaje hacia su país. Hasta el momento no se registran detenidos por el hecho. Las autoridades investigan las circunstancias del ataque ocurrido tras el encuentro deportivo.",
+        "coincidencias": [
+          "Un hincha de Tigre resultó herido de bala",
+          "El incidente ocurrió tras el partido con Nacional",
+          "No hay detenidos por el momento"
+        ],
+        "diferencias": [
+          "El País enfatiza la ubicación en ruta, Teledoce especifica los accesos a Montevideo",
+          "Teledoce detalla que el ómnibus continuó viaje hacia Argentina",
+          "Teledoce usa 'atacado', El País prefiere 'incidentes' con tono más neutro"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Bava asume responsabilidad tras goleada de Nacional",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Jorge Bava: “no hemos dado la talla y soy el principal responsable” | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXhnVzh2aWZNa0FpZkdIaVFfZTIxdGxfd2ROa3Z4SzBHYVJPZXlQckNycVpNandDWHVOOE9vU0Zxd1doaVVJUG5qcFRvbEpTQjdxWFdfVEhhSE9qbGJndTBERzAtUkRTTHU2NVlfZEd0Y0M5cjFja1NaQUtrTFE4SzRoXzZRdWt2bjdkdzRsa003RU5UOXhiOUx3MnllODZxLXh2QkVCZzBvQzRwaHFWWg?oc=5",
+          "description": "Jorge Bava: “no hemos dado la talla y soy el principal responsable” | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-07-22T01:29:24+00:00",
+          "score": 1,
+          "score_reason": "Muy neutral, cita textual sin contexto emocional adicional",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Jorge Bava por goleada a Nacional: “No estamos dando la talla y el responsable soy yo”",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObElZZ0E0RlVaWFB0a0tETkc1QW9vcnE1amVnV3RpYUJ2VmVzSDlYeExJS1R3SWR5LW4xTk1pS1RlU1d5Mzg0b2VMelBMWTU5cXRRV0s4MmdEalZGN0VBemtBRDVMNVpGdU9PcEZCeHhqM3Y2UzJzczBEemVLZkJmQ21md3pjMnRXdzFYVVRNdDZ2cTJXVkh4WGUtMWxoZmYybzZVMkx0a1AwNTBKWFVHdG5vMkRJWVNqNzFfeVM1Q25zZFVDQTM0X1ZjOHJfQdIB8gFBVV95cUxNOGpmNmI1M1VTQ0IwV0ZFeTB2V0lvLWYzMVJNN2hLQzZaUnFyS21Da3RuQ2k4RHViSzRqWW1abG1jU1ZJclREQWFZWlBhVDhCcVlRUmJKc1ExUWVCZjdFYnhwUUxpY2pUUFdIaHJjOWFkUkhRckdNVVVtNkU1QmhrcXFlWUNPOEJOOEs0N3psYWNCZk1nNk1sRHVvcXJmQ2JGSkl0VHF1QXE2U0RId2FuRkYwWXJGUm9SOURacDdaSy1PYVlzZ0ZVVGswWmdSdzkwdE43RGd6eTdhV0RTc2VaZTU1dlFoU2hTTmRkbVltNlFaUQ?oc=5",
+          "description": "Jorge Bava por goleada a Nacional: “No estamos dando la talla y el responsable soy yo” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-22T00:52:00+00:00",
+          "score": 2,
+          "score_reason": "Reproducción directa de declaraciones, contexto claro de goleada sufrida",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "El entrenador de Nacional, Jorge Bava, asumió la responsabilidad tras la goleada sufrida por su equipo. En declaraciones posteriores al partido, el director técnico manifestó que el plantel no está dando la talla y que él es el principal responsable de la situación. Las declaraciones se produjeron en un contexto de resultados adversos para el club tricolor, que enfrenta un momento deportivo complejo en la temporada actual.",
+        "coincidencias": [
+          "Ambos destacan las declaraciones de Jorge Bava",
+          "Reproducen la frase sobre asumir responsabilidad",
+          "Mencionan que el equipo no está dando la talla"
+        ],
+        "diferencias": [
+          "Montevideo Portal menciona explícitamente 'goleada' en el titular",
+          "El Espectador usa comillas diferentes y omite contexto del resultado"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Aguirre critica paro que suspendió fútbol uruguayo",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Diego Aguirre: “me pareció una exageración el paro, solo acá se para el fútbol” | La Mañana del Fútbol | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLWxMSDk3TmFFM2JsWm1MUzBzaUYtZFg4SWFRMU9ZbnZYaTk0SkR3bXJ1SUtUOG5DMmlyX0RCRExEbzlIYjNFMUZtMm9Fc2NnZzRpbGRGZWMxcWVwWnlIQjBDUWY3bzdYU3YyNmRIMkFVRE11X0ZrTU1iVlBNRVhtUzRjWU95b25JMXBDbVFvNnJuY0owc1RPamJ1RGpQbmFwUFJNd3FYeTRjVThhR1RTc2RIQ1pYY2lSeUE?oc=5",
+          "description": "Diego Aguirre: “me pareció una exageración el paro, solo acá se para el fútbol” | La Mañana del Fútbol | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-07-21T13:15:09+00:00",
+          "score": 2,
+          "score_reason": "Cita directa y contexto, formato más informativo y neutral",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Aguirre cargó contra el paro: “Fue una exageración; solo en Uruguay se detiene el fútbol”",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR2Y1TG1uNk1pQXZPV3N4WXY1SnlWMWRxTE5KZWk0b19oSVU3clp0ZlE2MjRrM1dVQXZDUFk1eEQ4dFRDLUZiTFpiX2Y5aDhiRE1zUUt4TG9aSHFocm0xUDBFU2d3QlZRaFdfX21vUFozejRsOGFoMGJUQVcyZExZU09ES1R1TURlcFpWYW8yM05WT2g5UTFCQXpTek1NQlJmMnUxYV9UbkVFcDR4YnJVQXVMQ2w1dkVJOWZ4QWJYOTY0R0lxTkpLSkpMcFlKMlBw0gH0AUFVX3lxTE1EMG9RMGZQelVHZS04N3NGRXBhc2l0VlMyX1otcXZVa1dPQi1sWGhzOGxucU42cDJxb1diNEgyWWVPQ3pUdEFGTDZobTlFSjJ6dmlSMFdOVkkzSkU0MVBxMzhaN3VydnhxU20tRHhMQnVZeVdMSVBSMmx4YTZIS1ZDbmNMUVo0MjdmT1ZTVU1UQTlZTU42OVNSN1phUXJpS1k3STVsM0l0bEZFN0FjeHcyUlVqOV9CZTFpWjZCUFpjckdlWUFOdWgyeFp2VFpYT2IxaDdIbTk0VW5sUUg4WXJnQWVyZ01ZQzBmM2dzS3RDaEVjaWY?oc=5",
+          "description": "Aguirre cargó contra el paro: “Fue una exageración; solo en Uruguay se detiene el fútbol” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-21T19:41:00+00:00",
+          "score": 4,
+          "score_reason": "Usa 'cargó contra' que añade tono confrontativo innecesario",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "El entrenador Diego Aguirre manifestó su opinión crítica sobre el reciente paro que afectó al fútbol uruguayo. En declaraciones públicas, Aguirre calificó la medida de paro como una exageración y señaló que Uruguay es el único país donde se detiene la actividad futbolística por este tipo de medidas. Las declaraciones fueron realizadas en el marco de una entrevista en el programa La Mañana del Fútbol de El Espectador. El técnico expresó su postura sobre la particularidad del fútbol uruguayo respecto a las medidas sindicales que afectan el desarrollo de los partidos y competencias.",
+        "coincidencias": [
+          "Aguirre opinó que el paro fue una exageración",
+          "Señaló que solo en Uruguay se detiene el fútbol",
+          "Las declaraciones se hicieron en contexto mediático"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza confrontación con 'cargó contra', El Espectador usa tono descriptivo",
+          "El Espectador contextualiza con programa y formato de entrevista específico",
+          "Montevideo Portal presenta como ataque, El Espectador como opinión expresada"
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Matonte admite error arbitral con Zuculini",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Andrés Matonte reconoció que “fue un error” no expulsar a Zuculini en Nacional-Wanderers",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV2UtWmpVNVBOOEd0WDl1anVGTmg5TGdvQTd0QXJfVFY2ekdNQXRPOUdseFhBLVU1VVFhNnZ2S3dmV1JSR0E2VlNJdTVOcXlIQVlDSlZ2bDBfV2w1S0xkejl6MVZIR1cyUkF1Q0ZpamhiMjZobU91c2dUREV3UlA4RDU1T1A4aHhZYldNN0x2bU01VmZyWEJTY1NETTFvMmd1RjhKYW95dXZSeXRucC03OFJzSFRZYXVZMHFaaUVITlRiUENXZEwweVdMcWsyZWvSAfMBQVVfeXFMUGotQXZsaVh0bGtNMGtHOTg3Q2VwLVpkUFg5cG5zQmt3RlVPTGdlOG9SenhpNVdMSV9Pb2lfWW1nX05zTWYxaDN6M3pCbFdVWFdld3lDRmxTRnRfOUU4TncxdG1TcHBaWVJOemlUX28yMjVnUldsXzlYRV9MS25NbWYyaDZjV3JINFZFNVVNbmpmM1R0dVNuQ3VmWnp4SmZCYnJYSEpwU2hCMG83YWZpTUdSNjZUYzlDSXBidnN0Z1EzWFhha2NaZGJQclA0TXJLb1NGSUZpc3BoV0lWRXlMYldKTHJpcy1uM2kxMHM1VkpyMkE0?oc=5",
+          "description": "Andrés Matonte reconoció que “fue un error” no expulsar a Zuculini en Nacional-Wanderers &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-21T18:01:00+00:00",
+          "score": 1,
+          "score_reason": "Titular informativo directo con uso de comillas textuales",
+          "score_pct": 10
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Andrés Matonte: “me equivoqué en no expulsar a Zuculini” | La Mañana del Fútbol | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV05xNFBaRFBmYWIwMXN2VDJVWEl5TGQtc2otY2ZNc3lFVjVRa3JzX3MxaXpVSVJURFZRcm5KYWNfMTJlemFTbXdWMXpQZ25WRVlCNjFPN1UtYUdCOFR4dmFZSkU2TUw4THU5a0JGZzRrWmRtUXlVYmt0Ti1nbjBUN2tUbU5uWmI5TkV5OEdCdnJ2VDlpMGl4a2tSSU0?oc=5",
+          "description": "Andrés Matonte: “me equivoqué en no expulsar a Zuculini” | La Mañana del Fútbol | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-07-21T15:28:02+00:00",
+          "score": 1,
+          "score_reason": "Neutral, cita textual del árbitro con contexto del medio",
+          "score_pct": 10
+        }
+      ],
+      "analysis": {
+        "resumen": "El árbitro Andrés Matonte reconoció públicamente que cometió un error al no expulsar al jugador Bruno Zuculini durante el partido entre Nacional y Wanderers. Matonte admitió la equivocación en declaraciones a medios de prensa, específicamente en el programa La Mañana del Fútbol de El Espectador. La jugada en cuestión habría ameritado la tarjeta roja para el mediocampista de Nacional, según la posterior evaluación del propio juez. Este reconocimiento público de un error arbitral por parte de un réferi uruguayo constituye un hecho poco frecuente en el fútbol profesional local.",
+        "coincidencias": [
+          "Andrés Matonte admitió públicamente el error arbitral",
+          "La jugada involucró al jugador Zuculini",
+          "La decisión correcta debió ser la expulsión del jugador"
+        ],
+        "diferencias": [
+          "Montevideo Portal usa 'reconoció' mientras El Espectador usa 'me equivoqué' en primera persona",
+          "El Espectador identifica el programa específico donde se hicieron las declaraciones",
+          "Montevideo Portal menciona explícitamente el partido Nacional-Wanderers en el titular"
+        ]
+      }
+    },
+    {
+      "id": "story_005",
+      "topic": "Inteligencia artificial: educación y ciberdelincuencia",
       "category": "Sociedad",
       "sources_count": 2,
       "headlines": [
@@ -14,48 +217,48 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "En menos de una semana, tres delfines murieron varados en costas uruguayas: ¿qué se sabe?",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUE5WEV4U3lGT3ZQUmN2em4ydmlzOGV4RTQ1N3RpZUZnMTlRNXBkcFZ4bHdrWFhhQndxbHhUSzlHZHVIWl9ybnVZSzI3WkN4LVJPSDh4djkzMXp5eTFRNUhTQV94WlJYU1NpS3FSWDFNTktULWs4aVowR1pucUxRUmk0LTlSTVJ0SjVYM2FRckc1YzFxblFOOGszdmNRZWdleGFxSHFXYm9VdnB6NV8zZnREVkkzYzh0WVp1Z1NrRHczVzJ6UUE3RC03cHU5Qmdp0gH0AUFVX3lxTE1lemVhQ0xDZEdMa2NScWpYYlplS2JDSkhiR25QdFVZWTFidlk3ZDhuTWZVRnp5MlpZcGNCajY5bkNyc3VkVlZBRjFSR3JTcUNRLTNsWG9ZTU5XbkpCWUliUFNrV0dqN3pzSWtKcTd5UV9jc3NsZWpmaThfdFJrT1lxTFFpb0lIOW56OFdSNUNEcGF2QU1sbmF6dlpYeDFDQTB5OFRxTmJqWXdHT1B1WWRnOTk2V01rZlB4SU1nNk9SWDIyMnZsY3FBR0xscDZtQTkzdFR2RzFSMjJMTmptVlp3dVVIUXo4MnV6NzdrLVBxVE1EQWk?oc=5",
-          "description": "En menos de una semana, tres delfines murieron varados en costas uruguayas: ¿qué se sabe? &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-20T12:56:00+00:00",
+          "title": "Inteligencia artificial sí, pero con criterio: así es la propuesta de EduSchool",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMHN2bHdkWkwwYllTaWk4VnlZa1RyMm5rSHlXM01DTUJlUU1oSjRyV3lSVVhLb1NNQXVENGdLWnVpcjNnU0plNF9JaDJGX19yZnlHMHZzSk4xZFRBdTV3Nk5sMFBKQy03UUlyZTBtUWVMSno2V3NVQVZfbGVwRV9LTVpDNVFib29WaTgwU3FKeHdvMVpFem9lV0ZDXzNld1U2T0thM2tUei1oQThlUDVZckFPVmJubHNrMWpFOG1kWmFteW43Z2NjNEpqWVdZSmEzc2EtTQ?oc=5",
+          "description": "Inteligencia artificial sí, pero con criterio: así es la propuesta de EduSchool &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-21T12:00:00+00:00",
           "score": 3,
-          "score_reason": "Uso de pregunta retórica genera expectativa y leve dramatismo",
+          "score_reason": "Enfoque positivo con leve énfasis promocional hacia EduSchool",
           "score_pct": 30
         },
         {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Muere una pareja de delfines varados en Colonia",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWhPZ1hjaUFNNVdqdzFfTGZ5VkRTQ2xzVThPVmhZdmdfNDZ3R05uUDdFSGJ2Wk9nX1d5T2NSbEJfXzdkMGlWdHhqeGI1dXA2c0ZBXzlCVWhiR2pvMTk3ZWFtc1dRam5XTlU4WXdqc29rNGh3TW5fc0ZnUEFCeUp5eVNXb0RYZ2RuRU8ydEI0WQ?oc=5",
-          "description": "Muere una pareja de delfines varados en Colonia &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-07-20T21:12:00+00:00",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "La inteligencia artificial potencia las herramientas de los ciberdelincuentes",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakZuS2FDZktBa29XYXUwRExKSUNrWDNVazlnaEw5eHdrb1Y5VTVYMzBULXlvWndQcmJNNF9HZVFicC14dHI5dkR1TE1LUHIyckktb2ZWRl9ydEJ4MzVPc0o2UjZPTjB2Q3JJemVMS3I2QVdubVlYQVhaSEF6SUpQdmNHWXR1aHBaOGplM3lkdllkMUI2Z09EMWdhZzdGMlhDTTJMNXdIb2RmY2xwQk1qMGFuM2M0bkhaWnNkb09MYktTRkpQWGc?oc=5",
+          "description": "La inteligencia artificial potencia las herramientas de los ciberdelincuentes &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-07-21T12:46:00+00:00",
           "score": 4,
-          "score_reason": "Término 'pareja' humaniza animales, añade carga emocional moderada",
+          "score_reason": "Encuadre alarmista sobre riesgos sin mencionar aspectos positivos",
           "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "En un período inferior a una semana, tres delfines fueron hallados varados y murieron en costas uruguayas. Dos de los ejemplares fueron encontrados en el departamento de Colonia, mientras que el tercer caso se registró en otra zona costera del país. Los varamientos de cetáceos son monitoreados por autoridades ambientales uruguayas, que investigan las posibles causas de estos eventos. Los delfines varados presentaban dificultades para sobrevivir fuera del agua. Las autoridades competentes registran estos incidentes como parte del seguimiento de la fauna marina en el territorio nacional.",
+        "resumen": "Dos medios uruguayos publicaron notas sobre inteligencia artificial desde perspectivas diferentes. Montevideo Portal informó sobre la propuesta de EduSchool, una iniciativa que promueve el uso de inteligencia artificial en el ámbito educativo con un enfoque responsable y criterioso. Por su parte, Búsqueda abordó las implicancias de la inteligencia artificial en materia de seguridad, señalando que esta tecnología está siendo aprovechada por ciberdelincuentes para potenciar sus herramientas y capacidades de ataque. Ambas publicaciones reflejan el debate actual sobre los usos de la inteligencia artificial en Uruguay, tanto en sus aplicaciones positivas para la educación como en los riesgos que representa para la ciberseguridad.",
         "coincidencias": [
-          "Tres delfines murieron varados en costas uruguayas",
-          "Al menos dos casos ocurrieron en Colonia",
-          "Los hechos sucedieron en menos de una semana"
+          "Ambos medios abordan el tema de la inteligencia artificial",
+          "Las notas refieren a la actualidad de la IA en Uruguay",
+          "Reconocen el impacto de la tecnología en diferentes sectores"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza el total de casos y plantea interrogantes",
-          "Grupo R Multimedio se concentra específicamente en la pareja de Colonia",
-          "Montevideo Portal usa enfoque más amplio, Grupo R focaliza geográficamente"
+          "Montevideo Portal enfoca en aplicaciones educativas positivas; Búsqueda en riesgos de seguridad",
+          "Un medio destaca una propuesta específica (EduSchool); otro advierte sobre amenazas",
+          "Perspectiva optimista versus perspectiva de alerta sobre la misma tecnología"
         ]
       }
     },
     {
-      "id": "story_002",
-      "topic": "Aumento de homicidios en primer semestre 2026",
-      "category": "Seguridad",
+      "id": "story_006",
+      "topic": "PIT-CNT convoca paro general por incumplimiento gubernamental",
+      "category": "Política",
       "sources_count": 2,
       "headlines": [
         {
@@ -65,41 +268,41 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Los homicidios aumentaron 21,2% en el segundo trimestre del año en comparación con el mismo período de 2025",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT1Z3Y0lRT3N5MGViVzk0anVxby1IcXpQUmVmNG82ZDdtRFlwcm5oWDBnSG15TEYtTTk2SUlCOWlNM09oWFZlaC1YS1Z5Vm9WMUViWlg1aHpvVlN2U3MxdmEyQWJIaE9KZmgtdndPdDNLckQxX25EUzdTdklic25oSHJBLXIySlFCX1h3RGJpdGdTY3dIYTRjOUxtOWRIWmdfaFM3QU1fUzZwd2JHQVFicnFib3hJbFJFdjliZzljV0pHV3FZQ29PbXhR0gHPAUFVX3lxTE56MWNyQ0RzeFExUEEyYkNxUXJ2NEFkQUU3LVFtb0dXLWM4RVBnR2hRWklnYzJ6cjFaSGlEN3ltejZGejFXZ1cwTXUzd3otbEJma2lTY054NDJpd2RfYjRWR0RMX2VyQTFUd2k3V054MkJhLWZaLUZEbUN2WGpTZ0c5ZzRJX0tTQXZ5NDR1NDFzbG1fTzlGbUREQVZ4OHZQZS1kam9MVFBoajVDNVNWMEdiOVBuODBSX0VhQV8zTDdNQzQ2TUhFMGdkX3VWeEhnOA?oc=5",
-          "description": "Los homicidios aumentaron 21,2% en el segundo trimestre del año en comparación con el mismo período de 2025 &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-20T19:02:00+00:00",
+          "title": "PIT-CNT señala incumplimiento del gobierno en el diálogo social y define un paro general para el 11 de agosto",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHlMa3BiN2FQd1o5N0ZoQmJxZEFVa0dSVEVvYTlvd2NrcWFhTWFfTWRiaDBDd3hyUDd4c1hYbmcxZkJhZVRXQTF1UFZkclBPUS15RnZHaVV1ck5GbTBVWlhIX01peVNZcGJvU0dyNXZuaXROOGY1azFPVzA0eEV4LWdhNWJCZklRMm4wNExyY0dxckllVXVpTFNyMm41UnRGLXFReEh1R1pSblc1RFFjS3QtdFRKSGNyendBNXNNcGF2Mlh5V1BkV0dsMkZMMEpHaW000gHYAUFVX3lxTE5hd1hVQ0l6WS1Lc2N1YklsRXlEWUJveG9TaUJvVm9Fbl84bHBweGh1dk5qVGI2MmwzUXYzNUU5ZmpqY3pIejJ4R2M5MktvNU9oQldQXzNWUU5WX2hjTkhMcGhOVVNVTUdzTzZZZ1lpU0F2YlI1OGJlNlh4bndzZTNvbWNfOGpNMExnM0VhSWN6N1VmM2hZYk9WaEF5TU13dUZQdjMydzFmTUV4dkVmVmg4bTB5UXVrUHM0ejNPeGdzWDJETVZsX3Y5SzlXMVM3cWxNazRmU00xRQ?oc=5",
+          "description": "PIT-CNT señala incumplimiento del gobierno en el diálogo social y define un paro general para el 11 de agosto &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-21T21:41:00+00:00",
           "score": 2,
-          "score_reason": "Presenta dato específico y período concreto sin adjetivación",
+          "score_reason": "Informativo y directo, presenta los hechos sin calificaciones valorativas",
           "score_pct": 20
         },
         {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "Homicidios aumentaron en el primer semestre de 2026: hubo 12 casos más que en 2025",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM3RkQmpXR216bjMzdHhreDZ5blFYaGFSSndwMXAyYWlycmYxeEwzc21pclVZaUw1MjcwTXFYck16OTZVZ2h0MWtUZU9HaVduZ21kZm9USktLcEY0THktcjg2eWNyWEJLOEgzeVgwXzhUUTlUVWxaY3FFMVNyX3ZRVE9kVVNnUXN5eXhEZ19NeFMwSUJvbVd2bVdrQVZkT3dpNGItZFNpVXM0MjJyY0Exb0xvSTluaFJWZDgwUEJ3?oc=5",
-          "description": "Homicidios aumentaron en el primer semestre de 2026: hubo 12 casos más que en 2025 &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-07-20T22:23:00+00:00",
+          "source_url": "https://www.teledoce.com",
+          "title": "Tras denunciar incumplimiento del Ejecutivo en relación al diálogo social y las AFAP, el Pit-Cnt resolvió un paro general para el 11 de agosto",
+          "url": "https://www.teledoce.com/telemundo/nacionales/tras-denunciar-incumplimiento-del-ejecutivo-en-relacion-al-dialogo-social-y-las-afap-el-pit-cnt-resolvio-un-paro-general-para-el-11-de-agosto/",
+          "description": "“Los acuerdos están para cumplirse” y “no fue el caso”, apuntó la central sindical en un comunicado. La entrada Tras denunciar incumplimiento del Ejecutivo en relación al diálogo social y las AFAP, el Pit-Cnt resolvió un paro general para el 11 de agosto se publicó primero en Teledoce.com .",
+          "pub_date": "2026-07-22T10:41:56+00:00",
           "score": 2,
-          "score_reason": "Informativo, incluye cifra absoluta y comparación temporal neutral",
+          "score_reason": "Neutral, agrega contexto sobre AFAP sin sesgo evidente",
           "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "Los homicidios en Uruguay registraron un aumento en el primer semestre de 2026 en comparación con el mismo período de 2025. Según los datos disponibles, se registraron 12 casos más que en el año anterior. El segundo trimestre del año mostró un incremento del 21,2% respecto al mismo período de 2025. Los datos fueron reportados por distintos medios periodísticos uruguayos a partir de información oficial sobre criminalidad en el país.",
+        "resumen": "El PIT-CNT resolvió convocar un paro general para el 11 de agosto. La central sindical denunció el incumplimiento del Poder Ejecutivo en relación al diálogo social acordado. En un comunicado, el PIT-CNT señaló que \"los acuerdos están para cumplirse\" y que \"no fue el caso\". Entre los temas de conflicto se menciona específicamente la cuestión de las AFAP. La medida de paro fue definida tras evaluar la falta de cumplimiento de compromisos asumidos previamente por el gobierno en el marco del diálogo social con la central sindical.",
         "coincidencias": [
-          "Los homicidios aumentaron en 2026 respecto a 2025",
-          "Se presentan datos del primer semestre del año",
-          "La información se basa en comparaciones interanuales"
+          "PIT-CNT convocó un paro general para el 11 de agosto",
+          "La central sindical denuncia incumplimiento del gobierno",
+          "El conflicto se relaciona con acuerdos sobre diálogo social"
         ],
         "diferencias": [
-          "Subrayado enfatiza el segundo trimestre con porcentaje, Búsqueda el semestre completo",
-          "Búsqueda presenta cifra absoluta (12 casos más), Subrayado usa porcentaje",
-          "Distintos períodos de análisis: trimestre versus semestre"
+          "Teledoce menciona específicamente el tema de las AFAP como punto de conflicto",
+          "Teledoce incluye cita textual del comunicado del PIT-CNT sobre cumplimiento de acuerdos",
+          "Subrayado mantiene foco más general en diálogo social sin detallar temas específicos"
         ]
       }
     }
