@@ -1,229 +1,41 @@
 {
-  "generated_at": "2026-07-22T11:52:06.128620",
+  "generated_at": "2026-07-23T11:53:48.711071",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Hincha de Tigre herido a balazos tras partido",
-      "category": "Seguridad",
-      "sources_count": 2,
+      "topic": "MSP amplía vacunación gratuita contra meningococo",
+      "category": "Salud",
+      "sources_count": 3,
       "headlines": [
         {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Incidentes tras el partido entre Nacional y Tigre: un hincha visitante resultó herido de bala en plena ruta",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd2w0bnZZNTVDTEY0eWlZb002dThTQWZnS3pRYTJhbmswZDZ6aXh6dFgyaUExa0w5MUNKbGxVcjBGQ2tScTRvRlU0RVdiR2VUQ25fc1ZFRjZDdUNXZUZyd2VFTlo1RmRVTGYyU1JkamFjUFhiREhmTkI4aEZXM2ctUHJNTGVEUUVQLTJ5MDJ0SzhDeFQ1M21vWFJVR19NSnZlRkpKYVdtQkhENF90TFhpNEU4UmlMZXhwR01aNjJpWlJsWm0yellObC1PSzV2LWhyankxTFVQX3YyczF5X1c1SQ?oc=5",
-          "description": "Incidentes tras el partido entre Nacional y Tigre: un hincha visitante resultó herido de bala en plena ruta &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-07-22T02:30:48+00:00",
-          "score": 2,
-          "score_reason": "Describe objetivamente el hecho sin dramatismo ni carga emocional",
-          "score_pct": 20
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Ómnibus con hinchas de Tigre fue atacado a balazos en los accesos a Montevideo tras el partido con Nacional; un parcial resultó herido",
-          "url": "https://www.teledoce.com/telemundo/policiales/omnibus-con-hinchas-de-tigre-fue-atacado-a-balazos-en-los-accesos-a-montevideo-tras-el-partido-con-nacional-un-parcial-resulto-herido/",
-          "description": "La delegación visitante continuó su viaje hacia Argentina. Por el momento no hay detenidos. La entrada Ómnibus con hinchas de Tigre fue atacado a balazos en los accesos a Montevideo tras el partido con Nacional; un parcial resultó herido se publicó primero en Teledoce.com .",
-          "pub_date": "2026-07-22T09:40:56+00:00",
-          "score": 3,
-          "score_reason": "Incluye más detalles pero mantiene tono informativo sin sensacionalismo",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Un hincha del club argentino Tigre resultó herido de bala tras el partido disputado contra Nacional en Montevideo. El incidente ocurrió cuando el ómnibus que transportaba a los parciales visitantes circulaba por los accesos a Montevideo, en ruta. El vehículo fue atacado a balazos, hiriendo a uno de los pasajeros. La delegación argentina continuó viaje hacia su país. Hasta el momento no se registran detenidos por el hecho. Las autoridades investigan las circunstancias del ataque ocurrido tras el encuentro deportivo.",
-        "coincidencias": [
-          "Un hincha de Tigre resultó herido de bala",
-          "El incidente ocurrió tras el partido con Nacional",
-          "No hay detenidos por el momento"
-        ],
-        "diferencias": [
-          "El País enfatiza la ubicación en ruta, Teledoce especifica los accesos a Montevideo",
-          "Teledoce detalla que el ómnibus continuó viaje hacia Argentina",
-          "Teledoce usa 'atacado', El País prefiere 'incidentes' con tono más neutro"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Bava asume responsabilidad tras goleada de Nacional",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Jorge Bava: “no hemos dado la talla y soy el principal responsable” | Noticias | Futbol Uruguayo",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXhnVzh2aWZNa0FpZkdIaVFfZTIxdGxfd2ROa3Z4SzBHYVJPZXlQckNycVpNandDWHVOOE9vU0Zxd1doaVVJUG5qcFRvbEpTQjdxWFdfVEhhSE9qbGJndTBERzAtUkRTTHU2NVlfZEd0Y0M5cjFja1NaQUtrTFE4SzRoXzZRdWt2bjdkdzRsa003RU5UOXhiOUx3MnllODZxLXh2QkVCZzBvQzRwaHFWWg?oc=5",
-          "description": "Jorge Bava: “no hemos dado la talla y soy el principal responsable” | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-07-22T01:29:24+00:00",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "MSP amplió la vacunación gratuita contra meningococo en menores: quiénes podrán acceder",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeGFRZDFHV1pDU25nTktOWGFOX29FSDhObElKRDF2NXpDODNoZUhiYmxkOXg4Vlh0OVQtbm5tX1lXWTF6dTdveVM5T2tOOHkzX0xRbUMxdm5qR09yWkhHWUlxSmU2aU5wTDhMVVFJRzBuQkllVTJTLW1wQlprZ3lkazgtVmpOQko1UDZhMTRlMktYNDR3VjIyc09VSzFBZFRSTnhMTThnNUlJMTdkNTkzejJELXBFU1oySkdiOGlBWUJKbkpqa3kteDBsRDVCZXPSAfMBQVVfeXFMUHg0NVZiTVRUOEtEaUVSSUpMNkJKcVRIWG5fZmxZYVBDQlZuSFVWR25IWXVuUUdWVDNtSW5yUmZpdnFhYlpjYnZ1amFCSFFIcm5ORGdDc0JrTk1Zb19uN1RYNE1LWGROajkwb0M0eElHZ0h1SjhPYW9lYXRpUHpORWw2cnFwZGhON0JEZVZrN0ZYVW50VE03LW9CQnFJUzNRYlV0LUJpQUQzV3pPOEVrY19zbFNkNnBSZkM3dFI3Mm5mRDR6TUp6ZVVldTRNaldzY3haTS1rN2k3dFBNMEs4eVJSZ2pfUWZWMzZjX1NDNVdsMTI0?oc=5",
+          "description": "MSP amplió la vacunación gratuita contra meningococo en menores: quiénes podrán acceder &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-22T19:55:00+00:00",
           "score": 1,
-          "score_reason": "Muy neutral, cita textual sin contexto emocional adicional",
+          "score_reason": "Informativo y neutral, plantea pregunta sobre acceso.",
           "score_pct": 10
         },
         {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Jorge Bava por goleada a Nacional: “No estamos dando la talla y el responsable soy yo”",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObElZZ0E0RlVaWFB0a0tETkc1QW9vcnE1amVnV3RpYUJ2VmVzSDlYeExJS1R3SWR5LW4xTk1pS1RlU1d5Mzg0b2VMelBMWTU5cXRRV0s4MmdEalZGN0VBemtBRDVMNVpGdU9PcEZCeHhqM3Y2UzJzczBEemVLZkJmQ21md3pjMnRXdzFYVVRNdDZ2cTJXVkh4WGUtMWxoZmYybzZVMkx0a1AwNTBKWFVHdG5vMkRJWVNqNzFfeVM1Q25zZFVDQTM0X1ZjOHJfQdIB8gFBVV95cUxNOGpmNmI1M1VTQ0IwV0ZFeTB2V0lvLWYzMVJNN2hLQzZaUnFyS21Da3RuQ2k4RHViSzRqWW1abG1jU1ZJclREQWFZWlBhVDhCcVlRUmJKc1ExUWVCZjdFYnhwUUxpY2pUUFdIaHJjOWFkUkhRckdNVVVtNkU1QmhrcXFlWUNPOEJOOEs0N3psYWNCZk1nNk1sRHVvcXJmQ2JGSkl0VHF1QXE2U0RId2FuRkYwWXJGUm9SOURacDdaSy1PYVlzZ0ZVVGswWmdSdzkwdE43RGd6eTdhV0RTc2VaZTU1dlFoU2hTTmRkbVltNlFaUQ?oc=5",
-          "description": "Jorge Bava por goleada a Nacional: “No estamos dando la talla y el responsable soy yo” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-22T00:52:00+00:00",
-          "score": 2,
-          "score_reason": "Reproducción directa de declaraciones, contexto claro de goleada sufrida",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "El entrenador de Nacional, Jorge Bava, asumió la responsabilidad tras la goleada sufrida por su equipo. En declaraciones posteriores al partido, el director técnico manifestó que el plantel no está dando la talla y que él es el principal responsable de la situación. Las declaraciones se produjeron en un contexto de resultados adversos para el club tricolor, que enfrenta un momento deportivo complejo en la temporada actual.",
-        "coincidencias": [
-          "Ambos destacan las declaraciones de Jorge Bava",
-          "Reproducen la frase sobre asumir responsabilidad",
-          "Mencionan que el equipo no está dando la talla"
-        ],
-        "diferencias": [
-          "Montevideo Portal menciona explícitamente 'goleada' en el titular",
-          "El Espectador usa comillas diferentes y omite contexto del resultado"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Aguirre critica paro que suspendió fútbol uruguayo",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Diego Aguirre: “me pareció una exageración el paro, solo acá se para el fútbol” | La Mañana del Fútbol | Entrevista",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLWxMSDk3TmFFM2JsWm1MUzBzaUYtZFg4SWFRMU9ZbnZYaTk0SkR3bXJ1SUtUOG5DMmlyX0RCRExEbzlIYjNFMUZtMm9Fc2NnZzRpbGRGZWMxcWVwWnlIQjBDUWY3bzdYU3YyNmRIMkFVRE11X0ZrTU1iVlBNRVhtUzRjWU95b25JMXBDbVFvNnJuY0owc1RPamJ1RGpQbmFwUFJNd3FYeTRjVThhR1RTc2RIQ1pYY2lSeUE?oc=5",
-          "description": "Diego Aguirre: “me pareció una exageración el paro, solo acá se para el fútbol” | La Mañana del Fútbol | Entrevista &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-07-21T13:15:09+00:00",
-          "score": 2,
-          "score_reason": "Cita directa y contexto, formato más informativo y neutral",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Aguirre cargó contra el paro: “Fue una exageración; solo en Uruguay se detiene el fútbol”",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR2Y1TG1uNk1pQXZPV3N4WXY1SnlWMWRxTE5KZWk0b19oSVU3clp0ZlE2MjRrM1dVQXZDUFk1eEQ4dFRDLUZiTFpiX2Y5aDhiRE1zUUt4TG9aSHFocm0xUDBFU2d3QlZRaFdfX21vUFozejRsOGFoMGJUQVcyZExZU09ES1R1TURlcFpWYW8yM05WT2g5UTFCQXpTek1NQlJmMnUxYV9UbkVFcDR4YnJVQXVMQ2w1dkVJOWZ4QWJYOTY0R0lxTkpLSkpMcFlKMlBw0gH0AUFVX3lxTE1EMG9RMGZQelVHZS04N3NGRXBhc2l0VlMyX1otcXZVa1dPQi1sWGhzOGxucU42cDJxb1diNEgyWWVPQ3pUdEFGTDZobTlFSjJ6dmlSMFdOVkkzSkU0MVBxMzhaN3VydnhxU20tRHhMQnVZeVdMSVBSMmx4YTZIS1ZDbmNMUVo0MjdmT1ZTVU1UQTlZTU42OVNSN1phUXJpS1k3STVsM0l0bEZFN0FjeHcyUlVqOV9CZTFpWjZCUFpjckdlWUFOdWgyeFp2VFpYT2IxaDdIbTk0VW5sUUg4WXJnQWVyZ01ZQzBmM2dzS3RDaEVjaWY?oc=5",
-          "description": "Aguirre cargó contra el paro: “Fue una exageración; solo en Uruguay se detiene el fútbol” &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-21T19:41:00+00:00",
-          "score": 4,
-          "score_reason": "Usa 'cargó contra' que añade tono confrontativo innecesario",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "El entrenador Diego Aguirre manifestó su opinión crítica sobre el reciente paro que afectó al fútbol uruguayo. En declaraciones públicas, Aguirre calificó la medida de paro como una exageración y señaló que Uruguay es el único país donde se detiene la actividad futbolística por este tipo de medidas. Las declaraciones fueron realizadas en el marco de una entrevista en el programa La Mañana del Fútbol de El Espectador. El técnico expresó su postura sobre la particularidad del fútbol uruguayo respecto a las medidas sindicales que afectan el desarrollo de los partidos y competencias.",
-        "coincidencias": [
-          "Aguirre opinó que el paro fue una exageración",
-          "Señaló que solo en Uruguay se detiene el fútbol",
-          "Las declaraciones se hicieron en contexto mediático"
-        ],
-        "diferencias": [
-          "Montevideo Portal enfatiza confrontación con 'cargó contra', El Espectador usa tono descriptivo",
-          "El Espectador contextualiza con programa y formato de entrevista específico",
-          "Montevideo Portal presenta como ataque, El Espectador como opinión expresada"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Matonte admite error arbitral con Zuculini",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Andrés Matonte reconoció que “fue un error” no expulsar a Zuculini en Nacional-Wanderers",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV2UtWmpVNVBOOEd0WDl1anVGTmg5TGdvQTd0QXJfVFY2ekdNQXRPOUdseFhBLVU1VVFhNnZ2S3dmV1JSR0E2VlNJdTVOcXlIQVlDSlZ2bDBfV2w1S0xkejl6MVZIR1cyUkF1Q0ZpamhiMjZobU91c2dUREV3UlA4RDU1T1A4aHhZYldNN0x2bU01VmZyWEJTY1NETTFvMmd1RjhKYW95dXZSeXRucC03OFJzSFRZYXVZMHFaaUVITlRiUENXZEwweVdMcWsyZWvSAfMBQVVfeXFMUGotQXZsaVh0bGtNMGtHOTg3Q2VwLVpkUFg5cG5zQmt3RlVPTGdlOG9SenhpNVdMSV9Pb2lfWW1nX05zTWYxaDN6M3pCbFdVWFdld3lDRmxTRnRfOUU4TncxdG1TcHBaWVJOemlUX28yMjVnUldsXzlYRV9MS25NbWYyaDZjV3JINFZFNVVNbmpmM1R0dVNuQ3VmWnp4SmZCYnJYSEpwU2hCMG83YWZpTUdSNjZUYzlDSXBidnN0Z1EzWFhha2NaZGJQclA0TXJLb1NGSUZpc3BoV0lWRXlMYldKTHJpcy1uM2kxMHM1VkpyMkE0?oc=5",
-          "description": "Andrés Matonte reconoció que “fue un error” no expulsar a Zuculini en Nacional-Wanderers &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-21T18:01:00+00:00",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "MSP amplía la vacunación contra el meningococo a niños de 9 y 10 años, y adolescentes de 13 a 15 años",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQODhpdEJvcWU4N1pxQmt4U0lCUjh3TFAyTTBtaE1mcEoxZXQ0QVFJYU1tRXdIN29kUG5vQkFqd2lkQ0FReHdoR3JWUm0tMENpUzhmMV9UT2d3NmxNRXdMVmEtbWxFd2w3R3hLdGNEbWhfM05FUVNDcW9kckl3NDhiMUdDN05VVFcwSTVUZlRoWFVNTi1LcmVhSXczdHFYMy1zWUZtYkx2aEpWZHhURmN3M3BOc1M1NTh1OEo1cEc5U1ZaNGk1WjNv0gHMAUFVX3lxTE9ncDhqZDhWa3NleGhDZjc2Z3VsNEZWN2hna3FiMzZKZndENFlzMHAtaWY0Z0l0UjhIQXR5Zlk4Q1ZaeVRXS0R1akc0ZlFaNlRKMW9FeExXZVJ3SVlzdGpKX3lBLVl5OGpFZ2xJcTZVV1V4dy0tdnB1QVV1UkVYYmp5OExTLTZXRWgzaHBCLWpOWlVqblA1cUtRMDdXcjVXTnliV0dTVFZJRUFsU0M0VEFWS3hIY2Z2U0tDaS1WX1NBT2U3NmJfLXpKaG1uMQ?oc=5",
+          "description": "MSP amplía la vacunación contra el meningococo a niños de 9 y 10 años, y adolescentes de 13 a 15 años &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-22T18:59:00+00:00",
           "score": 1,
-          "score_reason": "Titular informativo directo con uso de comillas textuales",
+          "score_reason": "Descriptivo y objetivo, detalla edades específicas claramente.",
           "score_pct": 10
-        },
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Andrés Matonte: “me equivoqué en no expulsar a Zuculini” | La Mañana del Fútbol | Entrevista",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV05xNFBaRFBmYWIwMXN2VDJVWEl5TGQtc2otY2ZNc3lFVjVRa3JzX3MxaXpVSVJURFZRcm5KYWNfMTJlemFTbXdWMXpQZ25WRVlCNjFPN1UtYUdCOFR4dmFZSkU2TUw4THU5a0JGZzRrWmRtUXlVYmt0Ti1nbjBUN2tUbU5uWmI5TkV5OEdCdnJ2VDlpMGl4a2tSSU0?oc=5",
-          "description": "Andrés Matonte: “me equivoqué en no expulsar a Zuculini” | La Mañana del Fútbol | Entrevista &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-07-21T15:28:02+00:00",
-          "score": 1,
-          "score_reason": "Neutral, cita textual del árbitro con contexto del medio",
-          "score_pct": 10
-        }
-      ],
-      "analysis": {
-        "resumen": "El árbitro Andrés Matonte reconoció públicamente que cometió un error al no expulsar al jugador Bruno Zuculini durante el partido entre Nacional y Wanderers. Matonte admitió la equivocación en declaraciones a medios de prensa, específicamente en el programa La Mañana del Fútbol de El Espectador. La jugada en cuestión habría ameritado la tarjeta roja para el mediocampista de Nacional, según la posterior evaluación del propio juez. Este reconocimiento público de un error arbitral por parte de un réferi uruguayo constituye un hecho poco frecuente en el fútbol profesional local.",
-        "coincidencias": [
-          "Andrés Matonte admitió públicamente el error arbitral",
-          "La jugada involucró al jugador Zuculini",
-          "La decisión correcta debió ser la expulsión del jugador"
-        ],
-        "diferencias": [
-          "Montevideo Portal usa 'reconoció' mientras El Espectador usa 'me equivoqué' en primera persona",
-          "El Espectador identifica el programa específico donde se hicieron las declaraciones",
-          "Montevideo Portal menciona explícitamente el partido Nacional-Wanderers en el titular"
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "Inteligencia artificial: educación y ciberdelincuencia",
-      "category": "Sociedad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Inteligencia artificial sí, pero con criterio: así es la propuesta de EduSchool",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMHN2bHdkWkwwYllTaWk4VnlZa1RyMm5rSHlXM01DTUJlUU1oSjRyV3lSVVhLb1NNQXVENGdLWnVpcjNnU0plNF9JaDJGX19yZnlHMHZzSk4xZFRBdTV3Nk5sMFBKQy03UUlyZTBtUWVMSno2V3NVQVZfbGVwRV9LTVpDNVFib29WaTgwU3FKeHdvMVpFem9lV0ZDXzNld1U2T0thM2tUei1oQThlUDVZckFPVmJubHNrMWpFOG1kWmFteW43Z2NjNEpqWVdZSmEzc2EtTQ?oc=5",
-          "description": "Inteligencia artificial sí, pero con criterio: así es la propuesta de EduSchool &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-21T12:00:00+00:00",
-          "score": 3,
-          "score_reason": "Enfoque positivo con leve énfasis promocional hacia EduSchool",
-          "score_pct": 30
         },
         {
           "source_id": "busqueda",
@@ -232,77 +44,77 @@
           "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.busqueda.com.uy",
-          "title": "La inteligencia artificial potencia las herramientas de los ciberdelincuentes",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakZuS2FDZktBa29XYXUwRExKSUNrWDNVazlnaEw5eHdrb1Y5VTVYMzBULXlvWndQcmJNNF9HZVFicC14dHI5dkR1TE1LUHIyckktb2ZWRl9ydEJ4MzVPc0o2UjZPTjB2Q3JJemVMS3I2QVdubVlYQVhaSEF6SUpQdmNHWXR1aHBaOGplM3lkdllkMUI2Z09EMWdhZzdGMlhDTTJMNXdIb2RmY2xwQk1qMGFuM2M0bkhaWnNkb09MYktTRkpQWGc?oc=5",
-          "description": "La inteligencia artificial potencia las herramientas de los ciberdelincuentes &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-07-21T12:46:00+00:00",
-          "score": 4,
-          "score_reason": "Encuadre alarmista sobre riesgos sin mencionar aspectos positivos",
-          "score_pct": 40
+          "title": "Meningococo: el MSP confirmó aumento de vacunación gratuita; desde el lunes incluye a los de 13, 14 y 15 años",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa3JVV2JLcm9vYTRJeFhSTDZlZFl4ZkJEWHVQcmVzVFpCbXEzZU5ZcGEweFlnRDMzNHEwMVBGaGM1MkY0SHlwLXNPbW52TWI0MWJlam9kOTRmN0czNVlDdDc3enpMNWs3elA2OG9YTElPbjR1OXZJdWdWTldISXR5LXJyeVNHTXRZVUZpN2ZNaFhDckFEbmpDZ0lyZzQxX1NZdzRxSkg5aWhkTE03TEhfVjhvRERkUmJMdUNQb0hCX3RaR1psMzZ5MEprdGRUSUp3bkE0X290ZUk?oc=5",
+          "description": "Meningococo: el MSP confirmó aumento de vacunación gratuita; desde el lunes incluye a los de 13, 14 y 15 años &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-07-23T00:12:00+00:00",
+          "score": 2,
+          "score_reason": "Incluye confirmación y timing, pero mantiene objetividad general.",
+          "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "Dos medios uruguayos publicaron notas sobre inteligencia artificial desde perspectivas diferentes. Montevideo Portal informó sobre la propuesta de EduSchool, una iniciativa que promueve el uso de inteligencia artificial en el ámbito educativo con un enfoque responsable y criterioso. Por su parte, Búsqueda abordó las implicancias de la inteligencia artificial en materia de seguridad, señalando que esta tecnología está siendo aprovechada por ciberdelincuentes para potenciar sus herramientas y capacidades de ataque. Ambas publicaciones reflejan el debate actual sobre los usos de la inteligencia artificial en Uruguay, tanto en sus aplicaciones positivas para la educación como en los riesgos que representa para la ciberseguridad.",
+        "resumen": "El Ministerio de Salud Pública (MSP) amplió la cobertura de vacunación gratuita contra el meningococo en Uruguay. La medida incluye ahora a niños de 9 y 10 años, y adolescentes de 13 a 15 años. La implementación comenzará el lunes próximo. Previamente, la vacunación gratuita estaba disponible para otros grupos etarios. La decisión del MSP busca extender la protección contra esta enfermedad a más franjas de la población infantil y adolescente. La vacuna estará disponible en los centros de vacunación del sistema público de salud.",
         "coincidencias": [
-          "Ambos medios abordan el tema de la inteligencia artificial",
-          "Las notas refieren a la actualidad de la IA en Uruguay",
-          "Reconocen el impacto de la tecnología en diferentes sectores"
+          "MSP amplió la vacunación gratuita contra meningococo",
+          "Incluye a adolescentes de 13 a 15 años",
+          "Se extiende a niños de 9 y 10 años"
         ],
         "diferencias": [
-          "Montevideo Portal enfoca en aplicaciones educativas positivas; Búsqueda en riesgos de seguridad",
-          "Un medio destaca una propuesta específica (EduSchool); otro advierte sobre amenazas",
-          "Perspectiva optimista versus perspectiva de alerta sobre la misma tecnología"
+          "Búsqueda enfatiza el aumento y la confirmación oficial del MSP",
+          "Montevideo Portal usa formato de pregunta para generar interés",
+          "Subrayado detalla todas las edades en el titular principal"
         ]
       }
     },
     {
-      "id": "story_006",
-      "topic": "PIT-CNT convoca paro general por incumplimiento gubernamental",
-      "category": "Política",
+      "id": "story_002",
+      "topic": "Críticas de Rubén Sosa a Nacional tras goleada",
+      "category": "Deportes",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "PIT-CNT señala incumplimiento del gobierno en el diálogo social y define un paro general para el 11 de agosto",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHlMa3BiN2FQd1o5N0ZoQmJxZEFVa0dSVEVvYTlvd2NrcWFhTWFfTWRiaDBDd3hyUDd4c1hYbmcxZkJhZVRXQTF1UFZkclBPUS15RnZHaVV1ck5GbTBVWlhIX01peVNZcGJvU0dyNXZuaXROOGY1azFPVzA0eEV4LWdhNWJCZklRMm4wNExyY0dxckllVXVpTFNyMm41UnRGLXFReEh1R1pSblc1RFFjS3QtdFRKSGNyendBNXNNcGF2Mlh5V1BkV0dsMkZMMEpHaW000gHYAUFVX3lxTE5hd1hVQ0l6WS1Lc2N1YklsRXlEWUJveG9TaUJvVm9Fbl84bHBweGh1dk5qVGI2MmwzUXYzNUU5ZmpqY3pIejJ4R2M5MktvNU9oQldQXzNWUU5WX2hjTkhMcGhOVVNVTUdzTzZZZ1lpU0F2YlI1OGJlNlh4bndzZTNvbWNfOGpNMExnM0VhSWN6N1VmM2hZYk9WaEF5TU13dUZQdjMydzFmTUV4dkVmVmg4bTB5UXVrUHM0ejNPeGdzWDJETVZsX3Y5SzlXMVM3cWxNazRmU00xRQ?oc=5",
-          "description": "PIT-CNT señala incumplimiento del gobierno en el diálogo social y define un paro general para el 11 de agosto &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-21T21:41:00+00:00",
-          "score": 2,
-          "score_reason": "Informativo y directo, presenta los hechos sin calificaciones valorativas",
-          "score_pct": 20
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Rubén Sosa y la goleada sufrida por Nacional en el GPC: “Los dejamos hacernos un monito”",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQME93UVFEb2l1QjJ6UkNjeno5NGxHQ01FTUlsTnpwUlhCLTdvV2g4MVJwcGhWWjJzSkVqb3E2NW1nVzJoU3VpWnZjeE8ySDVUNnpEOFR2QjRzQUxydGRDZS0yRnBaWERmczhqaE50a19VQjhUQmEwdkpvck9JeWVXcjdSNDBrM21ZbkNzN3hnRmVDSFJwV0RHaVVuT1ROdHE0RllRbVEwdjlDNE5iUFhVUFdvdHZnOVM2bHZ2V1VyN3hwcVBoV3J5Wmk3SXVOUEpY0gH0AUFVX3lxTE1Kc09CTGVZUUVhQTlBV1ZLOERIRzZVa2l6QjhRQ3cyS09XVFo3YjZGVGsyZ0d6NnlqSjdGblpZNnp5MGVuQXVwQkVWeTRlYXd2czFCcl9fQjBNdVZIXzQyX1hEMGVtbzZMTExpUFRLTmtOZDNIV1pNQmRhSU9oWEdpWU9SN19xRjVjdkRzd20zTnk3ZkhYR3FmN3dqNk5GeGRRNzB6SE9SQ2ZHQ05MYTZPNzk4ZWhqTTl1dzdfQnp0RV9RNkNSeXpteXkwZDF2SE12eWdKRkoyMlFRSXc5VFlfX3B5VnV3c3MwNms5M0g3RUlWTXM?oc=5",
+          "description": "Rubén Sosa y la goleada sufrida por Nacional en el GPC: “Los dejamos hacernos un monito” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-22T20:53:00+00:00",
+          "score": 3,
+          "score_reason": "Uso de expresión coloquial \"monito\" que aporta carga emocional leve",
+          "score_pct": 30
         },
         {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Tras denunciar incumplimiento del Ejecutivo en relación al diálogo social y las AFAP, el Pit-Cnt resolvió un paro general para el 11 de agosto",
-          "url": "https://www.teledoce.com/telemundo/nacionales/tras-denunciar-incumplimiento-del-ejecutivo-en-relacion-al-dialogo-social-y-las-afap-el-pit-cnt-resolvio-un-paro-general-para-el-11-de-agosto/",
-          "description": "“Los acuerdos están para cumplirse” y “no fue el caso”, apuntó la central sindical en un comunicado. La entrada Tras denunciar incumplimiento del Ejecutivo en relación al diálogo social y las AFAP, el Pit-Cnt resolvió un paro general para el 11 de agosto se publicó primero en Teledoce.com .",
-          "pub_date": "2026-07-22T10:41:56+00:00",
-          "score": 2,
-          "score_reason": "Neutral, agrega contexto sobre AFAP sin sesgo evidente",
-          "score_pct": 20
+          "source_url": "https://www.espectador.com",
+          "title": "Ruben Sosa: “ahora pierden un partido importante y se van con los amigos a comer asado”",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSzJtVlhKU0NzX01sS1FuWDN5Wm1JXzZwSk9vQlFnMkNIWlYyNktCNlhPMzZkY2V1bzV2VlNiQm9TbERhbVluRGliU3p6WmVmeVBSQmNYN1F4UUw2UG1vekNQWm1fQzZuRWNkNlhuckNMenE3dUdxQ29LNXpFS2llR056R2JJRENJUi1GMnRNTVN2eV96ZEVsTnRaY1Z6MXFDX2VVNVJnM0k1UWc0V2VfTTFiaG5lblRsc1RQcFRleU5RRUVTclJ4azVSSjcxOWRCWlE?oc=5",
+          "description": "Ruben Sosa: “ahora pierden un partido importante y se van con los amigos a comer asado” &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-07-22T19:48:04+00:00",
+          "score": 4,
+          "score_reason": "Enfatiza crítica más dura sobre la actitud post-derrota de jugadores",
+          "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "El PIT-CNT resolvió convocar un paro general para el 11 de agosto. La central sindical denunció el incumplimiento del Poder Ejecutivo en relación al diálogo social acordado. En un comunicado, el PIT-CNT señaló que \"los acuerdos están para cumplirse\" y que \"no fue el caso\". Entre los temas de conflicto se menciona específicamente la cuestión de las AFAP. La medida de paro fue definida tras evaluar la falta de cumplimiento de compromisos asumidos previamente por el gobierno en el marco del diálogo social con la central sindical.",
+        "resumen": "El exfutbolista Rubén Sosa realizó declaraciones críticas sobre Nacional tras la goleada sufrida por el equipo en el Gran Parque Central. Sosa cuestionó la actitud de los jugadores actuales, señalando que el equipo se dejó hacer \"un monito\" durante el partido. Además, el exjugador criticó el comportamiento de los futbolistas tras las derrotas importantes, manifestando que \"ahora pierden un partido importante y se van con los amigos a comer asado\". Las declaraciones de Sosa apuntan a una falta de compromiso y profesionalismo en la plantilla tricolor tras los malos resultados deportivos del club en partidos de relevancia.",
         "coincidencias": [
-          "PIT-CNT convocó un paro general para el 11 de agosto",
-          "La central sindical denuncia incumplimiento del gobierno",
-          "El conflicto se relaciona con acuerdos sobre diálogo social"
+          "Ambos medios reportan declaraciones críticas de Rubén Sosa",
+          "Los dos hacen referencia a Nacional y su desempeño negativo",
+          "Coinciden en el tono crítico del exfutbolista hacia el equipo"
         ],
         "diferencias": [
-          "Teledoce menciona específicamente el tema de las AFAP como punto de conflicto",
-          "Teledoce incluye cita textual del comunicado del PIT-CNT sobre cumplimiento de acuerdos",
-          "Subrayado mantiene foco más general en diálogo social sin detallar temas específicos"
+          "Montevideo Portal enfatiza la goleada en el GPC específicamente",
+          "El Espectador destaca la crítica a la actitud social de los jugadores",
+          "Distintas frases de Sosa priorizadas en cada titular"
         ]
       }
     }
