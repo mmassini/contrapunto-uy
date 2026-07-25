@@ -1,25 +1,76 @@
 {
-  "generated_at": "2026-07-24T11:45:13.632308",
+  "generated_at": "2026-07-25T11:15:01.472133",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Fallecimiento del futbolista Bruno Betancor a los 22 años",
+      "topic": "Declaraciones sobre Jona Rodríguez y paro en fútbol",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Murió Bruno Betancor, exfutbolista de Peñarol de 22 años que estaba en Deportivo Italiano",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWU5ha0NGeFRLMk40RFJ4enRtbHAzcVhJcnB0cERLQ0hkNDFrZXc0dGJlV1I5UjQ3SV9rVF94V3Q4eXQ5RUtmblJsUUVLWV84ZUtHSW81Yy0zaHZjaWR1cjYzNEhZV1pCQXVWTEFIN2V6U2Flcy1nRFhNOGlJbHZrbmFJZExKeFJ0NlFWa1JJWjk2RjhIbWlqTk5wdU1kSnpvVEZ2Q1FpTHNySEFDYU5UaDhRbjVMWlRsZERyVFNWaXN2X2dpbHfSAcsBQVVfeXFMTmVaeFhkcUJ4Q0dNNlQ1WFBCUGgxYkhBazg0MzlxeWZJNlFVdUYydFZlbnF4LV93S05fenUxSVk0SGN5ekI4X1FDY2Z3MGVFZ2x0cHFUN2NqWEFjUmtEMFVwckh1Skxad19ObGdQdEJMRTZzcmdWSFVBUVl1WlpTYl9OZkpWRHNpU2hYNVE0T29FX2lza0F2aXNyQ3M0cEFBTG55QnFhVFZjUjZHaG4yN0lGZ2Q2QTVnQTJkY0lIUDNIcmM0OEZFNzU3YW8?oc=5",
-          "description": "Murió Bruno Betancor, exfutbolista de Peñarol de 22 años que estaba en Deportivo Italiano &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-07-23T10:42:00+00:00",
+          "source_url": "https://www.espectador.com",
+          "title": "Julio Trostchansky: “el paro benefició a Nacional” | Las Voces del Fútbol | Entrevista",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHdGU1JiRXhuX195OXYtTC1lMEMxdlQ3N0RBcW9kOG8xSEpjS1VSSk1QRTh1bTdJeVctcXliazZFQ0FTZWxmRm5URVhDcUhWNmRTYjZPUERMLW5nZE1keWUxa0ZZX0xiVnE2N3JRMS1JMjRvZnFlWk1Fb1RuWmhjT01mUW04SHYzZDY0WkVDWTduUGs1QmlKcEt1ZElKSEZG?oc=5",
+          "description": "Julio Trostchansky: “el paro benefició a Nacional” | Las Voces del Fútbol | Entrevista &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-07-24T19:57:06+00:00",
+          "score": 4,
+          "score_reason": "Cita textual con leve sesgo al destacar beneficio específico",
+          "score_pct": 40
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Algunos hipócritas van a gritar tus goles”: Lasalvia y vuelta de Jona Rodríguez a Peñarol",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN1RxLTJnRVFuOThJR3h6U0ZwQ1BBSldhNllKSF9laXdvWU5PU0w4X2dQS3lWUDZuX2lxNC1pa2VhZENEUE1nNzdVTGhwb1dXSWZuQ01fanpHay04Tlp0ZlB0cVAtNHVSTVpqVkp2WHNLbDY4c1lKOGw5bUtJREVEcWt4TmNRTnFib0xxRndVVnczV1MwVUY4dmRpT1RwVFMxbU5sZTg5VjI1S1A1aGJZbE9lazBpRmhXODk1UnBvLWZ2Y3VfWk11RzMzNlFQTDh4TFln0gH3AUFVX3lxTE4xdjZHQmZQU3dQRmkwZ2J5Z0g4dzItY2pKQkplRmtUUWFvcFdZTmFFbFlTdHhUV0pIYXZsTllVajk3bHc5OHpXRm9qQ2VKZVUtNkVUMVdHSlZORWVyNzJ2ZzFLTENYNnhsenNSeGVKTGNjRU1lYVItYmRWTEt2X3FPOEMxYXhib1BySVFscG5YTTRkUmgzVG8wSGNnQmJpQ0psS2tKTmhuS1hQVkhvYWNtbnkxU2tGLW9IY2tranVobi1oZnZrVW1TdWI5bU5DRm1JdUkyTjdfcEFlU2U3dFRwOGhqREJNODdvSUNtdE5QZnhzNmJXd3c?oc=5",
+          "description": "“Algunos hipócritas van a gritar tus goles”: Lasalvia y vuelta de Jona Rodríguez a Peñarol &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-24T14:54:00+00:00",
+          "score": 6,
+          "score_reason": "Uso de \"hipócritas\" genera carga emocional y polarización innecesaria",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "El diputado Sebastián Lasalvia se refirió al retorno del futbolista Jonathan Rodríguez a Peñarol, afirmando que \"algunos hipócritas van a gritar tus goles\". Por otra parte, Julio Trostchansky, ex jugador y dirigente, declaró en una entrevista que \"el paro benefició a Nacional\", en referencia al conflicto gremial reciente en el fútbol uruguayo. Ambas noticias abordan temas vinculados a los dos principales clubes del fútbol uruguayo y generaron repercusión mediática por las declaraciones de figuras públicas relacionadas con cada institución.",
+        "coincidencias": [
+          "Ambas noticias refieren a declaraciones públicas sobre fútbol uruguayo",
+          "Ambas involucran a los clubes grandes Nacional y Peñarol",
+          "Ambas generan contenido basado en declaraciones polémicas o de interés"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfoca en declaración política sobre fichaje de jugador",
+          "El Espectador aborda análisis técnico-deportivo sobre consecuencias del paro",
+          "Uno involucra figura política (Lasalvia) y otro figura histórica del fútbol (Trostchansky)"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Aumento de aranceles de Estados Unidos a Uruguay",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Estados Unidos aumentó aranceles para productos importados desde Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY1RkbnB4Y0ZtOVE0ekVhWFdXaTVfQzljemFGalFYS1BlNy16eEpmNHRyenE5QWZabXh0VVphMXpBY3poZ0FIQWRSaFJqYV9Jek1yUC1zV2o3N285eWpxZTh2Y1hGbjNiWUNiZ0dPZzdBTWE2b3Z6bEpSeHloNkI2emZ4VWRGbjZDUnpaU0szZllBMWxOTklsN0w0RkVLQWVt0gGmAUFVX3lxTE13UXlVaVVtTF95VmRjY0VlMmE1RGJiQTBBLTJ4bDFqZExpaXpRdVpINFRGX3hRT19zZXJnNk1LZkgtcUM5M1JtZjhZbm5La3Y4LURVa0lyRW44aU53d0FEX2g0bk83ZEFRZzFQRUNENzd0Q0xjbUhzR0ZvSWE5bklfd2tTa0s3NVZ2bVpOeUY1VTJlNWhXbk9yOFh0NWhJcUwxdDMxdmc?oc=5",
+          "description": "Estados Unidos aumentó aranceles para productos importados desde Uruguay &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-24T15:02:00+00:00",
           "score": 1,
-          "score_reason": "Información objetiva y descriptiva sin carga emocional aparente",
+          "score_reason": "Objetivo y directo, informa el hecho sin calificativos ni carga emocional",
           "score_pct": 10
         },
         {
@@ -29,49 +80,49 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Falleció el futbolista Bruno Betancor este miércoles por un paro cardiorrespiratorio",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcUtDNTFHSnZBdXJaSXN2dVlFMHpiR3YxT1YwMDJ6VExyZjhySzVDX0ZhWVFIa3lldWQ3RmFpM0VQZGt1ZzFXeHpGOW4zTEJWMU9wVlRieVlzUEFhRVJwWFZjLVB3SzZhdFhQZkRIeTZPSU9SRkJISk1NTlB6dC1iVTBDY3cyc0dfZEZjNG5fWTZzVE12TkE1Vk10SXgwUHl2SU1qeWt1c2VFTE5POFhGdndRSDUzSEowdVo0Qi1WX3ZyLTBCbjVOTlduN0LSAfABQVVfeXFMT1M2a1I0STNPRVg2MGhYMlA5ejJCaXU3dmFrR29JREdoNmYtS1Bjd01FZGRTTTF3VW9OX3hOVGN2Sk5laWY5RVVaOWlVUktNSjlPN3ItU3JobnhLb1R0TnRvcVdKc2RKZFRYaDBfV0VwRzRoQ1MwWmhjTzlienJVMUVSSHU0cFlESnFGNnI5c19HVzNpRXFyVGt4MjE2QmlYTDVWeWt4Z0tPbFE5c1BkLUFTVndsTEZJSmZLelk5aTdKOFFDN2x2eVB3aG1VMFRsUS05MGRfbGZKVkExdDFXYWZKdHZrdVFfbGp6eXotTXdh?oc=5",
-          "description": "Falleció el futbolista Bruno Betancor este miércoles por un paro cardiorrespiratorio &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-23T10:22:00+00:00",
-          "score": 1,
-          "score_reason": "Incluye causa de muerte, mantiene tono informativo y neutral",
-          "score_pct": 10
+          "title": "¿Cómo impactará la suba de aranceles de EE. UU. en Uruguay? Esto explicó jerarca del MEF",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd3RqeXo0aEtkbGRJUlhlZU1DVXFwemZhaUgxcU9fN1ExcHViOVE3TDRDajV4cTBEZm5rY0dvVXNSNTdXUTJRQVFwSkNaQThYdlNRcHpPSmJGaVVVeTFkQ0JpdDNqMkp5MGExajBYQmsxUExQVVRlR1RDdjZBR1Q3emQ1VnFmVEJrTWpFY0VkQThlSFF4UmZlTHZYWUQtNWs2alhpTWx0aTE1VEdHQzQ3TVl2eThkaUlHRHBSTXpxaXFpeGg1M293cDM2bjg2UdIB8gFBVV95cUxOUUtWUkJxRVBVUFdyRzZleG1icFo3aFFFWVgzXzQxUGVzVGR2THFvT29iMF9LWE56cGxWU2VtcWZFeDBPMHFHSE9YSDFZOVBWSjhsTElGMm90azZpVGV4TTJiNG9qSjJBZG94anNpZGxFdG1helNLd3BTQWJxZXJOVnpPTUZHamtMd1E4Z2luN01pT05vTFREbWtFelRBOUpReVR4MW54Tmg2azN5RDg1a21fMGQwSkpiaC1YeDhuNXlPdF91alQ4ZlVfcUh4VVBJQ3JlbFpwamtZRU5iSzhfQmdZb1pYWDlCeHI1R05uNE5JUQ?oc=5",
+          "description": "¿Cómo impactará la suba de aranceles de EE. UU. en Uruguay? Esto explicó jerarca del MEF &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-24T13:39:00+00:00",
+          "score": 2,
+          "score_reason": "Enfoque informativo neutral, pregunta sobre el impacto y menciona explicación oficial",
+          "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "Falleció este miércoles el futbolista Bruno Betancor a los 22 años. Según Montevideo Portal, la causa fue un paro cardiorrespiratorio. Betancor había jugado en las divisiones formativas de Peñarol y actualmente se desempeñaba en Deportivo Italiano. El joven deportista había desarrollado su carrera en el fútbol uruguayo, pasando por el club aurinegro antes de su fichaje por el equipo de la Segunda División Profesional. La noticia conmocionó al ambiente futbolístico nacional, donde era conocido por su trayectoria en las categorías juveniles de uno de los clubes más importantes del país.",
+        "resumen": "Estados Unidos implementó un aumento de aranceles para productos importados desde Uruguay. Un jerarca del Ministerio de Economía y Finanzas (MEF) brindó explicaciones sobre el impacto que esta medida tendrá en la economía uruguaya. La decisión estadounidense forma parte de una política arancelaria más amplia que afecta las exportaciones uruguayas hacia ese mercado. Las autoridades económicas nacionales analizaron las consecuencias de esta medida en el comercio bilateral entre ambos países.",
         "coincidencias": [
-          "Bruno Betancor falleció este miércoles",
-          "Tenía 22 años de edad",
-          "Había jugado en Peñarol y estaba en Deportivo Italiano"
+          "Estados Unidos aumentó aranceles a productos uruguayos",
+          "La medida afecta las importaciones desde Uruguay",
+          "Hay pronunciamiento oficial del gobierno uruguayo sobre el tema"
         ],
         "diferencias": [
-          "Montevideo Portal especifica la causa: paro cardiorrespiratorio",
-          "El Observador destaca su condición de exfutbolista de Peñarol",
-          "Montevideo Portal enfatiza el día del fallecimiento en el titular"
+          "Montevideo Portal enfatiza la explicación gubernamental y el posible impacto",
+          "Subrayado se centra exclusivamente en informar la medida arancelaria",
+          "Montevideo Portal destaca la voz del jerarca del MEF como elemento central"
         ]
       }
     },
     {
-      "id": "story_002",
-      "topic": "Niño asesinado y cinco heridos en Parque Rodó",
-      "category": "Seguridad",
+      "id": "story_003",
+      "topic": "Estados Unidos impone nuevo arancel a Uruguay",
+      "category": "Economía",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Asesinaron a un niño de 12 años e hirieron a otras cinco personas en ataque a disparos durante picadas en las canteras del Parque Rodó",
-          "url": "https://www.teledoce.com/telemundo/policiales/asesinaron-a-un-nino-de-12-anos-e-hirieron-a-otras-cinco-personas-en-ataque-a-disparos-durante-picadas-en-las-canteras-del-parque-rodo/",
-          "description": "Según pudo saber Telemundo, la mayoría de las víctimas pertenecerían a un clan que opera en Villa Española. La entrada Asesinaron a un niño de 12 años e hirieron a otras cinco personas en ataque a disparos durante picadas en las canteras del Parque Rodó se publicó primero en Teledoce.com .",
-          "pub_date": "2026-07-24T09:40:05+00:00",
-          "score": 3,
-          "score_reason": "Contextualiza con picadas, aporta dato de clan delictivo",
-          "score_pct": 30
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "EE. UU. sube a 12,5% el arancel para productos importados desde Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORkppNzl0LUsyOFhWWWtxNUFlZF92cUVzeXZPeW5rbVprQWc4QTRWai1yZ0ZtZFJJb1FpdThuOEFJVG85dXFIMFlBVzFJT3J1UzZRbmtMR0VVTi0yWDJPVGZNMTFrZTJjSW9FTXBOWHBfbUxaVFNOdTlfNWtYcWJyME9oS0doZnFacnhIZjRjRG1EdlBzSWx4TS1FZjNRaWpubVJkbk1jYmk4WWxSWG1ael9kT2s2blXSAdsBQVVfeXFMTXlVUUFvOFNzN3E2TjFVc2RMQmJ6by0zSmJ2SDdkYVdIMHd1M3E2TDZVQjNtTE1ZVVRLN0lPblh1LU85NmVDUnJTQjF5TEZoZ0djT0hwbExDNkhqaXozNl9OeW1XNXliYW1vWVdXLXFOQTNXU2lDUTVjcTFLQjE0SDNWX3BiSFJLOEpiU3NieGE2a0ZDd3BQOTV3YnEwT3ZULVBJNlE4Uy0ya0RWSjdybTVRNlZEVzVfbUpHSUQ3Y3JBRnNhRi14b19xZjUtVzZsZzE0TkF4RVZQaXZV?oc=5",
+          "description": "EE. UU. sube a 12,5% el arancel para productos importados desde Uruguay &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-24T10:50:00+00:00",
+          "score": 2,
+          "score_reason": "Informativo y objetivo, presenta el hecho central sin valoraciones",
+          "score_pct": 20
         },
         {
           "source_id": "subrayado",
@@ -80,26 +131,77 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Mataron a un niño de 12 años e hirieron a cinco personas durante ataque a tiros en la rambla del Parque Rodó",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYV9CVTJGRkFEMXlzVXEyOFNqSk1BYnpaV2o3U1RqRkFZRW9paDdMcVZaMllPTGw4Um9XWV9GVVd2eUNsMGh5Z0w0U0JfcF8tcjZnejdSa0l6dC1zV1d3Znc4MmZWLW0xTnJVYm9sXzl5aDBidV8xeFY5Q3VsTDZma2p4MXZCejFJaXJHalFIS2dmRlBDdDBhT0lUNkx5T3A3Mld5MEtOZUxKQVdLQTRzMG4zTkpUZ1VMSFhIVGVMdFo3U0My0gHKAUFVX3lxTFBGNUNKWjI0YVpLMzhKU3hfMGh0dHFVZU9renFDVFFzNDZJLWIzTWdOdHpqU004Z0ZuOEJEY2NnOVh1TEl2WksxY3FQdnI1WmMyc0VGMDJmaG5Jcnl6TEx0Z3l3WVBhWkl3dHpNZ0NRSW9hU0g5RWVqRVdJb09KbEZSZUNlaFpFYURQYVRVVGdiMjJTLUJ3dEs1SEFwa0JtNFplenhlbU1aN19sbEVYNDQ1SnpFV3RMQWc5c2ItUUdCY05oTEJNNlgxclE?oc=5",
-          "description": "Mataron a un niño de 12 años e hirieron a cinco personas durante ataque a tiros en la rambla del Parque Rodó &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-24T10:16:00+00:00",
+          "title": "El 75% de los productos uruguayos exportados a EEUU queda fuera del nuevo arancel impuesto por Trump, asegura Economía",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeDJyLUVHeTBobHJ4SFk2SHNuRjJHQUo0WnU3ZXdQVnBqTDlrQmpuWnk1NmF1MWVtelRpUnJJU1dkUnZIcFlPa01qU1BLdUVkNUVMXzVubEtFdExOVkZ4TWZ5RXkybUgtS0JQdGw0c2NEaVkxLTRSb0NuM2d3Z2M0NkxsS1Zkc3dHdEs2aHdfeU80YVY3c05JQjFLOEl6Y3h0a3ZXMUhjSklSWmVpMjljRVppV3BLXzFqVFlBRUtNb0d0V2VYZ0hXbF9DSU1Ga1l1QzJRMUQ1VVE2VmFPemfSAeMBQVVfeXFMTkNtVU1QSWFmTVR2SlRZeEpuRmlwXzFOM3EyQ0MwZk00XzIyTlgyVmFrS0VBT0pSb3VKRXdST2c1UHl4SWUyVklJcm43NTltUFR0ZlU5N0RDczVzR3cxck4tcDFDZURsb2x4cXlmd2VGdTIxNk9tbmtnX2UyalVia0tkVUplV1p4YkJzdVZWZ1VmQ3N0Rm0xd3RiMmZJY00wanhlUDZ3MEp2YUtVYzFCa2hoVmJNRUVoLWZnVDdhVWtKcWdpYUU3TjB1dlljaDhfWjFPMW1mRUpZTEFaQVU5N3R4M2s?oc=5",
+          "description": "El 75% de los productos uruguayos exportados a EEUU queda fuera del nuevo arancel impuesto por Trump, asegura Economía &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-24T16:26:00+00:00",
           "score": 4,
-          "score_reason": "Uso de 'ataque' genera énfasis en violencia dirigida",
+          "score_reason": "Enfatiza el aspecto positivo minimizando el impacto del arancel",
           "score_pct": 40
         }
       ],
       "analysis": {
-        "resumen": "Un niño de 12 años murió y cinco personas resultaron heridas durante un ataque a tiros ocurrido en la zona de la rambla y las canteras del Parque Rodó, en Montevideo. El hecho se produjo durante la noche en un área donde se realizaban picadas de autos. Según información policial reportada por medios, las víctimas tendrían vinculación con un clan que opera en Villa Española. Las autoridades investigan el episodio como un posible ajuste de cuentas entre grupos delictivos. El niño falleció como consecuencia de los disparos recibidos. Las cinco personas heridas fueron trasladadas a centros asistenciales. El ataque se realizó con armas de fuego y las circunstancias exactas están siendo investigadas por la Policía.",
+        "resumen": "Estados Unidos estableció un arancel del 12,5% para productos importados desde Uruguay, en el marco de las medidas arancelarias implementadas por la administración Trump. Según informó el Ministerio de Economía uruguayo, aproximadamente el 75% de los productos que Uruguay exporta a Estados Unidos quedaría fuera de este nuevo arancel. La medida afecta las exportaciones uruguayas al mercado estadounidense, aunque una porción significativa de los envíos mantendría las condiciones previas. El gobierno uruguayo se manifestó a través de la cartera de Economía sobre el alcance y las implicancias de esta decisión comercial estadounidense para las exportaciones nacionales.",
         "coincidencias": [
-          "Un niño de 12 años fue asesinado",
-          "Cinco personas resultaron heridas",
-          "El hecho ocurrió en la zona del Parque Rodó"
+          "Estados Unidos implementó un arancel del 12,5% a productos uruguayos",
+          "La medida fue tomada por la administración Trump",
+          "El Ministerio de Economía se pronunció sobre la situación"
         ],
         "diferencias": [
-          "Subrayado menciona la rambla, Teledoce especifica las canteras y las picadas",
-          "Teledoce agrega información sobre vinculación con clan de Villa Española",
-          "Subrayado usa 'ataque', Teledoce 'ataque a disparos durante picadas'"
+          "Montevideo Portal enfatiza la imposición del arancel como hecho principal",
+          "Subrayado destaca que la mayoría de productos queda exenta del arancel",
+          "Un medio presenta tono neutro, el otro enfoca en minimizar el impacto"
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Tiroteo en Parque Rodó con niño muerto",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Ataque a tiros durante picadas clandestinas en Parque Rodó dejó un niño fallecido y cinco heridos",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdjQ3NGJqSWI4U3dGY0U5UnFXVHFVUXNFOHhOREVPTDZiTTAtNFZ6S29EeVlSMVY2bVIwYVNNTXJBQXR6Nm9IYUdySXZNTWl2bEZtS25NOEc2aXZYYTJ2eXZkclJyQzdaaDVjU1F4WHNhRzlUcTNmVUYxMWJkcjF2UVYxaU9BSWZ3dEtDWHdST3ItYnJGTWllLTV3SmQ2RzdpWGl0OGRlTGM0MDlSWXR4c3NGZ0VZZENrSHdFeXA4Z08xUC1VZDNRQ3laVGxOR0E4X3c?oc=5",
+          "description": "Ataque a tiros durante picadas clandestinas en Parque Rodó dejó un niño fallecido y cinco heridos &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-07-24T18:37:19+00:00",
+          "score": 2,
+          "score_reason": "Más contextual y descriptivo, agrega información sobre picadas clandestinas",
+          "score_pct": 20
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Mataron a un niño de 12 años e hirieron a cinco personas, entre ellos un adolescente de 14, durante ataque a tiros en la rambla del Parque Rodó",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNGVHOUNmNlhwUHJFMlZEeUF3M1p6OGdCRmFjTTBRZkNQcnBJX0Y1a2ctbHhEZEtVWThCU2NUQklOX1ZEbEcyTW0wMHVsa2pWRUR5X0paRWZYT3Q3YnR3WkUxaGx2WHJqYmdVblExS0V6dThSd2lxcTREWklrQVJtTUlyT2k0eGJsZkJyQjg0ZFhRbW8wcms3TENpaml3a0N6V0ZVdjFFOEFiMDItS2xrWTdKTWhQWWI4MkJ3eWJnTG52a1ZXLUtINDl3Z21lekdYUUx0azRPYUE4SVY0Q0ZCSEtsNnHSAeoBQVVfeXFMUHRlM1lwMlVfdXd6Ql9qWVZmTk83LW1YdWk0MndzdENZWXNGRzFfbXhtLUk1WHAwdFROQ1N1c1NmMGpqajg4XzhDbDBsdC11U25kbGt5SW1KSFVnVVlMMUpQa0l1c2lxN3dtVUEzOVVYUGhyYVpVYU92N21jdnFlT3V1WlAtcThfeEF4Rlhac1Y4d2hLbDliSllIYUdadmJZLVJPd1hNV2VSRTk2ZlR5WTFrWWN0TzVCVE5jR2VEQUxRN2JRRHlSdi05VXc2MndkQXNtRDRfU3pUakp1ZUVWS1I0N0lEREpGZjdR?oc=5",
+          "description": "Mataron a un niño de 12 años e hirieron a cinco personas, entre ellos un adolescente de 14, durante ataque a tiros en la rambla del Parque Rodó &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-24T10:16:00+00:00",
+          "score": 4,
+          "score_reason": "Enfatiza 'ataque' y 'mataron', términos con carga emocional moderada",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "Un niño de 12 años murió y cinco personas resultaron heridas durante un ataque a tiros en la rambla del Parque Rodó, Montevideo. Entre los heridos se encuentra un adolescente de 14 años. El hecho ocurrió durante la noche en la zona costera. Según algunos reportes, el ataque se produjo en el contexto de picadas clandestinas de vehículos en el lugar. Las autoridades investigan las circunstancias del incidente y la identidad de los responsables del tiroteo. El suceso generó conmoción en la zona.",
+        "coincidencias": [
+          "Un niño de 12 años murió por disparos",
+          "Cinco personas resultaron heridas en el hecho",
+          "El incidente ocurrió en la zona del Parque Rodó"
+        ],
+        "diferencias": [
+          "Subrayado enfatiza el aspecto violento usando 'mataron' y 'ataque'",
+          "Grupo R contextualiza el hecho vinculándolo a picadas clandestinas",
+          "Subrayado destaca la ubicación específica (rambla), Grupo R el contexto del evento"
         ]
       }
     }
