@@ -1,78 +1,27 @@
 {
-  "generated_at": "2026-07-28T12:01:27.601793",
+  "generated_at": "2026-07-29T12:05:31.545621",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Denuncia penal a exdirector del Hemocentro de Maldonado",
-      "category": "Salud",
-      "sources_count": 3,
+      "topic": "Uruguay emitió deuda internacional por US$ 1.250 millones",
+      "category": "Economía",
+      "sources_count": 2,
       "headlines": [
         {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "ASSE denunciará penalmente a exdirector del Hemocentro de Maldonado y le iniciará un sumario",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcUcwQTZzQkV2bUR0WUpqdngwSm5LYTdtQ2NURjdmajdETUlqWnhTRjJjRHE1MnUxUjJvdjh3SkxCVUhhU055U3hwOGo2cTkyTlJnLWROVlBzMWNnclZrLWM4NTZkRUdsUmZ1R2xGM0xLUVMtLXhfdEtjQXNSUUlneVBIQW8yV09Bd1ZtM1IzLVVfZ2lGVHp0RW9pVExaa29NelpUbm04VEFaMDFEcWZsUmZtYllfWlJSV0huNkhwLVZUZWFwc1dza2VHRWNaUV9zNDlvTkRB?oc=5",
-          "description": "ASSE denunciará penalmente a exdirector del Hemocentro de Maldonado y le iniciará un sumario &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-07-27T20:31:57+00:00",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "Uruguay colocó nueva deuda en mercados internacionales por US$ 1.250 millones",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWC04RHVnYmNPLUFEYkE5YkY0ZkExYjNCWHk2WTFIV1VoMGcyS1ZtTTQzNnVsWVVKcDZ4b0M4em9IU0NmMHY4S0Ziekg0aHlzN0N3cE0xZnVfc1dhUl9OV01RNUlldWNlaXktaTVEaTRFWEtFRU9qaWpBa3hIV05EWG54UnpvN3BjVHVHQ3h0LVExMU1mQ2NSQktiOHNiN09vLUxZOG9KY3NVTkJadTIzSl9UdGZhTHYyZWpIblQ5aEl6RmpoLWROZtIBzgFBVV95cUxOeGx1N1JtZW8yd3ZQVm5TMExLZlZnWWpJRnkzT1BLMGxJQnltekgtZHJqemN4YjVRa0ZYVkxGZ3pmNlNlNVdBUlYzYlEtTE1aTjZJS0dSUmVQRDAtZk1jQUEwSTJnQmhVbUZwcTFPa1NoTEc5YkhjSjZyUXJBUG5nM2lOS3F4RGo0MmZPbk1aQnpnek9MbU1rdzFMQ2N6RW11RXc4SWJ3a0FEcWp3SjU5aFk4RjdFYXpyRWNVeDBSc3I4UFRHYWRYcWhBcEtOUQ?oc=5",
+          "description": "Uruguay colocó nueva deuda en mercados internacionales por US$ 1.250 millones &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-07-28T22:58:00+00:00",
           "score": 1,
-          "score_reason": "Informativo directo, sin adjetivos valorativos ni carga emocional",
+          "score_reason": "Informativo y directo, presenta el monto sin calificativos",
           "score_pct": 10
         },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "ASSE hará denuncia penal por presuntas irregularidades en el Hemocentro de Maldonado e inicia sumario al exdirector",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbG1XT1ViTFdSUjBqaFJyMmJZakNFTXFnNVZxUXFxdzRxOVVmeHZJZTV4ZE5VN19kN1MxZGxtWFo4SG5iSWhOSkF4UTZ2UlFvenZpRUVTUmhXWnNIT25fMTdBZ0NDZUUwT2JDWHNWV1gzb19EUEUtQjFPMTdINFMwS2ZMWEU1dVNORVMwS1BUeW5CamJtcTl3MWJ0cFNadXkzZlRRSGRNVkg4bXdIMnEyUE5nS0FXQ19UOTJiMWZIcV95STFRRWNWSUhrcjFfZDN1c0oxWm84Y3ZiZmliT3dleS1YWkNVdw?oc=5",
-          "description": "ASSE hará denuncia penal por presuntas irregularidades en el Hemocentro de Maldonado e inicia sumario al exdirector &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-07-27T14:00:00+00:00",
-          "score": 2,
-          "score_reason": "Incluye presunción de inocencia con término 'presuntas irregularidades'",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Omisión y atrasos: ASSE presentará denuncia penal contra exdirector del Hemocentro",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVzR3LXZLMWJFSER4WEx1YnczUFJ4ZVNaTFNQbHFra0dfUHRDbkZUTDB5Z0dTMTdpcHFRZXRvYzItdmtjd3JXQzBzajd2VFBRdm5LS05uQ1R2UFBMUTJrRTdnaUtEbk1TRmhFcHg1Y0FWNTBPOFVtQWVhRmFBdXVHTEpzWko1QlpVNmc4SGRYdWVHdUpNa3RvWG1hTFhrbDdmc1JqeDVkX0IzSG80QS1UY0xlUHNRcTVQTDNLRmF2QnRGNjhOQ1pweNIB7AFBVV95cUxPajJYREhBa25oek80VDF2bUpMNjVubE02UnJWV2FVNmFwNVh2S1pnS2o4MUJxNmFPZmZiQW5LdWM2Qy1MZDRlZTVBMTQ1WnpCejhmRV9FMkZNZ0FEbmVWRS1aVVB3N1dBd1JDOU1KRlR4Z1lRdko4dmc1b2dEYm1rVnhPdkZGMFYzVGRDVVNvTGcwSWducXlabmUzQmhZOUtESnk5WVRrNlc1N3RhanhkQzZwQnUtMUx2aVhLdm9LOEpWNUtOeTNYckVRX0p6ZWsxUE5tbGprbFRyeTNzX2RKU1pLdlhyRk0wS0VoYg?oc=5",
-          "description": "Omisión y atrasos: ASSE presentará denuncia penal contra exdirector del Hemocentro &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-27T22:35:00+00:00",
-          "score": 3,
-          "score_reason": "Anticipa contenido con términos específicos en el titular principal",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "ASSE presentará una denuncia penal e iniciará un sumario administrativo contra el exdirector del Hemocentro de Maldonado. La medida responde a presuntas irregularidades detectadas en la gestión del centro de hemoterapia. Entre los problemas identificados se encuentran omisiones en el cumplimiento de protocolos y atrasos en procedimientos. La administración de salud pública decidió tomar acciones tanto en el ámbito penal como administrativo contra el exfuncionario. La denuncia será presentada ante la Justicia mientras se desarrolla paralelamente el proceso sumario interno en ASSE.",
-        "coincidencias": [
-          "ASSE presentará denuncia penal contra el exdirector del Hemocentro",
-          "Se iniciará un sumario administrativo al exfuncionario",
-          "El caso involucra al Hemocentro de Maldonado"
-        ],
-        "diferencias": [
-          "Montevideo Portal especifica en titular los problemas: omisión y atrasos",
-          "Búsqueda enfatiza el carácter presunto de las irregularidades",
-          "El País presenta la información de forma más genérica sin anticipar detalles"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Orsi viaja a asunción de Keiko Fujimori",
-      "category": "Internacional",
-      "sources_count": 3,
-      "headlines": [
         {
           "source_id": "subrayado",
           "source_name": "Subrayado",
@@ -80,13 +29,151 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Yamandú Orsi participa este lunes de la asunción de Keiko Fujimori como presidenta de Perú",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONEFBMnI5bXBSZzZ2Mm95NWRhUWtTTzhjRkNuaWs0RnVEV3RTelRaNkVtNWVqOURoLVFlbXM4VDlaNm01U2M4c3F1clpkRXBhZ3MwS0FGM1ZITTZZcFVzaHJOSnhIMmFRVjlZaUdyaWRKdlhjZnllSUVfYVB4djFZU1VNbmZ6YmhuM0JrakNheGstYXFITUh4bm9VdFFRVVlBTEFVU3hvQVFiRS1NQU5ZZGZzQXp0VUZ4WnRz0gHAAUFVX3lxTFBySUowUHZ6WGJEVzZLdFB3T2I4MDNpTlZzNnZiM084OHVnTHBlTGdQU0VYbHRULTNtUUNqME5PSnFuUkEyUFZJRnY5MHQ1bk9Pd2lDOGR5UTNGRlllQWVxNXBXUHo5MU53SHJUcmVhVUZlT1dlRTRMaE5HbUNYSmFrQ2JDWDdzVmVmZ2tPVUR4Rm5kMXBidkVWUHBkVGdJNHpfT1NBajJHSlhwSWFnMHlVZEFoVXFwODNYcm1lZjdDSw?oc=5",
-          "description": "Yamandú Orsi participa este lunes de la asunción de Keiko Fujimori como presidenta de Perú &nbsp;&nbsp; subrayado.com.uy",
+          "title": "Uruguay emitió bonos en pesos a 7,75% y en dólares a una tasa de 5,356%, con prima de riesgo de 75 puntos",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDhneXNzaEVOZ3lkTmhZWHc2YUFwY09pYnVvSmR1OER6ZGpHRWRzNXF2YU5xSkVaUUhHQ0dFVWpJS0JYM2RYVWhfakFtblJkeWllZEJsM0RMTHFOaVNXLUZZeFdoYjNuQVBpTVZjWVlWT3JYdmF4Z0hRQm9nMHE5djMxMVRUeUVaV2llWVNWMlVMTHR0NktLa1NiZEdtTGdxWTZ5SDg4SXpyeXpPeWpZRDNEMVAwd9IBuwFBVV95cUxOdnBNUXhUWEx0c3BMODlBamNKUlZlanBPR2U3RUU2eDU2czRMYm4xOUtIZkNBcF8zdm5hdTI1NWVjREVSLXYyQU9lQ01aZTY1bmZCRnI4dk9yb2RwUWlxbGFxVmYtbmFHOXpGSUY4Z213c0tJUjk0V0lINXVJNmNoWFF1OGJrcXlUNm8tSHgwWEpiRFZCWnhyTFJGdXllaXVLWlB5T1FwbWduTVZON095a1FmTmVUQ3VsQVdF?oc=5",
+          "description": "Uruguay emitió bonos en pesos a 7,75% y en dólares a una tasa de 5,356%, con prima de riesgo de 75 puntos &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-28T22:54:00+00:00",
+          "score": 2,
+          "score_reason": "Neutral pero más técnico, incluye datos específicos de tasas",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Uruguay colocó bonos en mercados internacionales por un total de US$ 1.250 millones. La emisión incluyó bonos en moneda nacional con una tasa de 7,75% y bonos en dólares a una tasa de 5,356%. La operación registró una prima de riesgo de 75 puntos básicos sobre los bonos del Tesoro estadounidense. La colocación de deuda forma parte de la estrategia de financiamiento del gobierno uruguayo en los mercados financieros internacionales.",
+        "coincidencias": [
+          "Uruguay realizó una emisión de deuda en mercados internacionales",
+          "El monto total de la colocación fue de US$ 1.250 millones",
+          "Se emitieron bonos tanto en pesos como en dólares"
+        ],
+        "diferencias": [
+          "El Observador destaca el monto total mientras Subrayado enfatiza las tasas de interés",
+          "Subrayado incluye datos técnicos como la prima de riesgo de 75 puntos básicos",
+          "El Observador usa lenguaje más simple y accesible versus el enfoque técnico-financiero de Subrayado"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Orsi participa en asunción de Fujimori en Perú",
+      "category": "Internacional",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Orsi se reunió con Fujimori en Lima antes de su asunción como presidenta de Perú",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU201bXVMczRUYUlCbWNhZVJ4WE91ZWtYelhEajVvN1NZZTM5TEN0Z0FQd3lVMFdFTmhzQlo4em12UWIwYmNTNG1tNzd6Qmw0TG8telM3dV9PcndPTnk4eXZMZ2x3ZXExZ3VPZS03YndLbGNNenFZRVBacWNWTjBudUphTnJ5cmpMSU9KQ3BtM2dyb2pXQ3FQQVNjekx6QUhsRFF6WjAwVFlVUFZXTU1TU19ycDV6dUF1NHFvNWtZaGxzQ1l4Z1pn0gHrAUFVX3lxTE9udl80WFdDQ1RsSmZlZ051ZV9pN2laRUNsaUJGYlVnVDREOHBUVWtYVWI3ZFJqWVpMQU82MWpyUURNcE5TQ2RBdkJJUm9RcW5ubVFDa1lpb1llWkU4dmxXTWRWMW9SNl8zZDBmNGdBNURwVnhyUUp0b28yblRhbUpBWjRTNFFuNk1sUjFaZjNiQTN4RXNNM1MwR2s2R2JWUVplOGtTeUFScWRxLVRJRXA1b1ZUODRoWGlONG1Xa3VYQWN1VU90NzdJYmhsNTNKdDN6YlYzeE5CeDVURzZXS0JsUVNSMVFZX0tqTnc?oc=5",
+          "description": "Orsi se reunió con Fujimori en Lima antes de su asunción como presidenta de Perú &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-28T21:40:00+00:00",
+          "score": 1,
+          "score_reason": "Informativo, describe cronológicamente los hechos sin valoraciones",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Yamandú Orsi participa este martes de la asunción de Keiko Fujimori como presidenta de Perú",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMjBsdEROd0pJeERvb1BXTGxYZXRvYmk5Sl9XaS1DRHdsSEg4Tm0xRDVQNjlCUWFRYWFZVEZEVEhhRnpEd2hqZzQ5RE85MzRtaXhyZ0UzNU5ibUZtM3RjNE5oZWJVZjVwQmVRNDBHdEZoSXdPUUctTjhPOVNwX3hsZ19SWk8waWlqcEExWG13Ri04c1NuQ3EwYjBjb19VYUdxN1I0UjcxN3Nmb2dZUmFidlF2Ym5rZEtZeFZfZdIBwgFBVV95cUxPUVI4R1BtbkJsMHFZNTRBbWE2eGVMa3JJTWFUVHpZUU4zai04VTlLX29VU3J1YVJDV2VRMDFtaG03NXJSX0xqY2dBMmVFNkQ5LVhULTJLclUxakhuaFhsSHhkdGlkUS1HTGNBM3V2d1RuMG5tZGN4UmstamZGV1o2bmFqTEJLRXlUWS16MDNKRUJyeGt2MXktd1hVdl9XSnV4bWs2NU53azVYWXBlbmlxcm5iR2VQNm9Bc2xtdkZrZ2lHdw?oc=5",
+          "description": "Yamandú Orsi participa este martes de la asunción de Keiko Fujimori como presidenta de Perú &nbsp;&nbsp; subrayado.com.uy",
           "pub_date": "2026-07-28T11:24:00+00:00",
           "score": 1,
-          "score_reason": "Informativo y neutral, solo reporta el hecho sin adjetivos",
+          "score_reason": "Neutral, anuncia el evento con datos factuales",
           "score_pct": 10
+        }
+      ],
+      "analysis": {
+        "resumen": "El presidente uruguayo Yamandú Orsi participó este martes en la ceremonia de asunción de Keiko Fujimori como presidenta de Perú, realizada en Lima. Previo al acto oficial, Orsi mantuvo una reunión con Fujimori. La dirigente política peruana asumió la presidencia de su país en un acto al que asistieron diversas autoridades internacionales. Orsi viajó a la capital peruana para representar a Uruguay en esta ceremonia de cambio de mando presidencial, en el marco de las relaciones diplomáticas bilaterales entre ambos países sudamericanos.",
+        "coincidencias": [
+          "Yamandú Orsi participó en evento relacionado con Keiko Fujimori",
+          "El acto ocurrió en Lima, Perú",
+          "Se trata de la asunción de Fujimori como presidenta"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza la reunión previa entre Orsi y Fujimori",
+          "Subrayado se centra en la participación en la ceremonia oficial",
+          "Un medio usa tiempo pasado y otro tiempo presente/futuro"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Ursea publicó precios de referencia de combustibles",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Ursea publicó informe sobre precios de combustibles: qué dice y qué calcula para agosto",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObjZFMlJ6UlV5VHhycGg1aVJwbkhRSkp5MG1EdE1ZUHUwSDJkTDFSYXl4a0JweUtUWHBwZDdwMjU0Y1pRaWd4MkVyYWlQd2RHby15VkNvMHRJbjAwa0M1V0prV0k4eUtlUTU5VExqTUJaNWJ5WUQ3Wk5NLXVwdjhHdklCQVpTZzBRaDFELUlSMkQ5WlFVZWtBQmdPZ3E4LW1uNlA5NG52bzkxS3JRU29hOGViV25wYzRsSmFVQ2dOTEc1eEFCQmVuOFdUeVh5Tk3SAfMBQVVfeXFMTWtMM2M1V21kTEFYNVk4NnN2TFV2SmFNYmlmOXl6TWxPX3BrLXlUR0d0MnpCYU9lRHo0YlZ3UlRCR3VQSlJscTUwZVpjRzVnT2dSUGd1bEFNcTlaRVpMRVMydXpuZWdtTEZmWEc1S1dDdVdvWjhScndfdTNUUHFCWHhUdzd3dHRoREhtdGJUX2ZObHhLdzZHSUZtZHFSSmpmaVFkZUZRYk4tSTYyRFlLRWNFN3N1dGdkam01TnRHV0VRV3V1TDNfQWhBVUxneGhXTkNDcVF5TzQ5QnhCTWw5NFhOcXVDczdVeDZkQWFkelp0VUtn?oc=5",
+          "description": "Ursea publicó informe sobre precios de combustibles: qué dice y qué calcula para agosto &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-28T21:22:00+00:00",
+          "score": 1,
+          "score_reason": "Titular descriptivo y neutral, sin adelantar contenido específico",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Ursea publicó precios de referencia de combustibles para agosto con alzas en las naftas y el gasoil",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON2Vzc0wwaDdYY2VGMjhWM1kxR2xvUUFOVFNTXzN5cnVJQ1JmOFhrSm03Zkl2YXU3bTl4UmpLa2Vmd0JRWnM1TXZXLWRBeUhuNFA5WWphNGU2eTZrMnpBazd2WURJSExYNHpsT0F2bnNNRjgybU5IUXFMd0J5Q3VHS1JMSlUyaTUzUjREZ0RiamVORldYOEZIOTQ0bTFZaEVldDFDOFdiQUdGemlEdy1MMF9ZWFZ3cXdtcmFR0gHAAUFVX3lxTE03WnZaSE52dVM1UTFEeWtuRzBoOGJTRU9hT3VBNDFwUDNFeDY3UHF6U1BIQUsxM3JNdGt3MkYteXZjOWlKVm9zYzJ0a0JwaU1ZSmxCaXJJSnNNY0tkUDJYUFZpSnhyY3o4RTZvMUl0Wldrc1lHNC1XY1BDUkxSMXhjWHYwYUUtbEtaQ1h0NU5LQlk5X3lReE44andxanJXRVN0amxUYWJRSkd1cE5xQ2pNRFVkTmUtU0ZpTjI4QkduTQ?oc=5",
+          "description": "Ursea publicó precios de referencia de combustibles para agosto con alzas en las naftas y el gasoil &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-28T20:38:00+00:00",
+          "score": 2,
+          "score_reason": "Informativo, anticipa alzas pero sin carga valorativa ni alarmismo",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "La Unidad Reguladora de Servicios de Energía y Agua (Ursea) publicó su informe con los precios de referencia de combustibles para el mes de agosto. El documento establece los valores calculados por el organismo regulador para las naftas y el gasoil. Según la información difundida, los precios de referencia muestran aumentos en todos los tipos de combustibles mencionados. La Ursea elabora mensualmente estos informes como parte de su función de fiscalización del mercado de hidrocarburos en Uruguay, estableciendo parámetros de referencia para el mercado.",
+        "coincidencias": [
+          "Ursea publicó informe sobre precios de combustibles",
+          "El informe corresponde al mes de agosto",
+          "Se refiere a precios de referencia de naftas y gasoil"
+        ],
+        "diferencias": [
+          "Montevideo Portal no adelanta en el titular si hay alzas o bajas",
+          "Subrayado especifica directamente que hay aumentos en los precios",
+          "Montevideo Portal enfatiza qué dice el informe, Subrayado prioriza el resultado"
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Imputación de adolescente por homicidio de anciana",
+      "category": "Seguridad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Justicia imputó a una adolescente de 13 años por el homicidio de una anciana de 81 años",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNjRNVktmUTdfOTFlNWF1d2NabXBZQmRadnB5MFpZVzdaS0xfRms1azl4aWwxZkdKOFpLWWdWN1doYkVDempHTUxuZ3ktaHg2eUJvUEllR3JUX3RjUXZLWTY2UnVCTUZNRDVWTFlFenV0a2xTa0JhZUxTWTJralQxRmZObVN3NjhHS0NXazlyN0RLdEI4bV9sMVhXVUVOODl6Qkluakd0Nl9KLU1aYWZDS1ZKcVhENEhPY0tMMm01RlZkQkhkYUx6d1F6aGJzN0w00gH0AUFVX3lxTE1lUkxhcjJNdUV6NllmNXZtdVVwUjdqREdLU0RoWUJITVl2RERXYUt2Mlh1R0I1OExhbVlzUXNwcVhTV1duaXBENXBGLVpZRkxlTnE5YWg0a09JM1pWT1o5ZVR3SmFEY1pNYlBTSjh3MlMtVm1wdHZUc1VlRzZhVkdINGVGSWh4Y2FldFRlNENkdmpLcFRUckhxNDRLNlZiVVZYRVdUcV9qRUZ0by1ILTVRSEdYY0dIRF9fSDJtVVpLQjdwRFYyWlBWZm9ybWFINVFGc1dPREx3TUlKMnctNjRrYmRETG83MFpwSV9vS0FSNE42cGI?oc=5",
+          "description": "Justicia imputó a una adolescente de 13 años por el homicidio de una anciana de 81 años &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-28T20:39:00+00:00",
+          "score": 2,
+          "score_reason": "Lenguaje neutro y preciso, sin agregar detalles innecesarios",
+          "score_pct": 20
         },
         {
           "source_id": "teledoce",
@@ -95,48 +182,84 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "Orsi partió a Lima para participar este martes de la ceremonia de asunción de Keiko Fujimori",
-          "url": "https://www.teledoce.com/telemundo/nacionales/orsi-partio-a-lima-para-participar-este-martes-de-la-ceremonia-de-asuncion-de-keiko-fujimori/",
-          "description": "El mandatario se fue acompañado por el canciller Mario Lubetkin. La entrada Orsi partió a Lima para participar este martes de la ceremonia de asunción de Keiko Fujimori se publicó primero en Teledoce.com .",
-          "pub_date": "2026-07-27T19:04:09+00:00",
-          "score": 1,
-          "score_reason": "Objetivo, agrega detalles sobre el acompañante sin sesgo evidente",
-          "score_pct": 10
-        },
-        {
-          "source_id": "grupor",
-          "source_name": "Grupo R Multimedio",
-          "source_short": "GRM",
-          "source_color": "#6A1B9A",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.grupormultimedio.com",
-          "title": "Yamandú Orsi y Mario Lubetkin viajan a Perú para la asunción de Keiko Fujimori",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcTZ0NVJNMnk5dXNVcnRJXy1adFdkaE9tckRKb0gwYWtZMmNUQnlWZjhydDJaOGpMdk96TV8ya09IM3hJbnZpTFJRRnRCYldEWDltelRDcXF6ZlVkZ3hQSjFILXlQcE9wNjNOeGhKZUVWR1lqbzhxTHVvb1B5WEZYVlBmNGFLUFVJbGhMTW9MU0JYc19VNTdQUFRISi1wOHgzM2x0UklHQTZyOXM5b1Q1aFVKZS1yelBp?oc=5",
-          "description": "Yamandú Orsi y Mario Lubetkin viajan a Perú para la asunción de Keiko Fujimori &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-07-27T18:50:43+00:00",
-          "score": 1,
-          "score_reason": "Neutral y descriptivo, menciona los protagonistas sin valoraciones",
-          "score_pct": 10
+          "title": "Justicia imputó a la adolescente de 13 años que asesinó a su abuela de varias puñaladas",
+          "url": "https://www.teledoce.com/telemundo/nacionales/justicia-imputo-a-la-adolescente-de-13-anos-que-asesino-a-su-abuela-de-varias-punaladas/",
+          "description": "La joven estará internada en dependencias del Instituto Nacional de Inclusión Social Adolescente (Inisa) por 150 días mientras continúa la investigación. La entrada Justicia imputó a la adolescente de 13 años que asesinó a su abuela de varias puñaladas se publicó primero en Teledoce.com .",
+          "pub_date": "2026-07-28T20:57:53+00:00",
+          "score": 6,
+          "score_reason": "Usa 'asesinó' y agrega detalles gráficos innecesarios en titular",
+          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "El presidente de la República, Yamandú Orsi, viajó a Lima, Perú, para participar de la ceremonia de asunción de Keiko Fujimori como presidenta de ese país. El mandatario uruguayo está acompañado por el canciller Mario Lubetkin. Existe discrepancia entre los medios sobre la fecha exacta del evento: uno indica que la ceremonia es el lunes, mientras otros dos señalan que será el martes. El viaje forma parte de las actividades protocolares habituales entre jefes de Estado de la región. La participación de Orsi en esta asunción presidencial representa una de sus primeras actividades diplomáticas en el ámbito regional desde su llegada al gobierno uruguayo.",
+        "resumen": "La Justicia imputó a una adolescente de 13 años por el homicidio de una mujer de 81 años. Según la información disponible, la víctima habría sido atacada con arma blanca. La adolescente quedó internada en el Instituto Nacional de Inclusión Social Adolescente (INISA) por un plazo de 150 días mientras continúa la investigación del caso. Las autoridades judiciales están investigando las circunstancias del hecho. El caso involucra a una menor de edad, por lo que rige el Código de la Niñez y la Adolescencia en materia de responsabilidad penal juvenil.",
         "coincidencias": [
-          "Yamandú Orsi viaja a Lima para la asunción presidencial",
-          "Keiko Fujimori asume como presidenta de Perú",
-          "El canciller Mario Lubetkin acompaña al presidente uruguayo"
+          "Adolescente de 13 años imputada por homicidio",
+          "Víctima era una mujer de 81 años",
+          "Intervención de la Justicia en el caso"
         ],
         "diferencias": [
-          "Subrayado indica que la ceremonia es el lunes, mientras Teledoce afirma que es el martes",
-          "Teledoce y Grupo R mencionan explícitamente que Orsi 'partió' o 'viaja', Subrayado solo dice que 'participa'",
-          "Teledoce es el único que especifica el cargo de Lubetkin como 'canciller' en el titular"
+          "Teledoce identifica vínculo familiar (abuela) en el titular, Montevideo Portal no",
+          "Teledoce incluye método del crimen (puñaladas) en titular",
+          "Montevideo Portal usa término jurídico 'homicidio', Teledoce usa 'asesinó'"
         ]
       }
     },
     {
-      "id": "story_003",
-      "topic": "Condena a chofer y guarda por contrabando",
-      "category": "Seguridad",
+      "id": "story_005",
+      "topic": "Prórroga de intervención del Casmu por dos años",
+      "category": "Salud",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Diputados aprobó la prórroga de la intervención del Casmu por dos años más",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSEJqMHZxa29kdVFUM3JoLURZbTRIb29pVHUxUTlXNVlkdzItLXY5RHNGczYxanVSd2k2UE9ybjROYlpWUjA2aldDSFI2OHhYTGtKSjIxTTU1NlFFYkZmRGZXc2hvVGpWUzRpTWpCZFR3b1pnR0piMkZOcHFXdDlVX244SVA1NDVuSldUbW02Z2NyMDRjTm9YdmVkMC1aZkZZSThMWk50TGNDUjlpRkQwTGhjVkNtMld3Q1I2VmE2MNIB4wFBVV95cUxQUEFnVW5HNkdzNFluS0pKWEp3U0hnaDNyT3RnVmpnUUxxakhMQTljR3h0cUo3dHB6Rk14d3hDU082YXNVazN2ZGo1NjRKcE1mM1VmcnhrMGtFMFlNMmN0b0ZvU0lqTnpLSENQeHAzVFBHalZPN1dwek9vUkxUQmlzelRHV2loQXdyR3Rzd0Nvd1FpNVQtUGxQQ0xSbEdzNUlTWkhXbEU1bG5MYmtoV3pPRktyaVVyc3ZEVnN0OFRtS190QmhuVF92RERyTFB4MWNUMHlFbEJZNFpQc01KUXB4ZkRlOA?oc=5",
+          "description": "Diputados aprobó la prórroga de la intervención del Casmu por dos años más &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-28T21:03:00+00:00",
+          "score": 1,
+          "score_reason": "Informativo y directo, menciona cámara y plazo sin adjetivos",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Parlamento aprobó por unanimidad la extensión del plazo de la intervención al Casmu hasta por dos años",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa3pJdm13U0hxMS1BVU9HR1B3bmktdjhKckRBZ2RVWHZxQWlzNFZNMHlkdlZNdkZxWGs0cWVKMlRhNDd1eWlHdXBqLVV2RTR3QWxmUzNfOHJrZTBtZDM5UUNoMGNHMzV5X1JuU21KblF1NGthY3N2SnFfNVp3QmhsOHNaZG9oUHlKUzhVUU5vU1N4VFl0YThmOTNlYWJidmw1d3VYX1NZVmxQcW1yY2YzT0pFck1qYXh4bFp5Ml9lNUvSAcYBQVVfeXFMUEpWS1pIZEJzZk05Nzg0WG1GNGl4by1HMFE1QnZWMDV1ODdJenVNZm9idkhwNjd3SldKM0ZIdXU4bTBldEN2ZTY1Y1N3LTZLeng0dUFJbVhPVFZuQk1vTTVoVC1ZSFVKZl9kdTdJeVNtazB0R3FRVW1yaWN1WnNRVEVwcHhjZTdTODRiZ3ZmT05pZVNPcWFuYU1abnR6eVYwWExfZkY2ZTZtTEVQeXZfaUJZWVFJMTRwWHVTZEU0N2wtd0hkTFF3?oc=5",
+          "description": "Parlamento aprobó por unanimidad la extensión del plazo de la intervención al Casmu hasta por dos años &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-28T22:04:00+00:00",
+          "score": 1,
+          "score_reason": "Neutral, agrega dato de unanimidad sin valoración emocional",
+          "score_pct": 10
+        }
+      ],
+      "analysis": {
+        "resumen": "La Cámara de Diputados aprobó la prórroga de la intervención del Casmu por un plazo de hasta dos años más. La votación se realizó con unanimidad de los legisladores presentes. La medida permite extender el proceso de intervención de la mutualista, que se encuentra bajo esta modalidad debido a dificultades financieras y de gestión. El proyecto ahora deberá continuar su trámite legislativo. La intervención busca reorganizar la institución de salud y garantizar la continuidad de los servicios a los usuarios del Casmu. La aprobación parlamentaria habilita a que las autoridades interventoras puedan seguir trabajando en el proceso de reestructuración de la mutualista durante el período adicional establecido.",
+        "coincidencias": [
+          "La prórroga de la intervención del Casmu fue aprobada",
+          "La extensión del plazo es de hasta dos años",
+          "La aprobación fue parlamentaria"
+        ],
+        "diferencias": [
+          "Montevideo Portal especifica que fue Diputados, Subrayado dice Parlamento",
+          "Subrayado destaca la unanimidad de la votación como dato relevante",
+          "Diferente énfasis: uno en la cámara legislativa, otro en el consenso"
+        ]
+      }
+    },
+    {
+      "id": "story_006",
+      "topic": "Incautación de perros salchicha en frontera uruguaya",
+      "category": "Sociedad",
       "sources_count": 2,
       "headlines": [
         {
@@ -146,13 +269,13 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Condenaron al chofer y al guarda de un ómnibus; llevaban contrabando oculto en el motor del vehículo",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVRQVHdscURtQXVsRmJjM0JrY3Z4MG14VU1kUFJwbzZhOTlvRVZvczZRYzd2UmJGSlJ0LXBzQV81dXc5MS1aNHIwWlJWSjdGSWRZSVAzdDAzYWxlMnBkdGdhRnZrZXU5aExIblhvSnNmTS1zTXFBT1ZMaWowZ2pWbkNZSnFFS0gtQ3VyRDhWUmhxN2JQMVZUNzJGcjN6eGlMOVlBdTBlcUtfTEt1eXJfTXZMWVEtbm5FazZqa1JyRmZCOGc5RE5hd2NQb9IB0AFBVV95cUxPQ2s2V0dJWlBfTmsyc1NDQ00zNjZMeFBWa20xTGVsbUFaUkNqejBFdVRxNHJleDRWQTdqSDJ5bUJMaVFyVmpUTjFCRlYzOVQzWWpSLTNJdWJJWHlKbHN3S19SN3ZLaUFNZXh5THpqcUxGR1JxbmFkRGpQTnZGdHJfbWNIdGJUMkRldFI5cmhFaXFxaVlMY1JIeDktMUVZSzlCTEItZ0loZU9zN2tfUl9DbjFaTk1iOWl1R2dLdjJpdXNGNXNwUDE1cTc2aUNKZks2?oc=5",
-          "description": "Condenaron al chofer y al guarda de un ómnibus; llevaban contrabando oculto en el motor del vehículo &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-27T18:31:00+00:00",
-          "score": 1,
-          "score_reason": "Describe los hechos de manera neutral y directa",
-          "score_pct": 10
+          "title": "Incautaron 13 perros salchicha: una hembra y 12 cachorros de un mes, que pretendían ingresar ocultos en un vehículo",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRWtvSlY2Mm9FeF9Ma1Joc1NvMXdXU0JZVFRQcVdnbGxvdktmRUdFQndzNXZ3NGhNU0toRDR5Zy11ai03WlJ0Zy14Q3VkX1FWcDF5cmU4cGRsQXBueWJ5eUtTNjJkTGY0QmM5NWYxaV9JTjg0NUctM0xKTV9OdDZLdW56cnVoQS0zRzlSXzRvTEZUY3BTWDZOQldKMTVLMzYzMTYtMGpmWUw1U2toa2xyU0hnbTdjeDlUS2JmeVR2U0wwYlJNU2w2OXBHeGhFekF5SnBMTkh6NjFLY1ZtU2fSAeMBQVVfeXFMTmJKanhNOW1YbGhVbGJib19Sc21ENVFGNXNQUXFSeUhncFNZZV9VUlB2N1BjV2d6Nmd4VHU2a3JMMmcxRmEtVEtYMUpWM0lLVmN1Mm02NmJLbHdxajF1akI0UWFTNkNPWlhSRlBENFB3aXU0ZGFQSFRrMDFnVGthRjU5QlJMc2ZzU0hwa0g1U2JYTU5naHJmemtaQTRCNnRzVXdmdzA2YU1KdUhWVUQwN0FDNDlqQlQwZWw4U21RdGNwVHloNXl4TDFfa04zR2RDdWFFZ0x0UnNZbTZZcnFBN2dqQkU?oc=5",
+          "description": "Incautaron 13 perros salchicha: una hembra y 12 cachorros de un mes, que pretendían ingresar ocultos en un vehículo &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-28T20:04:00+00:00",
+          "score": 2,
+          "score_reason": "Directo y descriptivo, sin carga valorativa ni sensacionalismo",
+          "score_pct": 20
         },
         {
           "source_id": "teledoce",
@@ -161,26 +284,26 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "Condenaron al chofer y el guarda de un ómnibus interdepartamental por traer productos de contrabando desde Chuy",
-          "url": "https://www.teledoce.com/telemundo/policiales/condenaron-al-chofer-y-el-guarda-de-un-omnibus-interdepartamental-por-traer-productos-de-contrabando-desde-chuy/",
-          "description": "La mercadería estaba escondida en el “habitáculo del motor”, lo que ponía en riesgo de incendio esa zona del vehículo. La entrada Condenaron al chofer y el guarda de un ómnibus interdepartamental por traer productos de contrabando desde Chuy se publicó primero en Teledoce.com .",
-          "pub_date": "2026-07-27T17:26:30+00:00",
+          "title": "Incautaron 13 perros \"salchicha\" ocultos dentro de un vehículo que pretendía entrar a Uruguay desde Argentina",
+          "url": "https://www.teledoce.com/telemundo/policiales/incautaron-13-perros-salchicha-ocultos-dentro-de-un-vehiculo-que-pretendia-entrar-a-uruguay-desde-argentina/",
+          "description": "Se trata de 12 cachorros y una hembra adulta. La entrada Incautaron 13 perros &quot;salchicha&quot; ocultos dentro de un vehículo que pretendía entrar a Uruguay desde Argentina se publicó primero en Teledoce.com .",
+          "pub_date": "2026-07-28T20:23:28+00:00",
           "score": 2,
-          "score_reason": "Agrega contexto geográfico y de riesgo sin sensacionalismo",
+          "score_reason": "Informativo, especifica origen del vehículo sin dramatizar hechos",
           "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "La Justicia condenó al chofer y al guarda de un ómnibus interdepartamental por transportar mercadería de contrabando. Los productos estaban ocultos en el habitáculo del motor del vehículo. El contrabando provenía desde Chuy. Según la información judicial, la ubicación de la mercadería en esa zona del ómnibus generaba riesgo de incendio. Ambos tripulantes recibieron condena por el delito de contrabando. El caso se suma a los controles que realizan las autoridades sobre el transporte interdepartamental en rutas del este del país.",
+        "resumen": "Autoridades uruguayas incautaron 13 perros de raza salchicha que intentaban ingresar al país desde Argentina ocultos en un vehículo. El grupo estaba compuesto por una hembra adulta y 12 cachorros de aproximadamente un mes de edad. Los animales pretendían cruzar la frontera de manera ilegal, escondidos dentro del automóvil. La operación de control se realizó en uno de los pasos fronterizos entre ambos países, donde funcionarios detectaron el intento de ingreso irregular de los caninos.",
         "coincidencias": [
-          "Condena judicial al chofer y guarda del ómnibus",
-          "Mercadería de contrabando oculta en el motor",
-          "Transporte interdepartamental involucrado en el delito"
+          "Incautación de 13 perros salchicha en total",
+          "Grupo compuesto por una hembra adulta y 12 cachorros",
+          "Los animales estaban ocultos dentro de un vehículo"
         ],
         "diferencias": [
-          "Teledoce especifica que el origen fue Chuy, Subrayado omite ubicación",
-          "Teledoce enfatiza el riesgo de incendio, Subrayado no lo menciona",
-          "Teledoce proporciona más contexto sobre las implicancias del escondite"
+          "Teledoce especifica que el vehículo provenía de Argentina",
+          "Subrayado enfatiza la edad de los cachorros (un mes)",
+          "Diferente orden de presentación de los datos principales"
         ]
       }
     }
