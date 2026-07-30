@@ -1,61 +1,127 @@
 {
-  "generated_at": "2026-07-29T12:05:31.545621",
+  "generated_at": "2026-07-30T11:55:06.779499",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Uruguay emitió deuda internacional por US$ 1.250 millones",
-      "category": "Economía",
-      "sources_count": 2,
+      "topic": "Lacalle Pou lidera valoración política según Equipos",
+      "category": "Política",
+      "sources_count": 3,
       "headlines": [
         {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Uruguay colocó nueva deuda en mercados internacionales por US$ 1.250 millones",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWC04RHVnYmNPLUFEYkE5YkY0ZkExYjNCWHk2WTFIV1VoMGcyS1ZtTTQzNnVsWVVKcDZ4b0M4em9IU0NmMHY4S0Ziekg0aHlzN0N3cE0xZnVfc1dhUl9OV01RNUlldWNlaXktaTVEaTRFWEtFRU9qaWpBa3hIV05EWG54UnpvN3BjVHVHQ3h0LVExMU1mQ2NSQktiOHNiN09vLUxZOG9KY3NVTkJadTIzSl9UdGZhTHYyZWpIblQ5aEl6RmpoLWROZtIBzgFBVV95cUxOeGx1N1JtZW8yd3ZQVm5TMExLZlZnWWpJRnkzT1BLMGxJQnltekgtZHJqemN4YjVRa0ZYVkxGZ3pmNlNlNVdBUlYzYlEtTE1aTjZJS0dSUmVQRDAtZk1jQUEwSTJnQmhVbUZwcTFPa1NoTEc5YkhjSjZyUXJBUG5nM2lOS3F4RGo0MmZPbk1aQnpnek9MbU1rdzFMQ2N6RW11RXc4SWJ3a0FEcWp3SjU5aFk4RjdFYXpyRWNVeDBSc3I4UFRHYWRYcWhBcEtOUQ?oc=5",
-          "description": "Uruguay colocó nueva deuda en mercados internacionales por US$ 1.250 millones &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-07-28T22:58:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo y directo, presenta el monto sin calificativos",
-          "score_pct": 10
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Lacalle Pou encabeza la lista de líderes políticos con mejor valoración, seguido por Orsi y Topolansky",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVXhvaTQtSk9FcmxWYk1TM3B5UmNCSFNBdEk4RVJsM0FrS29yVy12M05zSE15NUlvUklaeGlmLWdGR3Z3T0E3OWdidVI4UzAwUlBmd1NMY1hFblQ1dWJ2RXNzTlBZREQxeUx2OHBvd2tFdHphZkZoeHlMNXdjaFNkdnFQZHNzUXFWYzIxOHVmRW4wUE5wcEJLd2psM0hJRktmLUFleXF5TEV5cDd5ZEpHWkI5Q1hURnVyakl4a2VWLUFEVHhUUVd5TnFnc0piMHpzOVVpM1pZWUsxOXR6R0RpYjhB?oc=5",
+          "description": "Lacalle Pou encabeza la lista de líderes políticos con mejor valoración, seguido por Orsi y Topolansky &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-30T00:00:04+00:00",
+          "score": 2,
+          "score_reason": "Informativo, menciona el ranking sin énfasis particular ni carga",
+          "score_pct": 20
         },
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Uruguay emitió bonos en pesos a 7,75% y en dólares a una tasa de 5,356%, con prima de riesgo de 75 puntos",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDhneXNzaEVOZ3lkTmhZWHc2YUFwY09pYnVvSmR1OER6ZGpHRWRzNXF2YU5xSkVaUUhHQ0dFVWpJS0JYM2RYVWhfakFtblJkeWllZEJsM0RMTHFOaVNXLUZZeFdoYjNuQVBpTVZjWVlWT3JYdmF4Z0hRQm9nMHE5djMxMVRUeUVaV2llWVNWMlVMTHR0NktLa1NiZEdtTGdxWTZ5SDg4SXpyeXpPeWpZRDNEMVAwd9IBuwFBVV95cUxOdnBNUXhUWEx0c3BMODlBamNKUlZlanBPR2U3RUU2eDU2czRMYm4xOUtIZkNBcF8zdm5hdTI1NWVjREVSLXYyQU9lQ01aZTY1bmZCRnI4dk9yb2RwUWlxbGFxVmYtbmFHOXpGSUY4Z213c0tJUjk0V0lINXVJNmNoWFF1OGJrcXlUNm8tSHgwWEpiRFZCWnhyTFJGdXllaXVLWlB5T1FwbWduTVZON095a1FmTmVUQ3VsQVdF?oc=5",
-          "description": "Uruguay emitió bonos en pesos a 7,75% y en dólares a una tasa de 5,356%, con prima de riesgo de 75 puntos &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-28T22:54:00+00:00",
-          "score": 2,
-          "score_reason": "Neutral pero más técnico, incluye datos específicos de tasas",
-          "score_pct": 20
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Lacalle Pou es el único líder político con saldo neto positivo, según Equipos Consultores",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTV9SZTZCYTJqMi1jWG1ONktHbjVKUS1iQUNTbzVRcDRYUXFyazZRWTAyVWt4cjRoRzZvd0RBY1N2WjF3eXB4WmY2amVLdTFTejNhdFJFcG9MYTRxa3ZUU0Rfb0N1b1RhQ3ZMdmd5NTgtcFBuMTZoODdkbDdlQjY2Q0pTbFdBTFU3dXJrTm1xTGhVdVdUQnBYWmNrN2ZwT3JWUzJDQnBtekJZazA0ZDlKbjE2Rko1YzE3VFctTUZOZms1bnBxaEtwM0FNcnJES09nVVE?oc=5",
+          "description": "Lacalle Pou es el único líder político con saldo neto positivo, según Equipos Consultores &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-29T23:46:00+00:00",
+          "score": 3,
+          "score_reason": "Enfatiza exclusividad del saldo positivo, leve ángulo favorable",
+          "score_pct": 30
+        },
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Equipos: Lacalle Pou es el político más conocido, el que despierta más simpatías y el único con saldo positivo",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLXF4V0NNTXBDb1RacXgxaWwtOWNoczIzeEtGLUtXeEt4ZXdONWNzMmhIVDlJNDJTd1M5TE93UUdUMERhQ093MjB0T3VYTk82c1ZGY0l4VXVlZ2EtY0RMMnJvQXFqWVRlM0tvN1huNVBpaVR4QWhmSEpnMm42ZGtrQVB0aGZhUHhTNEN6cGxIcmNCaGpmS2FLNVplYXJRQTZkMVRFNV9lcXBXcjZEZU5sMThFTS1LZ01sdGpRSGlFWG1iRGZxYldQMEdMSE4xVE9GaXo0VkxsX3hpM0pFdXpodmcyeXQ?oc=5",
+          "description": "Equipos: Lacalle Pou es el político más conocido, el que despierta más simpatías y el único con saldo positivo &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-07-30T06:08:59+00:00",
+          "score": 3,
+          "score_reason": "Acumula tres datos destacados, refuerza posición del presidente",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Uruguay colocó bonos en mercados internacionales por un total de US$ 1.250 millones. La emisión incluyó bonos en moneda nacional con una tasa de 7,75% y bonos en dólares a una tasa de 5,356%. La operación registró una prima de riesgo de 75 puntos básicos sobre los bonos del Tesoro estadounidense. La colocación de deuda forma parte de la estrategia de financiamiento del gobierno uruguayo en los mercados financieros internacionales.",
+        "resumen": "Según una encuesta de Equipos Consultores, el presidente Luis Lacalle Pou encabeza la valoración de líderes políticos en Uruguay. El mandatario es el político más conocido y el que despierta mayor cantidad de simpatías entre la población. Los datos indican que Lacalle Pou registra un saldo neto positivo en su valoración, siendo el único dirigente político en alcanzar ese indicador. Le siguen en el ranking el presidente electo Yamandú Orsi y la expresidenta del Senado Lucía Topolansky. La consultora midió tanto el nivel de conocimiento público de cada figura como las opiniones favorables y desfavorables, calculando así el saldo neto de valoración de los principales referentes políticos del país.",
         "coincidencias": [
-          "Uruguay realizó una emisión de deuda en mercados internacionales",
-          "El monto total de la colocación fue de US$ 1.250 millones",
-          "Se emitieron bonos tanto en pesos como en dólares"
+          "Lacalle Pou encabeza la valoración de líderes políticos",
+          "Los datos provienen de Equipos Consultores",
+          "Lacalle Pou tiene saldo neto positivo de valoración"
         ],
         "diferencias": [
-          "El Observador destaca el monto total mientras Subrayado enfatiza las tasas de interés",
-          "Subrayado incluye datos técnicos como la prima de riesgo de 75 puntos básicos",
-          "El Observador usa lenguaje más simple y accesible versus el enfoque técnico-financiero de Subrayado"
+          "El País enfoca en el ranking completo incluyendo a Orsi y Topolansky",
+          "Montevideo Portal destaca la exclusividad del saldo positivo de Lacalle Pou",
+          "Búsqueda acumula tres atributos (conocido, simpatías, saldo positivo) en un solo titular"
         ]
       }
     },
     {
       "id": "story_002",
-      "topic": "Orsi participa en asunción de Fujimori en Perú",
+      "topic": "Propuesta de EEUU para deportar cubanos a Uruguay",
       "category": "Internacional",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "teledoce",
+          "source_name": "Teledoce",
+          "source_short": "T12",
+          "source_color": "#006064",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.teledoce.com",
+          "title": "Gobierno de Orsi analiza planteo de Estados Unidos para enviar a Uruguay a cubanos deportados de EE.UU.",
+          "url": "https://www.teledoce.com/telemundo/internacionales/gobierno-de-orsi-analiza-planteo-de-estados-unidos-para-enviar-a-uruguay-a-cubanos-deportados-de-ee-uu/",
+          "description": "Según The New York Times un eventual acuerdo escrito entre Estados Unidos y Uruguay no especificaría que el origen de estas personas deportadas tiene que ser solamente Cuba, pero añadió que en los hechos la mayoría tendría ese origen. La entrada Gobierno de Orsi analiza planteo de Estados Unidos para enviar a Uruguay a cubanos deportados de EE.UU. se publicó primero en Teledoce.com .",
+          "pub_date": "2026-07-29T19:37:25+00:00",
+          "score": 1,
+          "score_reason": "Más específico y preciso al mencionar cubanos deportados explícitamente",
+          "score_pct": 10
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Gobierno de Orsi analiza propuesta de Estados Unidos sobre envío de deportados a Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRkZTZXhxaXotUDFodE9XeWtrUGhtNE5tM1NRSm03S2lZZ29CRF9aMUNDMjZ1VzdrZ1FKZi1xTHBTRURYaEtteEFHTXRycVVxNVhzSkVzaXZlU1dKRGVoaG5wWEdTYXRvekVZV3k2cTVqZzZWT2tNV2YzV1BxQnhLNGJvZklHSy1JS0s3cllZcnREMENxSGdrRmtkS0tmczVvQ3V5dlFxZ1pWVjcyejlaVTczbWdYZDFsd1dVQkpIdjlrdnhhRl9PelhRQ2pIVXJFSnUxX0M1R1h4T2tIYl80YWlzWQ?oc=5",
+          "description": "Gobierno de Orsi analiza propuesta de Estados Unidos sobre envío de deportados a Uruguay &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-29T18:07:26+00:00",
+          "score": 2,
+          "score_reason": "Genérico y neutro, menciona deportados sin especificar nacionalidad",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "El gobierno del presidente Yamandú Orsi está analizando una propuesta de Estados Unidos para recibir personas deportadas desde territorio estadounidense. Según informó The New York Times, existe un planteo para enviar cubanos deportados a Uruguay. De acuerdo con el medio estadounidense, un eventual acuerdo escrito entre ambos países no especificaría que el origen de las personas deportadas debe ser exclusivamente Cuba, aunque en la práctica serían mayormente cubanos. El gobierno uruguayo estaría evaluando la propuesta sin haber tomado aún una definición oficial sobre el tema.",
+        "coincidencias": [
+          "El gobierno de Orsi analiza una propuesta estadounidense",
+          "Se trata del envío de personas deportadas a Uruguay",
+          "La información proviene de reportes de medios estadounidenses"
+        ],
+        "diferencias": [
+          "El País omite mencionar la nacionalidad cubana de los deportados",
+          "Teledoce especifica que serían cubanos deportados y cita detalles del NYT",
+          "Teledoce aclara que el acuerdo no limitaría exclusivamente a cubanos"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Negociación Uruguay-EEUU por deportados cubanos",
+      "category": "Política",
       "sources_count": 2,
       "headlines": [
         {
@@ -65,47 +131,47 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Orsi se reunió con Fujimori en Lima antes de su asunción como presidenta de Perú",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU201bXVMczRUYUlCbWNhZVJ4WE91ZWtYelhEajVvN1NZZTM5TEN0Z0FQd3lVMFdFTmhzQlo4em12UWIwYmNTNG1tNzd6Qmw0TG8telM3dV9PcndPTnk4eXZMZ2x3ZXExZ3VPZS03YndLbGNNenFZRVBacWNWTjBudUphTnJ5cmpMSU9KQ3BtM2dyb2pXQ3FQQVNjekx6QUhsRFF6WjAwVFlVUFZXTU1TU19ycDV6dUF1NHFvNWtZaGxzQ1l4Z1pn0gHrAUFVX3lxTE9udl80WFdDQ1RsSmZlZ051ZV9pN2laRUNsaUJGYlVnVDREOHBUVWtYVWI3ZFJqWVpMQU82MWpyUURNcE5TQ2RBdkJJUm9RcW5ubVFDa1lpb1llWkU4dmxXTWRWMW9SNl8zZDBmNGdBNURwVnhyUUp0b28yblRhbUpBWjRTNFFuNk1sUjFaZjNiQTN4RXNNM1MwR2s2R2JWUVplOGtTeUFScWRxLVRJRXA1b1ZUODRoWGlONG1Xa3VYQWN1VU90NzdJYmhsNTNKdDN6YlYzeE5CeDVURzZXS0JsUVNSMVFZX0tqTnc?oc=5",
-          "description": "Orsi se reunió con Fujimori en Lima antes de su asunción como presidenta de Perú &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-28T21:40:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo, describe cronológicamente los hechos sin valoraciones",
-          "score_pct": 10
+          "title": "El gobierno dialoga con Trump para que cubanos deportados de EE. UU. vivan en Uruguay",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcVFNaHhOUXJfRGhwczdzZ2d0ZVVEUGtaaThDSWxjQkRFTzJIUFBWZ1NYRFE5VGkza0Q4T3g2NVltUGRaS0VscWpQQmVFd1JHNWJ6QjkzdGg2WmpZdVQwU1dNNUhHRVlGT3pXQ0xVaGR6RU5wTkR1elFWOHkwbjlIYmItbXZhM2EtRWF1cHoxNDR6UVZhQm45ZmFReTVmZGxmcXVhTWJNS1pwenR0NHpBc2o1YnBkZk1QdnJ3MkI0SWpxSC1xSVFqdXpURdIB7wFBVV95cUxPaDlUZHA2aUhBbkFvTUZ1Y0ZaNUxhSGtHdWRVZmVkYXFnWWVVeXB5RkNNcWVkZHpXcHV6ak81WlpaMWpFd3l0YUdjbzVhUnJqNzQxRTFSU0tDZ004TzFGTXRpUl9sZnNBdFhZRU1Zb3AzbWJFN0VVLVJSNHpVQnRyN0JPcFZ5VGliNlRpSUxLR0NjMEROWEFZZS1jamZzNHctZ1dhblNQYUNQeWdzVU9kMGxkSXpqbkxYOG1VdE5OVzFZM1FhMmdCd2xQRUhBSzZIbEJhaEZIbWs2RGpESTQxRW43VjhHalhXdnowbl9uTQ?oc=5",
+          "description": "El gobierno dialoga con Trump para que cubanos deportados de EE. UU. vivan en Uruguay &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-29T18:15:00+00:00",
+          "score": 2,
+          "score_reason": "Informativo directo, sin calificativos ni carga valorativa",
+          "score_pct": 20
         },
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Yamandú Orsi participa este martes de la asunción de Keiko Fujimori como presidenta de Perú",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMjBsdEROd0pJeERvb1BXTGxYZXRvYmk5Sl9XaS1DRHdsSEg4Tm0xRDVQNjlCUWFRYWFZVEZEVEhhRnpEd2hqZzQ5RE85MzRtaXhyZ0UzNU5ibUZtM3RjNE5oZWJVZjVwQmVRNDBHdEZoSXdPUUctTjhPOVNwX3hsZ19SWk8waWlqcEExWG13Ri04c1NuQ3EwYjBjb19VYUdxN1I0UjcxN3Nmb2dZUmFidlF2Ym5rZEtZeFZfZdIBwgFBVV95cUxPUVI4R1BtbkJsMHFZNTRBbWE2eGVMa3JJTWFUVHpZUU4zai04VTlLX29VU3J1YVJDV2VRMDFtaG03NXJSX0xqY2dBMmVFNkQ5LVhULTJLclUxakhuaFhsSHhkdGlkUS1HTGNBM3V2d1RuMG5tZGN4UmstamZGV1o2bmFqTEJLRXlUWS16MDNKRUJyeGt2MXktd1hVdl9XSnV4bWs2NU53azVYWXBlbmlxcm5iR2VQNm9Bc2xtdkZrZ2lHdw?oc=5",
-          "description": "Yamandú Orsi participa este martes de la asunción de Keiko Fujimori como presidenta de Perú &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-28T11:24:00+00:00",
-          "score": 1,
-          "score_reason": "Neutral, anuncia el evento con datos factuales",
-          "score_pct": 10
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "El Frente Amplio le pedirá información al gobierno sobre la negociación con Estados Unidos por deportados cubanos",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ19faW9MbF84Uno4TjJhYkdITkpiQkZoOVZoYzNrOGxJcE02d0FlS2VFWUxqNVFGNGxuWkZCeUdud0M4ekVvNGQzY2tENGI4QkN6LUtzc1JyYzZ4MXlCb3NLR2taaXlvcFBlVEFKcXhySU9hMGlVUTR5enZBUXhvWjMzUDM1VTNVc243cm1zQVpRamM4OHRvZHZZZnlmYlBidEpub0FFQ3VwRHJGV0NPN1NkTGxkYmEzNENmdXY1ZlJDU3hIWVFrU3lWczlGNlIwemt6dXpvMkswbWJqblE?oc=5",
+          "description": "El Frente Amplio le pedirá información al gobierno sobre la negociación con Estados Unidos por deportados cubanos &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-07-30T07:33:00+00:00",
+          "score": 3,
+          "score_reason": "Enfoca en la reacción opositora más que en el hecho principal",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "El presidente uruguayo Yamandú Orsi participó este martes en la ceremonia de asunción de Keiko Fujimori como presidenta de Perú, realizada en Lima. Previo al acto oficial, Orsi mantuvo una reunión con Fujimori. La dirigente política peruana asumió la presidencia de su país en un acto al que asistieron diversas autoridades internacionales. Orsi viajó a la capital peruana para representar a Uruguay en esta ceremonia de cambio de mando presidencial, en el marco de las relaciones diplomáticas bilaterales entre ambos países sudamericanos.",
+        "resumen": "El gobierno uruguayo mantiene diálogos con la administración de Donald Trump para que ciudadanos cubanos deportados desde Estados Unidos puedan residir en Uruguay. La información sobre estas negociaciones fue confirmada por fuentes gubernamentales. El Frente Amplio, actualmente en la oposición, anunció que solicitará información oficial al gobierno sobre los detalles y alcances de esta negociación con las autoridades estadounidenses. Hasta el momento no se han confirmado públicamente los términos específicos del acuerdo ni la cantidad de personas involucradas en esta eventual operación migratoria entre ambos países.",
         "coincidencias": [
-          "Yamandú Orsi participó en evento relacionado con Keiko Fujimori",
-          "El acto ocurrió en Lima, Perú",
-          "Se trata de la asunción de Fujimori como presidenta"
+          "Existe una negociación entre Uruguay y Estados Unidos",
+          "El tema involucra a deportados cubanos desde EEUU",
+          "El gobierno uruguayo está participando de estos diálogos"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza la reunión previa entre Orsi y Fujimori",
-          "Subrayado se centra en la participación en la ceremonia oficial",
-          "Un medio usa tiempo pasado y otro tiempo presente/futuro"
+          "Montevideo Portal centra en la negociación gubernamental con Trump",
+          "Búsqueda prioriza la respuesta del Frente Amplio pidiendo información",
+          "Distinto enfoque: gestión oficial versus control opositor"
         ]
       }
     },
     {
-      "id": "story_003",
-      "topic": "Ursea publicó precios de referencia de combustibles",
+      "id": "story_004",
+      "topic": "Desempleo bajó al 7% en junio según INE",
       "category": "Economía",
       "sources_count": 2,
       "headlines": [
@@ -116,12 +182,12 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Ursea publicó informe sobre precios de combustibles: qué dice y qué calcula para agosto",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObjZFMlJ6UlV5VHhycGg1aVJwbkhRSkp5MG1EdE1ZUHUwSDJkTDFSYXl4a0JweUtUWHBwZDdwMjU0Y1pRaWd4MkVyYWlQd2RHby15VkNvMHRJbjAwa0M1V0prV0k4eUtlUTU5VExqTUJaNWJ5WUQ3Wk5NLXVwdjhHdklCQVpTZzBRaDFELUlSMkQ5WlFVZWtBQmdPZ3E4LW1uNlA5NG52bzkxS3JRU29hOGViV25wYzRsSmFVQ2dOTEc1eEFCQmVuOFdUeVh5Tk3SAfMBQVVfeXFMTWtMM2M1V21kTEFYNVk4NnN2TFV2SmFNYmlmOXl6TWxPX3BrLXlUR0d0MnpCYU9lRHo0YlZ3UlRCR3VQSlJscTUwZVpjRzVnT2dSUGd1bEFNcTlaRVpMRVMydXpuZWdtTEZmWEc1S1dDdVdvWjhScndfdTNUUHFCWHhUdzd3dHRoREhtdGJUX2ZObHhLdzZHSUZtZHFSSmpmaVFkZUZRYk4tSTYyRFlLRWNFN3N1dGdkam01TnRHV0VRV3V1TDNfQWhBVUxneGhXTkNDcVF5TzQ5QnhCTWw5NFhOcXVDczdVeDZkQWFkelp0VUtn?oc=5",
-          "description": "Ursea publicó informe sobre precios de combustibles: qué dice y qué calcula para agosto &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-28T21:22:00+00:00",
+          "title": "Desempleo tuvo una baja en junio con respecto a mayo y se ubicó en el 7,0%, según el INE",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQW5fcHhxekJUMjd5ajBMRjFiMVVEdXkwQzZBYmVUWXV3aUsweUtTTmgyeGx2X0hmX3gyeTJJLXRFSjJDQ2Z0Ny1zX2kwNHJSRHFtazY1LWhYTGhFYk80VEdiMktpcy1pdXRBTkwxRGJlaTJEZG9UN0doNUMtcW9RRjhXRjZNR2tFN0x3M1pGLWhUOGRXSFhhRVJtVmpoWnRmOFhoLTh5MGxVSHdJVWl3M0xkZnpvZzJuMjNvR0k1eFpmTkRfNTE4OU96NlhzVW9R0gH0AUFVX3lxTE1yV0RZOVVkYUNCOEF0YUZtbHYzdF9BUFJvN195UFh1WFA0dUllcGlJei1pOVVIeFRyT3VKWHRvMzExQ1JEZ1BZTHlWcFJiaVRUS085V3JMcnJXcXphLTJWcWw4TmFIOS1HMHphalh2QmFCa3ZVR0dhbWsxNDE5dkxBTVZCUzhhRUxuczVUa2EtZFNJTFJ1S2cyVkdvNDNFd0lkWTRZRE4tZWhBS3N3Y0E4Q2hsV2JJakh4RGtNeVlfVldRRFEyOFpxaXhsYWhnUmdCLUhzOXE2NWFObFBJcDdXc1ZmNlF0UnlVM3lid3locnpnUWU?oc=5",
+          "description": "Desempleo tuvo una baja en junio con respecto a mayo y se ubicó en el 7,0%, según el INE &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-29T17:44:00+00:00",
           "score": 1,
-          "score_reason": "Titular descriptivo y neutral, sin adelantar contenido específico",
+          "score_reason": "Presenta datos objetivos sin énfasis especial ni valoraciones",
           "score_pct": 10
         },
         {
@@ -131,179 +197,25 @@
           "source_color": "#E65100",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.subrayado.com.uy",
-          "title": "Ursea publicó precios de referencia de combustibles para agosto con alzas en las naftas y el gasoil",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON2Vzc0wwaDdYY2VGMjhWM1kxR2xvUUFOVFNTXzN5cnVJQ1JmOFhrSm03Zkl2YXU3bTl4UmpLa2Vmd0JRWnM1TXZXLWRBeUhuNFA5WWphNGU2eTZrMnpBazd2WURJSExYNHpsT0F2bnNNRjgybU5IUXFMd0J5Q3VHS1JMSlUyaTUzUjREZ0RiamVORldYOEZIOTQ0bTFZaEVldDFDOFdiQUdGemlEdy1MMF9ZWFZ3cXdtcmFR0gHAAUFVX3lxTE03WnZaSE52dVM1UTFEeWtuRzBoOGJTRU9hT3VBNDFwUDNFeDY3UHF6U1BIQUsxM3JNdGt3MkYteXZjOWlKVm9zYzJ0a0JwaU1ZSmxCaXJJSnNNY0tkUDJYUFZpSnhyY3o4RTZvMUl0Wldrc1lHNC1XY1BDUkxSMXhjWHYwYUUtbEtaQ1h0NU5LQlk5X3lReE44andxanJXRVN0amxUYWJRSkd1cE5xQ2pNRFVkTmUtU0ZpTjI4QkduTQ?oc=5",
-          "description": "Ursea publicó precios de referencia de combustibles para agosto con alzas en las naftas y el gasoil &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-28T20:38:00+00:00",
+          "title": "Tasa de desempleo bajó al 7% en junio, mínimo en el año, según datos del INE",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWlF0dGh6WVhCbHR3QXI2MkFJQVQzWTZtZUNDQVplQzZ2LVRocFltQ3paQ3RNQ2xxZEY1Q2F2d1lGTlFOV01mVWlqRHlYX0JiSjByWEFaalpDdGVFbTRNLWZrSjhqYmZRUXZLMThKZUgxeVVDdmh4LWFEWGZRb0QwcnAwYkVZRjgtMjFrbHZXd0NQamZaMXRFcXJwSUlSQdIBowFBVV95cUxPcnhUazUxbjNpLTh5OS1BZE56VVZwUk9tNmg5THJYbVg1eVhnTkd0cEF5cWpKVFdCUUJIMXpDUUI3cmxoWXRIcTJiOEFVNk16YkNxYkR0WmNidFVQSmM0LUNpT0w1bFZ1Y1hBWk9RM0cySUE3LWYzWVktMnYxWDI1cUNYaXpQZjVqSUllUVF0T3NqM1hkRlNDT0xIVU54cWRWOTlN?oc=5",
+          "description": "Tasa de desempleo bajó al 7% en junio, mínimo en el año, según datos del INE &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-29T18:27:30+00:00",
           "score": 2,
-          "score_reason": "Informativo, anticipa alzas pero sin carga valorativa ni alarmismo",
+          "score_reason": "Agrega contexto del mínimo anual, levemente más enfático",
           "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "La Unidad Reguladora de Servicios de Energía y Agua (Ursea) publicó su informe con los precios de referencia de combustibles para el mes de agosto. El documento establece los valores calculados por el organismo regulador para las naftas y el gasoil. Según la información difundida, los precios de referencia muestran aumentos en todos los tipos de combustibles mencionados. La Ursea elabora mensualmente estos informes como parte de su función de fiscalización del mercado de hidrocarburos en Uruguay, estableciendo parámetros de referencia para el mercado.",
+        "resumen": "El Instituto Nacional de Estadística (INE) informó que la tasa de desempleo en Uruguay se ubicó en 7,0% durante junio de 2024. Esta cifra representa una disminución respecto al mes de mayo y constituye el registro más bajo del año en curso. Los datos fueron publicados por el organismo oficial encargado de las estadísticas nacionales, reflejando una mejora en los indicadores del mercado laboral uruguayo durante el sexto mes del año.",
         "coincidencias": [
-          "Ursea publicó informe sobre precios de combustibles",
-          "El informe corresponde al mes de agosto",
-          "Se refiere a precios de referencia de naftas y gasoil"
+          "La tasa de desempleo se ubicó en 7,0% en junio",
+          "Hubo una disminución respecto a mayo",
+          "Los datos provienen del INE"
         ],
         "diferencias": [
-          "Montevideo Portal no adelanta en el titular si hay alzas o bajas",
-          "Subrayado especifica directamente que hay aumentos en los precios",
-          "Montevideo Portal enfatiza qué dice el informe, Subrayado prioriza el resultado"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Imputación de adolescente por homicidio de anciana",
-      "category": "Seguridad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Justicia imputó a una adolescente de 13 años por el homicidio de una anciana de 81 años",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNjRNVktmUTdfOTFlNWF1d2NabXBZQmRadnB5MFpZVzdaS0xfRms1azl4aWwxZkdKOFpLWWdWN1doYkVDempHTUxuZ3ktaHg2eUJvUEllR3JUX3RjUXZLWTY2UnVCTUZNRDVWTFlFenV0a2xTa0JhZUxTWTJralQxRmZObVN3NjhHS0NXazlyN0RLdEI4bV9sMVhXVUVOODl6Qkluakd0Nl9KLU1aYWZDS1ZKcVhENEhPY0tMMm01RlZkQkhkYUx6d1F6aGJzN0w00gH0AUFVX3lxTE1lUkxhcjJNdUV6NllmNXZtdVVwUjdqREdLU0RoWUJITVl2RERXYUt2Mlh1R0I1OExhbVlzUXNwcVhTV1duaXBENXBGLVpZRkxlTnE5YWg0a09JM1pWT1o5ZVR3SmFEY1pNYlBTSjh3MlMtVm1wdHZUc1VlRzZhVkdINGVGSWh4Y2FldFRlNENkdmpLcFRUckhxNDRLNlZiVVZYRVdUcV9qRUZ0by1ILTVRSEdYY0dIRF9fSDJtVVpLQjdwRFYyWlBWZm9ybWFINVFGc1dPREx3TUlKMnctNjRrYmRETG83MFpwSV9vS0FSNE42cGI?oc=5",
-          "description": "Justicia imputó a una adolescente de 13 años por el homicidio de una anciana de 81 años &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-28T20:39:00+00:00",
-          "score": 2,
-          "score_reason": "Lenguaje neutro y preciso, sin agregar detalles innecesarios",
-          "score_pct": 20
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Justicia imputó a la adolescente de 13 años que asesinó a su abuela de varias puñaladas",
-          "url": "https://www.teledoce.com/telemundo/nacionales/justicia-imputo-a-la-adolescente-de-13-anos-que-asesino-a-su-abuela-de-varias-punaladas/",
-          "description": "La joven estará internada en dependencias del Instituto Nacional de Inclusión Social Adolescente (Inisa) por 150 días mientras continúa la investigación. La entrada Justicia imputó a la adolescente de 13 años que asesinó a su abuela de varias puñaladas se publicó primero en Teledoce.com .",
-          "pub_date": "2026-07-28T20:57:53+00:00",
-          "score": 6,
-          "score_reason": "Usa 'asesinó' y agrega detalles gráficos innecesarios en titular",
-          "score_pct": 60
-        }
-      ],
-      "analysis": {
-        "resumen": "La Justicia imputó a una adolescente de 13 años por el homicidio de una mujer de 81 años. Según la información disponible, la víctima habría sido atacada con arma blanca. La adolescente quedó internada en el Instituto Nacional de Inclusión Social Adolescente (INISA) por un plazo de 150 días mientras continúa la investigación del caso. Las autoridades judiciales están investigando las circunstancias del hecho. El caso involucra a una menor de edad, por lo que rige el Código de la Niñez y la Adolescencia en materia de responsabilidad penal juvenil.",
-        "coincidencias": [
-          "Adolescente de 13 años imputada por homicidio",
-          "Víctima era una mujer de 81 años",
-          "Intervención de la Justicia en el caso"
-        ],
-        "diferencias": [
-          "Teledoce identifica vínculo familiar (abuela) en el titular, Montevideo Portal no",
-          "Teledoce incluye método del crimen (puñaladas) en titular",
-          "Montevideo Portal usa término jurídico 'homicidio', Teledoce usa 'asesinó'"
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "Prórroga de intervención del Casmu por dos años",
-      "category": "Salud",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Diputados aprobó la prórroga de la intervención del Casmu por dos años más",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSEJqMHZxa29kdVFUM3JoLURZbTRIb29pVHUxUTlXNVlkdzItLXY5RHNGczYxanVSd2k2UE9ybjROYlpWUjA2aldDSFI2OHhYTGtKSjIxTTU1NlFFYkZmRGZXc2hvVGpWUzRpTWpCZFR3b1pnR0piMkZOcHFXdDlVX244SVA1NDVuSldUbW02Z2NyMDRjTm9YdmVkMC1aZkZZSThMWk50TGNDUjlpRkQwTGhjVkNtMld3Q1I2VmE2MNIB4wFBVV95cUxQUEFnVW5HNkdzNFluS0pKWEp3U0hnaDNyT3RnVmpnUUxxakhMQTljR3h0cUo3dHB6Rk14d3hDU082YXNVazN2ZGo1NjRKcE1mM1VmcnhrMGtFMFlNMmN0b0ZvU0lqTnpLSENQeHAzVFBHalZPN1dwek9vUkxUQmlzelRHV2loQXdyR3Rzd0Nvd1FpNVQtUGxQQ0xSbEdzNUlTWkhXbEU1bG5MYmtoV3pPRktyaVVyc3ZEVnN0OFRtS190QmhuVF92RERyTFB4MWNUMHlFbEJZNFpQc01KUXB4ZkRlOA?oc=5",
-          "description": "Diputados aprobó la prórroga de la intervención del Casmu por dos años más &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-28T21:03:00+00:00",
-          "score": 1,
-          "score_reason": "Informativo y directo, menciona cámara y plazo sin adjetivos",
-          "score_pct": 10
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Parlamento aprobó por unanimidad la extensión del plazo de la intervención al Casmu hasta por dos años",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa3pJdm13U0hxMS1BVU9HR1B3bmktdjhKckRBZ2RVWHZxQWlzNFZNMHlkdlZNdkZxWGs0cWVKMlRhNDd1eWlHdXBqLVV2RTR3QWxmUzNfOHJrZTBtZDM5UUNoMGNHMzV5X1JuU21KblF1NGthY3N2SnFfNVp3QmhsOHNaZG9oUHlKUzhVUU5vU1N4VFl0YThmOTNlYWJidmw1d3VYX1NZVmxQcW1yY2YzT0pFck1qYXh4bFp5Ml9lNUvSAcYBQVVfeXFMUEpWS1pIZEJzZk05Nzg0WG1GNGl4by1HMFE1QnZWMDV1ODdJenVNZm9idkhwNjd3SldKM0ZIdXU4bTBldEN2ZTY1Y1N3LTZLeng0dUFJbVhPVFZuQk1vTTVoVC1ZSFVKZl9kdTdJeVNtazB0R3FRVW1yaWN1WnNRVEVwcHhjZTdTODRiZ3ZmT05pZVNPcWFuYU1abnR6eVYwWExfZkY2ZTZtTEVQeXZfaUJZWVFJMTRwWHVTZEU0N2wtd0hkTFF3?oc=5",
-          "description": "Parlamento aprobó por unanimidad la extensión del plazo de la intervención al Casmu hasta por dos años &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-28T22:04:00+00:00",
-          "score": 1,
-          "score_reason": "Neutral, agrega dato de unanimidad sin valoración emocional",
-          "score_pct": 10
-        }
-      ],
-      "analysis": {
-        "resumen": "La Cámara de Diputados aprobó la prórroga de la intervención del Casmu por un plazo de hasta dos años más. La votación se realizó con unanimidad de los legisladores presentes. La medida permite extender el proceso de intervención de la mutualista, que se encuentra bajo esta modalidad debido a dificultades financieras y de gestión. El proyecto ahora deberá continuar su trámite legislativo. La intervención busca reorganizar la institución de salud y garantizar la continuidad de los servicios a los usuarios del Casmu. La aprobación parlamentaria habilita a que las autoridades interventoras puedan seguir trabajando en el proceso de reestructuración de la mutualista durante el período adicional establecido.",
-        "coincidencias": [
-          "La prórroga de la intervención del Casmu fue aprobada",
-          "La extensión del plazo es de hasta dos años",
-          "La aprobación fue parlamentaria"
-        ],
-        "diferencias": [
-          "Montevideo Portal especifica que fue Diputados, Subrayado dice Parlamento",
-          "Subrayado destaca la unanimidad de la votación como dato relevante",
-          "Diferente énfasis: uno en la cámara legislativa, otro en el consenso"
-        ]
-      }
-    },
-    {
-      "id": "story_006",
-      "topic": "Incautación de perros salchicha en frontera uruguaya",
-      "category": "Sociedad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Incautaron 13 perros salchicha: una hembra y 12 cachorros de un mes, que pretendían ingresar ocultos en un vehículo",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRWtvSlY2Mm9FeF9Ma1Joc1NvMXdXU0JZVFRQcVdnbGxvdktmRUdFQndzNXZ3NGhNU0toRDR5Zy11ai03WlJ0Zy14Q3VkX1FWcDF5cmU4cGRsQXBueWJ5eUtTNjJkTGY0QmM5NWYxaV9JTjg0NUctM0xKTV9OdDZLdW56cnVoQS0zRzlSXzRvTEZUY3BTWDZOQldKMTVLMzYzMTYtMGpmWUw1U2toa2xyU0hnbTdjeDlUS2JmeVR2U0wwYlJNU2w2OXBHeGhFekF5SnBMTkh6NjFLY1ZtU2fSAeMBQVVfeXFMTmJKanhNOW1YbGhVbGJib19Sc21ENVFGNXNQUXFSeUhncFNZZV9VUlB2N1BjV2d6Nmd4VHU2a3JMMmcxRmEtVEtYMUpWM0lLVmN1Mm02NmJLbHdxajF1akI0UWFTNkNPWlhSRlBENFB3aXU0ZGFQSFRrMDFnVGthRjU5QlJMc2ZzU0hwa0g1U2JYTU5naHJmemtaQTRCNnRzVXdmdzA2YU1KdUhWVUQwN0FDNDlqQlQwZWw4U21RdGNwVHloNXl4TDFfa04zR2RDdWFFZ0x0UnNZbTZZcnFBN2dqQkU?oc=5",
-          "description": "Incautaron 13 perros salchicha: una hembra y 12 cachorros de un mes, que pretendían ingresar ocultos en un vehículo &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-28T20:04:00+00:00",
-          "score": 2,
-          "score_reason": "Directo y descriptivo, sin carga valorativa ni sensacionalismo",
-          "score_pct": 20
-        },
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Incautaron 13 perros \"salchicha\" ocultos dentro de un vehículo que pretendía entrar a Uruguay desde Argentina",
-          "url": "https://www.teledoce.com/telemundo/policiales/incautaron-13-perros-salchicha-ocultos-dentro-de-un-vehiculo-que-pretendia-entrar-a-uruguay-desde-argentina/",
-          "description": "Se trata de 12 cachorros y una hembra adulta. La entrada Incautaron 13 perros &quot;salchicha&quot; ocultos dentro de un vehículo que pretendía entrar a Uruguay desde Argentina se publicó primero en Teledoce.com .",
-          "pub_date": "2026-07-28T20:23:28+00:00",
-          "score": 2,
-          "score_reason": "Informativo, especifica origen del vehículo sin dramatizar hechos",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "Autoridades uruguayas incautaron 13 perros de raza salchicha que intentaban ingresar al país desde Argentina ocultos en un vehículo. El grupo estaba compuesto por una hembra adulta y 12 cachorros de aproximadamente un mes de edad. Los animales pretendían cruzar la frontera de manera ilegal, escondidos dentro del automóvil. La operación de control se realizó en uno de los pasos fronterizos entre ambos países, donde funcionarios detectaron el intento de ingreso irregular de los caninos.",
-        "coincidencias": [
-          "Incautación de 13 perros salchicha en total",
-          "Grupo compuesto por una hembra adulta y 12 cachorros",
-          "Los animales estaban ocultos dentro de un vehículo"
-        ],
-        "diferencias": [
-          "Teledoce especifica que el vehículo provenía de Argentina",
-          "Subrayado enfatiza la edad de los cachorros (un mes)",
-          "Diferente orden de presentación de los datos principales"
+          "Subrayado destaca que es el mínimo del año, Montevideo Portal no",
+          "Subrayado enfatiza la bajada en el titular, Montevideo Portal es más descriptivo"
         ]
       }
     }
