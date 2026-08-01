@@ -1,77 +1,11 @@
 {
-  "generated_at": "2026-07-31T12:03:55.774546",
+  "generated_at": "2026-08-01T11:20:07.772482",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Julio Ríos internado por infección y accidente",
-      "category": "Sociedad",
-      "sources_count": 3,
-      "headlines": [
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Julio Ríos está internado por una infección que contrajo en el Mundial y tras protagonizar un accidente de tránsito en Montevideo",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLUsyUkRqakNfYi1UMXdmcTBrcWh0Y1FCT3NGNjZtUkdtTV9fenNRRFNsNjhvWW9FcGh0dVlzX0JUeFlvVmFuVEtxNGYxVDlFUUVBTXBGN0Fhb2drUEl2aHo1a25fOXdUN0FndTVfeWhQRWdXMlBDVklnQ1NSM3JaVWxuXzlsWWJQeVpTY1FHNzgwU1BQUkY4ekRHc3NUQU9WcDA2Z2NkVTU3eTl1NFhuSDdMdDM5bnkxZUF4RFA4U1ZxblZhSGdQNkE0ejNEVEd4V2xhd0hHdWxGeWZwcTFkZjR3ZC1keUw2YjQwN3NDcTNHbHBNblVNWXhCT29ucnpFUVdTNl930gGLAkFVX3lxTE9xb2piYVA5S2lGSUtmX3FqTDZoSG1QY1hjLXZBZzRIb0ZDWGFMT1NkWW1QV1NvZFhDYWJzSk1iZUc5U3V2dUJmYm9KdU9Td2I4TGp3SjRCMldzWElKcW5kcmJKRXpDLWYyb1diSFpNVmgxVzNxWVVtUDN5dWdYdllPdGE5V0dfZHBjQ0pZa01wVTM4WERIRFhfbDRXTER2Y2xXVWdkRnhKMW5yM0dyUUJPdkg1LW1VcDRFX2pGRlBKZDE0Z3Atb3d6WGtmeWwyNjJRZG9PUEY0VWZBdUw5dXZVV0IzVFlYR2FhQnV1dnI3aV9VQWMzRFUwa05EVTU5VG0tRWZPQjdJYXNpTQ?oc=5",
-          "description": "Julio Ríos está internado por una infección que contrajo en el Mundial y tras protagonizar un accidente de tránsito en Montevideo &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-07-30T18:50:40+00:00",
-          "score": 2,
-          "score_reason": "Titular descriptivo y neutral, especifica contexto sin dramatizar excesivamente.",
-          "score_pct": 20
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Julio Ríos internado en delicado estado por una bacteria importada y lesiones sufridas en un siniestro de tránsito",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUGI0M0RsU1pnYTNpaDZLamZuV25lX3pOUVNoUXVuUmFZSWV1Sm52Mm9xZVctWUpwTWRXV1pIZDFrX1dMQlhaQVFTejJMWmwtSUU0eDdwOEpjWE9Fck80RThzYlR5dnY3X29SQ29EOGtlanRDdDBJMkRUX0d0UzlhOWRKaGliU212b0V6Y2EwVFFaTlRJczZIc21BUExya3BaZVU1Y3JrZjZITG54TEVOQm1uRmtWdm9Mc0E1cDF5Vk9VWFM3dVAydF8xcHlvZkNQMmZzWUdOcHUyWGprUU8yQ2pMLUZtbkRxMVhrcndmdw?oc=5",
-          "description": "Julio Ríos internado en delicado estado por una bacteria importada y lesiones sufridas en un siniestro de tránsito &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-07-30T17:08:58+00:00",
-          "score": 3,
-          "score_reason": "Usa 'bacteria importada' con cierta carga innecesaria al decir 'importada'.",
-          "score_pct": 30
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Julio Ríos internado en delicado estado: volvió a Uruguay con una bacteria y lo chocaron",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb2pNNmZmNE9xYlpKd2c4dWVUbElzalBVcEJyZjhXY1dJSXhzbkV0RjVPV2ZXMFRlWTRFLUJKQU1pWnVrUzlNVXVjaHBHWW9WdGh5VERxOTZzZ0ZmQ1ZsVWNHZDVVZ0R4dG9mT3JhUmZmeml5b2VfWV8xUXRTSVVaWTBFZGVhWk1GVG9LMERtV3NIdk1rNHQxcUZ6Xy1Lc1QzM1BFNXk1ME1LZEVRd3phaW8wNk1wQkZ6WFJsRWluYjVyWlB2Z1duTDZGbWl6bHJnM0hR0gH3AUFVX3lxTE9peDNHM2JuaFctRFY5dW4wNTUydzlIMXNhZW5qSlpKV3hCZ0FVVUM0X0RQWERudmFPUVRmT0lKUzM0dDZQU01xcE5WZXlMY3psT1hyYnBDZklFb3FFd3lYZkNQdVI3dUtaQ3ZqNjhNTWh2dmdOdW5xX1FKUHJjU2JDRTNwbVlrQ1g3M1RNTGhUUFN0NUY1UVZEUl9PYkN3VVo3NV8yUmZsN2VOSjB5dU9kT2lFa3NQMHlLTDd3Q1NBRzFSWlI0MnJwQkY0YUp5TTlDWXJxdjBQN0ROdWpTUks3bjlHTEtyRkQwZ0d3b2JuTWZaaGs2eEE?oc=5",
-          "description": "Julio Ríos internado en delicado estado: volvió a Uruguay con una bacteria y lo chocaron &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-30T19:34:00+00:00",
-          "score": 4,
-          "score_reason": "Enfatiza 'delicado estado' y 'lo chocaron' con tono más dramático.",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Julio Ríos se encuentra internado en estado delicado en Uruguay. El periodista deportivo contrajo una infección bacteriana durante su cobertura del Mundial y posteriormente sufrió un siniestro de tránsito en Montevideo. Ambas situaciones han afectado su salud, requiriendo atención médica. Ríos había viajado al exterior para cubrir el torneo internacional y al regresar al país se vio involucrado en el accidente vehicular. Los tres medios uruguayos reportaron la situación combinada de la infección contraída en el extranjero y las lesiones producto del choque de tránsito ocurrido en la capital uruguaya.",
-        "coincidencias": [
-          "Julio Ríos está internado en estado delicado",
-          "Contrajo una bacteria o infección en el Mundial",
-          "Sufrió un accidente de tránsito en Montevideo"
-        ],
-        "diferencias": [
-          "El País usa 'bacteria importada' mientras otros dicen 'infección contraída en el Mundial'",
-          "Montevideo Portal enfatiza que 'lo chocaron', sugiriendo que fue víctima del accidente",
-          "El Observador especifica que 'protagonizó' el accidente, término más neutral sobre responsabilidad"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Tolosa critica déficit narrativo y aversión al riesgo",
+      "topic": "Visita de la directora del FMI a Uruguay",
       "category": "Economía",
-      "sources_count": 2,
+      "sources_count": 3,
       "headlines": [
         {
           "source_id": "grupor",
@@ -80,166 +14,13 @@
           "source_color": "#6A1B9A",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.grupormultimedio.com",
-          "title": "Tolosa: “Uruguay tiene un déficit narrativo que limita su crecimiento”",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXVUVEFvT0pPd3JqTm1IMXlFOTZxXzlSczBhZDVLQ0dXdm1kcGREeU5Ic1duQTVpeFhoeUhZY1d4eHpqU0xqcVN6QlhZS25MTlkxanVvczNFTGNZeUUwS3J6bWpKZmtWUlRxbjJidE1OQW1IOFNEYnRPSGNWa3g5WklTSTNTa0VKaFdkaVFPeWctVk41QjhyMWRrcFVEOUw0ZWxxdE0zdzhPQQ?oc=5",
-          "description": "Tolosa: “Uruguay tiene un déficit narrativo que limita su crecimiento” &nbsp;&nbsp; Diario La R",
-          "pub_date": "2026-07-30T04:45:09+00:00",
-          "score": 2,
-          "score_reason": "Titular descriptivo y directo, reproduce declaración sin carga adicional",
-          "score_pct": 20
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Guillermo Tolosa advirtió por el \"terror a la pérdida\" que \"igual genera altos costos\" y frena las ganancias en Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObmFpZWE4azhWT3dfaDVwV3FrZ01zRHBBY1B3b0MtZ0pnbXZmYjBYT3hhVzZPb0pyNngwR3B1VnVwQmJKOTNRUU42Ul9acHNZT2NtSG9sb08xb0gyZy1Db09NYk5LUTV3anFmOGJ5Nm1tTXRfeXhwSlF5VGQ0NzMwRVBVLW9PVlFHSFlnY0dzRVNZT2llRWJIUXhleC1jeS1WVmRRR2pvSjFYbVFiLWVBNnBtaDYxLUFrblJ5OTc0bU5uSjFJb2NWZU5oMHhrU1FDX1V2YUQwQjBuREdhWUJsQmszbGQ0ZjN3b3dZbkoyT1A?oc=5",
-          "description": "Guillermo Tolosa advirtió por el \"terror a la pérdida\" que \"igual genera altos costos\" y frena las ganancias en Uruguay &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-07-30T07:00:22+00:00",
-          "score": 4,
-          "score_reason": "Uso de \"terror\" genera dramatismo y carga emocional innecesaria",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "Guillermo Tolosa realizó declaraciones sobre aspectos que considera limitantes para el desarrollo económico de Uruguay. Señaló la existencia de lo que denominó \"terror a la pérdida\" como factor que genera costos elevados y frena las ganancias en el país. También mencionó que Uruguay presenta un \"déficit narrativo\" que limita su crecimiento económico. Las declaraciones apuntan a aspectos culturales y comunicacionales que, según su análisis, afectan el desempeño económico nacional.",
-        "coincidencias": [
-          "Guillermo Tolosa realizó declaraciones críticas sobre limitaciones al crecimiento",
-          "Se mencionan factores culturales o psicológicos que afectan la economía",
-          "Las declaraciones se refieren específicamente a Uruguay"
-        ],
-        "diferencias": [
-          "El País enfatiza el \"terror a la pérdida\" y costos, Grupo R el déficit narrativo",
-          "El País usa lenguaje más dramático, Grupo R mantiene tono más neutro",
-          "Distintos aspectos de las declaraciones elegidos como foco principal del titular"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Titular del FMI visitó Uruguay y pidió crecimiento",
-      "category": "Economía",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "“Protejan la estabilidad, pero tomen más riesgos”: los mensajes que dejó la titular del FMI en su visita a Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaGVjOEllbm83d0xyendkZmY1aFR4YmJmTWp4Y1BpeVJkUTRoUkJxVy1Wb0drb1o1TWtxVUF2QkZLbHpFOFFadFFMdldKV0lXTlhiYkJsOEoxTXMxMVFNemR5VGJSZGcxelNleHRSZFFNa3dGaGZwRl9EaFRSckNZZkhYRjg1dmFwLWJPaTh4LXdBUi1ZcUtjUW5yclhhM1IzNURwQ2ZEdktuTjFSVTAwc19WVDk4bEdrYWZOeFNXbENRZ1dndXhqeGRrODZZUVcwTURiX0xkVW93b1FIS29IZ19RUkZFZ1p2cVE?oc=5",
-          "description": "“Protejan la estabilidad, pero tomen más riesgos”: los mensajes que dejó la titular del FMI en su visita a Uruguay &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-07-30T20:44:55+00:00",
-          "score": 3,
-          "score_reason": "Usa comillas pero enfatiza contradicción entre estabilidad y riesgo",
-          "score_pct": 30
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "“Se necesita crecimiento”: la advertencia del FMI a Uruguay y su consejo para el gobierno",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaE00MUFwWVdJUXdESjlkbVZ4LUl3a1lLZ0UxZ2hxMmY5aXlrOHNHMEpjRzhhbDctVmMzME4wM0dJb1hIUmFSNFVYMU83cVc1d0xVSHNRLXZXMUoxQzNWNkVYX0IzaXlCek5EeVFsWGhibmdETERCSUF3Zks5RUE3VVpuT3pwNWVnRkFzQ2Z4SF9ZV2tfeFpqNjZnUHQtV2xzUjJ1cUlRdjJtNUs0OEtvblRiLTU5VUlzQ1JNc0RPQXowLVZoc0VubDYtYVA4QklnRGfSAfYBQVVfeXFMUGtZak5FQnF0Zmd1cDNvNW43RHFaOG5zYWQ3Z3pUbFo0R1ZfQ3ZSRkZYWUxUSG9xaktPejRpOTQ2RHNDNkE5R3pudUloX1dabmZjQ0ZkTW9tRkY3TUVpcFk0ZUNrSlNlT2RLNFo0aWFLV196blRnZ01MamtXUVdOc3lrbGxkcUkzNVZYTU1SZkJuV09NdnBRR1VtSFVCNWctTGlKM2dueDRTS21YUjVZM2ZGRktyajlqZVBZY3QyT2lwbzVqQVdMNWMtd3ppb3VQY0hKdXZEN0IzTFM1bEw0aVExN2xDT3Fhc3RnSTJ1bmFVNDV3WTVB?oc=5",
-          "description": "“Se necesita crecimiento”: la advertencia del FMI a Uruguay y su consejo para el gobierno &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-07-30T20:35:00+00:00",
-          "score": 5,
-          "score_reason": "Usa 'advertencia' generando tono alarmista sobre situación económica uruguaya",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "La directora gerente del Fondo Monetario Internacional visitó Uruguay y se reunió con autoridades del gobierno. En sus declaraciones públicas, la funcionaria reconoció la estabilidad macroeconómica del país pero señaló la necesidad de incrementar el crecimiento económico. Indicó que Uruguay debería mantener su solidez fiscal y monetaria, al tiempo que recomendó implementar políticas que fomenten mayor dinamismo económico. La titular del organismo internacional sugirió que el país tome medidas más audaces para impulsar la inversión y la productividad, sin comprometer los equilibrios alcanzados. Las declaraciones se produjeron en el marco de una gira por la región.",
-        "coincidencias": [
-          "La titular del FMI visitó Uruguay",
-          "Se mencionó la necesidad de mayor crecimiento económico",
-          "Se reconoció la estabilidad del país"
-        ],
-        "diferencias": [
-          "El País enfatiza el equilibrio entre estabilidad y tomar riesgos",
-          "Montevideo Portal presenta el mensaje como advertencia sobre falta de crecimiento",
-          "El País usa tono más neutro mientras Montevideo Portal es más crítico"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Condena a BCU y MGAP por caso República Ganadera",
-      "category": "Economía",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Justicia condenó a MGAP y BCU por daños y perjuicios por omisión de controles a República Ganadera",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQjBQR2VaSUtGVzloVVFNOTU1RGkzck52RGpuOThtYjlkVnhscmNuNFdic21mOUVabnZvcWJ3LXpEWGxLQWtDQTgxNEpJTjQ4Zl9QeVRGSDRiVFVGNmVudkxTUWtIWFdIaXBtRjFSbmFIMTZrMXdVZUo4UUZvMEkyMFNWWFNvVlZTaGVVQ3FpSThrd2VYekJ0OHlwZ21LSUZIV0VRRzh3OXdtRTN4cXJNUk1pWFBwTFk2M05BRDdn0gHDAUFVX3lxTFB1MUxnMHRlNGh1c2lvZWhKLUhwdWFTSlFDTFRqMjYyMm1wc3BNVFloU2F1TVVGWjdRaTFjYzhUdUc3YVlLZ3BwM2NYeUhVN0ltM2N1NVhrQXhnYU5SZGpBdzVlWWxObVpsSlc4akR3OExEczlSTVEyQ1A0WmJJeW9vR0Y1RjA0TmFYMEUwbmphNThYUUNZNGRvTGtpUllrdmtTTTd0S05QSzE0bUNscFIwSkp0NGNlWkROUXJweXI1anZqYw?oc=5",
-          "description": "Justicia condenó a MGAP y BCU por daños y perjuicios por omisión de controles a República Ganadera &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-07-30T21:27:00+00:00",
-          "score": 2,
-          "score_reason": "Directo y objetivo, enumera hechos sin calificativos adicionales",
-          "score_pct": 20
-        },
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Estafas de fondos ganaderos: justicia condenó al Banco Central y al Ministerio de Ganadería por omisión en controles a República Ganadera",
-          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPSTVHc055RTJTSE9WVERQTjM3OU92S00yYU9USmxjNU4xLVk1OTVVNEdKWnV3QXhEMllzYm8wVFZIZGtHOFBqbFNjVTJheXVsVkNNSGZyNmtVOEQ3eWJEUTh6UVp2YlVNU1lIWVBOTDc5MFlkZnJya0VrTTdTbHNXYUxUU2ZOTjVaRjNILWVkYnpSY2RRQkEweTFxMzk0cmk1anJIVFR4dGhHZ2ZjaE9TWWNtd3N3U1ZkcnJENXQ3Mkx3NS10c2pnRzJvaUUtOVF1S0FRX2ItYUVRVlZISW45THhnTmNVdldMbmdZZXMwa0dfSkNPNmlEclJjV25QaWRac0ZxQ0RCSjB0MzJpRWZvSVBTY1NhLXAyb29TRmt2SVh6OXVLaUVLN09UV0RicElwOEtTM1VOaw?oc=5",
-          "description": "Estafas de fondos ganaderos: justicia condenó al Banco Central y al Ministerio de Ganadería por omisión en controles a República Ganadera &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-07-31T09:24:21+00:00",
-          "score": 4,
-          "score_reason": "Usa 'estafas' que implica juicio de valor antes de mencionar condena",
-          "score_pct": 40
-        }
-      ],
-      "analysis": {
-        "resumen": "La Justicia uruguaya condenó al Banco Central del Uruguay (BCU) y al Ministerio de Ganadería, Agricultura y Pesca (MGAP) por daños y perjuicios derivados de la omisión en los controles a la empresa República Ganadera. La sentencia responsabiliza a ambas instituciones estatales por no haber ejercido adecuadamente su función de supervisión sobre el fondo ganadero, lo que habría permitido irregularidades que derivaron en perjuicios económicos. El caso se vincula a estafas relacionadas con fondos de inversión ganadera que afectaron a inversores. La resolución judicial establece la responsabilidad del Estado por las falencias en el sistema de control y fiscalización de estas operaciones financieras del sector agropecuario.",
-        "coincidencias": [
-          "La Justicia condenó al BCU y al MGAP",
-          "La condena se basa en omisión de controles",
-          "El caso involucra a República Ganadera"
-        ],
-        "diferencias": [
-          "El Observador menciona 'estafas' como contexto previo, Subrayado se centra en la condena",
-          "El Observador enfatiza el aspecto delictivo, Subrayado privilegia el aspecto administrativo-judicial",
-          "El Observador usa lenguaje más interpretativo, Subrayado mantiene tono más neutro"
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "Lacalle Pou lidera valoración en encuesta Equipos",
-      "category": "Política",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Luis Lacalle Pou es el líder político mejor valorado, según Equipos: Orsi y Topolansky encabezan entre los frenteamplistas",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdEZDbjlGWjItWHNLb1BGbWNRN3lCd1BIYmZycHNGTFBQdWNDUGRLZUFZblBvUXd5Y0RrMDdFaUpFV1NJbkpQYjF2Z095Z1VtRlNNY0gxYk5KS3JrUUZ6d2gwel9WRmJqVXZTQWxUSXZGUFRTV1ZYS1FKZ05BMGdFcktoNmt1Q3BpaHozVms5UTZnY2d3ZG5xTUZLY3RrdGRCSWpWa1FaZXNNbDF6c29jMFVTc1A0cVh1UHVPT3FraEpIOW5qNzVhZEhVMW50bDBzcW9SNG0tNWRYZmxPQmpRd25TaUtvSklnSWVGaENGRFFIaXJYM1Bv0gH8AUFVX3lxTE0tTnZrak90M1paMmMtRXlpT182RmpfSllBaVA4Y0NGbG1QdGdhczJVX0lDYTdCS0NXNEJtWVMteHl0V2JOSDNGQWRlOWVlZHhYaDUyZ29lZ1dTcEtzWlFTNVlKTGxMbmF1c1YwRHU0eXl6VXVVT1Fmd3FiNzRrdXdiN0lKSHl0U3RObmgtcW5TTlU0Q01aOFFGejItRTVTS3RkdldjM21idHh6Z2M5MWp0bDdXZmdFdHd6RXhiUGluSTk3bFdWSXlSU29VY0puX2MyUjE0ODN6NXdFREhHX3JxZnJrVjhzeG5kd3EtMkFkcFRRQXpVZnRnRV9rUQ?oc=5",
-          "description": "Luis Lacalle Pou es el líder político mejor valorado, según Equipos: Orsi y Topolansky encabezan entre los frenteamplistas &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-07-30T10:43:12+00:00",
-          "score": 2,
-          "score_reason": "Informativo, presenta datos sin carga valorativa significativa",
-          "score_pct": 20
+          "title": "Uruguay y el FMI refuerzan la cooperación",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQlM3a2N2V1pvOG02el9YeDctVjdreXFLNVN5V3o3U3dlQ3VUaVBwVmhwNEhlME9DbXB5ZksyMnlpOWZTWUtvelk0SEtEMjh4RHg2Ym1ZR3JDdm10R2xtb1d1RHBKV21feEo3MlRVd2tEMk43aVFwc2Y0V0Z6QmN4aUdtRl9mQXc?oc=5",
+          "description": "Uruguay y el FMI refuerzan la cooperación &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-07-31T07:20:35+00:00",
+          "score": 1,
+          "score_reason": "Lenguaje neutral y descriptivo del contenido institucional de la visita",
+          "score_pct": 10
         },
         {
           "source_id": "busqueda",
@@ -248,26 +29,142 @@
           "source_color": "#37474F",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.busqueda.com.uy",
-          "title": "Equipos: Lacalle Pou es el político más conocido, el que despierta más simpatías y el único con saldo positivo",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLXF4V0NNTXBDb1RacXgxaWwtOWNoczIzeEtGLUtXeEt4ZXdONWNzMmhIVDlJNDJTd1M5TE93UUdUMERhQ093MjB0T3VYTk82c1ZGY0l4VXVlZ2EtY0RMMnJvQXFqWVRlM0tvN1huNVBpaVR4QWhmSEpnMm42ZGtrQVB0aGZhUHhTNEN6cGxIcmNCaGpmS2FLNVplYXJRQTZkMVRFNV9lcXBXcjZEZU5sMThFTS1LZ01sdGpRSGlFWG1iRGZxYldQMEdMSE4xVE9GaXo0VkxsX3hpM0pFdXpodmcyeXQ?oc=5",
-          "description": "Equipos: Lacalle Pou es el político más conocido, el que despierta más simpatías y el único con saldo positivo &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-07-30T06:08:59+00:00",
-          "score": 3,
-          "score_reason": "Énfasis en múltiples atributos positivos y exclusividad del saldo",
-          "score_pct": 30
+          "title": "Visita de la jefa del FMI a Uruguay deja halagos y respaldo que festeja el equipo económico",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdkJqR0VWYk9wekR1Zmo2aTRWbzFtMDYwT2J4emo2SGJtTGFxNWdCUGpNMm9LaHo3ZURTOHlITmxOU1lrNkJQdDlYdlZPUEJZVGRlcHdqN1VEQjlaZk9LeTNJa04tRjBsbzJXZk5aZTQxeW9oOWJiNms4TjFDQnBER0JjdURjSzJ4c1paMXNVTnhKX3RlRmIwUVQyeGJYRG9ZWXVOWkk0aEl2VkVMSmhxeVo2U3poQ1BfQV9CZVZqX0xlRWdPZlZtRGxad24?oc=5",
+          "description": "Visita de la jefa del FMI a Uruguay deja halagos y respaldo que festeja el equipo económico &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-07-31T15:20:00+00:00",
+          "score": 4,
+          "score_reason": "Enfatiza halagos y festejo del gobierno, con ligero sesgo favorable",
+          "score_pct": 40
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "El gesto de una niña que sorprendió a la directora del FMI: “Uruguay te ama y te valora”",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0hSWklCdjNmSE8tQzh1ZjI5OXlwMVhxOUZRMmMzTFp6ZEhHTzhsZEdiR2Jnc2dzTTNOQlY0OFYxZ3FkdlhpSXRsaVhpQVhrSUg2ZUpUQVprZWFfVC1zd0tqVWNUWUJFTTRXaEM5THBwVEZlR0FBZlprQllKdl9SZHd0YXY2ZkQ3OTlOSDZSN1R2WElGSjhZQkZxTG9LeFBZd1pfTWNmbDlCcGRyVklIbzZ0T1Z4OWlWZkViYnItaVFPMFdDal9uNzZNTFd6UkY40gH0AUFVX3lxTE1nNG1IY09UUmRWSHczYmc0X3NZRDF3MUFWRWd2TUpGSUVPUnlSZFhLZGVFTWkzaFZKNXIwWEh3a2FaZFZQQlVSeEN4UG9fWmU0bm9BWnNnbFNFRndjMlJZaGlYWUJvUnZoRDBnRTY5d2lFNmRkaHhUQUJTVm1WN1J0SGVsZWh1Y21fUUh2RTVJaHBWYXd0MDN4VnRKQlRhTXozS25WNDNJWEpwc0czbEdjVC1TaXpXNGc4NmU1NjBDVGZrOUtzd3ZFRFIzcTYycHpxN2RUWmZmUzU5QUxmU1p1NURvRVFRNXpSQ0RrdkNXTTZDSUE?oc=5",
+          "description": "El gesto de una niña que sorprendió a la directora del FMI: “Uruguay te ama y te valora” &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-31T13:37:00+00:00",
+          "score": 6,
+          "score_reason": "Prioriza anécdota emotiva sobre contenido sustantivo de la visita oficial",
+          "score_pct": 60
         }
       ],
       "analysis": {
-        "resumen": "Según una encuesta de la consultora Equipos, el presidente Luis Lacalle Pou es el líder político mejor valorado del país. El mandatario resulta ser el más conocido, el que despierta más simpatías entre la ciudadanía y el único dirigente con saldo positivo en su imagen. Entre los líderes del Frente Amplio, el presidente Yamandú Orsi y Lucía Topolansky aparecen como los mejor posicionados en la valoración dentro de ese sector político. Los datos corresponden a una medición de opinión pública realizada por la consultora sobre la imagen de los principales referentes políticos uruguayos.",
+        "resumen": "La directora gerente del Fondo Monetario Internacional (FMI), Kristalina Georgieva, realizó una visita a Uruguay. Durante su estadía, mantuvo reuniones con autoridades del equipo económico del gobierno. La funcionaria expresó comentarios favorables sobre la gestión económica uruguaya. En el marco de la visita, se registró un episodio con una niña que le expresó un mensaje de afecto hacia la funcionaria. Ambas partes destacaron la cooperación bilateral entre Uruguay y el organismo multilateral de crédito. El encuentro fue valorado positivamente por las autoridades económicas uruguayas, que recibieron el respaldo del FMI a las políticas implementadas.",
         "coincidencias": [
-          "Lacalle Pou encabeza la valoración general según Equipos",
-          "La encuesta mide la imagen de líderes políticos",
-          "Se mencionan referentes del Frente Amplio en la medición"
+          "La directora del FMI visitó Uruguay",
+          "Hubo interacción con autoridades económicas uruguayas",
+          "Se destacó la relación bilateral entre Uruguay y el FMI"
         ],
         "diferencias": [
-          "El Observador destaca específicamente a Orsi y Topolansky como líderes frenteamplistas",
-          "Búsqueda enfatiza que Lacalle Pou es el único con saldo positivo",
-          "Búsqueda acumula tres atributos positivos en el titular principal"
+          "Montevideo Portal se enfoca en la anécdota emotiva de la niña",
+          "Búsqueda resalta los halagos recibidos y la celebración del equipo económico",
+          "Grupo R prioriza el aspecto institucional de reforzamiento de la cooperación"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Accidente y hospitalización del periodista Julio Ríos",
+      "category": "Sociedad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Así fue el accidente que envió al hospital al periodista deportivo Julio Ríos",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQakdSLVJJVG1EaFlScWJZRXlyV09OSmxnSnZmVHZNSzNnM2E5Q0ZVNUNBRzN2d0N2cWl5Mm9hZGl3aUMzTXNya3poOEktRmdwTFNvbTd0eW42RXV3QnZsVE5yUXhtRmpBOXpwUjRHYnRaX0FMaHhOa1hBVnNBb2cwWFA1U1pybjBCSGk5T2N1ZEk5MTgxUUwtZFFxSzZUaHVwNDhQU05yLW1hUkJNU2FKRDR6OUZ1Z2Q5NnNYc0REVzI3MWFTY0E?oc=5",
+          "description": "Así fue el accidente que envió al hospital al periodista deportivo Julio Ríos &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-08-01T00:46:00+00:00",
+          "score": 2,
+          "score_reason": "Directo y descriptivo, sin dramatismo ni lenguaje cargado",
+          "score_pct": 20
+        },
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Aparece el video que revela cómo fue el accidente que involucró a Julio Ríos mientras permanece internado",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZEw5M1k2bHVXT09lQ3BxMlA3c1FhRkhZOUQyampjVDBsTnJScmRyczh6TGw1UFZaczVJVkxwSWwtWHJRSXk2TjlYWHZjOGtyUVNjQVVqZHVISGUtODRfYjNFWnVSWWstSEFLZEhIWGpmMEdmSm1YQXd6QnhCbWVaNDU0OVJHR2RuTTVta2JUbURiTlEtQm0xTUM4bkQyWjNKc0k2WlU1U1F3MXRScHFkaWtVUGtacXNVVnEwcGlURW0xMjA5dmZNVEFXdnNZWXVXR3UyMGZDeDdqRTBveHprX3lvOVNMQQ?oc=5",
+          "description": "Aparece el video que revela cómo fue el accidente que involucró a Julio Ríos mientras permanece internado &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-07-31T22:00:20+00:00",
+          "score": 4,
+          "score_reason": "Usa 'aparece' y 'revela' generando expectativa sobre el video",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "El periodista deportivo Julio Ríos sufrió un accidente que lo dejó internado. Se difundió un video que muestra cómo ocurrió el incidente. Ríos permanece hospitalizado. No se especifican en los titulares detalles sobre la gravedad de su estado de salud ni las circunstancias exactas del accidente. El periodista es conocido por su trabajo en medios deportivos uruguayos. Los medios reportan la existencia de registro audiovisual del momento del accidente.",
+        "coincidencias": [
+          "Todos mencionan que Julio Ríos sufrió un accidente",
+          "Todos refieren a la existencia de un video del accidente",
+          "Todos indican que Ríos está hospitalizado o internado"
+        ],
+        "diferencias": [
+          "El País enfatiza la 'aparición' del video como revelación",
+          "Montevideo Portal destaca el resultado (hospitalización) del accidente",
+          "El País usa lenguaje más dramático con 'revela' y 'permanece internado'"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Caja de Profesionales impugnará decreto sobre timbres",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Caja de Profesionales impugnará el decreto que derogó el cobro de timbres en consultas",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSkc5a3AtVmZlSUtoUlZ0WXU2am9ubDRWVlY1UXZpaFdLOGtmRmQ5Y01FT281b25DSlVpZGp1cEVhRy1yX092R2ZDNHF2WXlLQlFJOHdNRmdOQ1RsWUhvY19PdWtBY2xBdDdQYjNuS3c1Q1ZwSFJmblk1Qnc3eENNbC1fR0U5UjVaNGFYbmZFYXpzVGVjNzZBb3p1TDlkQ3pnc1JuMjUyeF9Bd21OUlY1VlNXbmlrNlh2Z2IyOHZlZjBNdEpzQ2Q2cFhnd3RoM2fSAfMBQVVfeXFMTmFwdTdQd3NoWmhLUHVoeDRTOEhnVlMxTUxBbmNuMDl5NTlUQUQ2V2YyVFBUcndyUmJuRXZIWV91WkIwVDRadzktUVBlSVhxVjZMc2xiSWIwemVOVzA0U0VKdS1BY0E2QlpkVmR1RUlYZnRrZDNKUzBLX3YxbW41XzFlYk9pdThXcG84UUtOWVhZaEpHWG1aQlE1Rlp3dFZ4QnFEcWl1enVzaDFMdDNxaDg5VzUxVk1YRFZTazBSbUxndUIzNGdaTGlVNGlWUmxEeGp4VUN3SDR0cUpQalhTTllOendPZFRDd0ZEdkVYb1NOT3FJ?oc=5",
+          "description": "Caja de Profesionales impugnará el decreto que derogó el cobro de timbres en consultas &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-07-31T23:04:00+00:00",
+          "score": 1,
+          "score_reason": "Titular descriptivo y neutral sobre la acción anunciada",
+          "score_pct": 10
+        },
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Caja de Profesionales impugnará decreto del Poder Ejecutivo que derogó el cobro de timbres a consultas médicas",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTB1bFJuOVQ1R21PZ2dhRnB5d0VSWDEzR2psRmJPV0JXdXV1ZXJWNjF0eFpjWlJMMGlac0UyT2ZGUDYyWTBqZHNVeWw1eDdzRXp2RzBMT0liUW9zRVdpeU5qQ1Z2dkVsNThJNVJRZW5OVG9zVmNZYW1aX3FHMzFzXzB0WEdnWnlEMXBqY28xZExtZmcxOTlIM3BYOEwyYmhqZlVPdE84ZlFnZmlSSmJvT0tLR1hFV0E5RG9GOFVacW5QUWxuWkRfTEpJQlBicWpDUDZET2kwY9IB3AFBVV95cUxPcDktWmEwd0M4cnYzRC1reF9xNE5GNnQ2WlVXV2Y1STdyV0hCUG1ZOFRQR1psako1eXhMT19uTVNKV2doaGpiQktrelhwZ01wTEhkbFJtNENka3NWM2FjRlFYeE9XdTMwZ00zNUg1ZHVaOHNoU2RFeVVXbWZJRjd0NDNaWUpzTDdYWmFibHRQVXhqTDF3dEFIb0ZVY1pxQ2tjOC0zeUZZMWpaZ09ieGJBbUk3dTduQ3hrUjdqbmtMd3p4bVE3RUIwV0NEZDRFd3I2WE1ldDRFc1lOcDM1?oc=5",
+          "description": "Caja de Profesionales impugnará decreto del Poder Ejecutivo que derogó el cobro de timbres a consultas médicas &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-07-31T20:30:00+00:00",
+          "score": 1,
+          "score_reason": "Información objetiva especificando consultas médicas sin valoraciones",
+          "score_pct": 10
+        }
+      ],
+      "analysis": {
+        "resumen": "La Caja de Profesionales Universitarios anunció que impugnará el decreto del Poder Ejecutivo que derogó el cobro de timbres profesionales en las consultas médicas. Esta medida gubernamental eliminó un tributo que los profesionales debían abonar por cada consulta realizada. La Caja de Profesionales, entidad que administra el régimen jubilatorio de los profesionales universitarios, considera que el decreto afecta sus ingresos y tomará acciones legales para revertir la decisión. El conflicto se inscribe en la tensión entre la política tributaria del gobierno y la sostenibilidad financiera de las cajas paraestatales de seguridad social.",
+        "coincidencias": [
+          "La Caja de Profesionales impugnará el decreto",
+          "El decreto fue emitido por el Poder Ejecutivo",
+          "La medida deroga el cobro de timbres en consultas"
+        ],
+        "diferencias": [
+          "Montevideo Portal menciona genéricamente 'consultas', Subrayado especifica 'consultas médicas'",
+          "Subrayado enfatiza que fue el Poder Ejecutivo quien emitió el decreto"
         ]
       }
     }
