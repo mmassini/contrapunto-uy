@@ -1,228 +1,26 @@
 {
-  "generated_at": "2026-08-02T11:21:09.461770",
+  "generated_at": "2026-08-03T12:58:07.425924",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Humberto De Vargas sufrió infarto en whiskería",
-      "category": "Sociedad",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "Humberto De Vargas sufrió un infarto durante su fiesta de cumpleaños en una whiskería céntrica",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRE1zb00yWGdlNF9zT3NUR2hwRVBBUnV3ekIyakJzdVl4UjF0X09LejFoN3JhOTdtbko1NU1USUhyZHJGb1hLUW1ucm44MGxock51eTNqVzQ5MEl2V3FHZ01KSWNRaW92U0VTelpNSV9IQnAtT0V0a3A0SXJaVzJ0UGZ5MW5uaHRvamNGNVl2ZlE0cDM5VXRSNlp4M3NCNnpCUHlpeDg1ZzMyMU5kUElzdkowZG41ZWxfb3lEcTdSV2hpYXlybF9TdGRpQkJzQ0YyQW9mXw?oc=5",
-          "description": "Humberto De Vargas sufrió un infarto durante su fiesta de cumpleaños en una whiskería céntrica &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-08-01T07:15:47+00:00",
-          "score": 1,
-          "score_reason": "Informativo y directo, sin carga emocional ni valoraciones",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Humberto de Vargas sufrió un infarto mientras celebraba su cumpleaños en una whiskería",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSWZzRGxvLXBEcGxQcVZHY0NHaUtiT1h1OGdrMzVSQ1N3d0sxWFNGck9EaHpVOFM5VG8xb3BudXY0ZEdnejdwdkhPMWpoVmJ2OEZLMkZPYzBwLUxrckRNMUJYUEJKbmwwbVl0dUdPWXRKNjdtaWg2SzZEQUlVbTVpLXRIaUNLdHIwalVQNkNSemVFZDBsRXlRWWRNZ0hyckZnVEEwSmJyYjdJb0VUcURaUFo2cXc1ejJFb1l5SXAzTDBXNkRwalhHdmdIMHZBamhZVFHSAfYBQVVfeXFMTVo2ZzFpZXZWeW1TQ1NRa1JhQzY4OUN6b3RFdTlNMlNkVlBoUzZwcWhsQ211a05IcDFOTDR0R3czZ0hoV3JqajJTUDNGVksxNHZlNUhRLVlfY0ZXajV0YUdGVE9uZTZWN3Z3Y1ZaN3lwRXozZkVLQUpRVlVSSWlMbDVfcm9odkxwejl4ZDdzOUV2cEZqTThzeW9ibGZJbFYzS3BDUzhHaVI3OHpBYW1fM0tYLUgzZUJsaTBXUExDZFZ1RHllVlFxcHB1UWh1WEVHQ0t4VzgwUlVrMGhPdHhrUEtLTkdFRGh1TGY2bndRR0VBUnYzNnZB?oc=5",
-          "description": "Humberto de Vargas sufrió un infarto mientras celebraba su cumpleaños en una whiskería &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-08-01T14:32:00+00:00",
-          "score": 1,
-          "score_reason": "Objetivo, relata los hechos sin adjetivos ni sensacionalismo",
-          "score_pct": 10
-        }
-      ],
-      "analysis": {
-        "resumen": "Humberto De Vargas sufrió un infarto durante la celebración de su cumpleaños en una whiskería ubicada en la zona céntrica de Montevideo. El incidente ocurrió mientras el dirigente deportivo se encontraba festejando su aniversario en el establecimiento. Los medios confirmaron que el episodio cardíaco tuvo lugar en el contexto de la fiesta de cumpleaños. No se proporcionaron detalles sobre su estado de salud actual ni sobre la atención médica recibida en el lugar o posteriormente.",
-        "coincidencias": [
-          "Humberto De Vargas sufrió un infarto",
-          "El episodio ocurrió durante su fiesta de cumpleaños",
-          "La celebración se realizaba en una whiskería"
-        ],
-        "diferencias": [
-          "El País especifica que la whiskería es céntrica, Montevideo Portal no indica ubicación",
-          "El País usa 'durante' mientras Montevideo Portal usa 'mientras', matiz temporal similar pero distinta construcción"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Demora en llegada de Botta a Nacional",
+      "topic": "Empate sin goles entre Central Español y Liverpool",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "observador",
-          "source_name": "El Observador",
-          "source_short": "EO",
-          "source_color": "#D32F2F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elobservador.com.uy",
-          "title": "Se volvió a atrasar la llegada de Rubén Botta a Uruguay para jugar en Nacional: los motivos",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTzZZVmJxbmxFaWpLWjdJRk9pQWdHTXRCLWRTVDk2NFB5V1E3VmNjZS1PSUlwYmFNa280U1Ezc2NpZDU3T1Zlck5tU3dRaVA1LVZTQ0NIMF9BbEVWTUJZd1dpZDBTVGNMOEpMSFpvNWZCcFVaa1owaG1UOFpaa19iaXVBd2h0dmRDT0tVOU1BajhlZkRiOU1laWJoUUR2dE9XZmpUeDlWVzY0YjlVTllNQTJxWFhrX2dnVlZGRkxwbDDSAcYBQVVfeXFMTjhHSEdoREg2VTdSNk5aTHd1VndSc0g2M3RxTmVWcEgxZURqM1loTE5KWk5BazdvZ3BNazVHSHpSVUZWeHVPTDR4NW02eXFwUGlJcGM3WnJaUmw3WUE5VWxjZi1FLUFCWlU4cWI1eGxBMHg1bUk3czQ2OFkxbDc5VmJyZ2ZnZS1Fcy1sZzFLeFhjc0J3THhiWmQwa3hrOHFJTHFPVTYyZTRXZDJkYVhpSjJ6MXdheVJJYWZVRnB4TDk1eWVSSEVR?oc=5",
-          "description": "Se volvió a atrasar la llegada de Rubén Botta a Uruguay para jugar en Nacional: los motivos &nbsp;&nbsp; El Observador",
-          "pub_date": "2026-08-01T17:57:00+00:00",
-          "score": 2,
-          "score_reason": "Informativo, menciona que existen motivos sin dramatizar la situación",
-          "score_pct": 20
-        },
-        {
           "source_id": "montevideoportal",
           "source_name": "Montevideo Portal",
           "source_short": "MP",
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Botta, a quien Nacional esperaba este sábado, volvió a postergar su llegada a Uruguay",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVnVDS3ptUnllVlhjMU5EUV96UlZPMzB4UDlFRW9FaDdua0diWGZHODIyUTRUOHVkN1BNRDNHTWhKNklsbXJuSTZ5c0hHQlV3bzNvU2FwOFU1aFNMRlFkYmJkaDhPZV9FQklpZE45bFJPY3JfZWhHNG1XZDluTnE1Y0JiakZ4SXpIcllLTFpuaW14TEg0cUdPN3h5cjhsVnVRT0xYQXNRalVGLUIxSnJhaWxPZTJ0U0tlb0dPQ2I1NW9VaHRxVWZTaDNib9IB7wFBVV95cUxNQ2o0a09rZGNGYV9Mbnl5S2RhNXF1anNVeXZVcmRwaXlBZ2ZobVBza0l1a2ZVS1NGUkZndVp5VldQYlJnVEE5RldRM1dEMV9OVHJJc0M3bU12WFc4MzJQMTMwa0E2R1k3ZFpfOWxobFRIZ3dsZ1Jta2ZHVkhHeC1BUkoxN19pSXhGc1ljR3Q4U0N2eTNHdXVuc3N1Z3Zram0tY2JjTU1RcnJUc0FFbTVOb05PWTI1eDd3YmtneTBlOFZmR2NOZmlod2tDWDAzbjFUcXczRjZPU0FCRDZGdDZXaUplRnE2blpna0xtbWtVUQ?oc=5",
-          "description": "Botta, a quien Nacional esperaba este sábado, volvió a postergar su llegada a Uruguay &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-08-01T14:32:00+00:00",
-          "score": 3,
-          "score_reason": "Enfatiza la espera del club y el verbo postergar agrega carga",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Rubén Botta postergó nuevamente su llegada a Uruguay para incorporarse al Club Nacional de Football. El jugador era esperado este sábado por la institución tricolor, pero por segunda vez consecutiva atrasó su arribo al país. Los medios reportan que se trata de una nueva demora en el proceso de fichaje del futbolista, quien tiene previsto sumarse al plantel del club montevideano. Nacional aguarda la llegada del jugador para concretar su incorporación al equipo. No se especifican públicamente los motivos exactos de esta segunda postergación en su viaje.",
-        "coincidencias": [
-          "Botta postergó nuevamente su llegada a Uruguay",
-          "Nacional esperaba al jugador este sábado",
-          "Es la segunda vez que se atrasa su arribo"
-        ],
-        "diferencias": [
-          "El Observador promete explicar los motivos del atraso en el titular",
-          "Montevideo Portal enfatiza la expectativa frustrada de Nacional al mencionar la espera"
-        ]
-      }
-    },
-    {
-      "id": "story_003",
-      "topic": "Pereira rechaza acuerdo con EE.UU. sobre deportados",
-      "category": "Política",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Pereira dijo que el Frente Amplio \"no está de acuerdo\" con recibir cubanos deportados de EE.UU. \"si se violentan los derechos humanos\"",
-          "url": "https://www.teledoce.com/telemundo/nacionales/pereira-dijo-que-el-frente-amplio-no-esta-de-acuerdo-con-recibir-cubanos-deportados-de-ee-uu-si-se-violentan-los-derechos-humanos/",
-          "description": "A su entender, la política migratoria de Donald Trump es \"deplorable\" y genera presiones en América Latina que no se viven desde la dictadura. La entrada Pereira dijo que el Frente Amplio &quot;no está de acuerdo&quot; con recibir cubanos deportados de EE.UU. &quot;si se violentan los derechos humanos&quot; se publicó primero en Teledoce.com .",
-          "pub_date": "2026-08-01T19:56:40+00:00",
-          "score": 2,
-          "score_reason": "Incluye condición específica sobre derechos humanos, más completo y equilibrado",
-          "score_pct": 20
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Fernando Pereira rechazó acuerdo para recibir deportados de EE. UU.: “No es compatible”",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmxSdENUUVBhZ1VXVDlsOEFXdHFyTjJUQkRqZ0ExY3cwZU5KeUlnUjVSN0NScmUzeHctckJkOUd3NFNfS19ycXNPakg4YkxfQmYtajdQNjJxRVZOeDZyc254V1JnVW5oVVU5SjlfXzc4RTNiZU5keUx3RUsyNkNuVFZNeHhtdHlvVHpfbDlsRTZnV0xVb3hyR2RxNmF1aFV1aGNKSjBSblNxdndjNVhKVnktLUFOTWFBUTJvN3dWMTQ2ZmVwOUFLZ3VBQnjSAfABQVVfeXFMTTJoUEtpOWpJUk9SMmhIeUZDa0lScWpHN1dDQmRPQk5RY3dlb1B2ZTQwTFg2ZW1SeVZvYkh0R2VndTRlVGhha1VOOFVkVDZHcEtJdXN0QUpxREJpQkNsbXpJMjZpLWw2c1M1V2o3QkNIOWVWdDJ3dkQyR0kzV3liTW9PaTI4bExsbzBEcDc4d1VqVlgxbm9sMVBYcnlSVVFwdktYVlBvWWR0RWZ4bF9xZDlEd09SOHNpdlJHUXZVai03WWtzT1lXSFVfU3VGUUlDaEcwV1U3cVhHeEZIWW1VOVgybmc3SmNMQm1PNVdIVE9H?oc=5",
-          "description": "Fernando Pereira rechazó acuerdo para recibir deportados de EE. UU.: “No es compatible” &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-08-01T15:01:00+00:00",
-          "score": 3,
-          "score_reason": "Enfatiza el rechazo sin mencionar condicionantes de derechos humanos",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "El presidente del PIT-CNT y dirigente del Frente Amplio, Fernando Pereira, manifestó su rechazo a un posible acuerdo para recibir personas deportadas desde Estados Unidos. Pereira señaló que la iniciativa no sería compatible con la posición del Frente Amplio si implica violación de derechos humanos. El dirigente calificó la política migratoria del presidente estadounidense Donald Trump como \"deplorable\" y advirtió que genera presiones en América Latina comparables a las vividas durante las dictaduras. La declaración se da en el contexto de negociaciones del gobierno uruguayo con la administración estadounidense sobre política migratoria.",
-        "coincidencias": [
-          "Pereira expresó rechazo o desacuerdo con recibir deportados de EE.UU.",
-          "La declaración involucra la posición del Frente Amplio",
-          "Se menciona la política migratoria de Donald Trump"
-        ],
-        "diferencias": [
-          "Montevideo Portal presenta rechazo absoluto; Teledoce lo condiciona a violación de derechos humanos",
-          "Teledoce incluye referencias a dictaduras y presiones en América Latina",
-          "Teledoce especifica que se trata de deportados cubanos"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Pereira critica gestión política del gobierno frenteamplista",
-      "category": "Política",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Fernando Pereira afirmó que el gobierno del FA tiene “problemas de gestión política”",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbVh6V2JkWWx4Y051eWZOSlN3Q1MxOGlJZnE3SE9EMlFWcHUtRlNXbXVWWnBMRm9kX0tXVlRRMm5QTy1DblZnQzR5R1Q3cmttMUd0WmV1dVRtc2hpNGlKVnVQbm5MU0xvQ3drOHZVbDhfVVI2dlVZdmpVbXk5ZFphM00zWUhHTUNEbWtXaHVpUGoxdk5FbkFYUHdVLVlnVWo0N1hDTTZUN29xbmNRelh4RWNTQ2ZHaHBtOF9ETVJ3Z3JPQ2dSdS1zU3NBc9IB7wFBVV95cUxObHljdDJHUTNEQWtndTFmQUs2aUVMR2h5dVpNbGZqQmRZelR3czZVTlpRR1ZFM0U0akh0NklUeDAxNGtobXpxamJNckF6T09kekhQLUlHUDhNZXpUQ1NFMWlNTW14Uy14TDI0clp4Z0tuREY5Rk15TFM0ZkNxdVVGNWtLM3c0T2QtNmYzNmdjTEpnbTFYY2dmNFM4OUNtTUlQdFBHS0s0Mi1PbmdVZ2Q0blhaZmZwYjhRZFdxRWkxdDdHMXk0V0gybncxREc0eU95Zi1jUnZzMXk4MkNCZENhQWFjY1g3YkhyaWg3ZUNlUQ?oc=5",
-          "description": "Fernando Pereira afirmó que el gobierno del FA tiene “problemas de gestión política” &nbsp;&nbsp; montevideo.com.uy",
-          "pub_date": "2026-08-01T18:52:00+00:00",
-          "score": 2,
-          "score_reason": "Titular directo con cita textual, sin agregados valorativos",
-          "score_pct": 20
-        },
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Pereira afirmó que el gobierno tiene \"problemas de gestión política\" y criticó política migratoria de Trump",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaTE3MUpfSUJycGRYSEVZREtxeERLSTlSNlFjcURmRklvYjZyMV9Qd3lXVmFvQl9uR1Joakk4alJXM0UzaE5VZXpycTE5NHR0X0k4Uld3OFVPeTBHalRMam9HNGVVd0RWdHBMdFB0QXBaUUY2NjFCSWRBUnduc29oSmYwdFc2RFgtYkttdWRhUE5MQXN6cHpQX0ZBcGlWd01hVmFYd1JmZzJkLTlZT3NCb2JEdXNqY210Snphai1VZEVxOFh4c0V5TVd0YVZiNVcyUDJB0gHYAUFVX3lxTFA3MGMzaDJhTHpOSDJhRkU0RzNRYmZLM1pmczMyV2dUSEdUU3ZYak02UUdLc2tJaU05YVppekYtazlHYUx6Tjc2R1NqdjFlMWw1V1J6MnQ5bVAwcDlTb0xidnBRSjljOWtrZVVueDZMenlCaTRBU01XaC0za2daY2lnck4xejhlUVFyczZiMl9aMl9WbVVBOFdmLVZibHdURDNJNGhtY3R3ajU1MC1xaGo2WDJTRzg1SlA1NHFnNGJmUm5yaFV2Q04zOXlCRTFLdGZNdkNlVDVxdQ?oc=5",
-          "description": "Pereira afirmó que el gobierno tiene \"problemas de gestión política\" y criticó política migratoria de Trump &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-08-01T20:17:00+00:00",
-          "score": 2,
-          "score_reason": "Incluye ambos temas declarados, mantiene neutralidad informativa",
-          "score_pct": 20
-        }
-      ],
-      "analysis": {
-        "resumen": "El presidente del PIT-CNT y ex presidente del Frente Amplio, Fernando Pereira, declaró que el actual gobierno frenteamplista presenta \"problemas de gestión política\". Las declaraciones se producen en el contexto de la administración encabezada por Yamandú Orsi, que asumió en marzo de 2024. Pereira realizó estas afirmaciones públicamente, señalando dificultades en el manejo político del Ejecutivo. Además de referirse a la gestión nacional, Pereira también se pronunció sobre temas internacionales, específicamente criticando la política migratoria del presidente estadounidense Donald Trump. Las declaraciones generaron repercusión en el ámbito político uruguayo, al provenir de una figura relevante dentro del movimiento sindical y con trayectoria en el partido de gobierno.",
-        "coincidencias": [
-          "Fernando Pereira afirmó que el gobierno tiene problemas de gestión política",
-          "Todos utilizan cita textual directa de Pereira sobre gestión",
-          "Ambos medios presentan las declaraciones sin valoración propia"
-        ],
-        "diferencias": [
-          "Subrayado incluye en titular la crítica a Trump, Montevideo Portal no",
-          "Montevideo Portal especifica que es gobierno del FA, Subrayado solo dice gobierno",
-          "Subrayado amplía el alcance temático incorporando política internacional"
-        ]
-      }
-    },
-    {
-      "id": "story_005",
-      "topic": "Peñarol clasificó a final del Torneo Intermedio",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Fútbol uruguayo: Peñarol y Wanderers definen el próximo miércoles el Torneo Intermedio",
-          "url": "https://www.teledoce.com/telemundo/deportes/futbol-uruguayo-penarol-y-wanderers-definen-el-proximo-miercoles-el-torneo-intermedio/",
-          "description": "El último antecedente entre el Carbonero y el Bohemio fue en el Apertura con triunfo de Wanderers con gol de Facundo Labandeira. La entrada Fútbol uruguayo: Peñarol y Wanderers definen el próximo miércoles el Torneo Intermedio se publicó primero en Teledoce.com .",
-          "pub_date": "2026-08-01T23:23:17+00:00",
-          "score": 1,
-          "score_reason": "Informativo, se enfoca en la final sin valoraciones",
-          "score_pct": 10
+          "title": "Intermedio: Central Español y Liverpool empataron sin goles en el Parque Palermo",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVV9PTjFicEV1LVJ1QXh3NEhHZmZ6b091Um1UTzl0SllubWJSeWRMdG4xcHQ1Mm96cnFodDAyX1Q4SENyT19Uay1WVVhRN2dCVy1aaFpKVmM4NkpMNzM4cml5V0RPQmFuNWpIVURrdFN6ZkQ5RzNNTXotck9EeGhMX3pmSmstY0FPVHoxUnZKVlppVnprV1ZHb2V0bkVDMWttRklCU25jVURLSnBIeHRoZDNac1VwTmJUZTFsa0x6QXpnMGxqMnc?oc=5",
+          "description": "Intermedio: Central Español y Liverpool empataron sin goles en el Parque Palermo &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-08-02T19:56:00+00:00",
+          "score": 0,
+          "score_reason": "Información básica del resultado sin valoraciones ni adjetivos",
+          "score_pct": 0
         },
         {
           "source_id": "espectador",
@@ -231,26 +29,76 @@
           "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.espectador.com",
-          "title": "Peñarol goleó 3-0 a Cerro Largo y clasificó a la final del Torneo Intermedio | Noticias | Futbol Uruguayo",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS3gtd1hXdEVFdGJ0RVJtYm1fMHR0VmtIdnBOZThucDI5bUdwMUVhVG9vTHp4RGZobm1fZ1JIRTkyWW9oZlpmQXFVMllBUjJZR0JHX2IxWVBhS2lVejBKbmZGZ2N6RGNvRnhzRmlSdldfekRlXzNkVVBVWmdFb0tWTWlWMm1RQWpXTTRZV0JmckpxRDNRbnlNRUgyUm9oVkRPQnptQXd5ZGlqS3IzeGE3TzNuQnNYUk8ya18zOW9qOVU?oc=5",
-          "description": "Peñarol goleó 3-0 a Cerro Largo y clasificó a la final del Torneo Intermedio | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-08-01T23:33:15+00:00",
+          "title": "Central Español y Liverpool empataron 0-0 en un partido repleto de tarjetas | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHRTdHF3QXBEQndmMWp0MVpyWDd4TTZPUkstV3dlcU1sX0dmclB0cE80ajA3OXI0dldkWnpBMEJ2Nm1ST2xKQ21IOU9jazEtUHBOTFhNQUZyejBKNUNxWjVNZHQ1UUlzVnl5WVdONFR1VlVMWFRVdHRYaE1qUkVZZ0kwX2NXZGp6bzljNThfYzNDV3A2TGVTQjZvaXZ5ZzNHek1xd3lHYjJzU0QxdjJIclB2TWRvU0IzcHBLVDkwWQ?oc=5",
+          "description": "Central Español y Liverpool empataron 0-0 en un partido repleto de tarjetas | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-08-02T20:19:34+00:00",
           "score": 1,
-          "score_reason": "Neutral, presenta resultado y clasificación sin adjetivos innecesarios",
+          "score_reason": "Agrega contexto sobre tarjetas pero mantiene objetividad informativa",
           "score_pct": 10
         }
       ],
       "analysis": {
-        "resumen": "Peñarol venció 3-0 a Cerro Largo y clasificó a la final del Torneo Intermedio del fútbol uruguayo. El equipo aurinegro enfrentará a Wanderers en la definición del certamen, programada para el próximo miércoles. El último enfrentamiento entre ambos equipos fue en el Torneo Apertura, con victoria de Wanderers mediante un gol de Facundo Labandeira. La final definirá al campeón del Torneo Intermedio de la temporada.",
+        "resumen": "Central Español y Liverpool empataron 0-0 en el Parque Palermo por el Torneo Uruguayo. El partido se disputó sin goles y con una característica particular: hubo un número elevado de amonestaciones durante el encuentro. El árbitro mostró varias tarjetas amarillas a lo largo de los 90 minutos. El resultado mantiene a ambos equipos en sus respectivas posiciones en la tabla del campeonato. El empate se produjo en la continuidad de la fecha del torneo local de fútbol uruguayo.",
         "coincidencias": [
-          "Peñarol clasificó a la final del Torneo Intermedio",
-          "El rival de Peñarol en la final será Wanderers",
-          "La final se jugará el próximo miércoles"
+          "Ambos medios informan el empate 0-0",
+          "Coinciden en que el partido se jugó en Parque Palermo",
+          "Confirman que jugaron Central Español y Liverpool"
         ],
         "diferencias": [
-          "Teledoce enfatiza el antecedente previo entre Peñarol y Wanderers",
-          "El Espectador destaca el resultado de la semifinal (3-0 contra Cerro Largo)",
-          "Teledoce menciona al autor del gol en el último partido entre ambos"
+          "Montevideo Portal solo reporta el resultado sin detalles adicionales",
+          "El Espectador destaca la abundancia de tarjetas amarillas como característica del partido"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Racing venció a Boston River en el Intermedio",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Racing le ganó 1-0 a Boston River en la última fecha del Intermedio | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWQ5eGx3TURUVUZnUTVpR0UxTlQxMVp6T2NoZFFpU2F0LTE2SnhwTV9ZRUdnUGRqdHJmMHRzVVRVTTR4emR3VW1uMlNKU243YTZLZzdGeVNLNnQ5amYzY0pXM3dYdzExVmFBTl9MVzcwREJ1dUZrNDlCYnZ1MnZpZTJ2QkZRY0JaNG81bnk0NVhmNldUNjM4dTRPN093Z1ZRTEVBWWxBTWI2c1VyXzIzNm1vMlA?oc=5",
+          "description": "Racing le ganó 1-0 a Boston River en la última fecha del Intermedio | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-08-02T17:03:48+00:00",
+          "score": 1,
+          "score_reason": "Puramente informativo, solo hechos básicos del resultado",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Intermedio: Racing le ganó a Boston River 1-0 y puso fin a una larga racha sin victorias",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc2VZN2pnY3Z5LWxjeThxaUNyOFVxRXhmWTBUNmV3M0d2VGRyQnhVa2tCUERSLTQ5bVM1RmN4c0ZDM2JhWnlxUmtvOWFQYzI5ck4tMm8yTWxhNno0UE12ejZGdGViVHlsa1E5Sk5idENIenRVSVBGZmh1ZnVyeVpCWHA0cm1Qak4tNVpWZF92X2xFNXNYS2l0RXZ2clpHNS1fYzFmY1F0NWNTdnhvTVRfM184M1FLTlo4R05MWmFTSXc5Zk1fZW1XUFB3SXJORVpG?oc=5",
+          "description": "Intermedio: Racing le ganó a Boston River 1-0 y puso fin a una larga racha sin victorias &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-08-02T16:57:00+00:00",
+          "score": 2,
+          "score_reason": "Destaca contexto de racha negativa superada, leve dramatismo",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Racing venció 1-0 a Boston River en la última fecha del torneo Intermedio del fútbol uruguayo. El partido se disputó como cierre de esta competencia. Para Racing, la victoria significó el fin de una extensa racha sin triunfos en el campeonato. El único gol del encuentro definió el resultado a favor del equipo de Montevideo. El partido correspondió a la fecha final del Intermedio, torneo corto que se disputa en el calendario del fútbol uruguayo entre el Apertura y el Clausura.",
+        "coincidencias": [
+          "Racing ganó 1-0 a Boston River",
+          "El partido fue en la última fecha del Intermedio",
+          "Ambos informan el resultado exacto del encuentro"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza la racha sin victorias que terminó",
+          "El Espectador se limita al resultado sin contexto adicional",
+          "Montevideo Portal agrega valor narrativo sobre la situación del equipo"
         ]
       }
     }
