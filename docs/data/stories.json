@@ -1,4 +1,208 @@
 {
-  "generated_at": "2026-08-06T12:05:49.451230",
-  "stories": []
+  "generated_at": "2026-08-07T10:56:42.720707",
+  "stories": [
+    {
+      "id": "story_001",
+      "topic": "Alerta roja por condiciones meteorológicas en Uruguay",
+      "category": "Sociedad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "Gobierno declaró la alerta roja por las condiciones meteorológicas en varias zonas del país",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdjVXWjNHN2ZibUhBZ1daTFVjcGFBSEYyWEswcjBvVlgwMlV1UnZMOURXY1pZcXczYTZCNWRCS0pzN1c3S3BJWC1GeTBPeXFJZnF1YXVmcHFSZXRZNjhua2FrN1NPSjlfMDF3ODhXX1ZCWnhZY1JOT0p5UWlhRUE4ZXg5cEVQcExNM3JIaVA0Q3BoLTVQNXRUTlFwYk9hZHN2TllnM1pNQlhDLW1tR2xDXzBoczF5aXBwQzZXUXNKRFBvZUt4LXFhNmdUa1l3M0lwcjMyaQ?oc=5",
+          "description": "Gobierno declaró la alerta roja por las condiciones meteorológicas en varias zonas del país &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-08-06T21:33:14+00:00",
+          "score": 1,
+          "score_reason": "Informativo directo, sin carga emocional ni adjetivos valorativos",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Meteorólogo prevé alerta roja por ciclón en Uruguay: desde qué hora y dónde debería regir",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVUo5MUNXa24wXzJKbVl2QWZIamZqemh0WWNhZV9KdmRhM1RrbkZWUmpZZkZIckhieENOVm9SZEIxMnVqUnlKUVE2dF83eUUxQVFTOGZnREZWMFFmZVJfTXFqTk5uX1FyVldFaFB0MDNoQ0lfODZiSHhEOUlQXzBRVDJoTEg5b1lDZlVyNlJ2ZzVldWpEdUJDVkFzUll0eWRJbjZOWlIxa3puYnV0b0pOVHJScy01MHNBUTJDSE92RVZocklDalRjMHl2dzlrNGJnd0HSAfYBQVVfeXFMUEtoMWFNTFJsRG9kNEpJSVZ1LXFqWWt5d2gzZzVUSnNST0tnY2czR1ZqYy1kQVBYWlFhVFVUZHZIREhMMDlzX2VHQ3NONlRlbDdFWUtSUEF2SXluVkk1b1ZDVUkzUEZ1MHBhb1NpTUtuM0dEMlVwQ0d4aGpQNG5rUkxJN09jR0RVZGU2clZhWDFpTjhXdGNSSTRxb1pWaExra0p3emc1dkIyTWUxZUpHd0tNN1pFZF91U1QtdlhiR3UwV01RSmZLMXpCdVQzZVR4UXRBY2dpbVNtOTliaGphMUJmcUdwRUdKbWluQ2c3UWc5TnBPLXln?oc=5",
+          "description": "Meteorólogo prevé alerta roja por ciclón en Uruguay: desde qué hora y dónde debería regir &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-08-06T18:23:00+00:00",
+          "score": 3,
+          "score_reason": "Enfatiza previsión de meteorólogo y genera expectativa con preguntas",
+          "score_pct": 30
+        }
+      ],
+      "analysis": {
+        "resumen": "El Gobierno uruguayo declaró alerta roja por condiciones meteorológicas adversas en varias zonas del país. La medida responde a la presencia de un sistema ciclónico que afectaría el territorio nacional. Un meteorólogo anticipó que la alerta roja debería regir en determinadas zonas y franjas horarias específicas. La alerta roja es el nivel más alto de advertencia del Sistema Nacional de Emergencias y requiere que la población tome precauciones especiales ante fenómenos meteorológicos potencialmente peligrosos. Las autoridades han activado los protocolos correspondientes para monitorear la situación y coordinar la respuesta ante posibles emergencias derivadas del evento meteorológico.",
+        "coincidencias": [
+          "Ambos refieren a alerta roja meteorológica en Uruguay",
+          "Los dos mencionan que afectará zonas específicas del país",
+          "Coinciden en que se trata de condiciones meteorológicas adversas"
+        ],
+        "diferencias": [
+          "El País comunica la decisión ya tomada por el Gobierno; Montevideo Portal enfoca en la previsión de un meteorólogo",
+          "Montevideo Portal especifica que se trata de un ciclón; El País usa términos más generales",
+          "Montevideo Portal anticipa horarios y zonas futuras; El País reporta la declaración oficial"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Gremio amenaza a Nacional por fichaje de Olivera",
+      "category": "Deportes",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "elpais",
+          "source_name": "El País",
+          "source_short": "EP",
+          "source_color": "#003F7F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elpais.com.uy",
+          "title": "\"Kike Olivera no irá a Nacional\": dice el director ejecutivo de Gremio, que amenaza con un reclamo ante FIFA",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMVFtN2x0TWJNcTVqeWhTaFctNGVvU0R5SEwzdFRSbVdQTHJNY3E4VHdqVktIdmxEcUY0cktzYV9BOWFBZzlmTEU1VTBzdXBHclk0TDNFVEJ0RFlnNk9xRGx4Rll5NEVnSmppMnk2NjRWYlllTWtmUnFOS2lsekxULVdESTJFZ0djcVVXNUU3c21Xa0FvWVFjRXd0a0ctREprZ1lDN3lmMVdvRmFtQlZKbXhVNU5HSHBYOWhscW5Nam5ULTcwdWltR2ZkamNvTi12QXVhYXJDOTRKR1ZoSXc?oc=5",
+          "description": "\"Kike Olivera no irá a Nacional\": dice el director ejecutivo de Gremio, que amenaza con un reclamo ante FIFA &nbsp;&nbsp; EL PAÍS Uruguay",
+          "pub_date": "2026-08-06T14:30:38+00:00",
+          "score": 3,
+          "score_reason": "Usa cita directa contundente y menciona amenaza en titular",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "La carta de Gremio que sacudió Nacional: amenaza de denuncia en FIFA y disculpas oficiales",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORVZRUWpBWUlHamFYZVZ1c1R0ZU1XZl9FOWhnRHV6ZnRVUWZXV0hKNGRheTl6ZExhWmU1UzlwbUdmY09PUmtJTzJ3bEdpZWVpQzJvYVUtQy1ldnRweWkwRWo2UG95dHRLM3R0SWloc1c4T2tKZFVaRGFNSHBCMUI3a0Jfb2tvbTdNOUE0ZER0cFd6QUJ4b29mNnE0U1JhNklOeEVCUlJ6TXlBQXVicFhZQlFQeEl2eXdEeS1Xa1ZCSGFuczN6NnVnaXlpeXI2NVVseElB0gH3AUFVX3lxTE1ubU5EZ1habFVhWUM0V2RqNi1EVEQ0ZC1pRi1KbmN5elpjTmJhc2JVbW85SUx6Z3EwTDdacHpST0pObk56VFhETXRqU1lqRmQ0eUVKTGZuXzdPVnZkcF8weU1tdmViUmQtQmJBWHpiUmV1SGQyaU1hYlJ6Q2lmUzJwdVo5U1NpSlFWUG1adlNiZ0F2SVJTdHlLMk9IX3ZVY3RMdFZhMVFQaGdsT3pZM2ZwSjdKd01FT3cwc3RITjNJcjQ1djdjczV1N0FEOW9EM09FWGowRmljR3FkMVZaaGxJa3FsaW92bm8xWEpEcnYydkNpOER4M2c?oc=5",
+          "description": "La carta de Gremio que sacudió Nacional: amenaza de denuncia en FIFA y disculpas oficiales &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-08-06T23:46:00+00:00",
+          "score": 5,
+          "score_reason": "Lenguaje emotivo: 'sacudió' sugiere impacto dramático en Nacional",
+          "score_pct": 50
+        }
+      ],
+      "analysis": {
+        "resumen": "El director ejecutivo de Gremio de Porto Alegre manifestó que el jugador Kike Olivera no será transferido al Club Nacional de Football. El club brasileño amenazó con presentar un reclamo ante la FIFA por la situación. Gremio envió una carta a Nacional donde expresa su posición respecto al posible traspaso del futbolista. El club uruguayo habría iniciado conversaciones o negociaciones por el jugador, lo que generó la reacción formal del club brasileño. La carta incluiría también un pedido de disculpas oficiales por parte de Nacional. El conflicto se enmarca en las normativas de transferencias internacionales de futbolistas que regula la FIFA.",
+        "coincidencias": [
+          "Gremio amenaza con presentar reclamo ante FIFA",
+          "El fichaje de Kike Olivera a Nacional está en conflicto",
+          "Gremio envió una carta formal a Nacional"
+        ],
+        "diferencias": [
+          "El País enfatiza la declaración del ejecutivo y la negativa rotunda del traspaso",
+          "Montevideo Portal destaca el impacto en Nacional y menciona pedido de disculpas",
+          "El País cita directamente al director ejecutivo; Montevideo Portal se centra en el documento"
+        ]
+      }
+    },
+    {
+      "id": "story_003",
+      "topic": "Inumet emite alertas naranja y amarilla por ciclón",
+      "category": "Sociedad",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "A la advertencia naranja por tormentas muy fuertes y severas, se agrega una advertencia amarilla para otra zona",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM052MFoxVENTZFhBQ3hMQWJKWUFwcC14S0lNZXFBMW9QMEhHdHp4R29OMnRjeEM3UldqSVNrOWx3RlAwY2hJMVlNVnFqdE9VYmdGSXBtdkg2dXhNSUdPNklIb3J3NjJPdjU1NG9qeTY4M0MxWmYyMHlOakxRUjNlYmZpcUJZZEIyNXNxTk1heEQ3Z3FnNzc1OVowUjVjZWZ0cTRnazhUeVB1SjhLdThOaUhlcWVpTldIbVZ6WkxGRGdhSU01NGpqaGlNUHhhRWlIYXFzYTZB0gHbAUFVX3lxTE13LUhIOXNjMU1DWUpkekttWlpXbTcxSW5pRVVjWDlRQWFPNUlIektSMjhEbUpJdGtSTWRXbzRweXRuTTNyLUtBVXp3ajlMdi1RSlVfZkJNckc1ZVRVR25PcUR5SXJCcFhtZk14aldPaXE2X0FPTENaaGVLMk80TVIxcm9TZElmcFFROEl2bnVnNnEyUVhZSEotNGRiUFAzckRWUzhTQnd4LWxjME5zNXFVb1YxNmU4NktnbDhFcUphTElJcm1QSmxoUmlBZGRxZG9jRVNyLWd1eElwSQ?oc=5",
+          "description": "A la advertencia naranja por tormentas muy fuertes y severas, se agrega una advertencia amarilla para otra zona &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-08-06T13:01:00+00:00",
+          "score": 2,
+          "score_reason": "Lenguaje técnico y descriptivo, sin carga emocional significativa",
+          "score_pct": 20
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "El ciclón avanza y el Inumet sumó una alerta amarilla a la naranja anunciada antes",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNjR0b3h0X1VJYmV2TTdjWmZzUWJXM2JsQldtLXpqOGtWbGtWSjQ2WWxUMm5NQWdBcHhMdy1vT2FXY2ZjeDRDU3A3OXFlV3hNbTBNX3JlaTBhVEFFRFhJSXRvdTVJam5YcFdFSzJoV0Zid19lUXRXeFZ1ZE83WEVaWnA3aGZqWXFkUlZZaEh1WURTdElfd3I3OGROenFMTGJ0QTFFek8wdFJiT1lvSUZIaFg3X3FQWTlqTzR0MHFoQlRhdUE3WGE3dWp3?oc=5",
+          "description": "El ciclón avanza y el Inumet sumó una alerta amarilla a la naranja anunciada antes &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-08-06T13:37:00+00:00",
+          "score": 4,
+          "score_reason": "Uso de 'ciclón avanza' genera cierta dramatización del fenómeno",
+          "score_pct": 40
+        }
+      ],
+      "analysis": {
+        "resumen": "El Instituto Uruguayo de Meteorología (Inumet) emitió dos alertas meteorológicas ante el avance de un sistema ciclónico. Se estableció una advertencia naranja por tormentas fuertes y severas para una zona del país, y posteriormente se agregó una advertencia amarilla para otra área del territorio nacional. Las alertas implican diferentes niveles de precaución según la intensidad esperada de los fenómenos meteorológicos. El sistema de advertencias del Inumet utiliza códigos de colores para informar a la población sobre fenómenos climáticos adversos y sus potenciales riesgos.",
+        "coincidencias": [
+          "Inumet emitió alertas meteorológicas de diferentes niveles",
+          "Existe una advertencia naranja por tormentas fuertes",
+          "Se agregó una advertencia amarilla para otra zona"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza el avance del ciclón como protagonista",
+          "Subrayado se centra en la descripción técnica de las advertencias",
+          "Montevideo Portal menciona explícitamente 'ciclón', Subrayado no lo hace directamente"
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Datos económicos uruguayos y percepción brasileña",
+      "category": "Economía",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "busqueda",
+          "source_name": "Búsqueda",
+          "source_short": "BQ",
+          "source_color": "#37474F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.busqueda.com.uy",
+          "title": "Inflación, comercio exterior, déficit fiscal, confianza del consumidor, salarios y costo de la construcción en Uruguay en números",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSnBDTGtDSHNnb3dQdVozY3BlaEMtMUNiWEdLQV9TM2JKNjIwYkdrV2JfR1MwOVp0N0J5YnpZekg4VlFNRHAxTXFnbEZnMFRzQ3czMk5wM1FZR0JQbWg2bkhMTnhtQmlseHFrYThaRGRKbERzaWE4cWdMTW5fVnJTUUwwQnRRQllRdGFSbFVvd25ZY0VySk43bWtRWDVBUXNxY0tIVDFnaDZCNlpyN0tOS05FWUEzT1R5S3I1Z2R0c1lpMDFVcHUtUE9nWUZ0RENyWnJoeTFHNmFFUFAxdkFfemxMVGxWRHMwV1YxV1J0VHZvcUVR?oc=5",
+          "description": "Inflación, comercio exterior, déficit fiscal, confianza del consumidor, salarios y costo de la construcción en Uruguay en números &nbsp;&nbsp; BÚSQUEDA",
+          "pub_date": "2026-08-06T05:00:00+00:00",
+          "score": 1,
+          "score_reason": "Puramente descriptivo, enumera indicadores económicos sin valoraciones",
+          "score_pct": 10
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Brasileños destacaron a Uruguay por su economía, turismo y calidad de vida, según estudio",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOanpyaUV4d1ZiRzhfRmw2aUJsdjRsSGZGNFJEMS1hMzBvd1FwUDVfWW51aHM1VDVZWkx1d2RRdzVEaUhGRFdMbjJ1TlhDdk4xN1pNelJ1cUNES0w1MDVsTC0xZ1BoaTlYQ1k1aDJ2enViZkxNaG16QmxNM0pScHYydmdQbUNibHJlbm1OSmY1MU0zeTRYRE5qa21QM0h2Q2thUEdDNWVrdnJ2R3Znd0YzeDJSQVZJWWctd3VwU1RrMDdrMFRtWFhMY0YzeXFpd0JJ0gH0AUFVX3lxTE9Ic2ZiZ1pLVWNDeUlnSEFhLTdJRlczTXFlS2N0WHZWcFNYOWJUNWVUbUpHT0Z2Vlp1WTJNcEJSYTNnLXdoT2wwS2w4S2x1empTYnRVM3ppWHdETGptVFlPQ2dlczl3NVVTZy1tRHAzblhzSjJLbmwyU1ZYTnVfckpURWtYUHpyV1AtNDBDaUhtbDBGOXVvd21tZ0pSN3plVEVVVktPVVlRXzAxcTM4bjRqal9JdUluY3ZtQlZUNjIySThDSXhNdWRxekFfdlF5SUt2WkhpT2J1eXVYTFhMejJQckJ5bWhUTjcta0syUnEzLVZndHM?oc=5",
+          "description": "Brasileños destacaron a Uruguay por su economía, turismo y calidad de vida, según estudio &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-08-06T16:48:00+00:00",
+          "score": 2,
+          "score_reason": "Informativo, menciona la fuente del dato sin exagerar",
+          "score_pct": 20
+        }
+      ],
+      "analysis": {
+        "resumen": "Un estudio reveló que ciudadanos brasileños destacan a Uruguay en aspectos como economía, turismo y calidad de vida. Por otra parte, se publicaron datos económicos de Uruguay correspondientes al período reciente, que incluyen cifras de inflación, comercio exterior, déficit fiscal, confianza del consumidor, salarios y costo de la construcción. Los indicadores forman parte del seguimiento regular de variables macroeconómicas que realizan los medios especializados para informar sobre la situación económica del país.",
+        "coincidencias": [
+          "Ambos medios publican información sobre la economía uruguaya",
+          "Se presentan datos actuales del país"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfoca en la percepción externa positiva de Uruguay",
+          "Búsqueda se concentra en indicadores macroeconómicos objetivos y datos duros",
+          "Montevideo Portal cita un estudio de opinión, Búsqueda presenta estadísticas económicas"
+        ]
+      }
+    }
+  ]
 }
