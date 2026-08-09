@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-08-08T10:37:51.958253",
+  "generated_at": "2026-08-09T10:38:21.227971",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Fratti propone aportes de robots al BPS",
-      "category": "Política",
+      "topic": "Accidente fatal en ruta 3 de Salto",
+      "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "Joven iba en moto, chocó con otra, se cayó y lo atropelló un camión; murió en el lugar",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQXY4dVROZWJQM01ETHdsUHVGOVFsVm9PSW9HUHhuQkhONS1UaFdZa3Z6TzZ2OVZoU2hpRXZ6TjFPc29pQTNMZkNIQm9NZ2N0ZUhzMmt1LVFLeXpoejB2LWZjMjBqSU1fZ2JYRFd2emE5bjgyTWt3S0tsb1pOdzFSVVg3aktBa3h5Y3BRdXBNcWRST3kxU19IRE52S08yQUxaUFFfa0pjeGc1OHU2YmJ1bnFqc0lzUzVZbDJDYjExQ1AwdGtmbi0zZU1HQdIB7wFBVV95cUxPT1MtYXNlRGpXVnI3LW1oaXVwVTJFaG92UW5BVXM2cGJyYjVKUi1HMFVHVF9BUWVzcTc5M09MREViOGdlRGRDVHJObFAwdVNUU1VXZ3FfVGEtcE1UNWR4Qy1YSmVQNHQ2dkNZVEttTVZnV0FqYThDbTFDbVhMMTFSMm9SZGpjWkgxMm5NSk83V2FFV3d5ZGRiY3IyTExWa3VSaS1UQk44U3Z5WUpOaGRnRTNXM3Y5TjVPVzNscm00YU82NzlVcDh3c2h3VER3OEtJcHdOdkl4bW1YLTdfemdrbGFqdzRRUFkxakZTa0c1bw?oc=5",
+          "description": "Joven iba en moto, chocó con otra, se cayó y lo atropelló un camión; murió en el lugar &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-08-08T18:11:00+00:00",
+          "score": 2,
+          "score_reason": "Descripción paso a paso, neutral, sin adjetivos valorativos",
+          "score_pct": 20
+        },
         {
           "source_id": "teledoce",
           "source_name": "Teledoce",
@@ -14,64 +29,49 @@
           "source_color": "#006064",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.teledoce.com",
-          "title": "Fratti planteó que los robots deberían aportar al BPS y rechazó la reducción de la jornada laboral en el agro",
-          "url": "https://www.teledoce.com/telemundo/nacionales/fratti-planteo-que-los-robots-deberian-aportar-al-bps-y-rechazo-la-reduccion-de-la-jornada-laboral-en-el-agro/",
-          "description": "“La máquina lleva a alguien arriba; si mañana hay un tractor que marcha solo, capaz que sí tiene que pagar un BPS”, expresó el ministro. La entrada Fratti planteó que los robots deberían aportar al BPS y rechazó la reducción de la jornada laboral en el agro se publicó primero en Teledoce.com .",
-          "pub_date": "2026-08-07T19:24:00+00:00",
-          "score": 2,
-          "score_reason": "Presenta ambas declaraciones de forma neutral y descriptiva",
-          "score_pct": 20
-        },
-        {
-          "source_id": "elpais",
-          "source_name": "El País",
-          "source_short": "EP",
-          "source_color": "#003F7F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.elpais.com.uy",
-          "title": "El ministro de Ganadería, Alfredo Fratti, le pone un freno a la reducción de la jornada laboral y pide que los robots aporten al BPS",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQWNPYlR3bV80TlNqQVRTaVdXc0JaUnowNE1rZEJZcXdZRWVyTVM1RmdBckJheU5EUzB4YkI0SmxpYks5QjFwR0pnV0E4YWc5V3BEUTR2ZklGLUszWC1VLUtDTEpXeEJzYjdhWkwtZ2YybDQ0QkcyVGJGNkxRRDd1ZE9sU3ZDNHpfOGwxQ3ZrN25WODJNdlRtOHg3YzZmQ3Y1VXBTWU5od3dLZExELVlsM2lXaVV4MHd1S01uWlNVaFIwRFBYS0xZQVhHR3JpVTlIWU5GdXpmTnlFNFJVOUFHd2RRejEtUGxSSjA1SzlvcmJFN0s5R3ZxSGpfQWtUb1BJT0ZFTg?oc=5",
-          "description": "El ministro de Ganadería, Alfredo Fratti, le pone un freno a la reducción de la jornada laboral y pide que los robots aporten al BPS &nbsp;&nbsp; EL PAÍS Uruguay",
-          "pub_date": "2026-08-07T07:00:22+00:00",
-          "score": 4,
-          "score_reason": "Usa 'le pone un freno' con carga valorativa implícita",
-          "score_pct": 40
+          "title": "Chocaron dos motos, una fue embestida por un camión y murió un joven de 20 años; más temprano hubo otro accidente fatal en el mismo lugar",
+          "url": "https://www.teledoce.com/telemundo/policiales/chocaron-dos-motos-una-fue-embestida-por-un-camion-y-murio-un-joven-de-20-anos-mas-temprano-hubo-otro-accidente-fatal-en-el-mismo-lugar/",
+          "description": "Ocurrió en la ruta 3 de Salto. La entrada Chocaron dos motos, una fue embestida por un camión y murió un joven de 20 años; más temprano hubo otro accidente fatal en el mismo lugar se publicó primero en Teledoce.com .",
+          "pub_date": "2026-08-08T18:34:45+00:00",
+          "score": 3,
+          "score_reason": "Agrega contexto de segundo accidente, énfasis en repetición del lugar",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "El ministro de Ganadería, Alfredo Fratti, se pronunció sobre dos temas laborales. Rechazó la propuesta de reducción de la jornada laboral en el sector agropecuario. Planteó que los robots o máquinas autónomas deberían realizar aportes al Banco de Previsión Social (BPS). Ejemplificó su postura señalando que actualmente las máquinas agrícolas llevan operadores que aportan, pero si en el futuro existieran tractores autónomos sin conductor, estas máquinas deberían contribuir al sistema previsional. Las declaraciones del ministro abordan el impacto de la automatización en el mercado laboral y el financiamiento de la seguridad social.",
+        "resumen": "Un joven de 20 años murió en la ruta 3 de Salto tras un accidente de tránsito. El hecho ocurrió cuando dos motocicletas chocaron entre sí. Una de ellas fue posteriormente embestida por un camión, causando la muerte del conductor en el lugar. Según los reportes, más temprano ese mismo día se había registrado otro accidente fatal en el mismo sector de la ruta. Las autoridades investigan las circunstancias de ambos siniestros viales.",
         "coincidencias": [
-          "Fratti propone que robots aporten al BPS",
-          "El ministro rechaza reducción de jornada laboral en sector agropecuario",
-          "Se menciona ejemplo de tractores autónomos sin operador"
+          "Dos motocicletas chocaron entre sí",
+          "Un camión embistió una de las motos",
+          "Murió un joven de 20 años en el lugar"
         ],
         "diferencias": [
-          "El País enfatiza el 'freno' a la reducción laboral con lenguaje más cargado",
-          "Teledoce incluye cita textual del ministro sobre tractores autónomos",
-          "El País destaca primero el rechazo laboral, Teledoce prioriza tema robots"
+          "Teledoce enfatiza que hubo otro accidente fatal temprano en el mismo lugar",
+          "Montevideo Portal se centra únicamente en la secuencia del accidente fatal",
+          "Teledoce especifica la ubicación en ruta 3 de Salto desde el título"
         ]
       }
     },
     {
       "id": "story_002",
-      "topic": "Detención de cantante uruguayo por explosión de cajero",
-      "category": "Seguridad",
+      "topic": "Liverpool venció 1-0 a Albion en Clausura",
+      "category": "Deportes",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Tres chilenos y el cantante uruguayo Nahuel One 23, con miles de seguidores; los detenidos por la explosión al cajero",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb1FTR3IzT1BCRHNDN0pVWlRPQmpkbmxRUzloZExNQkRFbS01QjZwUTRvUGVZenRHcHVqMXZwZzRuaklPaDBjaE5qNDZpbnBFaUdvZU5YYkpGemFyZE9xeDF4VDllQ0lfQXh4eTRQN2RNTVBZUGxxNTVfZFdmdk0xOFVpUHNJUDhDQ2VFRVppNk1OLUcwRVE4UlZmMzdKRWl1NnVDcjVkQ2ZzdFJSNDl6VTNteWx5MThjenRjSjJnNU9ESF90UURkb1VNR1RPVm0yZ0FRVXFQTFFOZ9IB3wFBVV95cUxNaEQtUGV1cDdYMGhuajdGWFFVa0taUU1yWEJHNS16aDlvWFQ5aVZBeHBXZ0ZKMDJuYTVDLW1FYzFRdTRyeFB4YmpQZE1vN1A3QTN4YWU5N1ZjZ3Y2c2p5cExVNHlDRElGNTU5anVPRHZ1WDh1SGpWUktGV1Q0MjF1SG9Ea1VNT1loSUFGTTNTVU5qUkpKNnZhYXlhdnNGazdQWlFtWjlNazB1NXdFT3RsN0RDc3ExSkJjcmJBVTRJZGwxRkpvUHpNS3RCT0FJMkJLZkRFY2RZWVVhWFZJUXpB?oc=5",
-          "description": "Tres chilenos y el cantante uruguayo Nahuel One 23, con miles de seguidores; los detenidos por la explosión al cajero &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-08-07T18:19:00+00:00",
-          "score": 3,
-          "score_reason": "Menciona seguidores pero presenta información más completa del hecho",
-          "score_pct": 30
+          "source_url": "https://www.espectador.com",
+          "title": "Liverpool le ganó 1-0 a Albion en la primera fecha del Clausura | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcl9yd2JlaGJxWUM1enBkcElZaUtPLW1TVXpBQkUzanpzaFJjNmw4cTR6Znh2YzZjczQzZUZOMjdETDZHQzVoalpKUzJsd083WUFyNVQ5WUNUVG4tYUlDZndPZWNIUGhkNUliMktSUnVMWlJHRmF3SnRYQXNJR0RxeTFEb0M5Z3R6Mk1EcDNHUE1tbER5Um4zbGpqVFJhWTR5a1RqNFhwUVduQ2lnRDUw?oc=5",
+          "description": "Liverpool le ganó 1-0 a Albion en la primera fecha del Clausura | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-08-08T20:44:36+00:00",
+          "score": 1,
+          "score_reason": "Titular informativo sin adjetivos ni valoraciones",
+          "score_pct": 10
         },
         {
           "source_id": "montevideoportal",
@@ -80,49 +80,48 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Un cantante uruguayo, con miles de seguidores, fue detenido por la explosión del cajero",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZW9DalJrUDhxcl9FMGhzRDk5MnlaRG5pZGRWVWFhSTViSDZxVFRpMEhsaFhtdFRpQ0NGRzJJUnJYN3l0ZzJobkVmNG5qcDNER3ZzSkdIdVhZMDJ4WTlnT1MzVDVoZHlxQTBISVFOR1JUV1AwV1c4TmNGcU8wWDNPZlBiM2phRTNsZW9wUW9pakpXSl94aUxoeTdQT1l1OEd3TGRHU3VpV2RENE5reHV0dDFXV2RYc2NsZGhRMGlaWWwyYlhnbTJ6SFJ3TWJ1UdIB8gFBVV95cUxPejFUNHN3clVidVdaclMxVzVuV0QtclVveG8zU0dxYm40bHBpVEJWbEM1WDJOWnpSekNaSHlLUTZjWjNSYXBpcFhOd3lBQmdiV1dCUWYxbUhJb21KVjBscTFOWVVPVVZxMmt1UVg1NTNHZm9xdGE0UXlYY1VrM19ONnJfTFZoRzhxVmNwaE50RV9EMWIyTUdlMm5xbW44YWVqVmZvcVNYeXdnNi1fSjBERUw4eWhIMjh6VzBsLTdxTnZ6Q1lGeEhvVW85cXZTSzhSR0F1QjRpMWx0TUpVT0RZZGE5a2ZsNEt5VmJBM2NFbGkxUQ?oc=5",
-          "description": "Un cantante uruguayo, con miles de seguidores, fue detenido por la explosión del cajero &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-08-07T18:38:00+00:00",
-          "score": 4,
-          "score_reason": "Enfatiza la cantidad de seguidores del detenido sin necesidad informativa",
-          "score_pct": 40
+          "title": "Clausura: Liverpool, con la receta de la casa, derrotó 1-0 a Albion en el Parque Viera",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPenBpQV8xcVFqUWQxdGZ5LVBadnVTSzZGUGhwdUtIMXFwNWlzWW5Hb2EtRUg5dnZfWkpBaU9qZUk4RnBEajREWUdtUEVRY1hBZ19oZmtubnFOWkJyckE4UDZYdmF1RTk3SDU3dnZrMHJOdWFqTnJxWmZ3SmtWZEJqSnM4QVd6MUotRTM2X090LWJrYl9CdkRmWlRZXzNFcGppU09jb3NPYmRjeTBvTm5FYTVMcmw5YXplTU05aTVodjhkak5mb0tfQ2IyRQ?oc=5",
+          "description": "Clausura: Liverpool, con la receta de la casa, derrotó 1-0 a Albion en el Parque Viera &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-08-08T18:47:00+00:00",
+          "score": 3,
+          "score_reason": "Incluye expresión valorativa 'con la receta de la casa'",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "El cantante uruguayo Nahuel One 23 fue detenido junto a tres ciudadanos chilenos en relación con una explosión en un cajero automático. El artista cuenta con miles de seguidores en redes sociales. Las autoridades policiales procedieron a la detención de los cuatro involucrados en el hecho delictivo. La investigación se encuentra en curso para determinar las circunstancias del ataque al cajero y el grado de participación de cada uno de los detenidos.",
+        "resumen": "Liverpool venció 1-0 a Albion en el Parque Viera por la primera fecha del Torneo Clausura del fútbol uruguayo. El partido se disputó en la cancha de Albion y finalizó con la victoria del equipo negriazul por la mínima diferencia. Este resultado marca el inicio de la segunda parte del campeonato uruguayo de primera división, que se desarrolla mediante el sistema de torneos Apertura y Clausura. El encuentro formó parte de la jornada inaugural de esta segunda etapa competitiva de la temporada.",
         "coincidencias": [
-          "Detención de un cantante uruguayo por explosión de cajero",
-          "El artista detenido cuenta con miles de seguidores",
-          "Participación de ciudadanos chilenos en el hecho delictivo"
+          "Liverpool venció 1-0 a Albion",
+          "Partido correspondió a primera fecha del Clausura",
+          "Encuentro se jugó en Parque Viera"
         ],
         "diferencias": [
-          "Montevideo Portal omite el nombre del cantante en el titular",
-          "Subrayado especifica que son tres chilenos y nombra al cantante",
-          "Subrayado brinda información más detallada sobre los involucrados"
+          "Montevideo Portal agrega valoración sobre el estilo de juego de Liverpool",
+          "El Espectador presenta información más escueta y factual"
         ]
       }
     },
     {
       "id": "story_003",
-      "topic": "Agresión a maestras en Bella Unión",
-      "category": "Educación",
+      "topic": "Central Español venció a Progreso en el Clausura",
+      "category": "Deportes",
       "sources_count": 2,
       "headlines": [
         {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Tres maestras fueron agredidas por la madre de un alumno en Bella Unión; docentes hacen paro de 24 horas",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR0QtUURwMmV2Tm1ZU1NZYTlqZU55a2xoLUNJTm04RFRrR0kzaUpzOHRjNkMxV2hpbFdGUDZ4dHZoeVVEV0tLcUlBQWVIZEtoeEJKZGJqYU5oRlc4M25ndFA4eVZuRGZtSk5Lbm5hUzBEWElyNFpLbm8tQTlmdDZqM0JRQ3R0SkJOQ3VjUmI4cGx3QXhFTXQ1clVLOXl4NVhybWZmam43dmQxM0ZKS0g3eFgyYklwdkEtOWE1cUZ1QUNPWGxGSXJB0gHMAUFVX3lxTE4zbV9LbXR2ekY2aVhfNXZ4RGRkNmhZeDJTa3pHcFZzdGk5QXJsVHNUaGlPUnFtclNyd19BaXhUTjhaT3NUVVBOYy05S04yRnVCMzJ3UGpzXzBGUkVCSV9CdXJUdlV4ZTRkWXA0N01IQnZmN1VWRFhVTXM5OHU2S0lfbWhVSFdUUmF3clZscWNsNS1pMVJZbjVFQ0RtRW5WSzZOaE5ublRTMmxEVElSZnN1cVJCekZkSC13NXZDMEI1RWNMM21xS1RVLTNEeQ?oc=5",
-          "description": "Tres maestras fueron agredidas por la madre de un alumno en Bella Unión; docentes hacen paro de 24 horas &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-08-07T14:37:00+00:00",
-          "score": 2,
-          "score_reason": "Informativo, equilibrado, incluye hechos y consecuencias sin sesgo",
-          "score_pct": 20
+          "source_url": "https://www.espectador.com",
+          "title": "Central Español le ganó 1-0 a Progreso por la primera fecha del Clausura | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEt4cmdqU0U1WDdTT2tqRlN4eFlaaWEwSF9vSXRYQnZtb2JCRVdzN2RNU05pUG15ZXVuVnJJSVBwenRvbHZ2ZWlRaFlLRXNLblppZ3p4bUd5c28zSGw5TjNOM2NGaGxpYk1sWUlydXViOVI5LXdvYjN6cEEyazl3WHEtWmJIZklzdVRMNW1YdkRpaXRQUU45VDgtOHluTDRDM0RwTi1DNUtCVl9NblJQdTctTW5yU3dFX1pJ?oc=5",
+          "description": "Central Español le ganó 1-0 a Progreso por la primera fecha del Clausura | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
+          "pub_date": "2026-08-08T16:53:42+00:00",
+          "score": 1,
+          "score_reason": "Titular puramente descriptivo del resultado y contexto del partido",
+          "score_pct": 10
         },
         {
           "source_id": "montevideoportal",
@@ -131,77 +130,25 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "“No entienden la situación”: madre insultó y cargó contra tres maestras en Bella Unión",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdEdMQm1fNXpvQXpyM3ZjQU5XRloxajR6ZjA1a0dzSmx1NFBfa3NpU0w5SXNEQVdRU2VETGsyUjMxd0dxMG14R05WWjc1OXZ3dlhEREJsaHo2cFZfNktmNlV4RXN3Q1ZNcTlvSTFCUzNKSGJWb2RuREhyTHJ1dGRSZkRQZHBUT1hMN0kyTVNtVjhLOFNaOFFZZ2lBT1R6NEY1aHZyUDRfVlF4LWRjZnRiUXBqeTVwaHlYaDlZSGJJVWNyMm9KWWk0M0xVemUtQdIB8gFBVV95cUxPYWlxd0tWZ2RYMkNHNWphSTRXRjVqcmRtcmRaRHBMX2l6bDhFVEFPbHhnMW5WbmV5NTQwN2hrc2w1SDd2NGYzaDBNeFRmbUJaMU1Hc25sMGpaOS1fMFFiVFQ0N2lua1VENURzaTRnaUFvNk9Janp0OVhURmpmdDFGRzRYOXlyM1g1cjFNWjBrTUpVRElNZkN0cGhVZ3R2RmlfdkdvYklldWNVMDBTR3VWQUxhMzV5LU5jcGFDY3NmOXp3Rk1ZNXdTd1JFa2JCWi1IdDc4YVhZWWNEVlNVM3VzRzFSTmJMR0FIMXFKcmlxcjBmdw?oc=5",
-          "description": "“No entienden la situación”: madre insultó y cargó contra tres maestras en Bella Unión &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-08-07T12:47:00+00:00",
-          "score": 6,
-          "score_reason": "Destaca excusa de la agresora, minimizando la gravedad del hecho",
-          "score_pct": 60
+          "title": "Clausura: Central Español derrotó 1-0 a Progreso en el Parque Palermo y quiere copas",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONDRFM05paWdQMlZzUGhoa0VDdFVadHc2b2JnN2hOT2xEV0xxR2Y5Z1UzdlE1SmxfYUpPVVNZSE1YUkk4OFRIV3paVWwwNVNtSDIzQ2hWVXB6ak1XU293cjVLN0RYR3Fwd1UzdzVXSjlMTEtDTHdIT1c4a0ZYSE5CTTd6a2dDVm5EdlJjaXc3RlNlMTFuVEQ2UDFMSTNiTGt2b1FyZkRyWHhUMF9kNGZaNE5VVUNQMDZJVHVoclFjT1FsMjVJNzhPLTVzSQ?oc=5",
+          "description": "Clausura: Central Español derrotó 1-0 a Progreso en el Parque Palermo y quiere copas &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-08-08T15:54:00+00:00",
+          "score": 3,
+          "score_reason": "Agrega interpretación subjetiva con 'quiere copas' al resultado objetivo",
+          "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Tres maestras fueron agredidas por la madre de un alumno en una escuela de Bella Unión, departamento de Artigas. El incidente involucró insultos y agresiones físicas contra las docentes. Como respuesta al hecho, los maestros de la localidad resolvieron realizar un paro de actividades de 24 horas en señal de protesta y rechazo a la violencia ejercida contra las educadoras. La madre protagonista del episodio justificó su accionar manifestando que las maestras \"no entienden la situación\". El caso generó repercusión en la comunidad educativa local y fue denunciado por las autoridades del centro educativo.",
+        "resumen": "Central Español venció 1-0 a Progreso en el Parque Palermo por la primera fecha del Torneo Clausura del fútbol uruguayo. El partido se disputó en la cancha de Central Español y significó el inicio de la segunda rueda del campeonato de Primera División. El único gol del encuentro le otorgó los tres puntos al equipo local, que comienza así su participación en el Clausura con una victoria.",
         "coincidencias": [
-          "Tres maestras fueron agredidas en Bella Unión",
-          "La agresora fue la madre de un alumno",
-          "El hecho generó respuesta del sector docente"
+          "Central Español ganó 1-0 a Progreso",
+          "El partido correspondió a la primera fecha del Clausura",
+          "El encuentro se jugó en el Parque Palermo"
         ],
         "diferencias": [
-          "Montevideo Portal enfatiza la justificación de la agresora en el titular",
-          "Subrayado destaca la medida gremial (paro) como consecuencia",
-          "Uno presenta la voz de la agresora, otro los hechos objetivos"
-        ]
-      }
-    },
-    {
-      "id": "story_004",
-      "topic": "Orsi defiende negociaciones con EE.UU. por deportados",
-      "category": "Política",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "subrayado",
-          "source_name": "Subrayado",
-          "source_short": "SB",
-          "source_color": "#E65100",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.subrayado.com.uy",
-          "title": "Orsi dijo que con Estados Unidos \"se está conversando hace muchos meses\" por los deportados, y que \"no se llegó todavía a ningún acuerdo\"",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVVFCaF9MZnctWVJSRDlyeXFkaVdPMkpIZk5zZU1uTTFZdjBTZ19tQTAxQzFVaGZUTHJtNURsUjdPSmNBaUNKeWRORHlWZDlQa2VNdmx2V2NnMzU3aE1xWVlFWnozZTdKa3I5dEgyc1BJYVdva2U3eHVCX3QyaEY4ZHJ0TmJJazVaWGN4T2g1dkJQc1VBRGJJanVhVXRSMXdNaEpVeWNpLVRSZmoyTnFKNTdGME4zLVVzOGpQU3ZHQjJsVHk0YlB0UXRkbG4xS09yT2M5N3Y5UHF6ZGFvOUhFWTMwZHFYNDAtenBDR1NNU21Gd9IB9wFBVV95cUxPck9qaGNzckJseng2SUdSRkpWeXVBUmF0MlRQUG9fZVlpSnB5T2s0ME12OGlHR1YzbTRwYzhFN0E0U2NzbndncGtnMFVlZUZQbU44QlNDcFNFRWdJVmpReUktMG1rb1FqV2ZOS2c0TlZQaHd0Y1ROMUN1eWVOZEZ2QTFpU0t3aS1QY1lrSlROUGYyX091dGtXM2ZiM3NQX2l6RUtZeUo0ZG5XVklCRnFLSkpuMHZ1X2Iyem9iMmlJY194SjdUcGJsUEtPQWJ4a0tOdmRNbFRtRTBYd2V3VTAxeFdiV3l1eFh1Mnh2X1RvMWRPSEE0ZV9B?oc=5",
-          "description": "Orsi dijo que con Estados Unidos \"se está conversando hace muchos meses\" por los deportados, y que \"no se llegó todavía a ningún acuerdo\" &nbsp;&nbsp; subrayado.com.uy",
-          "pub_date": "2026-08-07T12:25:00+00:00",
-          "score": 1,
-          "score_reason": "Reproduce declaraciones textuales sin agregar valoraciones ni contexto político",
-          "score_pct": 10
-        },
-        {
-          "source_id": "busqueda",
-          "source_name": "Búsqueda",
-          "source_short": "BQ",
-          "source_color": "#37474F",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.busqueda.com.uy",
-          "title": "El presidente Orsi defiende las negociaciones con EE.UU. por los deportados mientras crece la molestia en el oficialismo",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMlhvMDhERmV0aHJDT2Jnd21pbFJHR0xiX1RzaG1pNGNFWS1kYzRGNzVPT24yVU1Mb0xXTFNzWnFWRkdESVg1bTdIVlgzdGVUT0R5YTJ6ZVNQeWxvaEtSbExsQzloazh1WWp2X1ZMLUQ2NlpCdU8zaTJxcFd5ZlZZZzBpMnhWRTEtUlBEMk90RWtXMjZLYzRJbVVzQ2lBY2VfY0E4LUwyRmFqcXR0aXVvWUhJTk5HMkRwV3EwdF9IRG9sT3haVGxvNHRYVEhIOHFwbVd4MG1LUG9BQkpnX09zaDdSR09yV0h6?oc=5",
-          "description": "El presidente Orsi defiende las negociaciones con EE.UU. por los deportados mientras crece la molestia en el oficialismo &nbsp;&nbsp; BÚSQUEDA",
-          "pub_date": "2026-08-07T20:31:00+00:00",
-          "score": 5,
-          "score_reason": "Introduce términos valorativos como 'defiende' y destaca conflicto interno oficialista",
-          "score_pct": 50
-        }
-      ],
-      "analysis": {
-        "resumen": "El presidente Yamandú Orsi declaró que Uruguay mantiene conversaciones con Estados Unidos desde hace varios meses sobre la recepción de personas deportadas, aunque aclaró que aún no se ha alcanzado ningún acuerdo. El mandatario defendió públicamente el proceso de negociación. Según medios, estas declaraciones se producen en un contexto de malestar creciente dentro del Frente Amplio, partido de gobierno, respecto a las tratativas con la administración estadounidense sobre este tema migratorio.",
-        "coincidencias": [
-          "Orsi se refirió a las negociaciones con Estados Unidos sobre deportados",
-          "Las conversaciones llevan varios meses en curso",
-          "No existe aún un acuerdo cerrado entre ambos países"
-        ],
-        "diferencias": [
-          "Subrayado se limita a citar declaraciones directas sin contexto político adicional",
-          "Búsqueda enfatiza el malestar interno en el Frente Amplio y presenta al presidente defendiéndose",
-          "Búsqueda enmarca la noticia como conflicto político mientras Subrayado la presenta como información factual"
+          "Montevideo Portal añade aspiraciones del equipo ('quiere copas'), El Espectador solo informa resultado",
+          "Montevideo Portal enfatiza la localía y ambición, El Espectador mantiene tono neutral"
         ]
       }
     }
