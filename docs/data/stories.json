@@ -1,9 +1,75 @@
 {
-  "generated_at": "2026-08-09T10:38:21.227971",
+  "generated_at": "2026-08-10T11:12:52.986347",
   "stories": [
     {
       "id": "story_001",
-      "topic": "Accidente fatal en ruta 3 de Salto",
+      "topic": "Mensaje de Suárez a Messi por muerte de su padre",
+      "category": "Deportes",
+      "sources_count": 3,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Suárez saludó a Messi por la muerte de su padre: \"Desde arriba te va a seguir mirando orgulloso\"",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQVdRRjU5dVpYME5VRE9WMEpLT2tGVGszSTZPUmdOYTVmVDV4S01rdTk1U0hpdmVQVm1DSHg5cXhfaDV6UUd2bVJvZFZVcTVIdkQ5aXpSN2tEMGtuaFUwS2RnS1FVT2tjSkhhdHRjWHlrWExBeUhaV0pVdXpkOVBPWTczazVjSV9ZajV5eHl0N0tnTllsbHpPb0FvS0VoQzZsOEZRRjd3ZXJnNmFiMFJESW4tVTN1QldINFg1VdIBwgFBVV95cUxObXhZV0lhSlJQWU1yblBkOEhBbDVzNTFNQ25FUVI1OFF2bW0xQXg5SEJWXzVxakR5TDh3T0YzanZJaDJ0U1V1R2tjMVNOeXpTdFJkZGo5ZXNTbXpORWpUMkJJdVlzZ1BBNGp3aVF1RzdPbEVobWZZd0Z4ckhISF80OWlNallzY2tUbUI5aThGTmplWF9nV3Rjd3lVSkQyRW1iMlBHNFJWSWU1UTB5QzFvMmRXdE85VVFpelN3R0M4bmNyUQ?oc=5",
+          "description": "Suárez saludó a Messi por la muerte de su padre: \"Desde arriba te va a seguir mirando orgulloso\" &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-08-09T13:45:00+00:00",
+          "score": 3,
+          "score_reason": "Más descriptivo e informativo, incluye cita textual del mensaje",
+          "score_pct": 30
+        },
+        {
+          "source_id": "montevideoportal",
+          "source_name": "Montevideo Portal",
+          "source_short": "MP",
+          "source_color": "#0D47A1",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.montevideo.com.uy",
+          "title": "“Te mira orgulloso desde arriba”: sentido posteo de Suárez a Messi por muerte de su padre",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT2YxblV6S21BYnZCeVlmV2czX3JQb1djWGR0azVPNk1zOVRGNlBfVUVjNlVmdmRzOGhKbGJEcGxzeVNjUHdVR3F1VlliRTdZNVdQWHlWTWo4OUVlM3d1YWNsTEVOZkpsaC1RWXBSUTRFV1hyaXZQMGlRNmpRRnA5a1lDLXlMZGt5UWxDVzhwZjRzaXVfT1o1bWdLSUNaU2lSbEdqR2Z4QnJsTUEyOEdvUHBRU2pPbEFESUdPUjM4UmVIVmZWbWhmdjdaN0dtNWZKd2fSAfYBQVVfeXFMTV9DcWZjekhZQ19aV29WVmR2aTdtYzM2a3FWZVZVVGtMUkgwRU5wZnRrLWtkTV9zX29rOFBGREtHSTlJa0VMdDd1SlBSeTUweVZUazZwa2xtZjFaRzZLX0NnUXEwMjRnQ0I2bHI3ckRTWThhb3hBakFRVkR1WUlPcUlxTlIyR2h0SmljS2R1a2xTYWQ3TVRncDNuMTh6QmhjVm96RFA1Z0Q3QlM0T3BodVFCMGxYXzFGMDJxc0dqZHRJVmtnWHhnV3ZmQWVrZWdUYkxMcVdKb3lYNHVtZHU2YmJ1cWM4LWpVWTdDc0lhLXl4dVE0a2dB?oc=5",
+          "description": "“Te mira orgulloso desde arriba”: sentido posteo de Suárez a Messi por muerte de su padre &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-08-09T12:05:00+00:00",
+          "score": 5,
+          "score_reason": "\"Sentido\" añade carga emotiva aunque incluye la frase textual",
+          "score_pct": 50
+        },
+        {
+          "source_id": "observador",
+          "source_name": "El Observador",
+          "source_short": "EO",
+          "source_color": "#D32F2F",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.elobservador.com.uy",
+          "title": "El conmovedor mensaje de Luis Suárez a Lionel Messi tras el fallecimiento de su padre, Jorge Messi",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcUQ5c2JCakJ4V3FyUmk4TGRxazE2aUZiZTVWTC1KQjhzVExuY0wtQWhHdlBBRGNmUW9XcGFqOWdjLXJhTTZqQkdCaXJwYVdRdWZXMlNzVmxrT0VkX2hoZDRWNGd0WE5aZ2h3UFVLTWs5d1FvUnBtZ29YUGRQOGQ2R0JxeGEyTHUtTXdjUm1KaXNkX1VNenZwRERNWHlScE9Mc2lKT1Z4ZENZODgweHB2QzFaUkYwSmxjb09TajBsZVJ1U1pRQnNMVDdocFF4Skl6TTRiR21qWWdDS3RjNndN0gHkAUFVX3lxTE11NlZLUTZ1X0tUS2pQc0c0VWJXTGFFU095U25jTUFmSWJPdW1PZXdnTzdJRmh4Z2Zaa2NJUkZtV012SWtWTmJiZ2dpdTZGaml2UHhYenZ4eXVmbEJQeDV2aU5paDhlOHJrM3dIQWRMbVBkYUtKcHkzaWcwWER2NWtrclhJOTJVRmhNM21icUEyMkh4X0EzMUNKNzVEWHdTdUNQYVhyTmRPaXhoZl85Zmo2M0Y0MXlGOXZTVlBfUzlxVUo2UVJIbjZ2R0hRcUFOVEk0d082OGIyYXBmaE4zcHk2bUlSQw?oc=5",
+          "description": "El conmovedor mensaje de Luis Suárez a Lionel Messi tras el fallecimiento de su padre, Jorge Messi &nbsp;&nbsp; El Observador",
+          "pub_date": "2026-08-09T13:17:00+00:00",
+          "score": 6,
+          "score_reason": "Uso repetido del adjetivo \"conmovedor\" genera carga emocional evidente",
+          "score_pct": 60
+        }
+      ],
+      "analysis": {
+        "resumen": "El futbolista uruguayo Luis Suárez publicó un mensaje en redes sociales dirigido a Lionel Messi tras el fallecimiento de Jorge Messi, padre del jugador argentino. En su posteo, Suárez expresó sus condolencias y escribió que el padre de Messi \"te va a seguir mirando orgulloso desde arriba\". Jorge Messi falleció recientemente, según confirmaron medios argentinos. Suárez y Messi compartieron vestuario durante varios años en el FC Barcelona y mantienen una estrecha amistad. El mensaje del delantero uruguayo se suma a las múltiples expresiones de pésame que el astro argentino recibió del mundo del fútbol.",
+        "coincidencias": [
+          "Luis Suárez envió un mensaje a Lionel Messi",
+          "El mensaje refiere al fallecimiento del padre de Messi",
+          "Incluyen la frase sobre mirar \"orgulloso desde arriba\""
+        ],
+        "diferencias": [
+          "El Observador y Montevideo Portal enfatizan lo emotivo, Subrayado es más neutral",
+          "Subrayado usa 'saludó' en lugar de 'mensaje', distinto enfoque del gesto",
+          "Montevideo Portal destaca 'posteo' como plataforma, otros no especifican medio"
+        ]
+      }
+    },
+    {
+      "id": "story_002",
+      "topic": "Secuestro de ómnibus de UCOT y paro sindical",
       "category": "Seguridad",
       "sources_count": 2,
       "headlines": [
@@ -14,115 +80,49 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Joven iba en moto, chocó con otra, se cayó y lo atropelló un camión; murió en el lugar",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQXY4dVROZWJQM01ETHdsUHVGOVFsVm9PSW9HUHhuQkhONS1UaFdZa3Z6TzZ2OVZoU2hpRXZ6TjFPc29pQTNMZkNIQm9NZ2N0ZUhzMmt1LVFLeXpoejB2LWZjMjBqSU1fZ2JYRFd2emE5bjgyTWt3S0tsb1pOdzFSVVg3aktBa3h5Y3BRdXBNcWRST3kxU19IRE52S08yQUxaUFFfa0pjeGc1OHU2YmJ1bnFqc0lzUzVZbDJDYjExQ1AwdGtmbi0zZU1HQdIB7wFBVV95cUxPT1MtYXNlRGpXVnI3LW1oaXVwVTJFaG92UW5BVXM2cGJyYjVKUi1HMFVHVF9BUWVzcTc5M09MREViOGdlRGRDVHJObFAwdVNUU1VXZ3FfVGEtcE1UNWR4Qy1YSmVQNHQ2dkNZVEttTVZnV0FqYThDbTFDbVhMMTFSMm9SZGpjWkgxMm5NSk83V2FFV3d5ZGRiY3IyTExWa3VSaS1UQk44U3Z5WUpOaGRnRTNXM3Y5TjVPVzNscm00YU82NzlVcDh3c2h3VER3OEtJcHdOdkl4bW1YLTdfemdrbGFqdzRRUFkxakZTa0c1bw?oc=5",
-          "description": "Joven iba en moto, chocó con otra, se cayó y lo atropelló un camión; murió en el lugar &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-08-08T18:11:00+00:00",
+          "title": "Hinchas de Cerro secuestraron un ómnibus de UCOT a mano armada: sindicato decretó paro",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcHU0LWF5Q1ZEaU0tVzJrN0YtWlUtRmx1a1ZEQWtYTmRDeUM3a09nTEhfdTB2SmR0VkhTUVUtMXRTZkhXQnMwWHdwZ2l4NUNwTzZFaUpLOUR1U1JoQ1JUckFlY1JWQzMzTUFFb0JnaXF6U3NqUWJDOUxPVklTb1dKLWEyb1ZLUW9LVzBXOVEyV3hvaEFiZnFBLV9OUGpmZHlheUxzUTNsS2toUHpTWWVRclVXLUpPUmNHMlo4NFU5S1ppN2gxck9MQXRNMzBWd9IB8gFBVV95cUxQUWpGNWtyaUhmcWtBTHlnMXFKWFJuV2NnWXFRVTRIdHctc0NXRWx4bkhVR0JOYTR2ZkJCUktnS3ZBX0FCa0loYUswTzZjNzZ3QjlLU3BFLXhIbXNDZ0VUVTBQRkhOWEFhdl80aTlLTWpkUmIwTVlyVzJuRzY4Qmg0clNueXd5VUdUODhkT0hHekhZcXY1SmpLVlIyZ3QzejVDWGdQWjA4aVhJcmpEOTFhdkgwTVdEbHBHTy1FRk1VZmdza2NFMWZ0VC1DSnV2blVNbGw5SlQtOEJ6OFZOd091T1ZwMnViUkduUU1HaDdULUtDZw?oc=5",
+          "description": "Hinchas de Cerro secuestraron un ómnibus de UCOT a mano armada: sindicato decretó paro &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-08-09T19:32:00+00:00",
           "score": 2,
-          "score_reason": "Descripción paso a paso, neutral, sin adjetivos valorativos",
+          "score_reason": "Informativo, menciona hechos concretos sin lenguaje alarmista",
           "score_pct": 20
         },
         {
-          "source_id": "teledoce",
-          "source_name": "Teledoce",
-          "source_short": "T12",
-          "source_color": "#006064",
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
           "source_text_color": "#FFFFFF",
-          "source_url": "https://www.teledoce.com",
-          "title": "Chocaron dos motos, una fue embestida por un camión y murió un joven de 20 años; más temprano hubo otro accidente fatal en el mismo lugar",
-          "url": "https://www.teledoce.com/telemundo/policiales/chocaron-dos-motos-una-fue-embestida-por-un-camion-y-murio-un-joven-de-20-anos-mas-temprano-hubo-otro-accidente-fatal-en-el-mismo-lugar/",
-          "description": "Ocurrió en la ruta 3 de Salto. La entrada Chocaron dos motos, una fue embestida por un camión y murió un joven de 20 años; más temprano hubo otro accidente fatal en el mismo lugar se publicó primero en Teledoce.com .",
-          "pub_date": "2026-08-08T18:34:45+00:00",
-          "score": 3,
-          "score_reason": "Agrega contexto de segundo accidente, énfasis en repetición del lugar",
-          "score_pct": 30
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "Trabajadores de UCOT decretó paro tras el secuestro de un ómnibus a mano armada",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZHJCaEdMM2lTMkYxSjZNVXRtYlFVcXR2bWRnbThzZVA5ZEU0VlVuRWljX2VGZG1GUDhFWWg1UUpoTm41MEJrTFVIVFBMblNnUmRaN21ic25GOVc0TExHUlJFd3JSdEw5RnU4dXlKUnVqVWxPemUzaEZvd1lTdkRtR2JOMjZTNFlZQ2JnRWlrVExRZHNoSjNVZzMyQWtPTUlOb1dhZ0JoMTFYVi1vZXFFVmFyZkd2djlMSmc?oc=5",
+          "description": "Trabajadores de UCOT decretó paro tras el secuestro de un ómnibus a mano armada &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-08-09T21:07:35+00:00",
+          "score": 2,
+          "score_reason": "Presenta los hechos de forma neutral y directa",
+          "score_pct": 20
         }
       ],
       "analysis": {
-        "resumen": "Un joven de 20 años murió en la ruta 3 de Salto tras un accidente de tránsito. El hecho ocurrió cuando dos motocicletas chocaron entre sí. Una de ellas fue posteriormente embestida por un camión, causando la muerte del conductor en el lugar. Según los reportes, más temprano ese mismo día se había registrado otro accidente fatal en el mismo sector de la ruta. Las autoridades investigan las circunstancias de ambos siniestros viales.",
+        "resumen": "Un ómnibus de la empresa UCOT fue secuestrado a mano armada por hinchas del Club Atlético Cerro. El hecho ocurrió en el contexto de un partido de fútbol. Como consecuencia del incidente, el sindicato de trabajadores de UCOT resolvió decretar un paro de actividades. El secuestro del vehículo de transporte colectivo involucró el uso de armas. La medida gremial fue adoptada en respuesta a las condiciones de inseguridad que enfrentó el personal de la empresa durante el episodio.",
         "coincidencias": [
-          "Dos motocicletas chocaron entre sí",
-          "Un camión embistió una de las motos",
-          "Murió un joven de 20 años en el lugar"
+          "Un ómnibus de UCOT fue secuestrado",
+          "El secuestro fue realizado a mano armada",
+          "El sindicato decretó un paro como respuesta al hecho"
         ],
         "diferencias": [
-          "Teledoce enfatiza que hubo otro accidente fatal temprano en el mismo lugar",
-          "Montevideo Portal se centra únicamente en la secuencia del accidente fatal",
-          "Teledoce especifica la ubicación en ruta 3 de Salto desde el título"
-        ]
-      }
-    },
-    {
-      "id": "story_002",
-      "topic": "Liverpool venció 1-0 a Albion en Clausura",
-      "category": "Deportes",
-      "sources_count": 2,
-      "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Liverpool le ganó 1-0 a Albion en la primera fecha del Clausura | Noticias | Futbol Uruguayo",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcl9yd2JlaGJxWUM1enBkcElZaUtPLW1TVXpBQkUzanpzaFJjNmw4cTR6Znh2YzZjczQzZUZOMjdETDZHQzVoalpKUzJsd083WUFyNVQ5WUNUVG4tYUlDZndPZWNIUGhkNUliMktSUnVMWlJHRmF3SnRYQXNJR0RxeTFEb0M5Z3R6Mk1EcDNHUE1tbER5Um4zbGpqVFJhWTR5a1RqNFhwUVduQ2lnRDUw?oc=5",
-          "description": "Liverpool le ganó 1-0 a Albion en la primera fecha del Clausura | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-08-08T20:44:36+00:00",
-          "score": 1,
-          "score_reason": "Titular informativo sin adjetivos ni valoraciones",
-          "score_pct": 10
-        },
-        {
-          "source_id": "montevideoportal",
-          "source_name": "Montevideo Portal",
-          "source_short": "MP",
-          "source_color": "#0D47A1",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.montevideo.com.uy",
-          "title": "Clausura: Liverpool, con la receta de la casa, derrotó 1-0 a Albion en el Parque Viera",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPenBpQV8xcVFqUWQxdGZ5LVBadnVTSzZGUGhwdUtIMXFwNWlzWW5Hb2EtRUg5dnZfWkpBaU9qZUk4RnBEajREWUdtUEVRY1hBZ19oZmtubnFOWkJyckE4UDZYdmF1RTk3SDU3dnZrMHJOdWFqTnJxWmZ3SmtWZEJqSnM4QVd6MUotRTM2X090LWJrYl9CdkRmWlRZXzNFcGppU09jb3NPYmRjeTBvTm5FYTVMcmw5YXplTU05aTVodjhkak5mb0tfQ2IyRQ?oc=5",
-          "description": "Clausura: Liverpool, con la receta de la casa, derrotó 1-0 a Albion en el Parque Viera &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-08-08T18:47:00+00:00",
-          "score": 3,
-          "score_reason": "Incluye expresión valorativa 'con la receta de la casa'",
-          "score_pct": 30
-        }
-      ],
-      "analysis": {
-        "resumen": "Liverpool venció 1-0 a Albion en el Parque Viera por la primera fecha del Torneo Clausura del fútbol uruguayo. El partido se disputó en la cancha de Albion y finalizó con la victoria del equipo negriazul por la mínima diferencia. Este resultado marca el inicio de la segunda parte del campeonato uruguayo de primera división, que se desarrolla mediante el sistema de torneos Apertura y Clausura. El encuentro formó parte de la jornada inaugural de esta segunda etapa competitiva de la temporada.",
-        "coincidencias": [
-          "Liverpool venció 1-0 a Albion",
-          "Partido correspondió a primera fecha del Clausura",
-          "Encuentro se jugó en Parque Viera"
-        ],
-        "diferencias": [
-          "Montevideo Portal agrega valoración sobre el estilo de juego de Liverpool",
-          "El Espectador presenta información más escueta y factual"
+          "Montevideo Portal identifica específicamente a los responsables como hinchas de Cerro",
+          "Grupo R enfatiza más la respuesta sindical que los perpetradores del hecho"
         ]
       }
     },
     {
       "id": "story_003",
-      "topic": "Central Español venció a Progreso en el Clausura",
+      "topic": "Cerro venció a Danubio en el Torneo Clausura",
       "category": "Deportes",
       "sources_count": 2,
       "headlines": [
-        {
-          "source_id": "espectador",
-          "source_name": "El Espectador",
-          "source_short": "ESP",
-          "source_color": "#1565C0",
-          "source_text_color": "#FFFFFF",
-          "source_url": "https://www.espectador.com",
-          "title": "Central Español le ganó 1-0 a Progreso por la primera fecha del Clausura | Noticias | Futbol Uruguayo",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEt4cmdqU0U1WDdTT2tqRlN4eFlaaWEwSF9vSXRYQnZtb2JCRVdzN2RNU05pUG15ZXVuVnJJSVBwenRvbHZ2ZWlRaFlLRXNLblppZ3p4bUd5c28zSGw5TjNOM2NGaGxpYk1sWUlydXViOVI5LXdvYjN6cEEyazl3WHEtWmJIZklzdVRMNW1YdkRpaXRQUU45VDgtOHluTDRDM0RwTi1DNUtCVl9NblJQdTctTW5yU3dFX1pJ?oc=5",
-          "description": "Central Español le ganó 1-0 a Progreso por la primera fecha del Clausura | Noticias | Futbol Uruguayo &nbsp;&nbsp; El Espectador Deportes",
-          "pub_date": "2026-08-08T16:53:42+00:00",
-          "score": 1,
-          "score_reason": "Titular puramente descriptivo del resultado y contexto del partido",
-          "score_pct": 10
-        },
         {
           "source_id": "montevideoportal",
           "source_name": "Montevideo Portal",
@@ -130,25 +130,92 @@
           "source_color": "#0D47A1",
           "source_text_color": "#FFFFFF",
           "source_url": "https://www.montevideo.com.uy",
-          "title": "Clausura: Central Español derrotó 1-0 a Progreso en el Parque Palermo y quiere copas",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONDRFM05paWdQMlZzUGhoa0VDdFVadHc2b2JnN2hOT2xEV0xxR2Y5Z1UzdlE1SmxfYUpPVVNZSE1YUkk4OFRIV3paVWwwNVNtSDIzQ2hWVXB6ak1XU293cjVLN0RYR3Fwd1UzdzVXSjlMTEtDTHdIT1c4a0ZYSE5CTTd6a2dDVm5EdlJjaXc3RlNlMTFuVEQ2UDFMSTNiTGt2b1FyZkRyWHhUMF9kNGZaNE5VVUNQMDZJVHVoclFjT1FsMjVJNzhPLTVzSQ?oc=5",
-          "description": "Clausura: Central Español derrotó 1-0 a Progreso en el Parque Palermo y quiere copas &nbsp;&nbsp; Montevideo Portal",
-          "pub_date": "2026-08-08T15:54:00+00:00",
+          "title": "Clausura: Cerro derrotó 1-0 a Danubio en Jardines y lo dejó en zona de descenso",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVk1wT2VoQWJWdHJiMl9rNVlaNkZ3anlVUi12SmlmVHJXYU55YWlWc0N0emE3dHBVR1ZWalJoX3d2WmdnLUU1U3dLOVhuQ3dvM3lWWVR2TDdfQnhsc1pJVXRlM1lPUHNLdDUyUmhIZEN6UVRPQV9DOVljdUxRalNQWHQ2YXR1bnkwdlQ1NUNPaXJjWUJGdXROcy1tOWN3N0tobnBhOGdDUHdZMDFxNWw4NWZGUjVXVU92ZU1fbXh6cExkX1NI?oc=5",
+          "description": "Clausura: Cerro derrotó 1-0 a Danubio en Jardines y lo dejó en zona de descenso &nbsp;&nbsp; Montevideo Portal",
+          "pub_date": "2026-08-09T15:54:00+00:00",
+          "score": 1,
+          "score_reason": "Enfoque informativo en el resultado y consecuencia para Danubio",
+          "score_pct": 10
+        },
+        {
+          "source_id": "espectador",
+          "source_name": "El Espectador",
+          "source_short": "ESP",
+          "source_color": "#1565C0",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.espectador.com",
+          "title": "Cerro derrotó 1-0 a Danubio y salió de la zona de descenso | Noticias | Futbol Uruguayo",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUFAtdkI1WnV6TXBUbW83QTQ4VjR1QnJXbGNlN3VqdUM0dE9vRk5CZTU1OHpWQ3R4WGwtZ0VSeFoyOE9UX1Vxc1J5REI5TjVqbEFQazhXWEE4NXVST0xwZTBDU2hYWHlZSG5NZURlRmJ1LWxHai1NZ19yN3FYaU1LR1VhbWx5OExaUnJxM0xCeENEU2NkTmk5S09YU0tKcDFCbC00aWZtb3M?oc=5",
+          "description": "Cerro derrotó 1-0 a Danubio y salió de la zona de descenso | Noticias | Futbol Uruguayo &nbsp;&nbsp; espectador.com",
+          "pub_date": "2026-08-09T16:04:28+00:00",
+          "score": 1,
+          "score_reason": "Presentación neutral del resultado y consecuencia para Cerro",
+          "score_pct": 10
+        }
+      ],
+      "analysis": {
+        "resumen": "Cerro derrotó 1-0 a Danubio en el estadio Jardines del Hipódromo por el Torneo Clausura del fútbol uruguayo. El resultado modificó la tabla de promedios: Cerro salió de la zona de descenso, mientras que Danubio ingresó a los puestos de descenso. El partido se disputó en la cancha de Danubio y el único gol permitió a Cerro sumar tres puntos fundamentales en la lucha por la permanencia en Primera División.",
+        "coincidencias": [
+          "Cerro venció 1-0 a Danubio",
+          "El partido se jugó en el estadio Jardines del Hipódromo",
+          "El resultado modificó posiciones en la tabla de descenso"
+        ],
+        "diferencias": [
+          "Montevideo Portal enfatiza que Danubio quedó en zona de descenso",
+          "El Espectador destaca que Cerro salió de la zona de descenso",
+          "Ambos priorizan la consecuencia para equipos diferentes según su enfoque"
+        ]
+      }
+    },
+    {
+      "id": "story_004",
+      "topic": "Lacalle Pou en aniversario del Partido Nacional",
+      "category": "Política",
+      "sources_count": 2,
+      "headlines": [
+        {
+          "source_id": "subrayado",
+          "source_name": "Subrayado",
+          "source_short": "SB",
+          "source_color": "#E65100",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.subrayado.com.uy",
+          "title": "Lacalle Pou en acto por 190 años del Partido Nacional: \"Estoy tranquilo, satisfecho, no conforme; el fin último fue el bienestar de todos\"",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQ3JULVNxcTAtU3NLNkpfRmJPVFRGUW53Wms2V216N29kS1FCRHYza3Bhakc0ZkxuNEtIYkliMkpUNW1zck9HU0Zyb0h2MTZDM2VuTTlvaHgwR1A1UWRrYVRrLWFDRUgtUzRtWmk1R1B0NF9XR0k0SG9oMWQxTzd4MkVVQzduSmRqVGh1TEVrN045TFJmM2l2dE1mYVZTQnZsc08wQURncVJIN1dqTjFvdDYzLXQ5OXZLdDBMWHo4TldHUXQxVXcwYnIxMTVCMi1GaUpUem1LR1R0MmFxcnp4Q0hMZ3JRY3g1b2RPSlRaYklod9IB9wFBVV95cUxQVnl6UFozR0FDUHpPZ21ZWDFKRDBMckROeVBoQ2hPbTFNeW9udmpWVm9IY2JhTEY4c3ZZVEhQb1pqd2kyNjdnVlJxX0ZqZjVqVFNKYno2TGRwSzhlbnI5MVp6OUhTTmR3ZURPSjRQcFVxSXRZVUdIMXltYnpMRlgtY0lrWWhhMFhieEpfNWVValI3NXJoSUNoX0FMSi1CNV9Ja1RpYUF3cHZfQkNReDdEZEFhRnlhdHg0Wl8zV2ZOV1lDXzVyRVk0ZGllMUJaMGVJZWVCZmFodkZPLVVwdmtiRV9tang2QUxST2VHcVVEbnhSbXBQTUNZ?oc=5",
+          "description": "Lacalle Pou en acto por 190 años del Partido Nacional: \"Estoy tranquilo, satisfecho, no conforme; el fin último fue el bienestar de todos\" &nbsp;&nbsp; subrayado.com.uy",
+          "pub_date": "2026-08-09T16:17:00+00:00",
+          "score": 2,
+          "score_reason": "Reproduce declaraciones textuales sin editorializar ni añadir interpretaciones.",
+          "score_pct": 20
+        },
+        {
+          "source_id": "grupor",
+          "source_name": "Grupo R Multimedio",
+          "source_short": "GRM",
+          "source_color": "#6A1B9A",
+          "source_text_color": "#FFFFFF",
+          "source_url": "https://www.grupormultimedio.com",
+          "title": "El Partido Nacional llega a sus 190 años entre la expectativa por el mensaje de Lacalle Pou y el futuro de la coalición",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT2dzQl9pLXB4RS1WYlJyTzZZaHc5Qk1HWlV6ZVE4dWsySmNLWWNPenNuc1A4bW40ei14N2lrT09zOXliS2NhMEMwbGpKaEpFbzF2LWliQkwxb2NWSFl4UEVzMFNWYTl1dVh1akpPWlZ6UmpnbVRUbjMzb3NhRXMwRlRXVF81dUF5MzdNTmxwMkdoR2NUNEYzQzBCSm9sUEE0VHdnOTR5b3VsY0k1WUxYQWowODY5SzNraHQxNkhvLWk2dEFNWDVNNzFHVWtMQlNfNTBKeDk3VFJhU0FfYnl5VEdlclRQcXItMHFTUHZrZw?oc=5",
+          "description": "El Partido Nacional llega a sus 190 años entre la expectativa por el mensaje de Lacalle Pou y el futuro de la coalición &nbsp;&nbsp; Diario La R",
+          "pub_date": "2026-08-09T05:12:01+00:00",
           "score": 3,
-          "score_reason": "Agrega interpretación subjetiva con 'quiere copas' al resultado objetivo",
+          "score_reason": "Enfatiza expectativa y futuro político, agregando leve contexto interpretativo.",
           "score_pct": 30
         }
       ],
       "analysis": {
-        "resumen": "Central Español venció 1-0 a Progreso en el Parque Palermo por la primera fecha del Torneo Clausura del fútbol uruguayo. El partido se disputó en la cancha de Central Español y significó el inicio de la segunda rueda del campeonato de Primera División. El único gol del encuentro le otorgó los tres puntos al equipo local, que comienza así su participación en el Clausura con una victoria.",
+        "resumen": "El Partido Nacional celebró su 190° aniversario con un acto en el que el presidente Luis Lacalle Pou ofreció un discurso. En sus declaraciones, Lacalle Pou afirmó estar \"tranquilo, satisfecho, no conforme\" y señaló que el fin último de su gestión fue \"el bienestar de todos\". El acto generó expectativa tanto por el mensaje del mandatario como por las definiciones respecto al futuro de la coalición de gobierno. La celebración del aniversario coincide con un momento político en el que se discute la continuidad y proyección de la alianza multipartidaria que gobierna Uruguay.",
         "coincidencias": [
-          "Central Español ganó 1-0 a Progreso",
-          "El partido correspondió a la primera fecha del Clausura",
-          "El encuentro se jugó en el Parque Palermo"
+          "El Partido Nacional celebró su 190° aniversario",
+          "Lacalle Pou dio un mensaje en el acto",
+          "Hay interés por el futuro de la coalición"
         ],
         "diferencias": [
-          "Montevideo Portal añade aspiraciones del equipo ('quiere copas'), El Espectador solo informa resultado",
-          "Montevideo Portal enfatiza la localía y ambición, El Espectador mantiene tono neutral"
+          "Subrayado centra en declaraciones directas de Lacalle Pou sobre su gestión",
+          "Grupo R enfoca en la expectativa política y el futuro coalicionista",
+          "Grupo R contextualiza el acto en clave de proyección futura"
         ]
       }
     }
